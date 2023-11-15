@@ -15,6 +15,10 @@ Then, to reproduce the GPT-3.5 baseline, run:
 ```python logfile_to_csv.py```
 
 
+## View trajectories on Zeno ML platform
+https://hub.zenoml.com/project/72c536c2-f0ae-4b6f-a208-33c5c1093b7e/WebArena%20Tester/explore?params=eyJtb2RlbCI6ImdwdDMuNSIsIm1ldHJpYyI6eyJpZCI6OTAxMCwibmFtZSI6InN1Y2Nlc3MiLCJ0eXBlIjoibWVhbiIsImNvbHVtbnMiOlsic3VjY2VzcyJdfSwiY29tcGFyaXNvbkNvbHVtbiI6eyJpZCI6ImI3YzdmYzMzLTYyYWUtNDYzYi05OTdmLWM5NDgzNzRlMjc5OCIsIm5hbWUiOiIjIG9mIGNsaWNrcyIsImNvbHVtblR5cGUiOiJGRUFUVVJFIiwiZGF0YVR5cGUiOiJDT05USU5VT1VTIiwibW9kZWwiOiJncHQzLjUifSwiY29tcGFyZVNvcnQiOltudWxsLHRydWVdLCJtZXRyaWNSYW5nZSI6WzAsMV0sInNlbGVjdGlvbnMiOnsibWV0YWRhdGEiOnt9LCJzbGljZXMiOltdLCJ0YWdzIjpbXX19
+
+
 ## Launch LLaMA-2-70B Server
 
 The default arguments are to host LLaMA-2-70B at half precision (fp16) on a server with 4 GPUs. To do so, run:
