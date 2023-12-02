@@ -1,0 +1,49 @@
+Tab 0 (current): New Project · GitLab | Tab 1: GitLab.org / project-templates / android · GitLab | Tab 2: GitLab.org / project-templates / android · GitLab
+
+[1932] RootWebArea 'New Project · GitLab' focused: True
+	[2187] link 'Skip to content'
+	[3237] link 'Dashboard'
+	[3305] button '' hasPopup: menu expanded: False
+	[1944] textbox 'Search GitLab' required: False
+	[3494] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[3311] link 'Create new...' expanded: False
+	[3313] link 'Issues'
+		[3398] generic '13 assigned issues'
+	[3314] link 'Merge requests'
+		[3400] generic '8 merge requests'
+	[3316] link 'To-Do List'
+		[3416] generic 'Todos count'
+			[3515] StaticText '5'
+	[3317] link 'Help'
+	[3319] link 'Byte Blaze'
+		[3450] img 'Byte Blaze'
+	[1948] main ''
+		[3689] heading 'Create from template'
+		[3694] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+		[3691] navigation 'Breadcrumb'
+			[3709] link 'New project'
+			[3710] link 'Create from template'
+		[3712] StaticText 'Learn how to '
+		[3713] link 'contribute to the built-in templates'
+		[5594] StaticText 'Template'
+		[6065] StaticText 'Android'
+		[5614] button 'Change template'
+		[5582] StaticText 'Project name'
+		[5637] textbox 'Project name' focused: True required: True
+		[5666] StaticText 'Project URL'
+		[5625] group ''
+			[5690] generic 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/'
+			[5579] button '\u200ecrew\u200e' hasPopup: menu expanded: False
+				[5606] generic 'crew'
+		[5636] StaticText 'Project slug'
+		[5650] textbox 'Project slug' required: True
+		[5630] StaticText 'Want to organize several dependent projects under the same namespace? '
+		[5658] link 'Create a group.'
+		[5669] StaticText 'Project description '
+		[5591] StaticText '(optional)'
+		[5663] textbox 'Project description (optional)' required: False
+		[5641] StaticText 'Visibility Level '
+		[5597] link 'Documentation for Visibility Level'
+		[5686] radio ' Private Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.' checked: false
+		[5682] radio ' Internal The project can be accessed by any logged in user except external users.' checked: false
+		[5624] radio ' Public The project can be accessed without any authentication.' checked: true</pre><div>

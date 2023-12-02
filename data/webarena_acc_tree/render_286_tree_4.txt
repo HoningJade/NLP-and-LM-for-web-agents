@@ -1,0 +1,47 @@
+Tab 0 (current): Advanced Search
+
+[6778] RootWebArea 'Advanced Search' focused: True
+	[8047] link 'My Account'
+	[8045] link 'My Wish List'
+	[8049] link 'Sign Out'
+	[8052] StaticText 'Welcome to One Stop Market'
+	[7987] link 'Skip to Content'
+	[7996] link 'store logo'
+		[8055] img 'one_stop_market_logo'
+	[8056] link '\ue611 My Cart'
+	[8841] StaticText 'Search'
+	[6789] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+	[8844] link 'Advanced Search'
+	[8125] button 'Search' disabled: True
+	[7887] tablist '' multiselectable: False orientation: horizontal
+		[7889] tabpanel ''
+			[6831] menu '' orientation: vertical
+				[7582] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+				[7647] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+				[7657] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+				[7671] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+				[7708] menuitem '\ue622 Office Products' hasPopup: menu
+				[7716] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+				[7721] menuitem '\ue622 Health & Household' hasPopup: menu
+				[7727] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+				[7732] menuitem '\ue622 Electronics' hasPopup: menu
+				[7793] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+				[7808] menuitem '\ue622 Video Games' hasPopup: menu
+				[7821] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+	[8018] link 'Home '
+	[8021] StaticText 'Catalog Advanced Search'
+	[6790] main ''
+		[8022] heading 'Advanced Search'
+		[6794] group 'Search Settings'
+			[8098] StaticText 'Product Name'
+			[6797] textbox 'Product Name' required: False
+				[8845] StaticText 'SSD hard drive 1TB'
+			[8101] StaticText 'SKU'
+			[6800] textbox 'SKU' required: False
+			[8104] StaticText 'Description'
+			[6803] textbox 'Description' required: False
+			[8107] StaticText 'Short Description'
+			[6806] textbox 'Short Description' required: False
+			[8110] StaticText 'Price'
+			[6812] textbox 'Price' required: False
+			[6816] textbox 'USD' required: False</pre><div>

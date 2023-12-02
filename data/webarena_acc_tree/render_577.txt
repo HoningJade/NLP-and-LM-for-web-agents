@@ -1,0 +1,762 @@
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[270] link 'Skip to content'
+
+[386] link 'Dashboard'
+
+[462] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1733] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[468] link 'Create new...'
+
+[470] link 'Issues'
+
+[1298] generic '13 assigned issues'
+
+[471] link 'Merge requests'
+
+[1300] generic '8 merge requests'
+
+[473] link 'To-Do List'
+
+[1316] generic 'Todos count'
+
+[1754] StaticText '5'
+
+[474] link 'Help'
+
+[476] link 'Byte Blaze'
+
+[1350] img 'Byte Blaze'
+
+[17] main ''
+
+[371] heading 'Projects'
+
+[374] link 'New project'
+
+[478] link 'Yours 18'
+
+[479] link 'Starred 3'
+
+[480] link 'Explore'
+
+[481] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[438] button 'Name'
+
+[525] link 'All'
+
+[526] link 'Personal'
+
+[527] link 'A'
+
+[530] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[533] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[531] generic 'Public - The project can be accessed without any authentication.'
+
+[539] StaticText 'Owner'
+
+[1406] generic 'lipstick'
+
+[1764] StaticText '💄'
+
+[1407] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[551] link '1'
+
+[552] link '0'
+
+[553] link '0'
+
+[554] link '1'
+
+[563] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[564] StaticText '5 months ago'
+
+[565] link 'A'
+
+[568] heading 'Byte Blaze / a11y-webring.club'
+
+[571] link 'Byte Blaze / a11y-webring.club'
+
+[569] generic 'Public - The project can be accessed without any authentication.'
+
+[577] StaticText 'Owner'
+
+[1425] generic 'globe with meridians'
+
+[1765] StaticText '🌐'
+
+[1426] StaticText ' A webring for digital accessibility practitioners.'
+
+[589] link '2'
+
+[590] link '0'
+
+[591] link '1'
+
+[592] link '4'
+
+[601] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[602] StaticText '5 months ago'
+
+[603] link 'A'
+
+[606] heading 'The A11Y Project / a11yproject.com'
+
+[609] link 'The A11Y Project / a11yproject.com'
+
+[607] generic 'Public - The project can be accessed without any authentication.'
+
+[615] StaticText 'Maintainer'
+
+[1444] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[627] link '21'
+
+[628] link '0'
+
+[629] link '10'
+
+[630] link '40'
+
+[639] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[640] StaticText '5 months ago'
+
+[641] link 'A'
+
+[644] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[647] link 'Byte Blaze / accessible-html-content-patterns'
+
+[645] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[653] StaticText 'Owner'
+
+[1462] generic 'wheelchair symbol'
+
+[1766] StaticText '♿'
+
+[1463] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[665] link '1'
+
+[666] link '0'
+
+[667] link '0'
+
+[668] link '0'
+
+[677] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[678] StaticText '5 months ago'
+
+[679] link ''
+
+[682] heading 'Byte Blaze / cloud-to-butt'
+
+[685] link 'Byte Blaze / cloud-to-butt'
+
+[683] generic 'Public - The project can be accessed without any authentication.'
+
+[691] StaticText 'Owner'
+
+[703] link '0'
+
+[704] link '0'
+
+[705] link '0'
+
+[706] link '0'
+
+[715] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[716] StaticText '5 months ago'
+
+[717] link 'D'
+
+[720] heading 'Primer / design'
+
+[723] link 'Primer / design'
+
+[721] generic 'Public - The project can be accessed without any authentication.'
+
+[729] StaticText 'Developer'
+
+[1498] StaticText 'Primer Design Guidelines'
+
+[741] link '21'
+
+[742] link '0'
+
+[743] link '16'
+
+[744] link '21'
+
+[753] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[754] StaticText '5 months ago'
+
+[755] link 'D'
+
+[757] heading 'Byte Blaze / Do it myself'
+
+[760] link 'Byte Blaze / Do it myself'
+
+[758] generic 'Public - The project can be accessed without any authentication.'
+
+[766] StaticText 'Owner'
+
+[777] link '0'
+
+[778] link '0'
+
+[779] link '0'
+
+[780] link '0'
+
+[789] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[790] StaticText '4 days ago'</pre><div>
+
+[609]``` to go to the "The A11Y Project / a11yproject.com" project.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '609', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the GitLab dashboard. I need to navigate to the "GitHub timeline item management extension" project and add the users "abisubramanya27" and "lahwaacz" as maintainers. I can do this by clicking on the project name and then finding the option to add maintainers. In summary, the next action I will perform is ```click [609]``` to go to the "The A11Y Project / a11yproject.com" project.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [609] where [609] is [609] link 'The A11Y Project / a11yproject.com'</pre></div></div>
+
+[1778] RootWebArea 'The A11Y Project / a11yproject.com · GitLab' focused: True
+
+[1871] link 'Skip to content'
+
+[2056] link 'Dashboard'
+
+[2202] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3310] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2208] link 'Create new...'
+
+[2210] link 'Issues'
+
+[2533] generic '13 assigned issues'
+
+[2211] link 'Merge requests'
+
+[2535] generic '8 merge requests'
+
+[2213] link 'To-Do List'
+
+[2551] generic 'Todos count'
+
+[2214] link 'Help'
+
+[2216] link 'Byte Blaze'
+
+[2585] img 'Byte Blaze'
+
+[1872] complementary 'Project navigation'
+
+[2089] listitem 'a11yproject.com'
+
+[2218] link 'a11yproject.com'
+
+[2626] StaticText 'A'
+
+[2219] link 'Project information'
+
+[2221] link 'Repository'
+
+[2223] link 'Issues'
+
+[2691] StaticText '40'
+
+[2225] link 'Merge requests'
+
+[2720] StaticText '10'
+
+[2227] link 'CI/CD'
+
+[2229] link 'Security & Compliance'
+
+[2231] link 'Deployments'
+
+[2233] link 'Packages and registries'
+
+[2235] link 'Infrastructure'
+
+[2237] link 'Monitor'
+
+[2239] link 'Analytics'
+
+[2241] link 'Wiki'
+
+[2243] link 'Snippets'
+
+[2245] link 'Settings'
+
+[2008] button 'Collapse sidebar'
+
+[1876] alert '' live: assertive atomic: True relevant: additions text
+
+[1879] button 'Dismiss'
+
+[1880] alert '' live: assertive atomic: True relevant: additions text
+
+[2123] link 'Add SSH key'
+
+[2124] button "Don't show again"
+
+[1877] navigation 'Breadcrumbs'
+
+[2262] link 'The A11Y Project'
+
+[2264] link 'a11yproject.com'
+
+[1794] main ''
+
+[2025] heading 'a11yproject.com Public - The project can be accessed without any authentication.'
+
+[2028] generic 'Public - The project can be accessed without any authentication.'
+
+[2031] StaticText 'Project ID: 174 '
+
+[2032] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2034] link 'Leave project'
+
+[2142] button '' hasPopup: menu expanded: False
+
+[2037] button 'Unstar'
+
+[2038] link '21'
+
+[2147] link 'Fork'
+
+[2040] link '0'
+
+[2360] link '2,320 Commits'
+
+[2361] link '15 Branches'
+
+[2362] link '5 Tags'
+
+[2363] link '85.5 MB Project Storage'
+
+[2364] link '5 Releases'
+
+[2046] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[2048] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">51.8%</span>'
+
+[2049] generic '<span class="repository-language-bar-tooltip-language">SCSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">40.3%</span>'
+
+[2050] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.9%</span>'
+
+[2159] status '' live: polite atomic: True relevant: additions text
+
+[2160] generic 'Loading'
+
+[2970] button 'main' hasPopup: menu expanded: False
+
+[1848] navigation 'Files breadcrumb'
+
+[3420] link 'a11yproject.com'
+
+[3465] button 'Add to tree' hasPopup: menu expanded: False
+
+[2366] link 'Find file'
+
+[2371] link 'Web IDE'
+
+[2372] button 'Download'
+
+[2977] StaticText 'Select Archive Format'
+
+[2374] link 'Clone'
+
+[2397] link 'README'
+
+[2398] link 'Add LICENSE'
+
+[2399] link 'Add CHANGELOG'
+
+[2400] link 'Add CONTRIBUTING'
+
+[2401] link 'Enable Auto DevOps'
+
+[2402] link 'Add Kubernetes cluster'
+
+[2403] link 'Set up CI/CD'
+
+[2404] link 'Configure Integrations'
+
+[1866] table 'Loading files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3047] row ''
+
+[3048] columnheader 'Name' required: False
+
+[3049] columnheader 'Last commit' required: False
+
+[3050] columnheader 'Last update' required: False</pre><div>
+
+[609] where [609] is link 'The A11Y Project / a11yproject.com'</div>
+
+[1778] RootWebArea 'The A11Y Project / a11yproject.com · GitLab' focused: True
+
+[1871] link 'Skip to content'
+
+[2056] link 'Dashboard'
+
+[2202] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3310] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2208] link 'Create new...'
+
+[2210] link 'Issues'
+
+[2533] generic '13 assigned issues'
+
+[2211] link 'Merge requests'
+
+[2535] generic '8 merge requests'
+
+[2213] link 'To-Do List'
+
+[2551] generic 'Todos count'
+
+[2214] link 'Help'
+
+[2216] link 'Byte Blaze'
+
+[2585] img 'Byte Blaze'
+
+[1872] complementary 'Project navigation'
+
+[2089] listitem 'a11yproject.com'
+
+[2218] link 'a11yproject.com'
+
+[2626] StaticText 'A'
+
+[2219] link 'Project information'
+
+[2221] link 'Repository'
+
+[2223] link 'Issues'
+
+[2691] StaticText '40'
+
+[2225] link 'Merge requests'
+
+[2720] StaticText '10'
+
+[2227] link 'CI/CD'
+
+[2229] link 'Security & Compliance'
+
+[2231] link 'Deployments'
+
+[2233] link 'Packages and registries'
+
+[2235] link 'Infrastructure'
+
+[2237] link 'Monitor'
+
+[2239] link 'Analytics'
+
+[2241] link 'Wiki'
+
+[2243] link 'Snippets'
+
+[2245] link 'Settings'
+
+[2008] button 'Collapse sidebar'
+
+[1794] main ''
+
+[1866] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3708] row ''
+
+[3733] gridcell '.tours' required: False
+
+[4149] link '.tours'
+
+[3734] gridcell 'Add Jammies announcement (#1354)' required: False
+
+[4155] link 'Add Jammies announcement (#1354)'
+
+[3735] gridcell '1 year ago' required: False
+
+[4158] time 'Oct 6, 2021 9:21pm EDT'
+
+[3709] row ''
+
+[3736] gridcell '.vscode' required: False
+
+[4160] link '.vscode'
+
+[3737] gridcell 'Add some default settings & suggested extensions' required: False
+
+[4166] link 'Add some default settings & suggested extensions'
+
+[3738] gridcell '2 years ago' required: False
+
+[4169] time 'Jul 6, 2021 9:06pm EDT'
+
+[3710] row ''
+
+[3739] gridcell 'src' required: False
+
+[4171] link 'src'
+
+[3740] gridcell 'Update the-power-of-chatgpt-as-a-cognitive-accessibility-assistive-technology-for-traumatic-brain-injury-survivors.md' required: False
+
+[4177] link 'Update the-power-of-chatgpt-as-a-cognitive-accessibility-assistive-technology-for-traumatic-brain-injury-survivors.md'
+
+[3741] gridcell '5 months ago' required: False
+
+[4180] time 'Mar 13, 2023 9:04pm EDT'
+
+[3711] row ''
+
+[3742] gridcell '.editorconfig' required: False
+
+[4182] link '.editorconfig'
+
+[3743] gridcell 'Use tabs' required: False
+
+[4188] link 'Use tabs'
+
+[3744] gridcell '3 years ago' required: False
+
+[4191] time 'May 30, 2020 12:43pm EDT'
+
+[3712] row ''
+
+[3745] gridcell '.eleventy.js' required: False
+
+[4193] link '.eleventy.js'
+
+[3746] gridcell 'Initial draft of post collections feature (#1235)' required: False
+
+[4199] link 'Initial draft of post collections feature (#1235)'
+
+[3747] gridcell '1 year ago' required: False
+
+[4202] time 'Feb 7, 2022 11:20am EST'
+
+[3713] row ''
+
+[3748] gridcell '.gitignore' required: False
+
+[4204] link '.gitignore'
+
+[3749] gridcell 'Add initial batch of icons' required: False
+
+[4210] link 'Add initial batch of icons'
+
+[3750] gridcell '3 years ago' required: False
+
+[4213] time 'Apr 26, 2020 11:27pm EDT'
+
+[3714] row ''
+
+[3751] gridcell '.jshintignore' required: False
+
+[4215] link '.jshintignore'
+
+[3752] gridcell 'Fix misnamed polyfill file (#1045)' required: False
+
+[4221] link 'Fix misnamed polyfill file (#1045)'
+
+[3753] gridcell '3 years ago' required: False
+
+[4224] time 'Aug 3, 2020 11:49pm EDT'
+
+[3715] row ''
+
+[3754] gridcell '.jshintrc' required: False
+
+[4226] link '.jshintrc'
+
+[3755] gridcell 'Resolve JS and Style linting issues (#947)' required: False
+
+[4232] link 'Resolve JS and Style linting issues (#947)'
+
+[3756] gridcell '3 years ago' required: False
+
+[4235] time 'Jul 15, 2020 3:03pm EDT'
+
+[3716] row ''
+
+[3757] gridcell '.nvmrc' required: False
+
+[4237] link '.nvmrc'
+
+[3758] gridcell 'Align engines, nvmrc to 16' required: False
+
+[4243] link 'Align engines, nvmrc to 16'
+
+[3759] gridcell '2 years ago' required: False
+
+[4246] time 'Jun 25, 2021 5:34am EDT'
+
+[3717] row ''
+
+[3760] gridcell '.stylelintrc' required: False
+
+[4248] link '.stylelintrc'
+
+[4251] SvgRoot ''
+
+[4501] group 'stylelint-icon-white'
+
+[3761] gridcell 'Update stylelint' required: False
+
+[4254] link 'Update stylelint'
+
+[3762] gridcell '1 year ago' required: False
+
+[4257] time 'Mar 16, 2022 9:00pm EDT'
+
+[3718] row ''
+
+[3763] gridcell 'AUTHORS' required: False
+
+[4259] link 'AUTHORS'
+
+[3764] gridcell 'Add AUTHORS' required: False
+
+[4265] link 'Add AUTHORS'
+
+[3765] gridcell '4 years ago' required: False
+
+[4268] time 'Dec 23, 2018 5:25pm EST'
+
+[3719] row ''
+
+[3766] gridcell 'CNAME' required: False
+
+[4270] link 'CNAME'
+
+[3767] gridcell 'Updating CNAME' required: False
+
+[4276] link 'Updating CNAME'
+
+[3768] gridcell '10 years ago' required: False
+
+[4279] time 'Jan 14, 2013 4:57pm EST'
+
+[3720] row ''
+
+[3769] gridcell 'LICENSE-APLv2' required: False
+
+[4281] link 'LICENSE-APLv2'
+
+[3770] gridcell 'Create LICENSE-APLv2 (#661)' required: False
+
+[4287] link 'Create LICENSE-APLv2 (#661)'
+
+[3771] gridcell '4 years ago' required: False
+
+[4290] time 'Nov 17, 2018 5:24pm EST'
+
+[3721] row ''
+
+[3772] gridcell 'README.md' required: False
+
+[4292] link 'README.md'
+
+[3773] gridcell 'Update README.md' required: False
+
+[4298] link 'Update README.md'
+
+[3774] gridcell '6 months ago' required: False
+
+[4301] time 'Feb 27, 2023 8:54pm EST'
+
+[3722] row ''
+
+[3775] gridcell 'TECHNOLOGY.md' required: False
+
+[4303] link 'TECHNOLOGY.md'
+
+[3776] gridcell 'edited sentence in TECHNOLOGY.md (#1352)' required: False
+
+[4309] link 'edited sentence in TECHNOLOGY.md (#1352)'
+
+[3777] gridcell '1 year ago' required: False
+
+[4312] time 'Oct 7, 2021 3:57pm EDT'
+
+[3723] row ''
+
+[3778] gridcell 'TROUBLESHOOTING.md' required: False
+
+[4314] link 'TROUBLESHOOTING.md'
+
+[3779] gridcell 'Usability feedback (#1087)' required: False
+
+[4320] link 'Usability feedback (#1087)'
+
+[3780] gridcell '3 years ago' required: False
+
+[4323] time 'Aug 24, 2020 11:30pm EDT'
+
+[3724] row ''
+
+[3781] gridcell 'gulpfile.js' required: False
+
+[4325] link 'gulpfile.js'
+
+[3782] gridcell 'Begin working through richtext content' required: False
+
+[4331] link 'Begin working through richtext content'
+
+[3783] gridcell '1 year ago' required: False
+
+[4334] time 'Apr 6, 2022 11:19pm EDT'
+
+[3725] row ''
+
+[3784] gridcell 'jsconfig.json' required: False
+
+[4336] link 'jsconfig.json'
+
+[3785] gridcell 'Update project config' required: False
+
+[4342] link 'Update project config'
+
+[3786] gridcell '3 years ago' required: False
+
+[4345] time 'May 30, 2020 12:40pm EDT'</pre><div>
+

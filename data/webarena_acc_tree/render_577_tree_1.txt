@@ -1,0 +1,91 @@
+Tab 0 (current): The A11Y Project / a11yproject.com · GitLab
+
+[1778] RootWebArea 'The A11Y Project / a11yproject.com · GitLab' focused: True
+	[1871] link 'Skip to content'
+	[2056] link 'Dashboard'
+	[2202] button '' hasPopup: menu expanded: False
+	[1790] textbox 'Search GitLab' required: False
+	[3310] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[2208] link 'Create new...'
+	[2210] link 'Issues'
+		[2533] generic '13 assigned issues'
+	[2211] link 'Merge requests'
+		[2535] generic '8 merge requests'
+	[2213] link 'To-Do List'
+		[2551] generic 'Todos count'
+	[2214] link 'Help'
+	[2216] link 'Byte Blaze'
+		[2585] img 'Byte Blaze'
+	[1872] complementary 'Project navigation'
+		[2089] listitem 'a11yproject.com'
+			[2218] link 'a11yproject.com'
+				[2626] StaticText 'A'
+		[2219] link 'Project information'
+		[2221] link 'Repository'
+		[2223] link 'Issues'
+			[2691] StaticText '40'
+		[2225] link 'Merge requests'
+			[2720] StaticText '10'
+		[2227] link 'CI/CD'
+		[2229] link 'Security & Compliance'
+		[2231] link 'Deployments'
+		[2233] link 'Packages and registries'
+		[2235] link 'Infrastructure'
+		[2237] link 'Monitor'
+		[2239] link 'Analytics'
+		[2241] link 'Wiki'
+		[2243] link 'Snippets'
+		[2245] link 'Settings'
+		[2008] button 'Collapse sidebar'
+	[1876] alert '' live: assertive atomic: True relevant: additions text
+		[1879] button 'Dismiss'
+		[1880] alert '' live: assertive atomic: True relevant: additions text
+			[2123] link 'Add SSH key'
+			[2124] button "Don't show again"
+	[1877] navigation 'Breadcrumbs'
+		[2262] link 'The A11Y Project'
+		[2264] link 'a11yproject.com'
+	[1794] main ''
+		[2025] heading 'a11yproject.com Public - The project can be accessed without any authentication.'
+			[2028] generic 'Public - The project can be accessed without any authentication.'
+		[2031] StaticText 'Project ID: 174 '
+		[2032] button 'Copy project ID' live: polite atomic: False relevant: additions text
+		[2034] link 'Leave project'
+		[2142] button '' hasPopup: menu expanded: False
+		[2037] button 'Unstar'
+		[2038] link '21'
+		[2147] link 'Fork'
+		[2040] link '0'
+		[2360] link '2,320 Commits'
+		[2361] link '15 Branches'
+		[2362] link '5 Tags'
+		[2363] link '85.5 MB Project Storage'
+		[2364] link '5 Releases'
+		[2046] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+		[2048] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">51.8%</span>'
+		[2049] generic '<span class="repository-language-bar-tooltip-language">SCSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">40.3%</span>'
+		[2050] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.9%</span>'
+		[2159] status '' live: polite atomic: True relevant: additions text
+			[2160] generic 'Loading'
+		[2970] button 'main' hasPopup: menu expanded: False
+		[1848] navigation 'Files breadcrumb'
+			[3420] link 'a11yproject.com'
+			[3465] button 'Add to tree' hasPopup: menu expanded: False
+		[2366] link 'Find file'
+		[2371] link 'Web IDE'
+		[2372] button 'Download'
+			[2977] StaticText 'Select Archive Format'
+		[2374] link 'Clone'
+		[2397] link 'README'
+		[2398] link 'Add LICENSE'
+		[2399] link 'Add CHANGELOG'
+		[2400] link 'Add CONTRIBUTING'
+		[2401] link 'Enable Auto DevOps'
+		[2402] link 'Add Kubernetes cluster'
+		[2403] link 'Set up CI/CD'
+		[2404] link 'Configure Integrations'
+		[1866] table 'Loading files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+			[3047] row ''
+				[3048] columnheader 'Name' required: False
+				[3049] columnheader 'Last commit' required: False
+				[3050] columnheader 'Last update' required: False</pre><div>

@@ -1,0 +1,70 @@
+Tab 0 (current): Hunting & Fishing - Sports & Outdoors
+
+[2653] RootWebArea 'Hunting & Fishing - Sports & Outdoors' focused: True
+	[3915] link 'My Account'
+	[3913] link 'My Wish List'
+	[3917] link 'Sign Out'
+	[3920] StaticText 'Welcome to One Stop Market'
+	[3855] link 'Skip to Content'
+	[3864] link 'store logo'
+		[3923] img 'one_stop_market_logo'
+	[3924] link '\ue611 My Cart'
+	[4847] StaticText 'Search'
+	[2664] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+	[4850] link 'Advanced Search'
+	[4100] button 'Search' disabled: True
+	[3754] tablist '' multiselectable: False orientation: horizontal
+		[3756] tabpanel ''
+			[2698] menu '' orientation: vertical
+				[3449] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+				[3514] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+				[3524] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+				[3538] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+				[3575] menuitem '\ue622 Office Products' hasPopup: menu
+				[3583] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+				[3588] menuitem '\ue622 Health & Household' hasPopup: menu
+				[3594] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+				[3599] menuitem '\ue622 Electronics' hasPopup: menu
+				[3660] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+				[3675] menuitem '\ue622 Video Games' hasPopup: menu
+				[3688] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+	[3886] link 'Home '
+	[3888] link 'Sports & Outdoors '
+	[3891] StaticText 'Hunting & Fishing'
+	[2665] main ''
+		[3892] heading 'Hunting & Fishing Items 1-12 of 158'
+		[3949] StaticText 'View as'
+		[3947] strong 'Grid'
+		[3948] link 'View as \ue60b List'
+		[3933] StaticText 'Items '
+		[3935] StaticText '1'
+		[3936] StaticText '-'
+		[3938] StaticText '12'
+		[3939] StaticText ' of '
+		[3941] StaticText '158'
+		[4045] StaticText 'Sort By'
+		[2688] combobox 'Sort By' hasPopup: menu expanded: False
+		[3957] link '\ue613 Set Descending Direction'
+		[4805] link 'Image'
+			[4853] img 'Image'
+		[4807] link 'Image'
+			[4869] img 'Image'
+		[4809] link 'Image'
+			[4882] img 'Image'
+		[4811] link 'Image'
+			[4895] img 'Image'
+		[3981] StaticText 'Shop By'
+		[3982] heading 'Shopping Options'
+		[3983] DescriptionList ''
+			[3985] heading 'Category'
+			[3986] DescriptionListDetail ''
+				[5044] link 'Shooting( 147 item )'
+			[3987] heading 'Price'
+			[3988] DescriptionListDetail ''
+				[5045] link '$0.00 - $999.99( 149 item )'
+				[5046] link '$1,000.00 - $1,999.99( 2 item )'
+				[5047] link '$2,000.00 - $2,999.99( 2 item )'
+				[5048] link '$3,000.00 - $3,999.99( 2 item )'
+				[5049] link '$5,000.00 - $5,999.99( 1 item )'
+				[5050] link '$6,000.00 - $6,999.99( 1 item )'
+				[5051] link '$7,000.00 and above( 1 item )'</pre><div>

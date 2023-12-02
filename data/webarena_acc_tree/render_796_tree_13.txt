@@ -1,0 +1,69 @@
+Tab 0 (current): Checkout
+
+[12924] RootWebArea 'Checkout' focused: True
+	[12928] main ''
+		[13364] StaticText '101 S San Mateo Dr654 Aspen Road, House #3, Bost3 Oxford St, Cambridge, MA3 Oxford St, Cambridge, MA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA111 Magnolia Path, Atlanta, GA, 30303987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110on, MA, 02110'
+		[13369] StaticText 'California'
+		[13370] StaticText '94010'
+		[13373] link '6505551212'
+		[13297] button '+New Address'
+		[13255] StaticText 'Shipping Methods'
+		[13243] tabpanel ''
+			[13497] table ''
+				[13499] row ''
+					[13500] gridcell 'Fixed Flat Rate' required: False
+						[13501] radio 'Fixed Flat Rate' checked: true
+					[13514] gridcell '$80.00' required: False
+					[13515] gridcell 'Fixed' required: False
+					[13516] gridcell 'Flat Rate' required: False
+		[12935] tabpanel ''
+		[12964] dialog '' modal: False describedby: modal-content-5
+			[12972] tablist '' multiselectable: False orientation: horizontal
+				[12974] tabpanel ''
+					[13010] img 'Uttermost Volterra Crackled Taupe-Gray Ceramic Table Lamp'
+					[13195] LayoutTable ''
+						[13205] StaticText 'Qty'
+					[13015] img 'NOZE Rustic Coat Rack Wall Mounted Shelf with 4 Hooks, Hanging Entryway Organizer for Mug Coffee Cup, Holding Solid Wooden Shelf with 2 Baskets for Kitchen Living Room, Bathroom and Bedroom'
+					[13213] LayoutTable ''
+						[13229] StaticText '$122.97'
+					[13018] img 'Plus Size Lingerie for Women Sexy for Sex Naughty Eyelash Lace Bodysuit Naughty Mesh One Piece Teddy Bodysuit Outfits'
+					[13230] LayoutTable ''
+						[13476] StaticText 'Qty'
+						[13406] StaticText '$175.89'
+					[12984] tablist '' multiselectable: False orientation: horizontal
+						[12983] tab 'View Details\ue622' expanded: False selected: False
+					[13023] img 'HP Envy X360 2-in-1 13.3" FHD OLED Touch-Screen Laptop | 11th Generation Intel Core i7-1195G7 | 8GB DDR4 RAM | 512GB SSD | Backlit Keyboard | Fingerprint | Windows 11 Home | with USB3.0 HUB Bundle'
+					[13388] LayoutTable ''
+						[13432] StaticText '$1,999.98'
+	[13527] dialog 'Shipping Address' modal: False describedby: modal-content-11
+		[13573] heading 'Shipping Address'
+		[13530] button '\ue616 Close'
+		[13577] StaticText 'First Name'
+		[13537] textbox 'First Name*' focused: True required: True describedby: error-VJNF2RM
+			[13976] StaticText 'Emma231 Willow Way, Suite 100,Emma Chicago, IL, 606012EmmaEmmaEmmaEmma231231 Willow Way, Suite 100, Chicago, IL, 60601231 Willow Way, Suite 100, Chicago, IL, 60601Emma231 Willow Way, Suite 100, Chicago, IL, 6060131 Willow Way, Suite 100, Chicago, IL, 60601'
+		[13983] StaticText 'Please enter less or equal than 255 symbols.'
+		[13582] StaticText 'Last Name'
+		[13540] textbox 'Last Name*' required: True
+			[13977] StaticText 'LopezLopezLopez'
+		[13587] StaticText 'Company'
+		[13543] textbox 'Company' required: False
+		[13544] group 'Street Address *'
+			[13656] StaticText 'Street Address: Line 1'
+			[13548] textbox 'Street Address: Line 1' required: True
+			[13659] StaticText 'Street Address: Line 2'
+			[13551] textbox 'Street Address: Line 2' required: False
+		[13596] StaticText 'Country'
+		[13554] combobox 'Country*' hasPopup: menu expanded: False
+		[13603] StaticText 'State/Province'
+		[13557] combobox 'State/Province*' hasPopup: menu expanded: False
+		[13610] StaticText 'City'
+		[13563] textbox 'City*' required: True
+		[13615] StaticText 'Zip/Postal Code'
+		[13566] textbox 'Zip/Postal Code*' required: True
+		[13620] StaticText 'Phone Number'
+		[13569] textbox 'Phone Number*' required: True
+		[13628] StaticText 'Tooltip'
+		[13625] button 'Tooltip' hasPopup: menu expanded: False
+		[13636] contentinfo ''
+			[13637] button 'Ship Here'
+			[13638] button 'Cancel'</pre><div>

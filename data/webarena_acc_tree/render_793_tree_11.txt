@@ -1,0 +1,66 @@
+Tab 0 (current): Clothing, Shoes & Jewelry
+
+[15939] RootWebArea 'Clothing, Shoes & Jewelry' focused: True
+	[17198] link 'My Account'
+	[17196] link 'My Wish List'
+	[17200] link 'Sign Out'
+	[17203] StaticText 'Welcome to One Stop Market'
+	[17140] link 'Skip to Content'
+	[17149] link 'store logo'
+		[17206] img 'one_stop_market_logo'
+	[17207] link '\ue611 My Cart'
+	[18151] StaticText 'Search'
+	[15950] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+	[18154] link 'Advanced Search'
+	[17394] button 'Search' disabled: True
+	[17040] tablist '' multiselectable: False orientation: horizontal
+		[17042] tabpanel ''
+			[15984] menu '' orientation: vertical
+				[16735] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+				[16800] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+				[16810] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+				[16824] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+				[16861] menuitem '\ue622 Office Products' hasPopup: menu
+				[16869] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+				[16874] menuitem '\ue622 Health & Household' hasPopup: menu
+				[16880] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+				[16885] menuitem '\ue622 Electronics' hasPopup: menu
+				[16946] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+				[16961] menuitem '\ue622 Video Games' hasPopup: menu
+				[16974] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+	[17171] link 'Home '
+	[17174] StaticText 'Clothing, Shoes & Jewelry'
+	[15951] main ''
+		[17175] heading 'Clothing, Shoes & Jewelry Items 1-12 of 7648'
+		[17230] StaticText 'View as'
+		[17228] strong 'Grid'
+		[17229] link 'View as \ue60b List'
+		[17214] StaticText 'Items '
+		[17217] StaticText '-'
+		[17219] StaticText '12'
+		[17220] StaticText ' of '
+		[17222] StaticText '7648'
+		[17333] StaticText 'Sort By'
+		[15974] combobox 'Sort By' hasPopup: menu expanded: False
+		[17238] link '\ue613 Set Descending Direction'
+		[18099] link 'Image'
+			[18157] img 'Image'
+		[18101] link 'Image'
+			[18170] img 'Image'
+		[18103] link 'Image'
+			[18183] img 'Image'
+		[18105] link 'Image'
+			[18196] img 'Image'
+		[17262] StaticText 'Shop By'
+		[17267] heading 'Now Shopping by'
+		[18129] StaticText 'Category'
+		[17369] StaticText 'Men'
+		[17370] link 'Remove This Item'
+		[17271] link 'Clear All'
+		[17265] heading 'Shopping Options'
+		[17266] DescriptionList ''
+			[17273] heading 'Category'
+			[17274] DescriptionListDetail ''
+				[18339] link 'Clothing( 4561 item )'
+				[18340] link 'Shoes( 2523 item )'
+				[18341] link 'Uniforms, Work & Safety( 416 item )'</pre><div>

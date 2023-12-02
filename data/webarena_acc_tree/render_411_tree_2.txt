@@ -1,0 +1,36 @@
+Tab 0 (current): byteblaze/cloud-to-butt · Search · GitLab
+
+[1787] RootWebArea 'byteblaze/cloud-to-butt · Search · GitLab' focused: True
+	[1837] link 'Skip to content'
+	[1949] link 'Dashboard'
+	[2005] button '' hasPopup: menu expanded: False
+	[2011] link 'Create new...'
+	[2013] link 'Issues'
+		[2168] generic '13 assigned issues'
+	[2014] link 'Merge requests'
+		[2170] generic '8 merge requests'
+	[2016] link 'To-Do List'
+		[2186] generic 'Todos count'
+			[2299] StaticText '5'
+	[2017] link 'Help'
+	[2019] link 'Byte Blaze'
+		[2220] img 'Byte Blaze'
+	[1793] main ''
+		[1939] heading 'Search'
+		[1986] StaticText 'What are you searching for?'
+		[1798] group ''
+			[1799] searchbox 'Search for projects, issues, etc.'
+				[2258] StaticText 'byteblaze/cloud-to-butt'
+			[1987] button 'Clear'
+			[2027] button 'Search'
+		[1990] StaticText 'Group'
+		[1991] button 'Any' hasPopup: menu expanded: False
+		[1993] StaticText 'Project'
+		[1994] button 'Any' hasPopup: menu expanded: False
+		[1941] separator '' orientation: horizontal
+		[2271] link 'Projects 0'
+		[2272] link 'Issues 0'
+		[2273] link 'Merge requests 0'
+		[2274] link 'Milestones 0'
+		[2275] link 'Users 0'
+		[1998] heading " We couldn't find any projects matching byteblaze/cloud-to-butt"</pre><div>

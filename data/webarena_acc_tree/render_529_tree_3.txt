@@ -1,0 +1,48 @@
+Tab 0 (current): One Stop Market
+
+[1] RootWebArea 'One Stop Market' focused: True
+	[1264] link 'My Account'
+	[1262] link 'My Wish List'
+	[1266] link 'Sign Out'
+	[1269] StaticText 'Welcome to One Stop Market'
+	[1181] link 'Skip to Content'
+	[1190] link 'store logo'
+		[1272] img 'one_stop_market_logo'
+	[1273] link '\ue611 My Cart'
+	[2427] StaticText 'Search'
+	[12] combobox '\ue615 Search' focused: True autocomplete: both hasPopup: listbox required: False expanded: True
+	[2430] link 'Advanced Search'
+	[1588] button 'Search' disabled: True
+	[1083] tablist '' multiselectable: False orientation: horizontal
+		[1085] tabpanel ''
+			[27] menu '' orientation: vertical
+				[778] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+				[843] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+				[853] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+				[867] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+				[904] menuitem '\ue622 Office Products' hasPopup: menu
+				[912] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+				[917] menuitem '\ue622 Health & Household' hasPopup: menu
+				[923] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+				[928] menuitem '\ue622 Electronics' hasPopup: menu
+				[989] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+				[1004] menuitem '\ue622 Video Games' hasPopup: menu
+				[1017] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+	[1118] main ''
+		[1212] heading 'One Stop Market'
+		[1223] StaticText 'Product Showcases'
+		[1290] link 'Image'
+			[1485] img 'Image'
+		[1486] link 'Pre-baked Gingerbread House Kit Value Pack, 17 oz., Pack of 2, Total 34 oz.'
+		[1278] link 'Image'
+			[1282] img 'Image'
+		[1491] link 'V8 +Energy, Healthy Energy Drink, Steady Energy from Black and Green Tea, Pomegranate Blueberry, 8 Ounce Can ,Pack of 24'
+		[1285] link 'Image'
+			[1289] img 'Image'
+		[1496] link 'Elmwood Inn Fine Teas, Orange Vanilla Caffeine-free Fruit Infusion, 16-Ounce Pouch'
+		[1306] link 'Image'
+			[1310] img 'Image'
+		[1501] link 'Belle Of The Ball Princess Sprinkle Mix| Wedding Colorful Sprinkles| Cake Cupcake Cookie Sprinkles| Ice cream Candy Sprinkles| Yellow Gold Red Royal Red Rose Icing Flowers Decorating Sprinkles, 8OZ'
+		[1325] link 'Image'
+			[1329] img 'Image'
+		[1510] link 'So Delicious Dairy Free CocoWhip Light, Vegan, Non-GMO Project Verified, 9 oz. Tub'</pre><div>

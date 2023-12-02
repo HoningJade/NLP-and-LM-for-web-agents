@@ -1,0 +1,35 @@
+Tab 0 (current): web_agent_android · Search · GitLab
+
+[4274] RootWebArea 'web_agent_android · Search · GitLab' focused: True
+	[4324] link 'Skip to content'
+	[4436] link 'Dashboard'
+	[4492] button '' hasPopup: menu expanded: False
+	[4498] link 'Create new...'
+	[4500] link 'Issues'
+		[4655] generic '13 assigned issues'
+	[4501] link 'Merge requests'
+		[4657] generic '8 merge requests'
+	[4503] link 'To-Do List'
+		[4673] generic 'Todos count'
+	[4504] link 'Help'
+	[4506] link 'Byte Blaze'
+		[4707] img 'Byte Blaze'
+	[4280] main ''
+		[4426] heading 'Search'
+		[4473] StaticText 'What are you searching for?'
+		[4285] group ''
+			[4286] searchbox 'Search for projects, issues, etc.'
+				[4745] StaticText 'web_agent_android'
+			[4474] button 'Clear'
+			[4514] button 'Search'
+		[4477] StaticText 'Group'
+		[4478] button 'Any' hasPopup: menu expanded: False
+		[4480] StaticText 'Project'
+		[4481] button 'Any' hasPopup: menu expanded: False
+		[4428] separator '' orientation: horizontal
+		[4758] link 'Projects 0'
+		[4759] link 'Issues 3'
+		[4760] link 'Merge requests 0'
+		[4761] link 'Milestones 0'
+		[4762] link 'Users 0'
+		[4485] heading " We couldn't find any projects matching web_agent_android"</pre><div>

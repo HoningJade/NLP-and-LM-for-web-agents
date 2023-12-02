@@ -1,0 +1,157 @@
+Tab 0 (current): Commits · main · Administrator / metaseq · GitLab
+
+[7305] RootWebArea 'Commits · main · Administrator / metaseq · GitLab' focused: True
+	[7749] link 'Skip to content'
+	[7875] link 'Dashboard'
+	[7977] button '' hasPopup: menu expanded: False
+	[7317] textbox 'Search GitLab' required: False
+	[8897] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[7983] link 'Create new...'
+	[7985] link 'Issues'
+		[8278] generic '13 assigned issues'
+	[7986] link 'Merge requests'
+		[8280] generic '8 merge requests'
+	[7988] link 'To-Do List'
+		[8296] generic 'Todos count'
+			[8918] StaticText '5'
+	[7989] link 'Help'
+	[7991] link 'Byte Blaze'
+		[8330] img 'Byte Blaze'
+	[7750] complementary 'Project navigation'
+		[7908] listitem 'metaseq'
+			[7993] link 'metaseq'
+				[8371] StaticText 'M'
+		[7994] link 'Project information'
+		[7996] link 'Repository'
+		[8937] link 'Files'
+		[8938] link 'Commits'
+		[8939] link 'Branches'
+		[8940] link 'Tags'
+		[8941] link 'Contributors'
+		[8942] link 'Graph'
+		[8943] link 'Compare'
+		[7998] link 'Issues'
+			[8412] StaticText '95'
+		[8000] link 'Merge requests'
+		[8002] link 'CI/CD'
+		[8004] link 'Deployments'
+		[8006] link 'Packages and registries'
+		[8008] link 'Monitor'
+		[8010] link 'Analytics'
+		[8012] link 'Wiki'
+		[8014] link 'Snippets'
+		[7866] button 'Collapse sidebar'
+	[7754] navigation 'Breadcrumbs'
+		[8031] link 'Administrator'
+		[8033] link 'metaseq'
+		[8035] link 'Commits'
+	[7321] main ''
+		[8036] button 'main' hasPopup: menu expanded: False
+		[8037] link 'metaseq'
+		[8038] button 'Author' hasPopup: menu expanded: False
+		[7328] searchbox 'Search by message'
+		[7948] link 'Commits feed'
+		[8046] StaticText '09 Feb, 2023'
+		[8049] StaticText '3 commits'
+		[9033] link "Nikolay Bashlykov's avatar"
+			[9754] img "Nikolay Bashlykov's avatar"
+		[9034] link 'Simplify inheritance layers (#639)'
+		[9036] button 'Toggle commit description'
+		[9041] link 'Nikolay Bashlykov'
+		[9042] StaticText ' authored '
+		[7601] time 'Feb 9, 2023 3:32pm EST'
+			[9759] StaticText '6 months ago'
+		[7352] button 'Loading'
+			[7353] status 'Loading' live: polite atomic: True relevant: additions text
+				[9760] generic 'Loading'
+		[9761] StaticText '905f355e'
+		[9056] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[9057] link 'Browse Files'
+		[9058] link "Nikolay Bashlykov's avatar"
+			[9764] img "Nikolay Bashlykov's avatar"
+		[9059] link 'remove zero_sharding code (#645)'
+		[9061] button 'Toggle commit description'
+		[9066] link 'Nikolay Bashlykov'
+		[9067] StaticText ' authored '
+		[7604] time 'Feb 9, 2023 3:31pm EST'
+			[9769] StaticText '6 months ago'
+		[7357] button 'Loading'
+			[7358] status 'Loading' live: polite atomic: True relevant: additions text
+				[9770] generic 'Loading'
+		[9771] StaticText '0431ab28'
+		[9081] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[9082] link 'Browse Files'
+		[9083] link "Guillaume Klein's avatar"
+			[9774] img "Guillaume Klein's avatar"
+		[9084] link 'Community: Add the CTranslate2 integration (#644)'
+		[9088] link 'Guillaume Klein'
+		[9089] StaticText ' authored '
+		[7607] time 'Feb 9, 2023 1:50pm EST'
+			[9776] StaticText '6 months ago'
+		[7362] button 'Loading'
+			[7363] status 'Loading' live: polite atomic: True relevant: additions text
+				[9777] generic 'Loading'
+		[9778] StaticText 'b7e32b6b'
+		[9093] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[9094] link 'Browse Files'
+		[8051] StaticText '04 Feb, 2023'
+		[8054] StaticText '1 commit'
+		[9095] link "Nikolay Bashlykov's avatar"
+			[9781] img "Nikolay Bashlykov's avatar"
+		[9096] link 'Unify-transformer_lm_megatron-and-transformer_lm (#634)'
+		[9098] button 'Toggle commit description'
+		[9103] link 'Nikolay Bashlykov'
+		[9104] StaticText ' authored '
+		[7610] time 'Feb 4, 2023 7:12am EST'
+			[9786] StaticText '7 months ago'
+		[7369] button 'Loading'
+			[7370] status 'Loading' live: polite atomic: True relevant: additions text
+				[9787] generic 'Loading'
+		[9788] StaticText '51871bd7'
+		[9118] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[9119] link 'Browse Files'
+		[8056] StaticText '03 Feb, 2023'
+		[8059] StaticText '3 commits'
+		[9120] link "Binh Tang's avatar"
+			[9791] img "Binh Tang's avatar"
+		[9121] link 'Update CODEOWNERS (#635)'
+		[9123] button 'Toggle commit description'
+		[9128] link 'Binh Tang'
+		[9129] StaticText ' authored '
+		[7613] time 'Feb 3, 2023 4:56pm EST'
+			[9796] StaticText '7 months ago'
+		[7376] button 'Loading'
+			[7377] status 'Loading' live: polite atomic: True relevant: additions text
+				[9797] generic 'Loading'
+		[9798] StaticText '5c819d7a'
+		[9143] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[9144] link 'Browse Files'
+		[9145] link "Susan Zhang's avatar"
+			[9801] img "Susan Zhang's avatar"
+		[9146] link 'update codeowners (#631)'
+		[9150] link 'Susan Zhang'
+		[9151] StaticText ' authored '
+		[7616] time 'Feb 3, 2023 5:01am EST'
+			[9803] StaticText '7 months ago'
+		[7381] button 'Loading'
+			[7382] status 'Loading' live: polite atomic: True relevant: additions text
+				[9804] generic 'Loading'
+		[9805] StaticText 'ac7f6a03'
+		[9155] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[9156] link 'Browse Files'
+		[9157] link "Nikolay Bashlykov's avatar"
+			[9808] img "Nikolay Bashlykov's avatar"
+		[9158] link 'Merging model_parallel with models (#626)'
+		[9160] button 'Toggle commit description'
+		[9165] link 'Nikolay Bashlykov'
+		[9166] StaticText ' authored '
+		[7619] time 'Feb 3, 2023 5:00am EST'
+			[9813] StaticText '7 months ago'
+		[7386] button 'Loading'
+			[7387] status 'Loading' live: polite atomic: True relevant: additions text
+				[9814] generic 'Loading'
+		[9815] StaticText '41e70f20'
+		[9180] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[9181] link 'Browse Files'
+		[8061] StaticText '02 Feb, 2023'
+		[8064] StaticText '1 commit'</pre><div>

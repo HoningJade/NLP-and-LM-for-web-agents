@@ -1,0 +1,4010 @@
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[294] link 'Skip to content'
+
+[416] link 'Dashboard'
+
+[498] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1887] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[504] link 'Create new...'
+
+[506] link 'Issues'
+
+[1412] generic '13 assigned issues'
+
+[507] link 'Merge requests'
+
+[1414] generic '8 merge requests'
+
+[509] link 'To-Do List'
+
+[1430] generic 'Todos count'
+
+[510] link 'Help'
+
+[512] link 'Byte Blaze'
+
+[1464] img 'Byte Blaze'
+
+[17] main ''
+
+[395] heading 'Projects'
+
+[398] link 'New project'
+
+[514] link 'Yours 23'
+
+[515] link 'Starred 3'
+
+[516] link 'Explore'
+
+[517] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[468] button 'Name'
+
+[561] link 'All'
+
+[562] link 'Personal'
+
+[563] link 'A'
+
+[566] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[569] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[567] generic 'Public - The project can be accessed without any authentication.'
+
+[575] StaticText 'Owner'
+
+[1520] generic 'lipstick'
+
+[1918] StaticText '💄'
+
+[1521] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[587] link '1'
+
+[588] link '0'
+
+[589] link '0'
+
+[590] link '1'
+
+[599] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[600] StaticText '5 months ago'
+
+[601] link 'A'
+
+[604] heading 'Byte Blaze / a11y-webring.club'
+
+[607] link 'Byte Blaze / a11y-webring.club'
+
+[605] generic 'Public - The project can be accessed without any authentication.'
+
+[613] StaticText 'Owner'
+
+[1539] generic 'globe with meridians'
+
+[1919] StaticText '🌐'
+
+[1540] StaticText ' A webring for digital accessibility practitioners.'
+
+[625] link '2'
+
+[626] link '0'
+
+[627] link '1'
+
+[628] link '4'
+
+[637] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[638] StaticText '5 months ago'
+
+[639] link 'A'
+
+[642] heading 'The A11Y Project / a11yproject.com'
+
+[645] link 'The A11Y Project / a11yproject.com'
+
+[643] generic 'Public - The project can be accessed without any authentication.'
+
+[651] StaticText 'Maintainer'
+
+[1558] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[663] link '21'
+
+[664] link '0'
+
+[665] link '10'
+
+[666] link '40'
+
+[675] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[676] StaticText '5 months ago'
+
+[677] link 'A'
+
+[680] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[683] link 'Byte Blaze / accessible-html-content-patterns'
+
+[681] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[689] StaticText 'Owner'
+
+[1576] generic 'wheelchair symbol'
+
+[1920] StaticText '♿'
+
+[1577] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[701] link '1'
+
+[702] link '0'
+
+[703] link '0'
+
+[704] link '0'
+
+[713] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[714] StaticText '5 months ago'
+
+[715] link 'A'
+
+[717] heading 'crew / awesome_web_agents'
+
+[720] link 'crew / awesome_web_agents'
+
+[718] generic 'Public - The project can be accessed without any authentication.'
+
+[726] StaticText 'Owner'
+
+[737] link '0'
+
+[738] link '0'
+
+[739] link '0'
+
+[740] link '0'
+
+[749] StaticText 'Updated '
+
+[83] time 'Sep 12, 2023 2:11am EDT'
+
+[750] StaticText '1 hour ago'
+
+[751] link ''
+
+[754] heading 'Byte Blaze / cloud-to-butt'
+
+[757] link 'Byte Blaze / cloud-to-butt'
+
+[755] generic 'Public - The project can be accessed without any authentication.'
+
+[763] StaticText 'Owner'
+
+[775] link '0'
+
+[776] link '0'
+
+[777] link '0'
+
+[778] link '0'
+
+[787] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 7:22pm EDT'
+
+[788] StaticText '5 months ago'
+
+[789] link 'D'
+
+[792] heading 'Primer / design'
+
+[795] link 'Primer / design'
+
+[793] generic 'Public - The project can be accessed without any authentication.'
+
+[801] StaticText 'Developer'
+
+[1629] StaticText 'Primer Design Guidelines'
+
+[813] link '21'
+
+[814] link '0'
+
+[815] link '16'
+
+[816] link '21'
+
+[825] StaticText 'Updated '
+
+[107] time 'Mar 27, 2023 5:04pm EDT'
+
+[826] StaticText '5 months ago'</pre><div>
+
+[645]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the dashboard of GitLab. It contains a list of projects. We need to find the project related to the issue and assign it to the specified user. \n\nBased on the observation, the project "Byte Blaze / a11yproject.com" seems to be related to the "404" issue in the "a11yproject". To assign the issue, we need to go to the project\'s page and find the issue there. \n\nIn summary, the next action I will perform is `click [645]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[294] link 'Skip to content'
+
+[416] link 'Dashboard'
+
+[498] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1887] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[504] link 'Create new...'
+
+[506] link 'Issues'
+
+[1412] generic '13 assigned issues'
+
+[507] link 'Merge requests'
+
+[1414] generic '8 merge requests'
+
+[509] link 'To-Do List'
+
+[1430] generic 'Todos count'
+
+[510] link 'Help'
+
+[512] link 'Byte Blaze'
+
+[1464] img 'Byte Blaze'
+
+[17] main ''
+
+[395] heading 'Projects'
+
+[398] link 'New project'
+
+[514] link 'Yours 23'
+
+[515] link 'Starred 3'
+
+[516] link 'Explore'
+
+[517] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[468] button 'Name'
+
+[561] link 'All'
+
+[562] link 'Personal'
+
+[563] link 'A'
+
+[566] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[569] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[567] generic 'Public - The project can be accessed without any authentication.'
+
+[575] StaticText 'Owner'
+
+[1520] generic 'lipstick'
+
+[1918] StaticText '💄'
+
+[1521] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[587] link '1'
+
+[588] link '0'
+
+[589] link '0'
+
+[590] link '1'
+
+[599] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[600] StaticText '5 months ago'
+
+[601] link 'A'
+
+[604] heading 'Byte Blaze / a11y-webring.club'
+
+[607] link 'Byte Blaze / a11y-webring.club'
+
+[605] generic 'Public - The project can be accessed without any authentication.'
+
+[613] StaticText 'Owner'
+
+[1539] generic 'globe with meridians'
+
+[1919] StaticText '🌐'
+
+[1540] StaticText ' A webring for digital accessibility practitioners.'
+
+[625] link '2'
+
+[626] link '0'
+
+[627] link '1'
+
+[628] link '4'
+
+[637] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[638] StaticText '5 months ago'
+
+[639] link 'A'
+
+[642] heading 'The A11Y Project / a11yproject.com'
+
+[645] link 'The A11Y Project / a11yproject.com'
+
+[643] generic 'Public - The project can be accessed without any authentication.'
+
+[651] StaticText 'Maintainer'
+
+[1558] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[663] link '21'
+
+[664] link '0'
+
+[665] link '10'
+
+[666] link '40'
+
+[675] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[676] StaticText '5 months ago'
+
+[677] link 'A'
+
+[680] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[683] link 'Byte Blaze / accessible-html-content-patterns'
+
+[681] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[689] StaticText 'Owner'
+
+[1576] generic 'wheelchair symbol'
+
+[1920] StaticText '♿'
+
+[1577] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[701] link '1'
+
+[702] link '0'
+
+[703] link '0'
+
+[704] link '0'
+
+[713] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[714] StaticText '5 months ago'
+
+[715] link 'A'
+
+[717] heading 'crew / awesome_web_agents'
+
+[720] link 'crew / awesome_web_agents'
+
+[718] generic 'Public - The project can be accessed without any authentication.'
+
+[726] StaticText 'Owner'
+
+[737] link '0'
+
+[738] link '0'
+
+[739] link '0'
+
+[740] link '0'
+
+[749] StaticText 'Updated '
+
+[83] time 'Sep 12, 2023 2:11am EDT'
+
+[750] StaticText '1 hour ago'
+
+[751] link ''
+
+[754] heading 'Byte Blaze / cloud-to-butt'
+
+[757] link 'Byte Blaze / cloud-to-butt'
+
+[755] generic 'Public - The project can be accessed without any authentication.'
+
+[763] StaticText 'Owner'
+
+[775] link '0'
+
+[776] link '0'
+
+[777] link '0'
+
+[778] link '0'
+
+[787] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 7:22pm EDT'
+
+[788] StaticText '5 months ago'
+
+[789] link 'D'
+
+[792] heading 'Primer / design'
+
+[795] link 'Primer / design'
+
+[793] generic 'Public - The project can be accessed without any authentication.'
+
+[801] StaticText 'Developer'
+
+[1629] StaticText 'Primer Design Guidelines'
+
+[813] link '21'
+
+[814] link '0'
+
+[815] link '16'
+
+[816] link '21'
+
+[825] StaticText 'Updated '
+
+[107] time 'Mar 27, 2023 5:04pm EDT'
+
+[826] StaticText '5 months ago'</pre><div>
+
+[645]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[645]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '645', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the dashboard of GitLab. It contains a list of projects. We need to find the project related to the issue and assign it to the specified user.\n\nBased on the observation, the project "Byte Blaze / a11yproject.com" seems to be related to the "404" issue in the "a11yproject". To assign the issue, we need to go to the project\'s page and find the issue there.\n\nIn summary, the next action I will perform is ```click [645]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [645] where [645] is [645] link 'The A11Y Project / a11yproject.com'</pre></div></div>
+
+[1932] RootWebArea 'The A11Y Project / a11yproject.com · GitLab' focused: True
+
+[2084] link 'Skip to content'
+
+[2269] link 'Dashboard'
+
+[2434] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3579] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2440] link 'Create new...'
+
+[2442] link 'Issues'
+
+[2898] generic '13 assigned issues'
+
+[2443] link 'Merge requests'
+
+[2900] generic '8 merge requests'
+
+[2445] link 'To-Do List'
+
+[2916] generic 'Todos count'
+
+[2446] link 'Help'
+
+[2448] link 'Byte Blaze'
+
+[2950] img 'Byte Blaze'
+
+[2085] complementary 'Project navigation'
+
+[2302] listitem 'a11yproject.com'
+
+[2450] link 'a11yproject.com'
+
+[2991] StaticText 'A'
+
+[2451] link 'Project information'
+
+[2453] link 'Repository'
+
+[2455] link 'Issues'
+
+[3056] StaticText '40'
+
+[2457] link 'Merge requests'
+
+[3085] StaticText '10'
+
+[2459] link 'CI/CD'
+
+[2461] link 'Security & Compliance'
+
+[2463] link 'Deployments'
+
+[2465] link 'Packages and registries'
+
+[2467] link 'Infrastructure'
+
+[2469] link 'Monitor'
+
+[2471] link 'Analytics'
+
+[2473] link 'Wiki'
+
+[2475] link 'Snippets'
+
+[2477] link 'Settings'
+
+[2221] button 'Collapse sidebar'
+
+[2089] alert '' live: assertive atomic: True relevant: additions text
+
+[2092] button 'Dismiss'
+
+[2093] alert '' live: assertive atomic: True relevant: additions text
+
+[2336] link 'Add SSH key'
+
+[2337] button "Don't show again"
+
+[2090] navigation 'Breadcrumbs'
+
+[2494] link 'The A11Y Project'
+
+[2496] link 'a11yproject.com'
+
+[1948] main ''
+
+[2238] heading 'a11yproject.com Public - The project can be accessed without any authentication.'
+
+[2241] generic 'Public - The project can be accessed without any authentication.'
+
+[2244] StaticText 'Project ID: 174 '
+
+[2245] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2247] link 'Leave project'
+
+[2355] button '' hasPopup: menu expanded: False
+
+[2250] button 'Unstar'
+
+[2251] link '21'
+
+[2360] link 'Fork'
+
+[2253] link '0'
+
+[2592] link '2,320 Commits'
+
+[2593] link '15 Branches'
+
+[2594] link '5 Tags'
+
+[2595] link '85.5 MB Project Storage'
+
+[2596] link '5 Releases'
+
+[2259] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[2261] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">51.8%</span>'
+
+[2262] generic '<span class="repository-language-bar-tooltip-language">SCSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">40.3%</span>'
+
+[2263] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.9%</span>'
+
+[2374] img 'user avatar'
+
+[2378] link 'Update...'
+
+[2379] button 'Toggle commit description'
+
+[2384] StaticText 'Eric Bailey authored '
+
+[2385] time 'Mar 13, 2023 9:04pm EDT'
+
+[2600] StaticText '5 months ago'
+
+[2389] button 'Unverified'
+
+[2388] group ''
+
+[2603] StaticText 'ed37a2f2'
+
+[2391] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3338] button 'main' hasPopup: menu expanded: False
+
+[1988] navigation 'Files breadcrumb'
+
+[3963] link 'a11yproject.com'
+
+[4284] button 'Add to tree' hasPopup: menu expanded: False
+
+[2608] link 'Find file'
+
+[2613] link 'Web IDE'
+
+[2614] button 'Download'
+
+[3345] StaticText 'Select Archive Format'
+
+[2616] link 'Clone'
+
+[2639] link 'README'
+
+[2640] link 'Add LICENSE'
+
+[2641] link 'Add CHANGELOG'
+
+[2642] link 'Add CONTRIBUTING'
+
+[2643] link 'Enable Auto DevOps'
+
+[2644] link 'Add Kubernetes cluster'
+
+[2645] link 'Set up CI/CD'
+
+[2646] link 'Configure Integrations'
+
+[2006] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3415] row ''
+
+[3416] columnheader 'Name' required: False
+
+[3417] columnheader 'Last commit' required: False
+
+[3418] columnheader 'Last update' required: False
+
+[3419] row ''
+
+[3442] gridcell '.github' required: False
+
+[4001] link '.github'
+
+[3443] gridcell 'Update issue templates' required: False
+
+[4007] link 'Update issue templates'
+
+[3444] gridcell '1 year ago' required: False
+
+[4010] time 'Oct 12, 2021 2:46pm EDT'
+
+[3420] row ''
+
+[3445] gridcell '.tours' required: False
+
+[4012] link '.tours'
+
+[3446] gridcell 'Add Jammies announcement (#1354)' required: False
+
+[4018] link 'Add Jammies announcement (#1354)'
+
+[3447] gridcell '1 year ago' required: False
+
+[4021] time 'Oct 6, 2021 9:21pm EDT'</pre><div>
+
+[645] where [645] is link 'The A11Y Project / a11yproject.com'</div>
+
+[2442] which corresponds to the "Issues" link.
+
+[2442]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2442', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. I see that the objective is to assign the issue regarding 404 in a11yproject to Roshanjossey. I need to find the issue and assign it to the specified person.\n\nLooking at the observation, I don\'t see any specific information related to issues. It seems like I need to navigate to the "Issues" section first. I can do this by clicking on the link with ID [2442] which corresponds to the "Issues" link.\n\nIn summary, the next action I will perform is ```click [2442]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2442] where [2442] is [2442] link 'Issues'</pre></div></div>
+
+[4458] RootWebArea 'Issues · Dashboard · GitLab' focused: True
+
+[4654] link 'Skip to content'
+
+[4775] link 'Dashboard'
+
+[4825] button '' hasPopup: menu expanded: False
+
+[4470] textbox 'Search GitLab' required: False
+
+[5802] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4831] link 'Create new...'
+
+[4833] link 'Issues'
+
+[5219] generic '13 assigned issues'
+
+[4834] link 'Merge requests'
+
+[5221] generic '8 merge requests'
+
+[4836] link 'To-Do List'
+
+[5237] generic 'Todos count'
+
+[4837] link 'Help'
+
+[4839] link 'Byte Blaze'
+
+[5271] img 'Byte Blaze'
+
+[4474] main ''
+
+[4754] heading 'Issues'
+
+[4808] link 'Select project to create issue'
+
+[4809] button 'Toggle project select'
+
+[4810] link 'Open 13'
+
+[4811] link 'Closed 53'
+
+[4812] link 'All 66'
+
+[4761] link 'Subscribe to RSS feed'
+
+[4762] link 'Subscribe to calendar'
+
+[4865] button 'Recent searches'
+
+[4487] button 'Assignee = Byte Blaze'
+
+[5925] button ''
+
+[4485] textbox '' required: False
+
+[4820] button ''
+
+[4771] group ''
+
+[4907] button 'Created date' hasPopup: listbox
+
+[4822] link 'Sort direction'
+
+[4912] link '[Feature suggestion] Support linking to an accessibility statement'
+
+[4914] StaticText '\xa0 1 of 3 checklist items completed'
+
+[4916] StaticText 'byteblaze/a11y-webring.club#71 '
+
+[4917] StaticText '· created '
+
+[4501] time 'Feb 2, 2023 4:51pm EST'
+
+[5650] StaticText '7 months ago'
+
+[4918] StaticText ' by '
+
+[4919] link 'Rohan Kumar'
+
+[4920] StaticText ' \xa0 '
+
+[4922] link 'being discussed'
+
+[4924] link 'feature'
+
+[5657] link 'Assigned to Byte Blaze'
+
+[5658] link ' 1'
+
+[4928] StaticText 'updated '
+
+[4505] time 'Mar 27, 2023 4:17pm EDT'
+
+[5659] StaticText '5 months ago'
+
+[4931] link '[Feature suggestion] WCAG trash panda mode'
+
+[4933] StaticText '\xa0 1 of 3 checklist items completed'
+
+[4935] StaticText 'byteblaze/a11y-webring.club#39 '
+
+[4936] StaticText '· created '
+
+[4511] time 'Jan 22, 2023 2:23pm EST'
+
+[5661] StaticText '7 months ago'
+
+[4937] StaticText ' by '
+
+[4938] link 'Byte Blaze'
+
+[4939] StaticText ' \xa0 '
+
+[4941] link 'feature'
+
+[4943] link 'help wanted'
+
+[5668] link 'Assigned to Byte Blaze'
+
+[5669] link ' 0'
+
+[4947] StaticText 'updated '
+
+[4515] time 'Mar 27, 2023 4:17pm EDT'
+
+[5670] StaticText '5 months ago'
+
+[4950] link '[Feature suggestion] Add a submission form'
+
+[4952] StaticText '\xa0 1 of 3 checklist items completed'
+
+[4954] StaticText 'byteblaze/a11y-webring.club#30 '
+
+[4955] StaticText '· created '
+
+[4521] time 'Jan 20, 2023 3:16pm EST'
+
+[5672] StaticText '7 months ago'
+
+[4956] StaticText ' by '
+
+[4957] link 'Byte Blaze'
+
+[4958] StaticText ' \xa0 '
+
+[4960] link 'feature'
+
+[5677] link 'Assigned to Byte Blaze'
+
+[5678] link ' 0'
+
+[4964] StaticText 'updated '
+
+[4525] time 'Mar 27, 2023 4:17pm EDT'
+
+[5679] StaticText '5 months ago'
+
+[4967] link '[Feature suggestion] Color theme slider'
+
+[4969] StaticText '\xa0 1 of 3 checklist items completed'
+
+[4971] StaticText 'byteblaze/a11y-webring.club#21 '
+
+[4972] StaticText '· created '
+
+[4531] time 'Jan 18, 2023 10:58pm EST'
+
+[5681] StaticText '7 months ago'
+
+[4973] StaticText ' by '
+
+[4974] link 'Byte Blaze'
+
+[4975] StaticText ' \xa0 '
+
+[4977] link 'feature'
+
+[4979] link 'help wanted'
+
+[5688] link 'Assigned to Byte Blaze'
+
+[5689] link ' 0'
+
+[4983] StaticText 'updated '
+
+[4535] time 'Mar 27, 2023 4:17pm EDT'
+
+[5690] StaticText '5 months ago'
+
+[4986] link 'Link to WCAG 2.1 instead of 2.0?'
+
+[4988] StaticText 'a11yproject/a11yproject.com#1460 '
+
+[4989] StaticText '· created '
+
+[4541] time 'Aug 11, 2022 12:10pm EDT'
+
+[5692] StaticText '1 year ago'
+
+[4990] StaticText ' by '
+
+[4991] link 'Byte Blaze'
+
+[4992] StaticText ' \xa0 '
+
+[4994] link 'claimed'
+
+[4996] link 'content'
+
+[5699] link 'Assigned to Byte Blaze'
+
+[5700] link ' 0'
+
+[5000] StaticText 'updated '
+
+[4545] time 'Mar 23, 2023 4:42am EDT'
+
+[5701] StaticText '5 months ago'
+
+[5003] link 'The process for writing for us is both scattered and buried'
+
+[5005] StaticText 'a11yproject/a11yproject.com#1360 '
+
+[5006] StaticText '· created '
+
+[4551] time 'Oct 10, 2021 8:35pm EDT'
+
+[5703] StaticText '1 year ago'
+
+[5007] StaticText ' by '
+
+[5008] link 'Byte Blaze'
+
+[5009] StaticText ' \xa0 '
+
+[5011] link 'content'
+
+[5013] link 'design'
+
+[5710] link 'Assigned to Byte Blaze'
+
+[5711] link ' 2'
+
+[5017] StaticText 'updated '
+
+[4555] time 'Mar 23, 2023 4:41am EDT'
+
+[5712] StaticText '5 months ago'
+
+[5020] link 'Non-Github contribution guidelines need clarification'
+
+[5022] StaticText 'a11yproject/a11yproject.com#1294 '
+
+[5023] StaticText '· created '
+
+[4561] time 'Jun 16, 2021 10:18pm EDT'
+
+[5714] StaticText '2 years ago'
+
+[5024] StaticText ' by '
+
+[5025] link 'Byte Blaze'
+
+[5026] StaticText ' \xa0 '
+
+[5028] link 'claimed'
+
+[5030] link 'content'
+
+[5721] link 'Assigned to Byte Blaze'
+
+[5722] link ' 2'
+
+[5034] StaticText 'updated '
+
+[4565] time 'Mar 23, 2023 4:41am EDT'
+
+[5723] StaticText '5 months ago'
+
+[5037] link 'Outdated dependencies'
+
+[5039] StaticText 'byteblaze/empathy-prompts#18 '
+
+[5040] StaticText '· created '
+
+[4571] time 'Jun 1, 2021 8:52pm EDT'
+
+[5725] StaticText '2 years ago'
+
+[5041] StaticText ' by '
+
+[5042] link 'Byte Blaze'
+
+[5043] StaticText ' \xa0 '
+
+[5045] link '[Priority] Critical'
+
+[5047] link '[Status] Submitted'
+
+[5049] link '[Type] Bug'
+
+[5734] link 'Assigned to Byte Blaze'
+
+[5735] link ' 0'
+
+[5053] StaticText 'updated '
+
+[4575] time 'Mar 27, 2023 4:16pm EDT'
+
+[5736] StaticText '5 months ago'</pre><div>
+
+[2442] where [2442] is link 'Issues'</div>
+
+[5020]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to assign the issue regarding 404 in a11yproject to Roshanjossey. The issue can be found in the list of issues. The issue is titled "Non-Github contribution guidelines need clarification" and it was created by Byte Blaze. To assign it to Roshanjossey, I need to click on the issue, find the assignee section, and select Roshanjossey from the dropdown list. In summary, the next action I will perform is `click [5020]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[4458] RootWebArea 'Issues · Dashboard · GitLab' focused: True
+
+[4654] link 'Skip to content'
+
+[4775] link 'Dashboard'
+
+[4825] button '' hasPopup: menu expanded: False
+
+[4470] textbox 'Search GitLab' required: False
+
+[5802] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4831] link 'Create new...'
+
+[4833] link 'Issues'
+
+[5219] generic '13 assigned issues'
+
+[4834] link 'Merge requests'
+
+[5221] generic '8 merge requests'
+
+[4836] link 'To-Do List'
+
+[5237] generic 'Todos count'
+
+[4837] link 'Help'
+
+[4839] link 'Byte Blaze'
+
+[5271] img 'Byte Blaze'
+
+[4474] main ''
+
+[4754] heading 'Issues'
+
+[4808] link 'Select project to create issue'
+
+[4809] button 'Toggle project select'
+
+[4810] link 'Open 13'
+
+[4811] link 'Closed 53'
+
+[4812] link 'All 66'
+
+[4761] link 'Subscribe to RSS feed'
+
+[4762] link 'Subscribe to calendar'
+
+[4865] button 'Recent searches'
+
+[4487] button 'Assignee = Byte Blaze'
+
+[5925] button ''
+
+[4485] textbox '' required: False
+
+[4820] button ''
+
+[4771] group ''
+
+[4907] button 'Created date' hasPopup: listbox
+
+[4822] link 'Sort direction'
+
+[4912] link '[Feature suggestion] Support linking to an accessibility statement'
+
+[4914] StaticText '\xa0 1 of 3 checklist items completed'
+
+[4916] StaticText 'byteblaze/a11y-webring.club#71 '
+
+[4917] StaticText '· created '
+
+[4501] time 'Feb 2, 2023 4:51pm EST'
+
+[5650] StaticText '7 months ago'
+
+[4918] StaticText ' by '
+
+[4919] link 'Rohan Kumar'
+
+[4920] StaticText ' \xa0 '
+
+[4922] link 'being discussed'
+
+[4924] link 'feature'
+
+[5657] link 'Assigned to Byte Blaze'
+
+[5658] link ' 1'
+
+[4928] StaticText 'updated '
+
+[4505] time 'Mar 27, 2023 4:17pm EDT'
+
+[5659] StaticText '5 months ago'
+
+[4931] link '[Feature suggestion] WCAG trash panda mode'
+
+[4933] StaticText '\xa0 1 of 3 checklist items completed'
+
+[4935] StaticText 'byteblaze/a11y-webring.club#39 '
+
+[4936] StaticText '· created '
+
+[4511] time 'Jan 22, 2023 2:23pm EST'
+
+[5661] StaticText '7 months ago'
+
+[4937] StaticText ' by '
+
+[4938] link 'Byte Blaze'
+
+[4939] StaticText ' \xa0 '
+
+[4941] link 'feature'
+
+[4943] link 'help wanted'
+
+[5668] link 'Assigned to Byte Blaze'
+
+[5669] link ' 0'
+
+[4947] StaticText 'updated '
+
+[4515] time 'Mar 27, 2023 4:17pm EDT'
+
+[5670] StaticText '5 months ago'
+
+[4950] link '[Feature suggestion] Add a submission form'
+
+[4952] StaticText '\xa0 1 of 3 checklist items completed'
+
+[4954] StaticText 'byteblaze/a11y-webring.club#30 '
+
+[4955] StaticText '· created '
+
+[4521] time 'Jan 20, 2023 3:16pm EST'
+
+[5672] StaticText '7 months ago'
+
+[4956] StaticText ' by '
+
+[4957] link 'Byte Blaze'
+
+[4958] StaticText ' \xa0 '
+
+[4960] link 'feature'
+
+[5677] link 'Assigned to Byte Blaze'
+
+[5678] link ' 0'
+
+[4964] StaticText 'updated '
+
+[4525] time 'Mar 27, 2023 4:17pm EDT'
+
+[5679] StaticText '5 months ago'
+
+[4967] link '[Feature suggestion] Color theme slider'
+
+[4969] StaticText '\xa0 1 of 3 checklist items completed'
+
+[4971] StaticText 'byteblaze/a11y-webring.club#21 '
+
+[4972] StaticText '· created '
+
+[4531] time 'Jan 18, 2023 10:58pm EST'
+
+[5681] StaticText '7 months ago'
+
+[4973] StaticText ' by '
+
+[4974] link 'Byte Blaze'
+
+[4975] StaticText ' \xa0 '
+
+[4977] link 'feature'
+
+[4979] link 'help wanted'
+
+[5688] link 'Assigned to Byte Blaze'
+
+[5689] link ' 0'
+
+[4983] StaticText 'updated '
+
+[4535] time 'Mar 27, 2023 4:17pm EDT'
+
+[5690] StaticText '5 months ago'
+
+[4986] link 'Link to WCAG 2.1 instead of 2.0?'
+
+[4988] StaticText 'a11yproject/a11yproject.com#1460 '
+
+[4989] StaticText '· created '
+
+[4541] time 'Aug 11, 2022 12:10pm EDT'
+
+[5692] StaticText '1 year ago'
+
+[4990] StaticText ' by '
+
+[4991] link 'Byte Blaze'
+
+[4992] StaticText ' \xa0 '
+
+[4994] link 'claimed'
+
+[4996] link 'content'
+
+[5699] link 'Assigned to Byte Blaze'
+
+[5700] link ' 0'
+
+[5000] StaticText 'updated '
+
+[4545] time 'Mar 23, 2023 4:42am EDT'
+
+[5701] StaticText '5 months ago'
+
+[5003] link 'The process for writing for us is both scattered and buried'
+
+[5005] StaticText 'a11yproject/a11yproject.com#1360 '
+
+[5006] StaticText '· created '
+
+[4551] time 'Oct 10, 2021 8:35pm EDT'
+
+[5703] StaticText '1 year ago'
+
+[5007] StaticText ' by '
+
+[5008] link 'Byte Blaze'
+
+[5009] StaticText ' \xa0 '
+
+[5011] link 'content'
+
+[5013] link 'design'
+
+[5710] link 'Assigned to Byte Blaze'
+
+[5711] link ' 2'
+
+[5017] StaticText 'updated '
+
+[4555] time 'Mar 23, 2023 4:41am EDT'
+
+[5712] StaticText '5 months ago'
+
+[5020] link 'Non-Github contribution guidelines need clarification'
+
+[5022] StaticText 'a11yproject/a11yproject.com#1294 '
+
+[5023] StaticText '· created '
+
+[4561] time 'Jun 16, 2021 10:18pm EDT'
+
+[5714] StaticText '2 years ago'
+
+[5024] StaticText ' by '
+
+[5025] link 'Byte Blaze'
+
+[5026] StaticText ' \xa0 '
+
+[5028] link 'claimed'
+
+[5030] link 'content'
+
+[5721] link 'Assigned to Byte Blaze'
+
+[5722] link ' 2'
+
+[5034] StaticText 'updated '
+
+[4565] time 'Mar 23, 2023 4:41am EDT'
+
+[5723] StaticText '5 months ago'
+
+[5037] link 'Outdated dependencies'
+
+[5039] StaticText 'byteblaze/empathy-prompts#18 '
+
+[5040] StaticText '· created '
+
+[4571] time 'Jun 1, 2021 8:52pm EDT'
+
+[5725] StaticText '2 years ago'
+
+[5041] StaticText ' by '
+
+[5042] link 'Byte Blaze'
+
+[5043] StaticText ' \xa0 '
+
+[5045] link '[Priority] Critical'
+
+[5047] link '[Status] Submitted'
+
+[5049] link '[Type] Bug'
+
+[5734] link 'Assigned to Byte Blaze'
+
+[5735] link ' 0'
+
+[5053] StaticText 'updated '
+
+[4575] time 'Mar 27, 2023 4:16pm EDT'
+
+[5736] StaticText '5 months ago'</pre><div>
+
+[5020]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[5020]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '5020', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to assign the issue regarding 404 in a11yproject to Roshanjossey. The issue can be found in the list of issues. The issue is titled "Non-Github contribution guidelines need clarification" and it was created by Byte Blaze. To assign it to Roshanjossey, I need to click on the issue, find the assignee section, and select Roshanjossey from the dropdown list. In summary, the next action I will perform is ```click [5020]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [5020] where [5020] is [5020] link 'Non-Github contribution guidelines need clarification'</pre></div></div>
+
+[5933] RootWebArea 'Non-Github contribution guidelines need clarification (#1294) · Issues · The A11Y Project / a11yproject.com · GitLab' focused: True busy: 1
+
+[5954] link 'Skip to content'
+
+[6015] link 'Dashboard'
+
+[6140] link ''
+
+[6921] textbox 'Search GitLab' required: False
+
+[6800] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6147] link 'Create new...'
+
+[6149] link 'Issues'
+
+[6320] generic '13 assigned issues'
+
+[6150] link 'Merge requests'
+
+[6322] generic '8 merge requests'
+
+[6152] link 'To-Do List'
+
+[6338] generic 'Todos count'
+
+[6153] link 'Help'
+
+[6155] link 'Byte Blaze'
+
+[6372] img 'Byte Blaze'
+
+[5956] complementary 'Project navigation'
+
+[6052] listitem 'a11yproject.com'
+
+[6157] link 'a11yproject.com'
+
+[6413] StaticText 'A'
+
+[6158] link 'Project information'
+
+[6160] link 'Repository'
+
+[6162] link 'Issues'
+
+[6478] StaticText '40'
+
+[6845] link 'Issues'
+
+[6924] StaticText 'List'
+
+[6846] link 'Boards'
+
+[6847] link 'Service Desk'
+
+[6848] link 'Milestones'
+
+[6164] link 'Merge requests'
+
+[6490] StaticText '10'
+
+[6166] link 'CI/CD'
+
+[6168] link 'Security & Compliance'
+
+[6170] link 'Deployments'
+
+[6172] link 'Packages and registries'
+
+[6174] link 'Infrastructure'
+
+[6176] link 'Monitor'
+
+[6178] link 'Analytics'
+
+[6180] link 'Wiki'
+
+[6182] link 'Snippets'
+
+[6184] link 'Settings'
+
+[5975] button 'Collapse sidebar'
+
+[5960] navigation 'Breadcrumbs'
+
+[6201] link 'The A11Y Project'
+
+[6203] link 'a11yproject.com'
+
+[6205] link 'Issues'
+
+[6207] link '#1294'
+
+[5939] main ''
+
+[6104] StaticText 'Open'
+
+[6109] StaticText 'Issue created '
+
+[6110] time 'Jun 17, 2021 2:18am'
+
+[6111] StaticText ' by'
+
+[6113] link 'Byte Blaze'
+
+[5987] generic 'This user has the maintainer role in the a11yproject.com project.'
+
+[6115] StaticText 'Maintainer'
+
+[5988] generic '1st contribution!'
+
+[6120] heading 'Non-Github contribution guidelines need clarification'
+
+[6126] StaticText 'Originating from a conversation with '
+
+[6127] link '@mxmason'
+
+[6128] StaticText '.'
+
+[6130] link 'Write for us'
+
+[6131] StaticText ' page. There are two issues with this from my perspective:'
+
+[5947] ListMarker '1. '
+
+[6215] StaticText 'The content is not on our '
+
+[6216] link 'Contributing Guidelines'
+
+[6217] StaticText ', or cross-linked there.'
+
+[5949] ListMarker '2. '
+
+[6218] StaticText 'The process is still too opaque to give a potential contributor an idea of what a non-Github content contribution process looks like.'
+
+[6132] StaticText 'We need to expand on this so it is more transparent and approachable. While we utilize Github as a method to run the site, it should not be a barrier for participation.'
+
+[6133] StaticText 'Ideally, part of this involves people who have contributed without using Github who would be willing to identify areas of confusion or friction.'
+
+[6219] button 'Checking branch availability…' disabled: True
+
+[5964] complementary 'issue' live: polite atomic: False relevant: additions text
+
+[6266] button 'Toggle sidebar'
+
+[6734] StaticText 'Assignee '
+
+[6735] status '' live: polite atomic: True relevant: additions text
+
+[6883] generic 'Loading'
+
+[6779] StaticText 'Time tracking '
+
+[6780] status '' live: polite atomic: True relevant: additions text
+
+[6884] generic 'Loading'
+
+[6788] button 'Move issue'</pre><div>
+
+[5020] where [5020] is link 'Non-Github contribution guidelines need clarification'</div>
+
+[6113]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '6113', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to assign the issue regarding 404 in a11yproject to Roshanjossey. Currently, I am on the issue page for "Non-Github contribution guidelines need clarification". I need to find the option to assign the issue to someone. I see a link with the username "Byte Blaze" who seems to be the creator of this issue. I can click on the link to find the option to assign the issue to someone. In summary, the next action I will perform is ```click [6113]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [6113] where [6113] is [6113] link 'Byte Blaze'</pre></div></div>
+
+[7093] RootWebArea 'Byte Blaze · GitLab' focused: True
+
+[7758] link 'Skip to content'
+
+[7861] link 'Dashboard'
+
+[7917] button '' hasPopup: menu expanded: False
+
+[7105] textbox 'Search GitLab' required: False
+
+[8222] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7923] link 'Create new...'
+
+[7925] link 'Issues'
+
+[8036] generic '13 assigned issues'
+
+[7926] link 'Merge requests'
+
+[8038] generic '8 merge requests'
+
+[7928] link 'To-Do List'
+
+[8054] generic 'Todos count'
+
+[7929] link 'Help'
+
+[7931] link 'Byte Blaze'
+
+[8088] img 'Byte Blaze'
+
+[7123] main ''
+
+[7933] link 'Edit profile'
+
+[7934] link 'Subscribe'
+
+[7938] link ''
+
+[7939] heading 'Byte Blaze'
+
+[8129] StaticText '@byteblaze '
+
+[8131] StaticText 'User ID: 2330 '
+
+[8132] button 'Copy user ID' live: polite atomic: False relevant: additions text
+
+[8134] StaticText 'Member since March 23, 2023'
+
+[8138] StaticText 'Boston, MA '
+
+[8143] StaticText '@github'
+
+[8148] link '2 followers '
+
+[8150] link '3 following'
+
+[7954] StaticText 'Inclusive design and accessibility advocate. Accessibility and design systems wonk for @primer.'
+
+[8271] link 'Overview'
+
+[8272] link 'Activity'
+
+[8273] link 'Groups'
+
+[8274] link 'Contributed projects'
+
+[8275] link 'Personal projects'
+
+[8276] link 'Starred projects'
+
+[8277] link 'Snippets'
+
+[8278] link 'Followers'
+
+[8279] link 'Following'
+
+[7133] SvgRoot ''
+
+[7135] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Sep 12, 2022</span>'
+
+[7136] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Sep 13, 2022</span>'
+
+[7137] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Sep 14, 2022</span>'
+
+[7138] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Sep 15, 2022</span>'
+
+[7139] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Sep 16, 2022</span>'
+
+[7140] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Sep 17, 2022</span>'
+
+[7142] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Sep 18, 2022</span>'
+
+[7143] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Sep 19, 2022</span>'
+
+[7144] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Sep 20, 2022</span>'
+
+[7145] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Sep 21, 2022</span>'
+
+[7146] graphics-symbol '3 contributions<br /><span class="gl-text-gray-300">Thursday Sep 22, 2022</span>'
+
+[7147] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Sep 23, 2022</span>'
+
+[7148] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Sep 24, 2022</span>'
+
+[7150] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Sep 25, 2022</span>'
+
+[7151] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Sep 26, 2022</span>'
+
+[7152] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Sep 27, 2022</span>'
+
+[7153] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Sep 28, 2022</span>'
+
+[7154] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Sep 29, 2022</span>'
+
+[7155] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Sep 30, 2022</span>'
+
+[7156] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Oct 1, 2022</span>'
+
+[7158] graphics-symbol '3 contributions<br /><span class="gl-text-gray-300">Sunday Oct 2, 2022</span>'
+
+[7159] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Oct 3, 2022</span>'
+
+[7160] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Oct 4, 2022</span>'
+
+[7161] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Oct 5, 2022</span>'
+
+[7162] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Oct 6, 2022</span>'
+
+[7163] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Oct 7, 2022</span>'
+
+[7164] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Oct 8, 2022</span>'
+
+[7166] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Oct 9, 2022</span>'
+
+[7167] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Oct 10, 2022</span>'
+
+[7168] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Oct 11, 2022</span>'
+
+[7169] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Wednesday Oct 12, 2022</span>'
+
+[7170] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Oct 13, 2022</span>'
+
+[7171] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Oct 14, 2022</span>'
+
+[7172] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Oct 15, 2022</span>'
+
+[7174] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Oct 16, 2022</span>'
+
+[7175] graphics-symbol '3 contributions<br /><span class="gl-text-gray-300">Monday Oct 17, 2022</span>'
+
+[7176] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Tuesday Oct 18, 2022</span>'
+
+[7177] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Oct 19, 2022</span>'
+
+[7178] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Oct 20, 2022</span>'
+
+[7179] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Oct 21, 2022</span>'
+
+[7180] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Oct 22, 2022</span>'
+
+[7182] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Oct 23, 2022</span>'
+
+[7183] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Oct 24, 2022</span>'
+
+[7184] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Oct 25, 2022</span>'
+
+[7185] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Wednesday Oct 26, 2022</span>'
+
+[7186] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Oct 27, 2022</span>'
+
+[7187] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Oct 28, 2022</span>'
+
+[7188] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Oct 29, 2022</span>'
+
+[7190] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Oct 30, 2022</span>'
+
+[7191] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Oct 31, 2022</span>'
+
+[7192] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Tuesday Nov 1, 2022</span>'
+
+[7193] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Nov 2, 2022</span>'
+
+[7194] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Nov 3, 2022</span>'
+
+[7195] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Nov 4, 2022</span>'
+
+[7196] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Nov 5, 2022</span>'
+
+[7198] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Nov 6, 2022</span>'
+
+[7199] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Nov 7, 2022</span>'
+
+[7200] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Nov 8, 2022</span>'
+
+[7201] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Nov 9, 2022</span>'
+
+[7202] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Nov 10, 2022</span>'
+
+[7203] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Nov 11, 2022</span>'
+
+[7204] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Nov 12, 2022</span>'
+
+[7206] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Nov 13, 2022</span>'
+
+[7207] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Nov 14, 2022</span>'
+
+[7208] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Nov 15, 2022</span>'
+
+[7209] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Nov 16, 2022</span>'
+
+[7210] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Nov 17, 2022</span>'
+
+[7211] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Nov 18, 2022</span>'
+
+[7212] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Saturday Nov 19, 2022</span>'
+
+[7214] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Nov 20, 2022</span>'
+
+[7215] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Nov 21, 2022</span>'
+
+[7216] graphics-symbol '2 contributions<br /><span class="gl-text-gray-300">Tuesday Nov 22, 2022</span>'
+
+[7217] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Nov 23, 2022</span>'
+
+[7218] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Nov 24, 2022</span>'
+
+[7219] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Nov 25, 2022</span>'
+
+[7220] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Nov 26, 2022</span>'
+
+[7222] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Nov 27, 2022</span>'
+
+[7223] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Nov 28, 2022</span>'
+
+[7224] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Nov 29, 2022</span>'
+
+[7225] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Nov 30, 2022</span>'
+
+[7226] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Dec 1, 2022</span>'
+
+[7227] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Dec 2, 2022</span>'
+
+[7228] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Dec 3, 2022</span>'
+
+[7230] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Dec 4, 2022</span>'
+
+[7231] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Dec 5, 2022</span>'
+
+[7232] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Dec 6, 2022</span>'
+
+[7233] graphics-symbol '2 contributions<br /><span class="gl-text-gray-300">Wednesday Dec 7, 2022</span>'
+
+[7234] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Dec 8, 2022</span>'
+
+[7235] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Dec 9, 2022</span>'
+
+[7236] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Dec 10, 2022</span>'
+
+[7238] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Dec 11, 2022</span>'
+
+[7239] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Dec 12, 2022</span>'
+
+[7240] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Dec 13, 2022</span>'
+
+[7241] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Dec 14, 2022</span>'
+
+[7242] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Thursday Dec 15, 2022</span>'
+
+[7243] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Dec 16, 2022</span>'
+
+[7244] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Dec 17, 2022</span>'
+
+[7246] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Dec 18, 2022</span>'
+
+[7247] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Dec 19, 2022</span>'
+
+[7248] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Dec 20, 2022</span>'
+
+[7249] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Dec 21, 2022</span>'
+
+[7250] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Dec 22, 2022</span>'
+
+[7251] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Dec 23, 2022</span>'
+
+[7252] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Dec 24, 2022</span>'
+
+[7254] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Dec 25, 2022</span>'
+
+[7255] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Dec 26, 2022</span>'
+
+[7256] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Dec 27, 2022</span>'
+
+[7257] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Dec 28, 2022</span>'
+
+[7258] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Dec 29, 2022</span>'
+
+[7259] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Dec 30, 2022</span>'
+
+[7260] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Dec 31, 2022</span>'
+
+[7262] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jan 1, 2023</span>'
+
+[7263] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jan 2, 2023</span>'
+
+[7264] graphics-symbol '4 contributions<br /><span class="gl-text-gray-300">Tuesday Jan 3, 2023</span>'
+
+[7265] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Wednesday Jan 4, 2023</span>'
+
+[7266] graphics-symbol '6 contributions<br /><span class="gl-text-gray-300">Thursday Jan 5, 2023</span>'
+
+[7267] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jan 6, 2023</span>'
+
+[7268] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jan 7, 2023</span>'
+
+[7270] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jan 8, 2023</span>'
+
+[7271] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jan 9, 2023</span>'
+
+[7272] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Tuesday Jan 10, 2023</span>'
+
+[7273] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Jan 11, 2023</span>'
+
+[7274] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Jan 12, 2023</span>'
+
+[7275] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jan 13, 2023</span>'
+
+[7276] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jan 14, 2023</span>'
+
+[7278] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Sunday Jan 15, 2023</span>'
+
+[7279] graphics-symbol '4 contributions<br /><span class="gl-text-gray-300">Monday Jan 16, 2023</span>'
+
+[7280] graphics-symbol '6 contributions<br /><span class="gl-text-gray-300">Tuesday Jan 17, 2023</span>'
+
+[7281] graphics-symbol '12 contributions<br /><span class="gl-text-gray-300">Wednesday Jan 18, 2023</span>'
+
+[7282] graphics-symbol '5 contributions<br /><span class="gl-text-gray-300">Thursday Jan 19, 2023</span>'
+
+[7283] graphics-symbol '3 contributions<br /><span class="gl-text-gray-300">Friday Jan 20, 2023</span>'
+
+[7284] graphics-symbol '3 contributions<br /><span class="gl-text-gray-300">Saturday Jan 21, 2023</span>'
+
+[7286] graphics-symbol '5 contributions<br /><span class="gl-text-gray-300">Sunday Jan 22, 2023</span>'
+
+[7287] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Monday Jan 23, 2023</span>'
+
+[7288] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Tuesday Jan 24, 2023</span>'
+
+[7289] graphics-symbol '7 contributions<br /><span class="gl-text-gray-300">Wednesday Jan 25, 2023</span>'
+
+[7290] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Thursday Jan 26, 2023</span>'
+
+[7291] graphics-symbol '7 contributions<br /><span class="gl-text-gray-300">Friday Jan 27, 2023</span>'
+
+[7292] graphics-symbol '2 contributions<br /><span class="gl-text-gray-300">Saturday Jan 28, 2023</span>'
+
+[7294] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jan 29, 2023</span>'
+
+[7295] graphics-symbol '3 contributions<br /><span class="gl-text-gray-300">Monday Jan 30, 2023</span>'
+
+[7296] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Tuesday Jan 31, 2023</span>'
+
+[7297] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Feb 1, 2023</span>'
+
+[7298] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Feb 2, 2023</span>'
+
+[7299] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Feb 3, 2023</span>'
+
+[7300] graphics-symbol '11 contributions<br /><span class="gl-text-gray-300">Saturday Feb 4, 2023</span>'
+
+[7302] graphics-symbol '2 contributions<br /><span class="gl-text-gray-300">Sunday Feb 5, 2023</span>'
+
+[7303] graphics-symbol '5 contributions<br /><span class="gl-text-gray-300">Monday Feb 6, 2023</span>'
+
+[7304] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Feb 7, 2023</span>'
+
+[7305] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Feb 8, 2023</span>'
+
+[7306] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Thursday Feb 9, 2023</span>'
+
+[7307] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Feb 10, 2023</span>'
+
+[7308] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Saturday Feb 11, 2023</span>'
+
+[7310] graphics-symbol '3 contributions<br /><span class="gl-text-gray-300">Sunday Feb 12, 2023</span>'
+
+[7311] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Monday Feb 13, 2023</span>'
+
+[7312] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Tuesday Feb 14, 2023</span>'
+
+[7313] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Feb 15, 2023</span>'
+
+[7314] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Feb 16, 2023</span>'
+
+[7315] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Feb 17, 2023</span>'
+
+[7316] graphics-symbol '2 contributions<br /><span class="gl-text-gray-300">Saturday Feb 18, 2023</span>'
+
+[7318] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Feb 19, 2023</span>'
+
+[7319] graphics-symbol '2 contributions<br /><span class="gl-text-gray-300">Monday Feb 20, 2023</span>'
+
+[7320] graphics-symbol '9 contributions<br /><span class="gl-text-gray-300">Tuesday Feb 21, 2023</span>'
+
+[7321] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Feb 22, 2023</span>'
+
+[7322] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Feb 23, 2023</span>'
+
+[7323] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Feb 24, 2023</span>'
+
+[7324] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Feb 25, 2023</span>'
+
+[7326] graphics-symbol '5 contributions<br /><span class="gl-text-gray-300">Sunday Feb 26, 2023</span>'
+
+[7327] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Monday Feb 27, 2023</span>'
+
+[7328] graphics-symbol '4 contributions<br /><span class="gl-text-gray-300">Tuesday Feb 28, 2023</span>'
+
+[7329] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Wednesday Mar 1, 2023</span>'
+
+[7330] graphics-symbol '3 contributions<br /><span class="gl-text-gray-300">Thursday Mar 2, 2023</span>'
+
+[7331] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Mar 3, 2023</span>'
+
+[7332] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Mar 4, 2023</span>'
+
+[7334] graphics-symbol '2 contributions<br /><span class="gl-text-gray-300">Sunday Mar 5, 2023</span>'
+
+[7335] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Mar 6, 2023</span>'
+
+[7336] graphics-symbol '2 contributions<br /><span class="gl-text-gray-300">Tuesday Mar 7, 2023</span>'
+
+[7337] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Mar 8, 2023</span>'
+
+[7338] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Mar 9, 2023</span>'
+
+[7339] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Mar 10, 2023</span>'
+
+[7340] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Mar 11, 2023</span>'
+
+[7342] graphics-symbol '2 contributions<br /><span class="gl-text-gray-300">Sunday Mar 12, 2023</span>'
+
+[7343] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Mar 13, 2023</span>'
+
+[7344] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Tuesday Mar 14, 2023</span>'
+
+[7345] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Mar 15, 2023</span>'
+
+[7346] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Mar 16, 2023</span>'
+
+[7347] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Mar 17, 2023</span>'
+
+[7348] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Mar 18, 2023</span>'
+
+[7350] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Mar 19, 2023</span>'
+
+[7351] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Monday Mar 20, 2023</span>'
+
+[7352] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Mar 21, 2023</span>'
+
+[7353] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Mar 22, 2023</span>'
+
+[7354] graphics-symbol '50 contributions<br /><span class="gl-text-gray-300">Thursday Mar 23, 2023</span>'
+
+[7355] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Mar 24, 2023</span>'
+
+[7356] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Mar 25, 2023</span>'
+
+[7358] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Mar 26, 2023</span>'
+
+[7359] graphics-symbol '4 contributions<br /><span class="gl-text-gray-300">Monday Mar 27, 2023</span>'
+
+[7360] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Mar 28, 2023</span>'
+
+[7361] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Mar 29, 2023</span>'
+
+[7362] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Mar 30, 2023</span>'
+
+[7363] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Mar 31, 2023</span>'
+
+[7364] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Apr 1, 2023</span>'
+
+[7366] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Apr 2, 2023</span>'
+
+[7367] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Apr 3, 2023</span>'
+
+[7368] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Apr 4, 2023</span>'
+
+[7369] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Apr 5, 2023</span>'
+
+[7370] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Apr 6, 2023</span>'
+
+[7371] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Apr 7, 2023</span>'
+
+[7372] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Apr 8, 2023</span>'
+
+[7374] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Apr 9, 2023</span>'
+
+[7375] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Apr 10, 2023</span>'
+
+[7376] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Apr 11, 2023</span>'
+
+[7377] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Apr 12, 2023</span>'
+
+[7378] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Apr 13, 2023</span>'
+
+[7379] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Apr 14, 2023</span>'
+
+[7380] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Apr 15, 2023</span>'
+
+[7382] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Apr 16, 2023</span>'
+
+[7383] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Apr 17, 2023</span>'
+
+[7384] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Apr 18, 2023</span>'
+
+[7385] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Apr 19, 2023</span>'
+
+[7386] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Apr 20, 2023</span>'
+
+[7387] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Apr 21, 2023</span>'
+
+[7388] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Apr 22, 2023</span>'
+
+[7390] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Apr 23, 2023</span>'
+
+[7391] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Apr 24, 2023</span>'
+
+[7392] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Apr 25, 2023</span>'
+
+[7393] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Apr 26, 2023</span>'
+
+[7394] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Apr 27, 2023</span>'
+
+[7395] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Apr 28, 2023</span>'
+
+[7396] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Apr 29, 2023</span>'
+
+[7398] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Apr 30, 2023</span>'
+
+[7399] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday May 1, 2023</span>'
+
+[7400] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday May 2, 2023</span>'
+
+[7401] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday May 3, 2023</span>'
+
+[7402] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday May 4, 2023</span>'
+
+[7403] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday May 5, 2023</span>'
+
+[7404] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday May 6, 2023</span>'
+
+[7406] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday May 7, 2023</span>'
+
+[7407] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday May 8, 2023</span>'
+
+[7408] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday May 9, 2023</span>'
+
+[7409] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday May 10, 2023</span>'
+
+[7410] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday May 11, 2023</span>'
+
+[7411] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday May 12, 2023</span>'
+
+[7412] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday May 13, 2023</span>'
+
+[7414] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday May 14, 2023</span>'
+
+[7415] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday May 15, 2023</span>'
+
+[7416] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday May 16, 2023</span>'
+
+[7417] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday May 17, 2023</span>'
+
+[7418] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday May 18, 2023</span>'
+
+[7419] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday May 19, 2023</span>'
+
+[7420] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday May 20, 2023</span>'
+
+[7422] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday May 21, 2023</span>'
+
+[7423] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday May 22, 2023</span>'
+
+[7424] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday May 23, 2023</span>'
+
+[7425] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday May 24, 2023</span>'
+
+[7426] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday May 25, 2023</span>'
+
+[7427] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday May 26, 2023</span>'
+
+[7428] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday May 27, 2023</span>'
+
+[7430] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday May 28, 2023</span>'
+
+[7431] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday May 29, 2023</span>'
+
+[7432] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday May 30, 2023</span>'
+
+[7433] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday May 31, 2023</span>'
+
+[7434] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Jun 1, 2023</span>'
+
+[7435] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jun 2, 2023</span>'
+
+[7436] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jun 3, 2023</span>'
+
+[7438] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jun 4, 2023</span>'
+
+[7439] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jun 5, 2023</span>'
+
+[7440] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Jun 6, 2023</span>'
+
+[7441] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Jun 7, 2023</span>'
+
+[7442] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Jun 8, 2023</span>'
+
+[7443] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jun 9, 2023</span>'
+
+[7444] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jun 10, 2023</span>'
+
+[7446] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jun 11, 2023</span>'
+
+[7447] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jun 12, 2023</span>'
+
+[7448] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Jun 13, 2023</span>'
+
+[7449] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Jun 14, 2023</span>'
+
+[7450] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Jun 15, 2023</span>'
+
+[7451] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jun 16, 2023</span>'
+
+[7452] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jun 17, 2023</span>'
+
+[7454] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jun 18, 2023</span>'
+
+[7455] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jun 19, 2023</span>'
+
+[7456] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Jun 20, 2023</span>'
+
+[7457] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Jun 21, 2023</span>'
+
+[7458] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Jun 22, 2023</span>'
+
+[7459] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jun 23, 2023</span>'
+
+[7460] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jun 24, 2023</span>'
+
+[7462] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jun 25, 2023</span>'
+
+[7463] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jun 26, 2023</span>'
+
+[7464] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Jun 27, 2023</span>'
+
+[7465] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Jun 28, 2023</span>'
+
+[7466] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Jun 29, 2023</span>'
+
+[7467] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jun 30, 2023</span>'
+
+[7468] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jul 1, 2023</span>'
+
+[7470] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jul 2, 2023</span>'
+
+[7471] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jul 3, 2023</span>'
+
+[7472] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Jul 4, 2023</span>'
+
+[7473] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Jul 5, 2023</span>'
+
+[7474] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Jul 6, 2023</span>'
+
+[7475] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jul 7, 2023</span>'
+
+[7476] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jul 8, 2023</span>'
+
+[7478] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jul 9, 2023</span>'
+
+[7479] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jul 10, 2023</span>'
+
+[7480] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Jul 11, 2023</span>'
+
+[7481] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Jul 12, 2023</span>'
+
+[7482] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Jul 13, 2023</span>'
+
+[7483] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jul 14, 2023</span>'
+
+[7484] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jul 15, 2023</span>'
+
+[7486] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jul 16, 2023</span>'
+
+[7487] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jul 17, 2023</span>'
+
+[7488] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Jul 18, 2023</span>'
+
+[7489] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Jul 19, 2023</span>'
+
+[7490] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Jul 20, 2023</span>'
+
+[7491] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jul 21, 2023</span>'
+
+[7492] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jul 22, 2023</span>'
+
+[7494] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jul 23, 2023</span>'
+
+[7495] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jul 24, 2023</span>'
+
+[7496] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Jul 25, 2023</span>'
+
+[7497] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Jul 26, 2023</span>'
+
+[7498] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Jul 27, 2023</span>'
+
+[7499] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jul 28, 2023</span>'
+
+[7500] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jul 29, 2023</span>'
+
+[7502] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jul 30, 2023</span>'
+
+[7503] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jul 31, 2023</span>'
+
+[7504] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Aug 1, 2023</span>'
+
+[7505] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Aug 2, 2023</span>'
+
+[7506] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Aug 3, 2023</span>'
+
+[7507] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Aug 4, 2023</span>'
+
+[7508] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Aug 5, 2023</span>'
+
+[7510] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Aug 6, 2023</span>'
+
+[7511] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Aug 7, 2023</span>'
+
+[7512] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Aug 8, 2023</span>'
+
+[7513] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Aug 9, 2023</span>'
+
+[7514] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Aug 10, 2023</span>'
+
+[7515] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Aug 11, 2023</span>'
+
+[7516] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Aug 12, 2023</span>'
+
+[7518] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Aug 13, 2023</span>'
+
+[7519] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Aug 14, 2023</span>'
+
+[7520] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Aug 15, 2023</span>'
+
+[7521] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Aug 16, 2023</span>'
+
+[7522] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Aug 17, 2023</span>'
+
+[7523] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Aug 18, 2023</span>'
+
+[7524] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Aug 19, 2023</span>'
+
+[7526] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Aug 20, 2023</span>'
+
+[7527] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Aug 21, 2023</span>'
+
+[7528] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Aug 22, 2023</span>'
+
+[7529] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Aug 23, 2023</span>'
+
+[7530] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Aug 24, 2023</span>'
+
+[7531] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Aug 25, 2023</span>'
+
+[7532] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Aug 26, 2023</span>'
+
+[7534] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Aug 27, 2023</span>'
+
+[7535] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Aug 28, 2023</span>'
+
+[7536] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Aug 29, 2023</span>'
+
+[7537] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Aug 30, 2023</span>'
+
+[7538] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Aug 31, 2023</span>'
+
+[7539] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Sep 1, 2023</span>'
+
+[7540] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Sep 2, 2023</span>'
+
+[7542] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Sep 3, 2023</span>'
+
+[7543] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Sep 4, 2023</span>'
+
+[7544] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Sep 5, 2023</span>'
+
+[7545] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Sep 6, 2023</span>'
+
+[7546] graphics-symbol '4 contributions<br /><span class="gl-text-gray-300">Thursday Sep 7, 2023</span>'
+
+[7547] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Sep 8, 2023</span>'
+
+[7548] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Sep 9, 2023</span>'
+
+[7550] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Sep 10, 2023</span>'
+
+[7551] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Sep 11, 2023</span>'
+
+[7552] graphics-symbol '2 contributions<br /><span class="gl-text-gray-300">Tuesday Sep 12, 2023</span>'
+
+[7563] StaticText 'Oct'
+
+[7565] StaticText 'Nov'
+
+[7567] StaticText 'Dec'
+
+[7569] StaticText 'Jan'
+
+[7571] StaticText 'Feb'
+
+[7573] StaticText 'Mar'
+
+[7575] StaticText 'Apr'
+
+[7577] StaticText 'May'
+
+[7579] StaticText 'Jun'
+
+[7581] StaticText 'Jul'
+
+[7583] StaticText 'Aug'
+
+[7585] StaticText 'Sep'
+
+[7588] StaticText 'M'
+
+[7590] StaticText 'W'
+
+[7592] StaticText 'F'
+
+[7554] graphics-symbol 'No contributions'
+
+[7555] graphics-symbol '1-9 contributions'
+
+[7556] graphics-symbol '10-19 contributions'
+
+[7557] graphics-symbol '20-29 contributions'
+
+[7558] graphics-symbol '30+ contributions'
+
+[8171] StaticText 'Issues, merge requests, pushes, and comments.'
+
+[8173] heading 'Activity'
+
+[8174] link 'View all'
+
+[7600] time 'Sep 12, 2023 2:33am EDT'
+
+[8513] StaticText '1 hour ago'
+
+[8280] link "Byte Blaze's avatar"
+
+[8514] img "Byte Blaze's avatar"
+
+[8282] link 'Byte Blaze'
+
+[8283] StaticText '\xa0'
+
+[8285] StaticText '@byteblaze'
+
+[8210] heading 'Personal projects'
+
+[8211] link 'View all'
+
+[8543] link 'D'
+
+[8545] heading 'Do it myself'
+
+[8546] generic 'Public - The project can be accessed without any authentication.'
+
+[8564] link '0'
+
+[8565] link '0'</pre><div>
+
+[6113] where [6113] is link 'Byte Blaze'</div>
+
+[7925]` where [7925] is the link 'Issues'.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the GitLab profile page of the user "Byte Blaze". The objective is to assign the issue regarding 404 in a11yproject to the user "Roshanjossey". To assign an issue, I need to go to the "Issues" section. In summary, the next action I will perform is `click [7925]` where [7925] is the link \'Issues\'.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[7093] RootWebArea 'Byte Blaze · GitLab' focused: True
+
+[7758] link 'Skip to content'
+
+[7861] link 'Dashboard'
+
+[7917] button '' hasPopup: menu expanded: False
+
+[7105] textbox 'Search GitLab' required: False
+
+[8222] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7923] link 'Create new...'
+
+[7925] link 'Issues'
+
+[8036] generic '13 assigned issues'
+
+[7926] link 'Merge requests'
+
+[8038] generic '8 merge requests'
+
+[7928] link 'To-Do List'
+
+[8054] generic 'Todos count'
+
+[7929] link 'Help'
+
+[7931] link 'Byte Blaze'
+
+[8088] img 'Byte Blaze'
+
+[7123] main ''
+
+[7933] link 'Edit profile'
+
+[7934] link 'Subscribe'
+
+[7938] link ''
+
+[7939] heading 'Byte Blaze'
+
+[8129] StaticText '@byteblaze '
+
+[8131] StaticText 'User ID: 2330 '
+
+[8132] button 'Copy user ID' live: polite atomic: False relevant: additions text
+
+[8134] StaticText 'Member since March 23, 2023'
+
+[8138] StaticText 'Boston, MA '
+
+[8143] StaticText '@github'
+
+[8148] link '2 followers '
+
+[8150] link '3 following'
+
+[7954] StaticText 'Inclusive design and accessibility advocate. Accessibility and design systems wonk for @primer.'
+
+[8271] link 'Overview'
+
+[8272] link 'Activity'
+
+[8273] link 'Groups'
+
+[8274] link 'Contributed projects'
+
+[8275] link 'Personal projects'
+
+[8276] link 'Starred projects'
+
+[8277] link 'Snippets'
+
+[8278] link 'Followers'
+
+[8279] link 'Following'
+
+[7133] SvgRoot ''
+
+[7135] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Sep 12, 2022</span>'
+
+[7136] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Sep 13, 2022</span>'
+
+[7137] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Sep 14, 2022</span>'
+
+[7138] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Sep 15, 2022</span>'
+
+[7139] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Sep 16, 2022</span>'
+
+[7140] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Sep 17, 2022</span>'
+
+[7142] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Sep 18, 2022</span>'
+
+[7143] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Sep 19, 2022</span>'
+
+[7144] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Sep 20, 2022</span>'
+
+[7145] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Sep 21, 2022</span>'
+
+[7146] graphics-symbol '3 contributions<br /><span class="gl-text-gray-300">Thursday Sep 22, 2022</span>'
+
+[7147] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Sep 23, 2022</span>'
+
+[7148] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Sep 24, 2022</span>'
+
+[7150] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Sep 25, 2022</span>'
+
+[7151] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Sep 26, 2022</span>'
+
+[7152] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Sep 27, 2022</span>'
+
+[7153] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Sep 28, 2022</span>'
+
+[7154] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Sep 29, 2022</span>'
+
+[7155] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Sep 30, 2022</span>'
+
+[7156] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Oct 1, 2022</span>'
+
+[7158] graphics-symbol '3 contributions<br /><span class="gl-text-gray-300">Sunday Oct 2, 2022</span>'
+
+[7159] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Oct 3, 2022</span>'
+
+[7160] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Oct 4, 2022</span>'
+
+[7161] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Oct 5, 2022</span>'
+
+[7162] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Oct 6, 2022</span>'
+
+[7163] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Oct 7, 2022</span>'
+
+[7164] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Oct 8, 2022</span>'
+
+[7166] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Oct 9, 2022</span>'
+
+[7167] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Oct 10, 2022</span>'
+
+[7168] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Oct 11, 2022</span>'
+
+[7169] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Wednesday Oct 12, 2022</span>'
+
+[7170] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Oct 13, 2022</span>'
+
+[7171] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Oct 14, 2022</span>'
+
+[7172] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Oct 15, 2022</span>'
+
+[7174] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Oct 16, 2022</span>'
+
+[7175] graphics-symbol '3 contributions<br /><span class="gl-text-gray-300">Monday Oct 17, 2022</span>'
+
+[7176] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Tuesday Oct 18, 2022</span>'
+
+[7177] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Oct 19, 2022</span>'
+
+[7178] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Oct 20, 2022</span>'
+
+[7179] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Oct 21, 2022</span>'
+
+[7180] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Oct 22, 2022</span>'
+
+[7182] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Oct 23, 2022</span>'
+
+[7183] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Oct 24, 2022</span>'
+
+[7184] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Oct 25, 2022</span>'
+
+[7185] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Wednesday Oct 26, 2022</span>'
+
+[7186] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Oct 27, 2022</span>'
+
+[7187] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Oct 28, 2022</span>'
+
+[7188] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Oct 29, 2022</span>'
+
+[7190] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Oct 30, 2022</span>'
+
+[7191] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Oct 31, 2022</span>'
+
+[7192] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Tuesday Nov 1, 2022</span>'
+
+[7193] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Nov 2, 2022</span>'
+
+[7194] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Nov 3, 2022</span>'
+
+[7195] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Nov 4, 2022</span>'
+
+[7196] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Nov 5, 2022</span>'
+
+[7198] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Nov 6, 2022</span>'
+
+[7199] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Nov 7, 2022</span>'
+
+[7200] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Nov 8, 2022</span>'
+
+[7201] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Nov 9, 2022</span>'
+
+[7202] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Nov 10, 2022</span>'
+
+[7203] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Nov 11, 2022</span>'
+
+[7204] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Nov 12, 2022</span>'
+
+[7206] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Nov 13, 2022</span>'
+
+[7207] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Nov 14, 2022</span>'
+
+[7208] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Nov 15, 2022</span>'
+
+[7209] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Nov 16, 2022</span>'
+
+[7210] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Nov 17, 2022</span>'
+
+[7211] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Nov 18, 2022</span>'
+
+[7212] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Saturday Nov 19, 2022</span>'
+
+[7214] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Nov 20, 2022</span>'
+
+[7215] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Nov 21, 2022</span>'
+
+[7216] graphics-symbol '2 contributions<br /><span class="gl-text-gray-300">Tuesday Nov 22, 2022</span>'
+
+[7217] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Nov 23, 2022</span>'
+
+[7218] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Nov 24, 2022</span>'
+
+[7219] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Nov 25, 2022</span>'
+
+[7220] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Nov 26, 2022</span>'
+
+[7222] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Nov 27, 2022</span>'
+
+[7223] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Nov 28, 2022</span>'
+
+[7224] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Nov 29, 2022</span>'
+
+[7225] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Nov 30, 2022</span>'
+
+[7226] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Dec 1, 2022</span>'
+
+[7227] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Dec 2, 2022</span>'
+
+[7228] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Dec 3, 2022</span>'
+
+[7230] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Dec 4, 2022</span>'
+
+[7231] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Dec 5, 2022</span>'
+
+[7232] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Dec 6, 2022</span>'
+
+[7233] graphics-symbol '2 contributions<br /><span class="gl-text-gray-300">Wednesday Dec 7, 2022</span>'
+
+[7234] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Dec 8, 2022</span>'
+
+[7235] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Dec 9, 2022</span>'
+
+[7236] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Dec 10, 2022</span>'
+
+[7238] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Dec 11, 2022</span>'
+
+[7239] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Dec 12, 2022</span>'
+
+[7240] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Dec 13, 2022</span>'
+
+[7241] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Dec 14, 2022</span>'
+
+[7242] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Thursday Dec 15, 2022</span>'
+
+[7243] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Dec 16, 2022</span>'
+
+[7244] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Dec 17, 2022</span>'
+
+[7246] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Dec 18, 2022</span>'
+
+[7247] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Dec 19, 2022</span>'
+
+[7248] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Dec 20, 2022</span>'
+
+[7249] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Dec 21, 2022</span>'
+
+[7250] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Dec 22, 2022</span>'
+
+[7251] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Dec 23, 2022</span>'
+
+[7252] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Dec 24, 2022</span>'
+
+[7254] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Dec 25, 2022</span>'
+
+[7255] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Dec 26, 2022</span>'
+
+[7256] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Dec 27, 2022</span>'
+
+[7257] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Dec 28, 2022</span>'
+
+[7258] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Dec 29, 2022</span>'
+
+[7259] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Dec 30, 2022</span>'
+
+[7260] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Dec 31, 2022</span>'
+
+[7262] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jan 1, 2023</span>'
+
+[7263] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jan 2, 2023</span>'
+
+[7264] graphics-symbol '4 contributions<br /><span class="gl-text-gray-300">Tuesday Jan 3, 2023</span>'
+
+[7265] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Wednesday Jan 4, 2023</span>'
+
+[7266] graphics-symbol '6 contributions<br /><span class="gl-text-gray-300">Thursday Jan 5, 2023</span>'
+
+[7267] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jan 6, 2023</span>'
+
+[7268] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jan 7, 2023</span>'
+
+[7270] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jan 8, 2023</span>'
+
+[7271] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jan 9, 2023</span>'
+
+[7272] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Tuesday Jan 10, 2023</span>'
+
+[7273] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Jan 11, 2023</span>'
+
+[7274] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Jan 12, 2023</span>'
+
+[7275] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jan 13, 2023</span>'
+
+[7276] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jan 14, 2023</span>'
+
+[7278] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Sunday Jan 15, 2023</span>'
+
+[7279] graphics-symbol '4 contributions<br /><span class="gl-text-gray-300">Monday Jan 16, 2023</span>'
+
+[7280] graphics-symbol '6 contributions<br /><span class="gl-text-gray-300">Tuesday Jan 17, 2023</span>'
+
+[7281] graphics-symbol '12 contributions<br /><span class="gl-text-gray-300">Wednesday Jan 18, 2023</span>'
+
+[7282] graphics-symbol '5 contributions<br /><span class="gl-text-gray-300">Thursday Jan 19, 2023</span>'
+
+[7283] graphics-symbol '3 contributions<br /><span class="gl-text-gray-300">Friday Jan 20, 2023</span>'
+
+[7284] graphics-symbol '3 contributions<br /><span class="gl-text-gray-300">Saturday Jan 21, 2023</span>'
+
+[7286] graphics-symbol '5 contributions<br /><span class="gl-text-gray-300">Sunday Jan 22, 2023</span>'
+
+[7287] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Monday Jan 23, 2023</span>'
+
+[7288] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Tuesday Jan 24, 2023</span>'
+
+[7289] graphics-symbol '7 contributions<br /><span class="gl-text-gray-300">Wednesday Jan 25, 2023</span>'
+
+[7290] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Thursday Jan 26, 2023</span>'
+
+[7291] graphics-symbol '7 contributions<br /><span class="gl-text-gray-300">Friday Jan 27, 2023</span>'
+
+[7292] graphics-symbol '2 contributions<br /><span class="gl-text-gray-300">Saturday Jan 28, 2023</span>'
+
+[7294] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jan 29, 2023</span>'
+
+[7295] graphics-symbol '3 contributions<br /><span class="gl-text-gray-300">Monday Jan 30, 2023</span>'
+
+[7296] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Tuesday Jan 31, 2023</span>'
+
+[7297] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Feb 1, 2023</span>'
+
+[7298] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Feb 2, 2023</span>'
+
+[7299] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Feb 3, 2023</span>'
+
+[7300] graphics-symbol '11 contributions<br /><span class="gl-text-gray-300">Saturday Feb 4, 2023</span>'
+
+[7302] graphics-symbol '2 contributions<br /><span class="gl-text-gray-300">Sunday Feb 5, 2023</span>'
+
+[7303] graphics-symbol '5 contributions<br /><span class="gl-text-gray-300">Monday Feb 6, 2023</span>'
+
+[7304] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Feb 7, 2023</span>'
+
+[7305] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Feb 8, 2023</span>'
+
+[7306] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Thursday Feb 9, 2023</span>'
+
+[7307] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Feb 10, 2023</span>'
+
+[7308] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Saturday Feb 11, 2023</span>'
+
+[7310] graphics-symbol '3 contributions<br /><span class="gl-text-gray-300">Sunday Feb 12, 2023</span>'
+
+[7311] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Monday Feb 13, 2023</span>'
+
+[7312] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Tuesday Feb 14, 2023</span>'
+
+[7313] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Feb 15, 2023</span>'
+
+[7314] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Feb 16, 2023</span>'
+
+[7315] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Feb 17, 2023</span>'
+
+[7316] graphics-symbol '2 contributions<br /><span class="gl-text-gray-300">Saturday Feb 18, 2023</span>'
+
+[7318] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Feb 19, 2023</span>'
+
+[7319] graphics-symbol '2 contributions<br /><span class="gl-text-gray-300">Monday Feb 20, 2023</span>'
+
+[7320] graphics-symbol '9 contributions<br /><span class="gl-text-gray-300">Tuesday Feb 21, 2023</span>'
+
+[7321] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Feb 22, 2023</span>'
+
+[7322] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Feb 23, 2023</span>'
+
+[7323] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Feb 24, 2023</span>'
+
+[7324] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Feb 25, 2023</span>'
+
+[7326] graphics-symbol '5 contributions<br /><span class="gl-text-gray-300">Sunday Feb 26, 2023</span>'
+
+[7327] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Monday Feb 27, 2023</span>'
+
+[7328] graphics-symbol '4 contributions<br /><span class="gl-text-gray-300">Tuesday Feb 28, 2023</span>'
+
+[7329] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Wednesday Mar 1, 2023</span>'
+
+[7330] graphics-symbol '3 contributions<br /><span class="gl-text-gray-300">Thursday Mar 2, 2023</span>'
+
+[7331] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Mar 3, 2023</span>'
+
+[7332] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Mar 4, 2023</span>'
+
+[7334] graphics-symbol '2 contributions<br /><span class="gl-text-gray-300">Sunday Mar 5, 2023</span>'
+
+[7335] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Mar 6, 2023</span>'
+
+[7336] graphics-symbol '2 contributions<br /><span class="gl-text-gray-300">Tuesday Mar 7, 2023</span>'
+
+[7337] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Mar 8, 2023</span>'
+
+[7338] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Mar 9, 2023</span>'
+
+[7339] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Mar 10, 2023</span>'
+
+[7340] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Mar 11, 2023</span>'
+
+[7342] graphics-symbol '2 contributions<br /><span class="gl-text-gray-300">Sunday Mar 12, 2023</span>'
+
+[7343] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Mar 13, 2023</span>'
+
+[7344] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Tuesday Mar 14, 2023</span>'
+
+[7345] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Mar 15, 2023</span>'
+
+[7346] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Mar 16, 2023</span>'
+
+[7347] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Mar 17, 2023</span>'
+
+[7348] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Mar 18, 2023</span>'
+
+[7350] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Mar 19, 2023</span>'
+
+[7351] graphics-symbol '1 contribution<br /><span class="gl-text-gray-300">Monday Mar 20, 2023</span>'
+
+[7352] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Mar 21, 2023</span>'
+
+[7353] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Mar 22, 2023</span>'
+
+[7354] graphics-symbol '50 contributions<br /><span class="gl-text-gray-300">Thursday Mar 23, 2023</span>'
+
+[7355] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Mar 24, 2023</span>'
+
+[7356] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Mar 25, 2023</span>'
+
+[7358] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Mar 26, 2023</span>'
+
+[7359] graphics-symbol '4 contributions<br /><span class="gl-text-gray-300">Monday Mar 27, 2023</span>'
+
+[7360] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Mar 28, 2023</span>'
+
+[7361] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Mar 29, 2023</span>'
+
+[7362] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Mar 30, 2023</span>'
+
+[7363] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Mar 31, 2023</span>'
+
+[7364] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Apr 1, 2023</span>'
+
+[7366] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Apr 2, 2023</span>'
+
+[7367] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Apr 3, 2023</span>'
+
+[7368] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Apr 4, 2023</span>'
+
+[7369] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Apr 5, 2023</span>'
+
+[7370] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Apr 6, 2023</span>'
+
+[7371] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Apr 7, 2023</span>'
+
+[7372] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Apr 8, 2023</span>'
+
+[7374] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Apr 9, 2023</span>'
+
+[7375] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Apr 10, 2023</span>'
+
+[7376] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Apr 11, 2023</span>'
+
+[7377] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Apr 12, 2023</span>'
+
+[7378] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Apr 13, 2023</span>'
+
+[7379] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Apr 14, 2023</span>'
+
+[7380] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Apr 15, 2023</span>'
+
+[7382] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Apr 16, 2023</span>'
+
+[7383] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Apr 17, 2023</span>'
+
+[7384] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Apr 18, 2023</span>'
+
+[7385] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Apr 19, 2023</span>'
+
+[7386] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Apr 20, 2023</span>'
+
+[7387] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Apr 21, 2023</span>'
+
+[7388] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Apr 22, 2023</span>'
+
+[7390] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Apr 23, 2023</span>'
+
+[7391] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Apr 24, 2023</span>'
+
+[7392] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Apr 25, 2023</span>'
+
+[7393] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Apr 26, 2023</span>'
+
+[7394] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Apr 27, 2023</span>'
+
+[7395] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Apr 28, 2023</span>'
+
+[7396] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Apr 29, 2023</span>'
+
+[7398] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Apr 30, 2023</span>'
+
+[7399] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday May 1, 2023</span>'
+
+[7400] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday May 2, 2023</span>'
+
+[7401] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday May 3, 2023</span>'
+
+[7402] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday May 4, 2023</span>'
+
+[7403] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday May 5, 2023</span>'
+
+[7404] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday May 6, 2023</span>'
+
+[7406] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday May 7, 2023</span>'
+
+[7407] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday May 8, 2023</span>'
+
+[7408] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday May 9, 2023</span>'
+
+[7409] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday May 10, 2023</span>'
+
+[7410] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday May 11, 2023</span>'
+
+[7411] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday May 12, 2023</span>'
+
+[7412] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday May 13, 2023</span>'
+
+[7414] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday May 14, 2023</span>'
+
+[7415] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday May 15, 2023</span>'
+
+[7416] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday May 16, 2023</span>'
+
+[7417] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday May 17, 2023</span>'
+
+[7418] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday May 18, 2023</span>'
+
+[7419] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday May 19, 2023</span>'
+
+[7420] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday May 20, 2023</span>'
+
+[7422] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday May 21, 2023</span>'
+
+[7423] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday May 22, 2023</span>'
+
+[7424] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday May 23, 2023</span>'
+
+[7425] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday May 24, 2023</span>'
+
+[7426] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday May 25, 2023</span>'
+
+[7427] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday May 26, 2023</span>'
+
+[7428] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday May 27, 2023</span>'
+
+[7430] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday May 28, 2023</span>'
+
+[7431] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday May 29, 2023</span>'
+
+[7432] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday May 30, 2023</span>'
+
+[7433] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday May 31, 2023</span>'
+
+[7434] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Jun 1, 2023</span>'
+
+[7435] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jun 2, 2023</span>'
+
+[7436] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jun 3, 2023</span>'
+
+[7438] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jun 4, 2023</span>'
+
+[7439] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jun 5, 2023</span>'
+
+[7440] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Jun 6, 2023</span>'
+
+[7441] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Jun 7, 2023</span>'
+
+[7442] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Jun 8, 2023</span>'
+
+[7443] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jun 9, 2023</span>'
+
+[7444] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jun 10, 2023</span>'
+
+[7446] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jun 11, 2023</span>'
+
+[7447] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jun 12, 2023</span>'
+
+[7448] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Jun 13, 2023</span>'
+
+[7449] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Jun 14, 2023</span>'
+
+[7450] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Jun 15, 2023</span>'
+
+[7451] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jun 16, 2023</span>'
+
+[7452] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jun 17, 2023</span>'
+
+[7454] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jun 18, 2023</span>'
+
+[7455] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jun 19, 2023</span>'
+
+[7456] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Jun 20, 2023</span>'
+
+[7457] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Jun 21, 2023</span>'
+
+[7458] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Jun 22, 2023</span>'
+
+[7459] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jun 23, 2023</span>'
+
+[7460] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jun 24, 2023</span>'
+
+[7462] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jun 25, 2023</span>'
+
+[7463] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jun 26, 2023</span>'
+
+[7464] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Jun 27, 2023</span>'
+
+[7465] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Jun 28, 2023</span>'
+
+[7466] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Jun 29, 2023</span>'
+
+[7467] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jun 30, 2023</span>'
+
+[7468] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jul 1, 2023</span>'
+
+[7470] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jul 2, 2023</span>'
+
+[7471] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jul 3, 2023</span>'
+
+[7472] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Jul 4, 2023</span>'
+
+[7473] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Jul 5, 2023</span>'
+
+[7474] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Jul 6, 2023</span>'
+
+[7475] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jul 7, 2023</span>'
+
+[7476] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jul 8, 2023</span>'
+
+[7478] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jul 9, 2023</span>'
+
+[7479] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jul 10, 2023</span>'
+
+[7480] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Jul 11, 2023</span>'
+
+[7481] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Jul 12, 2023</span>'
+
+[7482] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Jul 13, 2023</span>'
+
+[7483] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jul 14, 2023</span>'
+
+[7484] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jul 15, 2023</span>'
+
+[7486] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jul 16, 2023</span>'
+
+[7487] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jul 17, 2023</span>'
+
+[7488] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Jul 18, 2023</span>'
+
+[7489] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Jul 19, 2023</span>'
+
+[7490] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Jul 20, 2023</span>'
+
+[7491] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jul 21, 2023</span>'
+
+[7492] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jul 22, 2023</span>'
+
+[7494] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jul 23, 2023</span>'
+
+[7495] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jul 24, 2023</span>'
+
+[7496] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Jul 25, 2023</span>'
+
+[7497] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Jul 26, 2023</span>'
+
+[7498] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Jul 27, 2023</span>'
+
+[7499] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Jul 28, 2023</span>'
+
+[7500] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Jul 29, 2023</span>'
+
+[7502] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Jul 30, 2023</span>'
+
+[7503] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Jul 31, 2023</span>'
+
+[7504] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Aug 1, 2023</span>'
+
+[7505] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Aug 2, 2023</span>'
+
+[7506] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Aug 3, 2023</span>'
+
+[7507] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Aug 4, 2023</span>'
+
+[7508] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Aug 5, 2023</span>'
+
+[7510] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Aug 6, 2023</span>'
+
+[7511] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Aug 7, 2023</span>'
+
+[7512] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Aug 8, 2023</span>'
+
+[7513] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Aug 9, 2023</span>'
+
+[7514] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Aug 10, 2023</span>'
+
+[7515] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Aug 11, 2023</span>'
+
+[7516] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Aug 12, 2023</span>'
+
+[7518] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Aug 13, 2023</span>'
+
+[7519] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Aug 14, 2023</span>'
+
+[7520] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Aug 15, 2023</span>'
+
+[7521] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Aug 16, 2023</span>'
+
+[7522] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Aug 17, 2023</span>'
+
+[7523] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Aug 18, 2023</span>'
+
+[7524] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Aug 19, 2023</span>'
+
+[7526] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Aug 20, 2023</span>'
+
+[7527] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Aug 21, 2023</span>'
+
+[7528] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Aug 22, 2023</span>'
+
+[7529] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Aug 23, 2023</span>'
+
+[7530] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Aug 24, 2023</span>'
+
+[7531] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Aug 25, 2023</span>'
+
+[7532] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Aug 26, 2023</span>'
+
+[7534] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Aug 27, 2023</span>'
+
+[7535] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Aug 28, 2023</span>'
+
+[7536] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Aug 29, 2023</span>'
+
+[7537] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Aug 30, 2023</span>'
+
+[7538] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Thursday Aug 31, 2023</span>'
+
+[7539] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Sep 1, 2023</span>'
+
+[7540] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Sep 2, 2023</span>'
+
+[7542] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Sep 3, 2023</span>'
+
+[7543] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Sep 4, 2023</span>'
+
+[7544] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Tuesday Sep 5, 2023</span>'
+
+[7545] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Wednesday Sep 6, 2023</span>'
+
+[7546] graphics-symbol '4 contributions<br /><span class="gl-text-gray-300">Thursday Sep 7, 2023</span>'
+
+[7547] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Friday Sep 8, 2023</span>'
+
+[7548] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Saturday Sep 9, 2023</span>'
+
+[7550] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Sunday Sep 10, 2023</span>'
+
+[7551] graphics-symbol 'No contributions<br /><span class="gl-text-gray-300">Monday Sep 11, 2023</span>'
+
+[7552] graphics-symbol '2 contributions<br /><span class="gl-text-gray-300">Tuesday Sep 12, 2023</span>'
+
+[7563] StaticText 'Oct'
+
+[7565] StaticText 'Nov'
+
+[7567] StaticText 'Dec'
+
+[7569] StaticText 'Jan'
+
+[7571] StaticText 'Feb'
+
+[7573] StaticText 'Mar'
+
+[7575] StaticText 'Apr'
+
+[7577] StaticText 'May'
+
+[7579] StaticText 'Jun'
+
+[7581] StaticText 'Jul'
+
+[7583] StaticText 'Aug'
+
+[7585] StaticText 'Sep'
+
+[7588] StaticText 'M'
+
+[7590] StaticText 'W'
+
+[7592] StaticText 'F'
+
+[7554] graphics-symbol 'No contributions'
+
+[7555] graphics-symbol '1-9 contributions'
+
+[7556] graphics-symbol '10-19 contributions'
+
+[7557] graphics-symbol '20-29 contributions'
+
+[7558] graphics-symbol '30+ contributions'
+
+[8171] StaticText 'Issues, merge requests, pushes, and comments.'
+
+[8173] heading 'Activity'
+
+[8174] link 'View all'
+
+[7600] time 'Sep 12, 2023 2:33am EDT'
+
+[8513] StaticText '1 hour ago'
+
+[8280] link "Byte Blaze's avatar"
+
+[8514] img "Byte Blaze's avatar"
+
+[8282] link 'Byte Blaze'
+
+[8283] StaticText '\xa0'
+
+[8285] StaticText '@byteblaze'
+
+[8210] heading 'Personal projects'
+
+[8211] link 'View all'
+
+[8543] link 'D'
+
+[8545] heading 'Do it myself'
+
+[8546] generic 'Public - The project can be accessed without any authentication.'
+
+[8564] link '0'
+
+[8565] link '0'</pre><div>
+
+[7925]` where [7925] is the link 'Issues'.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[7925]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '7925', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the GitLab profile page of the user "Byte Blaze". The objective is to assign the issue regarding 404 in a11yproject to the user "Roshanjossey". To assign an issue, I need to go to the "Issues" section. In summary, the next action I will perform is ```click [7925]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [7925] where [7925] is [7925] link 'Issues'</pre></div></div>
+
+[8971] RootWebArea 'Issues · Dashboard · GitLab' focused: True
+
+[9167] link 'Skip to content'
+
+[9288] link 'Dashboard'
+
+[9338] button '' hasPopup: menu expanded: False
+
+[8983] textbox 'Search GitLab' required: False
+
+[10315] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[9344] link 'Create new...'
+
+[9346] link 'Issues'
+
+[9732] generic '13 assigned issues'
+
+[9347] link 'Merge requests'
+
+[9734] generic '8 merge requests'
+
+[9349] link 'To-Do List'
+
+[9750] generic 'Todos count'
+
+[9350] link 'Help'
+
+[9352] link 'Byte Blaze'
+
+[9784] img 'Byte Blaze'
+
+[8987] main ''
+
+[9267] heading 'Issues'
+
+[9321] link 'Select project to create issue'
+
+[9322] button 'Toggle project select'
+
+[9323] link 'Open 13'
+
+[9324] link 'Closed 53'
+
+[9325] link 'All 66'
+
+[9274] link 'Subscribe to RSS feed'
+
+[9275] link 'Subscribe to calendar'
+
+[9378] button 'Recent searches'
+
+[9000] button 'Assignee = Byte Blaze'
+
+[10438] button ''
+
+[8998] textbox '' required: False
+
+[9333] button ''
+
+[9284] group ''
+
+[9420] button 'Created date' hasPopup: listbox
+
+[9335] link 'Sort direction'
+
+[9425] link '[Feature suggestion] Support linking to an accessibility statement'
+
+[9427] StaticText '\xa0 1 of 3 checklist items completed'
+
+[9429] StaticText 'byteblaze/a11y-webring.club#71 '
+
+[9430] StaticText '· created '
+
+[9023] time 'Feb 2, 2023 4:51pm EST'
+
+[10163] StaticText '7 months ago'
+
+[9431] StaticText ' by '
+
+[9432] link 'Rohan Kumar'
+
+[9433] StaticText ' \xa0 '
+
+[9435] link 'being discussed'
+
+[9437] link 'feature'
+
+[10170] link 'Assigned to Byte Blaze'
+
+[10171] link ' 1'
+
+[9441] StaticText 'updated '
+
+[9027] time 'Mar 27, 2023 4:17pm EDT'
+
+[10172] StaticText '5 months ago'
+
+[9444] link '[Feature suggestion] WCAG trash panda mode'
+
+[9446] StaticText '\xa0 1 of 3 checklist items completed'
+
+[9448] StaticText 'byteblaze/a11y-webring.club#39 '
+
+[9449] StaticText '· created '
+
+[9033] time 'Jan 22, 2023 2:23pm EST'
+
+[10174] StaticText '7 months ago'
+
+[9450] StaticText ' by '
+
+[9451] link 'Byte Blaze'
+
+[9452] StaticText ' \xa0 '
+
+[9454] link 'feature'
+
+[9456] link 'help wanted'
+
+[10181] link 'Assigned to Byte Blaze'
+
+[10182] link ' 0'
+
+[9460] StaticText 'updated '
+
+[9037] time 'Mar 27, 2023 4:17pm EDT'
+
+[10183] StaticText '5 months ago'
+
+[9463] link '[Feature suggestion] Add a submission form'
+
+[9465] StaticText '\xa0 1 of 3 checklist items completed'
+
+[9467] StaticText 'byteblaze/a11y-webring.club#30 '
+
+[9468] StaticText '· created '
+
+[9043] time 'Jan 20, 2023 3:16pm EST'
+
+[10185] StaticText '7 months ago'
+
+[9469] StaticText ' by '
+
+[9470] link 'Byte Blaze'
+
+[9471] StaticText ' \xa0 '
+
+[9473] link 'feature'
+
+[10190] link 'Assigned to Byte Blaze'
+
+[10191] link ' 0'
+
+[9477] StaticText 'updated '
+
+[9047] time 'Mar 27, 2023 4:17pm EDT'
+
+[10192] StaticText '5 months ago'
+
+[9480] link '[Feature suggestion] Color theme slider'
+
+[9482] StaticText '\xa0 1 of 3 checklist items completed'
+
+[9484] StaticText 'byteblaze/a11y-webring.club#21 '
+
+[9485] StaticText '· created '
+
+[9053] time 'Jan 18, 2023 10:58pm EST'
+
+[10194] StaticText '7 months ago'
+
+[9486] StaticText ' by '
+
+[9487] link 'Byte Blaze'
+
+[9488] StaticText ' \xa0 '
+
+[9490] link 'feature'
+
+[9492] link 'help wanted'
+
+[10201] link 'Assigned to Byte Blaze'
+
+[10202] link ' 0'
+
+[9496] StaticText 'updated '
+
+[9057] time 'Mar 27, 2023 4:17pm EDT'
+
+[10203] StaticText '5 months ago'
+
+[9499] link 'Link to WCAG 2.1 instead of 2.0?'
+
+[9501] StaticText 'a11yproject/a11yproject.com#1460 '
+
+[9502] StaticText '· created '
+
+[9063] time 'Aug 11, 2022 12:10pm EDT'
+
+[10205] StaticText '1 year ago'
+
+[9503] StaticText ' by '
+
+[9504] link 'Byte Blaze'
+
+[9505] StaticText ' \xa0 '
+
+[9507] link 'claimed'
+
+[9509] link 'content'
+
+[10212] link 'Assigned to Byte Blaze'
+
+[10213] link ' 0'
+
+[9513] StaticText 'updated '
+
+[9067] time 'Mar 23, 2023 4:42am EDT'
+
+[10214] StaticText '5 months ago'
+
+[9516] link 'The process for writing for us is both scattered and buried'
+
+[9518] StaticText 'a11yproject/a11yproject.com#1360 '
+
+[9519] StaticText '· created '
+
+[9073] time 'Oct 10, 2021 8:35pm EDT'
+
+[10216] StaticText '1 year ago'
+
+[9520] StaticText ' by '
+
+[9521] link 'Byte Blaze'
+
+[9522] StaticText ' \xa0 '
+
+[9524] link 'content'
+
+[9526] link 'design'
+
+[10223] link 'Assigned to Byte Blaze'
+
+[10224] link ' 2'
+
+[9530] StaticText 'updated '
+
+[9077] time 'Mar 23, 2023 4:41am EDT'
+
+[10225] StaticText '5 months ago'
+
+[9533] link 'Non-Github contribution guidelines need clarification'
+
+[9535] StaticText 'a11yproject/a11yproject.com#1294 '
+
+[9536] StaticText '· created '
+
+[9083] time 'Jun 16, 2021 10:18pm EDT'
+
+[10227] StaticText '2 years ago'
+
+[9537] StaticText ' by '
+
+[9538] link 'Byte Blaze'
+
+[9539] StaticText ' \xa0 '
+
+[9541] link 'claimed'
+
+[9543] link 'content'
+
+[10234] link 'Assigned to Byte Blaze'
+
+[10235] link ' 2'
+
+[9547] StaticText 'updated '
+
+[9087] time 'Mar 23, 2023 4:41am EDT'
+
+[10236] StaticText '5 months ago'
+
+[9550] link 'Outdated dependencies'
+
+[9552] StaticText 'byteblaze/empathy-prompts#18 '
+
+[9553] StaticText '· created '
+
+[9093] time 'Jun 1, 2021 8:52pm EDT'
+
+[10238] StaticText '2 years ago'
+
+[9554] StaticText ' by '
+
+[9555] link 'Byte Blaze'
+
+[9556] StaticText ' \xa0 '
+
+[9558] link '[Priority] Critical'
+
+[9560] link '[Status] Submitted'
+
+[9562] link '[Type] Bug'
+
+[10247] link 'Assigned to Byte Blaze'
+
+[10248] link ' 0'
+
+[9566] StaticText 'updated '
+
+[9097] time 'Mar 27, 2023 4:16pm EDT'
+
+[10249] StaticText '5 months ago'</pre><div>
+
+[7925] where [7925] is link 'Issues'</div>
+
+[8983] [404 a11yproject] [1]` to search for the issue.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. We are currently on the GitLab dashboard, which displays various issues. We need to assign the issue regarding the 404 in the a11yproject to Roshanjossey. \n\nTo do this, we need to find the specific issue and perform the assignment. Let's search for the issue and assign it. In summary, the next action I will perform is `type [8983] [404 a11yproject] [1]` to search for the issue."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[8971] RootWebArea 'Issues · Dashboard · GitLab' focused: True
+
+[9167] link 'Skip to content'
+
+[9288] link 'Dashboard'
+
+[9338] button '' hasPopup: menu expanded: False
+
+[8983] textbox 'Search GitLab' required: False
+
+[10315] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[9344] link 'Create new...'
+
+[9346] link 'Issues'
+
+[9732] generic '13 assigned issues'
+
+[9347] link 'Merge requests'
+
+[9734] generic '8 merge requests'
+
+[9349] link 'To-Do List'
+
+[9750] generic 'Todos count'
+
+[9350] link 'Help'
+
+[9352] link 'Byte Blaze'
+
+[9784] img 'Byte Blaze'
+
+[8987] main ''
+
+[9267] heading 'Issues'
+
+[9321] link 'Select project to create issue'
+
+[9322] button 'Toggle project select'
+
+[9323] link 'Open 13'
+
+[9324] link 'Closed 53'
+
+[9325] link 'All 66'
+
+[9274] link 'Subscribe to RSS feed'
+
+[9275] link 'Subscribe to calendar'
+
+[9378] button 'Recent searches'
+
+[9000] button 'Assignee = Byte Blaze'
+
+[10438] button ''
+
+[8998] textbox '' required: False
+
+[9333] button ''
+
+[9284] group ''
+
+[9420] button 'Created date' hasPopup: listbox
+
+[9335] link 'Sort direction'
+
+[9425] link '[Feature suggestion] Support linking to an accessibility statement'
+
+[9427] StaticText '\xa0 1 of 3 checklist items completed'
+
+[9429] StaticText 'byteblaze/a11y-webring.club#71 '
+
+[9430] StaticText '· created '
+
+[9023] time 'Feb 2, 2023 4:51pm EST'
+
+[10163] StaticText '7 months ago'
+
+[9431] StaticText ' by '
+
+[9432] link 'Rohan Kumar'
+
+[9433] StaticText ' \xa0 '
+
+[9435] link 'being discussed'
+
+[9437] link 'feature'
+
+[10170] link 'Assigned to Byte Blaze'
+
+[10171] link ' 1'
+
+[9441] StaticText 'updated '
+
+[9027] time 'Mar 27, 2023 4:17pm EDT'
+
+[10172] StaticText '5 months ago'
+
+[9444] link '[Feature suggestion] WCAG trash panda mode'
+
+[9446] StaticText '\xa0 1 of 3 checklist items completed'
+
+[9448] StaticText 'byteblaze/a11y-webring.club#39 '
+
+[9449] StaticText '· created '
+
+[9033] time 'Jan 22, 2023 2:23pm EST'
+
+[10174] StaticText '7 months ago'
+
+[9450] StaticText ' by '
+
+[9451] link 'Byte Blaze'
+
+[9452] StaticText ' \xa0 '
+
+[9454] link 'feature'
+
+[9456] link 'help wanted'
+
+[10181] link 'Assigned to Byte Blaze'
+
+[10182] link ' 0'
+
+[9460] StaticText 'updated '
+
+[9037] time 'Mar 27, 2023 4:17pm EDT'
+
+[10183] StaticText '5 months ago'
+
+[9463] link '[Feature suggestion] Add a submission form'
+
+[9465] StaticText '\xa0 1 of 3 checklist items completed'
+
+[9467] StaticText 'byteblaze/a11y-webring.club#30 '
+
+[9468] StaticText '· created '
+
+[9043] time 'Jan 20, 2023 3:16pm EST'
+
+[10185] StaticText '7 months ago'
+
+[9469] StaticText ' by '
+
+[9470] link 'Byte Blaze'
+
+[9471] StaticText ' \xa0 '
+
+[9473] link 'feature'
+
+[10190] link 'Assigned to Byte Blaze'
+
+[10191] link ' 0'
+
+[9477] StaticText 'updated '
+
+[9047] time 'Mar 27, 2023 4:17pm EDT'
+
+[10192] StaticText '5 months ago'
+
+[9480] link '[Feature suggestion] Color theme slider'
+
+[9482] StaticText '\xa0 1 of 3 checklist items completed'
+
+[9484] StaticText 'byteblaze/a11y-webring.club#21 '
+
+[9485] StaticText '· created '
+
+[9053] time 'Jan 18, 2023 10:58pm EST'
+
+[10194] StaticText '7 months ago'
+
+[9486] StaticText ' by '
+
+[9487] link 'Byte Blaze'
+
+[9488] StaticText ' \xa0 '
+
+[9490] link 'feature'
+
+[9492] link 'help wanted'
+
+[10201] link 'Assigned to Byte Blaze'
+
+[10202] link ' 0'
+
+[9496] StaticText 'updated '
+
+[9057] time 'Mar 27, 2023 4:17pm EDT'
+
+[10203] StaticText '5 months ago'
+
+[9499] link 'Link to WCAG 2.1 instead of 2.0?'
+
+[9501] StaticText 'a11yproject/a11yproject.com#1460 '
+
+[9502] StaticText '· created '
+
+[9063] time 'Aug 11, 2022 12:10pm EDT'
+
+[10205] StaticText '1 year ago'
+
+[9503] StaticText ' by '
+
+[9504] link 'Byte Blaze'
+
+[9505] StaticText ' \xa0 '
+
+[9507] link 'claimed'
+
+[9509] link 'content'
+
+[10212] link 'Assigned to Byte Blaze'
+
+[10213] link ' 0'
+
+[9513] StaticText 'updated '
+
+[9067] time 'Mar 23, 2023 4:42am EDT'
+
+[10214] StaticText '5 months ago'
+
+[9516] link 'The process for writing for us is both scattered and buried'
+
+[9518] StaticText 'a11yproject/a11yproject.com#1360 '
+
+[9519] StaticText '· created '
+
+[9073] time 'Oct 10, 2021 8:35pm EDT'
+
+[10216] StaticText '1 year ago'
+
+[9520] StaticText ' by '
+
+[9521] link 'Byte Blaze'
+
+[9522] StaticText ' \xa0 '
+
+[9524] link 'content'
+
+[9526] link 'design'
+
+[10223] link 'Assigned to Byte Blaze'
+
+[10224] link ' 2'
+
+[9530] StaticText 'updated '
+
+[9077] time 'Mar 23, 2023 4:41am EDT'
+
+[10225] StaticText '5 months ago'
+
+[9533] link 'Non-Github contribution guidelines need clarification'
+
+[9535] StaticText 'a11yproject/a11yproject.com#1294 '
+
+[9536] StaticText '· created '
+
+[9083] time 'Jun 16, 2021 10:18pm EDT'
+
+[10227] StaticText '2 years ago'
+
+[9537] StaticText ' by '
+
+[9538] link 'Byte Blaze'
+
+[9539] StaticText ' \xa0 '
+
+[9541] link 'claimed'
+
+[9543] link 'content'
+
+[10234] link 'Assigned to Byte Blaze'
+
+[10235] link ' 2'
+
+[9547] StaticText 'updated '
+
+[9087] time 'Mar 23, 2023 4:41am EDT'
+
+[10236] StaticText '5 months ago'
+
+[9550] link 'Outdated dependencies'
+
+[9552] StaticText 'byteblaze/empathy-prompts#18 '
+
+[9553] StaticText '· created '
+
+[9093] time 'Jun 1, 2021 8:52pm EDT'
+
+[10238] StaticText '2 years ago'
+
+[9554] StaticText ' by '
+
+[9555] link 'Byte Blaze'
+
+[9556] StaticText ' \xa0 '
+
+[9558] link '[Priority] Critical'
+
+[9560] link '[Status] Submitted'
+
+[9562] link '[Type] Bug'
+
+[10247] link 'Assigned to Byte Blaze'
+
+[10248] link ' 0'
+
+[9566] StaticText 'updated '
+
+[9097] time 'Mar 27, 2023 4:16pm EDT'
+
+[10249] StaticText '5 months ago'</pre><div>
+
+[8983] [404 a11yproject] [1]` to search for the issue.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[8983] [404 a11yproject] [1]``` to search for the issue.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [35, 31, 35, 15, 80, 32, 32, 104, 95, 97, 94, 89, 84, 82, 99, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '8983', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. We are currently on the GitLab dashboard, which displays various issues. We need to assign the issue regarding the 404 in the a11yproject to Roshanjossey. \n\nTo do this, we need to find the specific issue and perform the assignment. Let's search for the issue and assign it. In summary, the next action I will perform is ```type [8983] [404 a11yproject] [1]``` to search for the issue."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [8983] [404 a11yproject
+
+[8983] is [8983] textbox 'Search GitLab' required: False</pre></div></div>
+
+[10455] RootWebArea '404 a11yproject · Search · GitLab' focused: True
+
+[10505] link 'Skip to content'
+
+[10617] link 'Dashboard'
+
+[10673] button '' hasPopup: menu expanded: False
+
+[10679] link 'Create new...'
+
+[10681] link 'Issues'
+
+[10836] generic '13 assigned issues'
+
+[10682] link 'Merge requests'
+
+[10838] generic '8 merge requests'
+
+[10684] link 'To-Do List'
+
+[10854] generic 'Todos count'
+
+[10685] link 'Help'
+
+[10687] link 'Byte Blaze'
+
+[10888] img 'Byte Blaze'
+
+[10461] main ''
+
+[10607] heading 'Search'
+
+[10654] StaticText 'What are you searching for?'
+
+[10466] group ''
+
+[10467] searchbox 'Search for projects, issues, etc.'
+
+[10926] StaticText '404 a11yproject'
+
+[10655] button 'Clear'
+
+[10695] button 'Search'
+
+[10658] StaticText 'Group'
+
+[10659] button 'Any' hasPopup: menu expanded: False
+
+[10661] StaticText 'Project'
+
+[10662] button 'Any' hasPopup: menu expanded: False
+
+[10609] separator '' orientation: horizontal
+
+[10939] link 'Projects 0'
+
+[10940] link 'Issues 10'
+
+[10941] link 'Merge requests 6'
+
+[10942] link 'Milestones 0'
+
+[10943] link 'Users 0'
+
+[10666] heading " We couldn't find any projects matching 404 a11yproject"</pre><div>
+
+[8983] [404 a11yproject
+
+[8983] is textbox 'Search GitLab' required: False</div>
+

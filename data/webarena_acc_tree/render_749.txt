@@ -1,0 +1,6406 @@
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[300] link 'Skip to content'
+
+[421] link 'Dashboard'
+
+[500] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1887] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[281] link 'Create new...'
+
+[283] link 'Issues'
+
+[1412] generic '13 assigned issues'
+
+[507] link 'Merge requests'
+
+[1414] generic '8 merge requests'
+
+[509] link 'To-Do List'
+
+[1430] generic 'Todos count'
+
+[510] link 'Help'
+
+[512] link 'Byte Blaze'
+
+[1464] img 'Byte Blaze'
+
+[17] main ''
+
+[400] heading 'Projects'
+
+[403] link 'New project'
+
+[514] link 'Yours 21'
+
+[515] link 'Starred 3'
+
+[516] link 'Explore'
+
+[517] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[470] button 'Name'
+
+[561] link 'All'
+
+[562] link 'Personal'
+
+[563] link 'A'
+
+[566] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[569] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[567] generic 'Public - The project can be accessed without any authentication.'
+
+[575] StaticText 'Owner'
+
+[1520] generic 'lipstick'
+
+[1918] StaticText '💄'
+
+[1521] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[587] link '1'
+
+[588] link '0'
+
+[589] link '0'
+
+[590] link '1'
+
+[599] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[600] StaticText '5 months ago'
+
+[601] link 'A'
+
+[604] heading 'Byte Blaze / a11y-webring.club'
+
+[607] link 'Byte Blaze / a11y-webring.club'
+
+[605] generic 'Public - The project can be accessed without any authentication.'
+
+[613] StaticText 'Owner'
+
+[1539] generic 'globe with meridians'
+
+[1919] StaticText '🌐'
+
+[1540] StaticText ' A webring for digital accessibility practitioners.'
+
+[625] link '2'
+
+[626] link '0'
+
+[627] link '1'
+
+[628] link '4'
+
+[637] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[638] StaticText '5 months ago'
+
+[639] link 'A'
+
+[642] heading 'The A11Y Project / a11yproject.com'
+
+[645] link 'The A11Y Project / a11yproject.com'
+
+[643] generic 'Public - The project can be accessed without any authentication.'
+
+[651] StaticText 'Maintainer'
+
+[1558] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[663] link '21'
+
+[664] link '0'
+
+[665] link '10'
+
+[666] link '40'
+
+[675] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[676] StaticText '5 months ago'
+
+[677] link 'A'
+
+[680] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[683] link 'Byte Blaze / accessible-html-content-patterns'
+
+[681] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[689] StaticText 'Owner'
+
+[1576] generic 'wheelchair symbol'
+
+[1920] StaticText '♿'
+
+[1577] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[701] link '1'
+
+[702] link '0'
+
+[703] link '0'
+
+[704] link '0'
+
+[713] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[714] StaticText '5 months ago'
+
+[715] link 'A'
+
+[717] heading 'crew / awesome_web_agents'
+
+[720] link 'crew / awesome_web_agents'
+
+[718] generic 'Public - The project can be accessed without any authentication.'
+
+[726] StaticText 'Owner'
+
+[737] link '0'
+
+[738] link '0'
+
+[739] link '0'
+
+[740] link '0'
+
+[749] StaticText 'Updated '
+
+[83] time 'Sep 12, 2023 2:11am EDT'
+
+[750] StaticText '5 minutes ago'
+
+[751] link ''
+
+[754] heading 'Byte Blaze / cloud-to-butt'
+
+[757] link 'Byte Blaze / cloud-to-butt'
+
+[755] generic 'Public - The project can be accessed without any authentication.'
+
+[763] StaticText 'Owner'
+
+[775] link '0'
+
+[776] link '0'
+
+[777] link '0'
+
+[778] link '0'
+
+[787] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 7:22pm EDT'
+
+[788] StaticText '5 months ago'
+
+[789] link 'D'
+
+[792] heading 'Primer / design'
+
+[795] link 'Primer / design'
+
+[793] generic 'Public - The project can be accessed without any authentication.'
+
+[801] StaticText 'Developer'
+
+[1629] StaticText 'Primer Design Guidelines'
+
+[813] link '21'
+
+[814] link '0'
+
+[815] link '16'
+
+[816] link '21'
+
+[825] StaticText 'Updated '
+
+[107] time 'Mar 27, 2023 5:04pm EDT'
+
+[826] StaticText '5 months ago'</pre><div>
+
+[283]```
+
+[514]```
+
+[403]```
+
+[21] [project_site]```
+
+[470]```
+
+[562]```
+
+[563]```
+
+[403]```
+
+[514]```
+
+[25]```
+
+[25] [primer, convexegg, vinta]```
+
+[463]```
+
+[506]```
+
+[500]```
+
+[506]```
+
+[500]```
+
+[506]```
+
+[500]```
+
+[12]```
+
+[506]```
+
+[500]```
+
+[506]```
+
+[500]```
+
+[283]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '283', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. To start a private project on GitLab, I need to click on the 'Create new...' link. After that, I can follow the prompts to create the project with the NodeJS template. To add primer, convexegg, and vinta as members, I need to navigate to the project's settings and add them as members. I will issue the actions accordingly. \n\nIn summary, the next actions I will perform are:\n1. ```click [283]```\n2. ```click [514]```\n3. ```click [403]```\n4. ```type [21] [project_site]```\n5. ```click [470]```\n6. ```click [562]```\n7. ```click [563]```\n8. ```click [403]```\n9. ```click [514]```\n10. ```click [25]```\n11. ```type [25] [primer, convexegg, vinta]```\n12. ```press [Enter]```\n13. ```click [463]```\n14. ```click [506]```\n15. ```click [500]```\n16. ```click [506]```\n17. ```click [500]```\n18. ```click [506]```\n19. ```click [500]```\n20. ```click [12]```\n21. ```click [506]```\n22. ```click [500]```\n23. ```click [506]```\n24. ```click [500]```\n25. ```click [283]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [283] where [283] is [283] link 'Issues'</pre></div></div>
+
+[1932] RootWebArea 'Issues · Dashboard · GitLab' focused: True
+
+[2128] link 'Skip to content'
+
+[2249] link 'Dashboard'
+
+[2299] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3276] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2305] link 'Create new...'
+
+[2307] link 'Issues'
+
+[2693] generic '13 assigned issues'
+
+[2308] link 'Merge requests'
+
+[2695] generic '8 merge requests'
+
+[2310] link 'To-Do List'
+
+[2711] generic 'Todos count'
+
+[2311] link 'Help'
+
+[2313] link 'Byte Blaze'
+
+[2745] img 'Byte Blaze'
+
+[1948] main ''
+
+[2228] heading 'Issues'
+
+[2282] link 'Select project to create issue'
+
+[2283] button 'Toggle project select'
+
+[2284] link 'Open 13'
+
+[2285] link 'Closed 53'
+
+[2286] link 'All 66'
+
+[2235] link 'Subscribe to RSS feed'
+
+[2236] link 'Subscribe to calendar'
+
+[2339] button 'Recent searches'
+
+[1961] button 'Assignee = Byte Blaze'
+
+[3399] button ''
+
+[1959] textbox '' required: False
+
+[2294] button ''
+
+[2245] group ''
+
+[2381] button 'Created date' hasPopup: listbox
+
+[2296] link 'Sort direction'
+
+[2386] link '[Feature suggestion] Support linking to an accessibility statement'
+
+[2388] StaticText '\xa0 1 of 3 checklist items completed'
+
+[2390] StaticText 'byteblaze/a11y-webring.club#71 '
+
+[2391] StaticText '· created '
+
+[1975] time 'Feb 2, 2023 4:51pm EST'
+
+[3124] StaticText '7 months ago'
+
+[2392] StaticText ' by '
+
+[2393] link 'Rohan Kumar'
+
+[2394] StaticText ' \xa0 '
+
+[2396] link 'being discussed'
+
+[2398] link 'feature'
+
+[3131] link 'Assigned to Byte Blaze'
+
+[3132] link ' 1'
+
+[2402] StaticText 'updated '
+
+[1979] time 'Mar 27, 2023 4:17pm EDT'
+
+[3133] StaticText '5 months ago'
+
+[2405] link '[Feature suggestion] WCAG trash panda mode'
+
+[2407] StaticText '\xa0 1 of 3 checklist items completed'
+
+[2409] StaticText 'byteblaze/a11y-webring.club#39 '
+
+[2410] StaticText '· created '
+
+[1985] time 'Jan 22, 2023 2:23pm EST'
+
+[3135] StaticText '7 months ago'
+
+[2411] StaticText ' by '
+
+[2412] link 'Byte Blaze'
+
+[2413] StaticText ' \xa0 '
+
+[2415] link 'feature'
+
+[2417] link 'help wanted'
+
+[3142] link 'Assigned to Byte Blaze'
+
+[3143] link ' 0'
+
+[2421] StaticText 'updated '
+
+[1989] time 'Mar 27, 2023 4:17pm EDT'
+
+[3144] StaticText '5 months ago'
+
+[2424] link '[Feature suggestion] Add a submission form'
+
+[2426] StaticText '\xa0 1 of 3 checklist items completed'
+
+[2428] StaticText 'byteblaze/a11y-webring.club#30 '
+
+[2429] StaticText '· created '
+
+[1995] time 'Jan 20, 2023 3:16pm EST'
+
+[3146] StaticText '7 months ago'
+
+[2430] StaticText ' by '
+
+[2431] link 'Byte Blaze'
+
+[2432] StaticText ' \xa0 '
+
+[2434] link 'feature'
+
+[3151] link 'Assigned to Byte Blaze'
+
+[3152] link ' 0'
+
+[2438] StaticText 'updated '
+
+[1999] time 'Mar 27, 2023 4:17pm EDT'
+
+[3153] StaticText '5 months ago'
+
+[2441] link '[Feature suggestion] Color theme slider'
+
+[2443] StaticText '\xa0 1 of 3 checklist items completed'
+
+[2445] StaticText 'byteblaze/a11y-webring.club#21 '
+
+[2446] StaticText '· created '
+
+[2005] time 'Jan 18, 2023 10:58pm EST'
+
+[3155] StaticText '7 months ago'
+
+[2447] StaticText ' by '
+
+[2448] link 'Byte Blaze'
+
+[2449] StaticText ' \xa0 '
+
+[2451] link 'feature'
+
+[2453] link 'help wanted'
+
+[3162] link 'Assigned to Byte Blaze'
+
+[3163] link ' 0'
+
+[2457] StaticText 'updated '
+
+[2009] time 'Mar 27, 2023 4:17pm EDT'
+
+[3164] StaticText '5 months ago'
+
+[2460] link 'Link to WCAG 2.1 instead of 2.0?'
+
+[2462] StaticText 'a11yproject/a11yproject.com#1460 '
+
+[2463] StaticText '· created '
+
+[2015] time 'Aug 11, 2022 12:10pm EDT'
+
+[3166] StaticText '1 year ago'
+
+[2464] StaticText ' by '
+
+[2465] link 'Byte Blaze'
+
+[2466] StaticText ' \xa0 '
+
+[2468] link 'claimed'
+
+[2470] link 'content'
+
+[3173] link 'Assigned to Byte Blaze'
+
+[3174] link ' 0'
+
+[2474] StaticText 'updated '
+
+[2019] time 'Mar 23, 2023 4:42am EDT'
+
+[3175] StaticText '5 months ago'
+
+[2477] link 'The process for writing for us is both scattered and buried'
+
+[2479] StaticText 'a11yproject/a11yproject.com#1360 '
+
+[2480] StaticText '· created '
+
+[2025] time 'Oct 10, 2021 8:35pm EDT'
+
+[3177] StaticText '1 year ago'
+
+[2481] StaticText ' by '
+
+[2482] link 'Byte Blaze'
+
+[2483] StaticText ' \xa0 '
+
+[2485] link 'content'
+
+[2487] link 'design'
+
+[3184] link 'Assigned to Byte Blaze'
+
+[3185] link ' 2'
+
+[2491] StaticText 'updated '
+
+[2029] time 'Mar 23, 2023 4:41am EDT'
+
+[3186] StaticText '5 months ago'
+
+[2494] link 'Non-Github contribution guidelines need clarification'
+
+[2496] StaticText 'a11yproject/a11yproject.com#1294 '
+
+[2497] StaticText '· created '
+
+[2035] time 'Jun 16, 2021 10:18pm EDT'
+
+[3188] StaticText '2 years ago'
+
+[2498] StaticText ' by '
+
+[2499] link 'Byte Blaze'
+
+[2500] StaticText ' \xa0 '
+
+[2502] link 'claimed'
+
+[2504] link 'content'
+
+[3195] link 'Assigned to Byte Blaze'
+
+[3196] link ' 2'
+
+[2508] StaticText 'updated '
+
+[2039] time 'Mar 23, 2023 4:41am EDT'
+
+[3197] StaticText '5 months ago'
+
+[2511] link 'Outdated dependencies'
+
+[2513] StaticText 'byteblaze/empathy-prompts#18 '
+
+[2514] StaticText '· created '
+
+[2045] time 'Jun 1, 2021 8:52pm EDT'
+
+[3199] StaticText '2 years ago'
+
+[2515] StaticText ' by '
+
+[2516] link 'Byte Blaze'
+
+[2517] StaticText ' \xa0 '
+
+[2519] link '[Priority] Critical'
+
+[2521] link '[Status] Submitted'
+
+[2523] link '[Type] Bug'
+
+[3208] link 'Assigned to Byte Blaze'
+
+[3209] link ' 0'
+
+[2527] StaticText 'updated '
+
+[2049] time 'Mar 27, 2023 4:16pm EDT'
+
+[3210] StaticText '5 months ago'</pre><div>
+
+[283] where [283] is link 'Issues'</div>
+
+[2305]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2305', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We are currently on the GitLab dashboard and we need to start a private project with the NodeJS template and add specific members. To start, we need to navigate to the project creation page. From the current page, I can see a link with the text "Create new...". I will click on that link to proceed. In summary, the next action I will perform is ```click [2305]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2305] where [2305] is [2305] link 'Create new...'</pre></div></div>
+
+[1932] RootWebArea 'Issues · Dashboard · GitLab' focused: True
+
+[2128] link 'Skip to content'
+
+[2249] link 'Dashboard'
+
+[2299] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3276] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2305] link 'Create new...' focused: True expanded: True describedby: gl-tooltip3
+
+[3407] link 'New project/repository'
+
+[3408] link 'New group'
+
+[3411] link 'New snippet'
+
+[2307] link 'Issues'
+
+[2693] generic '13 assigned issues'
+
+[2308] link 'Merge requests'
+
+[2695] generic '8 merge requests'
+
+[2310] link 'To-Do List'
+
+[2711] generic 'Todos count'
+
+[2311] link 'Help'
+
+[2313] link 'Byte Blaze'
+
+[2745] img 'Byte Blaze'
+
+[1948] main ''
+
+[2228] heading 'Issues'
+
+[2282] link 'Select project to create issue'
+
+[2283] button 'Toggle project select'
+
+[2284] link 'Open 13'
+
+[2285] link 'Closed 53'
+
+[2286] link 'All 66'
+
+[2235] link 'Subscribe to RSS feed'
+
+[2236] link 'Subscribe to calendar'
+
+[2339] button 'Recent searches'
+
+[1961] button 'Assignee = Byte Blaze'
+
+[3399] button ''
+
+[1959] textbox '' required: False
+
+[2294] button ''
+
+[2245] group ''
+
+[2381] button 'Created date' hasPopup: listbox
+
+[2296] link 'Sort direction'
+
+[2386] link '[Feature suggestion] Support linking to an accessibility statement'
+
+[2388] StaticText '\xa0 1 of 3 checklist items completed'
+
+[2390] StaticText 'byteblaze/a11y-webring.club#71 '
+
+[2391] StaticText '· created '
+
+[1975] time 'Feb 2, 2023 4:51pm EST'
+
+[3124] StaticText '7 months ago'
+
+[2392] StaticText ' by '
+
+[2393] link 'Rohan Kumar'
+
+[2394] StaticText ' \xa0 '
+
+[2396] link 'being discussed'
+
+[2398] link 'feature'
+
+[3131] link 'Assigned to Byte Blaze'
+
+[3132] link ' 1'
+
+[2402] StaticText 'updated '
+
+[1979] time 'Mar 27, 2023 4:17pm EDT'
+
+[3133] StaticText '5 months ago'
+
+[2405] link '[Feature suggestion] WCAG trash panda mode'
+
+[2407] StaticText '\xa0 1 of 3 checklist items completed'
+
+[2409] StaticText 'byteblaze/a11y-webring.club#39 '
+
+[2410] StaticText '· created '
+
+[1985] time 'Jan 22, 2023 2:23pm EST'
+
+[3135] StaticText '7 months ago'
+
+[2411] StaticText ' by '
+
+[2412] link 'Byte Blaze'
+
+[2413] StaticText ' \xa0 '
+
+[2415] link 'feature'
+
+[2417] link 'help wanted'
+
+[3142] link 'Assigned to Byte Blaze'
+
+[3143] link ' 0'
+
+[2421] StaticText 'updated '
+
+[1989] time 'Mar 27, 2023 4:17pm EDT'
+
+[3144] StaticText '5 months ago'
+
+[2424] link '[Feature suggestion] Add a submission form'
+
+[2426] StaticText '\xa0 1 of 3 checklist items completed'
+
+[2428] StaticText 'byteblaze/a11y-webring.club#30 '
+
+[2429] StaticText '· created '
+
+[1995] time 'Jan 20, 2023 3:16pm EST'
+
+[3146] StaticText '7 months ago'
+
+[2430] StaticText ' by '
+
+[2431] link 'Byte Blaze'
+
+[2432] StaticText ' \xa0 '
+
+[2434] link 'feature'
+
+[3151] link 'Assigned to Byte Blaze'
+
+[3152] link ' 0'
+
+[2438] StaticText 'updated '
+
+[1999] time 'Mar 27, 2023 4:17pm EDT'
+
+[3153] StaticText '5 months ago'
+
+[2441] link '[Feature suggestion] Color theme slider'
+
+[2443] StaticText '\xa0 1 of 3 checklist items completed'
+
+[2445] StaticText 'byteblaze/a11y-webring.club#21 '
+
+[2446] StaticText '· created '
+
+[2005] time 'Jan 18, 2023 10:58pm EST'
+
+[3155] StaticText '7 months ago'
+
+[2447] StaticText ' by '
+
+[2448] link 'Byte Blaze'
+
+[2449] StaticText ' \xa0 '
+
+[2451] link 'feature'
+
+[2453] link 'help wanted'
+
+[3162] link 'Assigned to Byte Blaze'
+
+[3163] link ' 0'
+
+[2457] StaticText 'updated '
+
+[2009] time 'Mar 27, 2023 4:17pm EDT'
+
+[3164] StaticText '5 months ago'
+
+[2460] link 'Link to WCAG 2.1 instead of 2.0?'
+
+[2462] StaticText 'a11yproject/a11yproject.com#1460 '
+
+[2463] StaticText '· created '
+
+[2015] time 'Aug 11, 2022 12:10pm EDT'
+
+[3166] StaticText '1 year ago'
+
+[2464] StaticText ' by '
+
+[2465] link 'Byte Blaze'
+
+[2466] StaticText ' \xa0 '
+
+[2468] link 'claimed'
+
+[2470] link 'content'
+
+[3173] link 'Assigned to Byte Blaze'
+
+[3174] link ' 0'
+
+[2474] StaticText 'updated '
+
+[2019] time 'Mar 23, 2023 4:42am EDT'
+
+[3175] StaticText '5 months ago'
+
+[2477] link 'The process for writing for us is both scattered and buried'
+
+[2479] StaticText 'a11yproject/a11yproject.com#1360 '
+
+[2480] StaticText '· created '
+
+[2025] time 'Oct 10, 2021 8:35pm EDT'
+
+[3177] StaticText '1 year ago'
+
+[2481] StaticText ' by '
+
+[2482] link 'Byte Blaze'
+
+[2483] StaticText ' \xa0 '
+
+[2485] link 'content'
+
+[2487] link 'design'
+
+[3184] link 'Assigned to Byte Blaze'
+
+[3185] link ' 2'
+
+[2491] StaticText 'updated '
+
+[2029] time 'Mar 23, 2023 4:41am EDT'
+
+[3186] StaticText '5 months ago'
+
+[2494] link 'Non-Github contribution guidelines need clarification'
+
+[2496] StaticText 'a11yproject/a11yproject.com#1294 '
+
+[2497] StaticText '· created '
+
+[2035] time 'Jun 16, 2021 10:18pm EDT'
+
+[3188] StaticText '2 years ago'
+
+[2498] StaticText ' by '
+
+[2499] link 'Byte Blaze'
+
+[2500] StaticText ' \xa0 '
+
+[2502] link 'claimed'
+
+[2504] link 'content'
+
+[3195] link 'Assigned to Byte Blaze'
+
+[3196] link ' 2'
+
+[2508] StaticText 'updated '
+
+[2039] time 'Mar 23, 2023 4:41am EDT'
+
+[3197] StaticText '5 months ago'
+
+[2511] link 'Outdated dependencies'
+
+[2513] StaticText 'byteblaze/empathy-prompts#18 '
+
+[2514] StaticText '· created '
+
+[2045] time 'Jun 1, 2021 8:52pm EDT'
+
+[3199] StaticText '2 years ago'
+
+[2515] StaticText ' by '
+
+[2516] link 'Byte Blaze'
+
+[2517] StaticText ' \xa0 '
+
+[2519] link '[Priority] Critical'
+
+[2521] link '[Status] Submitted'
+
+[2523] link '[Type] Bug'
+
+[3208] link 'Assigned to Byte Blaze'
+
+[3209] link ' 0'
+
+[2527] StaticText 'updated '
+
+[2049] time 'Mar 27, 2023 4:16pm EDT'
+
+[3210] StaticText '5 months ago'
+
+[3418] tooltip 'Create new...'</pre><div>
+
+[2305] where [2305] is link 'Create new...'</div>
+
+[1932] RootWebArea 'Issues · Dashboard · GitLab' focused: True
+
+[2128] link 'Skip to content'
+
+[2249] link 'Dashboard'
+
+[2299] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3276] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2305] link 'Create new...' focused: True expanded: True describedby: gl-tooltip3
+
+[3407] link 'New project/repository'
+
+[3408] link 'New group'
+
+[3411] link 'New snippet'
+
+[2307] link 'Issues'
+
+[2693] generic '13 assigned issues'
+
+[2308] link 'Merge requests'
+
+[2695] generic '8 merge requests'
+
+[2310] link 'To-Do List'
+
+[2711] generic 'Todos count'
+
+[2311] link 'Help'
+
+[2313] link 'Byte Blaze'
+
+[2745] img 'Byte Blaze'
+
+[1948] main ''
+
+[2228] heading 'Issues'
+
+[2282] link 'Select project to create issue'
+
+[2283] button 'Toggle project select'
+
+[2284] link 'Open 13'
+
+[2285] link 'Closed 53'
+
+[2286] link 'All 66'
+
+[2235] link 'Subscribe to RSS feed'
+
+[2236] link 'Subscribe to calendar'
+
+[2339] button 'Recent searches'
+
+[1961] button 'Assignee = Byte Blaze'
+
+[3399] button ''
+
+[1959] textbox '' required: False
+
+[2294] button ''
+
+[2245] group ''
+
+[2381] button 'Created date' hasPopup: listbox
+
+[2296] link 'Sort direction'
+
+[2386] link '[Feature suggestion] Support linking to an accessibility statement'
+
+[2388] StaticText '\xa0 1 of 3 checklist items completed'
+
+[2390] StaticText 'byteblaze/a11y-webring.club#71 '
+
+[2391] StaticText '· created '
+
+[1975] time 'Feb 2, 2023 4:51pm EST'
+
+[3124] StaticText '7 months ago'
+
+[2392] StaticText ' by '
+
+[2393] link 'Rohan Kumar'
+
+[2394] StaticText ' \xa0 '
+
+[2396] link 'being discussed'
+
+[2398] link 'feature'
+
+[3131] link 'Assigned to Byte Blaze'
+
+[3132] link ' 1'
+
+[2402] StaticText 'updated '
+
+[1979] time 'Mar 27, 2023 4:17pm EDT'
+
+[3133] StaticText '5 months ago'
+
+[2405] link '[Feature suggestion] WCAG trash panda mode'
+
+[2407] StaticText '\xa0 1 of 3 checklist items completed'
+
+[2409] StaticText 'byteblaze/a11y-webring.club#39 '
+
+[2410] StaticText '· created '
+
+[1985] time 'Jan 22, 2023 2:23pm EST'
+
+[3135] StaticText '7 months ago'
+
+[2411] StaticText ' by '
+
+[2412] link 'Byte Blaze'
+
+[2413] StaticText ' \xa0 '
+
+[2415] link 'feature'
+
+[2417] link 'help wanted'
+
+[3142] link 'Assigned to Byte Blaze'
+
+[3143] link ' 0'
+
+[2421] StaticText 'updated '
+
+[1989] time 'Mar 27, 2023 4:17pm EDT'
+
+[3144] StaticText '5 months ago'
+
+[2424] link '[Feature suggestion] Add a submission form'
+
+[2426] StaticText '\xa0 1 of 3 checklist items completed'
+
+[2428] StaticText 'byteblaze/a11y-webring.club#30 '
+
+[2429] StaticText '· created '
+
+[1995] time 'Jan 20, 2023 3:16pm EST'
+
+[3146] StaticText '7 months ago'
+
+[2430] StaticText ' by '
+
+[2431] link 'Byte Blaze'
+
+[2432] StaticText ' \xa0 '
+
+[2434] link 'feature'
+
+[3151] link 'Assigned to Byte Blaze'
+
+[3152] link ' 0'
+
+[2438] StaticText 'updated '
+
+[1999] time 'Mar 27, 2023 4:17pm EDT'
+
+[3153] StaticText '5 months ago'
+
+[2441] link '[Feature suggestion] Color theme slider'
+
+[2443] StaticText '\xa0 1 of 3 checklist items completed'
+
+[2445] StaticText 'byteblaze/a11y-webring.club#21 '
+
+[2446] StaticText '· created '
+
+[2005] time 'Jan 18, 2023 10:58pm EST'
+
+[3155] StaticText '7 months ago'
+
+[2447] StaticText ' by '
+
+[2448] link 'Byte Blaze'
+
+[2449] StaticText ' \xa0 '
+
+[2451] link 'feature'
+
+[2453] link 'help wanted'
+
+[3162] link 'Assigned to Byte Blaze'
+
+[3163] link ' 0'
+
+[2457] StaticText 'updated '
+
+[2009] time 'Mar 27, 2023 4:17pm EDT'
+
+[3164] StaticText '5 months ago'
+
+[2460] link 'Link to WCAG 2.1 instead of 2.0?'
+
+[2462] StaticText 'a11yproject/a11yproject.com#1460 '
+
+[2463] StaticText '· created '
+
+[2015] time 'Aug 11, 2022 12:10pm EDT'
+
+[3166] StaticText '1 year ago'
+
+[2464] StaticText ' by '
+
+[2465] link 'Byte Blaze'
+
+[2466] StaticText ' \xa0 '
+
+[2468] link 'claimed'
+
+[2470] link 'content'
+
+[3173] link 'Assigned to Byte Blaze'
+
+[3174] link ' 0'
+
+[2474] StaticText 'updated '
+
+[2019] time 'Mar 23, 2023 4:42am EDT'
+
+[3175] StaticText '5 months ago'
+
+[2477] link 'The process for writing for us is both scattered and buried'
+
+[2479] StaticText 'a11yproject/a11yproject.com#1360 '
+
+[2480] StaticText '· created '
+
+[2025] time 'Oct 10, 2021 8:35pm EDT'
+
+[3177] StaticText '1 year ago'
+
+[2481] StaticText ' by '
+
+[2482] link 'Byte Blaze'
+
+[2483] StaticText ' \xa0 '
+
+[2485] link 'content'
+
+[2487] link 'design'
+
+[3184] link 'Assigned to Byte Blaze'
+
+[3185] link ' 2'
+
+[2491] StaticText 'updated '
+
+[2029] time 'Mar 23, 2023 4:41am EDT'
+
+[3186] StaticText '5 months ago'
+
+[2494] link 'Non-Github contribution guidelines need clarification'
+
+[2496] StaticText 'a11yproject/a11yproject.com#1294 '
+
+[2497] StaticText '· created '
+
+[2035] time 'Jun 16, 2021 10:18pm EDT'
+
+[3188] StaticText '2 years ago'
+
+[2498] StaticText ' by '
+
+[2499] link 'Byte Blaze'
+
+[2500] StaticText ' \xa0 '
+
+[2502] link 'claimed'
+
+[2504] link 'content'
+
+[3195] link 'Assigned to Byte Blaze'
+
+[3196] link ' 2'
+
+[2508] StaticText 'updated '
+
+[2039] time 'Mar 23, 2023 4:41am EDT'
+
+[3197] StaticText '5 months ago'
+
+[2511] link 'Outdated dependencies'
+
+[2513] StaticText 'byteblaze/empathy-prompts#18 '
+
+[2514] StaticText '· created '
+
+[2045] time 'Jun 1, 2021 8:52pm EDT'
+
+[3199] StaticText '2 years ago'
+
+[2515] StaticText ' by '
+
+[2516] link 'Byte Blaze'
+
+[2517] StaticText ' \xa0 '
+
+[2519] link '[Priority] Critical'
+
+[2521] link '[Status] Submitted'
+
+[2523] link '[Type] Bug'
+
+[3208] link 'Assigned to Byte Blaze'
+
+[3209] link ' 0'
+
+[2527] StaticText 'updated '
+
+[2049] time 'Mar 27, 2023 4:16pm EDT'
+
+[3210] StaticText '5 months ago'
+
+[3418] tooltip 'Create new...'</pre><div>
+
+[1932] RootWebArea 'Issues · Dashboard · GitLab' focused: True
+
+[2128] link 'Skip to content'
+
+[2249] link 'Dashboard'
+
+[2299] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3276] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2305] link 'Create new...' focused: True expanded: True describedby: gl-tooltip3
+
+[3407] link 'New project/repository'
+
+[3408] link 'New group'
+
+[3411] link 'New snippet'
+
+[2307] link 'Issues'
+
+[2693] generic '13 assigned issues'
+
+[2308] link 'Merge requests'
+
+[2695] generic '8 merge requests'
+
+[2310] link 'To-Do List'
+
+[2711] generic 'Todos count'
+
+[2311] link 'Help'
+
+[2313] link 'Byte Blaze'
+
+[2745] img 'Byte Blaze'
+
+[1948] main ''
+
+[2441] link '[Feature suggestion] Color theme slider'
+
+[2443] StaticText '\xa0 1 of 3 checklist items completed'
+
+[2445] StaticText 'byteblaze/a11y-webring.club#21 '
+
+[2446] StaticText '· created '
+
+[2005] time 'Jan 18, 2023 10:58pm EST'
+
+[3155] StaticText '7 months ago'
+
+[2447] StaticText ' by '
+
+[2448] link 'Byte Blaze'
+
+[2449] StaticText ' \xa0 '
+
+[2451] link 'feature'
+
+[2453] link 'help wanted'
+
+[3162] link 'Assigned to Byte Blaze'
+
+[3163] link ' 0'
+
+[2457] StaticText 'updated '
+
+[2009] time 'Mar 27, 2023 4:17pm EDT'
+
+[3164] StaticText '5 months ago'
+
+[2460] link 'Link to WCAG 2.1 instead of 2.0?'
+
+[2462] StaticText 'a11yproject/a11yproject.com#1460 '
+
+[2463] StaticText '· created '
+
+[2015] time 'Aug 11, 2022 12:10pm EDT'
+
+[3166] StaticText '1 year ago'
+
+[2464] StaticText ' by '
+
+[2465] link 'Byte Blaze'
+
+[2466] StaticText ' \xa0 '
+
+[2468] link 'claimed'
+
+[2470] link 'content'
+
+[3173] link 'Assigned to Byte Blaze'
+
+[3174] link ' 0'
+
+[2474] StaticText 'updated '
+
+[2019] time 'Mar 23, 2023 4:42am EDT'
+
+[3175] StaticText '5 months ago'
+
+[2477] link 'The process for writing for us is both scattered and buried'
+
+[2479] StaticText 'a11yproject/a11yproject.com#1360 '
+
+[2480] StaticText '· created '
+
+[2025] time 'Oct 10, 2021 8:35pm EDT'
+
+[3177] StaticText '1 year ago'
+
+[2481] StaticText ' by '
+
+[2482] link 'Byte Blaze'
+
+[2483] StaticText ' \xa0 '
+
+[2485] link 'content'
+
+[2487] link 'design'
+
+[3184] link 'Assigned to Byte Blaze'
+
+[3185] link ' 2'
+
+[2491] StaticText 'updated '
+
+[2029] time 'Mar 23, 2023 4:41am EDT'
+
+[3186] StaticText '5 months ago'
+
+[2494] link 'Non-Github contribution guidelines need clarification'
+
+[2496] StaticText 'a11yproject/a11yproject.com#1294 '
+
+[2497] StaticText '· created '
+
+[2035] time 'Jun 16, 2021 10:18pm EDT'
+
+[3188] StaticText '2 years ago'
+
+[2498] StaticText ' by '
+
+[2499] link 'Byte Blaze'
+
+[2500] StaticText ' \xa0 '
+
+[2502] link 'claimed'
+
+[2504] link 'content'
+
+[3195] link 'Assigned to Byte Blaze'
+
+[3196] link ' 2'
+
+[2508] StaticText 'updated '
+
+[2039] time 'Mar 23, 2023 4:41am EDT'
+
+[3197] StaticText '5 months ago'
+
+[2511] link 'Outdated dependencies'
+
+[2513] StaticText 'byteblaze/empathy-prompts#18 '
+
+[2514] StaticText '· created '
+
+[2045] time 'Jun 1, 2021 8:52pm EDT'
+
+[3199] StaticText '2 years ago'
+
+[2515] StaticText ' by '
+
+[2516] link 'Byte Blaze'
+
+[2517] StaticText ' \xa0 '
+
+[2519] link '[Priority] Critical'
+
+[2521] link '[Status] Submitted'
+
+[2523] link '[Type] Bug'
+
+[3208] link 'Assigned to Byte Blaze'
+
+[3209] link ' 0'
+
+[2527] StaticText 'updated '
+
+[2049] time 'Mar 27, 2023 4:16pm EDT'
+
+[3210] StaticText '5 months ago'
+
+[2530] link 'Inaccessibility: Low contrast .c-card__additional in Featured Resource Card'
+
+[2532] StaticText 'a11yproject/a11yproject.com#1208 '
+
+[2533] StaticText '· created '
+
+[2055] time 'Mar 12, 2021 10:56am EST'
+
+[3212] StaticText '2 years ago'
+
+[2534] StaticText ' by '
+
+[2535] link 'Administrator'
+
+[2536] StaticText ' \xa0 '
+
+[2538] link 'accessibility'
+
+[2540] link 'resource'
+
+[2542] link 'styling'
+
+[3221] link 'Assigned to Byte Blaze'
+
+[3222] link ' 7'
+
+[2546] StaticText 'updated '
+
+[2059] time 'Mar 23, 2023 4:41am EDT'
+
+[3223] StaticText '5 months ago'
+
+[2549] link 'Tm Theme Editor'
+
+[2551] StaticText 'byteblaze/a11y-syntax-highlighting#1 '
+
+[2552] StaticText '· created '
+
+[2065] time 'Apr 2, 2020 12:13am EDT'
+
+[3225] StaticText '3 years ago'
+
+[2553] StaticText ' by '
+
+[2554] link 'earle'
+
+[3228] link 'Assigned to Byte Blaze'
+
+[3229] link ' 14'
+
+[2558] StaticText 'updated '
+
+[2069] time 'Mar 27, 2023 7:15pm EDT'
+
+[3230] StaticText '5 months ago'
+
+[2561] link 'Empathy Balloons'
+
+[2563] StaticText 'byteblaze/empathy-prompts#10 '
+
+[2564] StaticText '· created '
+
+[2075] time 'Jun 21, 2019 6:37am EDT'
+
+[3232] StaticText '4 years ago'
+
+[2565] StaticText ' by '
+
+[2566] link 'Rik Williams'
+
+[2567] StaticText ' \xa0 '
+
+[2569] link '[Priority] Low'
+
+[2571] link '[Status] Accepted'
+
+[2573] link '[Type] Enhancement'
+
+[3241] link 'Assigned to Byte Blaze'
+
+[3242] link ' 2'
+
+[2577] StaticText 'updated '
+
+[2079] time 'Mar 27, 2023 4:16pm EDT'
+
+[3243] StaticText '5 months ago'
+
+[2580] link 'Better initial load experience'
+
+[2582] StaticText 'byteblaze/empathy-prompts#8 '
+
+[2583] StaticText '· created '
+
+[2085] time 'May 17, 2017 10:29pm EDT'
+
+[3245] StaticText '6 years ago'
+
+[2584] StaticText ' by '
+
+[2585] link 'Byte Blaze'
+
+[2586] StaticText ' \xa0 '
+
+[2588] link '[Priority] Low'
+
+[2590] link '[Status] Submitted'
+
+[2592] link '[Type] Enhancement'
+
+[3254] link 'Assigned to Byte Blaze'
+
+[3255] link ' 0'
+
+[2596] StaticText 'updated '
+
+[2089] time 'Mar 27, 2023 4:16pm EDT'
+
+[3256] StaticText '5 months ago'
+
+[2599] link 'Better sharing solution'
+
+[2601] StaticText 'byteblaze/empathy-prompts#6 '
+
+[2602] StaticText '· created '
+
+[2095] time 'May 4, 2017 9:31pm EDT'
+
+[3258] StaticText '6 years ago'
+
+[2603] StaticText ' by '
+
+[2604] link 'Byte Blaze'
+
+[2605] StaticText ' \xa0 '
+
+[2607] link '[Priority] Medium'
+
+[2609] link '[Status] Submitted'
+
+[2611] link '[Type] Enhancement'
+
+[3267] link 'Assigned to Byte Blaze'
+
+[3268] link ' 2'
+
+[2615] StaticText 'updated '
+
+[2099] time 'Mar 27, 2023 4:16pm EDT'
+
+[3269] StaticText '5 months ago'
+
+[2127] status '' live: polite atomic: True relevant: additions text
+
+[3418] tooltip 'Create new...'</pre><div>
+
+[3407]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to start a private project called "project_site" with the NodeJS template and add "primer", "convexegg", and "vinta" as members.\n\nTo start a new project, I need to click on the "New project/repository" link. Then, I can fill in the necessary information, including the project name, template, and members.\n\nIn summary, the next action I will perform is `click [3407]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1932] RootWebArea 'Issues · Dashboard · GitLab' focused: True
+
+[2128] link 'Skip to content'
+
+[2249] link 'Dashboard'
+
+[2299] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3276] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2305] link 'Create new...' focused: True expanded: True describedby: gl-tooltip3
+
+[3407] link 'New project/repository'
+
+[3408] link 'New group'
+
+[3411] link 'New snippet'
+
+[2307] link 'Issues'
+
+[2693] generic '13 assigned issues'
+
+[2308] link 'Merge requests'
+
+[2695] generic '8 merge requests'
+
+[2310] link 'To-Do List'
+
+[2711] generic 'Todos count'
+
+[2311] link 'Help'
+
+[2313] link 'Byte Blaze'
+
+[2745] img 'Byte Blaze'
+
+[1948] main ''
+
+[2441] link '[Feature suggestion] Color theme slider'
+
+[2443] StaticText '\xa0 1 of 3 checklist items completed'
+
+[2445] StaticText 'byteblaze/a11y-webring.club#21 '
+
+[2446] StaticText '· created '
+
+[2005] time 'Jan 18, 2023 10:58pm EST'
+
+[3155] StaticText '7 months ago'
+
+[2447] StaticText ' by '
+
+[2448] link 'Byte Blaze'
+
+[2449] StaticText ' \xa0 '
+
+[2451] link 'feature'
+
+[2453] link 'help wanted'
+
+[3162] link 'Assigned to Byte Blaze'
+
+[3163] link ' 0'
+
+[2457] StaticText 'updated '
+
+[2009] time 'Mar 27, 2023 4:17pm EDT'
+
+[3164] StaticText '5 months ago'
+
+[2460] link 'Link to WCAG 2.1 instead of 2.0?'
+
+[2462] StaticText 'a11yproject/a11yproject.com#1460 '
+
+[2463] StaticText '· created '
+
+[2015] time 'Aug 11, 2022 12:10pm EDT'
+
+[3166] StaticText '1 year ago'
+
+[2464] StaticText ' by '
+
+[2465] link 'Byte Blaze'
+
+[2466] StaticText ' \xa0 '
+
+[2468] link 'claimed'
+
+[2470] link 'content'
+
+[3173] link 'Assigned to Byte Blaze'
+
+[3174] link ' 0'
+
+[2474] StaticText 'updated '
+
+[2019] time 'Mar 23, 2023 4:42am EDT'
+
+[3175] StaticText '5 months ago'
+
+[2477] link 'The process for writing for us is both scattered and buried'
+
+[2479] StaticText 'a11yproject/a11yproject.com#1360 '
+
+[2480] StaticText '· created '
+
+[2025] time 'Oct 10, 2021 8:35pm EDT'
+
+[3177] StaticText '1 year ago'
+
+[2481] StaticText ' by '
+
+[2482] link 'Byte Blaze'
+
+[2483] StaticText ' \xa0 '
+
+[2485] link 'content'
+
+[2487] link 'design'
+
+[3184] link 'Assigned to Byte Blaze'
+
+[3185] link ' 2'
+
+[2491] StaticText 'updated '
+
+[2029] time 'Mar 23, 2023 4:41am EDT'
+
+[3186] StaticText '5 months ago'
+
+[2494] link 'Non-Github contribution guidelines need clarification'
+
+[2496] StaticText 'a11yproject/a11yproject.com#1294 '
+
+[2497] StaticText '· created '
+
+[2035] time 'Jun 16, 2021 10:18pm EDT'
+
+[3188] StaticText '2 years ago'
+
+[2498] StaticText ' by '
+
+[2499] link 'Byte Blaze'
+
+[2500] StaticText ' \xa0 '
+
+[2502] link 'claimed'
+
+[2504] link 'content'
+
+[3195] link 'Assigned to Byte Blaze'
+
+[3196] link ' 2'
+
+[2508] StaticText 'updated '
+
+[2039] time 'Mar 23, 2023 4:41am EDT'
+
+[3197] StaticText '5 months ago'
+
+[2511] link 'Outdated dependencies'
+
+[2513] StaticText 'byteblaze/empathy-prompts#18 '
+
+[2514] StaticText '· created '
+
+[2045] time 'Jun 1, 2021 8:52pm EDT'
+
+[3199] StaticText '2 years ago'
+
+[2515] StaticText ' by '
+
+[2516] link 'Byte Blaze'
+
+[2517] StaticText ' \xa0 '
+
+[2519] link '[Priority] Critical'
+
+[2521] link '[Status] Submitted'
+
+[2523] link '[Type] Bug'
+
+[3208] link 'Assigned to Byte Blaze'
+
+[3209] link ' 0'
+
+[2527] StaticText 'updated '
+
+[2049] time 'Mar 27, 2023 4:16pm EDT'
+
+[3210] StaticText '5 months ago'
+
+[2530] link 'Inaccessibility: Low contrast .c-card__additional in Featured Resource Card'
+
+[2532] StaticText 'a11yproject/a11yproject.com#1208 '
+
+[2533] StaticText '· created '
+
+[2055] time 'Mar 12, 2021 10:56am EST'
+
+[3212] StaticText '2 years ago'
+
+[2534] StaticText ' by '
+
+[2535] link 'Administrator'
+
+[2536] StaticText ' \xa0 '
+
+[2538] link 'accessibility'
+
+[2540] link 'resource'
+
+[2542] link 'styling'
+
+[3221] link 'Assigned to Byte Blaze'
+
+[3222] link ' 7'
+
+[2546] StaticText 'updated '
+
+[2059] time 'Mar 23, 2023 4:41am EDT'
+
+[3223] StaticText '5 months ago'
+
+[2549] link 'Tm Theme Editor'
+
+[2551] StaticText 'byteblaze/a11y-syntax-highlighting#1 '
+
+[2552] StaticText '· created '
+
+[2065] time 'Apr 2, 2020 12:13am EDT'
+
+[3225] StaticText '3 years ago'
+
+[2553] StaticText ' by '
+
+[2554] link 'earle'
+
+[3228] link 'Assigned to Byte Blaze'
+
+[3229] link ' 14'
+
+[2558] StaticText 'updated '
+
+[2069] time 'Mar 27, 2023 7:15pm EDT'
+
+[3230] StaticText '5 months ago'
+
+[2561] link 'Empathy Balloons'
+
+[2563] StaticText 'byteblaze/empathy-prompts#10 '
+
+[2564] StaticText '· created '
+
+[2075] time 'Jun 21, 2019 6:37am EDT'
+
+[3232] StaticText '4 years ago'
+
+[2565] StaticText ' by '
+
+[2566] link 'Rik Williams'
+
+[2567] StaticText ' \xa0 '
+
+[2569] link '[Priority] Low'
+
+[2571] link '[Status] Accepted'
+
+[2573] link '[Type] Enhancement'
+
+[3241] link 'Assigned to Byte Blaze'
+
+[3242] link ' 2'
+
+[2577] StaticText 'updated '
+
+[2079] time 'Mar 27, 2023 4:16pm EDT'
+
+[3243] StaticText '5 months ago'
+
+[2580] link 'Better initial load experience'
+
+[2582] StaticText 'byteblaze/empathy-prompts#8 '
+
+[2583] StaticText '· created '
+
+[2085] time 'May 17, 2017 10:29pm EDT'
+
+[3245] StaticText '6 years ago'
+
+[2584] StaticText ' by '
+
+[2585] link 'Byte Blaze'
+
+[2586] StaticText ' \xa0 '
+
+[2588] link '[Priority] Low'
+
+[2590] link '[Status] Submitted'
+
+[2592] link '[Type] Enhancement'
+
+[3254] link 'Assigned to Byte Blaze'
+
+[3255] link ' 0'
+
+[2596] StaticText 'updated '
+
+[2089] time 'Mar 27, 2023 4:16pm EDT'
+
+[3256] StaticText '5 months ago'
+
+[2599] link 'Better sharing solution'
+
+[2601] StaticText 'byteblaze/empathy-prompts#6 '
+
+[2602] StaticText '· created '
+
+[2095] time 'May 4, 2017 9:31pm EDT'
+
+[3258] StaticText '6 years ago'
+
+[2603] StaticText ' by '
+
+[2604] link 'Byte Blaze'
+
+[2605] StaticText ' \xa0 '
+
+[2607] link '[Priority] Medium'
+
+[2609] link '[Status] Submitted'
+
+[2611] link '[Type] Enhancement'
+
+[3267] link 'Assigned to Byte Blaze'
+
+[3268] link ' 2'
+
+[2615] StaticText 'updated '
+
+[2099] time 'Mar 27, 2023 4:16pm EDT'
+
+[3269] StaticText '5 months ago'
+
+[2127] status '' live: polite atomic: True relevant: additions text
+
+[3418] tooltip 'Create new...'</pre><div>
+
+[3407]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[3407]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3407', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [3407]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3407] where [3407] is [3407] link 'New project/repository'</pre></div></div>
+
+[3483] RootWebArea 'New Project · GitLab' focused: True
+
+[3738] link 'Skip to content'
+
+[4788] link 'Dashboard'
+
+[4856] button '' hasPopup: menu expanded: False
+
+[3495] textbox 'Search GitLab' required: False
+
+[5045] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4862] link 'Create new...'
+
+[4864] link 'Issues'
+
+[4949] generic '13 assigned issues'
+
+[4865] link 'Merge requests'
+
+[4951] generic '8 merge requests'
+
+[4867] link 'To-Do List'
+
+[4967] generic 'Todos count'
+
+[4868] link 'Help'
+
+[4870] link 'Byte Blaze'
+
+[5001] img 'Byte Blaze'
+
+[3499] main ''
+
+[3839] heading 'Create new project'
+
+[3846] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[3850] heading 'Create blank project'
+
+[3854] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[3858] heading 'Create from template'
+
+[3862] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[3866] heading 'Import project'
+
+[3871] StaticText 'You can also create a project from the command line. '
+
+[3872] link 'Show command'</pre><div>
+
+[3407] where [3407] is link 'New project/repository'</div>
+
+[3854]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3854', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page has a link with the text "Create from template" that might allow us to create a project with a NodeJS template. We can click on that link to proceed. In summary, the next action I will perform is ```click [3854]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3854] where [3854] is [3854] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'</pre></div></div>
+
+[3483] RootWebArea 'New Project · GitLab' focused: True
+
+[3738] link 'Skip to content'
+
+[4788] link 'Dashboard'
+
+[4856] button '' hasPopup: menu expanded: False
+
+[3495] textbox 'Search GitLab' required: False
+
+[5045] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4862] link 'Create new...'
+
+[4864] link 'Issues'
+
+[4949] generic '13 assigned issues'
+
+[4865] link 'Merge requests'
+
+[4951] generic '8 merge requests'
+
+[4867] link 'To-Do List'
+
+[4967] generic 'Todos count'
+
+[4868] link 'Help'
+
+[4870] link 'Byte Blaze'
+
+[5001] img 'Byte Blaze'
+
+[3499] main ''
+
+[5240] heading 'Create from template'
+
+[5245] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[5242] navigation 'Breadcrumb'
+
+[5260] link 'New project'
+
+[5261] link 'Create from template'
+
+[5263] StaticText 'Learn how to '
+
+[5264] link 'contribute to the built-in templates'
+
+[5402] link 'Built-in 30'
+
+[5407] StaticText 'Ruby on Rails'
+
+[5408] LineBreak '\n'
+
+[5410] StaticText 'Includes an MVC structure, Gemfile, Rakefile, along with many others, to help you get started'
+
+[5411] link 'Preview'
+
+[5096] radio 'Use template' checked: false
+
+[5418] StaticText 'Spring'
+
+[5419] LineBreak '\n'
+
+[5421] StaticText 'Includes an MVC structure, mvnw and pom.xml to help you get started'
+
+[5422] link 'Preview'
+
+[5100] radio 'Use template' checked: false
+
+[5429] StaticText 'NodeJS Express'
+
+[5430] LineBreak '\n'
+
+[5432] StaticText 'Includes an MVC structure to help you get started'
+
+[5433] link 'Preview'
+
+[5104] radio 'Use template' checked: false
+
+[5440] StaticText 'iOS (Swift)'
+
+[5441] LineBreak '\n'
+
+[5443] StaticText 'A ready-to-go template for use with iOS Swift apps'
+
+[5444] link 'Preview'
+
+[5108] radio 'Use template' checked: false
+
+[5451] StaticText '.NET Core'
+
+[5452] LineBreak '\n'
+
+[5454] StaticText 'A .NET Core console application template, customizable for any .NET Core project'
+
+[5455] link 'Preview'
+
+[5112] radio 'Use template' checked: false
+
+[5462] StaticText 'Android'
+
+[5463] LineBreak '\n'
+
+[5465] StaticText 'A ready-to-go template for use with Android apps'
+
+[5466] link 'Preview'
+
+[5116] radio 'Use template' checked: false
+
+[5473] StaticText 'Go Micro'
+
+[5474] LineBreak '\n'
+
+[5477] link 'Preview'</pre><div>
+
+[3854] where [3854] is link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'</div>
+
+[5429]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '5429', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to start a private project called "project_site" with the NodeJS template and add "primer", "convexegg", and "vinta" as members. We are currently on the "Create from template" page.\n\nTo achieve the objective, we need to click on the NodeJS template. The NodeJS template has a link with the label "NodeJS Express" and it has a preview link. I will issue the next action to click on the NodeJS template. In summary, the next action I will perform is ```click [5429]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [5429] where [5429] is [5429] StaticText 'NodeJS Express'</pre></div></div>
+
+[3483] RootWebArea 'New Project · GitLab' focused: True
+
+[3738] link 'Skip to content'
+
+[4788] link 'Dashboard'
+
+[4856] button '' hasPopup: menu expanded: False
+
+[3495] textbox 'Search GitLab' required: False
+
+[5045] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4862] link 'Create new...'
+
+[4864] link 'Issues'
+
+[4949] generic '13 assigned issues'
+
+[4865] link 'Merge requests'
+
+[4951] generic '8 merge requests'
+
+[4867] link 'To-Do List'
+
+[4967] generic 'Todos count'
+
+[4868] link 'Help'
+
+[4870] link 'Byte Blaze'
+
+[5001] img 'Byte Blaze'
+
+[3499] main ''
+
+[5240] heading 'Create from template'
+
+[5245] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[5242] navigation 'Breadcrumb'
+
+[5260] link 'New project'
+
+[5261] link 'Create from template'
+
+[5263] StaticText 'Learn how to '
+
+[5264] link 'contribute to the built-in templates'
+
+[5402] link 'Built-in 30'
+
+[5407] StaticText 'Ruby on Rails'
+
+[5408] LineBreak '\n'
+
+[5410] StaticText 'Includes an MVC structure, Gemfile, Rakefile, along with many others, to help you get started'
+
+[5411] link 'Preview'
+
+[5096] radio 'Use template' checked: false
+
+[5418] StaticText 'Spring'
+
+[5419] LineBreak '\n'
+
+[5421] StaticText 'Includes an MVC structure, mvnw and pom.xml to help you get started'
+
+[5422] link 'Preview'
+
+[5100] radio 'Use template' checked: false
+
+[5429] StaticText 'NodeJS Express'
+
+[5430] LineBreak '\n'
+
+[5432] StaticText 'Includes an MVC structure to help you get started'
+
+[5433] link 'Preview'
+
+[5104] radio 'Use template' checked: false
+
+[5440] StaticText 'iOS (Swift)'
+
+[5441] LineBreak '\n'
+
+[5443] StaticText 'A ready-to-go template for use with iOS Swift apps'
+
+[5444] link 'Preview'
+
+[5108] radio 'Use template' checked: false
+
+[5451] StaticText '.NET Core'
+
+[5452] LineBreak '\n'
+
+[5454] StaticText 'A .NET Core console application template, customizable for any .NET Core project'
+
+[5455] link 'Preview'
+
+[5112] radio 'Use template' checked: false
+
+[5462] StaticText 'Android'
+
+[5463] LineBreak '\n'
+
+[5465] StaticText 'A ready-to-go template for use with Android apps'
+
+[5466] link 'Preview'
+
+[5116] radio 'Use template' checked: false
+
+[5473] StaticText 'Go Micro'
+
+[5474] LineBreak '\n'
+
+[5477] link 'Preview'</pre><div>
+
+[5429] where [5429] is StaticText 'NodeJS Express'</div>
+
+[5433]`, where [5433] is the link 'Preview' for the NodeJS Express template.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We are on the GitLab website, and we want to start a private project with the NodeJS template and add some members. \n\nOn this page, we have a list of templates to choose from. The NodeJS Express template is selected. To proceed, we need to click the "Preview" link for the NodeJS Express template.\n\nIn summary, the next action I will perform is `click [5433]`, where [5433] is the link \'Preview\' for the NodeJS Express template.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[3483] RootWebArea 'New Project · GitLab' focused: True
+
+[3738] link 'Skip to content'
+
+[4788] link 'Dashboard'
+
+[4856] button '' hasPopup: menu expanded: False
+
+[3495] textbox 'Search GitLab' required: False
+
+[5045] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4862] link 'Create new...'
+
+[4864] link 'Issues'
+
+[4949] generic '13 assigned issues'
+
+[4865] link 'Merge requests'
+
+[4951] generic '8 merge requests'
+
+[4867] link 'To-Do List'
+
+[4967] generic 'Todos count'
+
+[4868] link 'Help'
+
+[4870] link 'Byte Blaze'
+
+[5001] img 'Byte Blaze'
+
+[3499] main ''
+
+[5240] heading 'Create from template'
+
+[5245] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[5242] navigation 'Breadcrumb'
+
+[5260] link 'New project'
+
+[5261] link 'Create from template'
+
+[5263] StaticText 'Learn how to '
+
+[5264] link 'contribute to the built-in templates'
+
+[5402] link 'Built-in 30'
+
+[5407] StaticText 'Ruby on Rails'
+
+[5408] LineBreak '\n'
+
+[5410] StaticText 'Includes an MVC structure, Gemfile, Rakefile, along with many others, to help you get started'
+
+[5411] link 'Preview'
+
+[5096] radio 'Use template' checked: false
+
+[5418] StaticText 'Spring'
+
+[5419] LineBreak '\n'
+
+[5421] StaticText 'Includes an MVC structure, mvnw and pom.xml to help you get started'
+
+[5422] link 'Preview'
+
+[5100] radio 'Use template' checked: false
+
+[5429] StaticText 'NodeJS Express'
+
+[5430] LineBreak '\n'
+
+[5432] StaticText 'Includes an MVC structure to help you get started'
+
+[5433] link 'Preview'
+
+[5104] radio 'Use template' checked: false
+
+[5440] StaticText 'iOS (Swift)'
+
+[5441] LineBreak '\n'
+
+[5443] StaticText 'A ready-to-go template for use with iOS Swift apps'
+
+[5444] link 'Preview'
+
+[5108] radio 'Use template' checked: false
+
+[5451] StaticText '.NET Core'
+
+[5452] LineBreak '\n'
+
+[5454] StaticText 'A .NET Core console application template, customizable for any .NET Core project'
+
+[5455] link 'Preview'
+
+[5112] radio 'Use template' checked: false
+
+[5462] StaticText 'Android'
+
+[5463] LineBreak '\n'
+
+[5465] StaticText 'A ready-to-go template for use with Android apps'
+
+[5466] link 'Preview'
+
+[5116] radio 'Use template' checked: false
+
+[5473] StaticText 'Go Micro'
+
+[5474] LineBreak '\n'
+
+[5477] link 'Preview'</pre><div>
+
+[5433]`, where [5433] is the link 'Preview' for the NodeJS Express template.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[5433]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '5433', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [5433]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [5433] where [5433] is [5433] link 'Preview'</pre></div></div>
+
+[3483] RootWebArea 'New Project · GitLab' focused: True
+
+[3738] link 'Skip to content'
+
+[4788] link 'Dashboard'
+
+[4856] button '' hasPopup: menu expanded: False
+
+[3495] textbox 'Search GitLab' required: False
+
+[5045] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4862] link 'Create new...'
+
+[4864] link 'Issues'
+
+[4949] generic '13 assigned issues'
+
+[4865] link 'Merge requests'
+
+[4951] generic '8 merge requests'
+
+[4867] link 'To-Do List'
+
+[4967] generic 'Todos count'
+
+[4868] link 'Help'
+
+[4870] link 'Byte Blaze'
+
+[5001] img 'Byte Blaze'
+
+[3499] main ''
+
+[5240] heading 'Create from template'
+
+[5245] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[5242] navigation 'Breadcrumb'
+
+[5260] link 'New project'
+
+[5261] link 'Create from template'
+
+[5263] StaticText 'Learn how to '
+
+[5264] link 'contribute to the built-in templates'
+
+[5402] link 'Built-in 30'
+
+[5407] StaticText 'Ruby on Rails'
+
+[5408] LineBreak '\n'
+
+[5410] StaticText 'Includes an MVC structure, Gemfile, Rakefile, along with many others, to help you get started'
+
+[5411] link 'Preview'
+
+[5096] radio 'Use template' checked: false
+
+[5418] StaticText 'Spring'
+
+[5419] LineBreak '\n'
+
+[5421] StaticText 'Includes an MVC structure, mvnw and pom.xml to help you get started'
+
+[5422] link 'Preview'
+
+[5100] radio 'Use template' checked: false
+
+[5429] StaticText 'NodeJS Express'
+
+[5430] LineBreak '\n'
+
+[5432] StaticText 'Includes an MVC structure to help you get started'
+
+[5433] link 'Preview' focused: True
+
+[5104] radio 'Use template' checked: false
+
+[5440] StaticText 'iOS (Swift)'
+
+[5441] LineBreak '\n'
+
+[5443] StaticText 'A ready-to-go template for use with iOS Swift apps'
+
+[5444] link 'Preview'
+
+[5108] radio 'Use template' checked: false
+
+[5451] StaticText '.NET Core'
+
+[5452] LineBreak '\n'
+
+[5454] StaticText 'A .NET Core console application template, customizable for any .NET Core project'
+
+[5455] link 'Preview'
+
+[5112] radio 'Use template' checked: false
+
+[5462] StaticText 'Android'
+
+[5463] LineBreak '\n'
+
+[5465] StaticText 'A ready-to-go template for use with Android apps'
+
+[5466] link 'Preview'
+
+[5116] radio 'Use template' checked: false
+
+[5473] StaticText 'Go Micro'
+
+[5474] LineBreak '\n'
+
+[5477] link 'Preview'</pre><div>
+
+[5433] where [5433] is link 'Preview'</div>
+
+[5104]. I will click on the NodeJS template by issuing the action: ```click [5104]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '5104', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We need to start a private project with the NodeJS template and add primer, convexegg, and vinta as members. Currently, we are on the "Create from template" page. We need to select the NodeJS template. According to the observation, the NodeJS template is represented by the radio button with ID [5104]. I will click on the NodeJS template by issuing the action: ```click [5104]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [5104] where [5104] is [5104] radio 'Use template' checked: false</pre></div></div>
+
+[3483] RootWebArea 'New Project · GitLab' focused: True
+
+[3738] link 'Skip to content'
+
+[4788] link 'Dashboard'
+
+[4856] button '' hasPopup: menu expanded: False
+
+[3495] textbox 'Search GitLab' required: False
+
+[5045] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4862] link 'Create new...'
+
+[4864] link 'Issues'
+
+[4949] generic '13 assigned issues'
+
+[4865] link 'Merge requests'
+
+[4951] generic '8 merge requests'
+
+[4867] link 'To-Do List'
+
+[4967] generic 'Todos count'
+
+[4868] link 'Help'
+
+[4870] link 'Byte Blaze'
+
+[5001] img 'Byte Blaze'
+
+[3499] main ''
+
+[5240] heading 'Create from template'
+
+[5245] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[5242] navigation 'Breadcrumb'
+
+[5260] link 'New project'
+
+[5261] link 'Create from template'
+
+[5263] StaticText 'Learn how to '
+
+[5264] link 'contribute to the built-in templates'
+
+[5902] StaticText 'Template'
+
+[6377] StaticText 'NodeJS Express'
+
+[5904] button 'Change template'
+
+[5895] StaticText 'Project name'
+
+[5900] textbox 'Project name' focused: True required: True
+
+[5946] StaticText 'Project URL'
+
+[5985] group ''
+
+[6001] generic 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/'
+
+[5917] button '\u200ecrew\u200e' hasPopup: menu expanded: False
+
+[5977] generic 'crew'
+
+[5901] StaticText 'Project slug'
+
+[5916] textbox 'Project slug' required: True
+
+[5984] StaticText 'Want to organize several dependent projects under the same namespace? '
+
+[5970] link 'Create a group.'
+
+[5890] StaticText 'Project description '
+
+[5922] StaticText '(optional)'
+
+[5989] textbox 'Project description (optional)' required: False
+
+[5949] StaticText 'Visibility Level '
+
+[5899] link 'Documentation for Visibility Level'
+
+[5892] radio ' Private Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.' checked: false
+
+[5932] radio ' Internal The project can be accessed by any logged in user except external users.' checked: false
+
+[5929] radio ' Public The project can be accessed without any authentication.' checked: true</pre><div>
+
+[5104] where [5104] is radio 'Use template' checked: false</div>
+
+[5900] is focused and required, so we can type the project name there.
+
+[5900] [project_site] [1]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [95, 97, 94, 89, 84, 82, 99, 78, 98, 88, 99, 84, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '5900', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page allows us to create a new project on GitLab. We need to fill out the necessary information to start the project.\n\n1. We need to select the template for the project. According to the observation, the template selected is NodeJS Express, so we don\'t need to change it. \n\n2. We need to provide a project name. The textbox with ID [5900] is focused and required, so we can type the project name there.\n\n3. We need to provide a project URL. The URL is already provided in the observation and it is "http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/". We can leave it as it is.\n\n4. We need to add primer, convexegg, and vinta as members to the project. However, I don\'t see an option to add members in the observation. I will check the available actions to see if there is any relevant action.\n\nIn summary, the next action I will perform is ```type [5900] [project_site] [1]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [5900] [project_site
+
+[5900] is [5900] textbox 'Project name' focused: True required: True</pre></div></div>
+
+[6379] RootWebArea 'Import in progress · crew / project_site · GitLab' focused: True
+
+[6411] link 'Skip to content'
+
+[6561] link 'Dashboard'
+
+[6637] button '' hasPopup: menu expanded: False
+
+[6391] textbox 'Search GitLab' required: False
+
+[7250] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6643] link 'Create new...'
+
+[6645] link 'Issues'
+
+[6828] generic '13 assigned issues'
+
+[6646] link 'Merge requests'
+
+[6830] generic '8 merge requests'
+
+[6648] link 'To-Do List'
+
+[6846] generic 'Todos count'
+
+[7271] StaticText '5'
+
+[6649] link 'Help'
+
+[6651] link 'Byte Blaze'
+
+[6880] img 'Byte Blaze'
+
+[6412] complementary 'Project navigation'
+
+[6594] listitem 'project_site'
+
+[6653] link 'project_site'
+
+[6654] link 'Project information'
+
+[6656] link 'Repository'
+
+[6658] link 'Issues'
+
+[6986] StaticText '0'
+
+[6660] link 'Merge requests'
+
+[6662] link 'CI/CD'
+
+[6664] link 'Security & Compliance'
+
+[6666] link 'Deployments'
+
+[6668] link 'Packages and registries'
+
+[6670] link 'Infrastructure'
+
+[6672] link 'Monitor'
+
+[6674] link 'Analytics'
+
+[6676] link 'Wiki'
+
+[6678] link 'Snippets'
+
+[6680] link 'Settings'
+
+[6547] button 'Collapse sidebar'
+
+[6418] navigation 'Breadcrumbs'
+
+[6697] link 'crew'
+
+[6699] link 'project_site'
+
+[6701] link 'Import in progress'
+
+[6420] main ''
+
+[6552] heading 'Import in progress'
+
+[6554] status '' live: polite atomic: True relevant: additions text
+
+[6634] generic 'Loading'
+
+[6557] StaticText 'Please wait while we import the repository for you. Refresh at will.'</pre><div>
+
+[5900] [project_site
+
+[5900] is textbox 'Project name' focused: True required: True</div>
+
+[6637]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '6637', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We are currently on the GitLab import page for the project "project_site". To start a private project, we need to click on the "Visibility, project features, and import status are not configurable until the repository is fully imported." button. Then we can add the members by going to the "Settings" tab, selecting "Members" from the sidebar, and adding each member by typing their name or username and selecting them from the dropdown. In summary, the next action I will perform is ```click [6637]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [6637] where [6637] is [6637] button '' hasPopup: menu expanded: False</pre></div></div>
+
+[7419] RootWebArea 'crew / project_site · GitLab' focused: True
+
+[7532] link 'Skip to content'
+
+[7723] link 'Dashboard'
+
+[7902] button '' hasPopup: menu expanded: False
+
+[7431] textbox 'Search GitLab' required: False
+
+[8864] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7908] link 'Create new...'
+
+[7910] link 'Issues'
+
+[8273] generic '13 assigned issues'
+
+[7911] link 'Merge requests'
+
+[8275] generic '8 merge requests'
+
+[7913] link 'To-Do List'
+
+[8291] generic 'Todos count'
+
+[7914] link 'Help'
+
+[7916] link 'Byte Blaze'
+
+[8325] img 'Byte Blaze'
+
+[7533] complementary 'Project navigation'
+
+[7756] listitem 'project_site'
+
+[7918] link 'project_site'
+
+[7919] link 'Project information'
+
+[7921] link 'Repository'
+
+[7923] link 'Issues'
+
+[8431] StaticText '0'
+
+[7925] link 'Merge requests'
+
+[7927] link 'CI/CD'
+
+[7929] link 'Security & Compliance'
+
+[7931] link 'Deployments'
+
+[7933] link 'Packages and registries'
+
+[7935] link 'Infrastructure'
+
+[7937] link 'Monitor'
+
+[7939] link 'Analytics'
+
+[7941] link 'Wiki'
+
+[7943] link 'Snippets'
+
+[7945] link 'Settings'
+
+[7673] button 'Collapse sidebar'
+
+[7537] alert '' live: assertive atomic: True relevant: additions text
+
+[7541] button 'Dismiss'
+
+[7542] alert '' live: assertive atomic: True relevant: additions text
+
+[7790] link 'Add SSH key'
+
+[7791] button "Don't show again"
+
+[7538] alert '' live: assertive atomic: True relevant: additions text
+
+[7544] button 'Dismiss'
+
+[7545] alert '' live: assertive atomic: True relevant: additions text
+
+[7797] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[7799] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[7800] link 'Settings'
+
+[7801] link 'More information'
+
+[7539] navigation 'Breadcrumbs'
+
+[7962] link 'crew'
+
+[7964] link 'project_site'
+
+[7435] main ''
+
+[7689] alert '' live: assertive atomic: True relevant: additions text
+
+[7814] button 'Dismiss'
+
+[7815] alert '' live: assertive atomic: True relevant: additions text
+
+[8687] StaticText 'The project was successfully imported.'
+
+[7816] StaticText 'P'
+
+[7697] heading 'project_site Public - The project can be accessed without any authentication.'
+
+[7700] generic 'Public - The project can be accessed without any authentication.'
+
+[7703] StaticText 'Project ID: 201 '
+
+[7704] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[7706] link 'Leave project'
+
+[7822] button '' hasPopup: menu expanded: False
+
+[7709] button 'Star'
+
+[7710] link '0'
+
+[7827] link 'Fork'
+
+[7712] link '0'
+
+[8065] link '1 Commit'
+
+[8066] link '1 Branch'
+
+[8067] link '0 Tags'
+
+[8068] link '92 KB Project Storage'
+
+[7714] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">84.9%</span>'
+
+[7715] generic '<span class="repository-language-bar-tooltip-language">Pug</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.1%</span>'
+
+[7716] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">5.2%</span>'
+
+[7717] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">2.9%</span>'
+
+[7840] img 'user avatar'
+
+[7844] link "Initialized from 'NodeJS Express' project template"
+
+[7845] button 'Toggle commit description'
+
+[7850] StaticText 'GitLab authored '
+
+[7851] time 'Feb 8, 2021 10:48am EST'
+
+[8072] StaticText '2 years ago'
+
+[7856] group ''
+
+[8074] StaticText 'eaa48337'
+
+[7858] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8713] button 'master' hasPopup: menu expanded: False
+
+[7489] navigation 'Files breadcrumb'
+
+[8988] link 'project_site'
+
+[9124] button 'Add to tree' hasPopup: menu expanded: False
+
+[8079] link 'Find file'
+
+[8084] link 'Web IDE'
+
+[8085] button 'Download'
+
+[8720] StaticText 'Select Archive Format'
+
+[8087] link 'Clone'
+
+[8110] link 'README'
+
+[8111] link 'Auto DevOps enabled'
+
+[8112] link 'Add LICENSE'
+
+[8113] link 'Add CHANGELOG'
+
+[8114] link 'Add CONTRIBUTING'</pre><div>
+
+[6637] where [6637] is button '' hasPopup: menu expanded: False</div>
+
+[7908]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '7908', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. On this page, we are currently on the project_site in the GitLab website. We want to start a private project with the NodeJS template and add primer, convexegg, and vinta as members. To start a private project with a template, we need to go to the "Create new..." link. I will issue the action to click on the "Create new..." link. In summary, the next action I will perform is ```click [7908]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [7908] where [7908] is [7908] link 'Create new...'</pre></div></div>
+
+[7419] RootWebArea 'crew / project_site · GitLab' focused: True
+
+[7532] link 'Skip to content'
+
+[7723] link 'Dashboard'
+
+[7902] button '' hasPopup: menu expanded: False
+
+[7431] textbox 'Search GitLab' required: False
+
+[8864] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7908] link 'Create new...' focused: True expanded: True describedby: gl-tooltip3
+
+[9203] StaticText 'This project'
+
+[9207] link 'New issue'
+
+[9194] link 'New merge request'
+
+[9198] link 'New snippet'
+
+[9213] link 'Invite members '
+
+[9197] StaticText 'GitLab'
+
+[9199] link 'New project/repository'
+
+[9214] link 'New group'
+
+[9215] link 'New snippet'
+
+[7910] link 'Issues'
+
+[8273] generic '13 assigned issues'
+
+[7911] link 'Merge requests'
+
+[8275] generic '8 merge requests'
+
+[7913] link 'To-Do List'
+
+[8291] generic 'Todos count'
+
+[7914] link 'Help'
+
+[7916] link 'Byte Blaze'
+
+[8325] img 'Byte Blaze'
+
+[7533] complementary 'Project navigation'
+
+[7756] listitem 'project_site'
+
+[7918] link 'project_site'
+
+[7919] link 'Project information'
+
+[7921] link 'Repository'
+
+[7923] link 'Issues'
+
+[8431] StaticText '0'
+
+[7925] link 'Merge requests'
+
+[7927] link 'CI/CD'
+
+[7929] link 'Security & Compliance'
+
+[7931] link 'Deployments'
+
+[7933] link 'Packages and registries'
+
+[7935] link 'Infrastructure'
+
+[7937] link 'Monitor'
+
+[7939] link 'Analytics'
+
+[7941] link 'Wiki'
+
+[7943] link 'Snippets'
+
+[7945] link 'Settings'
+
+[7673] button 'Collapse sidebar'
+
+[7537] alert '' live: assertive atomic: True relevant: additions text
+
+[7541] button 'Dismiss'
+
+[7542] alert '' live: assertive atomic: True relevant: additions text
+
+[7790] link 'Add SSH key'
+
+[7791] button "Don't show again"
+
+[7538] alert '' live: assertive atomic: True relevant: additions text
+
+[7544] button 'Dismiss'
+
+[7545] alert '' live: assertive atomic: True relevant: additions text
+
+[7797] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[7799] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[7800] link 'Settings'
+
+[7801] link 'More information'
+
+[7539] navigation 'Breadcrumbs'
+
+[7962] link 'crew'
+
+[7964] link 'project_site'
+
+[7435] main ''
+
+[7689] alert '' live: assertive atomic: True relevant: additions text
+
+[7814] button 'Dismiss'
+
+[7815] alert '' live: assertive atomic: True relevant: additions text
+
+[8687] StaticText 'The project was successfully imported.'
+
+[7816] StaticText 'P'
+
+[7697] heading 'project_site Public - The project can be accessed without any authentication.'
+
+[7700] generic 'Public - The project can be accessed without any authentication.'
+
+[7703] StaticText 'Project ID: 201 '
+
+[7704] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[7706] link 'Leave project'
+
+[7822] button '' hasPopup: menu expanded: False
+
+[7709] button 'Star'
+
+[7710] link '0'
+
+[7827] link 'Fork'
+
+[7712] link '0'
+
+[8065] link '1 Commit'
+
+[8066] link '1 Branch'
+
+[8067] link '0 Tags'
+
+[8068] link '92 KB Project Storage'
+
+[7714] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">84.9%</span>'
+
+[7715] generic '<span class="repository-language-bar-tooltip-language">Pug</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.1%</span>'
+
+[7716] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">5.2%</span>'
+
+[7717] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">2.9%</span>'
+
+[7840] img 'user avatar'
+
+[7844] link "Initialized from 'NodeJS Express' project template"
+
+[7845] button 'Toggle commit description'
+
+[7850] StaticText 'GitLab authored '
+
+[7851] time 'Feb 8, 2021 10:48am EST'
+
+[8072] StaticText '2 years ago'
+
+[7856] group ''
+
+[8074] StaticText 'eaa48337'
+
+[7858] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8713] button 'master' hasPopup: menu expanded: False
+
+[7489] navigation 'Files breadcrumb'
+
+[8988] link 'project_site'
+
+[9124] button 'Add to tree' hasPopup: menu expanded: False
+
+[8079] link 'Find file'
+
+[8084] link 'Web IDE'
+
+[8085] button 'Download'
+
+[8720] StaticText 'Select Archive Format'
+
+[8087] link 'Clone'
+
+[8110] link 'README'
+
+[8111] link 'Auto DevOps enabled'
+
+[8112] link 'Add LICENSE'
+
+[8113] link 'Add CHANGELOG'
+
+[8114] link 'Add CONTRIBUTING'
+
+[9218] tooltip 'Create new...'</pre><div>
+
+[7908] where [7908] is link 'Create new...'</div>
+
+[7908]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To start a private project named `project_site` with the NodeJS template, we need to click on the "Create new..." link. After clicking, we will be redirected to a new page where we can select the template and configure the project settings. In summary, the next action I will perform is `click [7908]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[7419] RootWebArea 'crew / project_site · GitLab' focused: True
+
+[7532] link 'Skip to content'
+
+[7723] link 'Dashboard'
+
+[7902] button '' hasPopup: menu expanded: False
+
+[7431] textbox 'Search GitLab' required: False
+
+[8864] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7908] link 'Create new...' focused: True expanded: True describedby: gl-tooltip3
+
+[9203] StaticText 'This project'
+
+[9207] link 'New issue'
+
+[9194] link 'New merge request'
+
+[9198] link 'New snippet'
+
+[9213] link 'Invite members '
+
+[9197] StaticText 'GitLab'
+
+[9199] link 'New project/repository'
+
+[9214] link 'New group'
+
+[9215] link 'New snippet'
+
+[7910] link 'Issues'
+
+[8273] generic '13 assigned issues'
+
+[7911] link 'Merge requests'
+
+[8275] generic '8 merge requests'
+
+[7913] link 'To-Do List'
+
+[8291] generic 'Todos count'
+
+[7914] link 'Help'
+
+[7916] link 'Byte Blaze'
+
+[8325] img 'Byte Blaze'
+
+[7533] complementary 'Project navigation'
+
+[7756] listitem 'project_site'
+
+[7918] link 'project_site'
+
+[7919] link 'Project information'
+
+[7921] link 'Repository'
+
+[7923] link 'Issues'
+
+[8431] StaticText '0'
+
+[7925] link 'Merge requests'
+
+[7927] link 'CI/CD'
+
+[7929] link 'Security & Compliance'
+
+[7931] link 'Deployments'
+
+[7933] link 'Packages and registries'
+
+[7935] link 'Infrastructure'
+
+[7937] link 'Monitor'
+
+[7939] link 'Analytics'
+
+[7941] link 'Wiki'
+
+[7943] link 'Snippets'
+
+[7945] link 'Settings'
+
+[7673] button 'Collapse sidebar'
+
+[7537] alert '' live: assertive atomic: True relevant: additions text
+
+[7541] button 'Dismiss'
+
+[7542] alert '' live: assertive atomic: True relevant: additions text
+
+[7790] link 'Add SSH key'
+
+[7791] button "Don't show again"
+
+[7538] alert '' live: assertive atomic: True relevant: additions text
+
+[7544] button 'Dismiss'
+
+[7545] alert '' live: assertive atomic: True relevant: additions text
+
+[7797] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[7799] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[7800] link 'Settings'
+
+[7801] link 'More information'
+
+[7539] navigation 'Breadcrumbs'
+
+[7962] link 'crew'
+
+[7964] link 'project_site'
+
+[7435] main ''
+
+[7689] alert '' live: assertive atomic: True relevant: additions text
+
+[7814] button 'Dismiss'
+
+[7815] alert '' live: assertive atomic: True relevant: additions text
+
+[8687] StaticText 'The project was successfully imported.'
+
+[7816] StaticText 'P'
+
+[7697] heading 'project_site Public - The project can be accessed without any authentication.'
+
+[7700] generic 'Public - The project can be accessed without any authentication.'
+
+[7703] StaticText 'Project ID: 201 '
+
+[7704] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[7706] link 'Leave project'
+
+[7822] button '' hasPopup: menu expanded: False
+
+[7709] button 'Star'
+
+[7710] link '0'
+
+[7827] link 'Fork'
+
+[7712] link '0'
+
+[8065] link '1 Commit'
+
+[8066] link '1 Branch'
+
+[8067] link '0 Tags'
+
+[8068] link '92 KB Project Storage'
+
+[7714] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">84.9%</span>'
+
+[7715] generic '<span class="repository-language-bar-tooltip-language">Pug</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.1%</span>'
+
+[7716] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">5.2%</span>'
+
+[7717] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">2.9%</span>'
+
+[7840] img 'user avatar'
+
+[7844] link "Initialized from 'NodeJS Express' project template"
+
+[7845] button 'Toggle commit description'
+
+[7850] StaticText 'GitLab authored '
+
+[7851] time 'Feb 8, 2021 10:48am EST'
+
+[8072] StaticText '2 years ago'
+
+[7856] group ''
+
+[8074] StaticText 'eaa48337'
+
+[7858] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8713] button 'master' hasPopup: menu expanded: False
+
+[7489] navigation 'Files breadcrumb'
+
+[8988] link 'project_site'
+
+[9124] button 'Add to tree' hasPopup: menu expanded: False
+
+[8079] link 'Find file'
+
+[8084] link 'Web IDE'
+
+[8085] button 'Download'
+
+[8720] StaticText 'Select Archive Format'
+
+[8087] link 'Clone'
+
+[8110] link 'README'
+
+[8111] link 'Auto DevOps enabled'
+
+[8112] link 'Add LICENSE'
+
+[8113] link 'Add CHANGELOG'
+
+[8114] link 'Add CONTRIBUTING'
+
+[9218] tooltip 'Create new...'</pre><div>
+
+[7908]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[7908]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '7908', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To start a private project named `project_site` with the NodeJS template, we need to click on the "Create new..." link. After clicking, we will be redirected to a new page where we can select the template and configure the project settings. In summary, the next action I will perform is ```click [7908]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [7908] where [7908] is [7908] link 'Create new...' focused: True expanded: True describedby: gl-tooltip3</pre></div></div>
+
+[7419] RootWebArea 'crew / project_site · GitLab' focused: True
+
+[7532] link 'Skip to content'
+
+[7723] link 'Dashboard'
+
+[7902] button '' hasPopup: menu expanded: False
+
+[7431] textbox 'Search GitLab' required: False
+
+[8864] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7908] link 'Create new...' focused: True expanded: False
+
+[7910] link 'Issues'
+
+[8273] generic '13 assigned issues'
+
+[7911] link 'Merge requests'
+
+[8275] generic '8 merge requests'
+
+[7913] link 'To-Do List'
+
+[8291] generic 'Todos count'
+
+[7914] link 'Help'
+
+[7916] link 'Byte Blaze'
+
+[8325] img 'Byte Blaze'
+
+[7533] complementary 'Project navigation'
+
+[7756] listitem 'project_site'
+
+[7918] link 'project_site'
+
+[7919] link 'Project information'
+
+[7921] link 'Repository'
+
+[7923] link 'Issues'
+
+[8431] StaticText '0'
+
+[7925] link 'Merge requests'
+
+[7927] link 'CI/CD'
+
+[7929] link 'Security & Compliance'
+
+[7931] link 'Deployments'
+
+[7933] link 'Packages and registries'
+
+[7935] link 'Infrastructure'
+
+[7937] link 'Monitor'
+
+[7939] link 'Analytics'
+
+[7941] link 'Wiki'
+
+[7943] link 'Snippets'
+
+[7945] link 'Settings'
+
+[7673] button 'Collapse sidebar'
+
+[7537] alert '' live: assertive atomic: True relevant: additions text
+
+[7541] button 'Dismiss'
+
+[7542] alert '' live: assertive atomic: True relevant: additions text
+
+[7790] link 'Add SSH key'
+
+[7791] button "Don't show again"
+
+[7538] alert '' live: assertive atomic: True relevant: additions text
+
+[7544] button 'Dismiss'
+
+[7545] alert '' live: assertive atomic: True relevant: additions text
+
+[7797] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[7799] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[7800] link 'Settings'
+
+[7801] link 'More information'
+
+[7539] navigation 'Breadcrumbs'
+
+[7962] link 'crew'
+
+[7964] link 'project_site'
+
+[7435] main ''
+
+[7689] alert '' live: assertive atomic: True relevant: additions text
+
+[7814] button 'Dismiss'
+
+[7815] alert '' live: assertive atomic: True relevant: additions text
+
+[8687] StaticText 'The project was successfully imported.'
+
+[7816] StaticText 'P'
+
+[7697] heading 'project_site Public - The project can be accessed without any authentication.'
+
+[7700] generic 'Public - The project can be accessed without any authentication.'
+
+[7703] StaticText 'Project ID: 201 '
+
+[7704] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[7706] link 'Leave project'
+
+[7822] button '' hasPopup: menu expanded: False
+
+[7709] button 'Star'
+
+[7710] link '0'
+
+[7827] link 'Fork'
+
+[7712] link '0'
+
+[8065] link '1 Commit'
+
+[8066] link '1 Branch'
+
+[8067] link '0 Tags'
+
+[8068] link '92 KB Project Storage'
+
+[7714] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">84.9%</span>'
+
+[7715] generic '<span class="repository-language-bar-tooltip-language">Pug</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.1%</span>'
+
+[7716] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">5.2%</span>'
+
+[7717] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">2.9%</span>'
+
+[7840] img 'user avatar'
+
+[7844] link "Initialized from 'NodeJS Express' project template"
+
+[7845] button 'Toggle commit description'
+
+[7850] StaticText 'GitLab authored '
+
+[7851] time 'Feb 8, 2021 10:48am EST'
+
+[8072] StaticText '2 years ago'
+
+[7856] group ''
+
+[8074] StaticText 'eaa48337'
+
+[7858] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8713] button 'master' hasPopup: menu expanded: False
+
+[7489] navigation 'Files breadcrumb'
+
+[8988] link 'project_site'
+
+[9124] button 'Add to tree' hasPopup: menu expanded: False
+
+[8079] link 'Find file'
+
+[8084] link 'Web IDE'
+
+[8085] button 'Download'
+
+[8720] StaticText 'Select Archive Format'
+
+[8087] link 'Clone'
+
+[8110] link 'README'
+
+[8111] link 'Auto DevOps enabled'
+
+[8112] link 'Add LICENSE'
+
+[8113] link 'Add CHANGELOG'
+
+[8114] link 'Add CONTRIBUTING'</pre><div>
+
+[7908] where [7908] is link 'Create new...' focused: True expanded: True describedby: gl-tooltip3</div>
+
+[7908]``` to create a new project.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '7908', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To start a private project named project_site with the NodeJS template, I need to click on the "Create new..." button. Then, I can select the NodeJS template from the options. After that, I can add primer, convexegg, and vinta as members to the project. In summary, the next action I will perform is ```click [7908]``` to create a new project.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [7908] where [7908] is [7908] link 'Create new...' focused: True expanded: False</pre></div></div>
+
+[7419] RootWebArea 'crew / project_site · GitLab' focused: True
+
+[7532] link 'Skip to content'
+
+[7723] link 'Dashboard'
+
+[7902] button '' hasPopup: menu expanded: False
+
+[7431] textbox 'Search GitLab' required: False
+
+[8864] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7908] link 'Create new...' focused: True expanded: True
+
+[9284] StaticText 'This project'
+
+[9295] link 'New issue'
+
+[9298] link 'New merge request'
+
+[9299] link 'New snippet'
+
+[9277] link 'Invite members '
+
+[9276] StaticText 'GitLab'
+
+[9279] link 'New project/repository'
+
+[9281] link 'New group'
+
+[9289] link 'New snippet'
+
+[7910] link 'Issues'
+
+[8273] generic '13 assigned issues'
+
+[7911] link 'Merge requests'
+
+[8275] generic '8 merge requests'
+
+[7913] link 'To-Do List'
+
+[8291] generic 'Todos count'
+
+[7914] link 'Help'
+
+[7916] link 'Byte Blaze'
+
+[8325] img 'Byte Blaze'
+
+[7533] complementary 'Project navigation'
+
+[7756] listitem 'project_site'
+
+[7918] link 'project_site'
+
+[7919] link 'Project information'
+
+[7921] link 'Repository'
+
+[7923] link 'Issues'
+
+[8431] StaticText '0'
+
+[7925] link 'Merge requests'
+
+[7927] link 'CI/CD'
+
+[7929] link 'Security & Compliance'
+
+[7931] link 'Deployments'
+
+[7933] link 'Packages and registries'
+
+[7935] link 'Infrastructure'
+
+[7937] link 'Monitor'
+
+[7939] link 'Analytics'
+
+[7941] link 'Wiki'
+
+[7943] link 'Snippets'
+
+[7945] link 'Settings'
+
+[7673] button 'Collapse sidebar'
+
+[7537] alert '' live: assertive atomic: True relevant: additions text
+
+[7541] button 'Dismiss'
+
+[7542] alert '' live: assertive atomic: True relevant: additions text
+
+[7790] link 'Add SSH key'
+
+[7791] button "Don't show again"
+
+[7538] alert '' live: assertive atomic: True relevant: additions text
+
+[7544] button 'Dismiss'
+
+[7545] alert '' live: assertive atomic: True relevant: additions text
+
+[7797] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[7799] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[7800] link 'Settings'
+
+[7801] link 'More information'
+
+[7539] navigation 'Breadcrumbs'
+
+[7962] link 'crew'
+
+[7964] link 'project_site'
+
+[7435] main ''
+
+[7689] alert '' live: assertive atomic: True relevant: additions text
+
+[7814] button 'Dismiss'
+
+[7815] alert '' live: assertive atomic: True relevant: additions text
+
+[8687] StaticText 'The project was successfully imported.'
+
+[7816] StaticText 'P'
+
+[7697] heading 'project_site Public - The project can be accessed without any authentication.'
+
+[7700] generic 'Public - The project can be accessed without any authentication.'
+
+[7703] StaticText 'Project ID: 201 '
+
+[7704] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[7706] link 'Leave project'
+
+[7822] button '' hasPopup: menu expanded: False
+
+[7709] button 'Star'
+
+[7710] link '0'
+
+[7827] link 'Fork'
+
+[7712] link '0'
+
+[8065] link '1 Commit'
+
+[8066] link '1 Branch'
+
+[8067] link '0 Tags'
+
+[8068] link '92 KB Project Storage'
+
+[7714] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">84.9%</span>'
+
+[7715] generic '<span class="repository-language-bar-tooltip-language">Pug</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.1%</span>'
+
+[7716] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">5.2%</span>'
+
+[7717] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">2.9%</span>'
+
+[7840] img 'user avatar'
+
+[7844] link "Initialized from 'NodeJS Express' project template"
+
+[7845] button 'Toggle commit description'
+
+[7850] StaticText 'GitLab authored '
+
+[7851] time 'Feb 8, 2021 10:48am EST'
+
+[8072] StaticText '2 years ago'
+
+[7856] group ''
+
+[8074] StaticText 'eaa48337'
+
+[7858] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8713] button 'master' hasPopup: menu expanded: False
+
+[7489] navigation 'Files breadcrumb'
+
+[8988] link 'project_site'
+
+[9124] button 'Add to tree' hasPopup: menu expanded: False
+
+[8079] link 'Find file'
+
+[8084] link 'Web IDE'
+
+[8085] button 'Download'
+
+[8720] StaticText 'Select Archive Format'
+
+[8087] link 'Clone'
+
+[8110] link 'README'
+
+[8111] link 'Auto DevOps enabled'
+
+[8112] link 'Add LICENSE'
+
+[8113] link 'Add CHANGELOG'
+
+[8114] link 'Add CONTRIBUTING'</pre><div>
+
+[7908] where [7908] is link 'Create new...' focused: True expanded: False</div>
+
+[7908]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to start a private project called "project_site" with the NodeJS template and add primer, convexegg, and vinta as members. \n\nTo start a new project, I need to click on the "Create new..." link. The link is currently expanded, so I can proceed to the next step. \n\nIn summary, the next action I will perform is `click [7908]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[7419] RootWebArea 'crew / project_site · GitLab' focused: True
+
+[7532] link 'Skip to content'
+
+[7723] link 'Dashboard'
+
+[7902] button '' hasPopup: menu expanded: False
+
+[7431] textbox 'Search GitLab' required: False
+
+[8864] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7908] link 'Create new...' focused: True expanded: True
+
+[9284] StaticText 'This project'
+
+[9295] link 'New issue'
+
+[9298] link 'New merge request'
+
+[9299] link 'New snippet'
+
+[9277] link 'Invite members '
+
+[9276] StaticText 'GitLab'
+
+[9279] link 'New project/repository'
+
+[9281] link 'New group'
+
+[9289] link 'New snippet'
+
+[7910] link 'Issues'
+
+[8273] generic '13 assigned issues'
+
+[7911] link 'Merge requests'
+
+[8275] generic '8 merge requests'
+
+[7913] link 'To-Do List'
+
+[8291] generic 'Todos count'
+
+[7914] link 'Help'
+
+[7916] link 'Byte Blaze'
+
+[8325] img 'Byte Blaze'
+
+[7533] complementary 'Project navigation'
+
+[7756] listitem 'project_site'
+
+[7918] link 'project_site'
+
+[7919] link 'Project information'
+
+[7921] link 'Repository'
+
+[7923] link 'Issues'
+
+[8431] StaticText '0'
+
+[7925] link 'Merge requests'
+
+[7927] link 'CI/CD'
+
+[7929] link 'Security & Compliance'
+
+[7931] link 'Deployments'
+
+[7933] link 'Packages and registries'
+
+[7935] link 'Infrastructure'
+
+[7937] link 'Monitor'
+
+[7939] link 'Analytics'
+
+[7941] link 'Wiki'
+
+[7943] link 'Snippets'
+
+[7945] link 'Settings'
+
+[7673] button 'Collapse sidebar'
+
+[7537] alert '' live: assertive atomic: True relevant: additions text
+
+[7541] button 'Dismiss'
+
+[7542] alert '' live: assertive atomic: True relevant: additions text
+
+[7790] link 'Add SSH key'
+
+[7791] button "Don't show again"
+
+[7538] alert '' live: assertive atomic: True relevant: additions text
+
+[7544] button 'Dismiss'
+
+[7545] alert '' live: assertive atomic: True relevant: additions text
+
+[7797] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[7799] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[7800] link 'Settings'
+
+[7801] link 'More information'
+
+[7539] navigation 'Breadcrumbs'
+
+[7962] link 'crew'
+
+[7964] link 'project_site'
+
+[7435] main ''
+
+[7689] alert '' live: assertive atomic: True relevant: additions text
+
+[7814] button 'Dismiss'
+
+[7815] alert '' live: assertive atomic: True relevant: additions text
+
+[8687] StaticText 'The project was successfully imported.'
+
+[7816] StaticText 'P'
+
+[7697] heading 'project_site Public - The project can be accessed without any authentication.'
+
+[7700] generic 'Public - The project can be accessed without any authentication.'
+
+[7703] StaticText 'Project ID: 201 '
+
+[7704] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[7706] link 'Leave project'
+
+[7822] button '' hasPopup: menu expanded: False
+
+[7709] button 'Star'
+
+[7710] link '0'
+
+[7827] link 'Fork'
+
+[7712] link '0'
+
+[8065] link '1 Commit'
+
+[8066] link '1 Branch'
+
+[8067] link '0 Tags'
+
+[8068] link '92 KB Project Storage'
+
+[7714] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">84.9%</span>'
+
+[7715] generic '<span class="repository-language-bar-tooltip-language">Pug</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.1%</span>'
+
+[7716] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">5.2%</span>'
+
+[7717] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">2.9%</span>'
+
+[7840] img 'user avatar'
+
+[7844] link "Initialized from 'NodeJS Express' project template"
+
+[7845] button 'Toggle commit description'
+
+[7850] StaticText 'GitLab authored '
+
+[7851] time 'Feb 8, 2021 10:48am EST'
+
+[8072] StaticText '2 years ago'
+
+[7856] group ''
+
+[8074] StaticText 'eaa48337'
+
+[7858] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8713] button 'master' hasPopup: menu expanded: False
+
+[7489] navigation 'Files breadcrumb'
+
+[8988] link 'project_site'
+
+[9124] button 'Add to tree' hasPopup: menu expanded: False
+
+[8079] link 'Find file'
+
+[8084] link 'Web IDE'
+
+[8085] button 'Download'
+
+[8720] StaticText 'Select Archive Format'
+
+[8087] link 'Clone'
+
+[8110] link 'README'
+
+[8111] link 'Auto DevOps enabled'
+
+[8112] link 'Add LICENSE'
+
+[8113] link 'Add CHANGELOG'
+
+[8114] link 'Add CONTRIBUTING'</pre><div>
+
+[7908]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[7908]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '7908', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [7908]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [7908] where [7908] is [7908] link 'Create new...' focused: True expanded: True</pre></div></div>
+
+[7419] RootWebArea 'crew / project_site · GitLab' focused: True
+
+[7532] link 'Skip to content'
+
+[7723] link 'Dashboard'
+
+[7902] button '' hasPopup: menu expanded: False
+
+[7431] textbox 'Search GitLab' required: False
+
+[8864] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7908] link 'Create new...' focused: True expanded: False
+
+[7910] link 'Issues'
+
+[8273] generic '13 assigned issues'
+
+[7911] link 'Merge requests'
+
+[8275] generic '8 merge requests'
+
+[7913] link 'To-Do List'
+
+[8291] generic 'Todos count'
+
+[7914] link 'Help'
+
+[7916] link 'Byte Blaze'
+
+[8325] img 'Byte Blaze'
+
+[7533] complementary 'Project navigation'
+
+[7756] listitem 'project_site'
+
+[7918] link 'project_site'
+
+[7919] link 'Project information'
+
+[7921] link 'Repository'
+
+[7923] link 'Issues'
+
+[8431] StaticText '0'
+
+[7925] link 'Merge requests'
+
+[7927] link 'CI/CD'
+
+[7929] link 'Security & Compliance'
+
+[7931] link 'Deployments'
+
+[7933] link 'Packages and registries'
+
+[7935] link 'Infrastructure'
+
+[7937] link 'Monitor'
+
+[7939] link 'Analytics'
+
+[7941] link 'Wiki'
+
+[7943] link 'Snippets'
+
+[7945] link 'Settings'
+
+[7673] button 'Collapse sidebar'
+
+[7537] alert '' live: assertive atomic: True relevant: additions text
+
+[7541] button 'Dismiss'
+
+[7542] alert '' live: assertive atomic: True relevant: additions text
+
+[7790] link 'Add SSH key'
+
+[7791] button "Don't show again"
+
+[7538] alert '' live: assertive atomic: True relevant: additions text
+
+[7544] button 'Dismiss'
+
+[7545] alert '' live: assertive atomic: True relevant: additions text
+
+[7797] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[7799] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[7800] link 'Settings'
+
+[7801] link 'More information'
+
+[7539] navigation 'Breadcrumbs'
+
+[7962] link 'crew'
+
+[7964] link 'project_site'
+
+[7435] main ''
+
+[7689] alert '' live: assertive atomic: True relevant: additions text
+
+[7814] button 'Dismiss'
+
+[7815] alert '' live: assertive atomic: True relevant: additions text
+
+[8687] StaticText 'The project was successfully imported.'
+
+[7816] StaticText 'P'
+
+[7697] heading 'project_site Public - The project can be accessed without any authentication.'
+
+[7700] generic 'Public - The project can be accessed without any authentication.'
+
+[7703] StaticText 'Project ID: 201 '
+
+[7704] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[7706] link 'Leave project'
+
+[7822] button '' hasPopup: menu expanded: False
+
+[7709] button 'Star'
+
+[7710] link '0'
+
+[7827] link 'Fork'
+
+[7712] link '0'
+
+[8065] link '1 Commit'
+
+[8066] link '1 Branch'
+
+[8067] link '0 Tags'
+
+[8068] link '92 KB Project Storage'
+
+[7714] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">84.9%</span>'
+
+[7715] generic '<span class="repository-language-bar-tooltip-language">Pug</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.1%</span>'
+
+[7716] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">5.2%</span>'
+
+[7717] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">2.9%</span>'
+
+[7840] img 'user avatar'
+
+[7844] link "Initialized from 'NodeJS Express' project template"
+
+[7845] button 'Toggle commit description'
+
+[7850] StaticText 'GitLab authored '
+
+[7851] time 'Feb 8, 2021 10:48am EST'
+
+[8072] StaticText '2 years ago'
+
+[7856] group ''
+
+[8074] StaticText 'eaa48337'
+
+[7858] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8713] button 'master' hasPopup: menu expanded: False
+
+[7489] navigation 'Files breadcrumb'
+
+[8988] link 'project_site'
+
+[9124] button 'Add to tree' hasPopup: menu expanded: False
+
+[8079] link 'Find file'
+
+[8084] link 'Web IDE'
+
+[8085] button 'Download'
+
+[8720] StaticText 'Select Archive Format'
+
+[8087] link 'Clone'
+
+[8110] link 'README'
+
+[8111] link 'Auto DevOps enabled'
+
+[8112] link 'Add LICENSE'
+
+[8113] link 'Add CHANGELOG'
+
+[8114] link 'Add CONTRIBUTING'</pre><div>
+
+[7908] where [7908] is link 'Create new...' focused: True expanded: True</div>
+
+[7908]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the GitLab project site for the "crew" user and the "project_site" project. The objective is to start a private project with the NodeJS template and add primer, convexegg, and vinta as members. \n\nTo start a private project, I can click on the "Create new..." link. \n\nIn summary, the next action I will perform is `click [7908]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[7419] RootWebArea 'crew / project_site · GitLab' focused: True
+
+[7532] link 'Skip to content'
+
+[7723] link 'Dashboard'
+
+[7902] button '' hasPopup: menu expanded: False
+
+[7431] textbox 'Search GitLab' required: False
+
+[8864] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7908] link 'Create new...' focused: True expanded: False
+
+[7910] link 'Issues'
+
+[8273] generic '13 assigned issues'
+
+[7911] link 'Merge requests'
+
+[8275] generic '8 merge requests'
+
+[7913] link 'To-Do List'
+
+[8291] generic 'Todos count'
+
+[7914] link 'Help'
+
+[7916] link 'Byte Blaze'
+
+[8325] img 'Byte Blaze'
+
+[7533] complementary 'Project navigation'
+
+[7756] listitem 'project_site'
+
+[7918] link 'project_site'
+
+[7919] link 'Project information'
+
+[7921] link 'Repository'
+
+[7923] link 'Issues'
+
+[8431] StaticText '0'
+
+[7925] link 'Merge requests'
+
+[7927] link 'CI/CD'
+
+[7929] link 'Security & Compliance'
+
+[7931] link 'Deployments'
+
+[7933] link 'Packages and registries'
+
+[7935] link 'Infrastructure'
+
+[7937] link 'Monitor'
+
+[7939] link 'Analytics'
+
+[7941] link 'Wiki'
+
+[7943] link 'Snippets'
+
+[7945] link 'Settings'
+
+[7673] button 'Collapse sidebar'
+
+[7537] alert '' live: assertive atomic: True relevant: additions text
+
+[7541] button 'Dismiss'
+
+[7542] alert '' live: assertive atomic: True relevant: additions text
+
+[7790] link 'Add SSH key'
+
+[7791] button "Don't show again"
+
+[7538] alert '' live: assertive atomic: True relevant: additions text
+
+[7544] button 'Dismiss'
+
+[7545] alert '' live: assertive atomic: True relevant: additions text
+
+[7797] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[7799] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[7800] link 'Settings'
+
+[7801] link 'More information'
+
+[7539] navigation 'Breadcrumbs'
+
+[7962] link 'crew'
+
+[7964] link 'project_site'
+
+[7435] main ''
+
+[7689] alert '' live: assertive atomic: True relevant: additions text
+
+[7814] button 'Dismiss'
+
+[7815] alert '' live: assertive atomic: True relevant: additions text
+
+[8687] StaticText 'The project was successfully imported.'
+
+[7816] StaticText 'P'
+
+[7697] heading 'project_site Public - The project can be accessed without any authentication.'
+
+[7700] generic 'Public - The project can be accessed without any authentication.'
+
+[7703] StaticText 'Project ID: 201 '
+
+[7704] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[7706] link 'Leave project'
+
+[7822] button '' hasPopup: menu expanded: False
+
+[7709] button 'Star'
+
+[7710] link '0'
+
+[7827] link 'Fork'
+
+[7712] link '0'
+
+[8065] link '1 Commit'
+
+[8066] link '1 Branch'
+
+[8067] link '0 Tags'
+
+[8068] link '92 KB Project Storage'
+
+[7714] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">84.9%</span>'
+
+[7715] generic '<span class="repository-language-bar-tooltip-language">Pug</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.1%</span>'
+
+[7716] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">5.2%</span>'
+
+[7717] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">2.9%</span>'
+
+[7840] img 'user avatar'
+
+[7844] link "Initialized from 'NodeJS Express' project template"
+
+[7845] button 'Toggle commit description'
+
+[7850] StaticText 'GitLab authored '
+
+[7851] time 'Feb 8, 2021 10:48am EST'
+
+[8072] StaticText '2 years ago'
+
+[7856] group ''
+
+[8074] StaticText 'eaa48337'
+
+[7858] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8713] button 'master' hasPopup: menu expanded: False
+
+[7489] navigation 'Files breadcrumb'
+
+[8988] link 'project_site'
+
+[9124] button 'Add to tree' hasPopup: menu expanded: False
+
+[8079] link 'Find file'
+
+[8084] link 'Web IDE'
+
+[8085] button 'Download'
+
+[8720] StaticText 'Select Archive Format'
+
+[8087] link 'Clone'
+
+[8110] link 'README'
+
+[8111] link 'Auto DevOps enabled'
+
+[8112] link 'Add LICENSE'
+
+[8113] link 'Add CHANGELOG'
+
+[8114] link 'Add CONTRIBUTING'</pre><div>
+
+[7908]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[7908]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the GitLab project site for the "crew" user and the "project_site" project. The objective is to start a private project with the NodeJS template and add primer, convexegg, and vinta as members.\n\nTo start a private project, I can click on the "Create new..." link.\n\nIn summary, the next action I will perform is `click [7908]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[7419] RootWebArea 'crew / project_site · GitLab' focused: True
+
+[7532] link 'Skip to content'
+
+[7723] link 'Dashboard'
+
+[7902] button '' hasPopup: menu expanded: False
+
+[7431] textbox 'Search GitLab' required: False
+
+[8864] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7908] link 'Create new...' focused: True expanded: False
+
+[7910] link 'Issues'
+
+[8273] generic '13 assigned issues'
+
+[7911] link 'Merge requests'
+
+[8275] generic '8 merge requests'
+
+[7913] link 'To-Do List'
+
+[8291] generic 'Todos count'
+
+[7914] link 'Help'
+
+[7916] link 'Byte Blaze'
+
+[8325] img 'Byte Blaze'
+
+[7533] complementary 'Project navigation'
+
+[7756] listitem 'project_site'
+
+[7918] link 'project_site'
+
+[7919] link 'Project information'
+
+[7921] link 'Repository'
+
+[7923] link 'Issues'
+
+[8431] StaticText '0'
+
+[7925] link 'Merge requests'
+
+[7927] link 'CI/CD'
+
+[7929] link 'Security & Compliance'
+
+[7931] link 'Deployments'
+
+[7933] link 'Packages and registries'
+
+[7935] link 'Infrastructure'
+
+[7937] link 'Monitor'
+
+[7939] link 'Analytics'
+
+[7941] link 'Wiki'
+
+[7943] link 'Snippets'
+
+[7945] link 'Settings'
+
+[7673] button 'Collapse sidebar'
+
+[7537] alert '' live: assertive atomic: True relevant: additions text
+
+[7541] button 'Dismiss'
+
+[7542] alert '' live: assertive atomic: True relevant: additions text
+
+[7790] link 'Add SSH key'
+
+[7791] button "Don't show again"
+
+[7538] alert '' live: assertive atomic: True relevant: additions text
+
+[7544] button 'Dismiss'
+
+[7545] alert '' live: assertive atomic: True relevant: additions text
+
+[7797] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[7799] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[7800] link 'Settings'
+
+[7801] link 'More information'
+
+[7539] navigation 'Breadcrumbs'
+
+[7962] link 'crew'
+
+[7964] link 'project_site'
+
+[7435] main ''
+
+[7689] alert '' live: assertive atomic: True relevant: additions text
+
+[7814] button 'Dismiss'
+
+[7815] alert '' live: assertive atomic: True relevant: additions text
+
+[8687] StaticText 'The project was successfully imported.'
+
+[7816] StaticText 'P'
+
+[7697] heading 'project_site Public - The project can be accessed without any authentication.'
+
+[7700] generic 'Public - The project can be accessed without any authentication.'
+
+[7703] StaticText 'Project ID: 201 '
+
+[7704] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[7706] link 'Leave project'
+
+[7822] button '' hasPopup: menu expanded: False
+
+[7709] button 'Star'
+
+[7710] link '0'
+
+[7827] link 'Fork'
+
+[7712] link '0'
+
+[8065] link '1 Commit'
+
+[8066] link '1 Branch'
+
+[8067] link '0 Tags'
+
+[8068] link '92 KB Project Storage'
+
+[7714] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">84.9%</span>'
+
+[7715] generic '<span class="repository-language-bar-tooltip-language">Pug</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.1%</span>'
+
+[7716] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">5.2%</span>'
+
+[7717] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">2.9%</span>'
+
+[7840] img 'user avatar'
+
+[7844] link "Initialized from 'NodeJS Express' project template"
+
+[7845] button 'Toggle commit description'
+
+[7850] StaticText 'GitLab authored '
+
+[7851] time 'Feb 8, 2021 10:48am EST'
+
+[8072] StaticText '2 years ago'
+
+[7856] group ''
+
+[8074] StaticText 'eaa48337'
+
+[7858] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8713] button 'master' hasPopup: menu expanded: False
+
+[7489] navigation 'Files breadcrumb'
+
+[8988] link 'project_site'
+
+[9124] button 'Add to tree' hasPopup: menu expanded: False
+
+[8079] link 'Find file'
+
+[8084] link 'Web IDE'
+
+[8085] button 'Download'
+
+[8720] StaticText 'Select Archive Format'
+
+[8087] link 'Clone'
+
+[8110] link 'README'
+
+[8111] link 'Auto DevOps enabled'
+
+[8112] link 'Add LICENSE'
+
+[8113] link 'Add CHANGELOG'
+
+[8114] link 'Add CONTRIBUTING'</pre><div>
+
+[7908]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[7908]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '7908', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [7908]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [7908] where [7908] is [7908] link 'Create new...' focused: True expanded: False</pre></div></div>
+
+[7419] RootWebArea 'crew / project_site · GitLab' focused: True
+
+[7532] link 'Skip to content'
+
+[7723] link 'Dashboard'
+
+[7902] button '' hasPopup: menu expanded: False
+
+[7431] textbox 'Search GitLab' required: False
+
+[8864] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7908] link 'Create new...' focused: True expanded: True
+
+[9347] StaticText 'This project'
+
+[9361] link 'New issue'
+
+[9357] link 'New merge request'
+
+[9339] link 'New snippet'
+
+[9353] link 'Invite members '
+
+[9337] StaticText 'GitLab'
+
+[9346] link 'New project/repository'
+
+[9338] link 'New group'
+
+[9352] link 'New snippet'
+
+[7910] link 'Issues'
+
+[8273] generic '13 assigned issues'
+
+[7911] link 'Merge requests'
+
+[8275] generic '8 merge requests'
+
+[7913] link 'To-Do List'
+
+[8291] generic 'Todos count'
+
+[7914] link 'Help'
+
+[7916] link 'Byte Blaze'
+
+[8325] img 'Byte Blaze'
+
+[7533] complementary 'Project navigation'
+
+[7756] listitem 'project_site'
+
+[7918] link 'project_site'
+
+[7919] link 'Project information'
+
+[7921] link 'Repository'
+
+[7923] link 'Issues'
+
+[8431] StaticText '0'
+
+[7925] link 'Merge requests'
+
+[7927] link 'CI/CD'
+
+[7929] link 'Security & Compliance'
+
+[7931] link 'Deployments'
+
+[7933] link 'Packages and registries'
+
+[7935] link 'Infrastructure'
+
+[7937] link 'Monitor'
+
+[7939] link 'Analytics'
+
+[7941] link 'Wiki'
+
+[7943] link 'Snippets'
+
+[7945] link 'Settings'
+
+[7673] button 'Collapse sidebar'
+
+[7537] alert '' live: assertive atomic: True relevant: additions text
+
+[7541] button 'Dismiss'
+
+[7542] alert '' live: assertive atomic: True relevant: additions text
+
+[7790] link 'Add SSH key'
+
+[7791] button "Don't show again"
+
+[7538] alert '' live: assertive atomic: True relevant: additions text
+
+[7544] button 'Dismiss'
+
+[7545] alert '' live: assertive atomic: True relevant: additions text
+
+[7797] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[7799] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[7800] link 'Settings'
+
+[7801] link 'More information'
+
+[7539] navigation 'Breadcrumbs'
+
+[7962] link 'crew'
+
+[7964] link 'project_site'
+
+[7435] main ''
+
+[7689] alert '' live: assertive atomic: True relevant: additions text
+
+[7814] button 'Dismiss'
+
+[7815] alert '' live: assertive atomic: True relevant: additions text
+
+[8687] StaticText 'The project was successfully imported.'
+
+[7816] StaticText 'P'
+
+[7697] heading 'project_site Public - The project can be accessed without any authentication.'
+
+[7700] generic 'Public - The project can be accessed without any authentication.'
+
+[7703] StaticText 'Project ID: 201 '
+
+[7704] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[7706] link 'Leave project'
+
+[7822] button '' hasPopup: menu expanded: False
+
+[7709] button 'Star'
+
+[7710] link '0'
+
+[7827] link 'Fork'
+
+[7712] link '0'
+
+[8065] link '1 Commit'
+
+[8066] link '1 Branch'
+
+[8067] link '0 Tags'
+
+[8068] link '92 KB Project Storage'
+
+[7714] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">84.9%</span>'
+
+[7715] generic '<span class="repository-language-bar-tooltip-language">Pug</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.1%</span>'
+
+[7716] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">5.2%</span>'
+
+[7717] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">2.9%</span>'
+
+[7840] img 'user avatar'
+
+[7844] link "Initialized from 'NodeJS Express' project template"
+
+[7845] button 'Toggle commit description'
+
+[7850] StaticText 'GitLab authored '
+
+[7851] time 'Feb 8, 2021 10:48am EST'
+
+[8072] StaticText '2 years ago'
+
+[7856] group ''
+
+[8074] StaticText 'eaa48337'
+
+[7858] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8713] button 'master' hasPopup: menu expanded: False
+
+[7489] navigation 'Files breadcrumb'
+
+[8988] link 'project_site'
+
+[9124] button 'Add to tree' hasPopup: menu expanded: False
+
+[8079] link 'Find file'
+
+[8084] link 'Web IDE'
+
+[8085] button 'Download'
+
+[8720] StaticText 'Select Archive Format'
+
+[8087] link 'Clone'
+
+[8110] link 'README'
+
+[8111] link 'Auto DevOps enabled'
+
+[8112] link 'Add LICENSE'
+
+[8113] link 'Add CHANGELOG'
+
+[8114] link 'Add CONTRIBUTING'</pre><div>
+
+[7908] where [7908] is link 'Create new...' focused: True expanded: False</div>
+
+[7908]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '7908', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To start a new project with the NodeJS template, I need to click on the "Create new..." link. After that, I should be able to choose the NodeJS template to start a new project. In summary, the next action I will perform is ```click [7908]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [7908] where [7908] is [7908] link 'Create new...' focused: True expanded: True</pre></div></div>
+
+[7419] RootWebArea 'crew / project_site · GitLab' focused: True
+
+[7532] link 'Skip to content'
+
+[7723] link 'Dashboard'
+
+[7902] button '' hasPopup: menu expanded: False
+
+[7431] textbox 'Search GitLab' required: False
+
+[8864] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7908] link 'Create new...' focused: True expanded: False
+
+[7910] link 'Issues'
+
+[8273] generic '13 assigned issues'
+
+[7911] link 'Merge requests'
+
+[8275] generic '8 merge requests'
+
+[7913] link 'To-Do List'
+
+[8291] generic 'Todos count'
+
+[7914] link 'Help'
+
+[7916] link 'Byte Blaze'
+
+[8325] img 'Byte Blaze'
+
+[7533] complementary 'Project navigation'
+
+[7756] listitem 'project_site'
+
+[7918] link 'project_site'
+
+[7919] link 'Project information'
+
+[7921] link 'Repository'
+
+[7923] link 'Issues'
+
+[8431] StaticText '0'
+
+[7925] link 'Merge requests'
+
+[7927] link 'CI/CD'
+
+[7929] link 'Security & Compliance'
+
+[7931] link 'Deployments'
+
+[7933] link 'Packages and registries'
+
+[7935] link 'Infrastructure'
+
+[7937] link 'Monitor'
+
+[7939] link 'Analytics'
+
+[7941] link 'Wiki'
+
+[7943] link 'Snippets'
+
+[7945] link 'Settings'
+
+[7673] button 'Collapse sidebar'
+
+[7537] alert '' live: assertive atomic: True relevant: additions text
+
+[7541] button 'Dismiss'
+
+[7542] alert '' live: assertive atomic: True relevant: additions text
+
+[7790] link 'Add SSH key'
+
+[7791] button "Don't show again"
+
+[7538] alert '' live: assertive atomic: True relevant: additions text
+
+[7544] button 'Dismiss'
+
+[7545] alert '' live: assertive atomic: True relevant: additions text
+
+[7797] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[7799] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[7800] link 'Settings'
+
+[7801] link 'More information'
+
+[7539] navigation 'Breadcrumbs'
+
+[7962] link 'crew'
+
+[7964] link 'project_site'
+
+[7435] main ''
+
+[7689] alert '' live: assertive atomic: True relevant: additions text
+
+[7814] button 'Dismiss'
+
+[7815] alert '' live: assertive atomic: True relevant: additions text
+
+[8687] StaticText 'The project was successfully imported.'
+
+[7816] StaticText 'P'
+
+[7697] heading 'project_site Public - The project can be accessed without any authentication.'
+
+[7700] generic 'Public - The project can be accessed without any authentication.'
+
+[7703] StaticText 'Project ID: 201 '
+
+[7704] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[7706] link 'Leave project'
+
+[7822] button '' hasPopup: menu expanded: False
+
+[7709] button 'Star'
+
+[7710] link '0'
+
+[7827] link 'Fork'
+
+[7712] link '0'
+
+[8065] link '1 Commit'
+
+[8066] link '1 Branch'
+
+[8067] link '0 Tags'
+
+[8068] link '92 KB Project Storage'
+
+[7714] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">84.9%</span>'
+
+[7715] generic '<span class="repository-language-bar-tooltip-language">Pug</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.1%</span>'
+
+[7716] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">5.2%</span>'
+
+[7717] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">2.9%</span>'
+
+[7840] img 'user avatar'
+
+[7844] link "Initialized from 'NodeJS Express' project template"
+
+[7845] button 'Toggle commit description'
+
+[7850] StaticText 'GitLab authored '
+
+[7851] time 'Feb 8, 2021 10:48am EST'
+
+[8072] StaticText '2 years ago'
+
+[7856] group ''
+
+[8074] StaticText 'eaa48337'
+
+[7858] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8713] button 'master' hasPopup: menu expanded: False
+
+[7489] navigation 'Files breadcrumb'
+
+[8988] link 'project_site'
+
+[9124] button 'Add to tree' hasPopup: menu expanded: False
+
+[8079] link 'Find file'
+
+[8084] link 'Web IDE'
+
+[8085] button 'Download'
+
+[8720] StaticText 'Select Archive Format'
+
+[8087] link 'Clone'
+
+[8110] link 'README'
+
+[8111] link 'Auto DevOps enabled'
+
+[8112] link 'Add LICENSE'
+
+[8113] link 'Add CHANGELOG'
+
+[8114] link 'Add CONTRIBUTING'</pre><div>
+
+[7908] where [7908] is link 'Create new...' focused: True expanded: True</div>
+
+[7908]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page has a link 'Create new...' that we can click to create a new project. Once we click on that, we will be redirected to the project creation page where we can select the NodeJS template. After creating the project, we can add members by navigating to the project's settings. In summary, the next action I will perform is `click [7908]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[7419] RootWebArea 'crew / project_site · GitLab' focused: True
+
+[7532] link 'Skip to content'
+
+[7723] link 'Dashboard'
+
+[7902] button '' hasPopup: menu expanded: False
+
+[7431] textbox 'Search GitLab' required: False
+
+[8864] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7908] link 'Create new...' focused: True expanded: False
+
+[7910] link 'Issues'
+
+[8273] generic '13 assigned issues'
+
+[7911] link 'Merge requests'
+
+[8275] generic '8 merge requests'
+
+[7913] link 'To-Do List'
+
+[8291] generic 'Todos count'
+
+[7914] link 'Help'
+
+[7916] link 'Byte Blaze'
+
+[8325] img 'Byte Blaze'
+
+[7533] complementary 'Project navigation'
+
+[7756] listitem 'project_site'
+
+[7918] link 'project_site'
+
+[7919] link 'Project information'
+
+[7921] link 'Repository'
+
+[7923] link 'Issues'
+
+[8431] StaticText '0'
+
+[7925] link 'Merge requests'
+
+[7927] link 'CI/CD'
+
+[7929] link 'Security & Compliance'
+
+[7931] link 'Deployments'
+
+[7933] link 'Packages and registries'
+
+[7935] link 'Infrastructure'
+
+[7937] link 'Monitor'
+
+[7939] link 'Analytics'
+
+[7941] link 'Wiki'
+
+[7943] link 'Snippets'
+
+[7945] link 'Settings'
+
+[7673] button 'Collapse sidebar'
+
+[7537] alert '' live: assertive atomic: True relevant: additions text
+
+[7541] button 'Dismiss'
+
+[7542] alert '' live: assertive atomic: True relevant: additions text
+
+[7790] link 'Add SSH key'
+
+[7791] button "Don't show again"
+
+[7538] alert '' live: assertive atomic: True relevant: additions text
+
+[7544] button 'Dismiss'
+
+[7545] alert '' live: assertive atomic: True relevant: additions text
+
+[7797] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[7799] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[7800] link 'Settings'
+
+[7801] link 'More information'
+
+[7539] navigation 'Breadcrumbs'
+
+[7962] link 'crew'
+
+[7964] link 'project_site'
+
+[7435] main ''
+
+[7689] alert '' live: assertive atomic: True relevant: additions text
+
+[7814] button 'Dismiss'
+
+[7815] alert '' live: assertive atomic: True relevant: additions text
+
+[8687] StaticText 'The project was successfully imported.'
+
+[7816] StaticText 'P'
+
+[7697] heading 'project_site Public - The project can be accessed without any authentication.'
+
+[7700] generic 'Public - The project can be accessed without any authentication.'
+
+[7703] StaticText 'Project ID: 201 '
+
+[7704] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[7706] link 'Leave project'
+
+[7822] button '' hasPopup: menu expanded: False
+
+[7709] button 'Star'
+
+[7710] link '0'
+
+[7827] link 'Fork'
+
+[7712] link '0'
+
+[8065] link '1 Commit'
+
+[8066] link '1 Branch'
+
+[8067] link '0 Tags'
+
+[8068] link '92 KB Project Storage'
+
+[7714] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">84.9%</span>'
+
+[7715] generic '<span class="repository-language-bar-tooltip-language">Pug</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.1%</span>'
+
+[7716] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">5.2%</span>'
+
+[7717] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">2.9%</span>'
+
+[7840] img 'user avatar'
+
+[7844] link "Initialized from 'NodeJS Express' project template"
+
+[7845] button 'Toggle commit description'
+
+[7850] StaticText 'GitLab authored '
+
+[7851] time 'Feb 8, 2021 10:48am EST'
+
+[8072] StaticText '2 years ago'
+
+[7856] group ''
+
+[8074] StaticText 'eaa48337'
+
+[7858] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8713] button 'master' hasPopup: menu expanded: False
+
+[7489] navigation 'Files breadcrumb'
+
+[8988] link 'project_site'
+
+[9124] button 'Add to tree' hasPopup: menu expanded: False
+
+[8079] link 'Find file'
+
+[8084] link 'Web IDE'
+
+[8085] button 'Download'
+
+[8720] StaticText 'Select Archive Format'
+
+[8087] link 'Clone'
+
+[8110] link 'README'
+
+[8111] link 'Auto DevOps enabled'
+
+[8112] link 'Add LICENSE'
+
+[8113] link 'Add CHANGELOG'
+
+[8114] link 'Add CONTRIBUTING'</pre><div>
+
+[7908]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[7908] that we can click to create a new project. Once we click on that, we will be redirected to the project creation page where we can select the NodeJS template. After creating the project, we can add members by navigating to the project's settings.
+
+[7908]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '7908', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page has a link with the ID [7908] that we can click to create a new project. Once we click on that, we will be redirected to the project creation page where we can select the NodeJS template. After creating the project, we can add members by navigating to the project's settings. \n\nIn summary, the next action I will perform is ```click [7908]```."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [7908] where [7908] is [7908] link 'Create new...' focused: True expanded: False</pre></div></div>
+
+[7419] RootWebArea 'crew / project_site · GitLab' focused: True
+
+[7532] link 'Skip to content'
+
+[7723] link 'Dashboard'
+
+[7902] button '' hasPopup: menu expanded: False
+
+[7431] textbox 'Search GitLab' required: False
+
+[8864] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7908] link 'Create new...' focused: True expanded: True
+
+[9416] StaticText 'This project'
+
+[9411] link 'New issue'
+
+[9401] link 'New merge request'
+
+[9408] link 'New snippet'
+
+[9410] link 'Invite members '
+
+[9420] StaticText 'GitLab'
+
+[9406] link 'New project/repository'
+
+[9404] link 'New group'
+
+[9399] link 'New snippet'
+
+[7910] link 'Issues'
+
+[8273] generic '13 assigned issues'
+
+[7911] link 'Merge requests'
+
+[8275] generic '8 merge requests'
+
+[7913] link 'To-Do List'
+
+[8291] generic 'Todos count'
+
+[7914] link 'Help'
+
+[7916] link 'Byte Blaze'
+
+[8325] img 'Byte Blaze'
+
+[7533] complementary 'Project navigation'
+
+[7756] listitem 'project_site'
+
+[7918] link 'project_site'
+
+[7919] link 'Project information'
+
+[7921] link 'Repository'
+
+[7923] link 'Issues'
+
+[8431] StaticText '0'
+
+[7925] link 'Merge requests'
+
+[7927] link 'CI/CD'
+
+[7929] link 'Security & Compliance'
+
+[7931] link 'Deployments'
+
+[7933] link 'Packages and registries'
+
+[7935] link 'Infrastructure'
+
+[7937] link 'Monitor'
+
+[7939] link 'Analytics'
+
+[7941] link 'Wiki'
+
+[7943] link 'Snippets'
+
+[7945] link 'Settings'
+
+[7673] button 'Collapse sidebar'
+
+[7537] alert '' live: assertive atomic: True relevant: additions text
+
+[7541] button 'Dismiss'
+
+[7542] alert '' live: assertive atomic: True relevant: additions text
+
+[7790] link 'Add SSH key'
+
+[7791] button "Don't show again"
+
+[7538] alert '' live: assertive atomic: True relevant: additions text
+
+[7544] button 'Dismiss'
+
+[7545] alert '' live: assertive atomic: True relevant: additions text
+
+[7797] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[7799] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[7800] link 'Settings'
+
+[7801] link 'More information'
+
+[7539] navigation 'Breadcrumbs'
+
+[7962] link 'crew'
+
+[7964] link 'project_site'
+
+[7435] main ''
+
+[7689] alert '' live: assertive atomic: True relevant: additions text
+
+[7814] button 'Dismiss'
+
+[7815] alert '' live: assertive atomic: True relevant: additions text
+
+[8687] StaticText 'The project was successfully imported.'
+
+[7816] StaticText 'P'
+
+[7697] heading 'project_site Public - The project can be accessed without any authentication.'
+
+[7700] generic 'Public - The project can be accessed without any authentication.'
+
+[7703] StaticText 'Project ID: 201 '
+
+[7704] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[7706] link 'Leave project'
+
+[7822] button '' hasPopup: menu expanded: False
+
+[7709] button 'Star'
+
+[7710] link '0'
+
+[7827] link 'Fork'
+
+[7712] link '0'
+
+[8065] link '1 Commit'
+
+[8066] link '1 Branch'
+
+[8067] link '0 Tags'
+
+[8068] link '92 KB Project Storage'
+
+[7714] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">84.9%</span>'
+
+[7715] generic '<span class="repository-language-bar-tooltip-language">Pug</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.1%</span>'
+
+[7716] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">5.2%</span>'
+
+[7717] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">2.9%</span>'
+
+[7840] img 'user avatar'
+
+[7844] link "Initialized from 'NodeJS Express' project template"
+
+[7845] button 'Toggle commit description'
+
+[7850] StaticText 'GitLab authored '
+
+[7851] time 'Feb 8, 2021 10:48am EST'
+
+[8072] StaticText '2 years ago'
+
+[7856] group ''
+
+[8074] StaticText 'eaa48337'
+
+[7858] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8713] button 'master' hasPopup: menu expanded: False
+
+[7489] navigation 'Files breadcrumb'
+
+[8988] link 'project_site'
+
+[9124] button 'Add to tree' hasPopup: menu expanded: False
+
+[8079] link 'Find file'
+
+[8084] link 'Web IDE'
+
+[8085] button 'Download'
+
+[8720] StaticText 'Select Archive Format'
+
+[8087] link 'Clone'
+
+[8110] link 'README'
+
+[8111] link 'Auto DevOps enabled'
+
+[8112] link 'Add LICENSE'
+
+[8113] link 'Add CHANGELOG'
+
+[8114] link 'Add CONTRIBUTING'</pre><div>
+
+[7908] where [7908] is link 'Create new...' focused: True expanded: False</div>
+
+[7908]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To start a new private project with the NodeJS template, I need to click on the "Create new..." link. I will click on the link and proceed with the next steps. In summary, the next action I will perform is `click [7908]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[7419] RootWebArea 'crew / project_site · GitLab' focused: True
+
+[7532] link 'Skip to content'
+
+[7723] link 'Dashboard'
+
+[7902] button '' hasPopup: menu expanded: False
+
+[7431] textbox 'Search GitLab' required: False
+
+[8864] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7908] link 'Create new...' focused: True expanded: True
+
+[9416] StaticText 'This project'
+
+[9411] link 'New issue'
+
+[9401] link 'New merge request'
+
+[9408] link 'New snippet'
+
+[9410] link 'Invite members '
+
+[9420] StaticText 'GitLab'
+
+[9406] link 'New project/repository'
+
+[9404] link 'New group'
+
+[9399] link 'New snippet'
+
+[7910] link 'Issues'
+
+[8273] generic '13 assigned issues'
+
+[7911] link 'Merge requests'
+
+[8275] generic '8 merge requests'
+
+[7913] link 'To-Do List'
+
+[8291] generic 'Todos count'
+
+[7914] link 'Help'
+
+[7916] link 'Byte Blaze'
+
+[8325] img 'Byte Blaze'
+
+[7533] complementary 'Project navigation'
+
+[7756] listitem 'project_site'
+
+[7918] link 'project_site'
+
+[7919] link 'Project information'
+
+[7921] link 'Repository'
+
+[7923] link 'Issues'
+
+[8431] StaticText '0'
+
+[7925] link 'Merge requests'
+
+[7927] link 'CI/CD'
+
+[7929] link 'Security & Compliance'
+
+[7931] link 'Deployments'
+
+[7933] link 'Packages and registries'
+
+[7935] link 'Infrastructure'
+
+[7937] link 'Monitor'
+
+[7939] link 'Analytics'
+
+[7941] link 'Wiki'
+
+[7943] link 'Snippets'
+
+[7945] link 'Settings'
+
+[7673] button 'Collapse sidebar'
+
+[7537] alert '' live: assertive atomic: True relevant: additions text
+
+[7541] button 'Dismiss'
+
+[7542] alert '' live: assertive atomic: True relevant: additions text
+
+[7790] link 'Add SSH key'
+
+[7791] button "Don't show again"
+
+[7538] alert '' live: assertive atomic: True relevant: additions text
+
+[7544] button 'Dismiss'
+
+[7545] alert '' live: assertive atomic: True relevant: additions text
+
+[7797] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[7799] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[7800] link 'Settings'
+
+[7801] link 'More information'
+
+[7539] navigation 'Breadcrumbs'
+
+[7962] link 'crew'
+
+[7964] link 'project_site'
+
+[7435] main ''
+
+[7689] alert '' live: assertive atomic: True relevant: additions text
+
+[7814] button 'Dismiss'
+
+[7815] alert '' live: assertive atomic: True relevant: additions text
+
+[8687] StaticText 'The project was successfully imported.'
+
+[7816] StaticText 'P'
+
+[7697] heading 'project_site Public - The project can be accessed without any authentication.'
+
+[7700] generic 'Public - The project can be accessed without any authentication.'
+
+[7703] StaticText 'Project ID: 201 '
+
+[7704] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[7706] link 'Leave project'
+
+[7822] button '' hasPopup: menu expanded: False
+
+[7709] button 'Star'
+
+[7710] link '0'
+
+[7827] link 'Fork'
+
+[7712] link '0'
+
+[8065] link '1 Commit'
+
+[8066] link '1 Branch'
+
+[8067] link '0 Tags'
+
+[8068] link '92 KB Project Storage'
+
+[7714] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">84.9%</span>'
+
+[7715] generic '<span class="repository-language-bar-tooltip-language">Pug</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.1%</span>'
+
+[7716] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">5.2%</span>'
+
+[7717] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">2.9%</span>'
+
+[7840] img 'user avatar'
+
+[7844] link "Initialized from 'NodeJS Express' project template"
+
+[7845] button 'Toggle commit description'
+
+[7850] StaticText 'GitLab authored '
+
+[7851] time 'Feb 8, 2021 10:48am EST'
+
+[8072] StaticText '2 years ago'
+
+[7856] group ''
+
+[8074] StaticText 'eaa48337'
+
+[7858] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8713] button 'master' hasPopup: menu expanded: False
+
+[7489] navigation 'Files breadcrumb'
+
+[8988] link 'project_site'
+
+[9124] button 'Add to tree' hasPopup: menu expanded: False
+
+[8079] link 'Find file'
+
+[8084] link 'Web IDE'
+
+[8085] button 'Download'
+
+[8720] StaticText 'Select Archive Format'
+
+[8087] link 'Clone'
+
+[8110] link 'README'
+
+[8111] link 'Auto DevOps enabled'
+
+[8112] link 'Add LICENSE'
+
+[8113] link 'Add CHANGELOG'
+
+[8114] link 'Add CONTRIBUTING'</pre><div>
+
+[7908]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[7908]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '7908', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [7908]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [7908] where [7908] is [7908] link 'Create new...' focused: True expanded: True</pre></div></div>
+
+[7419] RootWebArea 'crew / project_site · GitLab' focused: True
+
+[7532] link 'Skip to content'
+
+[7723] link 'Dashboard'
+
+[7902] button '' hasPopup: menu expanded: False
+
+[7431] textbox 'Search GitLab' required: False
+
+[8864] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7908] link 'Create new...' focused: True expanded: False
+
+[7910] link 'Issues'
+
+[8273] generic '13 assigned issues'
+
+[7911] link 'Merge requests'
+
+[8275] generic '8 merge requests'
+
+[7913] link 'To-Do List'
+
+[8291] generic 'Todos count'
+
+[7914] link 'Help'
+
+[7916] link 'Byte Blaze'
+
+[8325] img 'Byte Blaze'
+
+[7533] complementary 'Project navigation'
+
+[7756] listitem 'project_site'
+
+[7918] link 'project_site'
+
+[7919] link 'Project information'
+
+[7921] link 'Repository'
+
+[7923] link 'Issues'
+
+[8431] StaticText '0'
+
+[7925] link 'Merge requests'
+
+[7927] link 'CI/CD'
+
+[7929] link 'Security & Compliance'
+
+[7931] link 'Deployments'
+
+[7933] link 'Packages and registries'
+
+[7935] link 'Infrastructure'
+
+[7937] link 'Monitor'
+
+[7939] link 'Analytics'
+
+[7941] link 'Wiki'
+
+[7943] link 'Snippets'
+
+[7945] link 'Settings'
+
+[7673] button 'Collapse sidebar'
+
+[7537] alert '' live: assertive atomic: True relevant: additions text
+
+[7541] button 'Dismiss'
+
+[7542] alert '' live: assertive atomic: True relevant: additions text
+
+[7790] link 'Add SSH key'
+
+[7791] button "Don't show again"
+
+[7538] alert '' live: assertive atomic: True relevant: additions text
+
+[7544] button 'Dismiss'
+
+[7545] alert '' live: assertive atomic: True relevant: additions text
+
+[7797] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[7799] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[7800] link 'Settings'
+
+[7801] link 'More information'
+
+[7539] navigation 'Breadcrumbs'
+
+[7962] link 'crew'
+
+[7964] link 'project_site'
+
+[7435] main ''
+
+[7689] alert '' live: assertive atomic: True relevant: additions text
+
+[7814] button 'Dismiss'
+
+[7815] alert '' live: assertive atomic: True relevant: additions text
+
+[8687] StaticText 'The project was successfully imported.'
+
+[7816] StaticText 'P'
+
+[7697] heading 'project_site Public - The project can be accessed without any authentication.'
+
+[7700] generic 'Public - The project can be accessed without any authentication.'
+
+[7703] StaticText 'Project ID: 201 '
+
+[7704] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[7706] link 'Leave project'
+
+[7822] button '' hasPopup: menu expanded: False
+
+[7709] button 'Star'
+
+[7710] link '0'
+
+[7827] link 'Fork'
+
+[7712] link '0'
+
+[8065] link '1 Commit'
+
+[8066] link '1 Branch'
+
+[8067] link '0 Tags'
+
+[8068] link '92 KB Project Storage'
+
+[7714] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">84.9%</span>'
+
+[7715] generic '<span class="repository-language-bar-tooltip-language">Pug</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.1%</span>'
+
+[7716] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">5.2%</span>'
+
+[7717] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">2.9%</span>'
+
+[7840] img 'user avatar'
+
+[7844] link "Initialized from 'NodeJS Express' project template"
+
+[7845] button 'Toggle commit description'
+
+[7850] StaticText 'GitLab authored '
+
+[7851] time 'Feb 8, 2021 10:48am EST'
+
+[8072] StaticText '2 years ago'
+
+[7856] group ''
+
+[8074] StaticText 'eaa48337'
+
+[7858] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8713] button 'master' hasPopup: menu expanded: False
+
+[7489] navigation 'Files breadcrumb'
+
+[8988] link 'project_site'
+
+[9124] button 'Add to tree' hasPopup: menu expanded: False
+
+[8079] link 'Find file'
+
+[8084] link 'Web IDE'
+
+[8085] button 'Download'
+
+[8720] StaticText 'Select Archive Format'
+
+[8087] link 'Clone'
+
+[8110] link 'README'
+
+[8111] link 'Auto DevOps enabled'
+
+[8112] link 'Add LICENSE'
+
+[8113] link 'Add CHANGELOG'
+
+[8114] link 'Add CONTRIBUTING'</pre><div>
+
+[7908] where [7908] is link 'Create new...' focused: True expanded: True</div>
+
+[7908]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To start a private project with the NodeJS template, I need to click on the "Create new..." link. This will open a dropdown menu where I can select "Project". Then, I can fill in the necessary information and choose the NodeJS template. After creating the project, I can add primer, convexegg, and vinta as members. In summary, the next action I will perform is `click [7908]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[7419] RootWebArea 'crew / project_site · GitLab' focused: True
+
+[7532] link 'Skip to content'
+
+[7723] link 'Dashboard'
+
+[7902] button '' hasPopup: menu expanded: False
+
+[7431] textbox 'Search GitLab' required: False
+
+[8864] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7908] link 'Create new...' focused: True expanded: False
+
+[7910] link 'Issues'
+
+[8273] generic '13 assigned issues'
+
+[7911] link 'Merge requests'
+
+[8275] generic '8 merge requests'
+
+[7913] link 'To-Do List'
+
+[8291] generic 'Todos count'
+
+[7914] link 'Help'
+
+[7916] link 'Byte Blaze'
+
+[8325] img 'Byte Blaze'
+
+[7533] complementary 'Project navigation'
+
+[7756] listitem 'project_site'
+
+[7918] link 'project_site'
+
+[7919] link 'Project information'
+
+[7921] link 'Repository'
+
+[7923] link 'Issues'
+
+[8431] StaticText '0'
+
+[7925] link 'Merge requests'
+
+[7927] link 'CI/CD'
+
+[7929] link 'Security & Compliance'
+
+[7931] link 'Deployments'
+
+[7933] link 'Packages and registries'
+
+[7935] link 'Infrastructure'
+
+[7937] link 'Monitor'
+
+[7939] link 'Analytics'
+
+[7941] link 'Wiki'
+
+[7943] link 'Snippets'
+
+[7945] link 'Settings'
+
+[7673] button 'Collapse sidebar'
+
+[7537] alert '' live: assertive atomic: True relevant: additions text
+
+[7541] button 'Dismiss'
+
+[7542] alert '' live: assertive atomic: True relevant: additions text
+
+[7790] link 'Add SSH key'
+
+[7791] button "Don't show again"
+
+[7538] alert '' live: assertive atomic: True relevant: additions text
+
+[7544] button 'Dismiss'
+
+[7545] alert '' live: assertive atomic: True relevant: additions text
+
+[7797] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[7799] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[7800] link 'Settings'
+
+[7801] link 'More information'
+
+[7539] navigation 'Breadcrumbs'
+
+[7962] link 'crew'
+
+[7964] link 'project_site'
+
+[7435] main ''
+
+[7689] alert '' live: assertive atomic: True relevant: additions text
+
+[7814] button 'Dismiss'
+
+[7815] alert '' live: assertive atomic: True relevant: additions text
+
+[8687] StaticText 'The project was successfully imported.'
+
+[7816] StaticText 'P'
+
+[7697] heading 'project_site Public - The project can be accessed without any authentication.'
+
+[7700] generic 'Public - The project can be accessed without any authentication.'
+
+[7703] StaticText 'Project ID: 201 '
+
+[7704] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[7706] link 'Leave project'
+
+[7822] button '' hasPopup: menu expanded: False
+
+[7709] button 'Star'
+
+[7710] link '0'
+
+[7827] link 'Fork'
+
+[7712] link '0'
+
+[8065] link '1 Commit'
+
+[8066] link '1 Branch'
+
+[8067] link '0 Tags'
+
+[8068] link '92 KB Project Storage'
+
+[7714] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">84.9%</span>'
+
+[7715] generic '<span class="repository-language-bar-tooltip-language">Pug</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.1%</span>'
+
+[7716] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">5.2%</span>'
+
+[7717] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">2.9%</span>'
+
+[7840] img 'user avatar'
+
+[7844] link "Initialized from 'NodeJS Express' project template"
+
+[7845] button 'Toggle commit description'
+
+[7850] StaticText 'GitLab authored '
+
+[7851] time 'Feb 8, 2021 10:48am EST'
+
+[8072] StaticText '2 years ago'
+
+[7856] group ''
+
+[8074] StaticText 'eaa48337'
+
+[7858] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8713] button 'master' hasPopup: menu expanded: False
+
+[7489] navigation 'Files breadcrumb'
+
+[8988] link 'project_site'
+
+[9124] button 'Add to tree' hasPopup: menu expanded: False
+
+[8079] link 'Find file'
+
+[8084] link 'Web IDE'
+
+[8085] button 'Download'
+
+[8720] StaticText 'Select Archive Format'
+
+[8087] link 'Clone'
+
+[8110] link 'README'
+
+[8111] link 'Auto DevOps enabled'
+
+[8112] link 'Add LICENSE'
+
+[8113] link 'Add CHANGELOG'
+
+[8114] link 'Add CONTRIBUTING'</pre><div>
+
+[7908]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[7908]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '7908', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To start a private project with the NodeJS template, I need to click on the "Create new..." link. This will open a dropdown menu where I can select "Project". Then, I can fill in the necessary information and choose the NodeJS template. After creating the project, I can add primer, convexegg, and vinta as members. In summary, the next action I will perform is ```click [7908]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [7908] where [7908] is [7908] link 'Create new...' focused: True expanded: False</pre></div></div>
+
+[7419] RootWebArea 'crew / project_site · GitLab' focused: True
+
+[7532] link 'Skip to content'
+
+[7723] link 'Dashboard'
+
+[7902] button '' hasPopup: menu expanded: False
+
+[7431] textbox 'Search GitLab' required: False
+
+[8864] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7908] link 'Create new...' focused: True expanded: True
+
+[9457] StaticText 'This project'
+
+[9474] link 'New issue'
+
+[9458] link 'New merge request'
+
+[9455] link 'New snippet'
+
+[9469] link 'Invite members '
+
+[9459] StaticText 'GitLab'
+
+[9483] link 'New project/repository'
+
+[9477] link 'New group'
+
+[9467] link 'New snippet'
+
+[7910] link 'Issues'
+
+[8273] generic '13 assigned issues'
+
+[7911] link 'Merge requests'
+
+[8275] generic '8 merge requests'
+
+[7913] link 'To-Do List'
+
+[8291] generic 'Todos count'
+
+[7914] link 'Help'
+
+[7916] link 'Byte Blaze'
+
+[8325] img 'Byte Blaze'
+
+[7533] complementary 'Project navigation'
+
+[7756] listitem 'project_site'
+
+[7918] link 'project_site'
+
+[7919] link 'Project information'
+
+[7921] link 'Repository'
+
+[7923] link 'Issues'
+
+[8431] StaticText '0'
+
+[7925] link 'Merge requests'
+
+[7927] link 'CI/CD'
+
+[7929] link 'Security & Compliance'
+
+[7931] link 'Deployments'
+
+[7933] link 'Packages and registries'
+
+[7935] link 'Infrastructure'
+
+[7937] link 'Monitor'
+
+[7939] link 'Analytics'
+
+[7941] link 'Wiki'
+
+[7943] link 'Snippets'
+
+[7945] link 'Settings'
+
+[7673] button 'Collapse sidebar'
+
+[7537] alert '' live: assertive atomic: True relevant: additions text
+
+[7541] button 'Dismiss'
+
+[7542] alert '' live: assertive atomic: True relevant: additions text
+
+[7790] link 'Add SSH key'
+
+[7791] button "Don't show again"
+
+[7538] alert '' live: assertive atomic: True relevant: additions text
+
+[7544] button 'Dismiss'
+
+[7545] alert '' live: assertive atomic: True relevant: additions text
+
+[7797] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[7799] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[7800] link 'Settings'
+
+[7801] link 'More information'
+
+[7539] navigation 'Breadcrumbs'
+
+[7962] link 'crew'
+
+[7964] link 'project_site'
+
+[7435] main ''
+
+[7689] alert '' live: assertive atomic: True relevant: additions text
+
+[7814] button 'Dismiss'
+
+[7815] alert '' live: assertive atomic: True relevant: additions text
+
+[8687] StaticText 'The project was successfully imported.'
+
+[7816] StaticText 'P'
+
+[7697] heading 'project_site Public - The project can be accessed without any authentication.'
+
+[7700] generic 'Public - The project can be accessed without any authentication.'
+
+[7703] StaticText 'Project ID: 201 '
+
+[7704] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[7706] link 'Leave project'
+
+[7822] button '' hasPopup: menu expanded: False
+
+[7709] button 'Star'
+
+[7710] link '0'
+
+[7827] link 'Fork'
+
+[7712] link '0'
+
+[8065] link '1 Commit'
+
+[8066] link '1 Branch'
+
+[8067] link '0 Tags'
+
+[8068] link '92 KB Project Storage'
+
+[7714] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">84.9%</span>'
+
+[7715] generic '<span class="repository-language-bar-tooltip-language">Pug</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.1%</span>'
+
+[7716] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">5.2%</span>'
+
+[7717] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">2.9%</span>'
+
+[7840] img 'user avatar'
+
+[7844] link "Initialized from 'NodeJS Express' project template"
+
+[7845] button 'Toggle commit description'
+
+[7850] StaticText 'GitLab authored '
+
+[7851] time 'Feb 8, 2021 10:48am EST'
+
+[8072] StaticText '2 years ago'
+
+[7856] group ''
+
+[8074] StaticText 'eaa48337'
+
+[7858] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8713] button 'master' hasPopup: menu expanded: False
+
+[7489] navigation 'Files breadcrumb'
+
+[8988] link 'project_site'
+
+[9124] button 'Add to tree' hasPopup: menu expanded: False
+
+[8079] link 'Find file'
+
+[8084] link 'Web IDE'
+
+[8085] button 'Download'
+
+[8720] StaticText 'Select Archive Format'
+
+[8087] link 'Clone'
+
+[8110] link 'README'
+
+[8111] link 'Auto DevOps enabled'
+
+[8112] link 'Add LICENSE'
+
+[8113] link 'Add CHANGELOG'
+
+[8114] link 'Add CONTRIBUTING'</pre><div>
+
+[7908] where [7908] is link 'Create new...' focused: True expanded: False</div>
+
+[7908]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '7908', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To start a private project, I need to click on the "Create new..." link. Then, I can select the project template for NodeJS. After that, I can add members primer, convexegg, and vinta to the project. In summary, the next action I will perform is ```click [7908]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [7908] where [7908] is [7908] link 'Create new...' focused: True expanded: True</pre></div></div>
+
+[7419] RootWebArea 'crew / project_site · GitLab' focused: True
+
+[7532] link 'Skip to content'
+
+[7723] link 'Dashboard'
+
+[7902] button '' hasPopup: menu expanded: False
+
+[7431] textbox 'Search GitLab' required: False
+
+[8864] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7908] link 'Create new...' focused: True expanded: False
+
+[7910] link 'Issues'
+
+[8273] generic '13 assigned issues'
+
+[7911] link 'Merge requests'
+
+[8275] generic '8 merge requests'
+
+[7913] link 'To-Do List'
+
+[8291] generic 'Todos count'
+
+[7914] link 'Help'
+
+[7916] link 'Byte Blaze'
+
+[8325] img 'Byte Blaze'
+
+[7533] complementary 'Project navigation'
+
+[7756] listitem 'project_site'
+
+[7918] link 'project_site'
+
+[7919] link 'Project information'
+
+[7921] link 'Repository'
+
+[7923] link 'Issues'
+
+[8431] StaticText '0'
+
+[7925] link 'Merge requests'
+
+[7927] link 'CI/CD'
+
+[7929] link 'Security & Compliance'
+
+[7931] link 'Deployments'
+
+[7933] link 'Packages and registries'
+
+[7935] link 'Infrastructure'
+
+[7937] link 'Monitor'
+
+[7939] link 'Analytics'
+
+[7941] link 'Wiki'
+
+[7943] link 'Snippets'
+
+[7945] link 'Settings'
+
+[7673] button 'Collapse sidebar'
+
+[7537] alert '' live: assertive atomic: True relevant: additions text
+
+[7541] button 'Dismiss'
+
+[7542] alert '' live: assertive atomic: True relevant: additions text
+
+[7790] link 'Add SSH key'
+
+[7791] button "Don't show again"
+
+[7538] alert '' live: assertive atomic: True relevant: additions text
+
+[7544] button 'Dismiss'
+
+[7545] alert '' live: assertive atomic: True relevant: additions text
+
+[7797] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[7799] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[7800] link 'Settings'
+
+[7801] link 'More information'
+
+[7539] navigation 'Breadcrumbs'
+
+[7962] link 'crew'
+
+[7964] link 'project_site'
+
+[7435] main ''
+
+[7689] alert '' live: assertive atomic: True relevant: additions text
+
+[7814] button 'Dismiss'
+
+[7815] alert '' live: assertive atomic: True relevant: additions text
+
+[8687] StaticText 'The project was successfully imported.'
+
+[7816] StaticText 'P'
+
+[7697] heading 'project_site Public - The project can be accessed without any authentication.'
+
+[7700] generic 'Public - The project can be accessed without any authentication.'
+
+[7703] StaticText 'Project ID: 201 '
+
+[7704] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[7706] link 'Leave project'
+
+[7822] button '' hasPopup: menu expanded: False
+
+[7709] button 'Star'
+
+[7710] link '0'
+
+[7827] link 'Fork'
+
+[7712] link '0'
+
+[8065] link '1 Commit'
+
+[8066] link '1 Branch'
+
+[8067] link '0 Tags'
+
+[8068] link '92 KB Project Storage'
+
+[7714] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">84.9%</span>'
+
+[7715] generic '<span class="repository-language-bar-tooltip-language">Pug</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.1%</span>'
+
+[7716] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">5.2%</span>'
+
+[7717] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">2.9%</span>'
+
+[7840] img 'user avatar'
+
+[7844] link "Initialized from 'NodeJS Express' project template"
+
+[7845] button 'Toggle commit description'
+
+[7850] StaticText 'GitLab authored '
+
+[7851] time 'Feb 8, 2021 10:48am EST'
+
+[8072] StaticText '2 years ago'
+
+[7856] group ''
+
+[8074] StaticText 'eaa48337'
+
+[7858] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8713] button 'master' hasPopup: menu expanded: False
+
+[7489] navigation 'Files breadcrumb'
+
+[8988] link 'project_site'
+
+[9124] button 'Add to tree' hasPopup: menu expanded: False
+
+[8079] link 'Find file'
+
+[8084] link 'Web IDE'
+
+[8085] button 'Download'
+
+[8720] StaticText 'Select Archive Format'
+
+[8087] link 'Clone'
+
+[8110] link 'README'
+
+[8111] link 'Auto DevOps enabled'
+
+[8112] link 'Add LICENSE'
+
+[8113] link 'Add CHANGELOG'
+
+[8114] link 'Add CONTRIBUTING'</pre><div>
+
+[7908] where [7908] is link 'Create new...' focused: True expanded: True</div>
+

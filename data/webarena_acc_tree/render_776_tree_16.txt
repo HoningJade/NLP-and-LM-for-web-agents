@@ -1,0 +1,74 @@
+Tab 0 (current): Orders / Operations / Sales / Magento Admin
+
+[3689] RootWebArea 'Orders / Operations / Sales / Magento Admin' focused: True
+	[4048] link 'Magento Admin Panel'
+		[4216] img 'Magento Admin Panel'
+	[3694] menubar '' orientation: horizontal
+		[3696] link '\ue604 DASHBOARD'
+		[3700] link '\ue60b SALES'
+		[3704] link '\ue608 CATALOG'
+		[3708] link '\ue603 CUSTOMERS'
+		[3712] link '\ue609 MARKETING'
+		[3716] link '\ue602 CONTENT'
+		[3720] link '\ue60a REPORTS'
+		[3724] link '\ue60d STORES'
+		[3728] link '\ue610 SYSTEM'
+		[3732] link '\ue612 FIND PARTNERS & EXTENSIONS'
+	[4866] button 'System Messages: 2'
+	[4916] StaticText 'One or more of the Cache Types are invalidated: Page Cache, Layouts. Please go to '
+	[4917] link 'Cache Management'
+	[4918] StaticText ' and refresh cache types.'
+	[4258] heading 'Orders'
+	[4260] link '\ue600 admin'
+	[4262] link '\ue607'
+	[3744] textbox '\ue60c' required: False
+	[3745] main ''
+		[4234] button 'Create New Order'
+		[5326] button '\ue60fDefault View'
+		[5327] button '\ue610 Columns'
+		[5329] button '\ue635 Export'
+		[3762] textbox 'Search by keyword' required: False
+			[5450] StaticText '301301'
+		[3763] button 'Search'
+		[4938] button '\ue605Filters'
+		[4936] LayoutTable ''
+			[5342] StaticText 'Active filters:'
+			[5453] StaticText 'Keyword:'
+			[5455] StaticText '301301'
+			[5456] button '\ue620'
+			[5345] button 'Clear all'
+		[3767] button 'Actions'
+		[5465] StaticText 'records found'
+		[3938] textbox 'per page' required: False
+			[5588] StaticText '200'
+		[5532] button 'per page Select'
+		[3773] button '\ue629' disabled: True
+		[3944] spinbutton 'of 1' required: False valuemin: 0 valuemax: 0 valuetext: 
+		[3774] button '\ue62a' disabled: True
+		[4015] table ''
+			[4017] row ''
+				[4018] columnheader 'Options' required: False
+					[4020] checkbox '' disabled: True checked: false
+					[5469] button 'Options' disabled: True
+				[5349] columnheader 'ID' required: False
+				[5350] columnheader 'Purchase Point' required: False
+				[5351] columnheader '↑ Purchase Date' required: False
+				[5352] columnheader 'Bill-to Name' required: False
+				[5353] columnheader 'Ship-to Name' required: False
+				[5354] columnheader 'Grand Total (Base)' required: False
+				[5355] columnheader 'Grand Total (Purchased)' required: False
+				[5356] columnheader 'Status' required: False
+				[5357] columnheader 'Action' required: False
+				[5358] columnheader 'Allocated sources' required: False
+				[5359] columnheader 'Braintree Transaction Source' required: False
+			[5360] row ''
+				[5361] gridcell "We couldn't find any records." required: False
+	[4044] contentinfo ''
+		[4240] link '\ue606'
+		[4241] StaticText ' Copyright © 2023 Magento Commerce Inc. All rights reserved.'
+		[4267] StaticText ' ver. 2.4.6'
+		[4243] link 'Privacy Policy'
+		[4244] StaticText ' |'
+		[4245] link ' Account Activity'
+		[4246] StaticText ' | '
+		[4247] link 'Report an Issue'</pre><div>

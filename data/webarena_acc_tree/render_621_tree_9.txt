@@ -1,0 +1,47 @@
+Tab 0 (current): Create submission
+
+[5193] RootWebArea 'Create submission' focused: True
+	[5258] HeaderAsNonLandmark ''
+		[5259] link 'Home'
+			[5288] StaticText 'Postmill'
+	[5289] link 'Forums'
+	[5290] link 'Wiki'
+	[5200] searchbox 'Search query'
+	[5298] link 'Notifications (0)'
+	[5299] link 'Submit'
+	[5235] button 'MarvelsGrantMan136' hasPopup: menu expanded: False
+	[5202] main ''
+		[5252] heading 'Create submission'
+		[5205] radio 'URL' checked: true
+		[5206] radio 'Image' checked: false
+		[5210] textbox '' required: False
+		[5311] StaticText 'Title '
+		[5313] StaticText '*'
+		[5213] textbox 'Title *' required: True
+			[5811] StaticText 'Advice on cheating in a relationship'
+			[5813] StaticText '\n'
+			[5812] LineBreak '\n'
+		[5316] StaticText 'Body'
+		[5217] textbox 'Body' focused: True required: False describedby: submission_body_help
+			[5814] StaticText 'I would like some advice on how to handle a situation where cheating has occurred in a relationship. What are some possible steps to take to address the issue and rebuild trust?'
+			[5821] StaticText '\n'
+			[5815] LineBreak '\n'
+		[5818] heading 'Preview'
+		[5822] StaticText 'I would like some advice on how to handle a situation where cheating has occurred in a relationship. What are some possible steps to take to address the issue and rebuild trust?'
+	[5236] complementary ''
+		[5275] heading 'relationship_advice'
+			[5432] link 'relationship_advice'
+		[5772] button 'Subscribe No subscribers'
+			[5774] generic 'No subscribers'
+				[5800] StaticText '0'
+		[5437] StaticText 't5_2r0cn'
+		[5278] separator '' orientation: horizontal
+		[5779] StaticText 'Created '
+		[5780] time 'September 30, 2022 at 8:38:56 PM EDT'
+			[5801] StaticText '12 months ago'
+		[5781] link 'Subscribe via RSS'
+		[5237] Details ''
+			[5239] DisclosureTriangle 'Hide this forum' expanded: False
+		[5281] heading 'Toolbox'
+		[5783] link 'Bans'
+		[5784] link 'Moderation log'</pre><div>

@@ -1,0 +1,41 @@
+Tab 0 (current): kkroening/ffmpeg-python · Search · GitLab
+
+[5849] RootWebArea 'kkroening/ffmpeg-python · Search · GitLab' focused: True
+	[5910] link 'Skip to content'
+	[6051] link 'Dashboard'
+	[6110] button '' hasPopup: menu expanded: False
+	[6116] link 'Create new...'
+	[6118] link 'Issues'
+		[6316] generic '13 assigned issues'
+	[6119] link 'Merge requests'
+		[6318] generic '8 merge requests'
+	[6121] link 'To-Do List'
+		[6334] generic 'Todos count'
+			[6452] StaticText '5'
+	[6122] link 'Help'
+	[6124] link 'Byte Blaze'
+		[6368] img 'Byte Blaze'
+	[5879] main ''
+		[6041] heading 'Search'
+		[6088] StaticText 'What are you searching for?'
+		[5888] group ''
+			[5884] searchbox 'Search for projects, issues, etc.'
+				[6406] StaticText 'kkroening/ffmpeg-python'
+			[6089] button 'Clear'
+			[6132] button 'Search'
+		[6092] StaticText 'Group'
+		[6093] button 'Any' hasPopup: menu expanded: False
+		[6095] StaticText 'Project'
+		[6096] button 'a11y-webring.club Clear' hasPopup: menu expanded: False
+			[6162] button 'Clear'
+		[6043] separator '' orientation: horizontal
+		[6421] link 'Code 0'
+		[6422] link 'Issues 0'
+		[6423] link 'Merge requests 0'
+		[6424] link 'Wiki 0'
+		[6425] link 'Commits 0'
+		[6426] link 'Comments 0'
+		[6427] link 'Milestones 0'
+		[6428] link 'Users 0'
+		[6100] heading " We couldn't find any code results matching kkroening/ffmpeg-python in project Byte Blaze / a11y-webring.club"
+			[6106] link 'Byte Blaze / a11y-webring.club'</pre><div>

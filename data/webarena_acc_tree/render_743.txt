@@ -1,0 +1,5056 @@
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[270] link 'Skip to content'
+
+[386] link 'Dashboard'
+
+[462] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1733] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[468] link 'Create new...'
+
+[470] link 'Issues'
+
+[1298] generic '13 assigned issues'
+
+[471] link 'Merge requests'
+
+[1300] generic '8 merge requests'
+
+[473] link 'To-Do List'
+
+[1316] generic 'Todos count'
+
+[1754] StaticText '5'
+
+[474] link 'Help'
+
+[476] link 'Byte Blaze'
+
+[1350] img 'Byte Blaze'
+
+[17] main ''
+
+[371] heading 'Projects'
+
+[374] link 'New project'
+
+[478] link 'Yours 18'
+
+[479] link 'Starred 3'
+
+[480] link 'Explore'
+
+[481] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[438] button 'Name'
+
+[525] link 'All'
+
+[526] link 'Personal'
+
+[527] link 'A'
+
+[530] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[533] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[531] generic 'Public - The project can be accessed without any authentication.'
+
+[539] StaticText 'Owner'
+
+[1406] generic 'lipstick'
+
+[1764] StaticText '💄'
+
+[1407] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[551] link '1'
+
+[552] link '0'
+
+[553] link '0'
+
+[554] link '1'
+
+[563] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[564] StaticText '5 months ago'
+
+[565] link 'A'
+
+[568] heading 'Byte Blaze / a11y-webring.club'
+
+[571] link 'Byte Blaze / a11y-webring.club'
+
+[569] generic 'Public - The project can be accessed without any authentication.'
+
+[577] StaticText 'Owner'
+
+[1425] generic 'globe with meridians'
+
+[1765] StaticText '🌐'
+
+[1426] StaticText ' A webring for digital accessibility practitioners.'
+
+[589] link '2'
+
+[590] link '0'
+
+[591] link '1'
+
+[592] link '4'
+
+[601] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[602] StaticText '5 months ago'
+
+[603] link 'A'
+
+[606] heading 'The A11Y Project / a11yproject.com'
+
+[609] link 'The A11Y Project / a11yproject.com'
+
+[607] generic 'Public - The project can be accessed without any authentication.'
+
+[615] StaticText 'Maintainer'
+
+[1444] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[627] link '21'
+
+[628] link '0'
+
+[629] link '10'
+
+[630] link '40'
+
+[639] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[640] StaticText '5 months ago'
+
+[641] link 'A'
+
+[644] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[647] link 'Byte Blaze / accessible-html-content-patterns'
+
+[645] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[653] StaticText 'Owner'
+
+[1462] generic 'wheelchair symbol'
+
+[1766] StaticText '♿'
+
+[1463] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[665] link '1'
+
+[666] link '0'
+
+[667] link '0'
+
+[668] link '0'
+
+[677] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[678] StaticText '5 months ago'
+
+[679] link ''
+
+[682] heading 'Byte Blaze / cloud-to-butt'
+
+[685] link 'Byte Blaze / cloud-to-butt'
+
+[683] generic 'Public - The project can be accessed without any authentication.'
+
+[691] StaticText 'Owner'
+
+[703] link '0'
+
+[704] link '0'
+
+[705] link '0'
+
+[706] link '0'
+
+[715] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[716] StaticText '5 months ago'
+
+[717] link 'D'
+
+[720] heading 'Primer / design'
+
+[723] link 'Primer / design'
+
+[721] generic 'Public - The project can be accessed without any authentication.'
+
+[729] StaticText 'Developer'
+
+[1498] StaticText 'Primer Design Guidelines'
+
+[741] link '21'
+
+[742] link '0'
+
+[743] link '16'
+
+[744] link '21'
+
+[753] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[754] StaticText '5 months ago'
+
+[755] link 'D'
+
+[757] heading 'Byte Blaze / Do it myself'
+
+[760] link 'Byte Blaze / Do it myself'
+
+[758] generic 'Public - The project can be accessed without any authentication.'
+
+[766] StaticText 'Owner'
+
+[777] link '0'
+
+[778] link '0'
+
+[779] link '0'
+
+[780] link '0'
+
+[789] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[790] StaticText '4 days ago'</pre><div>
+
+[374]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the GitLab dashboard where you can manage your projects. To create a new public project, I need to click on the "New project" link. After that, I can fill in the project details and add members. In summary, the next action I will perform is `click [374]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[270] link 'Skip to content'
+
+[386] link 'Dashboard'
+
+[462] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1733] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[468] link 'Create new...'
+
+[470] link 'Issues'
+
+[1298] generic '13 assigned issues'
+
+[471] link 'Merge requests'
+
+[1300] generic '8 merge requests'
+
+[473] link 'To-Do List'
+
+[1316] generic 'Todos count'
+
+[1754] StaticText '5'
+
+[474] link 'Help'
+
+[476] link 'Byte Blaze'
+
+[1350] img 'Byte Blaze'
+
+[17] main ''
+
+[371] heading 'Projects'
+
+[374] link 'New project'
+
+[478] link 'Yours 18'
+
+[479] link 'Starred 3'
+
+[480] link 'Explore'
+
+[481] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[438] button 'Name'
+
+[525] link 'All'
+
+[526] link 'Personal'
+
+[527] link 'A'
+
+[530] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[533] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[531] generic 'Public - The project can be accessed without any authentication.'
+
+[539] StaticText 'Owner'
+
+[1406] generic 'lipstick'
+
+[1764] StaticText '💄'
+
+[1407] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[551] link '1'
+
+[552] link '0'
+
+[553] link '0'
+
+[554] link '1'
+
+[563] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[564] StaticText '5 months ago'
+
+[565] link 'A'
+
+[568] heading 'Byte Blaze / a11y-webring.club'
+
+[571] link 'Byte Blaze / a11y-webring.club'
+
+[569] generic 'Public - The project can be accessed without any authentication.'
+
+[577] StaticText 'Owner'
+
+[1425] generic 'globe with meridians'
+
+[1765] StaticText '🌐'
+
+[1426] StaticText ' A webring for digital accessibility practitioners.'
+
+[589] link '2'
+
+[590] link '0'
+
+[591] link '1'
+
+[592] link '4'
+
+[601] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[602] StaticText '5 months ago'
+
+[603] link 'A'
+
+[606] heading 'The A11Y Project / a11yproject.com'
+
+[609] link 'The A11Y Project / a11yproject.com'
+
+[607] generic 'Public - The project can be accessed without any authentication.'
+
+[615] StaticText 'Maintainer'
+
+[1444] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[627] link '21'
+
+[628] link '0'
+
+[629] link '10'
+
+[630] link '40'
+
+[639] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[640] StaticText '5 months ago'
+
+[641] link 'A'
+
+[644] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[647] link 'Byte Blaze / accessible-html-content-patterns'
+
+[645] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[653] StaticText 'Owner'
+
+[1462] generic 'wheelchair symbol'
+
+[1766] StaticText '♿'
+
+[1463] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[665] link '1'
+
+[666] link '0'
+
+[667] link '0'
+
+[668] link '0'
+
+[677] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[678] StaticText '5 months ago'
+
+[679] link ''
+
+[682] heading 'Byte Blaze / cloud-to-butt'
+
+[685] link 'Byte Blaze / cloud-to-butt'
+
+[683] generic 'Public - The project can be accessed without any authentication.'
+
+[691] StaticText 'Owner'
+
+[703] link '0'
+
+[704] link '0'
+
+[705] link '0'
+
+[706] link '0'
+
+[715] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[716] StaticText '5 months ago'
+
+[717] link 'D'
+
+[720] heading 'Primer / design'
+
+[723] link 'Primer / design'
+
+[721] generic 'Public - The project can be accessed without any authentication.'
+
+[729] StaticText 'Developer'
+
+[1498] StaticText 'Primer Design Guidelines'
+
+[741] link '21'
+
+[742] link '0'
+
+[743] link '16'
+
+[744] link '21'
+
+[753] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[754] StaticText '5 months ago'
+
+[755] link 'D'
+
+[757] heading 'Byte Blaze / Do it myself'
+
+[760] link 'Byte Blaze / Do it myself'
+
+[758] generic 'Public - The project can be accessed without any authentication.'
+
+[766] StaticText 'Owner'
+
+[777] link '0'
+
+[778] link '0'
+
+[779] link '0'
+
+[780] link '0'
+
+[789] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[790] StaticText '4 days ago'</pre><div>
+
+[374]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[374]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '374', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [374]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [374] where [374] is [374] link 'New project'</pre></div></div>
+
+[1778] RootWebArea 'New Project · GitLab' focused: True
+
+[2033] link 'Skip to content'
+
+[3083] link 'Dashboard'
+
+[3151] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3340] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3157] link 'Create new...'
+
+[3159] link 'Issues'
+
+[3244] generic '13 assigned issues'
+
+[3160] link 'Merge requests'
+
+[3246] generic '8 merge requests'
+
+[3162] link 'To-Do List'
+
+[3262] generic 'Todos count'
+
+[3361] StaticText '5'
+
+[3163] link 'Help'
+
+[3165] link 'Byte Blaze'
+
+[3296] img 'Byte Blaze'
+
+[1794] main ''
+
+[2134] heading 'Create new project'
+
+[2141] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[2145] heading 'Create blank project'
+
+[2149] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[2153] heading 'Create from template'
+
+[2157] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[2161] heading 'Import project'
+
+[2166] StaticText 'You can also create a project from the command line. '
+
+[2167] link 'Show command'</pre><div>
+
+[374] where [374] is link 'New project'</div>
+
+[2141]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2141', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the "Create new project" page on GitLab. To create a new project, I need to click on the "Create blank project" link. In summary, the next action I will perform is ```click [2141]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2141] where [2141] is [2141] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'</pre></div></div>
+
+[1778] RootWebArea 'New Project · GitLab' focused: True
+
+[2033] link 'Skip to content'
+
+[3083] link 'Dashboard'
+
+[3151] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3340] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3157] link 'Create new...'
+
+[3159] link 'Issues'
+
+[3244] generic '13 assigned issues'
+
+[3160] link 'Merge requests'
+
+[3246] generic '8 merge requests'
+
+[3162] link 'To-Do List'
+
+[3262] generic 'Todos count'
+
+[3361] StaticText '5'
+
+[3163] link 'Help'
+
+[3165] link 'Byte Blaze'
+
+[3296] img 'Byte Blaze'
+
+[1794] main ''
+
+[3413] heading 'Create blank project'
+
+[3418] StaticText 'Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[3415] navigation 'Breadcrumb'
+
+[3435] link 'New project'
+
+[3436] link 'Create blank project'
+
+[3525] StaticText 'Project name'
+
+[3385] textbox 'Project name' required: True
+
+[3529] StaticText 'Project URL'
+
+[3388] group ''
+
+[3544] generic 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/'
+
+[3549] button '\u200ecrew\u200e' hasPopup: menu expanded: False
+
+[3553] generic 'crew'
+
+[3532] StaticText 'Project slug'
+
+[3396] textbox 'Project slug' required: True
+
+[3439] StaticText 'Want to organize several dependent projects under the same namespace? '
+
+[3440] link 'Create a group.'
+
+[3453] StaticText 'Visibility Level '
+
+[3454] link 'Documentation for Visibility Level'
+
+[3400] radio ' Private Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.' checked: false
+
+[3402] radio ' Internal The project can be accessed by any logged in user except external users.' checked: false
+
+[3404] radio ' Public The project can be accessed without any authentication.' checked: true
+
+[3459] StaticText 'Project Configuration'
+
+[3407] checkbox 'Initialize repository with a README Allows you to immediately clone this project’s repository. Skip this if you plan to push up an existing repository.' checked: true
+
+[3410] checkbox 'Enable Static Application Security Testing (SAST) Analyze your source code for known security vulnerabilities. Learn more.' checked: false
+
+[3519] link 'Learn more.'
+
+[3433] button 'Create project'
+
+[3434] link 'Cancel'</pre><div>
+
+[2141] where [2141] is link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'</div>
+
+[3385] [web_arena]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [102, 84, 81, 78, 80, 97, 84, 93, 80, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3385', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the "New Project" page on GitLab. The page has a form to create a new project. I will fill in the necessary information and submit the form to create the project. In summary, the next action I will perform is ```type [3385] [web_arena]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [3385] [web_arena
+
+[3385] is [3385] textbox 'Project name' required: True</pre></div></div>
+
+[3573] RootWebArea 'crew / web_arena · GitLab' focused: True
+
+[3666] link 'Skip to content'
+
+[3851] link 'Dashboard'
+
+[4007] button '' hasPopup: menu expanded: False
+
+[3585] textbox 'Search GitLab' required: False
+
+[5117] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4013] link 'Create new...'
+
+[4015] link 'Issues'
+
+[4341] generic '13 assigned issues'
+
+[4016] link 'Merge requests'
+
+[4343] generic '8 merge requests'
+
+[4018] link 'To-Do List'
+
+[4359] generic 'Todos count'
+
+[4019] link 'Help'
+
+[4021] link 'Byte Blaze'
+
+[4393] img 'Byte Blaze'
+
+[3667] complementary 'Project navigation'
+
+[3884] listitem 'web_arena'
+
+[4023] link 'web_arena'
+
+[4434] StaticText 'W'
+
+[4024] link 'Project information'
+
+[4026] link 'Repository'
+
+[4028] link 'Issues'
+
+[4030] link 'Merge requests'
+
+[4032] link 'CI/CD'
+
+[4034] link 'Security & Compliance'
+
+[4036] link 'Deployments'
+
+[4038] link 'Packages and registries'
+
+[4040] link 'Infrastructure'
+
+[4042] link 'Monitor'
+
+[4044] link 'Analytics'
+
+[4046] link 'Wiki'
+
+[4048] link 'Snippets'
+
+[4050] link 'Settings'
+
+[3806] button 'Collapse sidebar'
+
+[3671] alert '' live: assertive atomic: True relevant: additions text
+
+[3675] button 'Dismiss'
+
+[3676] alert '' live: assertive atomic: True relevant: additions text
+
+[3918] link 'Add SSH key'
+
+[3919] button "Don't show again"
+
+[3672] alert '' live: assertive atomic: True relevant: additions text
+
+[3678] button 'Dismiss'
+
+[3679] alert '' live: assertive atomic: True relevant: additions text
+
+[3925] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[3927] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[3928] link 'Settings'
+
+[3929] link 'More information'
+
+[3673] navigation 'Breadcrumbs'
+
+[4067] link 'crew'
+
+[4069] link 'web_arena'
+
+[3589] main ''
+
+[3822] alert '' live: assertive atomic: True relevant: additions text
+
+[3942] button 'Dismiss'
+
+[3943] alert '' live: assertive atomic: True relevant: additions text
+
+[3944] StaticText 'W'
+
+[3830] heading 'web_arena Public - The project can be accessed without any authentication.'
+
+[3833] generic 'Public - The project can be accessed without any authentication.'
+
+[3836] StaticText 'Project ID: 198 '
+
+[3837] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3949] button '' hasPopup: menu expanded: False
+
+[3841] button 'Star'
+
+[3842] link '0'
+
+[3954] link 'Fork'
+
+[3844] link '0'
+
+[4170] link '1 Commit'
+
+[4171] link '1 Branch'
+
+[4172] link '0 Tags'
+
+[4173] link '72 KB Project Storage'
+
+[3965] status '' live: polite atomic: True relevant: additions text
+
+[3966] generic 'Loading'
+
+[4778] button 'main' hasPopup: menu expanded: False
+
+[3643] navigation 'Files breadcrumb'
+
+[5224] link 'web_arena'
+
+[5266] button 'Add to tree' hasPopup: menu expanded: False
+
+[4175] link 'Find file'
+
+[4180] link 'Web IDE'
+
+[4181] button 'Download'
+
+[4785] StaticText 'Select Archive Format'
+
+[4183] link 'Clone'
+
+[4206] link 'README'
+
+[4207] link 'Auto DevOps enabled'
+
+[4208] link 'Add LICENSE'
+
+[4209] link 'Add CHANGELOG'
+
+[4210] link 'Add CONTRIBUTING'
+
+[4211] link 'Add Kubernetes cluster'
+
+[4212] link 'Configure Integrations'
+
+[3661] table 'Loading files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[4853] row ''
+
+[4854] columnheader 'Name' required: False
+
+[4855] columnheader 'Last commit' required: False
+
+[4856] columnheader 'Last update' required: False</pre><div>
+
+[3385] [web_arena
+
+[3385] is textbox 'Project name' required: True</div>
+
+[4050]``` to go to the project settings.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '4050', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. On the current page, we are on the "web_arena" project on GitLab. The project name has been filled in with "web_arena". Now we need to add Abishek and Vinta as members. We can do this by going to the project settings and navigating to the "Members" section. Then we can add them by their usernames or email addresses.\n\nIn summary, the next action I will perform is ```click [4050]``` to go to the project settings.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [4050] where [4050] is [4050] link 'Settings'</pre></div></div>
+
+[3573] RootWebArea 'crew / web_arena · GitLab' focused: True
+
+[3666] link 'Skip to content'
+
+[3851] link 'Dashboard'
+
+[4007] button '' hasPopup: menu expanded: False
+
+[3585] textbox 'Search GitLab' required: False
+
+[5117] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4013] link 'Create new...'
+
+[4015] link 'Issues'
+
+[4341] generic '13 assigned issues'
+
+[4016] link 'Merge requests'
+
+[4343] generic '8 merge requests'
+
+[4018] link 'To-Do List'
+
+[4359] generic 'Todos count'
+
+[4019] link 'Help'
+
+[4021] link 'Byte Blaze'
+
+[4393] img 'Byte Blaze'
+
+[3667] complementary 'Project navigation'
+
+[3884] listitem 'web_arena'
+
+[4023] link 'web_arena'
+
+[4434] StaticText 'W'
+
+[4024] link 'Project information'
+
+[4026] link 'Repository'
+
+[4028] link 'Issues'
+
+[4030] link 'Merge requests'
+
+[4032] link 'CI/CD'
+
+[4034] link 'Security & Compliance'
+
+[4036] link 'Deployments'
+
+[4038] link 'Packages and registries'
+
+[4040] link 'Infrastructure'
+
+[4042] link 'Monitor'
+
+[4044] link 'Analytics'
+
+[4046] link 'Wiki'
+
+[4048] link 'Snippets'
+
+[4050] link 'Settings'
+
+[3806] button 'Collapse sidebar'
+
+[3671] alert '' live: assertive atomic: True relevant: additions text
+
+[3675] button 'Dismiss'
+
+[3676] alert '' live: assertive atomic: True relevant: additions text
+
+[3918] link 'Add SSH key'
+
+[3919] button "Don't show again"
+
+[3672] alert '' live: assertive atomic: True relevant: additions text
+
+[3678] button 'Dismiss'
+
+[3679] alert '' live: assertive atomic: True relevant: additions text
+
+[3925] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[3927] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[3928] link 'Settings'
+
+[3929] link 'More information'
+
+[3673] navigation 'Breadcrumbs'
+
+[4067] link 'crew'
+
+[4069] link 'web_arena'
+
+[3589] main ''
+
+[3822] alert '' live: assertive atomic: True relevant: additions text
+
+[3942] button 'Dismiss'
+
+[3943] alert '' live: assertive atomic: True relevant: additions text
+
+[3944] StaticText 'W'
+
+[3830] heading 'web_arena Public - The project can be accessed without any authentication.'
+
+[3833] generic 'Public - The project can be accessed without any authentication.'
+
+[3836] StaticText 'Project ID: 198 '
+
+[3837] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3949] button '' hasPopup: menu expanded: False
+
+[3841] button 'Star'
+
+[3842] link '0'
+
+[3954] link 'Fork'
+
+[3844] link '0'
+
+[4170] link '1 Commit'
+
+[4171] link '1 Branch'
+
+[4172] link '0 Tags'
+
+[4173] link '72 KB Project Storage'
+
+[5335] link ''
+
+[5342] link 'Initial commit'
+
+[5345] link 'Byte Blaze'
+
+[5346] StaticText ' authored '
+
+[5347] time 'Sep 12, 2023 1:56am EDT'
+
+[5353] StaticText 'just now'
+
+[5348] group ''
+
+[5355] StaticText '4880f05c'
+
+[5350] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4778] button 'main' hasPopup: menu expanded: False
+
+[3643] navigation 'Files breadcrumb'
+
+[5224] link 'web_arena'
+
+[5266] button 'Add to tree' hasPopup: menu expanded: False
+
+[4175] link 'Find file'
+
+[4180] link 'Web IDE'
+
+[4181] button 'Download'
+
+[4785] StaticText 'Select Archive Format'
+
+[4183] link 'Clone'
+
+[4206] link 'README'
+
+[4207] link 'Auto DevOps enabled'
+
+[4208] link 'Add LICENSE'
+
+[4209] link 'Add CHANGELOG'
+
+[4210] link 'Add CONTRIBUTING'
+
+[4211] link 'Add Kubernetes cluster'
+
+[4212] link 'Configure Integrations'</pre><div>
+
+[4050] where [4050] is link 'Settings'</div>
+
+[4013] which could be the option to create a new project. I will click on it. In summary, the next action I will perform is `click [4013]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. According to the observation, the current page is the project settings page for the "web_arena" project. To create a new public project, I need to find the option to create a new project. Looking at the observation, there is a link "Create new..." [4013] which could be the option to create a new project. I will click on it. In summary, the next action I will perform is `click [4013]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[3573] RootWebArea 'crew / web_arena · GitLab' focused: True
+
+[3666] link 'Skip to content'
+
+[3851] link 'Dashboard'
+
+[4007] button '' hasPopup: menu expanded: False
+
+[3585] textbox 'Search GitLab' required: False
+
+[5117] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4013] link 'Create new...'
+
+[4015] link 'Issues'
+
+[4341] generic '13 assigned issues'
+
+[4016] link 'Merge requests'
+
+[4343] generic '8 merge requests'
+
+[4018] link 'To-Do List'
+
+[4359] generic 'Todos count'
+
+[4019] link 'Help'
+
+[4021] link 'Byte Blaze'
+
+[4393] img 'Byte Blaze'
+
+[3667] complementary 'Project navigation'
+
+[3884] listitem 'web_arena'
+
+[4023] link 'web_arena'
+
+[4434] StaticText 'W'
+
+[4024] link 'Project information'
+
+[4026] link 'Repository'
+
+[4028] link 'Issues'
+
+[4030] link 'Merge requests'
+
+[4032] link 'CI/CD'
+
+[4034] link 'Security & Compliance'
+
+[4036] link 'Deployments'
+
+[4038] link 'Packages and registries'
+
+[4040] link 'Infrastructure'
+
+[4042] link 'Monitor'
+
+[4044] link 'Analytics'
+
+[4046] link 'Wiki'
+
+[4048] link 'Snippets'
+
+[4050] link 'Settings'
+
+[3806] button 'Collapse sidebar'
+
+[3671] alert '' live: assertive atomic: True relevant: additions text
+
+[3675] button 'Dismiss'
+
+[3676] alert '' live: assertive atomic: True relevant: additions text
+
+[3918] link 'Add SSH key'
+
+[3919] button "Don't show again"
+
+[3672] alert '' live: assertive atomic: True relevant: additions text
+
+[3678] button 'Dismiss'
+
+[3679] alert '' live: assertive atomic: True relevant: additions text
+
+[3925] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[3927] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[3928] link 'Settings'
+
+[3929] link 'More information'
+
+[3673] navigation 'Breadcrumbs'
+
+[4067] link 'crew'
+
+[4069] link 'web_arena'
+
+[3589] main ''
+
+[3822] alert '' live: assertive atomic: True relevant: additions text
+
+[3942] button 'Dismiss'
+
+[3943] alert '' live: assertive atomic: True relevant: additions text
+
+[3944] StaticText 'W'
+
+[3830] heading 'web_arena Public - The project can be accessed without any authentication.'
+
+[3833] generic 'Public - The project can be accessed without any authentication.'
+
+[3836] StaticText 'Project ID: 198 '
+
+[3837] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3949] button '' hasPopup: menu expanded: False
+
+[3841] button 'Star'
+
+[3842] link '0'
+
+[3954] link 'Fork'
+
+[3844] link '0'
+
+[4170] link '1 Commit'
+
+[4171] link '1 Branch'
+
+[4172] link '0 Tags'
+
+[4173] link '72 KB Project Storage'
+
+[5335] link ''
+
+[5342] link 'Initial commit'
+
+[5345] link 'Byte Blaze'
+
+[5346] StaticText ' authored '
+
+[5347] time 'Sep 12, 2023 1:56am EDT'
+
+[5353] StaticText 'just now'
+
+[5348] group ''
+
+[5355] StaticText '4880f05c'
+
+[5350] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4778] button 'main' hasPopup: menu expanded: False
+
+[3643] navigation 'Files breadcrumb'
+
+[5224] link 'web_arena'
+
+[5266] button 'Add to tree' hasPopup: menu expanded: False
+
+[4175] link 'Find file'
+
+[4180] link 'Web IDE'
+
+[4181] button 'Download'
+
+[4785] StaticText 'Select Archive Format'
+
+[4183] link 'Clone'
+
+[4206] link 'README'
+
+[4207] link 'Auto DevOps enabled'
+
+[4208] link 'Add LICENSE'
+
+[4209] link 'Add CHANGELOG'
+
+[4210] link 'Add CONTRIBUTING'
+
+[4211] link 'Add Kubernetes cluster'
+
+[4212] link 'Configure Integrations'</pre><div>
+
+[4013] which could be the option to create a new project. I will click on it. In summary, the next action I will perform is `click [4013]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[4013] which could be the option to create a new project. I will click on it. In summary, the next action I will perform is ```click [4013]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '4013', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. According to the observation, the current page is the project settings page for the "web_arena" project. To create a new public project, I need to find the option to create a new project. Looking at the observation, there is a link "Create new..." [4013] which could be the option to create a new project. I will click on it. In summary, the next action I will perform is ```click [4013]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [4013] where [4013] is [4013] link 'Create new...'</pre></div></div>
+
+[3573] RootWebArea 'crew / web_arena · GitLab' focused: True
+
+[3666] link 'Skip to content'
+
+[3851] link 'Dashboard'
+
+[4007] button '' hasPopup: menu expanded: False
+
+[3585] textbox 'Search GitLab' required: False
+
+[5117] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4013] link 'Create new...' focused: True expanded: True describedby: gl-tooltip4
+
+[5621] StaticText 'This project'
+
+[5623] link 'New issue'
+
+[5626] link 'New merge request'
+
+[5632] link 'New snippet'
+
+[5618] link 'Invite members '
+
+[5616] StaticText 'GitLab'
+
+[5638] link 'New project/repository'
+
+[5629] link 'New group'
+
+[5627] link 'New snippet'
+
+[4015] link 'Issues'
+
+[4341] generic '13 assigned issues'
+
+[4016] link 'Merge requests'
+
+[4343] generic '8 merge requests'
+
+[4018] link 'To-Do List'
+
+[4359] generic 'Todos count'
+
+[4019] link 'Help'
+
+[4021] link 'Byte Blaze'
+
+[4393] img 'Byte Blaze'
+
+[3667] complementary 'Project navigation'
+
+[3884] listitem 'web_arena'
+
+[4023] link 'web_arena'
+
+[4434] StaticText 'W'
+
+[4024] link 'Project information'
+
+[4026] link 'Repository'
+
+[4028] link 'Issues'
+
+[4030] link 'Merge requests'
+
+[4032] link 'CI/CD'
+
+[4034] link 'Security & Compliance'
+
+[4036] link 'Deployments'
+
+[4038] link 'Packages and registries'
+
+[4040] link 'Infrastructure'
+
+[4042] link 'Monitor'
+
+[4044] link 'Analytics'
+
+[4046] link 'Wiki'
+
+[4048] link 'Snippets'
+
+[4050] link 'Settings'
+
+[3806] button 'Collapse sidebar'
+
+[3671] alert '' live: assertive atomic: True relevant: additions text
+
+[3675] button 'Dismiss'
+
+[3676] alert '' live: assertive atomic: True relevant: additions text
+
+[3918] link 'Add SSH key'
+
+[3919] button "Don't show again"
+
+[3672] alert '' live: assertive atomic: True relevant: additions text
+
+[3678] button 'Dismiss'
+
+[3679] alert '' live: assertive atomic: True relevant: additions text
+
+[3925] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[3927] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[3928] link 'Settings'
+
+[3929] link 'More information'
+
+[3673] navigation 'Breadcrumbs'
+
+[4067] link 'crew'
+
+[4069] link 'web_arena'
+
+[3589] main ''
+
+[3822] alert '' live: assertive atomic: True relevant: additions text
+
+[3942] button 'Dismiss'
+
+[3943] alert '' live: assertive atomic: True relevant: additions text
+
+[3944] StaticText 'W'
+
+[3830] heading 'web_arena Public - The project can be accessed without any authentication.'
+
+[3833] generic 'Public - The project can be accessed without any authentication.'
+
+[3836] StaticText 'Project ID: 198 '
+
+[3837] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3949] button '' hasPopup: menu expanded: False
+
+[3841] button 'Star'
+
+[3842] link '0'
+
+[3954] link 'Fork'
+
+[3844] link '0'
+
+[4170] link '1 Commit'
+
+[4171] link '1 Branch'
+
+[4172] link '0 Tags'
+
+[4173] link '72 KB Project Storage'
+
+[5335] link ''
+
+[5342] link 'Initial commit'
+
+[5345] link 'Byte Blaze'
+
+[5346] StaticText ' authored '
+
+[5347] time 'Sep 12, 2023 1:56am EDT'
+
+[5353] StaticText 'just now'
+
+[5348] group ''
+
+[5355] StaticText '4880f05c'
+
+[5350] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4778] button 'main' hasPopup: menu expanded: False
+
+[3643] navigation 'Files breadcrumb'
+
+[5224] link 'web_arena'
+
+[5266] button 'Add to tree' hasPopup: menu expanded: False
+
+[4175] link 'Find file'
+
+[4180] link 'Web IDE'
+
+[4181] button 'Download'
+
+[4785] StaticText 'Select Archive Format'
+
+[4183] link 'Clone'
+
+[4206] link 'README'
+
+[4207] link 'Auto DevOps enabled'
+
+[4208] link 'Add LICENSE'
+
+[4209] link 'Add CHANGELOG'
+
+[4210] link 'Add CONTRIBUTING'
+
+[4211] link 'Add Kubernetes cluster'
+
+[4212] link 'Configure Integrations'
+
+[5644] tooltip 'Create new...'</pre><div>
+
+[4013] where [4013] is link 'Create new...'</div>
+
+[4013] that says "Create new...". By clicking on this link, we can create a new project. We will need to fill in the necessary information and specify that the project should be public. After creating the project, we can add Abishek and Vinta as members. In summary, the next action I will perform is ```click [4013]``` to create a new project.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '4013', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page has a link with the id [4013] that says "Create new...". By clicking on this link, we can create a new project. We will need to fill in the necessary information and specify that the project should be public. After creating the project, we can add Abishek and Vinta as members. In summary, the next action I will perform is ```click [4013]``` to create a new project.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [4013] where [4013] is [4013] link 'Create new...' focused: True expanded: True describedby: gl-tooltip4</pre></div></div>
+
+[3573] RootWebArea 'crew / web_arena · GitLab' focused: True
+
+[3666] link 'Skip to content'
+
+[3851] link 'Dashboard'
+
+[4007] button '' hasPopup: menu expanded: False
+
+[3585] textbox 'Search GitLab' required: False
+
+[5117] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4013] link 'Create new...' focused: True expanded: False
+
+[4015] link 'Issues'
+
+[4341] generic '13 assigned issues'
+
+[4016] link 'Merge requests'
+
+[4343] generic '8 merge requests'
+
+[4018] link 'To-Do List'
+
+[4359] generic 'Todos count'
+
+[4019] link 'Help'
+
+[4021] link 'Byte Blaze'
+
+[4393] img 'Byte Blaze'
+
+[3667] complementary 'Project navigation'
+
+[3884] listitem 'web_arena'
+
+[4023] link 'web_arena'
+
+[4434] StaticText 'W'
+
+[4024] link 'Project information'
+
+[4026] link 'Repository'
+
+[4028] link 'Issues'
+
+[4030] link 'Merge requests'
+
+[4032] link 'CI/CD'
+
+[4034] link 'Security & Compliance'
+
+[4036] link 'Deployments'
+
+[4038] link 'Packages and registries'
+
+[4040] link 'Infrastructure'
+
+[4042] link 'Monitor'
+
+[4044] link 'Analytics'
+
+[4046] link 'Wiki'
+
+[4048] link 'Snippets'
+
+[4050] link 'Settings'
+
+[3806] button 'Collapse sidebar'
+
+[3671] alert '' live: assertive atomic: True relevant: additions text
+
+[3675] button 'Dismiss'
+
+[3676] alert '' live: assertive atomic: True relevant: additions text
+
+[3918] link 'Add SSH key'
+
+[3919] button "Don't show again"
+
+[3672] alert '' live: assertive atomic: True relevant: additions text
+
+[3678] button 'Dismiss'
+
+[3679] alert '' live: assertive atomic: True relevant: additions text
+
+[3925] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[3927] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[3928] link 'Settings'
+
+[3929] link 'More information'
+
+[3673] navigation 'Breadcrumbs'
+
+[4067] link 'crew'
+
+[4069] link 'web_arena'
+
+[3589] main ''
+
+[3822] alert '' live: assertive atomic: True relevant: additions text
+
+[3942] button 'Dismiss'
+
+[3943] alert '' live: assertive atomic: True relevant: additions text
+
+[3944] StaticText 'W'
+
+[3830] heading 'web_arena Public - The project can be accessed without any authentication.'
+
+[3833] generic 'Public - The project can be accessed without any authentication.'
+
+[3836] StaticText 'Project ID: 198 '
+
+[3837] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3949] button '' hasPopup: menu expanded: False
+
+[3841] button 'Star'
+
+[3842] link '0'
+
+[3954] link 'Fork'
+
+[3844] link '0'
+
+[4170] link '1 Commit'
+
+[4171] link '1 Branch'
+
+[4172] link '0 Tags'
+
+[4173] link '72 KB Project Storage'
+
+[5335] link ''
+
+[5342] link 'Initial commit'
+
+[5345] link 'Byte Blaze'
+
+[5346] StaticText ' authored '
+
+[5347] time 'Sep 12, 2023 1:56am EDT'
+
+[5353] StaticText 'just now'
+
+[5348] group ''
+
+[5355] StaticText '4880f05c'
+
+[5350] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4778] button 'main' hasPopup: menu expanded: False
+
+[3643] navigation 'Files breadcrumb'
+
+[5224] link 'web_arena'
+
+[5266] button 'Add to tree' hasPopup: menu expanded: False
+
+[4175] link 'Find file'
+
+[4180] link 'Web IDE'
+
+[4181] button 'Download'
+
+[4785] StaticText 'Select Archive Format'
+
+[4183] link 'Clone'
+
+[4206] link 'README'
+
+[4207] link 'Auto DevOps enabled'
+
+[4208] link 'Add LICENSE'
+
+[4209] link 'Add CHANGELOG'
+
+[4210] link 'Add CONTRIBUTING'
+
+[4211] link 'Add Kubernetes cluster'
+
+[4212] link 'Configure Integrations'</pre><div>
+
+[4013] where [4013] is link 'Create new...' focused: True expanded: True describedby: gl-tooltip4</div>
+
+[4013]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page has a link to create a new project with the text "Create new...". I will click on this link to proceed. In summary, the next action I will perform is `click [4013]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[3573] RootWebArea 'crew / web_arena · GitLab' focused: True
+
+[3666] link 'Skip to content'
+
+[3851] link 'Dashboard'
+
+[4007] button '' hasPopup: menu expanded: False
+
+[3585] textbox 'Search GitLab' required: False
+
+[5117] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4013] link 'Create new...' focused: True expanded: False
+
+[4015] link 'Issues'
+
+[4341] generic '13 assigned issues'
+
+[4016] link 'Merge requests'
+
+[4343] generic '8 merge requests'
+
+[4018] link 'To-Do List'
+
+[4359] generic 'Todos count'
+
+[4019] link 'Help'
+
+[4021] link 'Byte Blaze'
+
+[4393] img 'Byte Blaze'
+
+[3667] complementary 'Project navigation'
+
+[3884] listitem 'web_arena'
+
+[4023] link 'web_arena'
+
+[4434] StaticText 'W'
+
+[4024] link 'Project information'
+
+[4026] link 'Repository'
+
+[4028] link 'Issues'
+
+[4030] link 'Merge requests'
+
+[4032] link 'CI/CD'
+
+[4034] link 'Security & Compliance'
+
+[4036] link 'Deployments'
+
+[4038] link 'Packages and registries'
+
+[4040] link 'Infrastructure'
+
+[4042] link 'Monitor'
+
+[4044] link 'Analytics'
+
+[4046] link 'Wiki'
+
+[4048] link 'Snippets'
+
+[4050] link 'Settings'
+
+[3806] button 'Collapse sidebar'
+
+[3671] alert '' live: assertive atomic: True relevant: additions text
+
+[3675] button 'Dismiss'
+
+[3676] alert '' live: assertive atomic: True relevant: additions text
+
+[3918] link 'Add SSH key'
+
+[3919] button "Don't show again"
+
+[3672] alert '' live: assertive atomic: True relevant: additions text
+
+[3678] button 'Dismiss'
+
+[3679] alert '' live: assertive atomic: True relevant: additions text
+
+[3925] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[3927] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[3928] link 'Settings'
+
+[3929] link 'More information'
+
+[3673] navigation 'Breadcrumbs'
+
+[4067] link 'crew'
+
+[4069] link 'web_arena'
+
+[3589] main ''
+
+[3822] alert '' live: assertive atomic: True relevant: additions text
+
+[3942] button 'Dismiss'
+
+[3943] alert '' live: assertive atomic: True relevant: additions text
+
+[3944] StaticText 'W'
+
+[3830] heading 'web_arena Public - The project can be accessed without any authentication.'
+
+[3833] generic 'Public - The project can be accessed without any authentication.'
+
+[3836] StaticText 'Project ID: 198 '
+
+[3837] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3949] button '' hasPopup: menu expanded: False
+
+[3841] button 'Star'
+
+[3842] link '0'
+
+[3954] link 'Fork'
+
+[3844] link '0'
+
+[4170] link '1 Commit'
+
+[4171] link '1 Branch'
+
+[4172] link '0 Tags'
+
+[4173] link '72 KB Project Storage'
+
+[5335] link ''
+
+[5342] link 'Initial commit'
+
+[5345] link 'Byte Blaze'
+
+[5346] StaticText ' authored '
+
+[5347] time 'Sep 12, 2023 1:56am EDT'
+
+[5353] StaticText 'just now'
+
+[5348] group ''
+
+[5355] StaticText '4880f05c'
+
+[5350] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4778] button 'main' hasPopup: menu expanded: False
+
+[3643] navigation 'Files breadcrumb'
+
+[5224] link 'web_arena'
+
+[5266] button 'Add to tree' hasPopup: menu expanded: False
+
+[4175] link 'Find file'
+
+[4180] link 'Web IDE'
+
+[4181] button 'Download'
+
+[4785] StaticText 'Select Archive Format'
+
+[4183] link 'Clone'
+
+[4206] link 'README'
+
+[4207] link 'Auto DevOps enabled'
+
+[4208] link 'Add LICENSE'
+
+[4209] link 'Add CHANGELOG'
+
+[4210] link 'Add CONTRIBUTING'
+
+[4211] link 'Add Kubernetes cluster'
+
+[4212] link 'Configure Integrations'</pre><div>
+
+[4013]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[4013]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '4013', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page has a link to create a new project with the text "Create new...". I will click on this link to proceed. In summary, the next action I will perform is ```click [4013]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [4013] where [4013] is [4013] link 'Create new...' focused: True expanded: False</pre></div></div>
+
+[3573] RootWebArea 'crew / web_arena · GitLab' focused: True
+
+[3666] link 'Skip to content'
+
+[3851] link 'Dashboard'
+
+[4007] button '' hasPopup: menu expanded: False
+
+[3585] textbox 'Search GitLab' required: False
+
+[5117] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4013] link 'Create new...' focused: True expanded: True
+
+[5705] StaticText 'This project'
+
+[5688] link 'New issue'
+
+[5680] link 'New merge request'
+
+[5695] link 'New snippet'
+
+[5682] link 'Invite members '
+
+[5707] StaticText 'GitLab'
+
+[5708] link 'New project/repository'
+
+[5691] link 'New group'
+
+[5684] link 'New snippet'
+
+[4015] link 'Issues'
+
+[4341] generic '13 assigned issues'
+
+[4016] link 'Merge requests'
+
+[4343] generic '8 merge requests'
+
+[4018] link 'To-Do List'
+
+[4359] generic 'Todos count'
+
+[4019] link 'Help'
+
+[4021] link 'Byte Blaze'
+
+[4393] img 'Byte Blaze'
+
+[3667] complementary 'Project navigation'
+
+[3884] listitem 'web_arena'
+
+[4023] link 'web_arena'
+
+[4434] StaticText 'W'
+
+[4024] link 'Project information'
+
+[4026] link 'Repository'
+
+[4028] link 'Issues'
+
+[4030] link 'Merge requests'
+
+[4032] link 'CI/CD'
+
+[4034] link 'Security & Compliance'
+
+[4036] link 'Deployments'
+
+[4038] link 'Packages and registries'
+
+[4040] link 'Infrastructure'
+
+[4042] link 'Monitor'
+
+[4044] link 'Analytics'
+
+[4046] link 'Wiki'
+
+[4048] link 'Snippets'
+
+[4050] link 'Settings'
+
+[3806] button 'Collapse sidebar'
+
+[3671] alert '' live: assertive atomic: True relevant: additions text
+
+[3675] button 'Dismiss'
+
+[3676] alert '' live: assertive atomic: True relevant: additions text
+
+[3918] link 'Add SSH key'
+
+[3919] button "Don't show again"
+
+[3672] alert '' live: assertive atomic: True relevant: additions text
+
+[3678] button 'Dismiss'
+
+[3679] alert '' live: assertive atomic: True relevant: additions text
+
+[3925] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[3927] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[3928] link 'Settings'
+
+[3929] link 'More information'
+
+[3673] navigation 'Breadcrumbs'
+
+[4067] link 'crew'
+
+[4069] link 'web_arena'
+
+[3589] main ''
+
+[3822] alert '' live: assertive atomic: True relevant: additions text
+
+[3942] button 'Dismiss'
+
+[3943] alert '' live: assertive atomic: True relevant: additions text
+
+[3944] StaticText 'W'
+
+[3830] heading 'web_arena Public - The project can be accessed without any authentication.'
+
+[3833] generic 'Public - The project can be accessed without any authentication.'
+
+[3836] StaticText 'Project ID: 198 '
+
+[3837] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3949] button '' hasPopup: menu expanded: False
+
+[3841] button 'Star'
+
+[3842] link '0'
+
+[3954] link 'Fork'
+
+[3844] link '0'
+
+[4170] link '1 Commit'
+
+[4171] link '1 Branch'
+
+[4172] link '0 Tags'
+
+[4173] link '72 KB Project Storage'
+
+[5335] link ''
+
+[5342] link 'Initial commit'
+
+[5345] link 'Byte Blaze'
+
+[5346] StaticText ' authored '
+
+[5347] time 'Sep 12, 2023 1:56am EDT'
+
+[5353] StaticText 'just now'
+
+[5348] group ''
+
+[5355] StaticText '4880f05c'
+
+[5350] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4778] button 'main' hasPopup: menu expanded: False
+
+[3643] navigation 'Files breadcrumb'
+
+[5224] link 'web_arena'
+
+[5266] button 'Add to tree' hasPopup: menu expanded: False
+
+[4175] link 'Find file'
+
+[4180] link 'Web IDE'
+
+[4181] button 'Download'
+
+[4785] StaticText 'Select Archive Format'
+
+[4183] link 'Clone'
+
+[4206] link 'README'
+
+[4207] link 'Auto DevOps enabled'
+
+[4208] link 'Add LICENSE'
+
+[4209] link 'Add CHANGELOG'
+
+[4210] link 'Add CONTRIBUTING'
+
+[4211] link 'Add Kubernetes cluster'
+
+[4212] link 'Configure Integrations'</pre><div>
+
+[4013] where [4013] is link 'Create new...' focused: True expanded: False</div>
+
+[4013]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To create a new public project "web_arena" and add Abishek and Vinta as members, we need to click on the link "Create new..." to expand the options. Then, we can click on the link "New project/repository" to create a new project. After creating the project, we can navigate to the project\'s settings page to invite Abishek and Vinta as members. In summary, the next action I will perform is `click [4013]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[3573] RootWebArea 'crew / web_arena · GitLab' focused: True
+
+[3666] link 'Skip to content'
+
+[3851] link 'Dashboard'
+
+[4007] button '' hasPopup: menu expanded: False
+
+[3585] textbox 'Search GitLab' required: False
+
+[5117] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4013] link 'Create new...' focused: True expanded: True
+
+[5705] StaticText 'This project'
+
+[5688] link 'New issue'
+
+[5680] link 'New merge request'
+
+[5695] link 'New snippet'
+
+[5682] link 'Invite members '
+
+[5707] StaticText 'GitLab'
+
+[5708] link 'New project/repository'
+
+[5691] link 'New group'
+
+[5684] link 'New snippet'
+
+[4015] link 'Issues'
+
+[4341] generic '13 assigned issues'
+
+[4016] link 'Merge requests'
+
+[4343] generic '8 merge requests'
+
+[4018] link 'To-Do List'
+
+[4359] generic 'Todos count'
+
+[4019] link 'Help'
+
+[4021] link 'Byte Blaze'
+
+[4393] img 'Byte Blaze'
+
+[3667] complementary 'Project navigation'
+
+[3884] listitem 'web_arena'
+
+[4023] link 'web_arena'
+
+[4434] StaticText 'W'
+
+[4024] link 'Project information'
+
+[4026] link 'Repository'
+
+[4028] link 'Issues'
+
+[4030] link 'Merge requests'
+
+[4032] link 'CI/CD'
+
+[4034] link 'Security & Compliance'
+
+[4036] link 'Deployments'
+
+[4038] link 'Packages and registries'
+
+[4040] link 'Infrastructure'
+
+[4042] link 'Monitor'
+
+[4044] link 'Analytics'
+
+[4046] link 'Wiki'
+
+[4048] link 'Snippets'
+
+[4050] link 'Settings'
+
+[3806] button 'Collapse sidebar'
+
+[3671] alert '' live: assertive atomic: True relevant: additions text
+
+[3675] button 'Dismiss'
+
+[3676] alert '' live: assertive atomic: True relevant: additions text
+
+[3918] link 'Add SSH key'
+
+[3919] button "Don't show again"
+
+[3672] alert '' live: assertive atomic: True relevant: additions text
+
+[3678] button 'Dismiss'
+
+[3679] alert '' live: assertive atomic: True relevant: additions text
+
+[3925] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[3927] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[3928] link 'Settings'
+
+[3929] link 'More information'
+
+[3673] navigation 'Breadcrumbs'
+
+[4067] link 'crew'
+
+[4069] link 'web_arena'
+
+[3589] main ''
+
+[3822] alert '' live: assertive atomic: True relevant: additions text
+
+[3942] button 'Dismiss'
+
+[3943] alert '' live: assertive atomic: True relevant: additions text
+
+[3944] StaticText 'W'
+
+[3830] heading 'web_arena Public - The project can be accessed without any authentication.'
+
+[3833] generic 'Public - The project can be accessed without any authentication.'
+
+[3836] StaticText 'Project ID: 198 '
+
+[3837] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3949] button '' hasPopup: menu expanded: False
+
+[3841] button 'Star'
+
+[3842] link '0'
+
+[3954] link 'Fork'
+
+[3844] link '0'
+
+[4170] link '1 Commit'
+
+[4171] link '1 Branch'
+
+[4172] link '0 Tags'
+
+[4173] link '72 KB Project Storage'
+
+[5335] link ''
+
+[5342] link 'Initial commit'
+
+[5345] link 'Byte Blaze'
+
+[5346] StaticText ' authored '
+
+[5347] time 'Sep 12, 2023 1:56am EDT'
+
+[5353] StaticText 'just now'
+
+[5348] group ''
+
+[5355] StaticText '4880f05c'
+
+[5350] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4778] button 'main' hasPopup: menu expanded: False
+
+[3643] navigation 'Files breadcrumb'
+
+[5224] link 'web_arena'
+
+[5266] button 'Add to tree' hasPopup: menu expanded: False
+
+[4175] link 'Find file'
+
+[4180] link 'Web IDE'
+
+[4181] button 'Download'
+
+[4785] StaticText 'Select Archive Format'
+
+[4183] link 'Clone'
+
+[4206] link 'README'
+
+[4207] link 'Auto DevOps enabled'
+
+[4208] link 'Add LICENSE'
+
+[4209] link 'Add CHANGELOG'
+
+[4210] link 'Add CONTRIBUTING'
+
+[4211] link 'Add Kubernetes cluster'
+
+[4212] link 'Configure Integrations'</pre><div>
+
+[4013]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[4013]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '4013', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To create a new public project "web_arena" and add Abishek and Vinta as members, we need to click on the link "Create new..." to expand the options. Then, we can click on the link "New project/repository" to create a new project. After creating the project, we can navigate to the project\'s settings page to invite Abishek and Vinta as members. \n\nIn summary, the next action I will perform is ```click [4013]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [4013] where [4013] is [4013] link 'Create new...' focused: True expanded: True</pre></div></div>
+
+[3573] RootWebArea 'crew / web_arena · GitLab' focused: True
+
+[3666] link 'Skip to content'
+
+[3851] link 'Dashboard'
+
+[4007] button '' hasPopup: menu expanded: False
+
+[3585] textbox 'Search GitLab' required: False
+
+[5117] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4013] link 'Create new...' focused: True expanded: False
+
+[4015] link 'Issues'
+
+[4341] generic '13 assigned issues'
+
+[4016] link 'Merge requests'
+
+[4343] generic '8 merge requests'
+
+[4018] link 'To-Do List'
+
+[4359] generic 'Todos count'
+
+[4019] link 'Help'
+
+[4021] link 'Byte Blaze'
+
+[4393] img 'Byte Blaze'
+
+[3667] complementary 'Project navigation'
+
+[3884] listitem 'web_arena'
+
+[4023] link 'web_arena'
+
+[4434] StaticText 'W'
+
+[4024] link 'Project information'
+
+[4026] link 'Repository'
+
+[4028] link 'Issues'
+
+[4030] link 'Merge requests'
+
+[4032] link 'CI/CD'
+
+[4034] link 'Security & Compliance'
+
+[4036] link 'Deployments'
+
+[4038] link 'Packages and registries'
+
+[4040] link 'Infrastructure'
+
+[4042] link 'Monitor'
+
+[4044] link 'Analytics'
+
+[4046] link 'Wiki'
+
+[4048] link 'Snippets'
+
+[4050] link 'Settings'
+
+[3806] button 'Collapse sidebar'
+
+[3671] alert '' live: assertive atomic: True relevant: additions text
+
+[3675] button 'Dismiss'
+
+[3676] alert '' live: assertive atomic: True relevant: additions text
+
+[3918] link 'Add SSH key'
+
+[3919] button "Don't show again"
+
+[3672] alert '' live: assertive atomic: True relevant: additions text
+
+[3678] button 'Dismiss'
+
+[3679] alert '' live: assertive atomic: True relevant: additions text
+
+[3925] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[3927] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[3928] link 'Settings'
+
+[3929] link 'More information'
+
+[3673] navigation 'Breadcrumbs'
+
+[4067] link 'crew'
+
+[4069] link 'web_arena'
+
+[3589] main ''
+
+[3822] alert '' live: assertive atomic: True relevant: additions text
+
+[3942] button 'Dismiss'
+
+[3943] alert '' live: assertive atomic: True relevant: additions text
+
+[3944] StaticText 'W'
+
+[3830] heading 'web_arena Public - The project can be accessed without any authentication.'
+
+[3833] generic 'Public - The project can be accessed without any authentication.'
+
+[3836] StaticText 'Project ID: 198 '
+
+[3837] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3949] button '' hasPopup: menu expanded: False
+
+[3841] button 'Star'
+
+[3842] link '0'
+
+[3954] link 'Fork'
+
+[3844] link '0'
+
+[4170] link '1 Commit'
+
+[4171] link '1 Branch'
+
+[4172] link '0 Tags'
+
+[4173] link '72 KB Project Storage'
+
+[5335] link ''
+
+[5342] link 'Initial commit'
+
+[5345] link 'Byte Blaze'
+
+[5346] StaticText ' authored '
+
+[5347] time 'Sep 12, 2023 1:56am EDT'
+
+[5353] StaticText 'just now'
+
+[5348] group ''
+
+[5355] StaticText '4880f05c'
+
+[5350] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4778] button 'main' hasPopup: menu expanded: False
+
+[3643] navigation 'Files breadcrumb'
+
+[5224] link 'web_arena'
+
+[5266] button 'Add to tree' hasPopup: menu expanded: False
+
+[4175] link 'Find file'
+
+[4180] link 'Web IDE'
+
+[4181] button 'Download'
+
+[4785] StaticText 'Select Archive Format'
+
+[4183] link 'Clone'
+
+[4206] link 'README'
+
+[4207] link 'Auto DevOps enabled'
+
+[4208] link 'Add LICENSE'
+
+[4209] link 'Add CHANGELOG'
+
+[4210] link 'Add CONTRIBUTING'
+
+[4211] link 'Add Kubernetes cluster'
+
+[4212] link 'Configure Integrations'</pre><div>
+
+[4013] where [4013] is link 'Create new...' focused: True expanded: True</div>
+
+[4013]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the GitLab project page for the "web_arena" project. The objective is to create a new public project called "web_arena" and add Abishek and Vinta as members. To create a new project, I should click on the "Create new..." link. In summary, the next action I will perform is `click [4013]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[3573] RootWebArea 'crew / web_arena · GitLab' focused: True
+
+[3666] link 'Skip to content'
+
+[3851] link 'Dashboard'
+
+[4007] button '' hasPopup: menu expanded: False
+
+[3585] textbox 'Search GitLab' required: False
+
+[5117] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4013] link 'Create new...' focused: True expanded: False
+
+[4015] link 'Issues'
+
+[4341] generic '13 assigned issues'
+
+[4016] link 'Merge requests'
+
+[4343] generic '8 merge requests'
+
+[4018] link 'To-Do List'
+
+[4359] generic 'Todos count'
+
+[4019] link 'Help'
+
+[4021] link 'Byte Blaze'
+
+[4393] img 'Byte Blaze'
+
+[3667] complementary 'Project navigation'
+
+[3884] listitem 'web_arena'
+
+[4023] link 'web_arena'
+
+[4434] StaticText 'W'
+
+[4024] link 'Project information'
+
+[4026] link 'Repository'
+
+[4028] link 'Issues'
+
+[4030] link 'Merge requests'
+
+[4032] link 'CI/CD'
+
+[4034] link 'Security & Compliance'
+
+[4036] link 'Deployments'
+
+[4038] link 'Packages and registries'
+
+[4040] link 'Infrastructure'
+
+[4042] link 'Monitor'
+
+[4044] link 'Analytics'
+
+[4046] link 'Wiki'
+
+[4048] link 'Snippets'
+
+[4050] link 'Settings'
+
+[3806] button 'Collapse sidebar'
+
+[3671] alert '' live: assertive atomic: True relevant: additions text
+
+[3675] button 'Dismiss'
+
+[3676] alert '' live: assertive atomic: True relevant: additions text
+
+[3918] link 'Add SSH key'
+
+[3919] button "Don't show again"
+
+[3672] alert '' live: assertive atomic: True relevant: additions text
+
+[3678] button 'Dismiss'
+
+[3679] alert '' live: assertive atomic: True relevant: additions text
+
+[3925] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[3927] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[3928] link 'Settings'
+
+[3929] link 'More information'
+
+[3673] navigation 'Breadcrumbs'
+
+[4067] link 'crew'
+
+[4069] link 'web_arena'
+
+[3589] main ''
+
+[3822] alert '' live: assertive atomic: True relevant: additions text
+
+[3942] button 'Dismiss'
+
+[3943] alert '' live: assertive atomic: True relevant: additions text
+
+[3944] StaticText 'W'
+
+[3830] heading 'web_arena Public - The project can be accessed without any authentication.'
+
+[3833] generic 'Public - The project can be accessed without any authentication.'
+
+[3836] StaticText 'Project ID: 198 '
+
+[3837] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3949] button '' hasPopup: menu expanded: False
+
+[3841] button 'Star'
+
+[3842] link '0'
+
+[3954] link 'Fork'
+
+[3844] link '0'
+
+[4170] link '1 Commit'
+
+[4171] link '1 Branch'
+
+[4172] link '0 Tags'
+
+[4173] link '72 KB Project Storage'
+
+[5335] link ''
+
+[5342] link 'Initial commit'
+
+[5345] link 'Byte Blaze'
+
+[5346] StaticText ' authored '
+
+[5347] time 'Sep 12, 2023 1:56am EDT'
+
+[5353] StaticText 'just now'
+
+[5348] group ''
+
+[5355] StaticText '4880f05c'
+
+[5350] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4778] button 'main' hasPopup: menu expanded: False
+
+[3643] navigation 'Files breadcrumb'
+
+[5224] link 'web_arena'
+
+[5266] button 'Add to tree' hasPopup: menu expanded: False
+
+[4175] link 'Find file'
+
+[4180] link 'Web IDE'
+
+[4181] button 'Download'
+
+[4785] StaticText 'Select Archive Format'
+
+[4183] link 'Clone'
+
+[4206] link 'README'
+
+[4207] link 'Auto DevOps enabled'
+
+[4208] link 'Add LICENSE'
+
+[4209] link 'Add CHANGELOG'
+
+[4210] link 'Add CONTRIBUTING'
+
+[4211] link 'Add Kubernetes cluster'
+
+[4212] link 'Configure Integrations'</pre><div>
+
+[4013]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[4013]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '4013', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the GitLab project page for the "web_arena" project. The objective is to create a new public project called "web_arena" and add Abishek and Vinta as members. To create a new project, I should click on the "Create new..." link. In summary, the next action I will perform is ```click [4013]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [4013] where [4013] is [4013] link 'Create new...' focused: True expanded: False</pre></div></div>
+
+[3573] RootWebArea 'crew / web_arena · GitLab' focused: True
+
+[3666] link 'Skip to content'
+
+[3851] link 'Dashboard'
+
+[4007] button '' hasPopup: menu expanded: False
+
+[3585] textbox 'Search GitLab' required: False
+
+[5117] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4013] link 'Create new...' focused: True expanded: True
+
+[5756] StaticText 'This project'
+
+[5763] link 'New issue'
+
+[5766] link 'New merge request'
+
+[5755] link 'New snippet'
+
+[5745] link 'Invite members '
+
+[5758] StaticText 'GitLab'
+
+[5746] link 'New project/repository'
+
+[5742] link 'New group'
+
+[5748] link 'New snippet'
+
+[4015] link 'Issues'
+
+[4341] generic '13 assigned issues'
+
+[4016] link 'Merge requests'
+
+[4343] generic '8 merge requests'
+
+[4018] link 'To-Do List'
+
+[4359] generic 'Todos count'
+
+[4019] link 'Help'
+
+[4021] link 'Byte Blaze'
+
+[4393] img 'Byte Blaze'
+
+[3667] complementary 'Project navigation'
+
+[3884] listitem 'web_arena'
+
+[4023] link 'web_arena'
+
+[4434] StaticText 'W'
+
+[4024] link 'Project information'
+
+[4026] link 'Repository'
+
+[4028] link 'Issues'
+
+[4030] link 'Merge requests'
+
+[4032] link 'CI/CD'
+
+[4034] link 'Security & Compliance'
+
+[4036] link 'Deployments'
+
+[4038] link 'Packages and registries'
+
+[4040] link 'Infrastructure'
+
+[4042] link 'Monitor'
+
+[4044] link 'Analytics'
+
+[4046] link 'Wiki'
+
+[4048] link 'Snippets'
+
+[4050] link 'Settings'
+
+[3806] button 'Collapse sidebar'
+
+[3671] alert '' live: assertive atomic: True relevant: additions text
+
+[3675] button 'Dismiss'
+
+[3676] alert '' live: assertive atomic: True relevant: additions text
+
+[3918] link 'Add SSH key'
+
+[3919] button "Don't show again"
+
+[3672] alert '' live: assertive atomic: True relevant: additions text
+
+[3678] button 'Dismiss'
+
+[3679] alert '' live: assertive atomic: True relevant: additions text
+
+[3925] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[3927] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[3928] link 'Settings'
+
+[3929] link 'More information'
+
+[3673] navigation 'Breadcrumbs'
+
+[4067] link 'crew'
+
+[4069] link 'web_arena'
+
+[3589] main ''
+
+[3822] alert '' live: assertive atomic: True relevant: additions text
+
+[3942] button 'Dismiss'
+
+[3943] alert '' live: assertive atomic: True relevant: additions text
+
+[3944] StaticText 'W'
+
+[3830] heading 'web_arena Public - The project can be accessed without any authentication.'
+
+[3833] generic 'Public - The project can be accessed without any authentication.'
+
+[3836] StaticText 'Project ID: 198 '
+
+[3837] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3949] button '' hasPopup: menu expanded: False
+
+[3841] button 'Star'
+
+[3842] link '0'
+
+[3954] link 'Fork'
+
+[3844] link '0'
+
+[4170] link '1 Commit'
+
+[4171] link '1 Branch'
+
+[4172] link '0 Tags'
+
+[4173] link '72 KB Project Storage'
+
+[5335] link ''
+
+[5342] link 'Initial commit'
+
+[5345] link 'Byte Blaze'
+
+[5346] StaticText ' authored '
+
+[5347] time 'Sep 12, 2023 1:56am EDT'
+
+[5353] StaticText 'just now'
+
+[5348] group ''
+
+[5355] StaticText '4880f05c'
+
+[5350] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4778] button 'main' hasPopup: menu expanded: False
+
+[3643] navigation 'Files breadcrumb'
+
+[5224] link 'web_arena'
+
+[5266] button 'Add to tree' hasPopup: menu expanded: False
+
+[4175] link 'Find file'
+
+[4180] link 'Web IDE'
+
+[4181] button 'Download'
+
+[4785] StaticText 'Select Archive Format'
+
+[4183] link 'Clone'
+
+[4206] link 'README'
+
+[4207] link 'Auto DevOps enabled'
+
+[4208] link 'Add LICENSE'
+
+[4209] link 'Add CHANGELOG'
+
+[4210] link 'Add CONTRIBUTING'
+
+[4211] link 'Add Kubernetes cluster'
+
+[4212] link 'Configure Integrations'</pre><div>
+
+[4013] where [4013] is link 'Create new...' focused: True expanded: False</div>
+
+[4013]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '4013', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To create a new public project "web_arena", I need to click on the "Create new..." link. After clicking, I will be redirected to a new page where I can create the project and add members. In summary, the next action I will perform is ```click [4013]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [4013] where [4013] is [4013] link 'Create new...' focused: True expanded: True</pre></div></div>
+
+[3573] RootWebArea 'crew / web_arena · GitLab' focused: True
+
+[3666] link 'Skip to content'
+
+[3851] link 'Dashboard'
+
+[4007] button '' hasPopup: menu expanded: False
+
+[3585] textbox 'Search GitLab' required: False
+
+[5117] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4013] link 'Create new...' focused: True expanded: False
+
+[4015] link 'Issues'
+
+[4341] generic '13 assigned issues'
+
+[4016] link 'Merge requests'
+
+[4343] generic '8 merge requests'
+
+[4018] link 'To-Do List'
+
+[4359] generic 'Todos count'
+
+[4019] link 'Help'
+
+[4021] link 'Byte Blaze'
+
+[4393] img 'Byte Blaze'
+
+[3667] complementary 'Project navigation'
+
+[3884] listitem 'web_arena'
+
+[4023] link 'web_arena'
+
+[4434] StaticText 'W'
+
+[4024] link 'Project information'
+
+[4026] link 'Repository'
+
+[4028] link 'Issues'
+
+[4030] link 'Merge requests'
+
+[4032] link 'CI/CD'
+
+[4034] link 'Security & Compliance'
+
+[4036] link 'Deployments'
+
+[4038] link 'Packages and registries'
+
+[4040] link 'Infrastructure'
+
+[4042] link 'Monitor'
+
+[4044] link 'Analytics'
+
+[4046] link 'Wiki'
+
+[4048] link 'Snippets'
+
+[4050] link 'Settings'
+
+[3806] button 'Collapse sidebar'
+
+[3671] alert '' live: assertive atomic: True relevant: additions text
+
+[3675] button 'Dismiss'
+
+[3676] alert '' live: assertive atomic: True relevant: additions text
+
+[3918] link 'Add SSH key'
+
+[3919] button "Don't show again"
+
+[3672] alert '' live: assertive atomic: True relevant: additions text
+
+[3678] button 'Dismiss'
+
+[3679] alert '' live: assertive atomic: True relevant: additions text
+
+[3925] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[3927] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[3928] link 'Settings'
+
+[3929] link 'More information'
+
+[3673] navigation 'Breadcrumbs'
+
+[4067] link 'crew'
+
+[4069] link 'web_arena'
+
+[3589] main ''
+
+[3822] alert '' live: assertive atomic: True relevant: additions text
+
+[3942] button 'Dismiss'
+
+[3943] alert '' live: assertive atomic: True relevant: additions text
+
+[3944] StaticText 'W'
+
+[3830] heading 'web_arena Public - The project can be accessed without any authentication.'
+
+[3833] generic 'Public - The project can be accessed without any authentication.'
+
+[3836] StaticText 'Project ID: 198 '
+
+[3837] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3949] button '' hasPopup: menu expanded: False
+
+[3841] button 'Star'
+
+[3842] link '0'
+
+[3954] link 'Fork'
+
+[3844] link '0'
+
+[4170] link '1 Commit'
+
+[4171] link '1 Branch'
+
+[4172] link '0 Tags'
+
+[4173] link '72 KB Project Storage'
+
+[5335] link ''
+
+[5342] link 'Initial commit'
+
+[5345] link 'Byte Blaze'
+
+[5346] StaticText ' authored '
+
+[5347] time 'Sep 12, 2023 1:56am EDT'
+
+[5353] StaticText 'just now'
+
+[5348] group ''
+
+[5355] StaticText '4880f05c'
+
+[5350] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4778] button 'main' hasPopup: menu expanded: False
+
+[3643] navigation 'Files breadcrumb'
+
+[5224] link 'web_arena'
+
+[5266] button 'Add to tree' hasPopup: menu expanded: False
+
+[4175] link 'Find file'
+
+[4180] link 'Web IDE'
+
+[4181] button 'Download'
+
+[4785] StaticText 'Select Archive Format'
+
+[4183] link 'Clone'
+
+[4206] link 'README'
+
+[4207] link 'Auto DevOps enabled'
+
+[4208] link 'Add LICENSE'
+
+[4209] link 'Add CHANGELOG'
+
+[4210] link 'Add CONTRIBUTING'
+
+[4211] link 'Add Kubernetes cluster'
+
+[4212] link 'Configure Integrations'</pre><div>
+
+[4013] where [4013] is link 'Create new...' focused: True expanded: True</div>
+
+[4034]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '4034', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To create a new public project "web_arena" on GitLab, we need to click on the "Create new..." link. This will expand a menu with options. I will click on the "New project" option to proceed with creating a new project. In summary, the next action I will perform is ```click [4034]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [4034] where [4034] is [4034] link 'Security & Compliance'</pre></div></div>
+
+[5804] RootWebArea 'Security Configuration · crew / web_arena · GitLab' focused: True
+
+[5869] link 'Skip to content'
+
+[6010] link 'Dashboard'
+
+[6090] button '' hasPopup: menu expanded: False
+
+[5816] textbox 'Search GitLab' required: False
+
+[6727] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6096] link 'Create new...'
+
+[6098] link 'Issues'
+
+[6292] generic '13 assigned issues'
+
+[6099] link 'Merge requests'
+
+[6294] generic '8 merge requests'
+
+[6101] link 'To-Do List'
+
+[6310] generic 'Todos count'
+
+[6748] StaticText '5'
+
+[6102] link 'Help'
+
+[6104] link 'Byte Blaze'
+
+[6344] img 'Byte Blaze'
+
+[5870] complementary 'Project navigation'
+
+[6043] listitem 'web_arena'
+
+[6106] link 'web_arena'
+
+[6385] StaticText 'W'
+
+[6107] link 'Project information'
+
+[6109] link 'Repository'
+
+[6111] link 'Issues'
+
+[6113] link 'Merge requests'
+
+[6115] link 'CI/CD'
+
+[6117] link 'Security & Compliance'
+
+[6779] link 'Configuration'
+
+[6119] link 'Deployments'
+
+[6121] link 'Packages and registries'
+
+[6123] link 'Infrastructure'
+
+[6125] link 'Monitor'
+
+[6127] link 'Analytics'
+
+[6129] link 'Wiki'
+
+[6131] link 'Snippets'
+
+[6133] link 'Settings'
+
+[6001] button 'Collapse sidebar'
+
+[5874] navigation 'Breadcrumbs'
+
+[6150] link 'crew'
+
+[6152] link 'web_arena'
+
+[6154] link 'Security Configuration'
+
+[5820] main ''
+
+[5821] article ''
+
+[6084] status '' live: polite atomic: True relevant: additions text
+
+[6698] StaticText 'Quickly enable all continuous testing and compliance tools by enabling '
+
+[6699] link 'Auto DevOps'
+
+[6700] link 'Enable Auto DevOps'
+
+[6085] button 'Dismiss'
+
+[6006] HeaderAsNonLandmark ''
+
+[6086] heading 'Security Configuration'
+
+[6163] heading 'Secure your project'
+
+[6167] StaticText 'Immediately begin risk analysis and remediation with application security features. Start with SAST and Secret Detection, available to all plans. Upgrade to Ultimate to get all features, including:'
+
+[5858] ListMarker '• '
+
+[6706] StaticText 'Vulnerability details and statistics in the merge request'
+
+[5860] ListMarker '• '
+
+[6707] StaticText 'High-level vulnerability statistics across projects and groups'
+
+[5862] ListMarker '• '
+
+[6708] StaticText 'Runtime security metrics for application environments'
+
+[5864] ListMarker '• '
+
+[6709] StaticText 'More scan types, including DAST, Dependency Scanning, Fuzzing, and Licence Compliance'
+
+[6165] link 'Upgrade or start a free trial'
+
+[6162] button 'Close banner'
+
+[6171] tablist '' multiselectable: False orientation: horizontal
+
+[6173] tab 'Security testing' selected: True controls: __BVID__9
+
+[6175] tab 'Compliance' selected: False controls: __BVID__12
+
+[6177] tab 'Vulnerability Management' selected: False controls: __BVID__15
+
+[5824] tabpanel 'Security testing'
+
+[6811] heading 'Security testing'
+
+[6828] StaticText 'The status of the tools only applies to the default branch and is based on the '
+
+[6829] link 'latest pipeline'
+
+[6830] StaticText '.'
+
+[6850] heading 'Static Application Security Testing (SAST)'
+
+[6854] StaticText 'Not enabled'
+
+[6855] StaticText 'Analyze your source code for known vulnerabilities. '
+
+[6856] link 'Learn more'
+
+[6849] button 'Configure with a merge request'</pre><div>
+
+[4034] where [4034] is link 'Security & Compliance'</div>
+
+[6096].
+
+[6096]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to create a new public project "web_arena" and add Abishek and Vinta as members. \n\nTo create a new project, I need to click on the "Create new..." link, which has the id [6096].\n\nIn summary, the next action I will perform is `click [6096]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[5804] RootWebArea 'Security Configuration · crew / web_arena · GitLab' focused: True
+
+[5869] link 'Skip to content'
+
+[6010] link 'Dashboard'
+
+[6090] button '' hasPopup: menu expanded: False
+
+[5816] textbox 'Search GitLab' required: False
+
+[6727] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6096] link 'Create new...'
+
+[6098] link 'Issues'
+
+[6292] generic '13 assigned issues'
+
+[6099] link 'Merge requests'
+
+[6294] generic '8 merge requests'
+
+[6101] link 'To-Do List'
+
+[6310] generic 'Todos count'
+
+[6748] StaticText '5'
+
+[6102] link 'Help'
+
+[6104] link 'Byte Blaze'
+
+[6344] img 'Byte Blaze'
+
+[5870] complementary 'Project navigation'
+
+[6043] listitem 'web_arena'
+
+[6106] link 'web_arena'
+
+[6385] StaticText 'W'
+
+[6107] link 'Project information'
+
+[6109] link 'Repository'
+
+[6111] link 'Issues'
+
+[6113] link 'Merge requests'
+
+[6115] link 'CI/CD'
+
+[6117] link 'Security & Compliance'
+
+[6779] link 'Configuration'
+
+[6119] link 'Deployments'
+
+[6121] link 'Packages and registries'
+
+[6123] link 'Infrastructure'
+
+[6125] link 'Monitor'
+
+[6127] link 'Analytics'
+
+[6129] link 'Wiki'
+
+[6131] link 'Snippets'
+
+[6133] link 'Settings'
+
+[6001] button 'Collapse sidebar'
+
+[5874] navigation 'Breadcrumbs'
+
+[6150] link 'crew'
+
+[6152] link 'web_arena'
+
+[6154] link 'Security Configuration'
+
+[5820] main ''
+
+[5821] article ''
+
+[6084] status '' live: polite atomic: True relevant: additions text
+
+[6698] StaticText 'Quickly enable all continuous testing and compliance tools by enabling '
+
+[6699] link 'Auto DevOps'
+
+[6700] link 'Enable Auto DevOps'
+
+[6085] button 'Dismiss'
+
+[6006] HeaderAsNonLandmark ''
+
+[6086] heading 'Security Configuration'
+
+[6163] heading 'Secure your project'
+
+[6167] StaticText 'Immediately begin risk analysis and remediation with application security features. Start with SAST and Secret Detection, available to all plans. Upgrade to Ultimate to get all features, including:'
+
+[5858] ListMarker '• '
+
+[6706] StaticText 'Vulnerability details and statistics in the merge request'
+
+[5860] ListMarker '• '
+
+[6707] StaticText 'High-level vulnerability statistics across projects and groups'
+
+[5862] ListMarker '• '
+
+[6708] StaticText 'Runtime security metrics for application environments'
+
+[5864] ListMarker '• '
+
+[6709] StaticText 'More scan types, including DAST, Dependency Scanning, Fuzzing, and Licence Compliance'
+
+[6165] link 'Upgrade or start a free trial'
+
+[6162] button 'Close banner'
+
+[6171] tablist '' multiselectable: False orientation: horizontal
+
+[6173] tab 'Security testing' selected: True controls: __BVID__9
+
+[6175] tab 'Compliance' selected: False controls: __BVID__12
+
+[6177] tab 'Vulnerability Management' selected: False controls: __BVID__15
+
+[5824] tabpanel 'Security testing'
+
+[6811] heading 'Security testing'
+
+[6828] StaticText 'The status of the tools only applies to the default branch and is based on the '
+
+[6829] link 'latest pipeline'
+
+[6830] StaticText '.'
+
+[6850] heading 'Static Application Security Testing (SAST)'
+
+[6854] StaticText 'Not enabled'
+
+[6855] StaticText 'Analyze your source code for known vulnerabilities. '
+
+[6856] link 'Learn more'
+
+[6849] button 'Configure with a merge request'</pre><div>
+
+[6096].
+
+[6096]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[6096]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '6096', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [6096]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [6096] where [6096] is [6096] link 'Create new...'</pre></div></div>
+
+[5804] RootWebArea 'Security Configuration · crew / web_arena · GitLab' focused: True
+
+[5869] link 'Skip to content'
+
+[6010] link 'Dashboard'
+
+[6090] button '' hasPopup: menu expanded: False
+
+[5816] textbox 'Search GitLab' required: False
+
+[6727] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6096] link 'Create new...' focused: True expanded: True describedby: gl-tooltip1
+
+[6976] StaticText 'This project'
+
+[6966] link 'New issue'
+
+[6968] link 'New merge request'
+
+[6960] link 'New snippet'
+
+[6970] link 'Invite members '
+
+[6975] StaticText 'GitLab'
+
+[6979] link 'New project/repository'
+
+[6980] link 'New group'
+
+[6954] link 'New snippet'
+
+[6098] link 'Issues'
+
+[6292] generic '13 assigned issues'
+
+[6099] link 'Merge requests'
+
+[6294] generic '8 merge requests'
+
+[6101] link 'To-Do List'
+
+[6310] generic 'Todos count'
+
+[6748] StaticText '5'
+
+[6102] link 'Help'
+
+[6104] link 'Byte Blaze'
+
+[6344] img 'Byte Blaze'
+
+[5870] complementary 'Project navigation'
+
+[6043] listitem 'web_arena'
+
+[6106] link 'web_arena'
+
+[6385] StaticText 'W'
+
+[6107] link 'Project information'
+
+[6109] link 'Repository'
+
+[6111] link 'Issues'
+
+[6113] link 'Merge requests'
+
+[6115] link 'CI/CD'
+
+[6117] link 'Security & Compliance'
+
+[6779] link 'Configuration'
+
+[6119] link 'Deployments'
+
+[6121] link 'Packages and registries'
+
+[6123] link 'Infrastructure'
+
+[6125] link 'Monitor'
+
+[6127] link 'Analytics'
+
+[6129] link 'Wiki'
+
+[6131] link 'Snippets'
+
+[6133] link 'Settings'
+
+[6001] button 'Collapse sidebar'
+
+[5874] navigation 'Breadcrumbs'
+
+[6150] link 'crew'
+
+[6152] link 'web_arena'
+
+[6154] link 'Security Configuration'
+
+[5820] main ''
+
+[5821] article ''
+
+[6084] status '' live: polite atomic: True relevant: additions text
+
+[6698] StaticText 'Quickly enable all continuous testing and compliance tools by enabling '
+
+[6699] link 'Auto DevOps'
+
+[6700] link 'Enable Auto DevOps'
+
+[6085] button 'Dismiss'
+
+[6006] HeaderAsNonLandmark ''
+
+[6086] heading 'Security Configuration'
+
+[6163] heading 'Secure your project'
+
+[6167] StaticText 'Immediately begin risk analysis and remediation with application security features. Start with SAST and Secret Detection, available to all plans. Upgrade to Ultimate to get all features, including:'
+
+[5858] ListMarker '• '
+
+[6706] StaticText 'Vulnerability details and statistics in the merge request'
+
+[5860] ListMarker '• '
+
+[6707] StaticText 'High-level vulnerability statistics across projects and groups'
+
+[5862] ListMarker '• '
+
+[6708] StaticText 'Runtime security metrics for application environments'
+
+[5864] ListMarker '• '
+
+[6709] StaticText 'More scan types, including DAST, Dependency Scanning, Fuzzing, and Licence Compliance'
+
+[6165] link 'Upgrade or start a free trial'
+
+[6162] button 'Close banner'
+
+[6171] tablist '' multiselectable: False orientation: horizontal
+
+[6173] tab 'Security testing' selected: True controls: __BVID__9
+
+[6175] tab 'Compliance' selected: False controls: __BVID__12
+
+[6177] tab 'Vulnerability Management' selected: False controls: __BVID__15
+
+[5824] tabpanel 'Security testing'
+
+[6811] heading 'Security testing'
+
+[6828] StaticText 'The status of the tools only applies to the default branch and is based on the '
+
+[6829] link 'latest pipeline'
+
+[6830] StaticText '.'
+
+[6850] heading 'Static Application Security Testing (SAST)'
+
+[6854] StaticText 'Not enabled'
+
+[6855] StaticText 'Analyze your source code for known vulnerabilities. '
+
+[6856] link 'Learn more'
+
+[6849] button 'Configure with a merge request'
+
+[6982] tooltip 'Create new...'</pre><div>
+
+[6096] where [6096] is link 'Create new...'</div>
+
+[6096]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '6096', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We are on the GitLab website, specifically on the "Security Configuration" page for the "web_arena" project. To create a new public project, we need to click on the "Create new..." link. After that, we will be directed to a new page where we can create a new project. We can then add Abishek and Vinta as members. In summary, the next action I will perform is ```click [6096]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [6096] where [6096] is [6096] link 'Create new...' focused: True expanded: True describedby: gl-tooltip1</pre></div></div>
+
+[5804] RootWebArea 'Security Configuration · crew / web_arena · GitLab' focused: True
+
+[5869] link 'Skip to content'
+
+[6010] link 'Dashboard'
+
+[6090] button '' hasPopup: menu expanded: False
+
+[5816] textbox 'Search GitLab' required: False
+
+[6727] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6096] link 'Create new...' focused: True expanded: False
+
+[6098] link 'Issues'
+
+[6292] generic '13 assigned issues'
+
+[6099] link 'Merge requests'
+
+[6294] generic '8 merge requests'
+
+[6101] link 'To-Do List'
+
+[6310] generic 'Todos count'
+
+[6748] StaticText '5'
+
+[6102] link 'Help'
+
+[6104] link 'Byte Blaze'
+
+[6344] img 'Byte Blaze'
+
+[5870] complementary 'Project navigation'
+
+[6043] listitem 'web_arena'
+
+[6106] link 'web_arena'
+
+[6385] StaticText 'W'
+
+[6107] link 'Project information'
+
+[6109] link 'Repository'
+
+[6111] link 'Issues'
+
+[6113] link 'Merge requests'
+
+[6115] link 'CI/CD'
+
+[6117] link 'Security & Compliance'
+
+[6779] link 'Configuration'
+
+[6119] link 'Deployments'
+
+[6121] link 'Packages and registries'
+
+[6123] link 'Infrastructure'
+
+[6125] link 'Monitor'
+
+[6127] link 'Analytics'
+
+[6129] link 'Wiki'
+
+[6131] link 'Snippets'
+
+[6133] link 'Settings'
+
+[6001] button 'Collapse sidebar'
+
+[5874] navigation 'Breadcrumbs'
+
+[6150] link 'crew'
+
+[6152] link 'web_arena'
+
+[6154] link 'Security Configuration'
+
+[5820] main ''
+
+[5821] article ''
+
+[6084] status '' live: polite atomic: True relevant: additions text
+
+[6698] StaticText 'Quickly enable all continuous testing and compliance tools by enabling '
+
+[6699] link 'Auto DevOps'
+
+[6700] link 'Enable Auto DevOps'
+
+[6085] button 'Dismiss'
+
+[6006] HeaderAsNonLandmark ''
+
+[6086] heading 'Security Configuration'
+
+[6163] heading 'Secure your project'
+
+[6167] StaticText 'Immediately begin risk analysis and remediation with application security features. Start with SAST and Secret Detection, available to all plans. Upgrade to Ultimate to get all features, including:'
+
+[5858] ListMarker '• '
+
+[6706] StaticText 'Vulnerability details and statistics in the merge request'
+
+[5860] ListMarker '• '
+
+[6707] StaticText 'High-level vulnerability statistics across projects and groups'
+
+[5862] ListMarker '• '
+
+[6708] StaticText 'Runtime security metrics for application environments'
+
+[5864] ListMarker '• '
+
+[6709] StaticText 'More scan types, including DAST, Dependency Scanning, Fuzzing, and Licence Compliance'
+
+[6165] link 'Upgrade or start a free trial'
+
+[6162] button 'Close banner'
+
+[6171] tablist '' multiselectable: False orientation: horizontal
+
+[6173] tab 'Security testing' selected: True controls: __BVID__9
+
+[6175] tab 'Compliance' selected: False controls: __BVID__12
+
+[6177] tab 'Vulnerability Management' selected: False controls: __BVID__15
+
+[5824] tabpanel 'Security testing'
+
+[6811] heading 'Security testing'
+
+[6828] StaticText 'The status of the tools only applies to the default branch and is based on the '
+
+[6829] link 'latest pipeline'
+
+[6830] StaticText '.'
+
+[6850] heading 'Static Application Security Testing (SAST)'
+
+[6854] StaticText 'Not enabled'
+
+[6855] StaticText 'Analyze your source code for known vulnerabilities. '
+
+[6856] link 'Learn more'
+
+[6849] button 'Configure with a merge request'</pre><div>
+
+[6096] where [6096] is link 'Create new...' focused: True expanded: True describedby: gl-tooltip1</div>
+
+[6096]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. According to the observation, there is a link with the text "Create new..." which will allow us to create a new project. I will click on this link to proceed with creating a new project. In summary, the next action I will perform is `click [6096]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[5804] RootWebArea 'Security Configuration · crew / web_arena · GitLab' focused: True
+
+[5869] link 'Skip to content'
+
+[6010] link 'Dashboard'
+
+[6090] button '' hasPopup: menu expanded: False
+
+[5816] textbox 'Search GitLab' required: False
+
+[6727] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6096] link 'Create new...' focused: True expanded: False
+
+[6098] link 'Issues'
+
+[6292] generic '13 assigned issues'
+
+[6099] link 'Merge requests'
+
+[6294] generic '8 merge requests'
+
+[6101] link 'To-Do List'
+
+[6310] generic 'Todos count'
+
+[6748] StaticText '5'
+
+[6102] link 'Help'
+
+[6104] link 'Byte Blaze'
+
+[6344] img 'Byte Blaze'
+
+[5870] complementary 'Project navigation'
+
+[6043] listitem 'web_arena'
+
+[6106] link 'web_arena'
+
+[6385] StaticText 'W'
+
+[6107] link 'Project information'
+
+[6109] link 'Repository'
+
+[6111] link 'Issues'
+
+[6113] link 'Merge requests'
+
+[6115] link 'CI/CD'
+
+[6117] link 'Security & Compliance'
+
+[6779] link 'Configuration'
+
+[6119] link 'Deployments'
+
+[6121] link 'Packages and registries'
+
+[6123] link 'Infrastructure'
+
+[6125] link 'Monitor'
+
+[6127] link 'Analytics'
+
+[6129] link 'Wiki'
+
+[6131] link 'Snippets'
+
+[6133] link 'Settings'
+
+[6001] button 'Collapse sidebar'
+
+[5874] navigation 'Breadcrumbs'
+
+[6150] link 'crew'
+
+[6152] link 'web_arena'
+
+[6154] link 'Security Configuration'
+
+[5820] main ''
+
+[5821] article ''
+
+[6084] status '' live: polite atomic: True relevant: additions text
+
+[6698] StaticText 'Quickly enable all continuous testing and compliance tools by enabling '
+
+[6699] link 'Auto DevOps'
+
+[6700] link 'Enable Auto DevOps'
+
+[6085] button 'Dismiss'
+
+[6006] HeaderAsNonLandmark ''
+
+[6086] heading 'Security Configuration'
+
+[6163] heading 'Secure your project'
+
+[6167] StaticText 'Immediately begin risk analysis and remediation with application security features. Start with SAST and Secret Detection, available to all plans. Upgrade to Ultimate to get all features, including:'
+
+[5858] ListMarker '• '
+
+[6706] StaticText 'Vulnerability details and statistics in the merge request'
+
+[5860] ListMarker '• '
+
+[6707] StaticText 'High-level vulnerability statistics across projects and groups'
+
+[5862] ListMarker '• '
+
+[6708] StaticText 'Runtime security metrics for application environments'
+
+[5864] ListMarker '• '
+
+[6709] StaticText 'More scan types, including DAST, Dependency Scanning, Fuzzing, and Licence Compliance'
+
+[6165] link 'Upgrade or start a free trial'
+
+[6162] button 'Close banner'
+
+[6171] tablist '' multiselectable: False orientation: horizontal
+
+[6173] tab 'Security testing' selected: True controls: __BVID__9
+
+[6175] tab 'Compliance' selected: False controls: __BVID__12
+
+[6177] tab 'Vulnerability Management' selected: False controls: __BVID__15
+
+[5824] tabpanel 'Security testing'
+
+[6811] heading 'Security testing'
+
+[6828] StaticText 'The status of the tools only applies to the default branch and is based on the '
+
+[6829] link 'latest pipeline'
+
+[6830] StaticText '.'
+
+[6850] heading 'Static Application Security Testing (SAST)'
+
+[6854] StaticText 'Not enabled'
+
+[6855] StaticText 'Analyze your source code for known vulnerabilities. '
+
+[6856] link 'Learn more'
+
+[6849] button 'Configure with a merge request'</pre><div>
+
+[6096]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[6096]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '6096', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. According to the observation, there is a link with the text "Create new..." which will allow us to create a new project. I will click on this link to proceed with creating a new project. In summary, the next action I will perform is ```click [6096]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [6096] where [6096] is [6096] link 'Create new...' focused: True expanded: False</pre></div></div>
+
+[5804] RootWebArea 'Security Configuration · crew / web_arena · GitLab' focused: True
+
+[5869] link 'Skip to content'
+
+[6010] link 'Dashboard'
+
+[6090] button '' hasPopup: menu expanded: False
+
+[5816] textbox 'Search GitLab' required: False
+
+[6727] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6096] link 'Create new...' focused: True expanded: True
+
+[7037] StaticText 'This project'
+
+[7026] link 'New issue'
+
+[7041] link 'New merge request'
+
+[7031] link 'New snippet'
+
+[7035] link 'Invite members '
+
+[7039] StaticText 'GitLab'
+
+[7020] link 'New project/repository'
+
+[7043] link 'New group'
+
+[7034] link 'New snippet'
+
+[6098] link 'Issues'
+
+[6292] generic '13 assigned issues'
+
+[6099] link 'Merge requests'
+
+[6294] generic '8 merge requests'
+
+[6101] link 'To-Do List'
+
+[6310] generic 'Todos count'
+
+[6748] StaticText '5'
+
+[6102] link 'Help'
+
+[6104] link 'Byte Blaze'
+
+[6344] img 'Byte Blaze'
+
+[5870] complementary 'Project navigation'
+
+[6043] listitem 'web_arena'
+
+[6106] link 'web_arena'
+
+[6385] StaticText 'W'
+
+[6107] link 'Project information'
+
+[6109] link 'Repository'
+
+[6111] link 'Issues'
+
+[6113] link 'Merge requests'
+
+[6115] link 'CI/CD'
+
+[6117] link 'Security & Compliance'
+
+[6779] link 'Configuration'
+
+[6119] link 'Deployments'
+
+[6121] link 'Packages and registries'
+
+[6123] link 'Infrastructure'
+
+[6125] link 'Monitor'
+
+[6127] link 'Analytics'
+
+[6129] link 'Wiki'
+
+[6131] link 'Snippets'
+
+[6133] link 'Settings'
+
+[6001] button 'Collapse sidebar'
+
+[5874] navigation 'Breadcrumbs'
+
+[6150] link 'crew'
+
+[6152] link 'web_arena'
+
+[6154] link 'Security Configuration'
+
+[5820] main ''
+
+[5821] article ''
+
+[6084] status '' live: polite atomic: True relevant: additions text
+
+[6698] StaticText 'Quickly enable all continuous testing and compliance tools by enabling '
+
+[6699] link 'Auto DevOps'
+
+[6700] link 'Enable Auto DevOps'
+
+[6085] button 'Dismiss'
+
+[6006] HeaderAsNonLandmark ''
+
+[6086] heading 'Security Configuration'
+
+[6163] heading 'Secure your project'
+
+[6167] StaticText 'Immediately begin risk analysis and remediation with application security features. Start with SAST and Secret Detection, available to all plans. Upgrade to Ultimate to get all features, including:'
+
+[5858] ListMarker '• '
+
+[6706] StaticText 'Vulnerability details and statistics in the merge request'
+
+[5860] ListMarker '• '
+
+[6707] StaticText 'High-level vulnerability statistics across projects and groups'
+
+[5862] ListMarker '• '
+
+[6708] StaticText 'Runtime security metrics for application environments'
+
+[5864] ListMarker '• '
+
+[6709] StaticText 'More scan types, including DAST, Dependency Scanning, Fuzzing, and Licence Compliance'
+
+[6165] link 'Upgrade or start a free trial'
+
+[6162] button 'Close banner'
+
+[6171] tablist '' multiselectable: False orientation: horizontal
+
+[6173] tab 'Security testing' selected: True controls: __BVID__9
+
+[6175] tab 'Compliance' selected: False controls: __BVID__12
+
+[6177] tab 'Vulnerability Management' selected: False controls: __BVID__15
+
+[5824] tabpanel 'Security testing'
+
+[6811] heading 'Security testing'
+
+[6828] StaticText 'The status of the tools only applies to the default branch and is based on the '
+
+[6829] link 'latest pipeline'
+
+[6830] StaticText '.'
+
+[6850] heading 'Static Application Security Testing (SAST)'
+
+[6854] StaticText 'Not enabled'
+
+[6855] StaticText 'Analyze your source code for known vulnerabilities. '
+
+[6856] link 'Learn more'
+
+[6849] button 'Configure with a merge request'</pre><div>
+
+[6096] where [6096] is link 'Create new...' focused: True expanded: False</div>
+
+[6096]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We are on the GitLab page for the "web_arena" project. To create a new public project named "web_arena", we need to click on the "Create new..." link. In summary, the next action I will perform is `click [6096]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[5804] RootWebArea 'Security Configuration · crew / web_arena · GitLab' focused: True
+
+[5869] link 'Skip to content'
+
+[6010] link 'Dashboard'
+
+[6090] button '' hasPopup: menu expanded: False
+
+[5816] textbox 'Search GitLab' required: False
+
+[6727] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6096] link 'Create new...' focused: True expanded: True
+
+[7037] StaticText 'This project'
+
+[7026] link 'New issue'
+
+[7041] link 'New merge request'
+
+[7031] link 'New snippet'
+
+[7035] link 'Invite members '
+
+[7039] StaticText 'GitLab'
+
+[7020] link 'New project/repository'
+
+[7043] link 'New group'
+
+[7034] link 'New snippet'
+
+[6098] link 'Issues'
+
+[6292] generic '13 assigned issues'
+
+[6099] link 'Merge requests'
+
+[6294] generic '8 merge requests'
+
+[6101] link 'To-Do List'
+
+[6310] generic 'Todos count'
+
+[6748] StaticText '5'
+
+[6102] link 'Help'
+
+[6104] link 'Byte Blaze'
+
+[6344] img 'Byte Blaze'
+
+[5870] complementary 'Project navigation'
+
+[6043] listitem 'web_arena'
+
+[6106] link 'web_arena'
+
+[6385] StaticText 'W'
+
+[6107] link 'Project information'
+
+[6109] link 'Repository'
+
+[6111] link 'Issues'
+
+[6113] link 'Merge requests'
+
+[6115] link 'CI/CD'
+
+[6117] link 'Security & Compliance'
+
+[6779] link 'Configuration'
+
+[6119] link 'Deployments'
+
+[6121] link 'Packages and registries'
+
+[6123] link 'Infrastructure'
+
+[6125] link 'Monitor'
+
+[6127] link 'Analytics'
+
+[6129] link 'Wiki'
+
+[6131] link 'Snippets'
+
+[6133] link 'Settings'
+
+[6001] button 'Collapse sidebar'
+
+[5874] navigation 'Breadcrumbs'
+
+[6150] link 'crew'
+
+[6152] link 'web_arena'
+
+[6154] link 'Security Configuration'
+
+[5820] main ''
+
+[5821] article ''
+
+[6084] status '' live: polite atomic: True relevant: additions text
+
+[6698] StaticText 'Quickly enable all continuous testing and compliance tools by enabling '
+
+[6699] link 'Auto DevOps'
+
+[6700] link 'Enable Auto DevOps'
+
+[6085] button 'Dismiss'
+
+[6006] HeaderAsNonLandmark ''
+
+[6086] heading 'Security Configuration'
+
+[6163] heading 'Secure your project'
+
+[6167] StaticText 'Immediately begin risk analysis and remediation with application security features. Start with SAST and Secret Detection, available to all plans. Upgrade to Ultimate to get all features, including:'
+
+[5858] ListMarker '• '
+
+[6706] StaticText 'Vulnerability details and statistics in the merge request'
+
+[5860] ListMarker '• '
+
+[6707] StaticText 'High-level vulnerability statistics across projects and groups'
+
+[5862] ListMarker '• '
+
+[6708] StaticText 'Runtime security metrics for application environments'
+
+[5864] ListMarker '• '
+
+[6709] StaticText 'More scan types, including DAST, Dependency Scanning, Fuzzing, and Licence Compliance'
+
+[6165] link 'Upgrade or start a free trial'
+
+[6162] button 'Close banner'
+
+[6171] tablist '' multiselectable: False orientation: horizontal
+
+[6173] tab 'Security testing' selected: True controls: __BVID__9
+
+[6175] tab 'Compliance' selected: False controls: __BVID__12
+
+[6177] tab 'Vulnerability Management' selected: False controls: __BVID__15
+
+[5824] tabpanel 'Security testing'
+
+[6811] heading 'Security testing'
+
+[6828] StaticText 'The status of the tools only applies to the default branch and is based on the '
+
+[6829] link 'latest pipeline'
+
+[6830] StaticText '.'
+
+[6850] heading 'Static Application Security Testing (SAST)'
+
+[6854] StaticText 'Not enabled'
+
+[6855] StaticText 'Analyze your source code for known vulnerabilities. '
+
+[6856] link 'Learn more'
+
+[6849] button 'Configure with a merge request'</pre><div>
+
+[6096]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[6096]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '6096', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We are on the GitLab page for the "web_arena" project. To create a new public project named "web_arena", we need to click on the "Create new..." link. In summary, the next action I will perform is ```click [6096]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [6096] where [6096] is [6096] link 'Create new...' focused: True expanded: True</pre></div></div>
+
+[5804] RootWebArea 'Security Configuration · crew / web_arena · GitLab' focused: True
+
+[5869] link 'Skip to content'
+
+[6010] link 'Dashboard'
+
+[6090] button '' hasPopup: menu expanded: False
+
+[5816] textbox 'Search GitLab' required: False
+
+[6727] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6096] link 'Create new...' focused: True expanded: False
+
+[6098] link 'Issues'
+
+[6292] generic '13 assigned issues'
+
+[6099] link 'Merge requests'
+
+[6294] generic '8 merge requests'
+
+[6101] link 'To-Do List'
+
+[6310] generic 'Todos count'
+
+[6748] StaticText '5'
+
+[6102] link 'Help'
+
+[6104] link 'Byte Blaze'
+
+[6344] img 'Byte Blaze'
+
+[5870] complementary 'Project navigation'
+
+[6043] listitem 'web_arena'
+
+[6106] link 'web_arena'
+
+[6385] StaticText 'W'
+
+[6107] link 'Project information'
+
+[6109] link 'Repository'
+
+[6111] link 'Issues'
+
+[6113] link 'Merge requests'
+
+[6115] link 'CI/CD'
+
+[6117] link 'Security & Compliance'
+
+[6779] link 'Configuration'
+
+[6119] link 'Deployments'
+
+[6121] link 'Packages and registries'
+
+[6123] link 'Infrastructure'
+
+[6125] link 'Monitor'
+
+[6127] link 'Analytics'
+
+[6129] link 'Wiki'
+
+[6131] link 'Snippets'
+
+[6133] link 'Settings'
+
+[6001] button 'Collapse sidebar'
+
+[5874] navigation 'Breadcrumbs'
+
+[6150] link 'crew'
+
+[6152] link 'web_arena'
+
+[6154] link 'Security Configuration'
+
+[5820] main ''
+
+[5821] article ''
+
+[6084] status '' live: polite atomic: True relevant: additions text
+
+[6698] StaticText 'Quickly enable all continuous testing and compliance tools by enabling '
+
+[6699] link 'Auto DevOps'
+
+[6700] link 'Enable Auto DevOps'
+
+[6085] button 'Dismiss'
+
+[6006] HeaderAsNonLandmark ''
+
+[6086] heading 'Security Configuration'
+
+[6163] heading 'Secure your project'
+
+[6167] StaticText 'Immediately begin risk analysis and remediation with application security features. Start with SAST and Secret Detection, available to all plans. Upgrade to Ultimate to get all features, including:'
+
+[5858] ListMarker '• '
+
+[6706] StaticText 'Vulnerability details and statistics in the merge request'
+
+[5860] ListMarker '• '
+
+[6707] StaticText 'High-level vulnerability statistics across projects and groups'
+
+[5862] ListMarker '• '
+
+[6708] StaticText 'Runtime security metrics for application environments'
+
+[5864] ListMarker '• '
+
+[6709] StaticText 'More scan types, including DAST, Dependency Scanning, Fuzzing, and Licence Compliance'
+
+[6165] link 'Upgrade or start a free trial'
+
+[6162] button 'Close banner'
+
+[6171] tablist '' multiselectable: False orientation: horizontal
+
+[6173] tab 'Security testing' selected: True controls: __BVID__9
+
+[6175] tab 'Compliance' selected: False controls: __BVID__12
+
+[6177] tab 'Vulnerability Management' selected: False controls: __BVID__15
+
+[5824] tabpanel 'Security testing'
+
+[6811] heading 'Security testing'
+
+[6828] StaticText 'The status of the tools only applies to the default branch and is based on the '
+
+[6829] link 'latest pipeline'
+
+[6830] StaticText '.'
+
+[6850] heading 'Static Application Security Testing (SAST)'
+
+[6854] StaticText 'Not enabled'
+
+[6855] StaticText 'Analyze your source code for known vulnerabilities. '
+
+[6856] link 'Learn more'
+
+[6849] button 'Configure with a merge request'</pre><div>
+
+[6096] where [6096] is link 'Create new...' focused: True expanded: True</div>
+
+[6096]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to create a new public project called "web_arena" and add Abishek and Vinta as members. Currently, I am on the "Security Configuration" page of the existing "web_arena" project in GitLab.\n\nTo create a new project, I need to click on the "Create new..." link. In summary, the next action I will perform is `click [6096]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[5804] RootWebArea 'Security Configuration · crew / web_arena · GitLab' focused: True
+
+[5869] link 'Skip to content'
+
+[6010] link 'Dashboard'
+
+[6090] button '' hasPopup: menu expanded: False
+
+[5816] textbox 'Search GitLab' required: False
+
+[6727] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6096] link 'Create new...' focused: True expanded: False
+
+[6098] link 'Issues'
+
+[6292] generic '13 assigned issues'
+
+[6099] link 'Merge requests'
+
+[6294] generic '8 merge requests'
+
+[6101] link 'To-Do List'
+
+[6310] generic 'Todos count'
+
+[6748] StaticText '5'
+
+[6102] link 'Help'
+
+[6104] link 'Byte Blaze'
+
+[6344] img 'Byte Blaze'
+
+[5870] complementary 'Project navigation'
+
+[6043] listitem 'web_arena'
+
+[6106] link 'web_arena'
+
+[6385] StaticText 'W'
+
+[6107] link 'Project information'
+
+[6109] link 'Repository'
+
+[6111] link 'Issues'
+
+[6113] link 'Merge requests'
+
+[6115] link 'CI/CD'
+
+[6117] link 'Security & Compliance'
+
+[6779] link 'Configuration'
+
+[6119] link 'Deployments'
+
+[6121] link 'Packages and registries'
+
+[6123] link 'Infrastructure'
+
+[6125] link 'Monitor'
+
+[6127] link 'Analytics'
+
+[6129] link 'Wiki'
+
+[6131] link 'Snippets'
+
+[6133] link 'Settings'
+
+[6001] button 'Collapse sidebar'
+
+[5874] navigation 'Breadcrumbs'
+
+[6150] link 'crew'
+
+[6152] link 'web_arena'
+
+[6154] link 'Security Configuration'
+
+[5820] main ''
+
+[5821] article ''
+
+[6084] status '' live: polite atomic: True relevant: additions text
+
+[6698] StaticText 'Quickly enable all continuous testing and compliance tools by enabling '
+
+[6699] link 'Auto DevOps'
+
+[6700] link 'Enable Auto DevOps'
+
+[6085] button 'Dismiss'
+
+[6006] HeaderAsNonLandmark ''
+
+[6086] heading 'Security Configuration'
+
+[6163] heading 'Secure your project'
+
+[6167] StaticText 'Immediately begin risk analysis and remediation with application security features. Start with SAST and Secret Detection, available to all plans. Upgrade to Ultimate to get all features, including:'
+
+[5858] ListMarker '• '
+
+[6706] StaticText 'Vulnerability details and statistics in the merge request'
+
+[5860] ListMarker '• '
+
+[6707] StaticText 'High-level vulnerability statistics across projects and groups'
+
+[5862] ListMarker '• '
+
+[6708] StaticText 'Runtime security metrics for application environments'
+
+[5864] ListMarker '• '
+
+[6709] StaticText 'More scan types, including DAST, Dependency Scanning, Fuzzing, and Licence Compliance'
+
+[6165] link 'Upgrade or start a free trial'
+
+[6162] button 'Close banner'
+
+[6171] tablist '' multiselectable: False orientation: horizontal
+
+[6173] tab 'Security testing' selected: True controls: __BVID__9
+
+[6175] tab 'Compliance' selected: False controls: __BVID__12
+
+[6177] tab 'Vulnerability Management' selected: False controls: __BVID__15
+
+[5824] tabpanel 'Security testing'
+
+[6811] heading 'Security testing'
+
+[6828] StaticText 'The status of the tools only applies to the default branch and is based on the '
+
+[6829] link 'latest pipeline'
+
+[6830] StaticText '.'
+
+[6850] heading 'Static Application Security Testing (SAST)'
+
+[6854] StaticText 'Not enabled'
+
+[6855] StaticText 'Analyze your source code for known vulnerabilities. '
+
+[6856] link 'Learn more'
+
+[6849] button 'Configure with a merge request'</pre><div>
+
+[6096]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[6096]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '6096', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [6096]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [6096] where [6096] is [6096] link 'Create new...' focused: True expanded: False</pre></div></div>
+
+[5804] RootWebArea 'Security Configuration · crew / web_arena · GitLab' focused: True
+
+[5869] link 'Skip to content'
+
+[6010] link 'Dashboard'
+
+[6090] button '' hasPopup: menu expanded: False
+
+[5816] textbox 'Search GitLab' required: False
+
+[6727] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6096] link 'Create new...' focused: True expanded: True describedby: gl-tooltip1
+
+[7180] StaticText 'This project'
+
+[7173] link 'New issue'
+
+[7174] link 'New merge request'
+
+[7179] link 'New snippet'
+
+[7184] link 'Invite members '
+
+[7171] StaticText 'GitLab'
+
+[7172] link 'New project/repository'
+
+[7162] link 'New group'
+
+[7187] link 'New snippet'
+
+[6098] link 'Issues'
+
+[6292] generic '13 assigned issues'
+
+[6099] link 'Merge requests'
+
+[6294] generic '8 merge requests'
+
+[6101] link 'To-Do List'
+
+[6310] generic 'Todos count'
+
+[6748] StaticText '5'
+
+[6102] link 'Help'
+
+[6104] link 'Byte Blaze'
+
+[6344] img 'Byte Blaze'
+
+[5870] complementary 'Project navigation'
+
+[6043] listitem 'web_arena'
+
+[6106] link 'web_arena'
+
+[6385] StaticText 'W'
+
+[6107] link 'Project information'
+
+[6109] link 'Repository'
+
+[6111] link 'Issues'
+
+[6113] link 'Merge requests'
+
+[6115] link 'CI/CD'
+
+[6117] link 'Security & Compliance'
+
+[6779] link 'Configuration'
+
+[6119] link 'Deployments'
+
+[6121] link 'Packages and registries'
+
+[6123] link 'Infrastructure'
+
+[6125] link 'Monitor'
+
+[6127] link 'Analytics'
+
+[6129] link 'Wiki'
+
+[6131] link 'Snippets'
+
+[6133] link 'Settings'
+
+[6001] button 'Collapse sidebar'
+
+[5874] navigation 'Breadcrumbs'
+
+[6150] link 'crew'
+
+[6152] link 'web_arena'
+
+[6154] link 'Security Configuration'
+
+[5820] main ''
+
+[5821] article ''
+
+[6084] status '' live: polite atomic: True relevant: additions text
+
+[6698] StaticText 'Quickly enable all continuous testing and compliance tools by enabling '
+
+[6699] link 'Auto DevOps'
+
+[6700] link 'Enable Auto DevOps'
+
+[6085] button 'Dismiss'
+
+[6006] HeaderAsNonLandmark ''
+
+[6086] heading 'Security Configuration'
+
+[6163] heading 'Secure your project'
+
+[6167] StaticText 'Immediately begin risk analysis and remediation with application security features. Start with SAST and Secret Detection, available to all plans. Upgrade to Ultimate to get all features, including:'
+
+[5858] ListMarker '• '
+
+[6706] StaticText 'Vulnerability details and statistics in the merge request'
+
+[5860] ListMarker '• '
+
+[6707] StaticText 'High-level vulnerability statistics across projects and groups'
+
+[5862] ListMarker '• '
+
+[6708] StaticText 'Runtime security metrics for application environments'
+
+[5864] ListMarker '• '
+
+[6709] StaticText 'More scan types, including DAST, Dependency Scanning, Fuzzing, and Licence Compliance'
+
+[6165] link 'Upgrade or start a free trial'
+
+[6162] button 'Close banner'
+
+[6171] tablist '' multiselectable: False orientation: horizontal
+
+[6173] tab 'Security testing' selected: True controls: __BVID__9
+
+[6175] tab 'Compliance' selected: False controls: __BVID__12
+
+[6177] tab 'Vulnerability Management' selected: False controls: __BVID__15
+
+[5824] tabpanel 'Security testing'
+
+[6811] heading 'Security testing'
+
+[6828] StaticText 'The status of the tools only applies to the default branch and is based on the '
+
+[6829] link 'latest pipeline'
+
+[6830] StaticText '.'
+
+[6850] heading 'Static Application Security Testing (SAST)'
+
+[6854] StaticText 'Not enabled'
+
+[6855] StaticText 'Analyze your source code for known vulnerabilities. '
+
+[6856] link 'Learn more'
+
+[6849] button 'Configure with a merge request'
+
+[7191] tooltip 'Create new...'</pre><div>
+
+[6096] where [6096] is link 'Create new...' focused: True expanded: False</div>
+
+[7172]` to create a new project.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to create a new public project called "web_arena" and add Abishek and Vinta as members.\n\nTo achieve this, we need to perform the following steps:\n1. Click on the "Create new..." link to expand the options.\n2. Click on the "New project/repository" link to create a new project.\n3. Fill in the necessary information, such as the project name ("web_arena") and set the visibility to "public".\n4. Click on the "Invite members" link to add Abishek and Vinta as members.\n\nIn summary, the next action I will perform is `click [7172]` to create a new project.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[5804] RootWebArea 'Security Configuration · crew / web_arena · GitLab' focused: True
+
+[5869] link 'Skip to content'
+
+[6010] link 'Dashboard'
+
+[6090] button '' hasPopup: menu expanded: False
+
+[5816] textbox 'Search GitLab' required: False
+
+[6727] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6096] link 'Create new...' focused: True expanded: True
+
+[7180] StaticText 'This project'
+
+[7173] link 'New issue'
+
+[7174] link 'New merge request'
+
+[7179] link 'New snippet'
+
+[7184] link 'Invite members '
+
+[7171] StaticText 'GitLab'
+
+[7172] link 'New project/repository'
+
+[7162] link 'New group'
+
+[7187] link 'New snippet'
+
+[6098] link 'Issues'
+
+[6292] generic '13 assigned issues'
+
+[6099] link 'Merge requests'
+
+[6294] generic '8 merge requests'
+
+[6101] link 'To-Do List'
+
+[6310] generic 'Todos count'
+
+[6748] StaticText '5'
+
+[6102] link 'Help'
+
+[6104] link 'Byte Blaze'
+
+[6344] img 'Byte Blaze'
+
+[5870] complementary 'Project navigation'
+
+[6043] listitem 'web_arena'
+
+[6106] link 'web_arena'
+
+[6385] StaticText 'W'
+
+[6107] link 'Project information'
+
+[6109] link 'Repository'
+
+[6111] link 'Issues'
+
+[6113] link 'Merge requests'
+
+[6115] link 'CI/CD'
+
+[6117] link 'Security & Compliance'
+
+[6779] link 'Configuration'
+
+[6119] link 'Deployments'
+
+[6121] link 'Packages and registries'
+
+[6123] link 'Infrastructure'
+
+[6125] link 'Monitor'
+
+[6127] link 'Analytics'
+
+[6129] link 'Wiki'
+
+[6131] link 'Snippets'
+
+[6133] link 'Settings'
+
+[6001] button 'Collapse sidebar'
+
+[5874] navigation 'Breadcrumbs'
+
+[6150] link 'crew'
+
+[6152] link 'web_arena'
+
+[6154] link 'Security Configuration'
+
+[5820] main ''
+
+[5821] article ''
+
+[6084] status '' live: polite atomic: True relevant: additions text
+
+[6698] StaticText 'Quickly enable all continuous testing and compliance tools by enabling '
+
+[6699] link 'Auto DevOps'
+
+[6700] link 'Enable Auto DevOps'
+
+[6085] button 'Dismiss'
+
+[6006] HeaderAsNonLandmark ''
+
+[6086] heading 'Security Configuration'
+
+[6163] heading 'Secure your project'
+
+[6167] StaticText 'Immediately begin risk analysis and remediation with application security features. Start with SAST and Secret Detection, available to all plans. Upgrade to Ultimate to get all features, including:'
+
+[5858] ListMarker '• '
+
+[6706] StaticText 'Vulnerability details and statistics in the merge request'
+
+[5860] ListMarker '• '
+
+[6707] StaticText 'High-level vulnerability statistics across projects and groups'
+
+[5862] ListMarker '• '
+
+[6708] StaticText 'Runtime security metrics for application environments'
+
+[5864] ListMarker '• '
+
+[6709] StaticText 'More scan types, including DAST, Dependency Scanning, Fuzzing, and Licence Compliance'
+
+[6165] link 'Upgrade or start a free trial'
+
+[6162] button 'Close banner'
+
+[6171] tablist '' multiselectable: False orientation: horizontal
+
+[6173] tab 'Security testing' selected: True controls: __BVID__9
+
+[6175] tab 'Compliance' selected: False controls: __BVID__12
+
+[6177] tab 'Vulnerability Management' selected: False controls: __BVID__15
+
+[5824] tabpanel 'Security testing'
+
+[6811] heading 'Security testing'
+
+[6828] StaticText 'The status of the tools only applies to the default branch and is based on the '
+
+[6829] link 'latest pipeline'
+
+[6830] StaticText '.'
+
+[6850] heading 'Static Application Security Testing (SAST)'
+
+[6854] StaticText 'Not enabled'
+
+[6855] StaticText 'Analyze your source code for known vulnerabilities. '
+
+[6856] link 'Learn more'
+
+[6849] button 'Configure with a merge request'</pre><div>
+
+[7172]` to create a new project.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[7172]``` to create a new project.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '7172', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [7172]``` to create a new project.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [7172] where [7172] is [7172] link 'New project/repository'</pre></div></div>
+
+[7282] RootWebArea 'New Project · GitLab' focused: True
+
+[7537] link 'Skip to content'
+
+[8587] link 'Dashboard'
+
+[8655] button '' hasPopup: menu expanded: False
+
+[7294] textbox 'Search GitLab' required: False
+
+[8844] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8661] link 'Create new...'
+
+[8663] link 'Issues'
+
+[8748] generic '13 assigned issues'
+
+[8664] link 'Merge requests'
+
+[8750] generic '8 merge requests'
+
+[8666] link 'To-Do List'
+
+[8766] generic 'Todos count'
+
+[8667] link 'Help'
+
+[8669] link 'Byte Blaze'
+
+[8800] img 'Byte Blaze'
+
+[7298] main ''
+
+[7638] heading 'Create new project'
+
+[7645] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[7649] heading 'Create blank project'
+
+[7653] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[7657] heading 'Create from template'
+
+[7661] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[7665] heading 'Import project'
+
+[7670] StaticText 'You can also create a project from the command line. '
+
+[7671] link 'Show command'</pre><div>
+
+[7172] where [7172] is link 'New project/repository'</div>
+
+[8661]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To create a new public project "web_arena" on GitLab, I need to click on the "Create new..." link and then select the "Create blank project" option. After that, I can fill in the project details and add Abishek and Vinta as members. \n\nIn summary, the next action I will perform is `click [8661]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[7282] RootWebArea 'New Project · GitLab' focused: True
+
+[7537] link 'Skip to content'
+
+[8587] link 'Dashboard'
+
+[8655] button '' hasPopup: menu expanded: False
+
+[7294] textbox 'Search GitLab' required: False
+
+[8844] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8661] link 'Create new...'
+
+[8663] link 'Issues'
+
+[8748] generic '13 assigned issues'
+
+[8664] link 'Merge requests'
+
+[8750] generic '8 merge requests'
+
+[8666] link 'To-Do List'
+
+[8766] generic 'Todos count'
+
+[8667] link 'Help'
+
+[8669] link 'Byte Blaze'
+
+[8800] img 'Byte Blaze'
+
+[7298] main ''
+
+[7638] heading 'Create new project'
+
+[7645] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[7649] heading 'Create blank project'
+
+[7653] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[7657] heading 'Create from template'
+
+[7661] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[7665] heading 'Import project'
+
+[7670] StaticText 'You can also create a project from the command line. '
+
+[7671] link 'Show command'</pre><div>
+
+[8661]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[8661]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '8661', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To create a new public project "web_arena" on GitLab, I need to click on the "Create new..." link and then select the "Create blank project" option. After that, I can fill in the project details and add Abishek and Vinta as members. \n\nIn summary, the next action I will perform is ```click [8661]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [8661] where [8661] is [8661] link 'Create new...'</pre></div></div>
+
+[7282] RootWebArea 'New Project · GitLab' focused: True
+
+[7537] link 'Skip to content'
+
+[8587] link 'Dashboard'
+
+[8655] button '' hasPopup: menu expanded: False
+
+[7294] textbox 'Search GitLab' required: False
+
+[8844] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8661] link 'Create new...' focused: True expanded: True describedby: gl-tooltip1
+
+[8886] link 'New project/repository'
+
+[8890] link 'New group'
+
+[8885] link 'New snippet'
+
+[8663] link 'Issues'
+
+[8748] generic '13 assigned issues'
+
+[8664] link 'Merge requests'
+
+[8750] generic '8 merge requests'
+
+[8666] link 'To-Do List'
+
+[8766] generic 'Todos count'
+
+[8667] link 'Help'
+
+[8669] link 'Byte Blaze'
+
+[8800] img 'Byte Blaze'
+
+[7298] main ''
+
+[7638] heading 'Create new project'
+
+[7645] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[7649] heading 'Create blank project'
+
+[7653] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[7657] heading 'Create from template'
+
+[7661] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[7665] heading 'Import project'
+
+[7670] StaticText 'You can also create a project from the command line. '
+
+[7671] link 'Show command'
+
+[8893] tooltip 'Create new...'</pre><div>
+
+[8661] where [8661] is link 'Create new...'</div>
+
+[7645]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The current page is the "Create new project" page on GitLab. To create a new public project, I can click on the link with the text "Create blank project". I will perform the click action. In summary, the next action I will perform is `click [7645]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[7282] RootWebArea 'New Project · GitLab' focused: True
+
+[7537] link 'Skip to content'
+
+[8587] link 'Dashboard'
+
+[8655] button '' hasPopup: menu expanded: False
+
+[7294] textbox 'Search GitLab' required: False
+
+[8844] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8661] link 'Create new...' focused: True expanded: True describedby: gl-tooltip1
+
+[8886] link 'New project/repository'
+
+[8890] link 'New group'
+
+[8885] link 'New snippet'
+
+[8663] link 'Issues'
+
+[8748] generic '13 assigned issues'
+
+[8664] link 'Merge requests'
+
+[8750] generic '8 merge requests'
+
+[8666] link 'To-Do List'
+
+[8766] generic 'Todos count'
+
+[8667] link 'Help'
+
+[8669] link 'Byte Blaze'
+
+[8800] img 'Byte Blaze'
+
+[7298] main ''
+
+[7638] heading 'Create new project'
+
+[7645] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[7649] heading 'Create blank project'
+
+[7653] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[7657] heading 'Create from template'
+
+[7661] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[7665] heading 'Import project'
+
+[7670] StaticText 'You can also create a project from the command line. '
+
+[7671] link 'Show command'
+
+[8893] tooltip 'Create new...'</pre><div>
+
+[7645]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+

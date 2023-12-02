@@ -1,0 +1,48 @@
+Tab 0 (current): NodeJS · Search · GitLab | Tab 1: GitLab.org / project-templates / express · GitLab
+
+[5443] RootWebArea 'NodeJS · Search · GitLab' focused: True
+	[5511] link 'Skip to content'
+	[5620] link 'Dashboard'
+	[5672] button '' hasPopup: menu expanded: False
+	[5678] link 'Create new...'
+	[5680] link 'Issues'
+		[5833] generic '13 assigned issues'
+	[5681] link 'Merge requests'
+		[5835] generic '8 merge requests'
+	[5683] link 'To-Do List'
+		[5851] generic 'Todos count'
+	[5684] link 'Help'
+	[5686] link 'Byte Blaze'
+		[5885] img 'Byte Blaze'
+	[5449] main ''
+		[5612] heading 'Search'
+		[5657] StaticText 'What are you searching for?'
+		[5454] group ''
+			[5455] searchbox 'Search for projects, issues, etc.'
+				[5923] StaticText 'NodeJS'
+			[5658] button 'Clear'
+			[5694] button 'Search'
+		[5661] StaticText 'Group'
+		[5662] button 'Any' hasPopup: menu expanded: False
+		[5664] StaticText 'Project'
+		[5665] button 'Any' hasPopup: menu expanded: False
+		[5614] separator '' orientation: horizontal
+		[5936] link 'Projects 1'
+		[5937] link 'Issues 99 Result count is over limit.'
+			[6018] img 'Result count is over limit.'
+		[5938] link 'Merge requests 99 Result count is over limit.'
+			[6023] img 'Result count is over limit.'
+		[5939] link 'Milestones 0'
+		[5940] link 'Users 0'
+		[5941] link 'B'
+		[5944] heading 'OptimalBits / bull'
+			[5946] link 'OptimalBits / bull'
+		[5945] generic 'Public - The project can be accessed without any authentication.'
+		[6037] StaticText 'Premium Queue package for handling distributed jobs and messages in NodeJS.'
+		[5963] link '32'
+		[5964] link '0'
+		[5965] link '9'
+		[5966] link '175'
+		[5975] StaticText 'Updated '
+		[5489] time 'Mar 20, 2023 9:57am EDT'
+			[5976] StaticText '5 months ago'</pre><div>

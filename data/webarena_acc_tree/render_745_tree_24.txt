@@ -1,0 +1,39 @@
+Tab 0 (current): ome-llms · Search · GitLab
+
+[6370] RootWebArea 'ome-llms · Search · GitLab' focused: True
+	[6420] link 'Skip to content'
+	[6532] link 'Dashboard'
+	[6588] button '' hasPopup: menu expanded: False
+	[6594] link 'Create new...' focused: True expanded: True describedby: gl-tooltip1
+	[6914] link 'New project/repository'
+	[6918] link 'New group'
+	[6920] link 'New snippet'
+	[6596] link 'Issues'
+		[6751] generic '13 assigned issues'
+	[6597] link 'Merge requests'
+		[6753] generic '8 merge requests'
+	[6599] link 'To-Do List'
+		[6769] generic 'Todos count'
+	[6600] link 'Help'
+	[6602] link 'Byte Blaze'
+		[6803] img 'Byte Blaze'
+	[6376] main ''
+		[6522] heading 'Search'
+		[6569] StaticText 'What are you searching for?'
+		[6381] group ''
+			[6382] searchbox 'Search for projects, issues, etc.'
+				[6841] StaticText 'ome-llms'
+			[6570] button 'Clear'
+			[6610] button 'Search'
+		[6573] StaticText 'Group'
+		[6574] button 'Any' hasPopup: menu expanded: False
+		[6576] StaticText 'Project'
+		[6577] button 'Any' hasPopup: menu expanded: False
+		[6524] separator '' orientation: horizontal
+		[6854] link 'Projects 0'
+		[6855] link 'Issues 0'
+		[6856] link 'Merge requests 0'
+		[6857] link 'Milestones 0'
+		[6858] link 'Users 0'
+		[6581] heading " We couldn't find any projects matching ome-llms"
+	[6923] tooltip 'Create new...'</pre><div>

@@ -1,0 +1,6136 @@
+[1] RootWebArea 'Files · github/fork/chtitux/addRssFeed · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[130] link 'Skip to content'
+
+[255] link 'Dashboard'
+
+[350] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1145] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[356] link 'Create new...'
+
+[358] link 'Issues'
+
+[653] generic '13 assigned issues'
+
+[359] link 'Merge requests'
+
+[655] generic '8 merge requests'
+
+[361] link 'To-Do List'
+
+[671] generic 'Todos count'
+
+[362] link 'Help'
+
+[364] link 'Byte Blaze'
+
+[705] img 'Byte Blaze'
+
+[131] complementary 'Project navigation'
+
+[288] listitem 'archive-my-tweets'
+
+[366] link 'archive-my-tweets'
+
+[746] StaticText 'A'
+
+[367] link 'Project information'
+
+[369] link 'Repository'
+
+[1185] link 'Files'
+
+[1186] link 'Commits'
+
+[1187] link 'Branches'
+
+[1188] link 'Tags'
+
+[1189] link 'Contributors'
+
+[1190] link 'Graph'
+
+[1191] link 'Compare'
+
+[371] link 'Issues'
+
+[787] StaticText '14'
+
+[373] link 'Merge requests'
+
+[375] link 'CI/CD'
+
+[377] link 'Deployments'
+
+[379] link 'Packages and registries'
+
+[381] link 'Monitor'
+
+[383] link 'Analytics'
+
+[385] link 'Wiki'
+
+[387] link 'Snippets'
+
+[247] button 'Collapse sidebar'
+
+[135] navigation 'Breadcrumbs'
+
+[404] link 'Andrew M. Whalen'
+
+[406] link 'archive-my-tweets'
+
+[408] link 'Repository'
+
+[17] main ''
+
+[329] img 'user avatar'
+
+[333] link 'Merge pull request #3 from mkody/addRssFeed'
+
+[334] button 'Toggle commit description'
+
+[339] StaticText 'Théophile Helleboid - chtitux authored '
+
+[340] time 'Jan 29, 2016 6:05am EST'
+
+[412] StaticText '7 years ago'
+
+[344] link 'Pipeline: failed'
+
+[413] generic 'Pipeline: failed'
+
+[938] img 'status_failed'
+
+[343] group ''
+
+[415] StaticText 'f47ce9cd'
+
+[346] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[942] button 'github/fork/chtitux/addRssFeed' hasPopup: menu expanded: False
+
+[44] navigation 'Files breadcrumb'
+
+[1286] link 'archive-my-tweets'
+
+[1614] button 'Add to tree' hasPopup: menu expanded: False
+
+[418] link 'History'
+
+[419] link 'Find file'
+
+[426] link 'Web IDE'
+
+[427] button 'Download'
+
+[949] StaticText 'Select Archive Format'
+
+[429] link 'Clone'
+
+[43] table 'Files, directories, and submodules in the path / for commit reference github/fork/chtitux/addRssFeed' live: polite atomic: False relevant: additions text
+
+[1002] row ''
+
+[1003] columnheader 'Name' required: False
+
+[1004] columnheader 'Last commit' required: False
+
+[1005] columnheader 'Last update' required: False
+
+[1006] row ''
+
+[1027] gridcell 'amt' required: False
+
+[1300] link 'amt'
+
+[1028] gridcell 'more style cleanup' required: False
+
+[1306] link 'more style cleanup'
+
+[1029] gridcell '9 years ago' required: False
+
+[1309] time 'Sep 7, 2014 4:03pm EDT'
+
+[1007] row ''
+
+[1030] gridcell 'assets' required: False
+
+[1311] link 'assets'
+
+[1031] gridcell 'redesigned with bootstrap, responsive design, fixed some interface bugs, tweaked interface text, added link for favorite tweets' required: False
+
+[1317] link 'redesigned with bootstrap, responsive design, fixed some interface bugs, tweaked interface text, added link for favorite tweets'
+
+[1032] gridcell '10 years ago' required: False
+
+[1320] time 'Jan 20, 2013 10:02pm EST'
+
+[1008] row ''
+
+[1033] gridcell 'build' required: False
+
+[1322] link 'build'
+
+[1034] gridcell 'added ant build and fixed some tests' required: False
+
+[1328] link 'added ant build and fixed some tests'
+
+[1035] gridcell '9 years ago' required: False
+
+[1331] time 'Sep 7, 2014 3:21pm EDT'
+
+[1009] row ''
+
+[1036] gridcell 'css' required: False
+
+[1333] link 'css'
+
+[1037] gridcell 'completely refactored with MVC architecture, added tests, added self-installer' required: False
+
+[1339] link 'completely refactored with MVC architecture, added tests, added self-installer'
+
+[1038] gridcell '10 years ago' required: False
+
+[1342] time 'Jan 30, 2013 4:14pm EST'
+
+[1010] row ''
+
+[1039] gridcell 'doc' required: False
+
+[1344] link 'doc'
+
+[1040] gridcell 'Added document with nginx rewrite rules' required: False
+
+[1350] link 'Added document with nginx rewrite rules'
+
+[1041] gridcell '9 years ago' required: False
+
+[1353] time 'Feb 8, 2014 11:38am EST'
+
+[1011] row ''
+
+[1042] gridcell 'img' required: False
+
+[1355] link 'img'
+
+[1043] gridcell 'updated screenshots' required: False
+
+[1361] link 'updated screenshots'
+
+[1044] gridcell '10 years ago' required: False
+
+[1364] time 'Jul 2, 2013 3:24pm EDT'
+
+[1012] row ''
+
+[1045] gridcell 'json' required: False
+
+[1366] link 'json'
+
+[1046] gridcell 'added twitter archive import functionality, updated readme with instructions' required: False
+
+[1372] link 'added twitter archive import functionality, updated readme with instructions'
+
+[1047] gridcell '10 years ago' required: False
+
+[1375] time 'Jan 22, 2013 12:41pm EST'
+
+[1013] row ''
+
+[1048] gridcell 'tests' required: False
+
+[1377] link 'tests'
+
+[1049] gridcell 'added ant build and fixed some tests' required: False
+
+[1383] link 'added ant build and fixed some tests'
+
+[1050] gridcell '9 years ago' required: False
+
+[1386] time 'Sep 7, 2014 3:21pm EDT'
+
+[1014] row ''
+
+[1051] gridcell 'themes' required: False
+
+[1388] link 'themes'
+
+[1052] gridcell 'Escape & with &amp; in link rel=self' required: False
+
+[1394] link 'Escape & with &amp; in link rel=self'
+
+[1053] gridcell '8 years ago' required: False
+
+[1397] time 'Sep 7, 2015 11:51am EDT'
+
+[1015] row ''
+
+[1054] gridcell 'vendor/tijsverkoyen/TwitterOAuth' required: False
+
+[1399] link 'vendor/tijsverkoyen/TwitterOAuth'
+
+[1055] gridcell 'fixed rate limit header issue, fixed some undefined variable notices' required: False
+
+[1405] link 'fixed rate limit header issue, fixed some undefined variable notices'
+
+[1056] gridcell '10 years ago' required: False
+
+[1408] time 'Jun 27, 2013 11:34am EDT'
+
+[1016] row ''
+
+[1057] gridcell '.gitignore' required: False
+
+[1410] link '.gitignore'
+
+[1058] gridcell 'added ant build and fixed some tests' required: False
+
+[1416] link 'added ant build and fixed some tests'
+
+[1059] gridcell '9 years ago' required: False
+
+[1419] time 'Sep 7, 2014 3:21pm EDT'</pre><div>
+
+[1187]` to navigate to the "Commits" section.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page lists the files and commits related to the project. I can navigate to the "Commits" section to get more information about the commits. Then, I can search for the branch "php52" to find the contributor with the most commits. I can then click on their profile to get their full name, GitLab account name, location, and email address. In summary, the next action I will perform is `click [1187]` to navigate to the "Commits" section.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Files · github/fork/chtitux/addRssFeed · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[130] link 'Skip to content'
+
+[255] link 'Dashboard'
+
+[350] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1145] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[356] link 'Create new...'
+
+[358] link 'Issues'
+
+[653] generic '13 assigned issues'
+
+[359] link 'Merge requests'
+
+[655] generic '8 merge requests'
+
+[361] link 'To-Do List'
+
+[671] generic 'Todos count'
+
+[362] link 'Help'
+
+[364] link 'Byte Blaze'
+
+[705] img 'Byte Blaze'
+
+[131] complementary 'Project navigation'
+
+[288] listitem 'archive-my-tweets'
+
+[366] link 'archive-my-tweets'
+
+[746] StaticText 'A'
+
+[367] link 'Project information'
+
+[369] link 'Repository'
+
+[1185] link 'Files'
+
+[1186] link 'Commits'
+
+[1187] link 'Branches'
+
+[1188] link 'Tags'
+
+[1189] link 'Contributors'
+
+[1190] link 'Graph'
+
+[1191] link 'Compare'
+
+[371] link 'Issues'
+
+[787] StaticText '14'
+
+[373] link 'Merge requests'
+
+[375] link 'CI/CD'
+
+[377] link 'Deployments'
+
+[379] link 'Packages and registries'
+
+[381] link 'Monitor'
+
+[383] link 'Analytics'
+
+[385] link 'Wiki'
+
+[387] link 'Snippets'
+
+[247] button 'Collapse sidebar'
+
+[135] navigation 'Breadcrumbs'
+
+[404] link 'Andrew M. Whalen'
+
+[406] link 'archive-my-tweets'
+
+[408] link 'Repository'
+
+[17] main ''
+
+[329] img 'user avatar'
+
+[333] link 'Merge pull request #3 from mkody/addRssFeed'
+
+[334] button 'Toggle commit description'
+
+[339] StaticText 'Théophile Helleboid - chtitux authored '
+
+[340] time 'Jan 29, 2016 6:05am EST'
+
+[412] StaticText '7 years ago'
+
+[344] link 'Pipeline: failed'
+
+[413] generic 'Pipeline: failed'
+
+[938] img 'status_failed'
+
+[343] group ''
+
+[415] StaticText 'f47ce9cd'
+
+[346] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[942] button 'github/fork/chtitux/addRssFeed' hasPopup: menu expanded: False
+
+[44] navigation 'Files breadcrumb'
+
+[1286] link 'archive-my-tweets'
+
+[1614] button 'Add to tree' hasPopup: menu expanded: False
+
+[418] link 'History'
+
+[419] link 'Find file'
+
+[426] link 'Web IDE'
+
+[427] button 'Download'
+
+[949] StaticText 'Select Archive Format'
+
+[429] link 'Clone'
+
+[43] table 'Files, directories, and submodules in the path / for commit reference github/fork/chtitux/addRssFeed' live: polite atomic: False relevant: additions text
+
+[1002] row ''
+
+[1003] columnheader 'Name' required: False
+
+[1004] columnheader 'Last commit' required: False
+
+[1005] columnheader 'Last update' required: False
+
+[1006] row ''
+
+[1027] gridcell 'amt' required: False
+
+[1300] link 'amt'
+
+[1028] gridcell 'more style cleanup' required: False
+
+[1306] link 'more style cleanup'
+
+[1029] gridcell '9 years ago' required: False
+
+[1309] time 'Sep 7, 2014 4:03pm EDT'
+
+[1007] row ''
+
+[1030] gridcell 'assets' required: False
+
+[1311] link 'assets'
+
+[1031] gridcell 'redesigned with bootstrap, responsive design, fixed some interface bugs, tweaked interface text, added link for favorite tweets' required: False
+
+[1317] link 'redesigned with bootstrap, responsive design, fixed some interface bugs, tweaked interface text, added link for favorite tweets'
+
+[1032] gridcell '10 years ago' required: False
+
+[1320] time 'Jan 20, 2013 10:02pm EST'
+
+[1008] row ''
+
+[1033] gridcell 'build' required: False
+
+[1322] link 'build'
+
+[1034] gridcell 'added ant build and fixed some tests' required: False
+
+[1328] link 'added ant build and fixed some tests'
+
+[1035] gridcell '9 years ago' required: False
+
+[1331] time 'Sep 7, 2014 3:21pm EDT'
+
+[1009] row ''
+
+[1036] gridcell 'css' required: False
+
+[1333] link 'css'
+
+[1037] gridcell 'completely refactored with MVC architecture, added tests, added self-installer' required: False
+
+[1339] link 'completely refactored with MVC architecture, added tests, added self-installer'
+
+[1038] gridcell '10 years ago' required: False
+
+[1342] time 'Jan 30, 2013 4:14pm EST'
+
+[1010] row ''
+
+[1039] gridcell 'doc' required: False
+
+[1344] link 'doc'
+
+[1040] gridcell 'Added document with nginx rewrite rules' required: False
+
+[1350] link 'Added document with nginx rewrite rules'
+
+[1041] gridcell '9 years ago' required: False
+
+[1353] time 'Feb 8, 2014 11:38am EST'
+
+[1011] row ''
+
+[1042] gridcell 'img' required: False
+
+[1355] link 'img'
+
+[1043] gridcell 'updated screenshots' required: False
+
+[1361] link 'updated screenshots'
+
+[1044] gridcell '10 years ago' required: False
+
+[1364] time 'Jul 2, 2013 3:24pm EDT'
+
+[1012] row ''
+
+[1045] gridcell 'json' required: False
+
+[1366] link 'json'
+
+[1046] gridcell 'added twitter archive import functionality, updated readme with instructions' required: False
+
+[1372] link 'added twitter archive import functionality, updated readme with instructions'
+
+[1047] gridcell '10 years ago' required: False
+
+[1375] time 'Jan 22, 2013 12:41pm EST'
+
+[1013] row ''
+
+[1048] gridcell 'tests' required: False
+
+[1377] link 'tests'
+
+[1049] gridcell 'added ant build and fixed some tests' required: False
+
+[1383] link 'added ant build and fixed some tests'
+
+[1050] gridcell '9 years ago' required: False
+
+[1386] time 'Sep 7, 2014 3:21pm EDT'
+
+[1014] row ''
+
+[1051] gridcell 'themes' required: False
+
+[1388] link 'themes'
+
+[1052] gridcell 'Escape & with &amp; in link rel=self' required: False
+
+[1394] link 'Escape & with &amp; in link rel=self'
+
+[1053] gridcell '8 years ago' required: False
+
+[1397] time 'Sep 7, 2015 11:51am EDT'
+
+[1015] row ''
+
+[1054] gridcell 'vendor/tijsverkoyen/TwitterOAuth' required: False
+
+[1399] link 'vendor/tijsverkoyen/TwitterOAuth'
+
+[1055] gridcell 'fixed rate limit header issue, fixed some undefined variable notices' required: False
+
+[1405] link 'fixed rate limit header issue, fixed some undefined variable notices'
+
+[1056] gridcell '10 years ago' required: False
+
+[1408] time 'Jun 27, 2013 11:34am EDT'
+
+[1016] row ''
+
+[1057] gridcell '.gitignore' required: False
+
+[1410] link '.gitignore'
+
+[1058] gridcell 'added ant build and fixed some tests' required: False
+
+[1416] link 'added ant build and fixed some tests'
+
+[1059] gridcell '9 years ago' required: False
+
+[1419] time 'Sep 7, 2014 3:21pm EDT'</pre><div>
+
+[1187]` to navigate to the "Commits" section.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[1187]``` to navigate to the "Commits" section.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '1187', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [1187]``` to navigate to the "Commits" section.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [1187] where [1187] is [1187] link 'Branches'</pre></div></div>
+
+[1716] RootWebArea 'Branches · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[1786] link 'Skip to content'
+
+[1918] link 'Dashboard'
+
+[2003] button '' hasPopup: menu expanded: False
+
+[1728] textbox 'Search GitLab' required: False
+
+[2496] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2009] link 'Create new...'
+
+[2011] link 'Issues'
+
+[2179] generic '13 assigned issues'
+
+[2012] link 'Merge requests'
+
+[2181] generic '8 merge requests'
+
+[2014] link 'To-Do List'
+
+[2197] generic 'Todos count'
+
+[2517] StaticText '5'
+
+[2015] link 'Help'
+
+[2017] link 'Byte Blaze'
+
+[2231] img 'Byte Blaze'
+
+[1787] complementary 'Project navigation'
+
+[1951] listitem 'archive-my-tweets'
+
+[2019] link 'archive-my-tweets'
+
+[2272] StaticText 'A'
+
+[2020] link 'Project information'
+
+[2022] link 'Repository'
+
+[2536] link 'Files'
+
+[2537] link 'Commits'
+
+[2538] link 'Branches'
+
+[2539] link 'Tags'
+
+[2540] link 'Contributors'
+
+[2541] link 'Graph'
+
+[2542] link 'Compare'
+
+[2024] link 'Issues'
+
+[2313] StaticText '14'
+
+[2026] link 'Merge requests'
+
+[2028] link 'CI/CD'
+
+[2030] link 'Deployments'
+
+[2032] link 'Packages and registries'
+
+[2034] link 'Monitor'
+
+[2036] link 'Analytics'
+
+[2038] link 'Wiki'
+
+[2040] link 'Snippets'
+
+[1904] button 'Collapse sidebar'
+
+[1791] navigation 'Breadcrumbs'
+
+[2057] link 'Andrew M. Whalen'
+
+[2059] link 'archive-my-tweets'
+
+[2061] link 'Repository'
+
+[2063] link 'Branches'
+
+[1732] main ''
+
+[1989] link 'Overview'
+
+[1990] link 'Active'
+
+[1991] link 'Stale'
+
+[1992] link 'All'
+
+[1736] group ''
+
+[1737] searchbox 'Filter by branch name'
+
+[1998] button 'Search'
+
+[2000] StaticText 'Stale branches'
+
+[2571] link 'php52'
+
+[2572] button 'Copy branch name' live: polite atomic: False relevant: additions text
+
+[2573] generic 'Merged into master'
+
+[2579] StaticText 'merged'
+
+[2655] link 'ffad76b7'
+
+[2656] StaticText ' · '
+
+[2658] link 'clean readme'
+
+[1745] time 'Jan 22, 2013 12:52pm EST'
+
+[2741] StaticText '10 years ago'
+
+[2071] generic '40 commits behind master, 0 commits ahead'
+
+[2474] link 'Compare'
+
+[2585] button 'Download'
+
+[2663] StaticText 'Select Archive Format'
+
+[2594] link 'github/fork/chtitux/addRssFeed'
+
+[2595] button 'Copy branch name' live: polite atomic: False relevant: additions text
+
+[2682] link 'f47ce9cd'
+
+[2683] StaticText ' · '
+
+[2685] link 'Merge pull request #3 from mkody/addRssFeed'
+
+[1750] time 'Jan 29, 2016 6:05am EST'
+
+[2748] StaticText '7 years ago'
+
+[2073] generic '3 commits behind master, 6 commits ahead'
+
+[2480] link 'Pipeline: failed'
+
+[2481] link 'Compare'
+
+[2607] button 'Download'
+
+[2690] StaticText 'Select Archive Format'
+
+[2622] link 'master'
+
+[2623] button 'Copy branch name' live: polite atomic: False relevant: additions text
+
+[2631] StaticText 'default'
+
+[2632] StaticText 'protected'
+
+[2709] link '28c07284'
+
+[2710] StaticText ' · '
+
+[2712] link 'Merge pull request #37 from ProgVal/patch-1'
+
+[1755] time 'Jan 1, 2017 9:33am EST'
+
+[2755] StaticText '6 years ago'
+
+[2633] button 'Download'
+
+[2718] StaticText 'Select Archive Format'</pre><div>
+
+[1187] where [1187] is link 'Branches'</div>
+
+[1187]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page contains information about the branches of a GitLab repository. The objective is to find the contributor who has the most commits to the branch "php52". To do this, we need to click on the "Branches" link. In summary, the next action I will perform is `click [1187]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1716] RootWebArea 'Branches · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[1786] link 'Skip to content'
+
+[1918] link 'Dashboard'
+
+[2003] button '' hasPopup: menu expanded: False
+
+[1728] textbox 'Search GitLab' required: False
+
+[2496] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2009] link 'Create new...'
+
+[2011] link 'Issues'
+
+[2179] generic '13 assigned issues'
+
+[2012] link 'Merge requests'
+
+[2181] generic '8 merge requests'
+
+[2014] link 'To-Do List'
+
+[2197] generic 'Todos count'
+
+[2517] StaticText '5'
+
+[2015] link 'Help'
+
+[2017] link 'Byte Blaze'
+
+[2231] img 'Byte Blaze'
+
+[1787] complementary 'Project navigation'
+
+[1951] listitem 'archive-my-tweets'
+
+[2019] link 'archive-my-tweets'
+
+[2272] StaticText 'A'
+
+[2020] link 'Project information'
+
+[2022] link 'Repository'
+
+[2536] link 'Files'
+
+[2537] link 'Commits'
+
+[2538] link 'Branches'
+
+[2539] link 'Tags'
+
+[2540] link 'Contributors'
+
+[2541] link 'Graph'
+
+[2542] link 'Compare'
+
+[2024] link 'Issues'
+
+[2313] StaticText '14'
+
+[2026] link 'Merge requests'
+
+[2028] link 'CI/CD'
+
+[2030] link 'Deployments'
+
+[2032] link 'Packages and registries'
+
+[2034] link 'Monitor'
+
+[2036] link 'Analytics'
+
+[2038] link 'Wiki'
+
+[2040] link 'Snippets'
+
+[1904] button 'Collapse sidebar'
+
+[1791] navigation 'Breadcrumbs'
+
+[2057] link 'Andrew M. Whalen'
+
+[2059] link 'archive-my-tweets'
+
+[2061] link 'Repository'
+
+[2063] link 'Branches'
+
+[1732] main ''
+
+[1989] link 'Overview'
+
+[1990] link 'Active'
+
+[1991] link 'Stale'
+
+[1992] link 'All'
+
+[1736] group ''
+
+[1737] searchbox 'Filter by branch name'
+
+[1998] button 'Search'
+
+[2000] StaticText 'Stale branches'
+
+[2571] link 'php52'
+
+[2572] button 'Copy branch name' live: polite atomic: False relevant: additions text
+
+[2573] generic 'Merged into master'
+
+[2579] StaticText 'merged'
+
+[2655] link 'ffad76b7'
+
+[2656] StaticText ' · '
+
+[2658] link 'clean readme'
+
+[1745] time 'Jan 22, 2013 12:52pm EST'
+
+[2741] StaticText '10 years ago'
+
+[2071] generic '40 commits behind master, 0 commits ahead'
+
+[2474] link 'Compare'
+
+[2585] button 'Download'
+
+[2663] StaticText 'Select Archive Format'
+
+[2594] link 'github/fork/chtitux/addRssFeed'
+
+[2595] button 'Copy branch name' live: polite atomic: False relevant: additions text
+
+[2682] link 'f47ce9cd'
+
+[2683] StaticText ' · '
+
+[2685] link 'Merge pull request #3 from mkody/addRssFeed'
+
+[1750] time 'Jan 29, 2016 6:05am EST'
+
+[2748] StaticText '7 years ago'
+
+[2073] generic '3 commits behind master, 6 commits ahead'
+
+[2480] link 'Pipeline: failed'
+
+[2481] link 'Compare'
+
+[2607] button 'Download'
+
+[2690] StaticText 'Select Archive Format'
+
+[2622] link 'master'
+
+[2623] button 'Copy branch name' live: polite atomic: False relevant: additions text
+
+[2631] StaticText 'default'
+
+[2632] StaticText 'protected'
+
+[2709] link '28c07284'
+
+[2710] StaticText ' · '
+
+[2712] link 'Merge pull request #37 from ProgVal/patch-1'
+
+[1755] time 'Jan 1, 2017 9:33am EST'
+
+[2755] StaticText '6 years ago'
+
+[2633] button 'Download'
+
+[2718] StaticText 'Select Archive Format'</pre><div>
+
+[1187]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[2538]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2538', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page contains information about the branches of a GitLab repository. The objective is to find the contributor who has the most commits to the branch "php52". To do this, we need to click on the "Branches" link. In summary, the next action I will perform is ```click [2538]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2538] where [2538] is [2538] link 'Branches'</pre></div></div>
+
+[2765] RootWebArea 'Branches · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[2835] link 'Skip to content'
+
+[2967] link 'Dashboard'
+
+[3052] button '' hasPopup: menu expanded: False
+
+[2777] textbox 'Search GitLab' required: False
+
+[3545] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3058] link 'Create new...'
+
+[3060] link 'Issues'
+
+[3228] generic '13 assigned issues'
+
+[3061] link 'Merge requests'
+
+[3230] generic '8 merge requests'
+
+[3063] link 'To-Do List'
+
+[3246] generic 'Todos count'
+
+[3566] StaticText '5'
+
+[3064] link 'Help'
+
+[3066] link 'Byte Blaze'
+
+[3280] img 'Byte Blaze'
+
+[2836] complementary 'Project navigation'
+
+[3000] listitem 'archive-my-tweets'
+
+[3068] link 'archive-my-tweets'
+
+[3321] StaticText 'A'
+
+[3069] link 'Project information'
+
+[3071] link 'Repository'
+
+[3585] link 'Files'
+
+[3586] link 'Commits'
+
+[3587] link 'Branches'
+
+[3588] link 'Tags'
+
+[3589] link 'Contributors'
+
+[3590] link 'Graph'
+
+[3591] link 'Compare'
+
+[3073] link 'Issues'
+
+[3362] StaticText '14'
+
+[3075] link 'Merge requests'
+
+[3077] link 'CI/CD'
+
+[3079] link 'Deployments'
+
+[3081] link 'Packages and registries'
+
+[3083] link 'Monitor'
+
+[3085] link 'Analytics'
+
+[3087] link 'Wiki'
+
+[3089] link 'Snippets'
+
+[2953] button 'Collapse sidebar'
+
+[2840] navigation 'Breadcrumbs'
+
+[3106] link 'Andrew M. Whalen'
+
+[3108] link 'archive-my-tweets'
+
+[3110] link 'Repository'
+
+[3112] link 'Branches'
+
+[2781] main ''
+
+[3038] link 'Overview'
+
+[3039] link 'Active'
+
+[3040] link 'Stale'
+
+[3041] link 'All'
+
+[2785] group ''
+
+[2786] searchbox 'Filter by branch name'
+
+[3047] button 'Search'
+
+[3049] StaticText 'Stale branches'
+
+[3620] link 'php52'
+
+[3621] button 'Copy branch name' live: polite atomic: False relevant: additions text
+
+[3622] generic 'Merged into master'
+
+[3628] StaticText 'merged'
+
+[3704] link 'ffad76b7'
+
+[3705] StaticText ' · '
+
+[3707] link 'clean readme'
+
+[2794] time 'Jan 22, 2013 12:52pm EST'
+
+[3790] StaticText '10 years ago'
+
+[3120] generic '40 commits behind master, 0 commits ahead'
+
+[3523] link 'Compare'
+
+[3634] button 'Download'
+
+[3712] StaticText 'Select Archive Format'
+
+[3643] link 'github/fork/chtitux/addRssFeed'
+
+[3644] button 'Copy branch name' live: polite atomic: False relevant: additions text
+
+[3731] link 'f47ce9cd'
+
+[3732] StaticText ' · '
+
+[3734] link 'Merge pull request #3 from mkody/addRssFeed'
+
+[2799] time 'Jan 29, 2016 6:05am EST'
+
+[3797] StaticText '7 years ago'
+
+[3122] generic '3 commits behind master, 6 commits ahead'
+
+[3529] link 'Pipeline: failed'
+
+[3530] link 'Compare'
+
+[3656] button 'Download'
+
+[3739] StaticText 'Select Archive Format'
+
+[3671] link 'master'
+
+[3672] button 'Copy branch name' live: polite atomic: False relevant: additions text
+
+[3680] StaticText 'default'
+
+[3681] StaticText 'protected'
+
+[3758] link '28c07284'
+
+[3759] StaticText ' · '
+
+[3761] link 'Merge pull request #37 from ProgVal/patch-1'
+
+[2804] time 'Jan 1, 2017 9:33am EST'
+
+[3804] StaticText '6 years ago'
+
+[3682] button 'Download'
+
+[3767] StaticText 'Select Archive Format'</pre><div>
+
+[2538] where [2538] is link 'Branches'</div>
+
+[2538]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. The objective is to find the contributor with the most commits to the branch `php52`. \n\nTo accomplish this, we need to click on the link 'Branches' first. \n\nIn summary, the next action I will perform is `click [2538]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[2765] RootWebArea 'Branches · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[2835] link 'Skip to content'
+
+[2967] link 'Dashboard'
+
+[3052] button '' hasPopup: menu expanded: False
+
+[2777] textbox 'Search GitLab' required: False
+
+[3545] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3058] link 'Create new...'
+
+[3060] link 'Issues'
+
+[3228] generic '13 assigned issues'
+
+[3061] link 'Merge requests'
+
+[3230] generic '8 merge requests'
+
+[3063] link 'To-Do List'
+
+[3246] generic 'Todos count'
+
+[3566] StaticText '5'
+
+[3064] link 'Help'
+
+[3066] link 'Byte Blaze'
+
+[3280] img 'Byte Blaze'
+
+[2836] complementary 'Project navigation'
+
+[3000] listitem 'archive-my-tweets'
+
+[3068] link 'archive-my-tweets'
+
+[3321] StaticText 'A'
+
+[3069] link 'Project information'
+
+[3071] link 'Repository'
+
+[3585] link 'Files'
+
+[3586] link 'Commits'
+
+[3587] link 'Branches'
+
+[3588] link 'Tags'
+
+[3589] link 'Contributors'
+
+[3590] link 'Graph'
+
+[3591] link 'Compare'
+
+[3073] link 'Issues'
+
+[3362] StaticText '14'
+
+[3075] link 'Merge requests'
+
+[3077] link 'CI/CD'
+
+[3079] link 'Deployments'
+
+[3081] link 'Packages and registries'
+
+[3083] link 'Monitor'
+
+[3085] link 'Analytics'
+
+[3087] link 'Wiki'
+
+[3089] link 'Snippets'
+
+[2953] button 'Collapse sidebar'
+
+[2840] navigation 'Breadcrumbs'
+
+[3106] link 'Andrew M. Whalen'
+
+[3108] link 'archive-my-tweets'
+
+[3110] link 'Repository'
+
+[3112] link 'Branches'
+
+[2781] main ''
+
+[3038] link 'Overview'
+
+[3039] link 'Active'
+
+[3040] link 'Stale'
+
+[3041] link 'All'
+
+[2785] group ''
+
+[2786] searchbox 'Filter by branch name'
+
+[3047] button 'Search'
+
+[3049] StaticText 'Stale branches'
+
+[3620] link 'php52'
+
+[3621] button 'Copy branch name' live: polite atomic: False relevant: additions text
+
+[3622] generic 'Merged into master'
+
+[3628] StaticText 'merged'
+
+[3704] link 'ffad76b7'
+
+[3705] StaticText ' · '
+
+[3707] link 'clean readme'
+
+[2794] time 'Jan 22, 2013 12:52pm EST'
+
+[3790] StaticText '10 years ago'
+
+[3120] generic '40 commits behind master, 0 commits ahead'
+
+[3523] link 'Compare'
+
+[3634] button 'Download'
+
+[3712] StaticText 'Select Archive Format'
+
+[3643] link 'github/fork/chtitux/addRssFeed'
+
+[3644] button 'Copy branch name' live: polite atomic: False relevant: additions text
+
+[3731] link 'f47ce9cd'
+
+[3732] StaticText ' · '
+
+[3734] link 'Merge pull request #3 from mkody/addRssFeed'
+
+[2799] time 'Jan 29, 2016 6:05am EST'
+
+[3797] StaticText '7 years ago'
+
+[3122] generic '3 commits behind master, 6 commits ahead'
+
+[3529] link 'Pipeline: failed'
+
+[3530] link 'Compare'
+
+[3656] button 'Download'
+
+[3739] StaticText 'Select Archive Format'
+
+[3671] link 'master'
+
+[3672] button 'Copy branch name' live: polite atomic: False relevant: additions text
+
+[3680] StaticText 'default'
+
+[3681] StaticText 'protected'
+
+[3758] link '28c07284'
+
+[3759] StaticText ' · '
+
+[3761] link 'Merge pull request #37 from ProgVal/patch-1'
+
+[2804] time 'Jan 1, 2017 9:33am EST'
+
+[3804] StaticText '6 years ago'
+
+[3682] button 'Download'
+
+[3767] StaticText 'Select Archive Format'</pre><div>
+
+[2538]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[3587]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3587', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "I apologize for the incorrect format. Let's think step-by-step. The objective is to find the contributor with the most commits to the branch `php52`.\n\nTo accomplish this, we need to click on the link 'Branches' first.\n\nIn summary, the next action I will perform is ```click [3587]```."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3587] where [3587] is [3587] link 'Branches'</pre></div></div>
+
+[3814] RootWebArea 'Branches · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[3884] link 'Skip to content'
+
+[4016] link 'Dashboard'
+
+[4101] button '' hasPopup: menu expanded: False
+
+[3826] textbox 'Search GitLab' required: False
+
+[4594] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4107] link 'Create new...'
+
+[4109] link 'Issues'
+
+[4277] generic '13 assigned issues'
+
+[4110] link 'Merge requests'
+
+[4279] generic '8 merge requests'
+
+[4112] link 'To-Do List'
+
+[4295] generic 'Todos count'
+
+[4113] link 'Help'
+
+[4115] link 'Byte Blaze'
+
+[4329] img 'Byte Blaze'
+
+[3885] complementary 'Project navigation'
+
+[4049] listitem 'archive-my-tweets'
+
+[4117] link 'archive-my-tweets'
+
+[4370] StaticText 'A'
+
+[4118] link 'Project information'
+
+[4120] link 'Repository'
+
+[4634] link 'Files'
+
+[4635] link 'Commits'
+
+[4636] link 'Branches'
+
+[4637] link 'Tags'
+
+[4638] link 'Contributors'
+
+[4639] link 'Graph'
+
+[4640] link 'Compare'
+
+[4122] link 'Issues'
+
+[4411] StaticText '14'
+
+[4124] link 'Merge requests'
+
+[4126] link 'CI/CD'
+
+[4128] link 'Deployments'
+
+[4130] link 'Packages and registries'
+
+[4132] link 'Monitor'
+
+[4134] link 'Analytics'
+
+[4136] link 'Wiki'
+
+[4138] link 'Snippets'
+
+[4002] button 'Collapse sidebar'
+
+[3889] navigation 'Breadcrumbs'
+
+[4155] link 'Andrew M. Whalen'
+
+[4157] link 'archive-my-tweets'
+
+[4159] link 'Repository'
+
+[4161] link 'Branches'
+
+[3830] main ''
+
+[4087] link 'Overview'
+
+[4088] link 'Active'
+
+[4089] link 'Stale'
+
+[4090] link 'All'
+
+[3834] group ''
+
+[3835] searchbox 'Filter by branch name'
+
+[4096] button 'Search'
+
+[4098] StaticText 'Stale branches'
+
+[4669] link 'php52'
+
+[4670] button 'Copy branch name' live: polite atomic: False relevant: additions text
+
+[4671] generic 'Merged into master'
+
+[4677] StaticText 'merged'
+
+[4753] link 'ffad76b7'
+
+[4754] StaticText ' · '
+
+[4756] link 'clean readme'
+
+[3843] time 'Jan 22, 2013 12:52pm EST'
+
+[4839] StaticText '10 years ago'
+
+[4169] generic '40 commits behind master, 0 commits ahead'
+
+[4572] link 'Compare'
+
+[4683] button 'Download'
+
+[4761] StaticText 'Select Archive Format'
+
+[4692] link 'github/fork/chtitux/addRssFeed'
+
+[4693] button 'Copy branch name' live: polite atomic: False relevant: additions text
+
+[4780] link 'f47ce9cd'
+
+[4781] StaticText ' · '
+
+[4783] link 'Merge pull request #3 from mkody/addRssFeed'
+
+[3848] time 'Jan 29, 2016 6:05am EST'
+
+[4846] StaticText '7 years ago'
+
+[4171] generic '3 commits behind master, 6 commits ahead'
+
+[4578] link 'Pipeline: failed'
+
+[4579] link 'Compare'
+
+[4705] button 'Download'
+
+[4788] StaticText 'Select Archive Format'
+
+[4720] link 'master'
+
+[4721] button 'Copy branch name' live: polite atomic: False relevant: additions text
+
+[4729] StaticText 'default'
+
+[4730] StaticText 'protected'
+
+[4807] link '28c07284'
+
+[4808] StaticText ' · '
+
+[4810] link 'Merge pull request #37 from ProgVal/patch-1'
+
+[3853] time 'Jan 1, 2017 9:33am EST'
+
+[4853] StaticText '6 years ago'
+
+[4731] button 'Download'
+
+[4816] StaticText 'Select Archive Format'</pre><div>
+
+[3587] where [3587] is link 'Branches'</div>
+
+[4669]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page lists the branches of the project "archive-my-tweets" on GitLab. To find the contributor with the most commits to branch "php52", I need to click on the link for branch "php52". In summary, the next action I will perform is `click [4669]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[3814] RootWebArea 'Branches · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[3884] link 'Skip to content'
+
+[4016] link 'Dashboard'
+
+[4101] button '' hasPopup: menu expanded: False
+
+[3826] textbox 'Search GitLab' required: False
+
+[4594] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4107] link 'Create new...'
+
+[4109] link 'Issues'
+
+[4277] generic '13 assigned issues'
+
+[4110] link 'Merge requests'
+
+[4279] generic '8 merge requests'
+
+[4112] link 'To-Do List'
+
+[4295] generic 'Todos count'
+
+[4113] link 'Help'
+
+[4115] link 'Byte Blaze'
+
+[4329] img 'Byte Blaze'
+
+[3885] complementary 'Project navigation'
+
+[4049] listitem 'archive-my-tweets'
+
+[4117] link 'archive-my-tweets'
+
+[4370] StaticText 'A'
+
+[4118] link 'Project information'
+
+[4120] link 'Repository'
+
+[4634] link 'Files'
+
+[4635] link 'Commits'
+
+[4636] link 'Branches'
+
+[4637] link 'Tags'
+
+[4638] link 'Contributors'
+
+[4639] link 'Graph'
+
+[4640] link 'Compare'
+
+[4122] link 'Issues'
+
+[4411] StaticText '14'
+
+[4124] link 'Merge requests'
+
+[4126] link 'CI/CD'
+
+[4128] link 'Deployments'
+
+[4130] link 'Packages and registries'
+
+[4132] link 'Monitor'
+
+[4134] link 'Analytics'
+
+[4136] link 'Wiki'
+
+[4138] link 'Snippets'
+
+[4002] button 'Collapse sidebar'
+
+[3889] navigation 'Breadcrumbs'
+
+[4155] link 'Andrew M. Whalen'
+
+[4157] link 'archive-my-tweets'
+
+[4159] link 'Repository'
+
+[4161] link 'Branches'
+
+[3830] main ''
+
+[4087] link 'Overview'
+
+[4088] link 'Active'
+
+[4089] link 'Stale'
+
+[4090] link 'All'
+
+[3834] group ''
+
+[3835] searchbox 'Filter by branch name'
+
+[4096] button 'Search'
+
+[4098] StaticText 'Stale branches'
+
+[4669] link 'php52'
+
+[4670] button 'Copy branch name' live: polite atomic: False relevant: additions text
+
+[4671] generic 'Merged into master'
+
+[4677] StaticText 'merged'
+
+[4753] link 'ffad76b7'
+
+[4754] StaticText ' · '
+
+[4756] link 'clean readme'
+
+[3843] time 'Jan 22, 2013 12:52pm EST'
+
+[4839] StaticText '10 years ago'
+
+[4169] generic '40 commits behind master, 0 commits ahead'
+
+[4572] link 'Compare'
+
+[4683] button 'Download'
+
+[4761] StaticText 'Select Archive Format'
+
+[4692] link 'github/fork/chtitux/addRssFeed'
+
+[4693] button 'Copy branch name' live: polite atomic: False relevant: additions text
+
+[4780] link 'f47ce9cd'
+
+[4781] StaticText ' · '
+
+[4783] link 'Merge pull request #3 from mkody/addRssFeed'
+
+[3848] time 'Jan 29, 2016 6:05am EST'
+
+[4846] StaticText '7 years ago'
+
+[4171] generic '3 commits behind master, 6 commits ahead'
+
+[4578] link 'Pipeline: failed'
+
+[4579] link 'Compare'
+
+[4705] button 'Download'
+
+[4788] StaticText 'Select Archive Format'
+
+[4720] link 'master'
+
+[4721] button 'Copy branch name' live: polite atomic: False relevant: additions text
+
+[4729] StaticText 'default'
+
+[4730] StaticText 'protected'
+
+[4807] link '28c07284'
+
+[4808] StaticText ' · '
+
+[4810] link 'Merge pull request #37 from ProgVal/patch-1'
+
+[3853] time 'Jan 1, 2017 9:33am EST'
+
+[4853] StaticText '6 years ago'
+
+[4731] button 'Download'
+
+[4816] StaticText 'Select Archive Format'</pre><div>
+
+[4669]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[4669]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '4669', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page lists the branches of the project "archive-my-tweets" on GitLab. To find the contributor with the most commits to branch "php52", I need to click on the link for branch "php52". In summary, the next action I will perform is ```click [4669]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [4669] where [4669] is [4669] link 'php52'</pre></div></div>
+
+[4863] RootWebArea 'Files · php52 · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[4985] link 'Skip to content'
+
+[5110] link 'Dashboard'
+
+[5199] button '' hasPopup: menu expanded: False
+
+[4875] textbox 'Search GitLab' required: False
+
+[5943] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[5205] link 'Create new...'
+
+[5207] link 'Issues'
+
+[5492] generic '13 assigned issues'
+
+[5208] link 'Merge requests'
+
+[5494] generic '8 merge requests'
+
+[5210] link 'To-Do List'
+
+[5510] generic 'Todos count'
+
+[5211] link 'Help'
+
+[5213] link 'Byte Blaze'
+
+[5544] img 'Byte Blaze'
+
+[4986] complementary 'Project navigation'
+
+[5143] listitem 'archive-my-tweets'
+
+[5215] link 'archive-my-tweets'
+
+[5585] StaticText 'A'
+
+[5216] link 'Project information'
+
+[5218] link 'Repository'
+
+[5983] link 'Files'
+
+[5984] link 'Commits'
+
+[5985] link 'Branches'
+
+[5986] link 'Tags'
+
+[5987] link 'Contributors'
+
+[5988] link 'Graph'
+
+[5989] link 'Compare'
+
+[5220] link 'Issues'
+
+[5626] StaticText '14'
+
+[5222] link 'Merge requests'
+
+[5224] link 'CI/CD'
+
+[5226] link 'Deployments'
+
+[5228] link 'Packages and registries'
+
+[5230] link 'Monitor'
+
+[5232] link 'Analytics'
+
+[5234] link 'Wiki'
+
+[5236] link 'Snippets'
+
+[5102] button 'Collapse sidebar'
+
+[4990] navigation 'Breadcrumbs'
+
+[5253] link 'Andrew M. Whalen'
+
+[5255] link 'archive-my-tweets'
+
+[5257] link 'Repository'
+
+[4879] main ''
+
+[5184] img 'user avatar'
+
+[5188] link 'clean readme'
+
+[5191] StaticText 'Andrew M. Whalen authored '
+
+[5192] time 'Jan 22, 2013 12:52pm EST'
+
+[5258] StaticText '10 years ago'
+
+[5193] group ''
+
+[5260] StaticText 'ffad76b7'
+
+[5195] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[5780] button 'php52' hasPopup: menu expanded: False
+
+[4906] navigation 'Files breadcrumb'
+
+[6082] link 'archive-my-tweets'
+
+[6306] button 'Add to tree' hasPopup: menu expanded: False
+
+[5263] link 'History'
+
+[5264] link 'Find file'
+
+[5271] link 'Web IDE'
+
+[5272] button 'Download'
+
+[5787] StaticText 'Select Archive Format'
+
+[5274] link 'Clone'
+
+[4905] table 'Files, directories, and submodules in the path / for commit reference php52' live: polite atomic: False relevant: additions text
+
+[5840] row ''
+
+[5841] columnheader 'Name' required: False
+
+[5842] columnheader 'Last commit' required: False
+
+[5843] columnheader 'Last update' required: False
+
+[5844] row ''
+
+[5857] gridcell 'assets' required: False
+
+[6096] link 'assets'
+
+[5858] gridcell 'redesigned with bootstrap, responsive design, fixed some interface bugs, tweaked interface text, added link for favorite tweets' required: False
+
+[6102] link 'redesigned with bootstrap, responsive design, fixed some interface bugs, tweaked interface text, added link for favorite tweets'
+
+[5859] gridcell '10 years ago' required: False
+
+[6105] time 'Jan 20, 2013 10:02pm EST'
+
+[5845] row ''
+
+[5860] gridcell 'classes' required: False
+
+[6107] link 'classes'
+
+[5861] gridcell 'added twitter archive import functionality, updated readme with instructions' required: False
+
+[6113] link 'added twitter archive import functionality, updated readme with instructions'
+
+[5862] gridcell '10 years ago' required: False
+
+[6116] time 'Jan 22, 2013 12:41pm EST'
+
+[5846] row ''
+
+[5863] gridcell 'css' required: False
+
+[6118] link 'css'
+
+[5864] gridcell 'redesigned with bootstrap, responsive design, fixed some interface bugs, tweaked interface text, added link for favorite tweets' required: False
+
+[6124] link 'redesigned with bootstrap, responsive design, fixed some interface bugs, tweaked interface text, added link for favorite tweets'
+
+[5865] gridcell '10 years ago' required: False
+
+[6127] time 'Jan 20, 2013 10:02pm EST'
+
+[5847] row ''
+
+[5866] gridcell 'img' required: False
+
+[6129] link 'img'
+
+[5867] gridcell 'added screenshots, license file' required: False
+
+[6135] link 'added screenshots, license file'
+
+[5868] gridcell '10 years ago' required: False
+
+[6138] time 'Jan 22, 2013 12:46pm EST'
+
+[5848] row ''
+
+[5869] gridcell 'json' required: False
+
+[6140] link 'json'
+
+[5870] gridcell 'added twitter archive import functionality, updated readme with instructions' required: False
+
+[6146] link 'added twitter archive import functionality, updated readme with instructions'
+
+[5871] gridcell '10 years ago' required: False
+
+[6149] time 'Jan 22, 2013 12:41pm EST'
+
+[5849] row ''
+
+[5872] gridcell '.gitignore' required: False
+
+[6151] link '.gitignore'
+
+[5873] gridcell 'added twitter archive import functionality, updated readme with instructions' required: False
+
+[6157] link 'added twitter archive import functionality, updated readme with instructions'
+
+[5874] gridcell '10 years ago' required: False
+
+[6160] time 'Jan 22, 2013 12:41pm EST'
+
+[5850] row ''
+
+[5875] gridcell '.htaccess' required: False
+
+[6162] link '.htaccess'
+
+[5876] gridcell 'redesigned with bootstrap, responsive design, fixed some interface bugs, tweaked interface text, added link for favorite tweets' required: False
+
+[6168] link 'redesigned with bootstrap, responsive design, fixed some interface bugs, tweaked interface text, added link for favorite tweets'
+
+[5877] gridcell '10 years ago' required: False
+
+[6171] time 'Jan 20, 2013 10:02pm EST'
+
+[5851] row ''
+
+[5878] gridcell 'LICENSE.txt' required: False
+
+[6173] link 'LICENSE.txt'
+
+[5879] gridcell 'added screenshots, license file' required: False
+
+[6179] link 'added screenshots, license file'
+
+[5880] gridcell '10 years ago' required: False
+
+[6182] time 'Jan 22, 2013 12:46pm EST'
+
+[5852] row ''
+
+[5881] gridcell 'README.md' required: False
+
+[6184] link 'README.md'
+
+[5882] gridcell 'clean readme' required: False
+
+[6190] link 'clean readme'
+
+[5883] gridcell '10 years ago' required: False
+
+[6193] time 'Jan 22, 2013 12:52pm EST'
+
+[5853] row ''
+
+[5884] gridcell 'config.example.php' required: False
+
+[6195] link 'config.example.php'
+
+[5885] gridcell 'redesigned with bootstrap, responsive design, fixed some interface bugs, tweaked interface text, added link for favorite tweets' required: False
+
+[6201] link 'redesigned with bootstrap, responsive design, fixed some interface bugs, tweaked interface text, added link for favorite tweets'
+
+[5886] gridcell '10 years ago' required: False
+
+[6204] time 'Jan 20, 2013 10:02pm EST'
+
+[5854] row ''
+
+[5887] gridcell 'cron.php' required: False
+
+[6206] link 'cron.php'
+
+[5888] gridcell 'added twitter archive import functionality, updated readme with instructions' required: False
+
+[6212] link 'added twitter archive import functionality, updated readme with instructions'
+
+[5889] gridcell '10 years ago' required: False
+
+[6215] time 'Jan 22, 2013 12:41pm EST'</pre><div>
+
+[4669] where [4669] is link 'php52'</div>
+
+[5984]` to go to the Commits page.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To find the contributor with the most commits to branch php52, we need to go to the Commits page for branch php52. The link to the Commits page is located in the Files navigation section with the link text "Commits". We can click on that link to navigate to the Commits page. In summary, the next action I will perform is `click [5984]` to go to the Commits page.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[4863] RootWebArea 'Files · php52 · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[4985] link 'Skip to content'
+
+[5110] link 'Dashboard'
+
+[5199] button '' hasPopup: menu expanded: False
+
+[4875] textbox 'Search GitLab' required: False
+
+[5943] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[5205] link 'Create new...'
+
+[5207] link 'Issues'
+
+[5492] generic '13 assigned issues'
+
+[5208] link 'Merge requests'
+
+[5494] generic '8 merge requests'
+
+[5210] link 'To-Do List'
+
+[5510] generic 'Todos count'
+
+[5211] link 'Help'
+
+[5213] link 'Byte Blaze'
+
+[5544] img 'Byte Blaze'
+
+[4986] complementary 'Project navigation'
+
+[5143] listitem 'archive-my-tweets'
+
+[5215] link 'archive-my-tweets'
+
+[5585] StaticText 'A'
+
+[5216] link 'Project information'
+
+[5218] link 'Repository'
+
+[5983] link 'Files'
+
+[5984] link 'Commits'
+
+[5985] link 'Branches'
+
+[5986] link 'Tags'
+
+[5987] link 'Contributors'
+
+[5988] link 'Graph'
+
+[5989] link 'Compare'
+
+[5220] link 'Issues'
+
+[5626] StaticText '14'
+
+[5222] link 'Merge requests'
+
+[5224] link 'CI/CD'
+
+[5226] link 'Deployments'
+
+[5228] link 'Packages and registries'
+
+[5230] link 'Monitor'
+
+[5232] link 'Analytics'
+
+[5234] link 'Wiki'
+
+[5236] link 'Snippets'
+
+[5102] button 'Collapse sidebar'
+
+[4990] navigation 'Breadcrumbs'
+
+[5253] link 'Andrew M. Whalen'
+
+[5255] link 'archive-my-tweets'
+
+[5257] link 'Repository'
+
+[4879] main ''
+
+[5184] img 'user avatar'
+
+[5188] link 'clean readme'
+
+[5191] StaticText 'Andrew M. Whalen authored '
+
+[5192] time 'Jan 22, 2013 12:52pm EST'
+
+[5258] StaticText '10 years ago'
+
+[5193] group ''
+
+[5260] StaticText 'ffad76b7'
+
+[5195] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[5780] button 'php52' hasPopup: menu expanded: False
+
+[4906] navigation 'Files breadcrumb'
+
+[6082] link 'archive-my-tweets'
+
+[6306] button 'Add to tree' hasPopup: menu expanded: False
+
+[5263] link 'History'
+
+[5264] link 'Find file'
+
+[5271] link 'Web IDE'
+
+[5272] button 'Download'
+
+[5787] StaticText 'Select Archive Format'
+
+[5274] link 'Clone'
+
+[4905] table 'Files, directories, and submodules in the path / for commit reference php52' live: polite atomic: False relevant: additions text
+
+[5840] row ''
+
+[5841] columnheader 'Name' required: False
+
+[5842] columnheader 'Last commit' required: False
+
+[5843] columnheader 'Last update' required: False
+
+[5844] row ''
+
+[5857] gridcell 'assets' required: False
+
+[6096] link 'assets'
+
+[5858] gridcell 'redesigned with bootstrap, responsive design, fixed some interface bugs, tweaked interface text, added link for favorite tweets' required: False
+
+[6102] link 'redesigned with bootstrap, responsive design, fixed some interface bugs, tweaked interface text, added link for favorite tweets'
+
+[5859] gridcell '10 years ago' required: False
+
+[6105] time 'Jan 20, 2013 10:02pm EST'
+
+[5845] row ''
+
+[5860] gridcell 'classes' required: False
+
+[6107] link 'classes'
+
+[5861] gridcell 'added twitter archive import functionality, updated readme with instructions' required: False
+
+[6113] link 'added twitter archive import functionality, updated readme with instructions'
+
+[5862] gridcell '10 years ago' required: False
+
+[6116] time 'Jan 22, 2013 12:41pm EST'
+
+[5846] row ''
+
+[5863] gridcell 'css' required: False
+
+[6118] link 'css'
+
+[5864] gridcell 'redesigned with bootstrap, responsive design, fixed some interface bugs, tweaked interface text, added link for favorite tweets' required: False
+
+[6124] link 'redesigned with bootstrap, responsive design, fixed some interface bugs, tweaked interface text, added link for favorite tweets'
+
+[5865] gridcell '10 years ago' required: False
+
+[6127] time 'Jan 20, 2013 10:02pm EST'
+
+[5847] row ''
+
+[5866] gridcell 'img' required: False
+
+[6129] link 'img'
+
+[5867] gridcell 'added screenshots, license file' required: False
+
+[6135] link 'added screenshots, license file'
+
+[5868] gridcell '10 years ago' required: False
+
+[6138] time 'Jan 22, 2013 12:46pm EST'
+
+[5848] row ''
+
+[5869] gridcell 'json' required: False
+
+[6140] link 'json'
+
+[5870] gridcell 'added twitter archive import functionality, updated readme with instructions' required: False
+
+[6146] link 'added twitter archive import functionality, updated readme with instructions'
+
+[5871] gridcell '10 years ago' required: False
+
+[6149] time 'Jan 22, 2013 12:41pm EST'
+
+[5849] row ''
+
+[5872] gridcell '.gitignore' required: False
+
+[6151] link '.gitignore'
+
+[5873] gridcell 'added twitter archive import functionality, updated readme with instructions' required: False
+
+[6157] link 'added twitter archive import functionality, updated readme with instructions'
+
+[5874] gridcell '10 years ago' required: False
+
+[6160] time 'Jan 22, 2013 12:41pm EST'
+
+[5850] row ''
+
+[5875] gridcell '.htaccess' required: False
+
+[6162] link '.htaccess'
+
+[5876] gridcell 'redesigned with bootstrap, responsive design, fixed some interface bugs, tweaked interface text, added link for favorite tweets' required: False
+
+[6168] link 'redesigned with bootstrap, responsive design, fixed some interface bugs, tweaked interface text, added link for favorite tweets'
+
+[5877] gridcell '10 years ago' required: False
+
+[6171] time 'Jan 20, 2013 10:02pm EST'
+
+[5851] row ''
+
+[5878] gridcell 'LICENSE.txt' required: False
+
+[6173] link 'LICENSE.txt'
+
+[5879] gridcell 'added screenshots, license file' required: False
+
+[6179] link 'added screenshots, license file'
+
+[5880] gridcell '10 years ago' required: False
+
+[6182] time 'Jan 22, 2013 12:46pm EST'
+
+[5852] row ''
+
+[5881] gridcell 'README.md' required: False
+
+[6184] link 'README.md'
+
+[5882] gridcell 'clean readme' required: False
+
+[6190] link 'clean readme'
+
+[5883] gridcell '10 years ago' required: False
+
+[6193] time 'Jan 22, 2013 12:52pm EST'
+
+[5853] row ''
+
+[5884] gridcell 'config.example.php' required: False
+
+[6195] link 'config.example.php'
+
+[5885] gridcell 'redesigned with bootstrap, responsive design, fixed some interface bugs, tweaked interface text, added link for favorite tweets' required: False
+
+[6201] link 'redesigned with bootstrap, responsive design, fixed some interface bugs, tweaked interface text, added link for favorite tweets'
+
+[5886] gridcell '10 years ago' required: False
+
+[6204] time 'Jan 20, 2013 10:02pm EST'
+
+[5854] row ''
+
+[5887] gridcell 'cron.php' required: False
+
+[6206] link 'cron.php'
+
+[5888] gridcell 'added twitter archive import functionality, updated readme with instructions' required: False
+
+[6212] link 'added twitter archive import functionality, updated readme with instructions'
+
+[5889] gridcell '10 years ago' required: False
+
+[6215] time 'Jan 22, 2013 12:41pm EST'</pre><div>
+
+[5984]` to go to the Commits page.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[5984]``` to go to the Commits page.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '5984', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [5984]``` to go to the Commits page.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [5984] where [5984] is [5984] link 'Commits'</pre></div></div>
+
+[6384] RootWebArea 'Commits · php52 · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[6685] link 'Skip to content'
+
+[6811] link 'Dashboard'
+
+[6904] button '' hasPopup: menu expanded: False
+
+[6396] textbox 'Search GitLab' required: False
+
+[7560] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6910] link 'Create new...'
+
+[6912] link 'Issues'
+
+[7160] generic '13 assigned issues'
+
+[6913] link 'Merge requests'
+
+[7162] generic '8 merge requests'
+
+[6915] link 'To-Do List'
+
+[7178] generic 'Todos count'
+
+[6916] link 'Help'
+
+[6918] link 'Byte Blaze'
+
+[7212] img 'Byte Blaze'
+
+[6686] complementary 'Project navigation'
+
+[6844] listitem 'archive-my-tweets'
+
+[6920] link 'archive-my-tweets'
+
+[7253] StaticText 'A'
+
+[6921] link 'Project information'
+
+[6923] link 'Repository'
+
+[7600] link 'Files'
+
+[7601] link 'Commits'
+
+[7602] link 'Branches'
+
+[7603] link 'Tags'
+
+[7604] link 'Contributors'
+
+[7605] link 'Graph'
+
+[7606] link 'Compare'
+
+[6925] link 'Issues'
+
+[7294] StaticText '14'
+
+[6927] link 'Merge requests'
+
+[6929] link 'CI/CD'
+
+[6931] link 'Deployments'
+
+[6933] link 'Packages and registries'
+
+[6935] link 'Monitor'
+
+[6937] link 'Analytics'
+
+[6939] link 'Wiki'
+
+[6941] link 'Snippets'
+
+[6802] button 'Collapse sidebar'
+
+[6690] navigation 'Breadcrumbs'
+
+[6958] link 'Andrew M. Whalen'
+
+[6960] link 'archive-my-tweets'
+
+[6962] link 'Commits'
+
+[6400] main ''
+
+[6963] button 'php52' hasPopup: menu expanded: False
+
+[6964] link 'archive-my-tweets'
+
+[6965] button 'Author' hasPopup: menu expanded: False
+
+[6407] searchbox 'Search by message'
+
+[6884] link 'Commits feed'
+
+[6973] StaticText '22 Jan, 2013'
+
+[6976] StaticText '6 commits'
+
+[7695] link "Andrew M. Whalen's avatar"
+
+[8239] img "Andrew M. Whalen's avatar"
+
+[7697] link 'clean readme'
+
+[7701] link 'Andrew M. Whalen'
+
+[7702] StaticText ' authored '
+
+[6432] time 'Jan 22, 2013 12:52pm EST'
+
+[8241] StaticText '10 years ago'
+
+[8242] StaticText 'ffad76b7'
+
+[7706] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[7707] link 'Browse Files'
+
+[7708] link "Andrew M. Whalen's avatar"
+
+[8245] img "Andrew M. Whalen's avatar"
+
+[7710] link 'clean readme'
+
+[7714] link 'Andrew M. Whalen'
+
+[7715] StaticText ' authored '
+
+[6437] time 'Jan 22, 2013 12:51pm EST'
+
+[8247] StaticText '10 years ago'
+
+[8248] StaticText '3627ff33'
+
+[7719] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[7720] link 'Browse Files'
+
+[7721] link "Andrew M. Whalen's avatar"
+
+[8251] img "Andrew M. Whalen's avatar"
+
+[7723] link 'updated screenshot'
+
+[7727] link 'Andrew M. Whalen'
+
+[7728] StaticText ' authored '
+
+[6442] time 'Jan 22, 2013 12:50pm EST'
+
+[8253] StaticText '10 years ago'
+
+[8254] StaticText '41b976b0'
+
+[7732] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[7733] link 'Browse Files'
+
+[7734] link "Andrew M. Whalen's avatar"
+
+[8257] img "Andrew M. Whalen's avatar"
+
+[7736] link 'updated screenshot paths'
+
+[7740] link 'Andrew M. Whalen'
+
+[7741] StaticText ' authored '
+
+[6447] time 'Jan 22, 2013 12:48pm EST'
+
+[8259] StaticText '10 years ago'
+
+[8260] StaticText '6328f173'
+
+[7745] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[7746] link 'Browse Files'
+
+[7747] link "Andrew M. Whalen's avatar"
+
+[8263] img "Andrew M. Whalen's avatar"
+
+[7749] link 'added screenshots, license file'
+
+[7753] link 'Andrew M. Whalen'
+
+[7754] StaticText ' authored '
+
+[6452] time 'Jan 22, 2013 12:46pm EST'
+
+[8265] StaticText '10 years ago'
+
+[8266] StaticText '7f64d9b8'
+
+[7758] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[7759] link 'Browse Files'
+
+[7760] link "Andrew M. Whalen's avatar"
+
+[8269] img "Andrew M. Whalen's avatar"
+
+[7762] link 'added twitter archive import functionality, updated readme with instructions'
+
+[7766] link 'Andrew M. Whalen'
+
+[7767] StaticText ' authored '
+
+[6457] time 'Jan 22, 2013 12:41pm EST'
+
+[8271] StaticText '10 years ago'
+
+[8272] StaticText '36bae02e'
+
+[7771] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[7772] link 'Browse Files'
+
+[6978] StaticText '21 Jan, 2013'
+
+[6981] StaticText '2 commits'
+
+[7773] link "Andrew M. Whalen's avatar"
+
+[8275] img "Andrew M. Whalen's avatar"
+
+[7775] link 'updated README'
+
+[7779] link 'Andrew M. Whalen'
+
+[7780] StaticText ' authored '
+
+[6464] time 'Jan 20, 2013 10:10pm EST'
+
+[8277] StaticText '10 years ago'
+
+[8278] StaticText '86dff639'
+
+[7784] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[7785] link 'Browse Files'
+
+[7786] link "Andrew M. Whalen's avatar"
+
+[8281] img "Andrew M. Whalen's avatar"
+
+[7788] link 'redesigned with bootstrap, responsive design, fixed some interface bugs,...'
+
+[7790] button 'Toggle commit description'
+
+[7795] link 'Andrew M. Whalen'
+
+[7796] StaticText ' authored '
+
+[6469] time 'Jan 20, 2013 10:02pm EST'
+
+[8286] StaticText '10 years ago'
+
+[8287] StaticText '1eb1de72'
+
+[7801] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[7802] link 'Browse Files'</pre><div>
+
+[5984] where [5984] is link 'Commits'</div>
+
+[7601]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '7601', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We need to find the contributor who has the most commits to the branch "php52". To do that, we need to go to the "Commits" page. I will issue the "click" action to click on the "Commits" link. In summary, the next action I will perform is ```click [7601]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [7601] where [7601] is [7601] link 'Commits'</pre></div></div>
+
+[8731] RootWebArea 'Commits · php52 · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[9032] link 'Skip to content'
+
+[9158] link 'Dashboard'
+
+[9251] button '' hasPopup: menu expanded: False
+
+[8743] textbox 'Search GitLab' required: False
+
+[9907] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[9257] link 'Create new...'
+
+[9259] link 'Issues'
+
+[9507] generic '13 assigned issues'
+
+[9260] link 'Merge requests'
+
+[9509] generic '8 merge requests'
+
+[9262] link 'To-Do List'
+
+[9525] generic 'Todos count'
+
+[9263] link 'Help'
+
+[9265] link 'Byte Blaze'
+
+[9559] img 'Byte Blaze'
+
+[9033] complementary 'Project navigation'
+
+[9191] listitem 'archive-my-tweets'
+
+[9267] link 'archive-my-tweets'
+
+[9600] StaticText 'A'
+
+[9268] link 'Project information'
+
+[9270] link 'Repository'
+
+[9947] link 'Files'
+
+[9948] link 'Commits'
+
+[9949] link 'Branches'
+
+[9950] link 'Tags'
+
+[9951] link 'Contributors'
+
+[9952] link 'Graph'
+
+[9953] link 'Compare'
+
+[9272] link 'Issues'
+
+[9641] StaticText '14'
+
+[9274] link 'Merge requests'
+
+[9276] link 'CI/CD'
+
+[9278] link 'Deployments'
+
+[9280] link 'Packages and registries'
+
+[9282] link 'Monitor'
+
+[9284] link 'Analytics'
+
+[9286] link 'Wiki'
+
+[9288] link 'Snippets'
+
+[9149] button 'Collapse sidebar'
+
+[9037] navigation 'Breadcrumbs'
+
+[9305] link 'Andrew M. Whalen'
+
+[9307] link 'archive-my-tweets'
+
+[9309] link 'Commits'
+
+[8747] main ''
+
+[9310] button 'php52' hasPopup: menu expanded: False
+
+[9311] link 'archive-my-tweets'
+
+[9312] button 'Author' hasPopup: menu expanded: False
+
+[8754] searchbox 'Search by message'
+
+[9231] link 'Commits feed'
+
+[9320] StaticText '22 Jan, 2013'
+
+[9323] StaticText '6 commits'
+
+[10042] link "Andrew M. Whalen's avatar"
+
+[10586] img "Andrew M. Whalen's avatar"
+
+[10044] link 'clean readme'
+
+[10048] link 'Andrew M. Whalen'
+
+[10049] StaticText ' authored '
+
+[8779] time 'Jan 22, 2013 12:52pm EST'
+
+[10588] StaticText '10 years ago'
+
+[10589] StaticText 'ffad76b7'
+
+[10053] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10054] link 'Browse Files'
+
+[10055] link "Andrew M. Whalen's avatar"
+
+[10592] img "Andrew M. Whalen's avatar"
+
+[10057] link 'clean readme'
+
+[10061] link 'Andrew M. Whalen'
+
+[10062] StaticText ' authored '
+
+[8784] time 'Jan 22, 2013 12:51pm EST'
+
+[10594] StaticText '10 years ago'
+
+[10595] StaticText '3627ff33'
+
+[10066] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10067] link 'Browse Files'
+
+[10068] link "Andrew M. Whalen's avatar"
+
+[10598] img "Andrew M. Whalen's avatar"
+
+[10070] link 'updated screenshot'
+
+[10074] link 'Andrew M. Whalen'
+
+[10075] StaticText ' authored '
+
+[8789] time 'Jan 22, 2013 12:50pm EST'
+
+[10600] StaticText '10 years ago'
+
+[10601] StaticText '41b976b0'
+
+[10079] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10080] link 'Browse Files'
+
+[10081] link "Andrew M. Whalen's avatar"
+
+[10604] img "Andrew M. Whalen's avatar"
+
+[10083] link 'updated screenshot paths'
+
+[10087] link 'Andrew M. Whalen'
+
+[10088] StaticText ' authored '
+
+[8794] time 'Jan 22, 2013 12:48pm EST'
+
+[10606] StaticText '10 years ago'
+
+[10607] StaticText '6328f173'
+
+[10092] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10093] link 'Browse Files'
+
+[10094] link "Andrew M. Whalen's avatar"
+
+[10610] img "Andrew M. Whalen's avatar"
+
+[10096] link 'added screenshots, license file'
+
+[10100] link 'Andrew M. Whalen'
+
+[10101] StaticText ' authored '
+
+[8799] time 'Jan 22, 2013 12:46pm EST'
+
+[10612] StaticText '10 years ago'
+
+[10613] StaticText '7f64d9b8'
+
+[10105] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10106] link 'Browse Files'
+
+[10107] link "Andrew M. Whalen's avatar"
+
+[10616] img "Andrew M. Whalen's avatar"
+
+[10109] link 'added twitter archive import functionality, updated readme with instructions'
+
+[10113] link 'Andrew M. Whalen'
+
+[10114] StaticText ' authored '
+
+[8804] time 'Jan 22, 2013 12:41pm EST'
+
+[10618] StaticText '10 years ago'
+
+[10619] StaticText '36bae02e'
+
+[10118] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10119] link 'Browse Files'
+
+[9325] StaticText '21 Jan, 2013'
+
+[9328] StaticText '2 commits'
+
+[10120] link "Andrew M. Whalen's avatar"
+
+[10622] img "Andrew M. Whalen's avatar"
+
+[10122] link 'updated README'
+
+[10126] link 'Andrew M. Whalen'
+
+[10127] StaticText ' authored '
+
+[8811] time 'Jan 20, 2013 10:10pm EST'
+
+[10624] StaticText '10 years ago'
+
+[10625] StaticText '86dff639'
+
+[10131] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10132] link 'Browse Files'
+
+[10133] link "Andrew M. Whalen's avatar"
+
+[10628] img "Andrew M. Whalen's avatar"
+
+[10135] link 'redesigned with bootstrap, responsive design, fixed some interface bugs,...'
+
+[10137] button 'Toggle commit description'
+
+[10142] link 'Andrew M. Whalen'
+
+[10143] StaticText ' authored '
+
+[8816] time 'Jan 20, 2013 10:02pm EST'
+
+[10633] StaticText '10 years ago'
+
+[10634] StaticText '1eb1de72'
+
+[10148] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10149] link 'Browse Files'</pre><div>
+
+[7601] where [7601] is link 'Commits'</div>
+
+[7601]. I will click on that link. In summary, the next action I will perform is ```click [7601]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '7601', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To find the contributor with the most commits to the branch php52, we need to navigate to the "Commits" page. The link with the text "Commits" has the id [7601]. I will click on that link. In summary, the next action I will perform is ```click [7601]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [7601] where [7601] is No match found</pre></div></div>
+
+[8731] RootWebArea 'Commits · php52 · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[9032] link 'Skip to content'
+
+[9158] link 'Dashboard'
+
+[9251] button '' hasPopup: menu expanded: False
+
+[8743] textbox 'Search GitLab' required: False
+
+[9907] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[9257] link 'Create new...'
+
+[9259] link 'Issues'
+
+[9507] generic '13 assigned issues'
+
+[9260] link 'Merge requests'
+
+[9509] generic '8 merge requests'
+
+[9262] link 'To-Do List'
+
+[9525] generic 'Todos count'
+
+[9263] link 'Help'
+
+[9265] link 'Byte Blaze'
+
+[9559] img 'Byte Blaze'
+
+[9033] complementary 'Project navigation'
+
+[9191] listitem 'archive-my-tweets'
+
+[9267] link 'archive-my-tweets'
+
+[9600] StaticText 'A'
+
+[9268] link 'Project information'
+
+[9270] link 'Repository'
+
+[9947] link 'Files'
+
+[9948] link 'Commits'
+
+[9949] link 'Branches'
+
+[9950] link 'Tags'
+
+[9951] link 'Contributors'
+
+[9952] link 'Graph'
+
+[9953] link 'Compare'
+
+[9272] link 'Issues'
+
+[9641] StaticText '14'
+
+[9274] link 'Merge requests'
+
+[9276] link 'CI/CD'
+
+[9278] link 'Deployments'
+
+[9280] link 'Packages and registries'
+
+[9282] link 'Monitor'
+
+[9284] link 'Analytics'
+
+[9286] link 'Wiki'
+
+[9288] link 'Snippets'
+
+[9149] button 'Collapse sidebar'
+
+[9037] navigation 'Breadcrumbs'
+
+[9305] link 'Andrew M. Whalen'
+
+[9307] link 'archive-my-tweets'
+
+[9309] link 'Commits'
+
+[8747] main ''
+
+[9310] button 'php52' hasPopup: menu expanded: False
+
+[9311] link 'archive-my-tweets'
+
+[9312] button 'Author' hasPopup: menu expanded: False
+
+[8754] searchbox 'Search by message'
+
+[9231] link 'Commits feed'
+
+[9320] StaticText '22 Jan, 2013'
+
+[9323] StaticText '6 commits'
+
+[10042] link "Andrew M. Whalen's avatar"
+
+[10586] img "Andrew M. Whalen's avatar"
+
+[10044] link 'clean readme'
+
+[10048] link 'Andrew M. Whalen'
+
+[10049] StaticText ' authored '
+
+[8779] time 'Jan 22, 2013 12:52pm EST'
+
+[10588] StaticText '10 years ago'
+
+[10589] StaticText 'ffad76b7'
+
+[10053] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10054] link 'Browse Files'
+
+[10055] link "Andrew M. Whalen's avatar"
+
+[10592] img "Andrew M. Whalen's avatar"
+
+[10057] link 'clean readme'
+
+[10061] link 'Andrew M. Whalen'
+
+[10062] StaticText ' authored '
+
+[8784] time 'Jan 22, 2013 12:51pm EST'
+
+[10594] StaticText '10 years ago'
+
+[10595] StaticText '3627ff33'
+
+[10066] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10067] link 'Browse Files'
+
+[10068] link "Andrew M. Whalen's avatar"
+
+[10598] img "Andrew M. Whalen's avatar"
+
+[10070] link 'updated screenshot'
+
+[10074] link 'Andrew M. Whalen'
+
+[10075] StaticText ' authored '
+
+[8789] time 'Jan 22, 2013 12:50pm EST'
+
+[10600] StaticText '10 years ago'
+
+[10601] StaticText '41b976b0'
+
+[10079] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10080] link 'Browse Files'
+
+[10081] link "Andrew M. Whalen's avatar"
+
+[10604] img "Andrew M. Whalen's avatar"
+
+[10083] link 'updated screenshot paths'
+
+[10087] link 'Andrew M. Whalen'
+
+[10088] StaticText ' authored '
+
+[8794] time 'Jan 22, 2013 12:48pm EST'
+
+[10606] StaticText '10 years ago'
+
+[10607] StaticText '6328f173'
+
+[10092] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10093] link 'Browse Files'
+
+[10094] link "Andrew M. Whalen's avatar"
+
+[10610] img "Andrew M. Whalen's avatar"
+
+[10096] link 'added screenshots, license file'
+
+[10100] link 'Andrew M. Whalen'
+
+[10101] StaticText ' authored '
+
+[8799] time 'Jan 22, 2013 12:46pm EST'
+
+[10612] StaticText '10 years ago'
+
+[10613] StaticText '7f64d9b8'
+
+[10105] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10106] link 'Browse Files'
+
+[10107] link "Andrew M. Whalen's avatar"
+
+[10616] img "Andrew M. Whalen's avatar"
+
+[10109] link 'added twitter archive import functionality, updated readme with instructions'
+
+[10113] link 'Andrew M. Whalen'
+
+[10114] StaticText ' authored '
+
+[8804] time 'Jan 22, 2013 12:41pm EST'
+
+[10618] StaticText '10 years ago'
+
+[10619] StaticText '36bae02e'
+
+[10118] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10119] link 'Browse Files'
+
+[9325] StaticText '21 Jan, 2013'
+
+[9328] StaticText '2 commits'
+
+[10120] link "Andrew M. Whalen's avatar"
+
+[10622] img "Andrew M. Whalen's avatar"
+
+[10122] link 'updated README'
+
+[10126] link 'Andrew M. Whalen'
+
+[10127] StaticText ' authored '
+
+[8811] time 'Jan 20, 2013 10:10pm EST'
+
+[10624] StaticText '10 years ago'
+
+[10625] StaticText '86dff639'
+
+[10131] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10132] link 'Browse Files'
+
+[10133] link "Andrew M. Whalen's avatar"
+
+[10628] img "Andrew M. Whalen's avatar"
+
+[10135] link 'redesigned with bootstrap, responsive design, fixed some interface bugs,...'
+
+[10137] button 'Toggle commit description'
+
+[10142] link 'Andrew M. Whalen'
+
+[10143] StaticText ' authored '
+
+[8816] time 'Jan 20, 2013 10:02pm EST'
+
+[10633] StaticText '10 years ago'
+
+[10634] StaticText '1eb1de72'
+
+[10148] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10149] link 'Browse Files'</pre><div>
+
+[7601]" but no matching element found. Please check the observation more carefully.</div>
+
+[9323]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We are on the GitLab commits page for the "php52" branch. We need to find the contributor with the most commits to this branch. \n\nTo find the contributor with the most commits, we can check the list of commits on this page. We will look for the commit with the highest number of occurrences. \n\nLet\'s perform the following actions:\n1. Hover over the commit with the most occurrences.\n2. Get the contributor\'s full name, GitLab account name, location, and email address from the commit details.\n\nIn summary, the next action I will perform is `hover [9323]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[8731] RootWebArea 'Commits · php52 · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[9032] link 'Skip to content'
+
+[9158] link 'Dashboard'
+
+[9251] button '' hasPopup: menu expanded: False
+
+[8743] textbox 'Search GitLab' required: False
+
+[9907] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[9257] link 'Create new...'
+
+[9259] link 'Issues'
+
+[9507] generic '13 assigned issues'
+
+[9260] link 'Merge requests'
+
+[9509] generic '8 merge requests'
+
+[9262] link 'To-Do List'
+
+[9525] generic 'Todos count'
+
+[9263] link 'Help'
+
+[9265] link 'Byte Blaze'
+
+[9559] img 'Byte Blaze'
+
+[9033] complementary 'Project navigation'
+
+[9191] listitem 'archive-my-tweets'
+
+[9267] link 'archive-my-tweets'
+
+[9600] StaticText 'A'
+
+[9268] link 'Project information'
+
+[9270] link 'Repository'
+
+[9947] link 'Files'
+
+[9948] link 'Commits'
+
+[9949] link 'Branches'
+
+[9950] link 'Tags'
+
+[9951] link 'Contributors'
+
+[9952] link 'Graph'
+
+[9953] link 'Compare'
+
+[9272] link 'Issues'
+
+[9641] StaticText '14'
+
+[9274] link 'Merge requests'
+
+[9276] link 'CI/CD'
+
+[9278] link 'Deployments'
+
+[9280] link 'Packages and registries'
+
+[9282] link 'Monitor'
+
+[9284] link 'Analytics'
+
+[9286] link 'Wiki'
+
+[9288] link 'Snippets'
+
+[9149] button 'Collapse sidebar'
+
+[9037] navigation 'Breadcrumbs'
+
+[9305] link 'Andrew M. Whalen'
+
+[9307] link 'archive-my-tweets'
+
+[9309] link 'Commits'
+
+[8747] main ''
+
+[9310] button 'php52' hasPopup: menu expanded: False
+
+[9311] link 'archive-my-tweets'
+
+[9312] button 'Author' hasPopup: menu expanded: False
+
+[8754] searchbox 'Search by message'
+
+[9231] link 'Commits feed'
+
+[9320] StaticText '22 Jan, 2013'
+
+[9323] StaticText '6 commits'
+
+[10042] link "Andrew M. Whalen's avatar"
+
+[10586] img "Andrew M. Whalen's avatar"
+
+[10044] link 'clean readme'
+
+[10048] link 'Andrew M. Whalen'
+
+[10049] StaticText ' authored '
+
+[8779] time 'Jan 22, 2013 12:52pm EST'
+
+[10588] StaticText '10 years ago'
+
+[10589] StaticText 'ffad76b7'
+
+[10053] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10054] link 'Browse Files'
+
+[10055] link "Andrew M. Whalen's avatar"
+
+[10592] img "Andrew M. Whalen's avatar"
+
+[10057] link 'clean readme'
+
+[10061] link 'Andrew M. Whalen'
+
+[10062] StaticText ' authored '
+
+[8784] time 'Jan 22, 2013 12:51pm EST'
+
+[10594] StaticText '10 years ago'
+
+[10595] StaticText '3627ff33'
+
+[10066] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10067] link 'Browse Files'
+
+[10068] link "Andrew M. Whalen's avatar"
+
+[10598] img "Andrew M. Whalen's avatar"
+
+[10070] link 'updated screenshot'
+
+[10074] link 'Andrew M. Whalen'
+
+[10075] StaticText ' authored '
+
+[8789] time 'Jan 22, 2013 12:50pm EST'
+
+[10600] StaticText '10 years ago'
+
+[10601] StaticText '41b976b0'
+
+[10079] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10080] link 'Browse Files'
+
+[10081] link "Andrew M. Whalen's avatar"
+
+[10604] img "Andrew M. Whalen's avatar"
+
+[10083] link 'updated screenshot paths'
+
+[10087] link 'Andrew M. Whalen'
+
+[10088] StaticText ' authored '
+
+[8794] time 'Jan 22, 2013 12:48pm EST'
+
+[10606] StaticText '10 years ago'
+
+[10607] StaticText '6328f173'
+
+[10092] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10093] link 'Browse Files'
+
+[10094] link "Andrew M. Whalen's avatar"
+
+[10610] img "Andrew M. Whalen's avatar"
+
+[10096] link 'added screenshots, license file'
+
+[10100] link 'Andrew M. Whalen'
+
+[10101] StaticText ' authored '
+
+[8799] time 'Jan 22, 2013 12:46pm EST'
+
+[10612] StaticText '10 years ago'
+
+[10613] StaticText '7f64d9b8'
+
+[10105] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10106] link 'Browse Files'
+
+[10107] link "Andrew M. Whalen's avatar"
+
+[10616] img "Andrew M. Whalen's avatar"
+
+[10109] link 'added twitter archive import functionality, updated readme with instructions'
+
+[10113] link 'Andrew M. Whalen'
+
+[10114] StaticText ' authored '
+
+[8804] time 'Jan 22, 2013 12:41pm EST'
+
+[10618] StaticText '10 years ago'
+
+[10619] StaticText '36bae02e'
+
+[10118] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10119] link 'Browse Files'
+
+[9325] StaticText '21 Jan, 2013'
+
+[9328] StaticText '2 commits'
+
+[10120] link "Andrew M. Whalen's avatar"
+
+[10622] img "Andrew M. Whalen's avatar"
+
+[10122] link 'updated README'
+
+[10126] link 'Andrew M. Whalen'
+
+[10127] StaticText ' authored '
+
+[8811] time 'Jan 20, 2013 10:10pm EST'
+
+[10624] StaticText '10 years ago'
+
+[10625] StaticText '86dff639'
+
+[10131] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10132] link 'Browse Files'
+
+[10133] link "Andrew M. Whalen's avatar"
+
+[10628] img "Andrew M. Whalen's avatar"
+
+[10135] link 'redesigned with bootstrap, responsive design, fixed some interface bugs,...'
+
+[10137] button 'Toggle commit description'
+
+[10142] link 'Andrew M. Whalen'
+
+[10143] StaticText ' authored '
+
+[8816] time 'Jan 20, 2013 10:02pm EST'
+
+[10633] StaticText '10 years ago'
+
+[10634] StaticText '1eb1de72'
+
+[10148] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10149] link 'Browse Files'</pre><div>
+
+[9323]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[9323]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.HOVER: 8>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '9323', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We are on the GitLab commits page for the "php52" branch. We need to find the contributor with the most commits to this branch. \n\nTo find the contributor with the most commits, we can check the list of commits on this page. We will look for the commit with the highest number of occurrences. \n\nLet\'s perform the following actions:\n1. Hover over the commit with the most occurrences.\n2. Get the contributor\'s full name, GitLab account name, location, and email address from the commit details.\n\nIn summary, the next action I will perform is ```hover [9323]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>hover [9323] where [9323] is [9323] StaticText '6 commits'</pre></div></div>
+
+[8731] RootWebArea 'Commits · php52 · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[9032] link 'Skip to content'
+
+[9158] link 'Dashboard'
+
+[9251] button '' hasPopup: menu expanded: False
+
+[8743] textbox 'Search GitLab' required: False
+
+[9907] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[9257] link 'Create new...'
+
+[9259] link 'Issues'
+
+[9507] generic '13 assigned issues'
+
+[9260] link 'Merge requests'
+
+[9509] generic '8 merge requests'
+
+[9262] link 'To-Do List'
+
+[9525] generic 'Todos count'
+
+[9263] link 'Help'
+
+[9265] link 'Byte Blaze'
+
+[9559] img 'Byte Blaze'
+
+[9033] complementary 'Project navigation'
+
+[9191] listitem 'archive-my-tweets'
+
+[9267] link 'archive-my-tweets'
+
+[9600] StaticText 'A'
+
+[9268] link 'Project information'
+
+[9270] link 'Repository'
+
+[9947] link 'Files'
+
+[9948] link 'Commits'
+
+[9949] link 'Branches'
+
+[9950] link 'Tags'
+
+[9951] link 'Contributors'
+
+[9952] link 'Graph'
+
+[9953] link 'Compare'
+
+[9272] link 'Issues'
+
+[9641] StaticText '14'
+
+[9274] link 'Merge requests'
+
+[9276] link 'CI/CD'
+
+[9278] link 'Deployments'
+
+[9280] link 'Packages and registries'
+
+[9282] link 'Monitor'
+
+[9284] link 'Analytics'
+
+[9286] link 'Wiki'
+
+[9288] link 'Snippets'
+
+[9149] button 'Collapse sidebar'
+
+[9037] navigation 'Breadcrumbs'
+
+[9305] link 'Andrew M. Whalen'
+
+[9307] link 'archive-my-tweets'
+
+[9309] link 'Commits'
+
+[8747] main ''
+
+[9310] button 'php52' hasPopup: menu expanded: False
+
+[9311] link 'archive-my-tweets'
+
+[9312] button 'Author' hasPopup: menu expanded: False
+
+[8754] searchbox 'Search by message'
+
+[9231] link 'Commits feed'
+
+[9320] StaticText '22 Jan, 2013'
+
+[9323] StaticText '6 commits'
+
+[10042] link "Andrew M. Whalen's avatar"
+
+[10586] img "Andrew M. Whalen's avatar"
+
+[10044] link 'clean readme'
+
+[10048] link 'Andrew M. Whalen'
+
+[10049] StaticText ' authored '
+
+[8779] time 'Jan 22, 2013 12:52pm EST'
+
+[10588] StaticText '10 years ago'
+
+[10589] StaticText 'ffad76b7'
+
+[10053] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10054] link 'Browse Files'
+
+[10055] link "Andrew M. Whalen's avatar"
+
+[10592] img "Andrew M. Whalen's avatar"
+
+[10057] link 'clean readme'
+
+[10061] link 'Andrew M. Whalen'
+
+[10062] StaticText ' authored '
+
+[8784] time 'Jan 22, 2013 12:51pm EST'
+
+[10594] StaticText '10 years ago'
+
+[10595] StaticText '3627ff33'
+
+[10066] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10067] link 'Browse Files'
+
+[10068] link "Andrew M. Whalen's avatar"
+
+[10598] img "Andrew M. Whalen's avatar"
+
+[10070] link 'updated screenshot'
+
+[10074] link 'Andrew M. Whalen'
+
+[10075] StaticText ' authored '
+
+[8789] time 'Jan 22, 2013 12:50pm EST'
+
+[10600] StaticText '10 years ago'
+
+[10601] StaticText '41b976b0'
+
+[10079] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10080] link 'Browse Files'
+
+[10081] link "Andrew M. Whalen's avatar"
+
+[10604] img "Andrew M. Whalen's avatar"
+
+[10083] link 'updated screenshot paths'
+
+[10087] link 'Andrew M. Whalen'
+
+[10088] StaticText ' authored '
+
+[8794] time 'Jan 22, 2013 12:48pm EST'
+
+[10606] StaticText '10 years ago'
+
+[10607] StaticText '6328f173'
+
+[10092] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10093] link 'Browse Files'
+
+[10094] link "Andrew M. Whalen's avatar"
+
+[10610] img "Andrew M. Whalen's avatar"
+
+[10096] link 'added screenshots, license file'
+
+[10100] link 'Andrew M. Whalen'
+
+[10101] StaticText ' authored '
+
+[8799] time 'Jan 22, 2013 12:46pm EST'
+
+[10612] StaticText '10 years ago'
+
+[10613] StaticText '7f64d9b8'
+
+[10105] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10106] link 'Browse Files'
+
+[10107] link "Andrew M. Whalen's avatar"
+
+[10616] img "Andrew M. Whalen's avatar"
+
+[10109] link 'added twitter archive import functionality, updated readme with instructions'
+
+[10113] link 'Andrew M. Whalen'
+
+[10114] StaticText ' authored '
+
+[8804] time 'Jan 22, 2013 12:41pm EST'
+
+[10618] StaticText '10 years ago'
+
+[10619] StaticText '36bae02e'
+
+[10118] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10119] link 'Browse Files'
+
+[9325] StaticText '21 Jan, 2013'
+
+[9328] StaticText '2 commits'
+
+[10120] link "Andrew M. Whalen's avatar"
+
+[10622] img "Andrew M. Whalen's avatar"
+
+[10122] link 'updated README'
+
+[10126] link 'Andrew M. Whalen'
+
+[10127] StaticText ' authored '
+
+[8811] time 'Jan 20, 2013 10:10pm EST'
+
+[10624] StaticText '10 years ago'
+
+[10625] StaticText '86dff639'
+
+[10131] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10132] link 'Browse Files'
+
+[10133] link "Andrew M. Whalen's avatar"
+
+[10628] img "Andrew M. Whalen's avatar"
+
+[10135] link 'redesigned with bootstrap, responsive design, fixed some interface bugs,...'
+
+[10137] button 'Toggle commit description'
+
+[10142] link 'Andrew M. Whalen'
+
+[10143] StaticText ' authored '
+
+[8816] time 'Jan 20, 2013 10:02pm EST'
+
+[10633] StaticText '10 years ago'
+
+[10634] StaticText '1eb1de72'
+
+[10148] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10149] link 'Browse Files'</pre><div>
+
+[9323] where [9323] is StaticText '6 commits'</div>
+
+[9323]. In summary, the next action I will perform is ```hover [9323]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.HOVER: 8>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '9323', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The contributor who has the most commits to branch php52 is mentioned here as "6 commits". To get more information about this contributor, I can hover over the element with ID [9323]. In summary, the next action I will perform is ```hover [9323]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>hover [9323] where [9323] is [9323] StaticText '6 commits'</pre></div></div>
+
+[8731] RootWebArea 'Commits · php52 · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[9032] link 'Skip to content'
+
+[9158] link 'Dashboard'
+
+[9251] button '' hasPopup: menu expanded: False
+
+[8743] textbox 'Search GitLab' required: False
+
+[9907] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[9257] link 'Create new...'
+
+[9259] link 'Issues'
+
+[9507] generic '13 assigned issues'
+
+[9260] link 'Merge requests'
+
+[9509] generic '8 merge requests'
+
+[9262] link 'To-Do List'
+
+[9525] generic 'Todos count'
+
+[9263] link 'Help'
+
+[9265] link 'Byte Blaze'
+
+[9559] img 'Byte Blaze'
+
+[9033] complementary 'Project navigation'
+
+[9191] listitem 'archive-my-tweets'
+
+[9267] link 'archive-my-tweets'
+
+[9600] StaticText 'A'
+
+[9268] link 'Project information'
+
+[9270] link 'Repository'
+
+[9947] link 'Files'
+
+[9948] link 'Commits'
+
+[9949] link 'Branches'
+
+[9950] link 'Tags'
+
+[9951] link 'Contributors'
+
+[9952] link 'Graph'
+
+[9953] link 'Compare'
+
+[9272] link 'Issues'
+
+[9641] StaticText '14'
+
+[9274] link 'Merge requests'
+
+[9276] link 'CI/CD'
+
+[9278] link 'Deployments'
+
+[9280] link 'Packages and registries'
+
+[9282] link 'Monitor'
+
+[9284] link 'Analytics'
+
+[9286] link 'Wiki'
+
+[9288] link 'Snippets'
+
+[9149] button 'Collapse sidebar'
+
+[9037] navigation 'Breadcrumbs'
+
+[9305] link 'Andrew M. Whalen'
+
+[9307] link 'archive-my-tweets'
+
+[9309] link 'Commits'
+
+[8747] main ''
+
+[9310] button 'php52' hasPopup: menu expanded: False
+
+[9311] link 'archive-my-tweets'
+
+[9312] button 'Author' hasPopup: menu expanded: False
+
+[8754] searchbox 'Search by message'
+
+[9231] link 'Commits feed'
+
+[9320] StaticText '22 Jan, 2013'
+
+[9323] StaticText '6 commits'
+
+[10042] link "Andrew M. Whalen's avatar"
+
+[10586] img "Andrew M. Whalen's avatar"
+
+[10044] link 'clean readme'
+
+[10048] link 'Andrew M. Whalen'
+
+[10049] StaticText ' authored '
+
+[8779] time 'Jan 22, 2013 12:52pm EST'
+
+[10588] StaticText '10 years ago'
+
+[10589] StaticText 'ffad76b7'
+
+[10053] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10054] link 'Browse Files'
+
+[10055] link "Andrew M. Whalen's avatar"
+
+[10592] img "Andrew M. Whalen's avatar"
+
+[10057] link 'clean readme'
+
+[10061] link 'Andrew M. Whalen'
+
+[10062] StaticText ' authored '
+
+[8784] time 'Jan 22, 2013 12:51pm EST'
+
+[10594] StaticText '10 years ago'
+
+[10595] StaticText '3627ff33'
+
+[10066] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10067] link 'Browse Files'
+
+[10068] link "Andrew M. Whalen's avatar"
+
+[10598] img "Andrew M. Whalen's avatar"
+
+[10070] link 'updated screenshot'
+
+[10074] link 'Andrew M. Whalen'
+
+[10075] StaticText ' authored '
+
+[8789] time 'Jan 22, 2013 12:50pm EST'
+
+[10600] StaticText '10 years ago'
+
+[10601] StaticText '41b976b0'
+
+[10079] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10080] link 'Browse Files'
+
+[10081] link "Andrew M. Whalen's avatar"
+
+[10604] img "Andrew M. Whalen's avatar"
+
+[10083] link 'updated screenshot paths'
+
+[10087] link 'Andrew M. Whalen'
+
+[10088] StaticText ' authored '
+
+[8794] time 'Jan 22, 2013 12:48pm EST'
+
+[10606] StaticText '10 years ago'
+
+[10607] StaticText '6328f173'
+
+[10092] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10093] link 'Browse Files'
+
+[10094] link "Andrew M. Whalen's avatar"
+
+[10610] img "Andrew M. Whalen's avatar"
+
+[10096] link 'added screenshots, license file'
+
+[10100] link 'Andrew M. Whalen'
+
+[10101] StaticText ' authored '
+
+[8799] time 'Jan 22, 2013 12:46pm EST'
+
+[10612] StaticText '10 years ago'
+
+[10613] StaticText '7f64d9b8'
+
+[10105] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10106] link 'Browse Files'
+
+[10107] link "Andrew M. Whalen's avatar"
+
+[10616] img "Andrew M. Whalen's avatar"
+
+[10109] link 'added twitter archive import functionality, updated readme with instructions'
+
+[10113] link 'Andrew M. Whalen'
+
+[10114] StaticText ' authored '
+
+[8804] time 'Jan 22, 2013 12:41pm EST'
+
+[10618] StaticText '10 years ago'
+
+[10619] StaticText '36bae02e'
+
+[10118] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10119] link 'Browse Files'
+
+[9325] StaticText '21 Jan, 2013'
+
+[9328] StaticText '2 commits'
+
+[10120] link "Andrew M. Whalen's avatar"
+
+[10622] img "Andrew M. Whalen's avatar"
+
+[10122] link 'updated README'
+
+[10126] link 'Andrew M. Whalen'
+
+[10127] StaticText ' authored '
+
+[8811] time 'Jan 20, 2013 10:10pm EST'
+
+[10624] StaticText '10 years ago'
+
+[10625] StaticText '86dff639'
+
+[10131] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10132] link 'Browse Files'
+
+[10133] link "Andrew M. Whalen's avatar"
+
+[10628] img "Andrew M. Whalen's avatar"
+
+[10135] link 'redesigned with bootstrap, responsive design, fixed some interface bugs,...'
+
+[10137] button 'Toggle commit description'
+
+[10142] link 'Andrew M. Whalen'
+
+[10143] StaticText ' authored '
+
+[8816] time 'Jan 20, 2013 10:02pm EST'
+
+[10633] StaticText '10 years ago'
+
+[10634] StaticText '1eb1de72'
+
+[10148] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10149] link 'Browse Files'</pre><div>
+
+[9323] where [9323] is StaticText '6 commits'</div>
+
+[9323], which is the number of commits. This will show me the contributor's information. In summary, the next action I will perform is `hover [9323]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. I need to find the contributor who has the most commits to the branch php52. To do that, I can hover over the link with the ID [9323], which is the number of commits. This will show me the contributor's information. In summary, the next action I will perform is `hover [9323]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[8731] RootWebArea 'Commits · php52 · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[9032] link 'Skip to content'
+
+[9158] link 'Dashboard'
+
+[9251] button '' hasPopup: menu expanded: False
+
+[8743] textbox 'Search GitLab' required: False
+
+[9907] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[9257] link 'Create new...'
+
+[9259] link 'Issues'
+
+[9507] generic '13 assigned issues'
+
+[9260] link 'Merge requests'
+
+[9509] generic '8 merge requests'
+
+[9262] link 'To-Do List'
+
+[9525] generic 'Todos count'
+
+[9263] link 'Help'
+
+[9265] link 'Byte Blaze'
+
+[9559] img 'Byte Blaze'
+
+[9033] complementary 'Project navigation'
+
+[9191] listitem 'archive-my-tweets'
+
+[9267] link 'archive-my-tweets'
+
+[9600] StaticText 'A'
+
+[9268] link 'Project information'
+
+[9270] link 'Repository'
+
+[9947] link 'Files'
+
+[9948] link 'Commits'
+
+[9949] link 'Branches'
+
+[9950] link 'Tags'
+
+[9951] link 'Contributors'
+
+[9952] link 'Graph'
+
+[9953] link 'Compare'
+
+[9272] link 'Issues'
+
+[9641] StaticText '14'
+
+[9274] link 'Merge requests'
+
+[9276] link 'CI/CD'
+
+[9278] link 'Deployments'
+
+[9280] link 'Packages and registries'
+
+[9282] link 'Monitor'
+
+[9284] link 'Analytics'
+
+[9286] link 'Wiki'
+
+[9288] link 'Snippets'
+
+[9149] button 'Collapse sidebar'
+
+[9037] navigation 'Breadcrumbs'
+
+[9305] link 'Andrew M. Whalen'
+
+[9307] link 'archive-my-tweets'
+
+[9309] link 'Commits'
+
+[8747] main ''
+
+[9310] button 'php52' hasPopup: menu expanded: False
+
+[9311] link 'archive-my-tweets'
+
+[9312] button 'Author' hasPopup: menu expanded: False
+
+[8754] searchbox 'Search by message'
+
+[9231] link 'Commits feed'
+
+[9320] StaticText '22 Jan, 2013'
+
+[9323] StaticText '6 commits'
+
+[10042] link "Andrew M. Whalen's avatar"
+
+[10586] img "Andrew M. Whalen's avatar"
+
+[10044] link 'clean readme'
+
+[10048] link 'Andrew M. Whalen'
+
+[10049] StaticText ' authored '
+
+[8779] time 'Jan 22, 2013 12:52pm EST'
+
+[10588] StaticText '10 years ago'
+
+[10589] StaticText 'ffad76b7'
+
+[10053] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10054] link 'Browse Files'
+
+[10055] link "Andrew M. Whalen's avatar"
+
+[10592] img "Andrew M. Whalen's avatar"
+
+[10057] link 'clean readme'
+
+[10061] link 'Andrew M. Whalen'
+
+[10062] StaticText ' authored '
+
+[8784] time 'Jan 22, 2013 12:51pm EST'
+
+[10594] StaticText '10 years ago'
+
+[10595] StaticText '3627ff33'
+
+[10066] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10067] link 'Browse Files'
+
+[10068] link "Andrew M. Whalen's avatar"
+
+[10598] img "Andrew M. Whalen's avatar"
+
+[10070] link 'updated screenshot'
+
+[10074] link 'Andrew M. Whalen'
+
+[10075] StaticText ' authored '
+
+[8789] time 'Jan 22, 2013 12:50pm EST'
+
+[10600] StaticText '10 years ago'
+
+[10601] StaticText '41b976b0'
+
+[10079] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10080] link 'Browse Files'
+
+[10081] link "Andrew M. Whalen's avatar"
+
+[10604] img "Andrew M. Whalen's avatar"
+
+[10083] link 'updated screenshot paths'
+
+[10087] link 'Andrew M. Whalen'
+
+[10088] StaticText ' authored '
+
+[8794] time 'Jan 22, 2013 12:48pm EST'
+
+[10606] StaticText '10 years ago'
+
+[10607] StaticText '6328f173'
+
+[10092] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10093] link 'Browse Files'
+
+[10094] link "Andrew M. Whalen's avatar"
+
+[10610] img "Andrew M. Whalen's avatar"
+
+[10096] link 'added screenshots, license file'
+
+[10100] link 'Andrew M. Whalen'
+
+[10101] StaticText ' authored '
+
+[8799] time 'Jan 22, 2013 12:46pm EST'
+
+[10612] StaticText '10 years ago'
+
+[10613] StaticText '7f64d9b8'
+
+[10105] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10106] link 'Browse Files'
+
+[10107] link "Andrew M. Whalen's avatar"
+
+[10616] img "Andrew M. Whalen's avatar"
+
+[10109] link 'added twitter archive import functionality, updated readme with instructions'
+
+[10113] link 'Andrew M. Whalen'
+
+[10114] StaticText ' authored '
+
+[8804] time 'Jan 22, 2013 12:41pm EST'
+
+[10618] StaticText '10 years ago'
+
+[10619] StaticText '36bae02e'
+
+[10118] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10119] link 'Browse Files'
+
+[9325] StaticText '21 Jan, 2013'
+
+[9328] StaticText '2 commits'
+
+[10120] link "Andrew M. Whalen's avatar"
+
+[10622] img "Andrew M. Whalen's avatar"
+
+[10122] link 'updated README'
+
+[10126] link 'Andrew M. Whalen'
+
+[10127] StaticText ' authored '
+
+[8811] time 'Jan 20, 2013 10:10pm EST'
+
+[10624] StaticText '10 years ago'
+
+[10625] StaticText '86dff639'
+
+[10131] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10132] link 'Browse Files'
+
+[10133] link "Andrew M. Whalen's avatar"
+
+[10628] img "Andrew M. Whalen's avatar"
+
+[10135] link 'redesigned with bootstrap, responsive design, fixed some interface bugs,...'
+
+[10137] button 'Toggle commit description'
+
+[10142] link 'Andrew M. Whalen'
+
+[10143] StaticText ' authored '
+
+[8816] time 'Jan 20, 2013 10:02pm EST'
+
+[10633] StaticText '10 years ago'
+
+[10634] StaticText '1eb1de72'
+
+[10148] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10149] link 'Browse Files'</pre><div>
+
+[9323], which is the number of commits. This will show me the contributor's information. In summary, the next action I will perform is `hover [9323]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[9323], which is the number of commits. This will show me the contributor's information. In summary, the next action I will perform is ```hover [9323]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.HOVER: 8>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '9323', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. I need to find the contributor who has the most commits to the branch php52. To do that, I can hover over the link with the ID [9323], which is the number of commits. This will show me the contributor's information. In summary, the next action I will perform is ```hover [9323]```."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>hover [9323] where [9323] is [9323] StaticText '6 commits'</pre></div></div>
+
+[8731] RootWebArea 'Commits · php52 · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[9032] link 'Skip to content'
+
+[9158] link 'Dashboard'
+
+[9251] button '' hasPopup: menu expanded: False
+
+[8743] textbox 'Search GitLab' required: False
+
+[9907] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[9257] link 'Create new...'
+
+[9259] link 'Issues'
+
+[9507] generic '13 assigned issues'
+
+[9260] link 'Merge requests'
+
+[9509] generic '8 merge requests'
+
+[9262] link 'To-Do List'
+
+[9525] generic 'Todos count'
+
+[9263] link 'Help'
+
+[9265] link 'Byte Blaze'
+
+[9559] img 'Byte Blaze'
+
+[9033] complementary 'Project navigation'
+
+[9191] listitem 'archive-my-tweets'
+
+[9267] link 'archive-my-tweets'
+
+[9600] StaticText 'A'
+
+[9268] link 'Project information'
+
+[9270] link 'Repository'
+
+[9947] link 'Files'
+
+[9948] link 'Commits'
+
+[9949] link 'Branches'
+
+[9950] link 'Tags'
+
+[9951] link 'Contributors'
+
+[9952] link 'Graph'
+
+[9953] link 'Compare'
+
+[9272] link 'Issues'
+
+[9641] StaticText '14'
+
+[9274] link 'Merge requests'
+
+[9276] link 'CI/CD'
+
+[9278] link 'Deployments'
+
+[9280] link 'Packages and registries'
+
+[9282] link 'Monitor'
+
+[9284] link 'Analytics'
+
+[9286] link 'Wiki'
+
+[9288] link 'Snippets'
+
+[9149] button 'Collapse sidebar'
+
+[9037] navigation 'Breadcrumbs'
+
+[9305] link 'Andrew M. Whalen'
+
+[9307] link 'archive-my-tweets'
+
+[9309] link 'Commits'
+
+[8747] main ''
+
+[9310] button 'php52' hasPopup: menu expanded: False
+
+[9311] link 'archive-my-tweets'
+
+[9312] button 'Author' hasPopup: menu expanded: False
+
+[8754] searchbox 'Search by message'
+
+[9231] link 'Commits feed'
+
+[9320] StaticText '22 Jan, 2013'
+
+[9323] StaticText '6 commits'
+
+[10042] link "Andrew M. Whalen's avatar"
+
+[10586] img "Andrew M. Whalen's avatar"
+
+[10044] link 'clean readme'
+
+[10048] link 'Andrew M. Whalen'
+
+[10049] StaticText ' authored '
+
+[8779] time 'Jan 22, 2013 12:52pm EST'
+
+[10588] StaticText '10 years ago'
+
+[10589] StaticText 'ffad76b7'
+
+[10053] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10054] link 'Browse Files'
+
+[10055] link "Andrew M. Whalen's avatar"
+
+[10592] img "Andrew M. Whalen's avatar"
+
+[10057] link 'clean readme'
+
+[10061] link 'Andrew M. Whalen'
+
+[10062] StaticText ' authored '
+
+[8784] time 'Jan 22, 2013 12:51pm EST'
+
+[10594] StaticText '10 years ago'
+
+[10595] StaticText '3627ff33'
+
+[10066] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10067] link 'Browse Files'
+
+[10068] link "Andrew M. Whalen's avatar"
+
+[10598] img "Andrew M. Whalen's avatar"
+
+[10070] link 'updated screenshot'
+
+[10074] link 'Andrew M. Whalen'
+
+[10075] StaticText ' authored '
+
+[8789] time 'Jan 22, 2013 12:50pm EST'
+
+[10600] StaticText '10 years ago'
+
+[10601] StaticText '41b976b0'
+
+[10079] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10080] link 'Browse Files'
+
+[10081] link "Andrew M. Whalen's avatar"
+
+[10604] img "Andrew M. Whalen's avatar"
+
+[10083] link 'updated screenshot paths'
+
+[10087] link 'Andrew M. Whalen'
+
+[10088] StaticText ' authored '
+
+[8794] time 'Jan 22, 2013 12:48pm EST'
+
+[10606] StaticText '10 years ago'
+
+[10607] StaticText '6328f173'
+
+[10092] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10093] link 'Browse Files'
+
+[10094] link "Andrew M. Whalen's avatar"
+
+[10610] img "Andrew M. Whalen's avatar"
+
+[10096] link 'added screenshots, license file'
+
+[10100] link 'Andrew M. Whalen'
+
+[10101] StaticText ' authored '
+
+[8799] time 'Jan 22, 2013 12:46pm EST'
+
+[10612] StaticText '10 years ago'
+
+[10613] StaticText '7f64d9b8'
+
+[10105] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10106] link 'Browse Files'
+
+[10107] link "Andrew M. Whalen's avatar"
+
+[10616] img "Andrew M. Whalen's avatar"
+
+[10109] link 'added twitter archive import functionality, updated readme with instructions'
+
+[10113] link 'Andrew M. Whalen'
+
+[10114] StaticText ' authored '
+
+[8804] time 'Jan 22, 2013 12:41pm EST'
+
+[10618] StaticText '10 years ago'
+
+[10619] StaticText '36bae02e'
+
+[10118] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10119] link 'Browse Files'
+
+[9325] StaticText '21 Jan, 2013'
+
+[9328] StaticText '2 commits'
+
+[10120] link "Andrew M. Whalen's avatar"
+
+[10622] img "Andrew M. Whalen's avatar"
+
+[10122] link 'updated README'
+
+[10126] link 'Andrew M. Whalen'
+
+[10127] StaticText ' authored '
+
+[8811] time 'Jan 20, 2013 10:10pm EST'
+
+[10624] StaticText '10 years ago'
+
+[10625] StaticText '86dff639'
+
+[10131] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10132] link 'Browse Files'
+
+[10133] link "Andrew M. Whalen's avatar"
+
+[10628] img "Andrew M. Whalen's avatar"
+
+[10135] link 'redesigned with bootstrap, responsive design, fixed some interface bugs,...'
+
+[10137] button 'Toggle commit description'
+
+[10142] link 'Andrew M. Whalen'
+
+[10143] StaticText ' authored '
+
+[8816] time 'Jan 20, 2013 10:02pm EST'
+
+[10633] StaticText '10 years ago'
+
+[10634] StaticText '1eb1de72'
+
+[10148] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10149] link 'Browse Files'</pre><div>
+
+[9323] where [9323] is StaticText '6 commits'</div>
+
+[9323]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To find the contributor with the most commits to branch php52, we need to look at the commit list. The contributor with the most commits will have their name listed multiple times. I have hovered over the "6 commits" link to see if there are any additional details. Now, I will click on the link to view the commit details. In summary, the next action I will perform is `click [9323]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[8731] RootWebArea 'Commits · php52 · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[9032] link 'Skip to content'
+
+[9158] link 'Dashboard'
+
+[9251] button '' hasPopup: menu expanded: False
+
+[8743] textbox 'Search GitLab' required: False
+
+[9907] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[9257] link 'Create new...'
+
+[9259] link 'Issues'
+
+[9507] generic '13 assigned issues'
+
+[9260] link 'Merge requests'
+
+[9509] generic '8 merge requests'
+
+[9262] link 'To-Do List'
+
+[9525] generic 'Todos count'
+
+[9263] link 'Help'
+
+[9265] link 'Byte Blaze'
+
+[9559] img 'Byte Blaze'
+
+[9033] complementary 'Project navigation'
+
+[9191] listitem 'archive-my-tweets'
+
+[9267] link 'archive-my-tweets'
+
+[9600] StaticText 'A'
+
+[9268] link 'Project information'
+
+[9270] link 'Repository'
+
+[9947] link 'Files'
+
+[9948] link 'Commits'
+
+[9949] link 'Branches'
+
+[9950] link 'Tags'
+
+[9951] link 'Contributors'
+
+[9952] link 'Graph'
+
+[9953] link 'Compare'
+
+[9272] link 'Issues'
+
+[9641] StaticText '14'
+
+[9274] link 'Merge requests'
+
+[9276] link 'CI/CD'
+
+[9278] link 'Deployments'
+
+[9280] link 'Packages and registries'
+
+[9282] link 'Monitor'
+
+[9284] link 'Analytics'
+
+[9286] link 'Wiki'
+
+[9288] link 'Snippets'
+
+[9149] button 'Collapse sidebar'
+
+[9037] navigation 'Breadcrumbs'
+
+[9305] link 'Andrew M. Whalen'
+
+[9307] link 'archive-my-tweets'
+
+[9309] link 'Commits'
+
+[8747] main ''
+
+[9310] button 'php52' hasPopup: menu expanded: False
+
+[9311] link 'archive-my-tweets'
+
+[9312] button 'Author' hasPopup: menu expanded: False
+
+[8754] searchbox 'Search by message'
+
+[9231] link 'Commits feed'
+
+[9320] StaticText '22 Jan, 2013'
+
+[9323] StaticText '6 commits'
+
+[10042] link "Andrew M. Whalen's avatar"
+
+[10586] img "Andrew M. Whalen's avatar"
+
+[10044] link 'clean readme'
+
+[10048] link 'Andrew M. Whalen'
+
+[10049] StaticText ' authored '
+
+[8779] time 'Jan 22, 2013 12:52pm EST'
+
+[10588] StaticText '10 years ago'
+
+[10589] StaticText 'ffad76b7'
+
+[10053] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10054] link 'Browse Files'
+
+[10055] link "Andrew M. Whalen's avatar"
+
+[10592] img "Andrew M. Whalen's avatar"
+
+[10057] link 'clean readme'
+
+[10061] link 'Andrew M. Whalen'
+
+[10062] StaticText ' authored '
+
+[8784] time 'Jan 22, 2013 12:51pm EST'
+
+[10594] StaticText '10 years ago'
+
+[10595] StaticText '3627ff33'
+
+[10066] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10067] link 'Browse Files'
+
+[10068] link "Andrew M. Whalen's avatar"
+
+[10598] img "Andrew M. Whalen's avatar"
+
+[10070] link 'updated screenshot'
+
+[10074] link 'Andrew M. Whalen'
+
+[10075] StaticText ' authored '
+
+[8789] time 'Jan 22, 2013 12:50pm EST'
+
+[10600] StaticText '10 years ago'
+
+[10601] StaticText '41b976b0'
+
+[10079] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10080] link 'Browse Files'
+
+[10081] link "Andrew M. Whalen's avatar"
+
+[10604] img "Andrew M. Whalen's avatar"
+
+[10083] link 'updated screenshot paths'
+
+[10087] link 'Andrew M. Whalen'
+
+[10088] StaticText ' authored '
+
+[8794] time 'Jan 22, 2013 12:48pm EST'
+
+[10606] StaticText '10 years ago'
+
+[10607] StaticText '6328f173'
+
+[10092] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10093] link 'Browse Files'
+
+[10094] link "Andrew M. Whalen's avatar"
+
+[10610] img "Andrew M. Whalen's avatar"
+
+[10096] link 'added screenshots, license file'
+
+[10100] link 'Andrew M. Whalen'
+
+[10101] StaticText ' authored '
+
+[8799] time 'Jan 22, 2013 12:46pm EST'
+
+[10612] StaticText '10 years ago'
+
+[10613] StaticText '7f64d9b8'
+
+[10105] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10106] link 'Browse Files'
+
+[10107] link "Andrew M. Whalen's avatar"
+
+[10616] img "Andrew M. Whalen's avatar"
+
+[10109] link 'added twitter archive import functionality, updated readme with instructions'
+
+[10113] link 'Andrew M. Whalen'
+
+[10114] StaticText ' authored '
+
+[8804] time 'Jan 22, 2013 12:41pm EST'
+
+[10618] StaticText '10 years ago'
+
+[10619] StaticText '36bae02e'
+
+[10118] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10119] link 'Browse Files'
+
+[9325] StaticText '21 Jan, 2013'
+
+[9328] StaticText '2 commits'
+
+[10120] link "Andrew M. Whalen's avatar"
+
+[10622] img "Andrew M. Whalen's avatar"
+
+[10122] link 'updated README'
+
+[10126] link 'Andrew M. Whalen'
+
+[10127] StaticText ' authored '
+
+[8811] time 'Jan 20, 2013 10:10pm EST'
+
+[10624] StaticText '10 years ago'
+
+[10625] StaticText '86dff639'
+
+[10131] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10132] link 'Browse Files'
+
+[10133] link "Andrew M. Whalen's avatar"
+
+[10628] img "Andrew M. Whalen's avatar"
+
+[10135] link 'redesigned with bootstrap, responsive design, fixed some interface bugs,...'
+
+[10137] button 'Toggle commit description'
+
+[10142] link 'Andrew M. Whalen'
+
+[10143] StaticText ' authored '
+
+[8816] time 'Jan 20, 2013 10:02pm EST'
+
+[10633] StaticText '10 years ago'
+
+[10634] StaticText '1eb1de72'
+
+[10148] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10149] link 'Browse Files'</pre><div>
+
+[9323]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[9323]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '9323', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To find the contributor with the most commits to branch php52, we need to look at the commit list. The contributor with the most commits will have their name listed multiple times. I have hovered over the "6 commits" link to see if there are any additional details. Now, I will click on the link to view the commit details. In summary, the next action I will perform is ```click [9323]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [9323] where [9323] is [9323] StaticText '6 commits'</pre></div></div>
+
+[8731] RootWebArea 'Commits · php52 · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[9032] link 'Skip to content'
+
+[9158] link 'Dashboard'
+
+[9251] button '' hasPopup: menu expanded: False
+
+[8743] textbox 'Search GitLab' required: False
+
+[9907] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[9257] link 'Create new...'
+
+[9259] link 'Issues'
+
+[9507] generic '13 assigned issues'
+
+[9260] link 'Merge requests'
+
+[9509] generic '8 merge requests'
+
+[9262] link 'To-Do List'
+
+[9525] generic 'Todos count'
+
+[9263] link 'Help'
+
+[9265] link 'Byte Blaze'
+
+[9559] img 'Byte Blaze'
+
+[9033] complementary 'Project navigation'
+
+[9191] listitem 'archive-my-tweets'
+
+[9267] link 'archive-my-tweets'
+
+[9600] StaticText 'A'
+
+[9268] link 'Project information'
+
+[9270] link 'Repository'
+
+[9947] link 'Files'
+
+[9948] link 'Commits'
+
+[9949] link 'Branches'
+
+[9950] link 'Tags'
+
+[9951] link 'Contributors'
+
+[9952] link 'Graph'
+
+[9953] link 'Compare'
+
+[9272] link 'Issues'
+
+[9641] StaticText '14'
+
+[9274] link 'Merge requests'
+
+[9276] link 'CI/CD'
+
+[9278] link 'Deployments'
+
+[9280] link 'Packages and registries'
+
+[9282] link 'Monitor'
+
+[9284] link 'Analytics'
+
+[9286] link 'Wiki'
+
+[9288] link 'Snippets'
+
+[9149] button 'Collapse sidebar'
+
+[9037] navigation 'Breadcrumbs'
+
+[9305] link 'Andrew M. Whalen'
+
+[9307] link 'archive-my-tweets'
+
+[9309] link 'Commits'
+
+[8747] main ''
+
+[9310] button 'php52' hasPopup: menu expanded: False
+
+[9311] link 'archive-my-tweets'
+
+[9312] button 'Author' hasPopup: menu expanded: False
+
+[8754] searchbox 'Search by message'
+
+[9231] link 'Commits feed'
+
+[9320] StaticText '22 Jan, 2013'
+
+[9323] StaticText '6 commits'
+
+[10042] link "Andrew M. Whalen's avatar"
+
+[10586] img "Andrew M. Whalen's avatar"
+
+[10044] link 'clean readme'
+
+[10048] link 'Andrew M. Whalen'
+
+[10049] StaticText ' authored '
+
+[8779] time 'Jan 22, 2013 12:52pm EST'
+
+[10588] StaticText '10 years ago'
+
+[10589] StaticText 'ffad76b7'
+
+[10053] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10054] link 'Browse Files'
+
+[10055] link "Andrew M. Whalen's avatar"
+
+[10592] img "Andrew M. Whalen's avatar"
+
+[10057] link 'clean readme'
+
+[10061] link 'Andrew M. Whalen'
+
+[10062] StaticText ' authored '
+
+[8784] time 'Jan 22, 2013 12:51pm EST'
+
+[10594] StaticText '10 years ago'
+
+[10595] StaticText '3627ff33'
+
+[10066] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10067] link 'Browse Files'
+
+[10068] link "Andrew M. Whalen's avatar"
+
+[10598] img "Andrew M. Whalen's avatar"
+
+[10070] link 'updated screenshot'
+
+[10074] link 'Andrew M. Whalen'
+
+[10075] StaticText ' authored '
+
+[8789] time 'Jan 22, 2013 12:50pm EST'
+
+[10600] StaticText '10 years ago'
+
+[10601] StaticText '41b976b0'
+
+[10079] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10080] link 'Browse Files'
+
+[10081] link "Andrew M. Whalen's avatar"
+
+[10604] img "Andrew M. Whalen's avatar"
+
+[10083] link 'updated screenshot paths'
+
+[10087] link 'Andrew M. Whalen'
+
+[10088] StaticText ' authored '
+
+[8794] time 'Jan 22, 2013 12:48pm EST'
+
+[10606] StaticText '10 years ago'
+
+[10607] StaticText '6328f173'
+
+[10092] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10093] link 'Browse Files'
+
+[10094] link "Andrew M. Whalen's avatar"
+
+[10610] img "Andrew M. Whalen's avatar"
+
+[10096] link 'added screenshots, license file'
+
+[10100] link 'Andrew M. Whalen'
+
+[10101] StaticText ' authored '
+
+[8799] time 'Jan 22, 2013 12:46pm EST'
+
+[10612] StaticText '10 years ago'
+
+[10613] StaticText '7f64d9b8'
+
+[10105] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10106] link 'Browse Files'
+
+[10107] link "Andrew M. Whalen's avatar"
+
+[10616] img "Andrew M. Whalen's avatar"
+
+[10109] link 'added twitter archive import functionality, updated readme with instructions'
+
+[10113] link 'Andrew M. Whalen'
+
+[10114] StaticText ' authored '
+
+[8804] time 'Jan 22, 2013 12:41pm EST'
+
+[10618] StaticText '10 years ago'
+
+[10619] StaticText '36bae02e'
+
+[10118] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10119] link 'Browse Files'
+
+[9325] StaticText '21 Jan, 2013'
+
+[9328] StaticText '2 commits'
+
+[10120] link "Andrew M. Whalen's avatar"
+
+[10622] img "Andrew M. Whalen's avatar"
+
+[10122] link 'updated README'
+
+[10126] link 'Andrew M. Whalen'
+
+[10127] StaticText ' authored '
+
+[8811] time 'Jan 20, 2013 10:10pm EST'
+
+[10624] StaticText '10 years ago'
+
+[10625] StaticText '86dff639'
+
+[10131] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10132] link 'Browse Files'
+
+[10133] link "Andrew M. Whalen's avatar"
+
+[10628] img "Andrew M. Whalen's avatar"
+
+[10135] link 'redesigned with bootstrap, responsive design, fixed some interface bugs,...'
+
+[10137] button 'Toggle commit description'
+
+[10142] link 'Andrew M. Whalen'
+
+[10143] StaticText ' authored '
+
+[8816] time 'Jan 20, 2013 10:02pm EST'
+
+[10633] StaticText '10 years ago'
+
+[10634] StaticText '1eb1de72'
+
+[10148] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10149] link 'Browse Files'</pre><div>
+
+[9323] where [9323] is StaticText '6 commits'</div>
+
+[9323]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '9323', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. I will click on the link with the text '6 commits' to view the list of commits. Then, I can find the contributor with the most commits to the branch php52. In summary, the next action I will perform is ```click [9323]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [9323] where [9323] is [9323] StaticText '6 commits'</pre></div></div>
+
+[8731] RootWebArea 'Commits · php52 · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[9032] link 'Skip to content'
+
+[9158] link 'Dashboard'
+
+[9251] button '' hasPopup: menu expanded: False
+
+[8743] textbox 'Search GitLab' required: False
+
+[9907] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[9257] link 'Create new...'
+
+[9259] link 'Issues'
+
+[9507] generic '13 assigned issues'
+
+[9260] link 'Merge requests'
+
+[9509] generic '8 merge requests'
+
+[9262] link 'To-Do List'
+
+[9525] generic 'Todos count'
+
+[9263] link 'Help'
+
+[9265] link 'Byte Blaze'
+
+[9559] img 'Byte Blaze'
+
+[9033] complementary 'Project navigation'
+
+[9191] listitem 'archive-my-tweets'
+
+[9267] link 'archive-my-tweets'
+
+[9600] StaticText 'A'
+
+[9268] link 'Project information'
+
+[9270] link 'Repository'
+
+[9947] link 'Files'
+
+[9948] link 'Commits'
+
+[9949] link 'Branches'
+
+[9950] link 'Tags'
+
+[9951] link 'Contributors'
+
+[9952] link 'Graph'
+
+[9953] link 'Compare'
+
+[9272] link 'Issues'
+
+[9641] StaticText '14'
+
+[9274] link 'Merge requests'
+
+[9276] link 'CI/CD'
+
+[9278] link 'Deployments'
+
+[9280] link 'Packages and registries'
+
+[9282] link 'Monitor'
+
+[9284] link 'Analytics'
+
+[9286] link 'Wiki'
+
+[9288] link 'Snippets'
+
+[9149] button 'Collapse sidebar'
+
+[9037] navigation 'Breadcrumbs'
+
+[9305] link 'Andrew M. Whalen'
+
+[9307] link 'archive-my-tweets'
+
+[9309] link 'Commits'
+
+[8747] main ''
+
+[9310] button 'php52' hasPopup: menu expanded: False
+
+[9311] link 'archive-my-tweets'
+
+[9312] button 'Author' hasPopup: menu expanded: False
+
+[8754] searchbox 'Search by message'
+
+[9231] link 'Commits feed'
+
+[9320] StaticText '22 Jan, 2013'
+
+[9323] StaticText '6 commits'
+
+[10042] link "Andrew M. Whalen's avatar"
+
+[10586] img "Andrew M. Whalen's avatar"
+
+[10044] link 'clean readme'
+
+[10048] link 'Andrew M. Whalen'
+
+[10049] StaticText ' authored '
+
+[8779] time 'Jan 22, 2013 12:52pm EST'
+
+[10588] StaticText '10 years ago'
+
+[10589] StaticText 'ffad76b7'
+
+[10053] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10054] link 'Browse Files'
+
+[10055] link "Andrew M. Whalen's avatar"
+
+[10592] img "Andrew M. Whalen's avatar"
+
+[10057] link 'clean readme'
+
+[10061] link 'Andrew M. Whalen'
+
+[10062] StaticText ' authored '
+
+[8784] time 'Jan 22, 2013 12:51pm EST'
+
+[10594] StaticText '10 years ago'
+
+[10595] StaticText '3627ff33'
+
+[10066] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10067] link 'Browse Files'
+
+[10068] link "Andrew M. Whalen's avatar"
+
+[10598] img "Andrew M. Whalen's avatar"
+
+[10070] link 'updated screenshot'
+
+[10074] link 'Andrew M. Whalen'
+
+[10075] StaticText ' authored '
+
+[8789] time 'Jan 22, 2013 12:50pm EST'
+
+[10600] StaticText '10 years ago'
+
+[10601] StaticText '41b976b0'
+
+[10079] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10080] link 'Browse Files'
+
+[10081] link "Andrew M. Whalen's avatar"
+
+[10604] img "Andrew M. Whalen's avatar"
+
+[10083] link 'updated screenshot paths'
+
+[10087] link 'Andrew M. Whalen'
+
+[10088] StaticText ' authored '
+
+[8794] time 'Jan 22, 2013 12:48pm EST'
+
+[10606] StaticText '10 years ago'
+
+[10607] StaticText '6328f173'
+
+[10092] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10093] link 'Browse Files'
+
+[10094] link "Andrew M. Whalen's avatar"
+
+[10610] img "Andrew M. Whalen's avatar"
+
+[10096] link 'added screenshots, license file'
+
+[10100] link 'Andrew M. Whalen'
+
+[10101] StaticText ' authored '
+
+[8799] time 'Jan 22, 2013 12:46pm EST'
+
+[10612] StaticText '10 years ago'
+
+[10613] StaticText '7f64d9b8'
+
+[10105] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10106] link 'Browse Files'
+
+[10107] link "Andrew M. Whalen's avatar"
+
+[10616] img "Andrew M. Whalen's avatar"
+
+[10109] link 'added twitter archive import functionality, updated readme with instructions'
+
+[10113] link 'Andrew M. Whalen'
+
+[10114] StaticText ' authored '
+
+[8804] time 'Jan 22, 2013 12:41pm EST'
+
+[10618] StaticText '10 years ago'
+
+[10619] StaticText '36bae02e'
+
+[10118] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10119] link 'Browse Files'
+
+[9325] StaticText '21 Jan, 2013'
+
+[9328] StaticText '2 commits'
+
+[10120] link "Andrew M. Whalen's avatar"
+
+[10622] img "Andrew M. Whalen's avatar"
+
+[10122] link 'updated README'
+
+[10126] link 'Andrew M. Whalen'
+
+[10127] StaticText ' authored '
+
+[8811] time 'Jan 20, 2013 10:10pm EST'
+
+[10624] StaticText '10 years ago'
+
+[10625] StaticText '86dff639'
+
+[10131] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10132] link 'Browse Files'
+
+[10133] link "Andrew M. Whalen's avatar"
+
+[10628] img "Andrew M. Whalen's avatar"
+
+[10135] link 'redesigned with bootstrap, responsive design, fixed some interface bugs,...'
+
+[10137] button 'Toggle commit description'
+
+[10142] link 'Andrew M. Whalen'
+
+[10143] StaticText ' authored '
+
+[8816] time 'Jan 20, 2013 10:02pm EST'
+
+[10633] StaticText '10 years ago'
+
+[10634] StaticText '1eb1de72'
+
+[10148] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10149] link 'Browse Files'</pre><div>
+
+[9323] where [9323] is StaticText '6 commits'</div>
+
+[9323]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. I can see that there is a section that shows the contributors' commits to the branch php52. The contributor with the most commits should be listed at the top. I will need to click on the link that shows the number of commits for that contributor. In summary, the next action I will perform is `click [9323]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[8731] RootWebArea 'Commits · php52 · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[9032] link 'Skip to content'
+
+[9158] link 'Dashboard'
+
+[9251] button '' hasPopup: menu expanded: False
+
+[8743] textbox 'Search GitLab' required: False
+
+[9907] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[9257] link 'Create new...'
+
+[9259] link 'Issues'
+
+[9507] generic '13 assigned issues'
+
+[9260] link 'Merge requests'
+
+[9509] generic '8 merge requests'
+
+[9262] link 'To-Do List'
+
+[9525] generic 'Todos count'
+
+[9263] link 'Help'
+
+[9265] link 'Byte Blaze'
+
+[9559] img 'Byte Blaze'
+
+[9033] complementary 'Project navigation'
+
+[9191] listitem 'archive-my-tweets'
+
+[9267] link 'archive-my-tweets'
+
+[9600] StaticText 'A'
+
+[9268] link 'Project information'
+
+[9270] link 'Repository'
+
+[9947] link 'Files'
+
+[9948] link 'Commits'
+
+[9949] link 'Branches'
+
+[9950] link 'Tags'
+
+[9951] link 'Contributors'
+
+[9952] link 'Graph'
+
+[9953] link 'Compare'
+
+[9272] link 'Issues'
+
+[9641] StaticText '14'
+
+[9274] link 'Merge requests'
+
+[9276] link 'CI/CD'
+
+[9278] link 'Deployments'
+
+[9280] link 'Packages and registries'
+
+[9282] link 'Monitor'
+
+[9284] link 'Analytics'
+
+[9286] link 'Wiki'
+
+[9288] link 'Snippets'
+
+[9149] button 'Collapse sidebar'
+
+[9037] navigation 'Breadcrumbs'
+
+[9305] link 'Andrew M. Whalen'
+
+[9307] link 'archive-my-tweets'
+
+[9309] link 'Commits'
+
+[8747] main ''
+
+[9310] button 'php52' hasPopup: menu expanded: False
+
+[9311] link 'archive-my-tweets'
+
+[9312] button 'Author' hasPopup: menu expanded: False
+
+[8754] searchbox 'Search by message'
+
+[9231] link 'Commits feed'
+
+[9320] StaticText '22 Jan, 2013'
+
+[9323] StaticText '6 commits'
+
+[10042] link "Andrew M. Whalen's avatar"
+
+[10586] img "Andrew M. Whalen's avatar"
+
+[10044] link 'clean readme'
+
+[10048] link 'Andrew M. Whalen'
+
+[10049] StaticText ' authored '
+
+[8779] time 'Jan 22, 2013 12:52pm EST'
+
+[10588] StaticText '10 years ago'
+
+[10589] StaticText 'ffad76b7'
+
+[10053] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10054] link 'Browse Files'
+
+[10055] link "Andrew M. Whalen's avatar"
+
+[10592] img "Andrew M. Whalen's avatar"
+
+[10057] link 'clean readme'
+
+[10061] link 'Andrew M. Whalen'
+
+[10062] StaticText ' authored '
+
+[8784] time 'Jan 22, 2013 12:51pm EST'
+
+[10594] StaticText '10 years ago'
+
+[10595] StaticText '3627ff33'
+
+[10066] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10067] link 'Browse Files'
+
+[10068] link "Andrew M. Whalen's avatar"
+
+[10598] img "Andrew M. Whalen's avatar"
+
+[10070] link 'updated screenshot'
+
+[10074] link 'Andrew M. Whalen'
+
+[10075] StaticText ' authored '
+
+[8789] time 'Jan 22, 2013 12:50pm EST'
+
+[10600] StaticText '10 years ago'
+
+[10601] StaticText '41b976b0'
+
+[10079] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10080] link 'Browse Files'
+
+[10081] link "Andrew M. Whalen's avatar"
+
+[10604] img "Andrew M. Whalen's avatar"
+
+[10083] link 'updated screenshot paths'
+
+[10087] link 'Andrew M. Whalen'
+
+[10088] StaticText ' authored '
+
+[8794] time 'Jan 22, 2013 12:48pm EST'
+
+[10606] StaticText '10 years ago'
+
+[10607] StaticText '6328f173'
+
+[10092] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10093] link 'Browse Files'
+
+[10094] link "Andrew M. Whalen's avatar"
+
+[10610] img "Andrew M. Whalen's avatar"
+
+[10096] link 'added screenshots, license file'
+
+[10100] link 'Andrew M. Whalen'
+
+[10101] StaticText ' authored '
+
+[8799] time 'Jan 22, 2013 12:46pm EST'
+
+[10612] StaticText '10 years ago'
+
+[10613] StaticText '7f64d9b8'
+
+[10105] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10106] link 'Browse Files'
+
+[10107] link "Andrew M. Whalen's avatar"
+
+[10616] img "Andrew M. Whalen's avatar"
+
+[10109] link 'added twitter archive import functionality, updated readme with instructions'
+
+[10113] link 'Andrew M. Whalen'
+
+[10114] StaticText ' authored '
+
+[8804] time 'Jan 22, 2013 12:41pm EST'
+
+[10618] StaticText '10 years ago'
+
+[10619] StaticText '36bae02e'
+
+[10118] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10119] link 'Browse Files'
+
+[9325] StaticText '21 Jan, 2013'
+
+[9328] StaticText '2 commits'
+
+[10120] link "Andrew M. Whalen's avatar"
+
+[10622] img "Andrew M. Whalen's avatar"
+
+[10122] link 'updated README'
+
+[10126] link 'Andrew M. Whalen'
+
+[10127] StaticText ' authored '
+
+[8811] time 'Jan 20, 2013 10:10pm EST'
+
+[10624] StaticText '10 years ago'
+
+[10625] StaticText '86dff639'
+
+[10131] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10132] link 'Browse Files'
+
+[10133] link "Andrew M. Whalen's avatar"
+
+[10628] img "Andrew M. Whalen's avatar"
+
+[10135] link 'redesigned with bootstrap, responsive design, fixed some interface bugs,...'
+
+[10137] button 'Toggle commit description'
+
+[10142] link 'Andrew M. Whalen'
+
+[10143] StaticText ' authored '
+
+[8816] time 'Jan 20, 2013 10:02pm EST'
+
+[10633] StaticText '10 years ago'
+
+[10634] StaticText '1eb1de72'
+
+[10148] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10149] link 'Browse Files'</pre><div>
+
+[9323]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[9323]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '9323', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. I can see that there is a section that shows the contributors' commits to the branch php52. The contributor with the most commits should be listed at the top. I will need to click on the link that shows the number of commits for that contributor. In summary, the next action I will perform is ```click [9323]```."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [9323] where [9323] is [9323] StaticText '6 commits'</pre></div></div>
+
+[8731] RootWebArea 'Commits · php52 · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[9032] link 'Skip to content'
+
+[9158] link 'Dashboard'
+
+[9251] button '' hasPopup: menu expanded: False
+
+[8743] textbox 'Search GitLab' required: False
+
+[9907] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[9257] link 'Create new...'
+
+[9259] link 'Issues'
+
+[9507] generic '13 assigned issues'
+
+[9260] link 'Merge requests'
+
+[9509] generic '8 merge requests'
+
+[9262] link 'To-Do List'
+
+[9525] generic 'Todos count'
+
+[9263] link 'Help'
+
+[9265] link 'Byte Blaze'
+
+[9559] img 'Byte Blaze'
+
+[9033] complementary 'Project navigation'
+
+[9191] listitem 'archive-my-tweets'
+
+[9267] link 'archive-my-tweets'
+
+[9600] StaticText 'A'
+
+[9268] link 'Project information'
+
+[9270] link 'Repository'
+
+[9947] link 'Files'
+
+[9948] link 'Commits'
+
+[9949] link 'Branches'
+
+[9950] link 'Tags'
+
+[9951] link 'Contributors'
+
+[9952] link 'Graph'
+
+[9953] link 'Compare'
+
+[9272] link 'Issues'
+
+[9641] StaticText '14'
+
+[9274] link 'Merge requests'
+
+[9276] link 'CI/CD'
+
+[9278] link 'Deployments'
+
+[9280] link 'Packages and registries'
+
+[9282] link 'Monitor'
+
+[9284] link 'Analytics'
+
+[9286] link 'Wiki'
+
+[9288] link 'Snippets'
+
+[9149] button 'Collapse sidebar'
+
+[9037] navigation 'Breadcrumbs'
+
+[9305] link 'Andrew M. Whalen'
+
+[9307] link 'archive-my-tweets'
+
+[9309] link 'Commits'
+
+[8747] main ''
+
+[9310] button 'php52' hasPopup: menu expanded: False
+
+[9311] link 'archive-my-tweets'
+
+[9312] button 'Author' hasPopup: menu expanded: False
+
+[8754] searchbox 'Search by message'
+
+[9231] link 'Commits feed'
+
+[9320] StaticText '22 Jan, 2013'
+
+[9323] StaticText '6 commits'
+
+[10042] link "Andrew M. Whalen's avatar"
+
+[10586] img "Andrew M. Whalen's avatar"
+
+[10044] link 'clean readme'
+
+[10048] link 'Andrew M. Whalen'
+
+[10049] StaticText ' authored '
+
+[8779] time 'Jan 22, 2013 12:52pm EST'
+
+[10588] StaticText '10 years ago'
+
+[10589] StaticText 'ffad76b7'
+
+[10053] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10054] link 'Browse Files'
+
+[10055] link "Andrew M. Whalen's avatar"
+
+[10592] img "Andrew M. Whalen's avatar"
+
+[10057] link 'clean readme'
+
+[10061] link 'Andrew M. Whalen'
+
+[10062] StaticText ' authored '
+
+[8784] time 'Jan 22, 2013 12:51pm EST'
+
+[10594] StaticText '10 years ago'
+
+[10595] StaticText '3627ff33'
+
+[10066] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10067] link 'Browse Files'
+
+[10068] link "Andrew M. Whalen's avatar"
+
+[10598] img "Andrew M. Whalen's avatar"
+
+[10070] link 'updated screenshot'
+
+[10074] link 'Andrew M. Whalen'
+
+[10075] StaticText ' authored '
+
+[8789] time 'Jan 22, 2013 12:50pm EST'
+
+[10600] StaticText '10 years ago'
+
+[10601] StaticText '41b976b0'
+
+[10079] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10080] link 'Browse Files'
+
+[10081] link "Andrew M. Whalen's avatar"
+
+[10604] img "Andrew M. Whalen's avatar"
+
+[10083] link 'updated screenshot paths'
+
+[10087] link 'Andrew M. Whalen'
+
+[10088] StaticText ' authored '
+
+[8794] time 'Jan 22, 2013 12:48pm EST'
+
+[10606] StaticText '10 years ago'
+
+[10607] StaticText '6328f173'
+
+[10092] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10093] link 'Browse Files'
+
+[10094] link "Andrew M. Whalen's avatar"
+
+[10610] img "Andrew M. Whalen's avatar"
+
+[10096] link 'added screenshots, license file'
+
+[10100] link 'Andrew M. Whalen'
+
+[10101] StaticText ' authored '
+
+[8799] time 'Jan 22, 2013 12:46pm EST'
+
+[10612] StaticText '10 years ago'
+
+[10613] StaticText '7f64d9b8'
+
+[10105] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10106] link 'Browse Files'
+
+[10107] link "Andrew M. Whalen's avatar"
+
+[10616] img "Andrew M. Whalen's avatar"
+
+[10109] link 'added twitter archive import functionality, updated readme with instructions'
+
+[10113] link 'Andrew M. Whalen'
+
+[10114] StaticText ' authored '
+
+[8804] time 'Jan 22, 2013 12:41pm EST'
+
+[10618] StaticText '10 years ago'
+
+[10619] StaticText '36bae02e'
+
+[10118] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10119] link 'Browse Files'
+
+[9325] StaticText '21 Jan, 2013'
+
+[9328] StaticText '2 commits'
+
+[10120] link "Andrew M. Whalen's avatar"
+
+[10622] img "Andrew M. Whalen's avatar"
+
+[10122] link 'updated README'
+
+[10126] link 'Andrew M. Whalen'
+
+[10127] StaticText ' authored '
+
+[8811] time 'Jan 20, 2013 10:10pm EST'
+
+[10624] StaticText '10 years ago'
+
+[10625] StaticText '86dff639'
+
+[10131] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10132] link 'Browse Files'
+
+[10133] link "Andrew M. Whalen's avatar"
+
+[10628] img "Andrew M. Whalen's avatar"
+
+[10135] link 'redesigned with bootstrap, responsive design, fixed some interface bugs,...'
+
+[10137] button 'Toggle commit description'
+
+[10142] link 'Andrew M. Whalen'
+
+[10143] StaticText ' authored '
+
+[8816] time 'Jan 20, 2013 10:02pm EST'
+
+[10633] StaticText '10 years ago'
+
+[10634] StaticText '1eb1de72'
+
+[10148] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10149] link 'Browse Files'</pre><div>
+
+[9323] where [9323] is StaticText '6 commits'</div>
+
+[10048]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '10048', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. I clicked on the link with the text "6 commits" which shows the commits related to the branch php52. Now I need to find the contributor with the most commits. To do that, I need to click on the button "Andrew M. Whalen" to view the contributor\'s profile. In summary, the next action I will perform is ```click [10048]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [10048] where [10048] is [10048] link 'Andrew M. Whalen'</pre></div></div>
+
+[8731] RootWebArea 'Commits · php52 · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+
+[9032] link 'Skip to content'
+
+[9158] link 'Dashboard'
+
+[9251] button '' hasPopup: menu expanded: False
+
+[8743] textbox 'Search GitLab' required: False
+
+[9907] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[9257] link 'Create new...'
+
+[9259] link 'Issues'
+
+[9507] generic '13 assigned issues'
+
+[9260] link 'Merge requests'
+
+[9509] generic '8 merge requests'
+
+[9262] link 'To-Do List'
+
+[9525] generic 'Todos count'
+
+[9263] link 'Help'
+
+[9265] link 'Byte Blaze'
+
+[9559] img 'Byte Blaze'
+
+[9033] complementary 'Project navigation'
+
+[9191] listitem 'archive-my-tweets'
+
+[9267] link 'archive-my-tweets'
+
+[9600] StaticText 'A'
+
+[9268] link 'Project information'
+
+[9270] link 'Repository'
+
+[9947] link 'Files'
+
+[9948] link 'Commits'
+
+[9949] link 'Branches'
+
+[9950] link 'Tags'
+
+[9951] link 'Contributors'
+
+[9952] link 'Graph'
+
+[9953] link 'Compare'
+
+[9272] link 'Issues'
+
+[9641] StaticText '14'
+
+[9274] link 'Merge requests'
+
+[9276] link 'CI/CD'
+
+[9278] link 'Deployments'
+
+[9280] link 'Packages and registries'
+
+[9282] link 'Monitor'
+
+[9284] link 'Analytics'
+
+[9286] link 'Wiki'
+
+[9288] link 'Snippets'
+
+[9149] button 'Collapse sidebar'
+
+[9037] navigation 'Breadcrumbs'
+
+[9305] link 'Andrew M. Whalen'
+
+[9307] link 'archive-my-tweets'
+
+[9309] link 'Commits'
+
+[8747] main ''
+
+[9310] button 'php52' hasPopup: menu expanded: False
+
+[9311] link 'archive-my-tweets'
+
+[9312] button 'Author' hasPopup: menu expanded: False
+
+[8754] searchbox 'Search by message'
+
+[9231] link 'Commits feed'
+
+[9320] StaticText '22 Jan, 2013'
+
+[9323] StaticText '6 commits'
+
+[10042] link "Andrew M. Whalen's avatar"
+
+[10586] img "Andrew M. Whalen's avatar"
+
+[10044] link 'clean readme'
+
+[10048] link 'Andrew M. Whalen' focused: True
+
+[10049] StaticText ' authored '
+
+[8779] time 'Jan 22, 2013 12:52pm EST'
+
+[10588] StaticText '10 years ago'
+
+[10589] StaticText 'ffad76b7'
+
+[10053] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10054] link 'Browse Files'
+
+[10055] link "Andrew M. Whalen's avatar"
+
+[10592] img "Andrew M. Whalen's avatar"
+
+[10057] link 'clean readme'
+
+[10061] link 'Andrew M. Whalen'
+
+[10062] StaticText ' authored '
+
+[8784] time 'Jan 22, 2013 12:51pm EST'
+
+[10594] StaticText '10 years ago'
+
+[10595] StaticText '3627ff33'
+
+[10066] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10067] link 'Browse Files'
+
+[10068] link "Andrew M. Whalen's avatar"
+
+[10598] img "Andrew M. Whalen's avatar"
+
+[10070] link 'updated screenshot'
+
+[10074] link 'Andrew M. Whalen'
+
+[10075] StaticText ' authored '
+
+[8789] time 'Jan 22, 2013 12:50pm EST'
+
+[10600] StaticText '10 years ago'
+
+[10601] StaticText '41b976b0'
+
+[10079] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10080] link 'Browse Files'
+
+[10081] link "Andrew M. Whalen's avatar"
+
+[10604] img "Andrew M. Whalen's avatar"
+
+[10083] link 'updated screenshot paths'
+
+[10087] link 'Andrew M. Whalen'
+
+[10088] StaticText ' authored '
+
+[8794] time 'Jan 22, 2013 12:48pm EST'
+
+[10606] StaticText '10 years ago'
+
+[10607] StaticText '6328f173'
+
+[10092] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10093] link 'Browse Files'
+
+[10094] link "Andrew M. Whalen's avatar"
+
+[10610] img "Andrew M. Whalen's avatar"
+
+[10096] link 'added screenshots, license file'
+
+[10100] link 'Andrew M. Whalen'
+
+[10101] StaticText ' authored '
+
+[8799] time 'Jan 22, 2013 12:46pm EST'
+
+[10612] StaticText '10 years ago'
+
+[10613] StaticText '7f64d9b8'
+
+[10105] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10106] link 'Browse Files'
+
+[10107] link "Andrew M. Whalen's avatar"
+
+[10616] img "Andrew M. Whalen's avatar"
+
+[10109] link 'added twitter archive import functionality, updated readme with instructions'
+
+[10113] link 'Andrew M. Whalen'
+
+[10114] StaticText ' authored '
+
+[8804] time 'Jan 22, 2013 12:41pm EST'
+
+[10618] StaticText '10 years ago'
+
+[10619] StaticText '36bae02e'
+
+[10118] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10119] link 'Browse Files'
+
+[9325] StaticText '21 Jan, 2013'
+
+[9328] StaticText '2 commits'
+
+[10120] link "Andrew M. Whalen's avatar"
+
+[10622] img "Andrew M. Whalen's avatar"
+
+[10122] link 'updated README'
+
+[10126] link 'Andrew M. Whalen'
+
+[10127] StaticText ' authored '
+
+[8811] time 'Jan 20, 2013 10:10pm EST'
+
+[10624] StaticText '10 years ago'
+
+[10625] StaticText '86dff639'
+
+[10131] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10132] link 'Browse Files'
+
+[10133] link "Andrew M. Whalen's avatar"
+
+[10628] img "Andrew M. Whalen's avatar"
+
+[10135] link 'redesigned with bootstrap, responsive design, fixed some interface bugs,...'
+
+[10137] button 'Toggle commit description'
+
+[10142] link 'Andrew M. Whalen'
+
+[10143] StaticText ' authored '
+
+[8816] time 'Jan 20, 2013 10:02pm EST'
+
+[10633] StaticText '10 years ago'
+
+[10634] StaticText '1eb1de72'
+
+[10148] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[10149] link 'Browse Files'</pre><div>
+
+[10048] where [10048] is link 'Andrew M. Whalen'</div>
+

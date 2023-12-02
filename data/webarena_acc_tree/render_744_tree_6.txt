@@ -1,0 +1,61 @@
+Tab 0 (current): New Project · GitLab
+
+[1864] RootWebArea 'New Project · GitLab' focused: True
+	[2119] link 'Skip to content'
+	[3169] link 'Dashboard'
+	[3237] button '' hasPopup: menu expanded: False
+	[1876] textbox 'Search GitLab' required: False
+	[3426] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[3243] link 'Create new...' focused: True expanded: False
+	[3245] link 'Issues'
+		[3330] generic '13 assigned issues'
+	[3246] link 'Merge requests'
+		[3332] generic '8 merge requests'
+	[3248] link 'To-Do List'
+		[3348] generic 'Todos count'
+			[3447] StaticText '5'
+	[3249] link 'Help'
+	[3251] link 'Byte Blaze'
+		[3382] img 'Byte Blaze'
+	[1880] main ''
+		[3621] heading 'Create from template'
+		[3626] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+		[3623] navigation 'Breadcrumb'
+			[3641] link 'New project'
+			[3642] link 'Create from template'
+		[3644] StaticText 'Learn how to '
+		[3645] link 'contribute to the built-in templates'
+		[3783] link 'Built-in 30'
+		[3788] StaticText 'Ruby on Rails'
+		[3789] LineBreak '\n'
+		[3791] StaticText 'Includes an MVC structure, Gemfile, Rakefile, along with many others, to help you get started'
+		[3792] link 'Preview'
+		[3477] radio 'Use template' checked: false
+		[3799] StaticText 'Spring'
+		[3800] LineBreak '\n'
+		[3802] StaticText 'Includes an MVC structure, mvnw and pom.xml to help you get started'
+		[3803] link 'Preview'
+		[3481] radio 'Use template' checked: false
+		[3810] StaticText 'NodeJS Express'
+		[3811] LineBreak '\n'
+		[3813] StaticText 'Includes an MVC structure to help you get started'
+		[3814] link 'Preview'
+		[3485] radio 'Use template' checked: false
+		[3821] StaticText 'iOS (Swift)'
+		[3822] LineBreak '\n'
+		[3824] StaticText 'A ready-to-go template for use with iOS Swift apps'
+		[3825] link 'Preview'
+		[3489] radio 'Use template' checked: false
+		[3832] StaticText '.NET Core'
+		[3833] LineBreak '\n'
+		[3835] StaticText 'A .NET Core console application template, customizable for any .NET Core project'
+		[3836] link 'Preview'
+		[3493] radio 'Use template' checked: false
+		[3843] StaticText 'Android'
+		[3844] LineBreak '\n'
+		[3846] StaticText 'A ready-to-go template for use with Android apps'
+		[3847] link 'Preview'
+		[3497] radio 'Use template' checked: false
+		[3854] StaticText 'Go Micro'
+		[3855] LineBreak '\n'
+		[3858] link 'Preview'</pre><div>

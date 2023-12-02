@@ -1,0 +1,71 @@
+Tab 0 (current): Looking for a climbing buddy in Pittsburgh!
+
+[5721] RootWebArea 'Looking for a climbing buddy in Pittsburgh!' focused: True
+	[5870] HeaderAsNonLandmark ''
+		[5871] link 'Home'
+			[5905] StaticText 'Postmill'
+	[5906] link 'Forums'
+	[5907] link 'Wiki'
+	[5830] searchbox 'Search query'
+	[5915] link 'Notifications (0)'
+	[5916] link 'Submit'
+	[5732] button 'MarvelsGrantMan136' hasPopup: menu expanded: False
+	[5734] main ''
+		[6163] link '/f/pittsburgh'
+		[5735] article ''
+			[5738] HeaderAsNonLandmark ''
+				[5923] heading 'Looking for a climbing buddy in Pittsburgh!'
+					[6164] link 'Looking for a climbing buddy in Pittsburgh!'
+				[6166] StaticText 'Submitted by '
+				[5741] link 'Certain_Cat1758' expanded: False
+				[6566] StaticText 't3_10fdhqu'
+				[6170] time 'January 18, 2023 at 12:41:40 PM EST'
+					[6570] StaticText '8 months ago'
+				[6171] StaticText ' in '
+				[6172] link 'pittsburgh'
+			[6573] link '11 comments'
+			[5930] button 'Upvote'
+			[5933] button 'Downvote'
+		[5861] heading 'Comments'
+		[5835] textbox 'Comment' required: True describedby: reply_to_submission_89742_comment_help
+		[5837] checkbox 'Formatting help +' checked: false
+		[5940] StaticText 'Markdown allowed.'
+		[5946] button 'Post'
+		[5949] link 'Nested'
+		[5950] link 'Linear'
+		[5742] article ''
+			[5844] checkbox 'Hide −' checked: true
+			[5745] HeaderAsNonLandmark ''
+				[5746] heading 'Ramady [t1_j4w2wiu] wrote 8 months ago'
+					[5748] link 'Ramady' expanded: False
+					[6386] time 'January 18, 2023 at 12:44:26 PM EST'
+			[5962] StaticText 'I might be down. I boulder a lot at ICB, and I also hit up Ascend PB once a week or so for roped climbing. Where do you climb? At the least, I can probably introduce you to some people.'
+			[6586] link 'Reply'
+			[6587] link 'Permalink'
+			[5966] button 'Upvote'
+			[6398] StaticText '2'
+			[5969] button 'Downvote'
+			[5750] article ''
+				[5845] checkbox 'Hide −' checked: true
+				[5753] HeaderAsNonLandmark ''
+					[5754] heading 'Certain_Cat1758 Original poster [t1_j4wirjt] wrote 8 months ago'
+	[5824] complementary ''
+		[6028] StaticText '0 points'
+		[6031] StaticText '(+0, −0)'
+		[6032] heading 'Short URL:'
+		[6036] StaticText 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:9999/89742'
+		[5892] heading 'pittsburgh'
+			[6037] link 'pittsburgh'
+		[6534] button 'Subscribe No subscribers'
+			[6536] generic 'No subscribers'
+		[6042] StaticText 't5_2qhrn'
+		[5895] separator '' orientation: horizontal
+		[6541] StaticText 'Created '
+		[6542] time 'October 1, 2022 at 1:02:24 PM EDT'
+			[6776] StaticText '12 months ago'
+		[6543] link 'Subscribe via RSS'
+		[5825] Details ''
+			[5827] DisclosureTriangle 'Hide this forum' expanded: False
+		[5898] heading 'Toolbox'
+		[6545] link 'Bans'
+		[6546] link 'Moderation log'</pre><div>

@@ -1,0 +1,29 @@
+Tab 0 (current): New Project · GitLab
+
+[7515] RootWebArea 'New Project · GitLab' focused: True
+	[7743] link 'Skip to content'
+	[8730] link 'Dashboard'
+	[8798] button '' hasPopup: menu expanded: False
+	[7527] textbox 'Search GitLab' required: False
+	[8987] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[8804] link 'Create new...'
+	[8806] link 'Issues'
+		[8891] generic '13 assigned issues'
+	[8807] link 'Merge requests'
+		[8893] generic '8 merge requests'
+	[8809] link 'To-Do List'
+		[8909] generic 'Todos count'
+			[9008] StaticText '5'
+	[8810] link 'Help'
+	[8812] link 'Byte Blaze'
+		[8943] img 'Byte Blaze'
+	[7531] main ''
+		[7844] heading 'Create new project'
+		[7851] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+			[7855] heading 'Create blank project'
+		[7859] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+			[7863] heading 'Create from template'
+		[7867] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+			[7871] heading 'Import project'
+		[7876] StaticText 'You can also create a project from the command line. '
+		[7877] link 'Show command'</pre><div>

@@ -1,0 +1,150 @@
+Tab 0 (current): Files · main · Administrator / metaseq · GitLab
+
+[5414] RootWebArea 'Files · main · Administrator / metaseq · GitLab' focused: True
+	[5515] link 'Skip to content'
+	[5640] link 'Dashboard'
+	[5744] button '' hasPopup: menu expanded: False
+	[5426] textbox 'Search GitLab' required: False
+	[6572] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[5750] link 'Create new...'
+	[5752] link 'Issues'
+		[6092] generic '13 assigned issues'
+	[5753] link 'Merge requests'
+		[6094] generic '8 merge requests'
+	[5755] link 'To-Do List'
+		[6110] generic 'Todos count'
+	[5756] link 'Help'
+	[5758] link 'Byte Blaze'
+		[6144] img 'Byte Blaze'
+	[5516] complementary 'Project navigation'
+		[5673] listitem 'metaseq'
+			[5760] link 'metaseq'
+				[6185] StaticText 'M'
+		[5761] link 'Project information'
+		[5763] link 'Repository'
+		[6612] link 'Files'
+		[6613] link 'Commits'
+		[6614] link 'Branches'
+		[6615] link 'Tags'
+		[6616] link 'Contributors'
+		[6617] link 'Graph'
+		[6618] link 'Compare'
+		[5765] link 'Issues'
+			[6226] StaticText '95'
+		[5767] link 'Merge requests'
+			[6255] StaticText '41'
+		[5769] link 'CI/CD'
+		[5771] link 'Deployments'
+		[5773] link 'Packages and registries'
+		[5775] link 'Monitor'
+		[5777] link 'Analytics'
+		[5779] link 'Wiki'
+		[5781] link 'Snippets'
+		[5632] button 'Collapse sidebar'
+	[5520] navigation 'Breadcrumbs'
+		[5798] link 'Administrator'
+		[5800] link 'metaseq'
+		[5802] link 'Repository'
+	[5430] main ''
+		[5714] img 'user avatar'
+		[5718] link 'Simplify inheritance layers (#639)'
+		[5719] button 'Toggle commit description'
+		[5724] StaticText 'Nikolay Bashlykov authored '
+		[5725] time 'Feb 9, 2023 3:32pm EST'
+			[5806] StaticText '6 months ago'
+		[5738] button 'Unverified'
+		[5737] group ''
+			[5809] StaticText '905f355e'
+			[5740] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[6380] button 'main' hasPopup: menu expanded: False
+		[5457] navigation 'Files breadcrumb'
+			[6930] link 'metaseq'
+			[7208] button 'Add to tree' hasPopup: menu expanded: False
+		[5812] link 'History'
+		[5813] link 'Find file'
+		[5820] link 'Web IDE'
+		[5821] button 'Download'
+			[6387] StaticText 'Select Archive Format'
+		[5823] link 'Clone'
+		[5456] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+			[6440] row ''
+				[6441] columnheader 'Name' required: False
+				[6442] columnheader 'Last commit' required: False
+				[6443] columnheader 'Last update' required: False
+			[6444] row ''
+				[6464] gridcell '.circleci' required: False
+					[6944] link '.circleci'
+				[6465] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+					[6950] link 'Added test for model-parallel mp1 and mp2 (#597)'
+				[6466] gridcell '7 months ago' required: False
+					[6953] time 'Jan 14, 2023 11:19am EST'
+			[6445] row ''
+				[6467] gridcell '.github' required: False
+					[6955] link '.github'
+				[6468] gridcell 'Add flash attention (#387)' required: False
+					[6961] link 'Add flash attention (#387)'
+				[6469] gridcell '10 months ago' required: False
+					[6964] time 'Nov 2, 2022 1:11pm EDT'
+			[6446] row ''
+				[6470] gridcell 'cpu_tests' required: False
+					[6966] link 'cpu_tests'
+				[6471] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+					[6972] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+				[6472] gridcell '9 months ago' required: False
+					[6975] time 'Nov 11, 2022 11:42am EST'
+			[6447] row ''
+				[6473] gridcell 'docs' required: False
+					[6977] link 'docs'
+				[6474] gridcell 'unify IncrementalDecoder and BaseDecoder (#586)' required: False
+					[6983] link 'unify IncrementalDecoder and BaseDecoder (#586)'
+				[6475] gridcell '8 months ago' required: False
+					[6986] time 'Jan 6, 2023 7:10am EST'
+			[6448] row ''
+				[6476] gridcell 'gpu_tests' required: False
+					[6988] link 'gpu_tests'
+				[6477] gridcell 'Simplify inheritance layers (#639)' required: False
+					[6994] link 'Simplify inheritance layers (#639)'
+				[6478] gridcell '6 months ago' required: False
+					[6997] time 'Feb 9, 2023 3:32pm EST'
+			[6449] row ''
+				[6479] gridcell 'metaseq' required: False
+					[6999] link 'metaseq'
+				[6480] gridcell 'Simplify inheritance layers (#639)' required: False
+					[7005] link 'Simplify inheritance layers (#639)'
+				[6481] gridcell '6 months ago' required: False
+					[7008] time 'Feb 9, 2023 3:32pm EST'
+			[6450] row ''
+				[6482] gridcell 'projects' required: False
+					[7010] link 'projects'
+				[6483] gridcell 'Replace optiml_paper_v1.pdf with placeholder (#623)' required: False
+					[7016] link 'Replace optiml_paper_v1.pdf with placeholder (#623)'
+				[6484] gridcell '7 months ago' required: False
+					[7019] time 'Feb 1, 2023 11:22pm EST'
+			[6451] row ''
+				[6485] gridcell 'tests' required: False
+					[7021] link 'tests'
+				[6486] gridcell 'Simplify inheritance layers (#639)' required: False
+					[7027] link 'Simplify inheritance layers (#639)'
+				[6487] gridcell '6 months ago' required: False
+					[7030] time 'Feb 9, 2023 3:32pm EST'
+			[6452] row ''
+				[6488] gridcell '.flake8' required: False
+					[7032] link '.flake8'
+				[6489] gridcell 'Current flake8 no longer accepts comments on config lines (#570)' required: False
+					[7038] link 'Current flake8 no longer accepts comments on config lines (#570)'
+				[6490] gridcell '8 months ago' required: False
+					[7041] time 'Dec 30, 2022 1:43am EST'
+			[6453] row ''
+				[6491] gridcell '.gitignore' required: False
+					[7043] link '.gitignore'
+				[6492] gridcell 'Initial commit' required: False
+					[7049] link 'Initial commit'
+				[6493] gridcell '1 year ago' required: False
+					[7052] time 'May 2, 2022 10:08pm EDT'
+			[6454] row ''
+				[6494] gridcell '.pre-commit-config.yaml' required: False
+					[7054] link '.pre-commit-config.yaml'
+				[6495] gridcell 'Initial commit' required: False
+					[7060] link 'Initial commit'
+				[6496] gridcell '1 year ago' required: False
+					[7063] time 'May 2, 2022 10:08pm EDT'</pre><div>

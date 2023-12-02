@@ -1,0 +1,36 @@
+Tab 0 (current): homepage URL · Search · GitLab
+
+[2991] RootWebArea 'homepage URL · Search · GitLab' focused: True
+	[3041] link 'Skip to content'
+	[3153] link 'Dashboard'
+	[3209] button '' hasPopup: menu expanded: False
+	[3215] link 'Create new...'
+	[3217] link 'Issues'
+		[3372] generic '13 assigned issues'
+	[3218] link 'Merge requests'
+		[3374] generic '8 merge requests'
+	[3220] link 'To-Do List'
+		[3390] generic 'Todos count'
+			[3509] StaticText '5'
+	[3221] link 'Help'
+	[3223] link 'Byte Blazea11yproject.contributor.me'
+		[3424] img 'Byte Blazea11yproject.contributor.me'
+	[2997] main ''
+		[3143] heading 'Search'
+		[3190] StaticText 'What are you searching for?'
+		[3002] group ''
+			[3003] searchbox 'Search for projects, issues, etc.'
+				[3468] StaticText 'homepage URL'
+			[3191] button 'Clear'
+			[3231] button 'Search'
+		[3194] StaticText 'Group'
+		[3195] button 'Any' hasPopup: menu expanded: False
+		[3197] StaticText 'Project'
+		[3198] button 'Any' hasPopup: menu expanded: False
+		[3145] separator '' orientation: horizontal
+		[3481] link 'Projects 0'
+		[3482] link 'Issues 80'
+		[3483] link 'Merge requests 28'
+		[3484] link 'Milestones 0'
+		[3485] link 'Users 0'
+		[3202] heading " We couldn't find any projects matching homepage URL"</pre><div>

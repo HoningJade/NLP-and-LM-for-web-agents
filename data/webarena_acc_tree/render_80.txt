@@ -1,0 +1,558 @@
+[1] RootWebArea 'OpenStreetMap' focused: True
+
+[104] heading 'OpenStreetMap logo OpenStreetMap'
+
+[109] link 'OpenStreetMap logo OpenStreetMap'
+
+[112] img 'OpenStreetMap logo'
+
+[390] link 'Edit'
+
+[391] button ''
+
+[362] link 'History'
+
+[363] link 'Export'
+
+[395] link 'GPS Traces'
+
+[396] link 'User Diaries'
+
+[397] link 'Communities'
+
+[398] link 'Copyright'
+
+[399] link 'Help'
+
+[400] link 'About'
+
+[371] link 'Log In'
+
+[372] link 'Sign Up'
+
+[494] link 'Where is this?'
+
+[12] textbox 'Search' focused: True required: False
+
+[495] button 'Go'
+
+[482] link 'Find directions between two points'
+
+[445] heading 'Welcome to OpenStreetMap!'
+
+[448] button 'Close'
+
+[452] StaticText 'OpenStreetMap is a map of the world, created by people like you and free to use under an open license.'
+
+[453] StaticText 'Hosting is supported by '
+
+[454] link 'UCL'
+
+[456] link 'Fastly'
+
+[457] StaticText ', '
+
+[458] link 'Bytemark Hosting'
+
+[459] StaticText ', and other '
+
+[460] link 'partners'
+
+[461] StaticText '.'
+
+[464] link 'Learn More'
+
+[465] link 'Start Mapping'
+
+[50] generic 'Zoom In Zoom Out Show My Location Layers Share 50 km 50 mi © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[54] link 'Zoom In'
+
+[55] link 'Zoom Out'
+
+[57] button 'Show My Location'
+
+[59] link 'Layers'
+
+[301] link ''
+
+[61] link 'Share'
+
+[303] link ''
+
+[305] link ''
+
+[310] StaticText '50 km'
+
+[311] StaticText '50 mi'
+
+[313] StaticText '© '
+
+[314] link 'OpenStreetMap contributors'
+
+[315] StaticText ' ♥ '
+
+[316] link 'Make a Donation'
+
+[317] StaticText '. '
+
+[318] link 'Website and API terms'</pre><div>
+
+[12]. I can type the first location "Carnegie Mellon University" in the search box and then press Enter to search for it. After that, I can search for the second location "Starbucks on Craig Street" and then press Enter again to search for it. Once the locations are searched, I can find the duration required to walk from Carnegie Mellon University to Starbucks on Craig Street. To find the duration required to drive from Starbucks on Craig Street to Pittsburgh International Airport, I can use the "directions" feature. In summary, the next action I will perform is ```type [12] [Carnegie Mellon University] [1]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [50, 80, 97, 93, 84, 86, 88, 84, 15, 60, 84, 91, 91, 94, 93, 15, 68, 93, 88, 101, 84, 97, 98, 88, 99, 104, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '12', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page has a search box whose ID is [12]. I can type the first location "Carnegie Mellon University" in the search box and then press Enter to search for it. After that, I can search for the second location "Starbucks on Craig Street" and then press Enter again to search for it. Once the locations are searched, I can find the duration required to walk from Carnegie Mellon University to Starbucks on Craig Street. To find the duration required to drive from Starbucks on Craig Street to Pittsburgh International Airport, I can use the "directions" feature. In summary, the next action I will perform is ```type [12] [Carnegie Mellon University] [1]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [12] [Carnegie Mellon University
+
+[12] is [12] textbox 'Search' focused: True required: False</pre></div></div>
+
+[1] RootWebArea 'Carnegie Mellon University | OpenStreetMap' focused: True
+
+[104] heading 'OpenStreetMap logo OpenStreetMap'
+
+[109] link 'OpenStreetMap logo OpenStreetMap'
+
+[112] img 'OpenStreetMap logo'
+
+[390] link 'Edit'
+
+[391] button ''
+
+[362] link 'History'
+
+[363] link 'Export'
+
+[395] link 'GPS Traces'
+
+[396] link 'User Diaries'
+
+[397] link 'Communities'
+
+[398] link 'Copyright'
+
+[399] link 'Help'
+
+[400] link 'About'
+
+[371] link 'Log In'
+
+[372] link 'Sign Up'
+
+[12] textbox 'Search' focused: True required: False
+
+[501] StaticText 'Carnegie Mellon University'
+
+[495] button 'Go'
+
+[482] link 'Find directions between two points'
+
+[562] heading 'Search Results'
+
+[565] button 'Close'
+
+[531] heading 'Results from OpenStreetMap Nominatim'
+
+[567] link 'OpenStreetMap Nominatim'
+
+[576] StaticText 'University '
+
+[577] link 'Carnegie Mellon University, Schenley Drive Extension, North Oakland, Pittsburgh, Allegheny County, 15213, United States'
+
+[579] link 'Carnegie Mellon University, Pittsburgh, Allegheny County, 15213, United States'
+
+[580] StaticText 'University Building '
+
+[581] link 'Carnegie Mellon University, 407, South Craig Street, Bellefield, Pittsburgh, Allegheny County, 15213, United States'
+
+[574] link 'More results'
+
+[50] generic 'Zoom In Zoom Out Show My Location Layers Share 100 m 500 ft © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[54] link 'Zoom In'
+
+[55] link 'Zoom Out'
+
+[57] button 'Show My Location'
+
+[59] link 'Layers'
+
+[301] link ''
+
+[61] link 'Share'
+
+[303] link ''
+
+[305] link ''
+
+[527] StaticText '100 m'
+
+[528] StaticText '500 ft'
+
+[313] StaticText '© '
+
+[314] link 'OpenStreetMap contributors'
+
+[315] StaticText ' ♥ '
+
+[316] link 'Make a Donation'
+
+[317] StaticText '. '
+
+[318] link 'Website and API terms'</pre><div>
+
+[12] [Carnegie Mellon University
+
+[12] is textbox 'Search' focused: True required: False</div>
+
+[577]``` to select Carnegie Mellon University from the search results.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '577', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We have searched for "Carnegie Mellon University" in the search box. Now, we need to find the duration required to walk from Carnegie Mellon University to Starbucks on Craig Street and then drive to Pittsburgh International Airport. To find this information, we can click on the search result for Carnegie Mellon University and then search for Starbucks on Craig Street. Once we have the location of Starbucks, we can click on the directions button to find the duration required to walk. After that, we can search for Pittsburgh International Airport and click on the directions button again to find the duration required to drive. In summary, the next action I will perform is ```click [577]``` to select Carnegie Mellon University from the search results.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [577] where [577] is [577] link 'Carnegie Mellon University, Schenley Drive Extension, North Oakland, Pittsburgh, Allegheny County, 15213, United States'</pre></div></div>
+
+[1] RootWebArea 'Relation: \u202aCarnegie Mellon University\u202c (\u202a2279034\u202c) | OpenStreetMap' focused: True
+
+[104] heading 'OpenStreetMap logo OpenStreetMap'
+
+[109] link 'OpenStreetMap logo OpenStreetMap'
+
+[112] img 'OpenStreetMap logo'
+
+[390] link 'Edit'
+
+[391] button ''
+
+[362] link 'History'
+
+[363] link 'Export'
+
+[395] link 'GPS Traces'
+
+[396] link 'User Diaries'
+
+[397] link 'Communities'
+
+[398] link 'Copyright'
+
+[399] link 'Help'
+
+[400] link 'About'
+
+[371] link 'Log In'
+
+[372] link 'Sign Up'
+
+[594] link 'Where is this?'
+
+[12] textbox 'Search' required: False
+
+[495] button 'Go'
+
+[482] link 'Find directions between two points'
+
+[615] heading 'Relation: Carnegie Mellon University (2279034)'
+
+[624] button 'Close'
+
+[625] heading 'Version #12'
+
+[632] StaticText '(no comment)'
+
+[642] StaticText 'Edited '
+
+[643] Abbr 'Tue, 16 Nov 2021 01:24:51 +0000'
+
+[696] StaticText 'almost 2 years ago'
+
+[644] StaticText ' by anonymous'
+
+[645] StaticText 'Changeset #'
+
+[646] link '0'
+
+[628] heading 'Tags'
+
+[629] table ''
+
+[647] row ''
+
+[657] rowheader 'amenity' required: False
+
+[698] link 'amenity'
+
+[658] gridcell 'university' required: False
+
+[700] link 'university'
+
+[648] row ''
+
+[659] rowheader 'gnis:county_id' required: False
+
+[660] gridcell '003' required: False
+
+[649] row ''
+
+[661] rowheader 'gnis:created' required: False
+
+[662] gridcell '08/30/1990' required: False
+
+[650] row ''
+
+[663] rowheader 'gnis:feature_id' required: False
+
+[706] link 'gnis:feature_id'
+
+[664] gridcell '1217343' required: False
+
+[651] row ''
+
+[665] rowheader 'gnis:state_id' required: False
+
+[666] gridcell '42' required: False
+
+[652] row ''
+
+[667] rowheader 'name' required: False
+
+[711] link 'name'
+
+[668] gridcell 'Carnegie Mellon University' required: False
+
+[653] row ''
+
+[669] rowheader 'name:ko' required: False
+
+[714] link 'name:ko'
+
+[670] gridcell '카네기 멜론 대학' required: False
+
+[654] row ''
+
+[671] rowheader 'short_name' required: False
+
+[717] link 'short_name'
+
+[672] gridcell 'CMU' required: False
+
+[655] row ''
+
+[673] rowheader 'type' required: False
+
+[720] link 'type'
+
+[674] gridcell 'multipolygon' required: False
+
+[722] link 'multipolygon'
+
+[50] generic 'Zoom In Zoom Out Show My Location Layers Share 100 m 500 ft © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[54] link 'Zoom In'
+
+[55] link 'Zoom Out'
+
+[57] button 'Show My Location'
+
+[59] link 'Layers'
+
+[301] link ''
+
+[61] link 'Share'
+
+[303] link ''
+
+[305] link ''
+
+[527] StaticText '100 m'
+
+[528] StaticText '500 ft'
+
+[313] StaticText '© '
+
+[314] link 'OpenStreetMap contributors'
+
+[315] StaticText ' ♥ '
+
+[316] link 'Make a Donation'
+
+[317] StaticText '. '
+
+[318] link 'Website and API terms'</pre><div>
+
+[577] where [577] is link 'Carnegie Mellon University, Schenley Drive Extension, North Oakland, Pittsburgh, Allegheny County, 15213, United States'</div>
+
+[12] [Starbucks on Craig Street] [1]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [66, 99, 80, 97, 81, 100, 82, 90, 98, 15, 94, 93, 15, 50, 97, 80, 88, 86, 15, 66, 99, 97, 84, 84, 99, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '12', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. I have clicked on the link to Carnegie Mellon University. Now, I need to search for Starbucks on Craig Street and find the duration required to walk there. To achieve this, I will perform the following actions:\n1. Type "Starbucks on Craig Street" into the search box.\n2. Click the "Go" button to search.\n3. Look for the walking duration information.\n4. Then, I need to find the duration required to drive from Starbucks on Craig Street to Pittsburgh International Airport. To achieve this, I will perform the following actions:\n5. Type "Starbucks on Craig Street to Pittsburgh International Airport" into the search box.\n6. Click the "Go" button to search.\n7. Look for the driving duration information.\nNow, let me perform these actions. In summary, the next action I will perform is ```type [12] [Starbucks on Craig Street] [1]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [12] [Starbucks on Craig Street
+
+[12] is [12] textbox 'Search' required: False</pre></div></div>
+
+[1] RootWebArea 'Starbucks on Craig Street | OpenStreetMap' focused: True
+
+[104] heading 'OpenStreetMap logo OpenStreetMap'
+
+[109] link 'OpenStreetMap logo OpenStreetMap'
+
+[112] img 'OpenStreetMap logo'
+
+[390] link 'Edit'
+
+[391] button ''
+
+[362] link 'History'
+
+[363] link 'Export'
+
+[395] link 'GPS Traces'
+
+[396] link 'User Diaries'
+
+[397] link 'Communities'
+
+[398] link 'Copyright'
+
+[399] link 'Help'
+
+[400] link 'About'
+
+[371] link 'Log In'
+
+[372] link 'Sign Up'
+
+[12] textbox 'Search' focused: True required: False
+
+[769] StaticText 'Starbucks on Craig Street'
+
+[495] button 'Go'
+
+[482] link 'Find directions between two points'
+
+[782] heading 'Search Results'
+
+[785] button 'Close'
+
+[780] heading 'Results from OpenStreetMap Nominatim'
+
+[787] link 'OpenStreetMap Nominatim'
+
+[791] StaticText 'No results found'
+
+[50] generic 'Zoom In Zoom Out Show My Location Layers Share 100 m 500 ft © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[54] link 'Zoom In'
+
+[55] link 'Zoom Out'
+
+[57] button 'Show My Location'
+
+[59] link 'Layers'
+
+[301] link ''
+
+[61] link 'Share'
+
+[303] link ''
+
+[305] link ''
+
+[776] StaticText '100 m'
+
+[777] StaticText '500 ft'
+
+[313] StaticText '© '
+
+[314] link 'OpenStreetMap contributors'
+
+[315] StaticText ' ♥ '
+
+[316] link 'Make a Donation'
+
+[317] StaticText '. '
+
+[318] link 'Website and API terms'</pre><div>
+
+[12] [Starbucks on Craig Street
+
+[12] is textbox 'Search' required: False</div>
+
+[12] [Carnegie Mellon University] [1]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [50, 80, 97, 93, 84, 86, 88, 84, 15, 60, 84, 91, 91, 94, 93, 15, 68, 93, 88, 101, 84, 97, 98, 88, 99, 104, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '12', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. The objective is to find the duration required to walk from Carnegie Mellon University to Starbucks on Craig Street, and then drive to Pittsburgh International Airport. Since we have searched for Starbucks on Craig Street, we can now search for Carnegie Mellon University and find the walking directions from there to Starbucks on Craig Street. Then, we can search for Pittsburgh International Airport and find the driving directions from Starbucks on Craig Street to there. In summary, the next action I will perform is ```type [12] [Carnegie Mellon University] [1]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [12] [Carnegie Mellon University
+
+[12] is [12] textbox 'Search' focused: True required: False</pre></div></div>
+
+[1] RootWebArea 'Starbucks on CraiCarnegie Mellon Universityg Street | OpenStreetMap' focused: True
+
+[104] heading 'OpenStreetMap logo OpenStreetMap'
+
+[109] link 'OpenStreetMap logo OpenStreetMap'
+
+[112] img 'OpenStreetMap logo'
+
+[390] link 'Edit'
+
+[391] button ''
+
+[362] link 'History'
+
+[363] link 'Export'
+
+[395] link 'GPS Traces'
+
+[396] link 'User Diaries'
+
+[397] link 'Communities'
+
+[398] link 'Copyright'
+
+[399] link 'Help'
+
+[400] link 'About'
+
+[371] link 'Log In'
+
+[372] link 'Sign Up'
+
+[12] textbox 'Search' focused: True required: False
+
+[815] StaticText 'Starbucks on CraiCarnegie Mellon Universityg Street'
+
+[495] button 'Go'
+
+[482] link 'Find directions between two points'
+
+[802] heading 'Search Results'
+
+[805] button 'Close'
+
+[800] heading 'Results from OpenStreetMap Nominatim'
+
+[807] link 'OpenStreetMap Nominatim'
+
+[811] StaticText 'No results found'
+
+[50] generic 'Zoom In Zoom Out Show My Location Layers Share 100 m 500 ft © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[54] link 'Zoom In'
+
+[55] link 'Zoom Out'
+
+[57] button 'Show My Location'
+
+[59] link 'Layers'
+
+[301] link ''
+
+[61] link 'Share'
+
+[303] link ''
+
+[305] link ''
+
+[776] StaticText '100 m'
+
+[777] StaticText '500 ft'
+
+[313] StaticText '© '
+
+[314] link 'OpenStreetMap contributors'
+
+[315] StaticText ' ♥ '
+
+[316] link 'Make a Donation'
+
+[317] StaticText '. '
+
+[318] link 'Website and API terms'</pre><div>
+
+[12] [Carnegie Mellon University
+
+[12] is textbox 'Search' focused: True required: False</div>
+

@@ -1,0 +1,60 @@
+Tab 0 (current): Edit Profile · User Settings · GitLab
+
+[1969] RootWebArea 'Edit Profile · User Settings · GitLab' focused: True
+	[2077] link 'Skip to content'
+	[2225] link 'Dashboard'
+	[2329] button '' hasPopup: menu expanded: False
+	[1981] textbox 'Search GitLab' required: False
+	[2831] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[2335] link 'Create new...'
+	[2337] link 'Issues'
+		[2583] generic '13 assigned issues'
+	[2338] link 'Merge requests'
+		[2585] generic '8 merge requests'
+	[2340] link 'To-Do List'
+		[2601] generic 'Todos count'
+	[2341] link 'Help'
+	[2343] link 'Byte Blazea11yproject.contributor.me'
+		[2635] img 'Byte Blazea11yproject.contributor.me'
+	[2078] complementary 'User settings'
+		[2258] link 'Byte Blazea11yproject.contributor.me User Settings'
+			[2345] img 'Byte Blazea11yproject.contributor.me'
+		[2348] link 'Profile'
+		[2350] link 'Account'
+		[2352] link 'Applications'
+		[2354] link 'Chat'
+		[2356] link 'Access Tokens'
+		[2358] link 'Emails'
+		[2360] link 'Password'
+		[2362] link 'Notifications'
+		[2364] link 'SSH Keys'
+		[2366] link 'GPG Keys'
+		[2368] link 'Preferences'
+		[2370] link 'Active Sessions'
+		[2372] link 'Authentication log'
+		[2183] button 'Collapse sidebar'
+	[1985] main ''
+		[2805] StaticText 'Enter your name, so people you know can recognize you.'
+		[2420] StaticText 'Pronouns'
+		[2003] textbox 'Pronouns' required: False
+		[2423] StaticText 'Enter your pronouns to let people know how to refer to you.'
+		[2427] StaticText 'Pronunciation'
+		[2005] textbox 'Pronunciation' required: False
+		[2430] StaticText 'Enter how your name is pronounced to help people address you correctly.'
+		[2435] StaticText 'Email'
+		[2007] textbox 'Email' required: True
+			[2809] StaticText 'ericwbailey@fakegithub.com'
+		[2438] StaticText 'We also use email for avatar detection if no avatar is uploaded.'
+		[2441] StaticText 'Public email'
+		[2010] combobox 'Public email' hasPopup: menu expanded: False
+		[2442] StaticText 'This email will be displayed on your public profile.'
+		[2445] StaticText 'Commit email'
+		[2013] combobox 'Commit email' hasPopup: menu expanded: False
+		[2446] StaticText 'This email will be used for web based operations, such as edits and merges. '
+		[2447] link 'Learn more.'
+		[2450] StaticText 'Skype'
+		[2015] textbox 'Skype' required: False
+		[2457] StaticText 'Linkedin'
+		[2017] textbox 'Linkedin' required: False
+		[2460] StaticText 'Your LinkedIn profile name from linkedin.com/in/profilename'
+		[2463] StaticText 'Twitter'</pre><div>

@@ -1,0 +1,115 @@
+Tab 0 (current): 0ang3el / aem-hacker · GitLab
+
+[2408] RootWebArea '0ang3el / aem-hacker · GitLab' focused: True
+	[2565] link 'Skip to content'
+	[2729] link 'Dashboard'
+	[2854] button '' hasPopup: menu expanded: False
+	[2420] textbox 'Search GitLab' required: False
+	[3999] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[2860] link 'Create new...'
+	[2862] link 'Issues'
+		[3308] generic '13 assigned issues'
+	[2863] link 'Merge requests'
+		[3310] generic '8 merge requests'
+	[2865] link 'To-Do List'
+		[3326] generic 'Todos count'
+	[2866] link 'Help'
+	[2868] link 'Byte Blaze'
+		[3360] img 'Byte Blaze'
+	[2566] complementary 'Project navigation'
+		[2762] listitem 'aem-hacker'
+			[2870] link 'aem-hacker'
+				[3401] StaticText 'A'
+		[2871] link 'Project information'
+		[2873] link 'Repository'
+		[2875] link 'Issues'
+			[3466] StaticText '12'
+		[2877] link 'Merge requests'
+		[2879] link 'CI/CD'
+		[2881] link 'Deployments'
+		[2883] link 'Packages and registries'
+		[2885] link 'Monitor'
+		[2887] link 'Analytics'
+		[2889] link 'Wiki'
+		[2891] link 'Snippets'
+		[2687] button 'Collapse sidebar'
+	[2570] alert '' live: assertive atomic: True relevant: additions text
+		[2573] button 'Dismiss'
+		[2574] alert '' live: assertive atomic: True relevant: additions text
+			[2793] link 'Add SSH key'
+			[2794] button "Don't show again"
+	[2571] navigation 'Breadcrumbs'
+		[2908] link '0ang3el'
+		[2910] link 'aem-hacker'
+	[2424] main ''
+		[2806] StaticText 'A'
+		[2704] heading 'aem-hacker Public - The project can be accessed without any authentication.'
+			[2707] generic 'Public - The project can be accessed without any authentication.'
+		[2710] StaticText 'Project ID: 138 '
+		[2711] button 'Copy project ID' live: polite atomic: False relevant: additions text
+		[2713] link 'Request Access'
+		[2812] button '' hasPopup: menu expanded: False
+		[2716] button 'Star'
+		[2717] link '12'
+		[2817] link 'Fork'
+		[2719] link '0'
+		[3006] link '26 Commits'
+		[3007] link '3 Branches'
+		[3008] link '0 Tags'
+		[3640] StaticText '184 KB'
+		[3636] StaticText ' Project Storage'
+		[2721] generic '<span class="repository-language-bar-tooltip-language">Python</span>&nbsp;<span class="repository-language-bar-tooltip-share">99.0%</span>'
+		[2722] generic '<span class="repository-language-bar-tooltip-language">Shell</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.8%</span>'
+		[2723] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.2%</span>'
+		[2830] img 'user avatar'
+		[2834] link 'Merge pull request #20 from sneakerhax/add_dockerfile'
+		[2835] button 'Toggle commit description'
+		[2840] StaticText '0ang3el authored '
+		[2841] time 'Nov 21, 2021 1:28pm EST'
+			[3013] StaticText '1 year ago'
+		[2845] button 'Unverified'
+		[2844] group ''
+			[3016] StaticText '3ce91f21'
+			[2847] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[3644] button 'master' hasPopup: menu expanded: False
+		[2484] navigation 'Files breadcrumb'
+			[4137] link 'aem-hacker'
+			[4383] button 'Add to tree' hasPopup: menu expanded: False
+		[3019] link 'Find file'
+		[3024] link 'Web IDE'
+		[3025] button 'Download'
+			[3651] StaticText 'Select Archive Format'
+		[3027] link 'Clone'
+		[3050] link 'README'
+		[3051] link 'MIT License'
+		[2467] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+			[3709] row ''
+				[3710] columnheader 'Name' required: False
+				[3711] columnheader 'Last commit' required: False
+				[3712] columnheader 'Last update' required: False
+			[3713] row ''
+				[3724] gridcell '.gitignore' required: False
+					[4157] link '.gitignore'
+				[3725] gridcell 'Added possibility to provide extra HTTP headers' required: False
+					[4163] link 'Added possibility to provide extra HTTP headers'
+				[3726] gridcell '4 years ago' required: False
+					[4166] time 'Sep 4, 2019 4:45am EDT'
+			[3714] row ''
+				[3727] gridcell 'Dockerfile' required: False
+					[4168] link 'Dockerfile'
+				[3728] gridcell 'Update Dockerfile' required: False
+					[4174] link 'Update Dockerfile'
+				[3729] gridcell '1 year ago' required: False
+					[4177] time 'Nov 12, 2021 11:48pm EST'
+			[3715] row ''
+				[3730] gridcell 'LICENSE.txt' required: False
+					[4179] link 'LICENSE.txt'
+				[3731] gridcell 'AEM hacker toolset 1.0' required: False
+					[4185] link 'AEM hacker toolset 1.0'
+				[3732] gridcell '4 years ago' required: False
+					[4188] time 'Jan 14, 2019 2:31pm EST'
+			[3716] row ''
+				[3733] gridcell 'README.md' required: False
+					[4190] link 'README.md'
+				[3734] gridcell 'Add --handler option to run specific checks' required: False
+				[3735] gridcell '3 years ago' required: False</pre><div>

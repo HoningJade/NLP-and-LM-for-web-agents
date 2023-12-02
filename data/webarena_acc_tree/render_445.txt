@@ -1,0 +1,932 @@
+[1] RootWebArea 'Byte Blaze / gimmiethat.space · GitLab' focused: True
+
+[114] link 'Skip to content'
+
+[306] link 'Dashboard'
+
+[471] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1350] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[477] link 'Create new...'
+
+[479] link 'Issues'
+
+[794] generic '13 assigned issues'
+
+[480] link 'Merge requests'
+
+[796] generic '8 merge requests'
+
+[482] link 'To-Do List'
+
+[812] generic 'Todos count'
+
+[1371] StaticText '5'
+
+[483] link 'Help'
+
+[485] link 'Byte Blaze'
+
+[846] img 'Byte Blaze'
+
+[115] complementary 'Project navigation'
+
+[339] listitem 'gimmiethat.space'
+
+[487] link 'gimmiethat.space'
+
+[887] StaticText 'G'
+
+[488] link 'Project information'
+
+[490] link 'Repository'
+
+[492] link 'Issues'
+
+[494] link 'Merge requests'
+
+[496] link 'CI/CD'
+
+[498] link 'Security & Compliance'
+
+[500] link 'Deployments'
+
+[502] link 'Packages and registries'
+
+[504] link 'Infrastructure'
+
+[506] link 'Monitor'
+
+[508] link 'Analytics'
+
+[510] link 'Wiki'
+
+[512] link 'Snippets'
+
+[514] link 'Settings'
+
+[255] button 'Collapse sidebar'
+
+[119] alert '' live: assertive atomic: True relevant: additions text
+
+[123] button 'Dismiss'
+
+[124] alert '' live: assertive atomic: True relevant: additions text
+
+[373] link 'Add SSH key'
+
+[374] button "Don't show again"
+
+[120] alert '' live: assertive atomic: True relevant: additions text
+
+[126] button 'Dismiss'
+
+[127] alert '' live: assertive atomic: True relevant: additions text
+
+[380] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[382] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[383] link 'Settings'
+
+[384] link 'More information'
+
+[121] navigation 'Breadcrumbs'
+
+[531] link 'Byte Blaze'
+
+[533] link 'gimmiethat.space'
+
+[17] main ''
+
+[396] StaticText 'G'
+
+[278] heading 'gimmiethat.space Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[281] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[284] StaticText 'Project ID: 184 '
+
+[285] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[401] button '' hasPopup: menu expanded: False
+
+[289] button 'Star'
+
+[290] link '0'
+
+[406] link 'Fork'
+
+[292] link '0'
+
+[629] link '3 Commits'
+
+[630] link '1 Branch'
+
+[631] link '0 Tags'
+
+[632] link '82 KB Project Storage'
+
+[298] StaticText 'I need some space.'
+
+[300] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">100.0%</span>'
+
+[419] img 'user avatar'
+
+[423] link 'Add index.html'
+
+[426] StaticText 'Eric Bailey authored '
+
+[427] time 'Mar 28, 2021 5:59pm EDT'
+
+[633] StaticText '2 years ago'
+
+[428] group ''
+
+[635] StaticText '67c3a0e8'
+
+[430] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[1230] button 'main' hasPopup: menu expanded: False
+
+[57] navigation 'Files breadcrumb'
+
+[1474] link 'gimmiethat.space'
+
+[1572] button 'Add to tree' hasPopup: menu expanded: False
+
+[640] link 'Find file'
+
+[645] link 'Web IDE'
+
+[646] button 'Download'
+
+[1237] StaticText 'Select Archive Format'
+
+[648] link 'Clone'
+
+[671] link 'MIT License'
+
+[672] link 'Auto DevOps enabled'
+
+[673] link 'Add README'
+
+[674] link 'Add CHANGELOG'
+
+[675] link 'Add CONTRIBUTING'
+
+[676] link 'Add Kubernetes cluster'
+
+[677] link 'Configure Integrations'</pre><div>
+
+[57]``` to go to the "Files" section.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '57', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page represents the GitLab repository for the project site. We need to update the project site\'s title to "Hello". To do this, we should navigate to the "Files" section of the repository and find the file that contains the site\'s title. Once we locate the file, we can make the necessary edits. In summary, the next action I will perform is ```click [57]``` to go to the "Files" section.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [57] where [57] is [57] navigation 'Files breadcrumb'</pre></div></div>
+
+[1] RootWebArea 'Byte Blaze / gimmiethat.space · GitLab' focused: True
+
+[114] link 'Skip to content'
+
+[306] link 'Dashboard'
+
+[471] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1350] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[477] link 'Create new...'
+
+[479] link 'Issues'
+
+[794] generic '13 assigned issues'
+
+[480] link 'Merge requests'
+
+[796] generic '8 merge requests'
+
+[482] link 'To-Do List'
+
+[812] generic 'Todos count'
+
+[1371] StaticText '5'
+
+[483] link 'Help'
+
+[485] link 'Byte Blaze'
+
+[846] img 'Byte Blaze'
+
+[115] complementary 'Project navigation'
+
+[339] listitem 'gimmiethat.space'
+
+[487] link 'gimmiethat.space'
+
+[887] StaticText 'G'
+
+[488] link 'Project information'
+
+[490] link 'Repository'
+
+[492] link 'Issues'
+
+[494] link 'Merge requests'
+
+[496] link 'CI/CD'
+
+[498] link 'Security & Compliance'
+
+[500] link 'Deployments'
+
+[502] link 'Packages and registries'
+
+[504] link 'Infrastructure'
+
+[506] link 'Monitor'
+
+[508] link 'Analytics'
+
+[510] link 'Wiki'
+
+[512] link 'Snippets'
+
+[514] link 'Settings'
+
+[255] button 'Collapse sidebar'
+
+[119] alert '' live: assertive atomic: True relevant: additions text
+
+[123] button 'Dismiss'
+
+[124] alert '' live: assertive atomic: True relevant: additions text
+
+[373] link 'Add SSH key'
+
+[374] button "Don't show again"
+
+[120] alert '' live: assertive atomic: True relevant: additions text
+
+[126] button 'Dismiss'
+
+[127] alert '' live: assertive atomic: True relevant: additions text
+
+[380] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[382] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[383] link 'Settings'
+
+[384] link 'More information'
+
+[121] navigation 'Breadcrumbs'
+
+[531] link 'Byte Blaze'
+
+[533] link 'gimmiethat.space'
+
+[17] main ''
+
+[419] img 'user avatar'
+
+[423] link 'Add index.html'
+
+[426] StaticText 'Eric Bailey authored '
+
+[427] time 'Mar 28, 2021 5:59pm EDT'
+
+[633] StaticText '2 years ago'
+
+[428] group ''
+
+[635] StaticText '67c3a0e8'
+
+[430] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[1230] button 'main' hasPopup: menu expanded: False
+
+[57] navigation 'Files breadcrumb'
+
+[1474] link 'gimmiethat.space' focused: True
+
+[1572] button 'Add to tree' hasPopup: menu expanded: False
+
+[1826] link 'History'
+
+[640] link 'Find file'
+
+[645] link 'Web IDE'
+
+[646] button 'Download'
+
+[1237] StaticText 'Select Archive Format'
+
+[648] link 'Clone'
+
+[1662] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[1830] row ''
+
+[1831] columnheader 'Name' required: False
+
+[1832] columnheader 'Last commit' required: False
+
+[1833] columnheader 'Last update' required: False
+
+[1834] row ''
+
+[1841] gridcell '.editorconfig' required: False
+
+[1867] link '.editorconfig'
+
+[1842] gridcell 'Add setup boilerplate' required: False
+
+[1873] link 'Add setup boilerplate'
+
+[1843] gridcell '2 years ago' required: False
+
+[1876] time 'Mar 28, 2021 5:53pm EDT'
+
+[1835] row ''
+
+[1844] gridcell '.gitignore' required: False
+
+[1878] link '.gitignore'
+
+[1845] gridcell 'Add setup boilerplate' required: False
+
+[1884] link 'Add setup boilerplate'
+
+[1846] gridcell '2 years ago' required: False
+
+[1887] time 'Mar 28, 2021 5:53pm EDT'
+
+[1664] row ''
+
+[1665] gridcell '.htmlhintrc' required: False
+
+[1666] link '.htmlhintrc' describedby: __bv_tooltip_301__
+
+[1847] gridcell 'Add setup boilerplate' required: False
+
+[1894] link 'Add setup boilerplate'
+
+[1848] gridcell '2 years ago' required: False
+
+[1897] time 'Mar 28, 2021 5:53pm EDT'
+
+[1836] row ''
+
+[1849] gridcell '.stylelintrc' required: False
+
+[1899] link '.stylelintrc'
+
+[1902] SvgRoot ''
+
+[1978] group 'stylelint-icon-white'
+
+[1850] gridcell 'Add setup boilerplate' required: False
+
+[1905] link 'Add setup boilerplate'
+
+[1851] gridcell '2 years ago' required: False
+
+[1908] time 'Mar 28, 2021 5:53pm EDT'
+
+[1837] row ''
+
+[1852] gridcell 'AUTHORS' required: False
+
+[1910] link 'AUTHORS'
+
+[1853] gridcell 'Add setup boilerplate' required: False
+
+[1916] link 'Add setup boilerplate'
+
+[1854] gridcell '2 years ago' required: False
+
+[1919] time 'Mar 28, 2021 5:53pm EDT'
+
+[1838] row ''
+
+[1855] gridcell 'LICENSE' required: False
+
+[1921] link 'LICENSE'
+
+[1856] gridcell 'Initial commit' required: False
+
+[1857] gridcell '2 years ago' required: False
+
+[1667] tooltip '.htmlhintrc'</pre><div>
+
+[57] where [57] is navigation 'Files breadcrumb'</div>
+
+[640]` where [640] is the link 'Find file'.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to update the project site\'s title to "Hello". To achieve this, I need to navigate to the file that contains the project site\'s title and make the necessary changes. \n\nFrom the observation, I see that the current page is the project repository page. The "Files breadcrumb" is clicked, which means I am currently in the files section of the project. \n\nI need to find the file that contains the project site\'s title and make the necessary changes. In this case, it could be an HTML file, such as index.html. \n\nTo find the file, I can use the "Find file" link. In summary, the next action I will perform is `click [640]` where [640] is the link \'Find file\'.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Byte Blaze / gimmiethat.space · GitLab' focused: True
+
+[114] link 'Skip to content'
+
+[306] link 'Dashboard'
+
+[471] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1350] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[477] link 'Create new...'
+
+[479] link 'Issues'
+
+[794] generic '13 assigned issues'
+
+[480] link 'Merge requests'
+
+[796] generic '8 merge requests'
+
+[482] link 'To-Do List'
+
+[812] generic 'Todos count'
+
+[1371] StaticText '5'
+
+[483] link 'Help'
+
+[485] link 'Byte Blaze'
+
+[846] img 'Byte Blaze'
+
+[115] complementary 'Project navigation'
+
+[339] listitem 'gimmiethat.space'
+
+[487] link 'gimmiethat.space'
+
+[887] StaticText 'G'
+
+[488] link 'Project information'
+
+[490] link 'Repository'
+
+[492] link 'Issues'
+
+[494] link 'Merge requests'
+
+[496] link 'CI/CD'
+
+[498] link 'Security & Compliance'
+
+[500] link 'Deployments'
+
+[502] link 'Packages and registries'
+
+[504] link 'Infrastructure'
+
+[506] link 'Monitor'
+
+[508] link 'Analytics'
+
+[510] link 'Wiki'
+
+[512] link 'Snippets'
+
+[514] link 'Settings'
+
+[255] button 'Collapse sidebar'
+
+[119] alert '' live: assertive atomic: True relevant: additions text
+
+[123] button 'Dismiss'
+
+[124] alert '' live: assertive atomic: True relevant: additions text
+
+[373] link 'Add SSH key'
+
+[374] button "Don't show again"
+
+[120] alert '' live: assertive atomic: True relevant: additions text
+
+[126] button 'Dismiss'
+
+[127] alert '' live: assertive atomic: True relevant: additions text
+
+[380] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[382] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[383] link 'Settings'
+
+[384] link 'More information'
+
+[121] navigation 'Breadcrumbs'
+
+[531] link 'Byte Blaze'
+
+[533] link 'gimmiethat.space'
+
+[17] main ''
+
+[419] img 'user avatar'
+
+[423] link 'Add index.html'
+
+[426] StaticText 'Eric Bailey authored '
+
+[427] time 'Mar 28, 2021 5:59pm EDT'
+
+[633] StaticText '2 years ago'
+
+[428] group ''
+
+[635] StaticText '67c3a0e8'
+
+[430] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[1230] button 'main' hasPopup: menu expanded: False
+
+[57] navigation 'Files breadcrumb'
+
+[1474] link 'gimmiethat.space' focused: True
+
+[1572] button 'Add to tree' hasPopup: menu expanded: False
+
+[1826] link 'History'
+
+[640] link 'Find file'
+
+[645] link 'Web IDE'
+
+[646] button 'Download'
+
+[1237] StaticText 'Select Archive Format'
+
+[648] link 'Clone'
+
+[1662] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[1830] row ''
+
+[1831] columnheader 'Name' required: False
+
+[1832] columnheader 'Last commit' required: False
+
+[1833] columnheader 'Last update' required: False
+
+[1834] row ''
+
+[1841] gridcell '.editorconfig' required: False
+
+[1867] link '.editorconfig'
+
+[1842] gridcell 'Add setup boilerplate' required: False
+
+[1873] link 'Add setup boilerplate'
+
+[1843] gridcell '2 years ago' required: False
+
+[1876] time 'Mar 28, 2021 5:53pm EDT'
+
+[1835] row ''
+
+[1844] gridcell '.gitignore' required: False
+
+[1878] link '.gitignore'
+
+[1845] gridcell 'Add setup boilerplate' required: False
+
+[1884] link 'Add setup boilerplate'
+
+[1846] gridcell '2 years ago' required: False
+
+[1887] time 'Mar 28, 2021 5:53pm EDT'
+
+[1664] row ''
+
+[1665] gridcell '.htmlhintrc' required: False
+
+[1666] link '.htmlhintrc' describedby: __bv_tooltip_301__
+
+[1847] gridcell 'Add setup boilerplate' required: False
+
+[1894] link 'Add setup boilerplate'
+
+[1848] gridcell '2 years ago' required: False
+
+[1897] time 'Mar 28, 2021 5:53pm EDT'
+
+[1836] row ''
+
+[1849] gridcell '.stylelintrc' required: False
+
+[1899] link '.stylelintrc'
+
+[1902] SvgRoot ''
+
+[1978] group 'stylelint-icon-white'
+
+[1850] gridcell 'Add setup boilerplate' required: False
+
+[1905] link 'Add setup boilerplate'
+
+[1851] gridcell '2 years ago' required: False
+
+[1908] time 'Mar 28, 2021 5:53pm EDT'
+
+[1837] row ''
+
+[1852] gridcell 'AUTHORS' required: False
+
+[1910] link 'AUTHORS'
+
+[1853] gridcell 'Add setup boilerplate' required: False
+
+[1916] link 'Add setup boilerplate'
+
+[1854] gridcell '2 years ago' required: False
+
+[1919] time 'Mar 28, 2021 5:53pm EDT'
+
+[1838] row ''
+
+[1855] gridcell 'LICENSE' required: False
+
+[1921] link 'LICENSE'
+
+[1856] gridcell 'Initial commit' required: False
+
+[1857] gridcell '2 years ago' required: False
+
+[1667] tooltip '.htmlhintrc'</pre><div>
+
+[640]` where [640] is the link 'Find file'.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[640]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '640', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [640]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [640] where [640] is [640] link 'Find file'</pre></div></div>
+
+[2000] RootWebArea 'Find File · main · Byte Blaze / gimmiethat.space · GitLab' focused: True
+
+[2059] link 'Skip to content'
+
+[2203] link 'Dashboard'
+
+[2290] button '' hasPopup: menu expanded: False
+
+[2021] textbox 'Search GitLab' required: False
+
+[2949] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2296] link 'Create new...'
+
+[2298] link 'Issues'
+
+[2488] generic '13 assigned issues'
+
+[2299] link 'Merge requests'
+
+[2490] generic '8 merge requests'
+
+[2301] link 'To-Do List'
+
+[2506] generic 'Todos count'
+
+[2302] link 'Help'
+
+[2304] link 'Byte Blaze'
+
+[2540] img 'Byte Blaze'
+
+[2060] complementary 'Project navigation'
+
+[2236] listitem 'gimmiethat.space'
+
+[2306] link 'gimmiethat.space'
+
+[2581] StaticText 'G'
+
+[2307] link 'Project information'
+
+[2309] link 'Repository'
+
+[2989] link 'Files'
+
+[2990] link 'Commits'
+
+[2991] link 'Branches'
+
+[2992] link 'Tags'
+
+[2993] link 'Contributors'
+
+[2994] link 'Graph'
+
+[2995] link 'Compare'
+
+[2311] link 'Issues'
+
+[2622] StaticText '0'
+
+[2313] link 'Merge requests'
+
+[2315] link 'CI/CD'
+
+[2317] link 'Security & Compliance'
+
+[2319] link 'Deployments'
+
+[2321] link 'Packages and registries'
+
+[2323] link 'Infrastructure'
+
+[2325] link 'Monitor'
+
+[2327] link 'Analytics'
+
+[2329] link 'Wiki'
+
+[2191] button 'Collapse sidebar'
+
+[2064] navigation 'Breadcrumbs'
+
+[2350] link 'Byte Blaze'
+
+[2352] link 'gimmiethat.space'
+
+[2354] link 'main'
+
+[2006] main ''
+
+[2355] button 'main'
+
+[2356] link 'gimmiethat.space'
+
+[2011] textbox 'Find by path' focused: True required: False
+
+[2198] table ''
+
+[2358] row ''
+
+[2366] gridcell '.editorconfig' required: False
+
+[2908] link '.editorconfig'
+
+[2359] row ''
+
+[2367] gridcell '.gitignore' required: False
+
+[2912] link '.gitignore'
+
+[2360] row ''
+
+[2368] gridcell '.htmlhintrc' required: False
+
+[2916] link '.htmlhintrc'
+
+[2361] row ''
+
+[2369] gridcell '.stylelintrc' required: False
+
+[2920] link '.stylelintrc'
+
+[2362] row ''
+
+[2370] gridcell 'AUTHORS' required: False
+
+[2924] link 'AUTHORS'
+
+[2363] row ''
+
+[2371] gridcell 'LICENSE' required: False
+
+[2928] link 'LICENSE'
+
+[2364] row ''
+
+[2372] gridcell 'index.html' required: False
+
+[2932] link 'index.html'
+
+[2365] row ''
+
+[2373] gridcell 'package.json' required: False
+
+[2936] link 'package.json'</pre><div>
+
+[640] where [640] is link 'Find file'</div>
+
+[2011] ["project site's title file path"] [1]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [17, 95, 97, 94, 89, 84, 82, 99, 15, 98, 88, 99, 84, 22, 98, 15, 99, 88, 99, 91, 84, 15, 85, 88, 91, 84, 15, 95, 80, 99, 87, 17, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2011', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to update the project site\'s title to "Hello". I see a textbox with the label "Find by path" on the page. I can use this textbox to search for the file that contains the project site\'s title. I can type the file path in the textbox and press Enter to search for it. Once I find the file, I can click on it to open it for editing. In summary, the next action I will perform is ```type [2011] ["project site\'s title file path"] [1]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [2011] ["project site's title file path"
+
+[2011] is [2011] textbox 'Find by path' focused: True required: False</pre></div></div>
+
+[2000] RootWebArea 'Find File · main · Byte Blaze / gimmiethat.space · GitLab' focused: True
+
+[2059] link 'Skip to content'
+
+[2203] link 'Dashboard'
+
+[2290] button '' hasPopup: menu expanded: False
+
+[2021] textbox 'Search GitLab' required: False
+
+[2949] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2296] link 'Create new...'
+
+[2298] link 'Issues'
+
+[2488] generic '13 assigned issues'
+
+[2299] link 'Merge requests'
+
+[2490] generic '8 merge requests'
+
+[2301] link 'To-Do List'
+
+[2506] generic 'Todos count'
+
+[2302] link 'Help'
+
+[2304] link 'Byte Blaze'
+
+[2540] img 'Byte Blaze'
+
+[2060] complementary 'Project navigation'
+
+[2236] listitem 'gimmiethat.space'
+
+[2306] link 'gimmiethat.space'
+
+[2581] StaticText 'G'
+
+[2307] link 'Project information'
+
+[2309] link 'Repository'
+
+[2989] link 'Files'
+
+[2990] link 'Commits'
+
+[2991] link 'Branches'
+
+[2992] link 'Tags'
+
+[2993] link 'Contributors'
+
+[2994] link 'Graph'
+
+[2995] link 'Compare'
+
+[2311] link 'Issues'
+
+[2622] StaticText '0'
+
+[2313] link 'Merge requests'
+
+[2315] link 'CI/CD'
+
+[2317] link 'Security & Compliance'
+
+[2319] link 'Deployments'
+
+[2321] link 'Packages and registries'
+
+[2323] link 'Infrastructure'
+
+[2325] link 'Monitor'
+
+[2327] link 'Analytics'
+
+[2329] link 'Wiki'
+
+[2191] button 'Collapse sidebar'
+
+[2064] navigation 'Breadcrumbs'
+
+[2350] link 'Byte Blaze'
+
+[2352] link 'gimmiethat.space'
+
+[2354] link 'main'
+
+[2006] main ''
+
+[2355] button 'main'
+
+[2356] link 'gimmiethat.space'
+
+[2011] textbox 'Find by path' focused: True required: False
+
+[3088] StaticText '"project site\'s title file path"'
+
+[3084] img 'No files svg'
+
+[3082] heading 'There are no matching files'
+
+[3085] StaticText 'Try using a different search term to find the file you are looking for.'
+
+[2198] table ''</pre><div>
+
+[2011] ["project site's title file path"
+
+[2011] is textbox 'Find by path' focused: True required: False</div>
+

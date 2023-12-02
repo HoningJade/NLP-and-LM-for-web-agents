@@ -1,0 +1,920 @@
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[270] link 'Skip to content'
+
+[386] link 'Dashboard'
+
+[462] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1733] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[468] link 'Create new...'
+
+[470] link 'Issues'
+
+[1298] generic '13 assigned issues'
+
+[471] link 'Merge requests'
+
+[1300] generic '8 merge requests'
+
+[473] link 'To-Do List'
+
+[1316] generic 'Todos count'
+
+[1754] StaticText '5'
+
+[474] link 'Help'
+
+[476] link 'Byte Blaze'
+
+[1350] img 'Byte Blaze'
+
+[17] main ''
+
+[371] heading 'Projects'
+
+[374] link 'New project'
+
+[478] link 'Yours 18'
+
+[479] link 'Starred 3'
+
+[480] link 'Explore'
+
+[481] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[438] button 'Name'
+
+[525] link 'All'
+
+[526] link 'Personal'
+
+[527] link 'A'
+
+[530] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[533] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[531] generic 'Public - The project can be accessed without any authentication.'
+
+[539] StaticText 'Owner'
+
+[1406] generic 'lipstick'
+
+[1764] StaticText '💄'
+
+[1407] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[551] link '1'
+
+[552] link '0'
+
+[553] link '0'
+
+[554] link '1'
+
+[563] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[564] StaticText '5 months ago'
+
+[565] link 'A'
+
+[568] heading 'Byte Blaze / a11y-webring.club'
+
+[571] link 'Byte Blaze / a11y-webring.club'
+
+[569] generic 'Public - The project can be accessed without any authentication.'
+
+[577] StaticText 'Owner'
+
+[1425] generic 'globe with meridians'
+
+[1765] StaticText '🌐'
+
+[1426] StaticText ' A webring for digital accessibility practitioners.'
+
+[589] link '2'
+
+[590] link '0'
+
+[591] link '1'
+
+[592] link '4'
+
+[601] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[602] StaticText '5 months ago'
+
+[603] link 'A'
+
+[606] heading 'The A11Y Project / a11yproject.com'
+
+[609] link 'The A11Y Project / a11yproject.com'
+
+[607] generic 'Public - The project can be accessed without any authentication.'
+
+[615] StaticText 'Maintainer'
+
+[1444] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[627] link '21'
+
+[628] link '0'
+
+[629] link '10'
+
+[630] link '40'
+
+[639] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[640] StaticText '5 months ago'
+
+[641] link 'A'
+
+[644] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[647] link 'Byte Blaze / accessible-html-content-patterns'
+
+[645] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[653] StaticText 'Owner'
+
+[1462] generic 'wheelchair symbol'
+
+[1766] StaticText '♿'
+
+[1463] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[665] link '1'
+
+[666] link '0'
+
+[667] link '0'
+
+[668] link '0'
+
+[677] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[678] StaticText '5 months ago'
+
+[679] link ''
+
+[682] heading 'Byte Blaze / cloud-to-butt'
+
+[685] link 'Byte Blaze / cloud-to-butt'
+
+[683] generic 'Public - The project can be accessed without any authentication.'
+
+[691] StaticText 'Owner'
+
+[703] link '0'
+
+[704] link '0'
+
+[705] link '0'
+
+[706] link '0'
+
+[715] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[716] StaticText '5 months ago'
+
+[717] link 'D'
+
+[720] heading 'Primer / design'
+
+[723] link 'Primer / design'
+
+[721] generic 'Public - The project can be accessed without any authentication.'
+
+[729] StaticText 'Developer'
+
+[1498] StaticText 'Primer Design Guidelines'
+
+[741] link '21'
+
+[742] link '0'
+
+[743] link '16'
+
+[744] link '21'
+
+[753] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[754] StaticText '5 months ago'
+
+[755] link 'D'
+
+[757] heading 'Byte Blaze / Do it myself'
+
+[760] link 'Byte Blaze / Do it myself'
+
+[758] generic 'Public - The project can be accessed without any authentication.'
+
+[766] StaticText 'Owner'
+
+[777] link '0'
+
+[778] link '0'
+
+[779] link '0'
+
+[780] link '0'
+
+[789] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[790] StaticText '1 day ago'</pre><div>
+
+[530]``` to open the 'Byte Blaze / a11y-syntax-highlighting' repository.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '530', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. To invite someone to a GitLab repository, we need to navigate to the repository and then invite the person as a guest. \n\nLooking at the information, there is a link for the repository 'Byte Blaze / a11y-syntax-highlighting' which matches the repository mentioned in the objective. \n\nIn summary, the next action I will perform is ```click [530]``` to open the 'Byte Blaze / a11y-syntax-highlighting' repository."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [530] where [530] is [530] heading 'Byte Blaze / a11y-syntax-highlighting'</pre></div></div>
+
+[1778] RootWebArea 'Byte Blaze / a11y-syntax-highlighting · GitLab' focused: True
+
+[1968] link 'Skip to content'
+
+[2161] link 'Dashboard'
+
+[2330] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3430] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2336] link 'Create new...'
+
+[2338] link 'Issues'
+
+[2727] generic '13 assigned issues'
+
+[2339] link 'Merge requests'
+
+[2729] generic '8 merge requests'
+
+[2341] link 'To-Do List'
+
+[2745] generic 'Todos count'
+
+[2342] link 'Help'
+
+[2344] link 'Byte Blaze'
+
+[2779] img 'Byte Blaze'
+
+[1969] complementary 'Project navigation'
+
+[2194] listitem 'a11y-syntax-highlighting'
+
+[2346] link 'a11y-syntax-highlighting'
+
+[2820] StaticText 'A'
+
+[2347] link 'Project information'
+
+[2349] link 'Repository'
+
+[2351] link 'Issues'
+
+[2353] link 'Merge requests'
+
+[2914] StaticText '0'
+
+[2355] link 'CI/CD'
+
+[2357] link 'Security & Compliance'
+
+[2359] link 'Deployments'
+
+[2361] link 'Packages and registries'
+
+[2363] link 'Infrastructure'
+
+[2365] link 'Monitor'
+
+[2367] link 'Analytics'
+
+[2369] link 'Wiki'
+
+[2371] link 'Snippets'
+
+[2373] link 'Settings'
+
+[2109] button 'Collapse sidebar'
+
+[1973] alert '' live: assertive atomic: True relevant: additions text
+
+[1977] button 'Dismiss'
+
+[1978] alert '' live: assertive atomic: True relevant: additions text
+
+[2228] link 'Add SSH key'
+
+[2229] button "Don't show again"
+
+[1974] alert '' live: assertive atomic: True relevant: additions text
+
+[1980] button 'Dismiss'
+
+[1981] alert '' live: assertive atomic: True relevant: additions text
+
+[2235] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[2237] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[2238] link 'Settings'
+
+[2239] link 'More information'
+
+[1975] navigation 'Breadcrumbs'
+
+[2390] link 'Byte Blaze'
+
+[2392] link 'a11y-syntax-highlighting'
+
+[1794] main ''
+
+[2251] StaticText 'A'
+
+[2132] heading 'a11y-syntax-highlighting Public - The project can be accessed without any authentication.'
+
+[2135] generic 'Public - The project can be accessed without any authentication.'
+
+[2138] StaticText 'Project ID: 186 '
+
+[2139] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2256] button '' hasPopup: menu expanded: False
+
+[2143] button 'Star'
+
+[2144] link '1'
+
+[2261] link 'Fork'
+
+[2146] link '0'
+
+[2488] link '48 Commits'
+
+[2489] link '1 Branch'
+
+[2490] link '0 Tags'
+
+[2491] link '2 MB Project Storage'
+
+[2152] generic 'lipstick'
+
+[2270] StaticText '💄'
+
+[2153] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[2155] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">100.0%</span>'
+
+[2275] img 'user avatar'
+
+[2279] link 'Update README.md'
+
+[2282] StaticText 'Eric Bailey authored '
+
+[2283] time 'Mar 19, 2023 12:40pm EDT'
+
+[2492] StaticText '5 months ago'
+
+[2286] button 'Unverified'
+
+[2285] group ''
+
+[2495] StaticText '62820763'
+
+[2288] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3163] button 'main' hasPopup: menu expanded: False
+
+[1848] navigation 'Files breadcrumb'
+
+[3554] link 'a11y-syntax-highlighting'
+
+[3847] button 'Add to tree' hasPopup: menu expanded: False
+
+[2500] link 'Find file'
+
+[2505] link 'Web IDE'
+
+[2506] button 'Download'
+
+[3170] StaticText 'Select Archive Format'
+
+[2508] link 'Clone'
+
+[2531] link 'README'
+
+[2532] link 'MIT License'
+
+[2533] link 'Auto DevOps enabled'
+
+[2534] link 'Add CHANGELOG'
+
+[2535] link 'Add CONTRIBUTING'
+
+[2536] link 'Add Kubernetes cluster'
+
+[2537] link 'Configure Integrations'</pre><div>
+
+[530] where [530] is heading 'Byte Blaze / a11y-syntax-highlighting'</div>
+
+[2238]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2238', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the project page for the repository "Byte Blaze / a11y-syntax-highlighting" on GitLab. I need to invite Jakub Klinkovský to the repo as a guest. To do that, I need to access the repository settings. I can do this by clicking on the "Settings" link. In summary, the next action I will perform is ```click [2238]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2238] where [2238] is [2238] link 'Settings'</pre></div></div>
+
+[3926] RootWebArea 'CI/CD Settings · CI/CD · Settings · Byte Blaze / a11y-syntax-highlighting · GitLab' focused: True
+
+[4120] link 'Skip to content'
+
+[4269] link 'Dashboard'
+
+[4383] button '' hasPopup: menu expanded: False
+
+[3968] textbox 'Search GitLab' required: False
+
+[5183] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4389] link 'Create new...'
+
+[4391] link 'Issues'
+
+[4692] generic '13 assigned issues'
+
+[4392] link 'Merge requests'
+
+[4694] generic '8 merge requests'
+
+[4394] link 'To-Do List'
+
+[4710] generic 'Todos count'
+
+[5204] StaticText '5'
+
+[4395] link 'Help'
+
+[4397] link 'Byte Blaze'
+
+[4744] img 'Byte Blaze'
+
+[4121] complementary 'Project navigation'
+
+[4302] listitem 'a11y-syntax-highlighting'
+
+[4399] link 'a11y-syntax-highlighting'
+
+[4785] StaticText 'A'
+
+[4400] link 'Project information'
+
+[4402] link 'Repository'
+
+[4404] link 'Issues'
+
+[4850] StaticText '1'
+
+[4406] link 'Merge requests'
+
+[4408] link 'CI/CD'
+
+[4410] link 'Security & Compliance'
+
+[4412] link 'Deployments'
+
+[4414] link 'Packages and registries'
+
+[4416] link 'Infrastructure'
+
+[4418] link 'Monitor'
+
+[4420] link 'Analytics'
+
+[4422] link 'Wiki'
+
+[4424] link 'Snippets'
+
+[4426] link 'Settings'
+
+[5259] link 'General'
+
+[5260] link 'Integrations'
+
+[5261] link 'Webhooks'
+
+[5262] link 'Access Tokens'
+
+[5263] link 'Repository'
+
+[4252] button 'Collapse sidebar'
+
+[4125] navigation 'Breadcrumbs'
+
+[4443] link 'Byte Blaze'
+
+[4445] link 'a11y-syntax-highlighting'
+
+[4447] link 'CI/CD Settings'
+
+[3932] main ''
+
+[4076] searchbox 'Search page'
+
+[4350] heading 'General pipelines'
+
+[4351] button 'Expand'
+
+[4451] StaticText 'Customize your pipeline configuration.'
+
+[3974] group ''
+
+[3977] checkbox 'Public pipelines Allow public access to pipelines and job details, including output logs and artifacts. ' checked: true
+
+[5666] link ''
+
+[3980] checkbox 'Auto-cancel redundant pipelines New pipelines cause older pending or running pipelines on the same branch to be cancelled. ' checked: true
+
+[5674] link ''
+
+[3983] checkbox 'Prevent outdated deployment jobs When a deployment job is successful, prevent older deployment jobs that are still pending. ' checked: true
+
+[5682] link ''
+
+[3986] checkbox 'Use separate caches for protected branches Unprotected branches will not have access to the cache from protected branches. ' checked: true
+
+[5690] link ''
+
+[5452] StaticText 'CI/CD configuration file'
+
+[3988] textbox 'CI/CD configuration file' required: False
+
+[5455] StaticText 'The name of the CI/CD configuration file. A path relative to the root directory is optional (for example '
+
+[5457] StaticText 'my/path/.myfile.yml'
+
+[5458] StaticText '). '
+
+[5459] link ''
+
+[5269] separator '' orientation: horizontal
+
+[5460] heading 'Git strategy'
+
+[5463] StaticText 'Choose which Git strategy to use when fetching the project. '
+
+[5464] link ''
+
+[3991] radio 'git clone For each job, clone the repository.' checked: false
+
+[4354] heading 'Auto DevOps'
+
+[4355] button 'Expand'
+
+[4458] link 'Automate building, testing, and deploying'
+
+[4459] StaticText ' your applications based on your continuous integration and delivery configuration. '
+
+[4460] link 'How do I get started?'
+
+[4034] group ''
+
+[4039] checkbox 'Default to Auto DevOps pipeline instance enabled The Auto DevOps pipeline runs if no alternative CI configuration file is found. Learn more.' checked: true
+
+[5858] link 'Learn more.'
+
+[5813] StaticText 'Add a '
+
+[5814] link 'Kubernetes cluster integration'
+
+[5815] StaticText ' with a domain, or create an AUTO_DEVOPS_PLATFORM_TARGET CI variable.'
+
+[5861] StaticText 'Deployment strategy'
+
+[4042] radio 'Continuous deployment to production ' checked: true
+
+[5865] link ''
+
+[4044] radio 'Continuous deployment to production using timed incremental rollout ' checked: false
+
+[5871] link ''
+
+[4046] radio 'Automatic deployment to staging, manual deployment to production ' checked: false
+
+[5877] link ''
+
+[5598] button 'Save changes'
+
+[4357] heading 'Runners'
+
+[4358] button 'Expand'
+
+[4464] StaticText 'Runners are processes that pick up and execute CI/CD jobs for GitLab. '
+
+[4465] link 'What is GitLab Runner?'
+
+[4470] StaticText 'Register as many runners as you want. You can register runners as separate users, on separate servers, and on your local machine.'
+
+[4467] heading 'How do runners pick up jobs?'
+
+[4472] StaticText 'Runners are either:'
+
+[3939] ListMarker '• '
+
+[5085] StaticText 'active'
+
+[5086] StaticText ' - Available to run jobs.'
+
+[3941] ListMarker '• '
+
+[5088] StaticText 'paused'
+
+[5089] StaticText ' - Not available to run jobs.'
+
+[4473] StaticText 'Tags control which type of jobs a runner can handle. By tagging a runner, you make sure shared runners only handle the jobs they are equipped to run. '
+
+[4474] link 'Learn more.'
+
+[4476] heading 'Specific runners'
+
+[4478] heading 'Shared runners'
+
+[4360] heading 'Artifacts'
+
+[4361] button 'Expand'
+
+[4488] StaticText 'A job artifact is an archive of files and directories saved by a job when it finishes.'
+
+[4063] checkbox 'Keep artifacts from most recent successful jobs More information The latest artifacts created by jobs in the most recent successful pipeline will be stored.' checked: true
+
+[5119] link 'More information'
+
+[4363] heading 'Variables'
+
+[4364] button 'Expand'
+
+[4493] StaticText 'Variables store information, like passwords and secret keys, that you can use in job scripts. Each project can define a maximum of 200 variables. '
+
+[4494] link 'Learn more.'
+
+[4495] StaticText 'Variables can have several attributes. '
+
+[4496] link 'Learn more.'</pre><div>
+
+[2238] where [2238] is link 'Settings'</div>
+
+[2238]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2238', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to invite Jakub Klinkovský to the repo as a guest. To do that, I need to navigate to the project\'s settings page. On the current page, I see a link with the text "Settings" that I can click on. In summary, the next action I will perform is ```click [2238]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2238] where [2238] is No match found</pre></div></div>
+
+[3926] RootWebArea 'CI/CD Settings · CI/CD · Settings · Byte Blaze / a11y-syntax-highlighting · GitLab' focused: True
+
+[4120] link 'Skip to content'
+
+[4269] link 'Dashboard'
+
+[4383] button '' hasPopup: menu expanded: False
+
+[3968] textbox 'Search GitLab' required: False
+
+[5183] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4389] link 'Create new...'
+
+[4391] link 'Issues'
+
+[4692] generic '13 assigned issues'
+
+[4392] link 'Merge requests'
+
+[4694] generic '8 merge requests'
+
+[4394] link 'To-Do List'
+
+[4710] generic 'Todos count'
+
+[5204] StaticText '5'
+
+[4395] link 'Help'
+
+[4397] link 'Byte Blaze'
+
+[4744] img 'Byte Blaze'
+
+[4121] complementary 'Project navigation'
+
+[4302] listitem 'a11y-syntax-highlighting'
+
+[4399] link 'a11y-syntax-highlighting'
+
+[4785] StaticText 'A'
+
+[4400] link 'Project information'
+
+[4402] link 'Repository'
+
+[4404] link 'Issues'
+
+[4850] StaticText '1'
+
+[4406] link 'Merge requests'
+
+[4408] link 'CI/CD'
+
+[4410] link 'Security & Compliance'
+
+[4412] link 'Deployments'
+
+[4414] link 'Packages and registries'
+
+[4416] link 'Infrastructure'
+
+[4418] link 'Monitor'
+
+[4420] link 'Analytics'
+
+[4422] link 'Wiki'
+
+[4424] link 'Snippets'
+
+[4426] link 'Settings'
+
+[5259] link 'General'
+
+[5260] link 'Integrations'
+
+[5261] link 'Webhooks'
+
+[5262] link 'Access Tokens'
+
+[5263] link 'Repository'
+
+[4252] button 'Collapse sidebar'
+
+[4125] navigation 'Breadcrumbs'
+
+[4443] link 'Byte Blaze'
+
+[4445] link 'a11y-syntax-highlighting'
+
+[4447] link 'CI/CD Settings'
+
+[3932] main ''
+
+[4076] searchbox 'Search page'
+
+[4350] heading 'General pipelines'
+
+[4351] button 'Expand'
+
+[4451] StaticText 'Customize your pipeline configuration.'
+
+[3974] group ''
+
+[3977] checkbox 'Public pipelines Allow public access to pipelines and job details, including output logs and artifacts. ' checked: true
+
+[5666] link ''
+
+[3980] checkbox 'Auto-cancel redundant pipelines New pipelines cause older pending or running pipelines on the same branch to be cancelled. ' checked: true
+
+[5674] link ''
+
+[3983] checkbox 'Prevent outdated deployment jobs When a deployment job is successful, prevent older deployment jobs that are still pending. ' checked: true
+
+[5682] link ''
+
+[3986] checkbox 'Use separate caches for protected branches Unprotected branches will not have access to the cache from protected branches. ' checked: true
+
+[5690] link ''
+
+[5452] StaticText 'CI/CD configuration file'
+
+[3988] textbox 'CI/CD configuration file' required: False
+
+[5455] StaticText 'The name of the CI/CD configuration file. A path relative to the root directory is optional (for example '
+
+[5457] StaticText 'my/path/.myfile.yml'
+
+[5458] StaticText '). '
+
+[5459] link ''
+
+[5269] separator '' orientation: horizontal
+
+[5460] heading 'Git strategy'
+
+[5463] StaticText 'Choose which Git strategy to use when fetching the project. '
+
+[5464] link ''
+
+[3991] radio 'git clone For each job, clone the repository.' checked: false
+
+[4354] heading 'Auto DevOps'
+
+[4355] button 'Expand'
+
+[4458] link 'Automate building, testing, and deploying'
+
+[4459] StaticText ' your applications based on your continuous integration and delivery configuration. '
+
+[4460] link 'How do I get started?'
+
+[4034] group ''
+
+[4039] checkbox 'Default to Auto DevOps pipeline instance enabled The Auto DevOps pipeline runs if no alternative CI configuration file is found. Learn more.' checked: true
+
+[5858] link 'Learn more.'
+
+[5813] StaticText 'Add a '
+
+[5814] link 'Kubernetes cluster integration'
+
+[5815] StaticText ' with a domain, or create an AUTO_DEVOPS_PLATFORM_TARGET CI variable.'
+
+[5861] StaticText 'Deployment strategy'
+
+[4042] radio 'Continuous deployment to production ' checked: true
+
+[5865] link ''
+
+[4044] radio 'Continuous deployment to production using timed incremental rollout ' checked: false
+
+[5871] link ''
+
+[4046] radio 'Automatic deployment to staging, manual deployment to production ' checked: false
+
+[5877] link ''
+
+[5598] button 'Save changes'
+
+[4357] heading 'Runners'
+
+[4358] button 'Expand'
+
+[4464] StaticText 'Runners are processes that pick up and execute CI/CD jobs for GitLab. '
+
+[4465] link 'What is GitLab Runner?'
+
+[4470] StaticText 'Register as many runners as you want. You can register runners as separate users, on separate servers, and on your local machine.'
+
+[4467] heading 'How do runners pick up jobs?'
+
+[4472] StaticText 'Runners are either:'
+
+[3939] ListMarker '• '
+
+[5085] StaticText 'active'
+
+[5086] StaticText ' - Available to run jobs.'
+
+[3941] ListMarker '• '
+
+[5088] StaticText 'paused'
+
+[5089] StaticText ' - Not available to run jobs.'
+
+[4473] StaticText 'Tags control which type of jobs a runner can handle. By tagging a runner, you make sure shared runners only handle the jobs they are equipped to run. '
+
+[4474] link 'Learn more.'
+
+[4476] heading 'Specific runners'
+
+[4478] heading 'Shared runners'
+
+[4360] heading 'Artifacts'
+
+[4361] button 'Expand'
+
+[4488] StaticText 'A job artifact is an archive of files and directories saved by a job when it finishes.'
+
+[4063] checkbox 'Keep artifacts from most recent successful jobs More information The latest artifacts created by jobs in the most recent successful pipeline will be stored.' checked: true
+
+[5119] link 'More information'
+
+[4363] heading 'Variables'
+
+[4364] button 'Expand'
+
+[4493] StaticText 'Variables store information, like passwords and secret keys, that you can use in job scripts. Each project can define a maximum of 200 variables. '
+
+[4494] link 'Learn more.'
+
+[4495] StaticText 'Variables can have several attributes. '
+
+[4496] link 'Learn more.'</pre><div>
+
+[2238]" but no matching element found. Please check the observation more carefully.</div>
+

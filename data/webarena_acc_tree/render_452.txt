@@ -1,0 +1,1766 @@
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[294] link 'Skip to content'
+
+[416] link 'Dashboard'
+
+[498] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1893] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[504] link 'Create new...'
+
+[506] link 'Issues'
+
+[1412] generic '13 assigned issues'
+
+[507] link 'Merge requests'
+
+[1414] generic '8 merge requests'
+
+[509] link 'To-Do List'
+
+[1430] generic 'Todos count'
+
+[510] link 'Help'
+
+[512] link 'Byte Blazea11yproject.contributor.me'
+
+[1464] img 'Byte Blazea11yproject.contributor.me'
+
+[17] main ''
+
+[395] heading 'Projects'
+
+[398] link 'New project'
+
+[514] link 'Yours 23'
+
+[515] link 'Starred 3'
+
+[516] link 'Explore'
+
+[517] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[468] button 'Name'
+
+[561] link 'All'
+
+[562] link 'Personal'
+
+[563] link 'A'
+
+[566] heading 'Byte Blazea11yproject.contributor.me / a11y-syntax-highlighting'
+
+[569] link 'Byte Blazea11yproject.contributor.me / a11y-syntax-highlighting'
+
+[567] generic 'Public - The project can be accessed without any authentication.'
+
+[575] StaticText 'Owner'
+
+[1526] generic 'lipstick'
+
+[1924] StaticText '💄'
+
+[1527] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[587] link '1'
+
+[588] link '0'
+
+[589] link '0'
+
+[590] link '1'
+
+[599] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[600] StaticText '5 months ago'
+
+[601] link 'A'
+
+[604] heading 'Byte Blazea11yproject.contributor.me / a11y-webring.club'
+
+[607] link 'Byte Blazea11yproject.contributor.me / a11y-webring.club'
+
+[605] generic 'Public - The project can be accessed without any authentication.'
+
+[613] StaticText 'Owner'
+
+[1545] generic 'globe with meridians'
+
+[1925] StaticText '🌐'
+
+[1546] StaticText ' A webring for digital accessibility practitioners.'
+
+[625] link '2'
+
+[626] link '0'
+
+[627] link '1'
+
+[628] link '4'
+
+[637] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[638] StaticText '5 months ago'
+
+[639] link 'A'
+
+[642] heading 'The A11Y Project / a11yproject.com'
+
+[645] link 'The A11Y Project / a11yproject.com'
+
+[643] generic 'Public - The project can be accessed without any authentication.'
+
+[651] StaticText 'Maintainer'
+
+[1564] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[663] link '21'
+
+[664] link '0'
+
+[665] link '10'
+
+[666] link '40'
+
+[675] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[676] StaticText '5 months ago'
+
+[677] link 'A'
+
+[680] heading 'Byte Blazea11yproject.contributor.me / accessible-html-content-patterns'
+
+[683] link 'Byte Blazea11yproject.contributor.me / accessible-html-content-patterns'
+
+[681] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[689] StaticText 'Owner'
+
+[1582] generic 'wheelchair symbol'
+
+[1926] StaticText '♿'
+
+[1583] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[701] link '1'
+
+[702] link '0'
+
+[703] link '0'
+
+[704] link '0'
+
+[713] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[714] StaticText '5 months ago'
+
+[715] link 'A'
+
+[717] heading 'crew / awesome_web_agents'
+
+[720] link 'crew / awesome_web_agents'
+
+[718] generic 'Public - The project can be accessed without any authentication.'
+
+[726] StaticText 'Owner'
+
+[737] link '0'
+
+[738] link '0'
+
+[739] link '0'
+
+[740] link '0'
+
+[749] StaticText 'Updated '
+
+[83] time 'Sep 12, 2023 2:11am EDT'
+
+[750] StaticText '1 hour ago'
+
+[751] link ''
+
+[754] heading 'Byte Blazea11yproject.contributor.me / cloud-to-butt'
+
+[757] link 'Byte Blazea11yproject.contributor.me / cloud-to-butt'
+
+[755] generic 'Public - The project can be accessed without any authentication.'
+
+[763] StaticText 'Owner'
+
+[775] link '0'
+
+[776] link '0'
+
+[777] link '0'
+
+[778] link '0'
+
+[787] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 7:22pm EDT'
+
+[788] StaticText '5 months ago'
+
+[789] link 'D'
+
+[792] heading 'Primer / design'
+
+[795] link 'Primer / design'
+
+[793] generic 'Public - The project can be accessed without any authentication.'
+
+[801] StaticText 'Developer'
+
+[1635] StaticText 'Primer Design Guidelines'
+
+[813] link '21'
+
+[814] link '0'
+
+[815] link '16'
+
+[816] link '21'
+
+[825] StaticText 'Updated '
+
+[107] time 'Mar 27, 2023 5:04pm EDT'
+
+[826] StaticText '5 months ago'</pre><div>
+
+[416]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '416', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. To set the homepage URL on your GitLab profile, we need to navigate to your profile settings. I will click on the button with the text 'Dashboard' to access your dashboard. In summary, the next action I will perform is ```click [416]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [416] where [416] is [416] link 'Dashboard'</pre></div></div>
+
+[1938] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[2231] link 'Skip to content'
+
+[2353] link 'Dashboard'
+
+[2435] button '' hasPopup: menu expanded: False
+
+[1950] textbox 'Search GitLab' required: False
+
+[3830] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2441] link 'Create new...'
+
+[2443] link 'Issues'
+
+[3349] generic '13 assigned issues'
+
+[2444] link 'Merge requests'
+
+[3351] generic '8 merge requests'
+
+[2446] link 'To-Do List'
+
+[3367] generic 'Todos count'
+
+[2447] link 'Help'
+
+[2449] link 'Byte Blazea11yproject.contributor.me'
+
+[3401] img 'Byte Blazea11yproject.contributor.me'
+
+[1954] main ''
+
+[2332] heading 'Projects'
+
+[2335] link 'New project'
+
+[2451] link 'Yours 23'
+
+[2452] link 'Starred 3'
+
+[2453] link 'Explore'
+
+[2454] link 'Topics'
+
+[1958] searchbox 'Filter by name'
+
+[2405] button 'Name'
+
+[2498] link 'All'
+
+[2499] link 'Personal'
+
+[2500] link 'A'
+
+[2503] heading 'Byte Blazea11yproject.contributor.me / a11y-syntax-highlighting'
+
+[2506] link 'Byte Blazea11yproject.contributor.me / a11y-syntax-highlighting'
+
+[2504] generic 'Public - The project can be accessed without any authentication.'
+
+[2512] StaticText 'Owner'
+
+[3463] generic 'lipstick'
+
+[3861] StaticText '💄'
+
+[3464] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[2524] link '1'
+
+[2525] link '0'
+
+[2526] link '0'
+
+[2527] link '1'
+
+[2536] StaticText 'Updated '
+
+[1972] time 'Mar 27, 2023 7:22pm EDT'
+
+[2537] StaticText '5 months ago'
+
+[2538] link 'A'
+
+[2541] heading 'Byte Blazea11yproject.contributor.me / a11y-webring.club'
+
+[2544] link 'Byte Blazea11yproject.contributor.me / a11y-webring.club'
+
+[2542] generic 'Public - The project can be accessed without any authentication.'
+
+[2550] StaticText 'Owner'
+
+[3482] generic 'globe with meridians'
+
+[3862] StaticText '🌐'
+
+[3483] StaticText ' A webring for digital accessibility practitioners.'
+
+[2562] link '2'
+
+[2563] link '0'
+
+[2564] link '1'
+
+[2565] link '4'
+
+[2574] StaticText 'Updated '
+
+[1984] time 'Mar 27, 2023 7:22pm EDT'
+
+[2575] StaticText '5 months ago'
+
+[2576] link 'A'
+
+[2579] heading 'The A11Y Project / a11yproject.com'
+
+[2582] link 'The A11Y Project / a11yproject.com'
+
+[2580] generic 'Public - The project can be accessed without any authentication.'
+
+[2588] StaticText 'Maintainer'
+
+[3501] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[2600] link '21'
+
+[2601] link '0'
+
+[2602] link '10'
+
+[2603] link '40'
+
+[2612] StaticText 'Updated '
+
+[1996] time 'Mar 27, 2023 4:15pm EDT'
+
+[2613] StaticText '5 months ago'
+
+[2614] link 'A'
+
+[2617] heading 'Byte Blazea11yproject.contributor.me / accessible-html-content-patterns'
+
+[2620] link 'Byte Blazea11yproject.contributor.me / accessible-html-content-patterns'
+
+[2618] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[2626] StaticText 'Owner'
+
+[3519] generic 'wheelchair symbol'
+
+[3863] StaticText '♿'
+
+[3520] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[2638] link '1'
+
+[2639] link '0'
+
+[2640] link '0'
+
+[2641] link '0'
+
+[2650] StaticText 'Updated '
+
+[2008] time 'Mar 27, 2023 7:22pm EDT'
+
+[2651] StaticText '5 months ago'
+
+[2652] link 'A'
+
+[2654] heading 'crew / awesome_web_agents'
+
+[2657] link 'crew / awesome_web_agents'
+
+[2655] generic 'Public - The project can be accessed without any authentication.'
+
+[2663] StaticText 'Owner'
+
+[2674] link '0'
+
+[2675] link '0'
+
+[2676] link '0'
+
+[2677] link '0'
+
+[2686] StaticText 'Updated '
+
+[2020] time 'Sep 12, 2023 2:11am EDT'
+
+[2687] StaticText '1 hour ago'
+
+[2688] link ''
+
+[2691] heading 'Byte Blazea11yproject.contributor.me / cloud-to-butt'
+
+[2694] link 'Byte Blazea11yproject.contributor.me / cloud-to-butt'
+
+[2692] generic 'Public - The project can be accessed without any authentication.'
+
+[2700] StaticText 'Owner'
+
+[2712] link '0'
+
+[2713] link '0'
+
+[2714] link '0'
+
+[2715] link '0'
+
+[2724] StaticText 'Updated '
+
+[2032] time 'Mar 27, 2023 7:22pm EDT'
+
+[2725] StaticText '5 months ago'
+
+[2726] link 'D'
+
+[2729] heading 'Primer / design'
+
+[2732] link 'Primer / design'
+
+[2730] generic 'Public - The project can be accessed without any authentication.'
+
+[2738] StaticText 'Developer'
+
+[3572] StaticText 'Primer Design Guidelines'
+
+[2750] link '21'
+
+[2751] link '0'
+
+[2752] link '16'
+
+[2753] link '21'
+
+[2762] StaticText 'Updated '
+
+[2044] time 'Mar 27, 2023 5:04pm EDT'
+
+[2763] StaticText '5 months ago'</pre><div>
+
+[416] where [416] is link 'Dashboard'</div>
+
+[2449]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. On the GitLab dashboard page, we need to find a way to access the profile settings. I see a link called 'Byte Blazea11yproject.contributor.me' which could be the profile we're looking for. I will click on this link. In summary, the next action I will perform is `click [2449]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1938] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[2231] link 'Skip to content'
+
+[2353] link 'Dashboard'
+
+[2435] button '' hasPopup: menu expanded: False
+
+[1950] textbox 'Search GitLab' required: False
+
+[3830] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2441] link 'Create new...'
+
+[2443] link 'Issues'
+
+[3349] generic '13 assigned issues'
+
+[2444] link 'Merge requests'
+
+[3351] generic '8 merge requests'
+
+[2446] link 'To-Do List'
+
+[3367] generic 'Todos count'
+
+[2447] link 'Help'
+
+[2449] link 'Byte Blazea11yproject.contributor.me'
+
+[3401] img 'Byte Blazea11yproject.contributor.me'
+
+[1954] main ''
+
+[2332] heading 'Projects'
+
+[2335] link 'New project'
+
+[2451] link 'Yours 23'
+
+[2452] link 'Starred 3'
+
+[2453] link 'Explore'
+
+[2454] link 'Topics'
+
+[1958] searchbox 'Filter by name'
+
+[2405] button 'Name'
+
+[2498] link 'All'
+
+[2499] link 'Personal'
+
+[2500] link 'A'
+
+[2503] heading 'Byte Blazea11yproject.contributor.me / a11y-syntax-highlighting'
+
+[2506] link 'Byte Blazea11yproject.contributor.me / a11y-syntax-highlighting'
+
+[2504] generic 'Public - The project can be accessed without any authentication.'
+
+[2512] StaticText 'Owner'
+
+[3463] generic 'lipstick'
+
+[3861] StaticText '💄'
+
+[3464] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[2524] link '1'
+
+[2525] link '0'
+
+[2526] link '0'
+
+[2527] link '1'
+
+[2536] StaticText 'Updated '
+
+[1972] time 'Mar 27, 2023 7:22pm EDT'
+
+[2537] StaticText '5 months ago'
+
+[2538] link 'A'
+
+[2541] heading 'Byte Blazea11yproject.contributor.me / a11y-webring.club'
+
+[2544] link 'Byte Blazea11yproject.contributor.me / a11y-webring.club'
+
+[2542] generic 'Public - The project can be accessed without any authentication.'
+
+[2550] StaticText 'Owner'
+
+[3482] generic 'globe with meridians'
+
+[3862] StaticText '🌐'
+
+[3483] StaticText ' A webring for digital accessibility practitioners.'
+
+[2562] link '2'
+
+[2563] link '0'
+
+[2564] link '1'
+
+[2565] link '4'
+
+[2574] StaticText 'Updated '
+
+[1984] time 'Mar 27, 2023 7:22pm EDT'
+
+[2575] StaticText '5 months ago'
+
+[2576] link 'A'
+
+[2579] heading 'The A11Y Project / a11yproject.com'
+
+[2582] link 'The A11Y Project / a11yproject.com'
+
+[2580] generic 'Public - The project can be accessed without any authentication.'
+
+[2588] StaticText 'Maintainer'
+
+[3501] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[2600] link '21'
+
+[2601] link '0'
+
+[2602] link '10'
+
+[2603] link '40'
+
+[2612] StaticText 'Updated '
+
+[1996] time 'Mar 27, 2023 4:15pm EDT'
+
+[2613] StaticText '5 months ago'
+
+[2614] link 'A'
+
+[2617] heading 'Byte Blazea11yproject.contributor.me / accessible-html-content-patterns'
+
+[2620] link 'Byte Blazea11yproject.contributor.me / accessible-html-content-patterns'
+
+[2618] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[2626] StaticText 'Owner'
+
+[3519] generic 'wheelchair symbol'
+
+[3863] StaticText '♿'
+
+[3520] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[2638] link '1'
+
+[2639] link '0'
+
+[2640] link '0'
+
+[2641] link '0'
+
+[2650] StaticText 'Updated '
+
+[2008] time 'Mar 27, 2023 7:22pm EDT'
+
+[2651] StaticText '5 months ago'
+
+[2652] link 'A'
+
+[2654] heading 'crew / awesome_web_agents'
+
+[2657] link 'crew / awesome_web_agents'
+
+[2655] generic 'Public - The project can be accessed without any authentication.'
+
+[2663] StaticText 'Owner'
+
+[2674] link '0'
+
+[2675] link '0'
+
+[2676] link '0'
+
+[2677] link '0'
+
+[2686] StaticText 'Updated '
+
+[2020] time 'Sep 12, 2023 2:11am EDT'
+
+[2687] StaticText '1 hour ago'
+
+[2688] link ''
+
+[2691] heading 'Byte Blazea11yproject.contributor.me / cloud-to-butt'
+
+[2694] link 'Byte Blazea11yproject.contributor.me / cloud-to-butt'
+
+[2692] generic 'Public - The project can be accessed without any authentication.'
+
+[2700] StaticText 'Owner'
+
+[2712] link '0'
+
+[2713] link '0'
+
+[2714] link '0'
+
+[2715] link '0'
+
+[2724] StaticText 'Updated '
+
+[2032] time 'Mar 27, 2023 7:22pm EDT'
+
+[2725] StaticText '5 months ago'
+
+[2726] link 'D'
+
+[2729] heading 'Primer / design'
+
+[2732] link 'Primer / design'
+
+[2730] generic 'Public - The project can be accessed without any authentication.'
+
+[2738] StaticText 'Developer'
+
+[3572] StaticText 'Primer Design Guidelines'
+
+[2750] link '21'
+
+[2751] link '0'
+
+[2752] link '16'
+
+[2753] link '21'
+
+[2762] StaticText 'Updated '
+
+[2044] time 'Mar 27, 2023 5:04pm EDT'
+
+[2763] StaticText '5 months ago'</pre><div>
+
+[2449]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[2449]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2449', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. On the GitLab dashboard page, we need to find a way to access the profile settings. I see a link called 'Byte Blazea11yproject.contributor.me' which could be the profile we're looking for. I will click on this link. In summary, the next action I will perform is ```click [2449]```."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2449] where [2449] is [2449] link 'Byte Blazea11yproject.contributor.me'</pre></div></div>
+
+[1938] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[2231] link 'Skip to content'
+
+[2353] link 'Dashboard'
+
+[2435] button '' hasPopup: menu expanded: False
+
+[1950] textbox 'Search GitLab' required: False
+
+[3830] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2441] link 'Create new...'
+
+[2443] link 'Issues'
+
+[3349] generic '13 assigned issues'
+
+[2444] link 'Merge requests'
+
+[3351] generic '8 merge requests'
+
+[2446] link 'To-Do List'
+
+[3367] generic 'Todos count'
+
+[2447] link 'Help'
+
+[2449] link 'Byte Blazea11yproject.contributor.me' focused: True expanded: True
+
+[3401] img 'Byte Blazea11yproject.contributor.me'
+
+[3896] link 'Byte Blazea11yproject.contributor.me @byteblaze 💬 https://egg.tart.com/https://egg.tart.com/https://egg.tart.com/'
+
+[3877] generic 'https://egg.tart.com/https://egg.tart.com/https://egg.tart.com/'
+
+[3879] generic 'speech balloon'
+
+[3888] button 'Edit status'
+
+[3886] link 'Edit profile'
+
+[3882] link 'Preferences'
+
+[3887] link 'Sign out'
+
+[1954] main ''
+
+[2332] heading 'Projects'
+
+[2335] link 'New project'
+
+[2451] link 'Yours 23'
+
+[2452] link 'Starred 3'
+
+[2453] link 'Explore'
+
+[2454] link 'Topics'
+
+[1958] searchbox 'Filter by name'
+
+[2405] button 'Name'
+
+[2498] link 'All'
+
+[2499] link 'Personal'
+
+[2500] link 'A'
+
+[2503] heading 'Byte Blazea11yproject.contributor.me / a11y-syntax-highlighting'
+
+[2506] link 'Byte Blazea11yproject.contributor.me / a11y-syntax-highlighting'
+
+[2504] generic 'Public - The project can be accessed without any authentication.'
+
+[2512] StaticText 'Owner'
+
+[3463] generic 'lipstick'
+
+[3861] StaticText '💄'
+
+[3464] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[2524] link '1'
+
+[2525] link '0'
+
+[2526] link '0'
+
+[2527] link '1'
+
+[2536] StaticText 'Updated '
+
+[1972] time 'Mar 27, 2023 7:22pm EDT'
+
+[2537] StaticText '5 months ago'
+
+[2538] link 'A'
+
+[2541] heading 'Byte Blazea11yproject.contributor.me / a11y-webring.club'
+
+[2544] link 'Byte Blazea11yproject.contributor.me / a11y-webring.club'
+
+[2542] generic 'Public - The project can be accessed without any authentication.'
+
+[2550] StaticText 'Owner'
+
+[3482] generic 'globe with meridians'
+
+[3862] StaticText '🌐'
+
+[3483] StaticText ' A webring for digital accessibility practitioners.'
+
+[2562] link '2'
+
+[2563] link '0'
+
+[2564] link '1'
+
+[2565] link '4'
+
+[2574] StaticText 'Updated '
+
+[1984] time 'Mar 27, 2023 7:22pm EDT'
+
+[2575] StaticText '5 months ago'
+
+[2576] link 'A'
+
+[2579] heading 'The A11Y Project / a11yproject.com'
+
+[2582] link 'The A11Y Project / a11yproject.com'
+
+[2580] generic 'Public - The project can be accessed without any authentication.'
+
+[2588] StaticText 'Maintainer'
+
+[3501] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[2600] link '21'
+
+[2601] link '0'
+
+[2602] link '10'
+
+[2603] link '40'
+
+[2612] StaticText 'Updated '
+
+[1996] time 'Mar 27, 2023 4:15pm EDT'
+
+[2613] StaticText '5 months ago'
+
+[2614] link 'A'
+
+[2617] heading 'Byte Blazea11yproject.contributor.me / accessible-html-content-patterns'
+
+[2620] link 'Byte Blazea11yproject.contributor.me / accessible-html-content-patterns'
+
+[2618] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[2626] StaticText 'Owner'
+
+[3519] generic 'wheelchair symbol'
+
+[3863] StaticText '♿'
+
+[3520] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[2638] link '1'
+
+[2639] link '0'
+
+[2640] link '0'
+
+[2641] link '0'
+
+[2650] StaticText 'Updated '
+
+[2008] time 'Mar 27, 2023 7:22pm EDT'
+
+[2651] StaticText '5 months ago'
+
+[2652] link 'A'
+
+[2654] heading 'crew / awesome_web_agents'
+
+[2657] link 'crew / awesome_web_agents'
+
+[2655] generic 'Public - The project can be accessed without any authentication.'
+
+[2663] StaticText 'Owner'
+
+[2674] link '0'
+
+[2675] link '0'
+
+[2676] link '0'
+
+[2677] link '0'
+
+[2686] StaticText 'Updated '
+
+[2020] time 'Sep 12, 2023 2:11am EDT'
+
+[2687] StaticText '1 hour ago'
+
+[2688] link ''
+
+[2691] heading 'Byte Blazea11yproject.contributor.me / cloud-to-butt'
+
+[2694] link 'Byte Blazea11yproject.contributor.me / cloud-to-butt'
+
+[2692] generic 'Public - The project can be accessed without any authentication.'
+
+[2700] StaticText 'Owner'
+
+[2712] link '0'
+
+[2713] link '0'
+
+[2714] link '0'
+
+[2715] link '0'
+
+[2724] StaticText 'Updated '
+
+[2032] time 'Mar 27, 2023 7:22pm EDT'
+
+[2725] StaticText '5 months ago'
+
+[2726] link 'D'
+
+[2729] heading 'Primer / design'
+
+[2732] link 'Primer / design'
+
+[2730] generic 'Public - The project can be accessed without any authentication.'
+
+[2738] StaticText 'Developer'
+
+[3572] StaticText 'Primer Design Guidelines'
+
+[2750] link '21'
+
+[2751] link '0'
+
+[2752] link '16'
+
+[2753] link '21'
+
+[2762] StaticText 'Updated '
+
+[2044] time 'Mar 27, 2023 5:04pm EDT'
+
+[2763] StaticText '5 months ago'</pre><div>
+
+[2449] where [2449] is link 'Byte Blazea11yproject.contributor.me'</div>
+
+[3886]``` to click on the "Edit profile" link.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3886', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to set the homepage URL on the GitLab profile to "byteblaze.github.io". \n\nOn the GitLab page, we need to click on the "Edit profile" link to access the profile settings. Then we can update the homepage URL. \n\nIn summary, the next action I will perform is ```click [3886]``` to click on the "Edit profile" link.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3886] where [3886] is [3886] link 'Edit profile'</pre></div></div>
+
+[3906] RootWebArea 'Edit Profile · User Settings · GitLab' focused: True
+
+[4014] link 'Skip to content'
+
+[4162] link 'Dashboard'
+
+[4266] button '' hasPopup: menu expanded: False
+
+[3918] textbox 'Search GitLab' required: False
+
+[4768] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4272] link 'Create new...'
+
+[4274] link 'Issues'
+
+[4520] generic '13 assigned issues'
+
+[4275] link 'Merge requests'
+
+[4522] generic '8 merge requests'
+
+[4277] link 'To-Do List'
+
+[4538] generic 'Todos count'
+
+[4278] link 'Help'
+
+[4280] link 'Byte Blazea11yproject.contributor.me'
+
+[4572] img 'Byte Blazea11yproject.contributor.me'
+
+[4015] complementary 'User settings'
+
+[4195] link 'Byte Blazea11yproject.contributor.me User Settings'
+
+[4282] img 'Byte Blazea11yproject.contributor.me'
+
+[4285] link 'Profile'
+
+[4287] link 'Account'
+
+[4289] link 'Applications'
+
+[4291] link 'Chat'
+
+[4293] link 'Access Tokens'
+
+[4295] link 'Emails'
+
+[4297] link 'Password'
+
+[4299] link 'Notifications'
+
+[4301] link 'SSH Keys'
+
+[4303] link 'GPG Keys'
+
+[4305] link 'Preferences'
+
+[4307] link 'Active Sessions'
+
+[4309] link 'Authentication log'
+
+[4120] button 'Collapse sidebar'
+
+[4019] navigation 'Breadcrumbs'
+
+[4314] link 'User Settings'
+
+[4316] link 'Edit Profile'
+
+[3922] main ''
+
+[4001] searchbox 'Search page'
+
+[4238] heading 'Public avatar'
+
+[4318] StaticText 'You can upload your avatar here or change it at '
+
+[4319] link 'gravatar.com'
+
+[4320] link ''
+
+[4241] heading 'Upload new avatar'
+
+[4322] button 'Choose file...'
+
+[4327] StaticText 'No file chosen.'
+
+[4331] StaticText 'The maximum file size allowed is 200KB.'
+
+[4244] separator '' orientation: horizontal
+
+[4247] heading 'Current status'
+
+[4333] StaticText 'This emoji and message will appear on your profile and throughout the interface.'
+
+[3928] group ''
+
+[4005] button '💬' hasPopup: menu expanded: False
+
+[4008] generic 'speech balloon'
+
+[3929] textbox "What's your status?" required: False
+
+[4838] StaticText 'https://egg.tart.com/https://egg.tart.com/https://egg.tart.com/'
+
+[4729] button 'Clear status'
+
+[3931] checkbox 'Set yourself as busy Displays that you are busy or not able to respond' checked: false
+
+[3981] group 'Clear status after'
+
+[3982] group 'Clear status after'
+
+[4842] button 'Never' hasPopup: menu expanded: False
+
+[4249] separator '' orientation: horizontal
+
+[4252] heading 'Time settings'
+
+[4343] StaticText 'Set your local time zone.'
+
+[4344] StaticText 'Time zone'
+
+[4346] button 'Select timezone' hasPopup: menu expanded: False
+
+[4255] separator '' orientation: horizontal
+
+[4257] heading 'Main settings'
+
+[4348] StaticText 'This information will appear on your profile.'
+
+[4739] StaticText 'Full name'
+
+[3936] textbox 'Full name' required: True
+
+[4846] StaticText 'Byte Blazea11yproject.contributor.me'
+
+[4742] StaticText 'Enter your name, so people you know can recognize you.'
+
+[4743] StaticText 'User ID'
+
+[3938] textbox 'User ID' required: False
+
+[4847] StaticText '2330'</pre><div>
+
+[3886] where [3886] is link 'Edit profile'</div>
+
+[3886]. We need to click on this link to proceed. In summary, the next action I will perform is `click [3886]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We need to set the homepage URL on the GitLab profile to byteblaze.github.io. From the current page, we can see a link to "Edit profile" with ID [3886]. We need to click on this link to proceed. In summary, the next action I will perform is `click [3886]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[3906] RootWebArea 'Edit Profile · User Settings · GitLab' focused: True
+
+[4014] link 'Skip to content'
+
+[4162] link 'Dashboard'
+
+[4266] button '' hasPopup: menu expanded: False
+
+[3918] textbox 'Search GitLab' required: False
+
+[4768] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4272] link 'Create new...'
+
+[4274] link 'Issues'
+
+[4520] generic '13 assigned issues'
+
+[4275] link 'Merge requests'
+
+[4522] generic '8 merge requests'
+
+[4277] link 'To-Do List'
+
+[4538] generic 'Todos count'
+
+[4278] link 'Help'
+
+[4280] link 'Byte Blazea11yproject.contributor.me'
+
+[4572] img 'Byte Blazea11yproject.contributor.me'
+
+[4015] complementary 'User settings'
+
+[4195] link 'Byte Blazea11yproject.contributor.me User Settings'
+
+[4282] img 'Byte Blazea11yproject.contributor.me'
+
+[4285] link 'Profile'
+
+[4287] link 'Account'
+
+[4289] link 'Applications'
+
+[4291] link 'Chat'
+
+[4293] link 'Access Tokens'
+
+[4295] link 'Emails'
+
+[4297] link 'Password'
+
+[4299] link 'Notifications'
+
+[4301] link 'SSH Keys'
+
+[4303] link 'GPG Keys'
+
+[4305] link 'Preferences'
+
+[4307] link 'Active Sessions'
+
+[4309] link 'Authentication log'
+
+[4120] button 'Collapse sidebar'
+
+[4019] navigation 'Breadcrumbs'
+
+[4314] link 'User Settings'
+
+[4316] link 'Edit Profile'
+
+[3922] main ''
+
+[4001] searchbox 'Search page'
+
+[4238] heading 'Public avatar'
+
+[4318] StaticText 'You can upload your avatar here or change it at '
+
+[4319] link 'gravatar.com'
+
+[4320] link ''
+
+[4241] heading 'Upload new avatar'
+
+[4322] button 'Choose file...'
+
+[4327] StaticText 'No file chosen.'
+
+[4331] StaticText 'The maximum file size allowed is 200KB.'
+
+[4244] separator '' orientation: horizontal
+
+[4247] heading 'Current status'
+
+[4333] StaticText 'This emoji and message will appear on your profile and throughout the interface.'
+
+[3928] group ''
+
+[4005] button '💬' hasPopup: menu expanded: False
+
+[4008] generic 'speech balloon'
+
+[3929] textbox "What's your status?" required: False
+
+[4838] StaticText 'https://egg.tart.com/https://egg.tart.com/https://egg.tart.com/'
+
+[4729] button 'Clear status'
+
+[3931] checkbox 'Set yourself as busy Displays that you are busy or not able to respond' checked: false
+
+[3981] group 'Clear status after'
+
+[3982] group 'Clear status after'
+
+[4842] button 'Never' hasPopup: menu expanded: False
+
+[4249] separator '' orientation: horizontal
+
+[4252] heading 'Time settings'
+
+[4343] StaticText 'Set your local time zone.'
+
+[4344] StaticText 'Time zone'
+
+[4346] button 'Select timezone' hasPopup: menu expanded: False
+
+[4255] separator '' orientation: horizontal
+
+[4257] heading 'Main settings'
+
+[4348] StaticText 'This information will appear on your profile.'
+
+[4739] StaticText 'Full name'
+
+[3936] textbox 'Full name' required: True
+
+[4846] StaticText 'Byte Blazea11yproject.contributor.me'
+
+[4742] StaticText 'Enter your name, so people you know can recognize you.'
+
+[4743] StaticText 'User ID'
+
+[3938] textbox 'User ID' required: False
+
+[4847] StaticText '2330'</pre><div>
+
+[3886]. We need to click on this link to proceed. In summary, the next action I will perform is `click [3886]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[4285]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '4285', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [4285]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [4285] where [4285] is [4285] link 'Profile'</pre></div></div>
+
+[4919] RootWebArea 'Edit Profile · User Settings · GitLab' focused: True
+
+[5027] link 'Skip to content'
+
+[5175] link 'Dashboard'
+
+[5279] button '' hasPopup: menu expanded: False
+
+[4931] textbox 'Search GitLab' required: False
+
+[5781] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[5285] link 'Create new...'
+
+[5287] link 'Issues'
+
+[5533] generic '13 assigned issues'
+
+[5288] link 'Merge requests'
+
+[5535] generic '8 merge requests'
+
+[5290] link 'To-Do List'
+
+[5551] generic 'Todos count'
+
+[5291] link 'Help'
+
+[5293] link 'Byte Blazea11yproject.contributor.me'
+
+[5585] img 'Byte Blazea11yproject.contributor.me'
+
+[5028] complementary 'User settings'
+
+[5208] link 'Byte Blazea11yproject.contributor.me User Settings'
+
+[5295] img 'Byte Blazea11yproject.contributor.me'
+
+[5298] link 'Profile'
+
+[5300] link 'Account'
+
+[5302] link 'Applications'
+
+[5304] link 'Chat'
+
+[5306] link 'Access Tokens'
+
+[5308] link 'Emails'
+
+[5310] link 'Password'
+
+[5312] link 'Notifications'
+
+[5314] link 'SSH Keys'
+
+[5316] link 'GPG Keys'
+
+[5318] link 'Preferences'
+
+[5320] link 'Active Sessions'
+
+[5322] link 'Authentication log'
+
+[5133] button 'Collapse sidebar'
+
+[5032] navigation 'Breadcrumbs'
+
+[5327] link 'User Settings'
+
+[5329] link 'Edit Profile'
+
+[4935] main ''
+
+[5000] searchbox 'Search page'
+
+[5251] heading 'Public avatar'
+
+[5331] StaticText 'You can upload your avatar here or change it at '
+
+[5332] link 'gravatar.com'
+
+[5333] link ''
+
+[5254] heading 'Upload new avatar'
+
+[5335] button 'Choose file...'
+
+[5340] StaticText 'No file chosen.'
+
+[5344] StaticText 'The maximum file size allowed is 200KB.'
+
+[5257] separator '' orientation: horizontal
+
+[5260] heading 'Current status'
+
+[5346] StaticText 'This emoji and message will appear on your profile and throughout the interface.'
+
+[4941] group ''
+
+[5004] button '💬' hasPopup: menu expanded: False
+
+[5007] generic 'speech balloon'
+
+[4942] textbox "What's your status?" required: False
+
+[5851] StaticText 'https://egg.tart.com/https://egg.tart.com/https://egg.tart.com/'
+
+[5742] button 'Clear status'
+
+[4944] checkbox 'Set yourself as busy Displays that you are busy or not able to respond' checked: false
+
+[4994] group 'Clear status after'
+
+[4995] group 'Clear status after'
+
+[5855] button 'Never' hasPopup: menu expanded: False
+
+[5262] separator '' orientation: horizontal
+
+[5265] heading 'Time settings'
+
+[5356] StaticText 'Set your local time zone.'
+
+[5357] StaticText 'Time zone'
+
+[5359] button 'Select timezone' hasPopup: menu expanded: False
+
+[5268] separator '' orientation: horizontal
+
+[5270] heading 'Main settings'
+
+[5361] StaticText 'This information will appear on your profile.'
+
+[5752] StaticText 'Full name'
+
+[4949] textbox 'Full name' required: True
+
+[5859] StaticText 'Byte Blazea11yproject.contributor.me'
+
+[5755] StaticText 'Enter your name, so people you know can recognize you.'
+
+[5756] StaticText 'User ID'
+
+[4951] textbox 'User ID' required: False
+
+[5860] StaticText '2330'</pre><div>
+
+[4285] where [4285] is link 'Profile'</div>
+
+[5755]. I will fill in the homepage URL by typing it into this input field. In summary, the next action I will perform is `type [5755] [byteblaze.github.io]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page contains user settings for GitLab. To set the homepage URL on the GitLab profile, I need to find the input field for the homepage URL. Looking at the accessibility tree, I see that the input field has an ID of [5755]. I will fill in the homepage URL by typing it into this input field. In summary, the next action I will perform is `type [5755] [byteblaze.github.io]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[4919] RootWebArea 'Edit Profile · User Settings · GitLab' focused: True
+
+[5027] link 'Skip to content'
+
+[5175] link 'Dashboard'
+
+[5279] button '' hasPopup: menu expanded: False
+
+[4931] textbox 'Search GitLab' required: False
+
+[5781] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[5285] link 'Create new...'
+
+[5287] link 'Issues'
+
+[5533] generic '13 assigned issues'
+
+[5288] link 'Merge requests'
+
+[5535] generic '8 merge requests'
+
+[5290] link 'To-Do List'
+
+[5551] generic 'Todos count'
+
+[5291] link 'Help'
+
+[5293] link 'Byte Blazea11yproject.contributor.me'
+
+[5585] img 'Byte Blazea11yproject.contributor.me'
+
+[5028] complementary 'User settings'
+
+[5208] link 'Byte Blazea11yproject.contributor.me User Settings'
+
+[5295] img 'Byte Blazea11yproject.contributor.me'
+
+[5298] link 'Profile'
+
+[5300] link 'Account'
+
+[5302] link 'Applications'
+
+[5304] link 'Chat'
+
+[5306] link 'Access Tokens'
+
+[5308] link 'Emails'
+
+[5310] link 'Password'
+
+[5312] link 'Notifications'
+
+[5314] link 'SSH Keys'
+
+[5316] link 'GPG Keys'
+
+[5318] link 'Preferences'
+
+[5320] link 'Active Sessions'
+
+[5322] link 'Authentication log'
+
+[5133] button 'Collapse sidebar'
+
+[5032] navigation 'Breadcrumbs'
+
+[5327] link 'User Settings'
+
+[5329] link 'Edit Profile'
+
+[4935] main ''
+
+[5000] searchbox 'Search page'
+
+[5251] heading 'Public avatar'
+
+[5331] StaticText 'You can upload your avatar here or change it at '
+
+[5332] link 'gravatar.com'
+
+[5333] link ''
+
+[5254] heading 'Upload new avatar'
+
+[5335] button 'Choose file...'
+
+[5340] StaticText 'No file chosen.'
+
+[5344] StaticText 'The maximum file size allowed is 200KB.'
+
+[5257] separator '' orientation: horizontal
+
+[5260] heading 'Current status'
+
+[5346] StaticText 'This emoji and message will appear on your profile and throughout the interface.'
+
+[4941] group ''
+
+[5004] button '💬' hasPopup: menu expanded: False
+
+[5007] generic 'speech balloon'
+
+[4942] textbox "What's your status?" required: False
+
+[5851] StaticText 'https://egg.tart.com/https://egg.tart.com/https://egg.tart.com/'
+
+[5742] button 'Clear status'
+
+[4944] checkbox 'Set yourself as busy Displays that you are busy or not able to respond' checked: false
+
+[4994] group 'Clear status after'
+
+[4995] group 'Clear status after'
+
+[5855] button 'Never' hasPopup: menu expanded: False
+
+[5262] separator '' orientation: horizontal
+
+[5265] heading 'Time settings'
+
+[5356] StaticText 'Set your local time zone.'
+
+[5357] StaticText 'Time zone'
+
+[5359] button 'Select timezone' hasPopup: menu expanded: False
+
+[5268] separator '' orientation: horizontal
+
+[5270] heading 'Main settings'
+
+[5361] StaticText 'This information will appear on your profile.'
+
+[5752] StaticText 'Full name'
+
+[4949] textbox 'Full name' required: True
+
+[5859] StaticText 'Byte Blazea11yproject.contributor.me'
+
+[5755] StaticText 'Enter your name, so people you know can recognize you.'
+
+[5756] StaticText 'User ID'
+
+[4951] textbox 'User ID' required: False
+
+[5860] StaticText '2330'</pre><div>
+
+[5755]. I will fill in the homepage URL by typing it into this input field. In summary, the next action I will perform is `type [5755] [byteblaze.github.io]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[5755]. I will fill in the homepage URL by typing it into this input field. In summary, the next action I will perform is ```type [5755] [byteblaze.github.io]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [81, 104, 99, 84, 81, 91, 80, 105, 84, 29, 86, 88, 99, 87, 100, 81, 29, 88, 94, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '5755', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page contains user settings for GitLab. To set the homepage URL on the GitLab profile, I need to find the input field for the homepage URL. Looking at the accessibility tree, I see that the input field has an ID of [5755]. I will fill in the homepage URL by typing it into this input field. In summary, the next action I will perform is ```type [5755] [byteblaze.github.io]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [5755] [byteblaze.github.io
+
+[5755] is [5755] StaticText 'Enter your name, so people you know can recognize you.'</pre></div></div>
+
+[4919] RootWebArea 'Edit Profile · User Settings · GitLab' focused: True
+
+[5027] link 'Skip to content'
+
+[5175] link 'Dashboard'
+
+[5279] button '' hasPopup: menu expanded: False
+
+[4931] textbox 'Search GitLab' required: False
+
+[5781] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[5285] link 'Create new...'
+
+[5287] link 'Issues'
+
+[5533] generic '13 assigned issues'
+
+[5288] link 'Merge requests'
+
+[5535] generic '8 merge requests'
+
+[5290] link 'To-Do List'
+
+[5551] generic 'Todos count'
+
+[5291] link 'Help'
+
+[5293] link 'Byte Blazea11yproject.contributor.me'
+
+[5585] img 'Byte Blazea11yproject.contributor.me'
+
+[5028] complementary 'User settings'
+
+[5208] link 'Byte Blazea11yproject.contributor.me User Settings'
+
+[5295] img 'Byte Blazea11yproject.contributor.me'
+
+[5298] link 'Profile'
+
+[5300] link 'Account'
+
+[5302] link 'Applications'
+
+[5304] link 'Chat'
+
+[5306] link 'Access Tokens'
+
+[5308] link 'Emails'
+
+[5310] link 'Password'
+
+[5312] link 'Notifications'
+
+[5314] link 'SSH Keys'
+
+[5316] link 'GPG Keys'
+
+[5318] link 'Preferences'
+
+[5320] link 'Active Sessions'
+
+[5322] link 'Authentication log'
+
+[5133] button 'Collapse sidebar'
+
+[5032] navigation 'Breadcrumbs'
+
+[5327] link 'User Settings'
+
+[5329] link 'Edit Profile'
+
+[4935] main ''
+
+[5000] searchbox 'Search page'
+
+[5251] heading 'Public avatar'
+
+[5331] StaticText 'You can upload your avatar here or change it at '
+
+[5332] link 'gravatar.com'
+
+[5333] link ''
+
+[5254] heading 'Upload new avatar'
+
+[5335] button 'Choose file...'
+
+[5340] StaticText 'No file chosen.'
+
+[5344] StaticText 'The maximum file size allowed is 200KB.'
+
+[5257] separator '' orientation: horizontal
+
+[5260] heading 'Current status'
+
+[5346] StaticText 'This emoji and message will appear on your profile and throughout the interface.'
+
+[4941] group ''
+
+[5004] button '💬' hasPopup: menu expanded: False
+
+[5007] generic 'speech balloon'
+
+[4942] textbox "What's your status?" required: False
+
+[5851] StaticText 'https://egg.tart.com/https://egg.tart.com/https://egg.tart.com/'
+
+[5742] button 'Clear status'
+
+[4944] checkbox 'Set yourself as busy Displays that you are busy or not able to respond' checked: false
+
+[4994] group 'Clear status after'
+
+[4995] group 'Clear status after'
+
+[5855] button 'Never' hasPopup: menu expanded: False
+
+[5262] separator '' orientation: horizontal
+
+[5265] heading 'Time settings'
+
+[5356] StaticText 'Set your local time zone.'
+
+[5357] StaticText 'Time zone'
+
+[5359] button 'Select timezone' hasPopup: menu expanded: False
+
+[5268] separator '' orientation: horizontal
+
+[5270] heading 'Main settings'
+
+[5361] StaticText 'This information will appear on your profile.'
+
+[5752] StaticText 'Full name'
+
+[4949] textbox 'Full name' required: True
+
+[5859] StaticText 'Byte Blazea11yproject.contributor.me'
+
+[5755] StaticText 'Enter your name, so people you know can recognize you.'
+
+[5756] StaticText 'User ID'
+
+[4951] textbox 'User ID' required: False
+
+[5860] StaticText '2330'</pre><div>
+
+[5755] [byteblaze.github.io
+
+[5755] is StaticText 'Enter your name, so people you know can recognize you.'</div>
+

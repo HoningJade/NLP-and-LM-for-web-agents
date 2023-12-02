@@ -1,0 +1,54 @@
+Tab 0 (current): One Stop Market
+
+[1] RootWebArea 'One Stop Market' focused: True
+	[1265] link 'My Account'
+	[1263] link 'My Wish List'
+	[1267] link 'Sign Out'
+	[1270] StaticText 'Welcome to One Stop Market'
+	[1182] link 'Skip to Content'
+	[1191] link 'store logo'
+		[1273] img 'one_stop_market_logo'
+	[1274] link '\ue611 My Cart'
+	[2418] StaticText 'Search'
+	[12] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+	[2421] link 'Advanced Search'
+	[1589] button 'Search' disabled: True
+	[1083] tablist '' multiselectable: False orientation: horizontal
+		[1085] tabpanel ''
+			[27] menu '' orientation: vertical
+				[778] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+				[843] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+				[1105] menu '' orientation: vertical
+					[1744] menuitem '\ue608 Hunting & Fishing' hasPopup: menu
+					[1746] menuitem 'Exercise & Fitness'
+					[1748] menuitem '\ue608 Fan Shop' hasPopup: menu
+					[1750] menuitem '\ue608 Sports & Outdoor Recreation Accessories' hasPopup: menu
+					[1752] menuitem 'Sports'
+				[853] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+				[867] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+				[904] menuitem '\ue622 Office Products' hasPopup: menu
+				[912] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+				[917] menuitem '\ue622 Health & Household' hasPopup: menu
+				[923] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+				[928] menuitem '\ue622 Electronics' hasPopup: menu
+				[989] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+				[1004] menuitem '\ue622 Video Games' hasPopup: menu
+				[1017] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+	[1119] main ''
+		[1213] heading 'One Stop Market'
+		[1224] StaticText 'Product Showcases'
+		[1291] link 'Image'
+			[1486] img 'Image'
+		[1487] link 'Pre-baked Gingerbread House Kit Value Pack, 17 oz., Pack of 2, Total 34 oz.'
+		[1279] link 'Image'
+			[1283] img 'Image'
+		[1492] link 'V8 +Energy, Healthy Energy Drink, Steady Energy from Black and Green Tea, Pomegranate Blueberry, 8 Ounce Can ,Pack of 24'
+		[1286] link 'Image'
+			[1290] img 'Image'
+		[1497] link 'Elmwood Inn Fine Teas, Orange Vanilla Caffeine-free Fruit Infusion, 16-Ounce Pouch'
+		[1307] link 'Image'
+			[1311] img 'Image'
+		[1502] link 'Belle Of The Ball Princess Sprinkle Mix| Wedding Colorful Sprinkles| Cake Cupcake Cookie Sprinkles| Ice cream Candy Sprinkles| Yellow Gold Red Royal Red Rose Icing Flowers Decorating Sprinkles, 8OZ'
+		[1326] link 'Image'
+			[1330] img 'Image'
+		[1511] link 'So Delicious Dairy Free CocoWhip Light, Vegan, Non-GMO Project Verified, 9 oz. Tub'</pre><div>

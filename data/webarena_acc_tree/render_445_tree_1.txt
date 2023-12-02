@@ -1,0 +1,120 @@
+Tab 0 (current): Byte Blaze / gimmiethat.space · GitLab
+
+[1] RootWebArea 'Byte Blaze / gimmiethat.space · GitLab' focused: True
+	[114] link 'Skip to content'
+	[306] link 'Dashboard'
+	[471] button '' hasPopup: menu expanded: False
+	[13] textbox 'Search GitLab' required: False
+	[1350] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[477] link 'Create new...'
+	[479] link 'Issues'
+		[794] generic '13 assigned issues'
+	[480] link 'Merge requests'
+		[796] generic '8 merge requests'
+	[482] link 'To-Do List'
+		[812] generic 'Todos count'
+			[1371] StaticText '5'
+	[483] link 'Help'
+	[485] link 'Byte Blaze'
+		[846] img 'Byte Blaze'
+	[115] complementary 'Project navigation'
+		[339] listitem 'gimmiethat.space'
+			[487] link 'gimmiethat.space'
+				[887] StaticText 'G'
+		[488] link 'Project information'
+		[490] link 'Repository'
+		[492] link 'Issues'
+		[494] link 'Merge requests'
+		[496] link 'CI/CD'
+		[498] link 'Security & Compliance'
+		[500] link 'Deployments'
+		[502] link 'Packages and registries'
+		[504] link 'Infrastructure'
+		[506] link 'Monitor'
+		[508] link 'Analytics'
+		[510] link 'Wiki'
+		[512] link 'Snippets'
+		[514] link 'Settings'
+		[255] button 'Collapse sidebar'
+	[119] alert '' live: assertive atomic: True relevant: additions text
+		[123] button 'Dismiss'
+		[124] alert '' live: assertive atomic: True relevant: additions text
+			[373] link 'Add SSH key'
+			[374] button "Don't show again"
+	[120] alert '' live: assertive atomic: True relevant: additions text
+		[126] button 'Dismiss'
+		[127] alert '' live: assertive atomic: True relevant: additions text
+			[380] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+			[382] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+			[383] link 'Settings'
+			[384] link 'More information'
+	[121] navigation 'Breadcrumbs'
+		[531] link 'Byte Blaze'
+		[533] link 'gimmiethat.space'
+	[17] main ''
+		[419] img 'user avatar'
+		[423] link 'Add index.html'
+		[426] StaticText 'Eric Bailey authored '
+		[427] time 'Mar 28, 2021 5:59pm EDT'
+			[633] StaticText '2 years ago'
+		[428] group ''
+			[635] StaticText '67c3a0e8'
+			[430] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[1230] button 'main' hasPopup: menu expanded: False
+		[57] navigation 'Files breadcrumb'
+			[1474] link 'gimmiethat.space' focused: True
+			[1572] button 'Add to tree' hasPopup: menu expanded: False
+		[1826] link 'History'
+		[640] link 'Find file'
+		[645] link 'Web IDE'
+		[646] button 'Download'
+			[1237] StaticText 'Select Archive Format'
+		[648] link 'Clone'
+		[1662] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+			[1830] row ''
+				[1831] columnheader 'Name' required: False
+				[1832] columnheader 'Last commit' required: False
+				[1833] columnheader 'Last update' required: False
+			[1834] row ''
+				[1841] gridcell '.editorconfig' required: False
+					[1867] link '.editorconfig'
+				[1842] gridcell 'Add setup boilerplate' required: False
+					[1873] link 'Add setup boilerplate'
+				[1843] gridcell '2 years ago' required: False
+					[1876] time 'Mar 28, 2021 5:53pm EDT'
+			[1835] row ''
+				[1844] gridcell '.gitignore' required: False
+					[1878] link '.gitignore'
+				[1845] gridcell 'Add setup boilerplate' required: False
+					[1884] link 'Add setup boilerplate'
+				[1846] gridcell '2 years ago' required: False
+					[1887] time 'Mar 28, 2021 5:53pm EDT'
+			[1664] row ''
+				[1665] gridcell '.htmlhintrc' required: False
+					[1666] link '.htmlhintrc' describedby: __bv_tooltip_301__
+				[1847] gridcell 'Add setup boilerplate' required: False
+					[1894] link 'Add setup boilerplate'
+				[1848] gridcell '2 years ago' required: False
+					[1897] time 'Mar 28, 2021 5:53pm EDT'
+			[1836] row ''
+				[1849] gridcell '.stylelintrc' required: False
+					[1899] link '.stylelintrc'
+						[1902] SvgRoot ''
+							[1978] group 'stylelint-icon-white'
+				[1850] gridcell 'Add setup boilerplate' required: False
+					[1905] link 'Add setup boilerplate'
+				[1851] gridcell '2 years ago' required: False
+					[1908] time 'Mar 28, 2021 5:53pm EDT'
+			[1837] row ''
+				[1852] gridcell 'AUTHORS' required: False
+					[1910] link 'AUTHORS'
+				[1853] gridcell 'Add setup boilerplate' required: False
+					[1916] link 'Add setup boilerplate'
+				[1854] gridcell '2 years ago' required: False
+					[1919] time 'Mar 28, 2021 5:53pm EDT'
+			[1838] row ''
+				[1855] gridcell 'LICENSE' required: False
+					[1921] link 'LICENSE'
+				[1856] gridcell 'Initial commit' required: False
+				[1857] gridcell '2 years ago' required: False
+	[1667] tooltip '.htmlhintrc'</pre><div>

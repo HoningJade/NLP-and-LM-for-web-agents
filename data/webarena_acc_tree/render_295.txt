@@ -1,0 +1,7948 @@
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[270] link 'Skip to content'
+
+[386] link 'Dashboard'
+
+[462] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1733] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[468] link 'Create new...'
+
+[470] link 'Issues'
+
+[1298] generic '13 assigned issues'
+
+[471] link 'Merge requests'
+
+[1300] generic '8 merge requests'
+
+[473] link 'To-Do List'
+
+[1316] generic 'Todos count'
+
+[1754] StaticText '5'
+
+[474] link 'Help'
+
+[476] link 'Byte Blaze'
+
+[1350] img 'Byte Blaze'
+
+[17] main ''
+
+[829] link 'E'
+
+[832] heading 'Byte Blaze / empathy-prompts'
+
+[835] link 'Byte Blaze / empathy-prompts'
+
+[833] generic 'Public - The project can be accessed without any authentication.'
+
+[841] StaticText 'Owner'
+
+[1552] generic 'electric light bulb'
+
+[1768] StaticText '💡'
+
+[1553] StaticText ' Ideas to help consider Inclusive Design principles when making things for others to use.'
+
+[853] link '6'
+
+[854] link '1'
+
+[855] link '2'
+
+[856] link '6'
+
+[865] StaticText 'Updated '
+
+[131] time 'Mar 27, 2023 7:22pm EDT'
+
+[866] StaticText '5 months ago'
+
+[867] link 'E'
+
+[870] heading 'Byte Blaze / ericwbailey.website'
+
+[873] link 'Byte Blaze / ericwbailey.website'
+
+[871] generic 'Public - The project can be accessed without any authentication.'
+
+[879] StaticText 'Owner'
+
+[1571] generic 'triangular ruler'
+
+[1769] StaticText '📐'
+
+[1572] StaticText ' Repo for my personal website.'
+
+[891] link '2'
+
+[892] link '0'
+
+[893] link '0'
+
+[894] link '0'
+
+[903] StaticText 'Updated '
+
+[143] time 'Mar 27, 2023 7:22pm EDT'
+
+[904] StaticText '5 months ago'
+
+[905] link 'F'
+
+[907] heading 'Byte Blaze / fun_thing_to_do'
+
+[910] link 'Byte Blaze / fun_thing_to_do'
+
+[908] generic 'Public - The project can be accessed without any authentication.'
+
+[916] StaticText 'Owner'
+
+[927] link '0'
+
+[928] link '0'
+
+[929] link '0'
+
+[930] link '0'
+
+[939] StaticText 'Updated '
+
+[155] time 'Sep 7, 2023 12:53pm EDT'
+
+[940] StaticText '1 day ago'
+
+[941] link 'G'
+
+[944] heading 'Byte Blaze / gimmiethat.space'
+
+[947] link 'Byte Blaze / gimmiethat.space'
+
+[945] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[953] StaticText 'Owner'
+
+[1607] StaticText 'I need some space.'
+
+[965] link '0'
+
+[966] link '0'
+
+[967] link '0'
+
+[968] link '0'
+
+[977] StaticText 'Updated '
+
+[167] time 'Apr 24, 2023 5:22pm EDT'
+
+[978] StaticText '4 months ago'
+
+[979] link 'M'
+
+[982] heading 'Byte Blaze / millennials-to-snake-people'
+
+[985] link 'Byte Blaze / millennials-to-snake-people'
+
+[983] generic 'Public - The project can be accessed without any authentication.'
+
+[991] StaticText 'Owner'
+
+[1625] generic 'snake'
+
+[1770] StaticText '🐍'
+
+[1003] link '6'
+
+[1004] link '0'
+
+[1005] link '2'
+
+[1006] link '4'
+
+[1015] StaticText 'Updated '
+
+[179] time 'Mar 27, 2023 7:22pm EDT'
+
+[1016] StaticText '5 months ago'
+
+[1017] link 'R'
+
+[1020] heading 'Byte Blaze / remove-board-movement-events-from-the-github-issue-timeline'
+
+[1023] link 'Byte Blaze / remove-board-movement-events-from-the-github-issue-timeline'
+
+[1021] generic 'Public - The project can be accessed without any authentication.'
+
+[1029] StaticText 'Owner'
+
+[1041] link '0'
+
+[1042] link '1'
+
+[1043] link '0'
+
+[1044] link '0'
+
+[1053] StaticText 'Updated '
+
+[191] time 'Mar 27, 2023 7:22pm EDT'
+
+[1054] StaticText '5 months ago'
+
+[1055] link 'S'
+
+[1058] heading 'Byte Blaze / solarized-prism-theme'
+
+[1061] link 'Byte Blaze / solarized-prism-theme'
+
+[1059] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[1067] StaticText 'Owner'
+
+[1662] StaticText 'solarized theme for prism.js'
+
+[1079] link '0'
+
+[1080] link '0'
+
+[1081] link '0'
+
+[1082] link '0'
+
+[1091] StaticText 'Updated '
+
+[203] time 'Apr 24, 2023 5:23pm EDT'
+
+[1092] StaticText '4 months ago'
+
+[1093] link 'T'
+
+[1096] heading 'Byte Blaze / timeit'
+
+[1099] link 'Byte Blaze / timeit'
+
+[1097] generic 'Public - The project can be accessed without any authentication.'
+
+[1105] StaticText 'Owner'
+
+[1680] StaticText 'Rails implementation of time tracking tool timeit'
+
+[1117] link '0'
+
+[1118] link '0'
+
+[1119] link '0'
+
+[1120] link '0'
+
+[1129] StaticText 'Updated '
+
+[215] time 'Mar 27, 2023 7:22pm EDT'
+
+[1130] StaticText '5 months ago'
+
+[1131] link 'T'
+
+[1133] heading 'Byte Blaze / TODO'
+
+[1136] link 'Byte Blaze / TODO'
+
+[1134] generic 'Public - The project can be accessed without any authentication.'
+
+[1142] StaticText 'Owner'
+
+[1153] link '0'
+
+[1154] link '0'
+
+[1155] link '0'
+
+[1156] link '0'
+
+[1165] StaticText 'Updated '
+
+[227] time 'Sep 7, 2023 12:57pm EDT'
+
+[1166] StaticText '1 day ago'
+
+[1167] link 'T'</pre><div>
+
+[13]. I can use this search box to search for the repository "metaseq". After searching, I can navigate to the repository and find the command to clone it with SSH. In summary, the next action I will perform is ```type [13] [metaseq] [1]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [92, 84, 99, 80, 98, 84, 96, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '13', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page appears to be the GitLab homepage. There is a search box with an ID of [13]. I can use this search box to search for the repository "metaseq". After searching, I can navigate to the repository and find the command to clone it with SSH. In summary, the next action I will perform is ```type [13] [metaseq] [1]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [13] [metaseq
+
+[13] is [13] textbox 'Search GitLab' required: False</pre></div></div>
+
+[1787] RootWebArea 'metaseq · Search · GitLab' focused: True
+
+[1855] link 'Skip to content'
+
+[1964] link 'Dashboard'
+
+[2016] button '' hasPopup: menu expanded: False
+
+[2022] link 'Create new...'
+
+[2024] link 'Issues'
+
+[2177] generic '13 assigned issues'
+
+[2025] link 'Merge requests'
+
+[2179] generic '8 merge requests'
+
+[2027] link 'To-Do List'
+
+[2195] generic 'Todos count'
+
+[2028] link 'Help'
+
+[2030] link 'Byte Blaze'
+
+[2229] img 'Byte Blaze'
+
+[1793] main ''
+
+[1956] heading 'Search'
+
+[2001] StaticText 'What are you searching for?'
+
+[1798] group ''
+
+[1799] searchbox 'Search for projects, issues, etc.'
+
+[2267] StaticText 'metaseq'
+
+[2002] button 'Clear'
+
+[2038] button 'Search'
+
+[2005] StaticText 'Group'
+
+[2006] button 'Any' hasPopup: menu expanded: False
+
+[2008] StaticText 'Project'
+
+[2009] button 'Any' hasPopup: menu expanded: False
+
+[1958] separator '' orientation: horizontal
+
+[2280] link 'Projects 1'
+
+[2281] link 'Issues 99'
+
+[2282] link 'Merge requests 99 Result count is over limit.'
+
+[2366] img 'Result count is over limit.'
+
+[2283] link 'Milestones 0'
+
+[2284] link 'Users 0'
+
+[2285] link 'M'
+
+[2288] heading 'Administrator / metaseq'
+
+[2290] link 'Administrator / metaseq'
+
+[2289] generic 'Public - The project can be accessed without any authentication.'
+
+[2380] StaticText 'Repo for external large-scale work'
+
+[2307] link '0'
+
+[2308] link '0'
+
+[2309] link '41'
+
+[2310] link '95'
+
+[2319] StaticText 'Updated '
+
+[1833] time 'Feb 12, 2023 1:33am EST'
+
+[2320] StaticText '6 months ago'</pre><div>
+
+[13] [metaseq
+
+[13] is textbox 'Search GitLab' required: False</div>
+
+[2280]. In summary, the next action I will perform is ```click [2280]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2280', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. I have performed a search for "metaseq" on GitLab. Now I need to find the command to clone "metaseq" with SSH. To do this, I should click on the link that represents the "metaseq" repository, which is link [2280]. In summary, the next action I will perform is ```click [2280]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2280] where [2280] is [2280] link 'Projects 1'</pre></div></div>
+
+[2396] RootWebArea 'metaseq · Search · GitLab' focused: True
+
+[2464] link 'Skip to content'
+
+[2573] link 'Dashboard'
+
+[2625] button '' hasPopup: menu expanded: False
+
+[2631] link 'Create new...'
+
+[2633] link 'Issues'
+
+[2786] generic '13 assigned issues'
+
+[2634] link 'Merge requests'
+
+[2788] generic '8 merge requests'
+
+[2636] link 'To-Do List'
+
+[2804] generic 'Todos count'
+
+[2953] StaticText '5'
+
+[2637] link 'Help'
+
+[2639] link 'Byte Blaze'
+
+[2838] img 'Byte Blaze'
+
+[2402] main ''
+
+[2565] heading 'Search'
+
+[2610] StaticText 'What are you searching for?'
+
+[2407] group ''
+
+[2408] searchbox 'Search for projects, issues, etc.'
+
+[2876] StaticText 'metaseq'
+
+[2611] button 'Clear'
+
+[2647] button 'Search'
+
+[2614] StaticText 'Group'
+
+[2615] button 'Any' hasPopup: menu expanded: False
+
+[2617] StaticText 'Project'
+
+[2618] button 'Any' hasPopup: menu expanded: False
+
+[2567] separator '' orientation: horizontal
+
+[2889] link 'Projects 1'
+
+[2890] link 'Issues 99'
+
+[2891] link 'Merge requests 99 Result count is over limit.'
+
+[2975] img 'Result count is over limit.'
+
+[2892] link 'Milestones 0'
+
+[2893] link 'Users 0'
+
+[2894] link 'M'
+
+[2897] heading 'Administrator / metaseq'
+
+[2899] link 'Administrator / metaseq'
+
+[2898] generic 'Public - The project can be accessed without any authentication.'
+
+[2989] StaticText 'Repo for external large-scale work'
+
+[2916] link '0'
+
+[2917] link '0'
+
+[2918] link '41'
+
+[2919] link '95'
+
+[2928] StaticText 'Updated '
+
+[2442] time 'Feb 12, 2023 1:33am EST'
+
+[2929] StaticText '6 months ago'</pre><div>
+
+[2280] where [2280] is link 'Projects 1'</div>
+
+[2899] which is "Administrator / metaseq". In summary, the next action I will perform is ```click [2899]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2899', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the search result page of GitLab for the term "metaseq". The objective is to find the command to clone the "metaseq" project with SSH. The search results show a project called "metaseq" with the administrator as "Administrator / metaseq". I think I need to navigate to this project page to find the command. To do that, I will click on the link with the ID [2899] which is "Administrator / metaseq". In summary, the next action I will perform is ```click [2899]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2899] where [2899] is [2899] link 'Administrator / metaseq'</pre></div></div>
+
+[3005] RootWebArea 'Administrator / metaseq · GitLab' focused: True
+
+[3113] link 'Skip to content'
+
+[3285] link 'Dashboard'
+
+[3420] button '' hasPopup: menu expanded: False
+
+[3017] textbox 'Search GitLab' required: False
+
+[4400] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3426] link 'Create new...'
+
+[3428] link 'Issues'
+
+[3865] generic '13 assigned issues'
+
+[3429] link 'Merge requests'
+
+[3867] generic '8 merge requests'
+
+[3431] link 'To-Do List'
+
+[3883] generic 'Todos count'
+
+[4421] StaticText '5'
+
+[3432] link 'Help'
+
+[3434] link 'Byte Blaze'
+
+[3917] img 'Byte Blaze'
+
+[3114] complementary 'Project navigation'
+
+[3318] listitem 'metaseq'
+
+[3436] link 'metaseq'
+
+[3958] StaticText 'M'
+
+[3437] link 'Project information'
+
+[3439] link 'Repository'
+
+[3441] link 'Issues'
+
+[4023] StaticText '95'
+
+[3443] link 'Merge requests'
+
+[3445] link 'CI/CD'
+
+[3447] link 'Deployments'
+
+[3449] link 'Packages and registries'
+
+[3451] link 'Monitor'
+
+[3453] link 'Analytics'
+
+[3455] link 'Wiki'
+
+[3457] link 'Snippets'
+
+[3235] button 'Collapse sidebar'
+
+[3118] alert '' live: assertive atomic: True relevant: additions text
+
+[3121] button 'Dismiss'
+
+[3122] alert '' live: assertive atomic: True relevant: additions text
+
+[3349] link 'Add SSH key'
+
+[3350] button "Don't show again"
+
+[3119] navigation 'Breadcrumbs'
+
+[3474] link 'Administrator'
+
+[3476] link 'metaseq'
+
+[3021] main ''
+
+[3362] StaticText 'M'
+
+[3252] heading 'metaseq Public - The project can be accessed without any authentication.'
+
+[3255] generic 'Public - The project can be accessed without any authentication.'
+
+[3258] StaticText 'Project ID: 33 '
+
+[3259] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3261] link 'Request Access'
+
+[3368] button '' hasPopup: menu expanded: False
+
+[3264] button 'Star'
+
+[3265] link '0'
+
+[3373] link 'Fork'
+
+[3267] link '0'
+
+[3572] link '272 Commits'
+
+[3573] link '112 Branches'
+
+[3574] link '0 Tags'
+
+[4197] StaticText '32.4 MB'
+
+[4193] StaticText ' Project Storage'
+
+[3273] StaticText 'Repo for external large-scale work'
+
+[3275] generic '<span class="repository-language-bar-tooltip-language">Python</span>&nbsp;<span class="repository-language-bar-tooltip-share">98.0%</span>'
+
+[3276] generic '<span class="repository-language-bar-tooltip-language">Cython</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.0%</span>'
+
+[3277] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.7%</span>'
+
+[3278] generic '<span class="repository-language-bar-tooltip-language">Shell</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3279] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3386] img 'user avatar'
+
+[3390] link 'Simplify inheritance layers (#639)'
+
+[3391] button 'Toggle commit description'
+
+[3396] StaticText 'Nikolay Bashlykov authored '
+
+[3397] time 'Feb 9, 2023 3:32pm EST'
+
+[3579] StaticText '6 months ago'
+
+[3410] button 'Unverified'
+
+[3409] group ''
+
+[3582] StaticText '905f355e'
+
+[3412] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4201] button 'main' hasPopup: menu expanded: False
+
+[3081] navigation 'Files breadcrumb'
+
+[4757] link 'metaseq'
+
+[5030] button 'Add to tree' hasPopup: menu expanded: False
+
+[3585] link 'Find file'
+
+[3590] link 'Web IDE'
+
+[3591] button 'Download'
+
+[4208] StaticText 'Select Archive Format'
+
+[3593] link 'Clone'
+
+[3616] link 'README'
+
+[3617] link 'MIT License'
+
+[3618] link 'CHANGELOG'
+
+[3050] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[4268] row ''
+
+[4269] columnheader 'Name' required: False
+
+[4270] columnheader 'Last commit' required: False
+
+[4271] columnheader 'Last update' required: False
+
+[4272] row ''
+
+[4292] gridcell '.circleci' required: False
+
+[4780] link '.circleci'
+
+[4293] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[4786] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[4294] gridcell '7 months ago' required: False
+
+[4789] time 'Jan 14, 2023 11:19am EST'
+
+[4273] row ''
+
+[4295] gridcell '.github' required: False
+
+[4791] link '.github'
+
+[4296] gridcell 'Add flash attention (#387)' required: False
+
+[4797] link 'Add flash attention (#387)'
+
+[4297] gridcell '10 months ago' required: False
+
+[4800] time 'Nov 2, 2022 1:11pm EDT'
+
+[4274] row ''
+
+[4298] gridcell 'cpu_tests' required: False
+
+[4802] link 'cpu_tests'
+
+[4299] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[4808] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[4300] gridcell '9 months ago' required: False</pre><div>
+
+[2899] where [2899] is link 'Administrator / metaseq'</div>
+
+[2899]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2899', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. I will click on the link 'Administrator / metaseq' to access the project. After that, I will look for the command to clone metaseq with SSH. In summary, the next action I will perform is ```click [2899]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2899] where [2899] is No match found</pre></div></div>
+
+[3005] RootWebArea 'Administrator / metaseq · GitLab' focused: True
+
+[3113] link 'Skip to content'
+
+[3285] link 'Dashboard'
+
+[3420] button '' hasPopup: menu expanded: False
+
+[3017] textbox 'Search GitLab' required: False
+
+[4400] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3426] link 'Create new...'
+
+[3428] link 'Issues'
+
+[3865] generic '13 assigned issues'
+
+[3429] link 'Merge requests'
+
+[3867] generic '8 merge requests'
+
+[3431] link 'To-Do List'
+
+[3883] generic 'Todos count'
+
+[4421] StaticText '5'
+
+[3432] link 'Help'
+
+[3434] link 'Byte Blaze'
+
+[3917] img 'Byte Blaze'
+
+[3114] complementary 'Project navigation'
+
+[3318] listitem 'metaseq'
+
+[3436] link 'metaseq'
+
+[3958] StaticText 'M'
+
+[3437] link 'Project information'
+
+[3439] link 'Repository'
+
+[3441] link 'Issues'
+
+[4023] StaticText '95'
+
+[3443] link 'Merge requests'
+
+[3445] link 'CI/CD'
+
+[3447] link 'Deployments'
+
+[3449] link 'Packages and registries'
+
+[3451] link 'Monitor'
+
+[3453] link 'Analytics'
+
+[3455] link 'Wiki'
+
+[3457] link 'Snippets'
+
+[3235] button 'Collapse sidebar'
+
+[3118] alert '' live: assertive atomic: True relevant: additions text
+
+[3121] button 'Dismiss'
+
+[3122] alert '' live: assertive atomic: True relevant: additions text
+
+[3349] link 'Add SSH key'
+
+[3350] button "Don't show again"
+
+[3119] navigation 'Breadcrumbs'
+
+[3474] link 'Administrator'
+
+[3476] link 'metaseq'
+
+[3021] main ''
+
+[3362] StaticText 'M'
+
+[3252] heading 'metaseq Public - The project can be accessed without any authentication.'
+
+[3255] generic 'Public - The project can be accessed without any authentication.'
+
+[3258] StaticText 'Project ID: 33 '
+
+[3259] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3261] link 'Request Access'
+
+[3368] button '' hasPopup: menu expanded: False
+
+[3264] button 'Star'
+
+[3265] link '0'
+
+[3373] link 'Fork'
+
+[3267] link '0'
+
+[3572] link '272 Commits'
+
+[3573] link '112 Branches'
+
+[3574] link '0 Tags'
+
+[4197] StaticText '32.4 MB'
+
+[4193] StaticText ' Project Storage'
+
+[3273] StaticText 'Repo for external large-scale work'
+
+[3275] generic '<span class="repository-language-bar-tooltip-language">Python</span>&nbsp;<span class="repository-language-bar-tooltip-share">98.0%</span>'
+
+[3276] generic '<span class="repository-language-bar-tooltip-language">Cython</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.0%</span>'
+
+[3277] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.7%</span>'
+
+[3278] generic '<span class="repository-language-bar-tooltip-language">Shell</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3279] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3386] img 'user avatar'
+
+[3390] link 'Simplify inheritance layers (#639)'
+
+[3391] button 'Toggle commit description'
+
+[3396] StaticText 'Nikolay Bashlykov authored '
+
+[3397] time 'Feb 9, 2023 3:32pm EST'
+
+[3579] StaticText '6 months ago'
+
+[3410] button 'Unverified'
+
+[3409] group ''
+
+[3582] StaticText '905f355e'
+
+[3412] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4201] button 'main' hasPopup: menu expanded: False
+
+[3081] navigation 'Files breadcrumb'
+
+[4757] link 'metaseq'
+
+[5030] button 'Add to tree' hasPopup: menu expanded: False
+
+[3585] link 'Find file'
+
+[3590] link 'Web IDE'
+
+[3591] button 'Download'
+
+[4208] StaticText 'Select Archive Format'
+
+[3593] link 'Clone'
+
+[3616] link 'README'
+
+[3617] link 'MIT License'
+
+[3618] link 'CHANGELOG'
+
+[3050] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[4268] row ''
+
+[4269] columnheader 'Name' required: False
+
+[4270] columnheader 'Last commit' required: False
+
+[4271] columnheader 'Last update' required: False
+
+[4272] row ''
+
+[4292] gridcell '.circleci' required: False
+
+[4780] link '.circleci'
+
+[4293] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[4786] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[4294] gridcell '7 months ago' required: False
+
+[4789] time 'Jan 14, 2023 11:19am EST'
+
+[4273] row ''
+
+[4295] gridcell '.github' required: False
+
+[4791] link '.github'
+
+[4296] gridcell 'Add flash attention (#387)' required: False
+
+[4797] link 'Add flash attention (#387)'
+
+[4297] gridcell '10 months ago' required: False
+
+[4800] time 'Nov 2, 2022 1:11pm EDT'
+
+[4274] row ''
+
+[4298] gridcell 'cpu_tests' required: False
+
+[4802] link 'cpu_tests'
+
+[4299] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[4808] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[4300] gridcell '9 months ago' required: False</pre><div>
+
+[2899]" but no matching element found. Please check the observation more carefully.</div>
+
+[3593]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to find the command to clone the metaseq repository with SSH. This information is usually available in the repository\'s page. I will click on the "Clone" button to see the options for cloning. In summary, the next action I will perform is `click [3593]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[3005] RootWebArea 'Administrator / metaseq · GitLab' focused: True
+
+[3113] link 'Skip to content'
+
+[3285] link 'Dashboard'
+
+[3420] button '' hasPopup: menu expanded: False
+
+[3017] textbox 'Search GitLab' required: False
+
+[4400] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3426] link 'Create new...'
+
+[3428] link 'Issues'
+
+[3865] generic '13 assigned issues'
+
+[3429] link 'Merge requests'
+
+[3867] generic '8 merge requests'
+
+[3431] link 'To-Do List'
+
+[3883] generic 'Todos count'
+
+[4421] StaticText '5'
+
+[3432] link 'Help'
+
+[3434] link 'Byte Blaze'
+
+[3917] img 'Byte Blaze'
+
+[3114] complementary 'Project navigation'
+
+[3318] listitem 'metaseq'
+
+[3436] link 'metaseq'
+
+[3958] StaticText 'M'
+
+[3437] link 'Project information'
+
+[3439] link 'Repository'
+
+[3441] link 'Issues'
+
+[4023] StaticText '95'
+
+[3443] link 'Merge requests'
+
+[3445] link 'CI/CD'
+
+[3447] link 'Deployments'
+
+[3449] link 'Packages and registries'
+
+[3451] link 'Monitor'
+
+[3453] link 'Analytics'
+
+[3455] link 'Wiki'
+
+[3457] link 'Snippets'
+
+[3235] button 'Collapse sidebar'
+
+[3118] alert '' live: assertive atomic: True relevant: additions text
+
+[3121] button 'Dismiss'
+
+[3122] alert '' live: assertive atomic: True relevant: additions text
+
+[3349] link 'Add SSH key'
+
+[3350] button "Don't show again"
+
+[3119] navigation 'Breadcrumbs'
+
+[3474] link 'Administrator'
+
+[3476] link 'metaseq'
+
+[3021] main ''
+
+[3362] StaticText 'M'
+
+[3252] heading 'metaseq Public - The project can be accessed without any authentication.'
+
+[3255] generic 'Public - The project can be accessed without any authentication.'
+
+[3258] StaticText 'Project ID: 33 '
+
+[3259] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3261] link 'Request Access'
+
+[3368] button '' hasPopup: menu expanded: False
+
+[3264] button 'Star'
+
+[3265] link '0'
+
+[3373] link 'Fork'
+
+[3267] link '0'
+
+[3572] link '272 Commits'
+
+[3573] link '112 Branches'
+
+[3574] link '0 Tags'
+
+[4197] StaticText '32.4 MB'
+
+[4193] StaticText ' Project Storage'
+
+[3273] StaticText 'Repo for external large-scale work'
+
+[3275] generic '<span class="repository-language-bar-tooltip-language">Python</span>&nbsp;<span class="repository-language-bar-tooltip-share">98.0%</span>'
+
+[3276] generic '<span class="repository-language-bar-tooltip-language">Cython</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.0%</span>'
+
+[3277] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.7%</span>'
+
+[3278] generic '<span class="repository-language-bar-tooltip-language">Shell</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3279] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3386] img 'user avatar'
+
+[3390] link 'Simplify inheritance layers (#639)'
+
+[3391] button 'Toggle commit description'
+
+[3396] StaticText 'Nikolay Bashlykov authored '
+
+[3397] time 'Feb 9, 2023 3:32pm EST'
+
+[3579] StaticText '6 months ago'
+
+[3410] button 'Unverified'
+
+[3409] group ''
+
+[3582] StaticText '905f355e'
+
+[3412] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4201] button 'main' hasPopup: menu expanded: False
+
+[3081] navigation 'Files breadcrumb'
+
+[4757] link 'metaseq'
+
+[5030] button 'Add to tree' hasPopup: menu expanded: False
+
+[3585] link 'Find file'
+
+[3590] link 'Web IDE'
+
+[3591] button 'Download'
+
+[4208] StaticText 'Select Archive Format'
+
+[3593] link 'Clone'
+
+[3616] link 'README'
+
+[3617] link 'MIT License'
+
+[3618] link 'CHANGELOG'
+
+[3050] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[4268] row ''
+
+[4269] columnheader 'Name' required: False
+
+[4270] columnheader 'Last commit' required: False
+
+[4271] columnheader 'Last update' required: False
+
+[4272] row ''
+
+[4292] gridcell '.circleci' required: False
+
+[4780] link '.circleci'
+
+[4293] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[4786] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[4294] gridcell '7 months ago' required: False
+
+[4789] time 'Jan 14, 2023 11:19am EST'
+
+[4273] row ''
+
+[4295] gridcell '.github' required: False
+
+[4791] link '.github'
+
+[4296] gridcell 'Add flash attention (#387)' required: False
+
+[4797] link 'Add flash attention (#387)'
+
+[4297] gridcell '10 months ago' required: False
+
+[4800] time 'Nov 2, 2022 1:11pm EDT'
+
+[4274] row ''
+
+[4298] gridcell 'cpu_tests' required: False
+
+[4802] link 'cpu_tests'
+
+[4299] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[4808] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[4300] gridcell '9 months ago' required: False</pre><div>
+
+[3593]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[3593]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3593', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to find the command to clone the metaseq repository with SSH. This information is usually available in the repository\'s page. I will click on the "Clone" button to see the options for cloning. In summary, the next action I will perform is ```click [3593]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3593] where [3593] is [3593] link 'Clone'</pre></div></div>
+
+[3005] RootWebArea 'Administrator / metaseq · GitLab' focused: True
+
+[3113] link 'Skip to content'
+
+[3285] link 'Dashboard'
+
+[3420] button '' hasPopup: menu expanded: False
+
+[3017] textbox 'Search GitLab' required: False
+
+[4400] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3426] link 'Create new...'
+
+[3428] link 'Issues'
+
+[3865] generic '13 assigned issues'
+
+[3429] link 'Merge requests'
+
+[3867] generic '8 merge requests'
+
+[3431] link 'To-Do List'
+
+[3883] generic 'Todos count'
+
+[4421] StaticText '5'
+
+[3432] link 'Help'
+
+[3434] link 'Byte Blaze'
+
+[3917] img 'Byte Blaze'
+
+[3114] complementary 'Project navigation'
+
+[3318] listitem 'metaseq'
+
+[3436] link 'metaseq'
+
+[3958] StaticText 'M'
+
+[3437] link 'Project information'
+
+[3439] link 'Repository'
+
+[3441] link 'Issues'
+
+[4023] StaticText '95'
+
+[3443] link 'Merge requests'
+
+[3445] link 'CI/CD'
+
+[3447] link 'Deployments'
+
+[3449] link 'Packages and registries'
+
+[3451] link 'Monitor'
+
+[3453] link 'Analytics'
+
+[3455] link 'Wiki'
+
+[3457] link 'Snippets'
+
+[3235] button 'Collapse sidebar'
+
+[3118] alert '' live: assertive atomic: True relevant: additions text
+
+[3121] button 'Dismiss'
+
+[3122] alert '' live: assertive atomic: True relevant: additions text
+
+[3349] link 'Add SSH key'
+
+[3350] button "Don't show again"
+
+[3119] navigation 'Breadcrumbs'
+
+[3474] link 'Administrator'
+
+[3476] link 'metaseq'
+
+[3021] main ''
+
+[3362] StaticText 'M'
+
+[3252] heading 'metaseq Public - The project can be accessed without any authentication.'
+
+[3255] generic 'Public - The project can be accessed without any authentication.'
+
+[3258] StaticText 'Project ID: 33 '
+
+[3259] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3261] link 'Request Access'
+
+[3368] button '' hasPopup: menu expanded: False
+
+[3264] button 'Star'
+
+[3265] link '0'
+
+[3373] link 'Fork'
+
+[3267] link '0'
+
+[3572] link '272 Commits'
+
+[3573] link '112 Branches'
+
+[3574] link '0 Tags'
+
+[4197] StaticText '32.4 MB'
+
+[4193] StaticText ' Project Storage'
+
+[3273] StaticText 'Repo for external large-scale work'
+
+[3275] generic '<span class="repository-language-bar-tooltip-language">Python</span>&nbsp;<span class="repository-language-bar-tooltip-share">98.0%</span>'
+
+[3276] generic '<span class="repository-language-bar-tooltip-language">Cython</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.0%</span>'
+
+[3277] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.7%</span>'
+
+[3278] generic '<span class="repository-language-bar-tooltip-language">Shell</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3279] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3386] img 'user avatar'
+
+[3390] link 'Simplify inheritance layers (#639)'
+
+[3391] button 'Toggle commit description'
+
+[3396] StaticText 'Nikolay Bashlykov authored '
+
+[3397] time 'Feb 9, 2023 3:32pm EST'
+
+[3579] StaticText '6 months ago'
+
+[3410] button 'Unverified'
+
+[3409] group ''
+
+[3582] StaticText '905f355e'
+
+[3412] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4201] button 'main' hasPopup: menu expanded: False
+
+[3081] navigation 'Files breadcrumb'
+
+[4757] link 'metaseq'
+
+[5030] button 'Add to tree' hasPopup: menu expanded: False
+
+[3585] link 'Find file'
+
+[3590] link 'Web IDE'
+
+[3591] button 'Download'
+
+[4208] StaticText 'Select Archive Format'
+
+[3593] link 'Clone' focused: True expanded: True
+
+[5146] StaticText 'Clone with SSH'
+
+[5160] textbox 'Repository clone URL' required: False
+
+[5147] StaticText 'ssh://git@metis.lti.cs.cmu.edu:2222/root/metaseq.git'
+
+[5131] button 'Copy URL' live: polite atomic: False relevant: additions text
+
+[5163] StaticText 'Clone with HTTP'
+
+[5150] textbox 'Repository clone URL' required: False
+
+[5136] StaticText 'http://metis.lti.cs.cmu.edu:8023/root/metaseq.git'
+
+[5139] button 'Copy URL' live: polite atomic: False relevant: additions text
+
+[5140] StaticText 'Open in your IDE'
+
+[5138] link 'Visual Studio Code (SSH)'
+
+[5159] link 'Visual Studio Code (HTTPS)'
+
+[5128] link 'IntelliJ IDEA (SSH)'
+
+[5134] link 'IntelliJ IDEA (HTTPS)'
+
+[3616] link 'README'
+
+[3617] link 'MIT License'
+
+[3618] link 'CHANGELOG'
+
+[3050] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[4268] row ''
+
+[4269] columnheader 'Name' required: False
+
+[4270] columnheader 'Last commit' required: False
+
+[4271] columnheader 'Last update' required: False
+
+[4272] row ''
+
+[4292] gridcell '.circleci' required: False
+
+[4780] link '.circleci'
+
+[4293] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[4786] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[4294] gridcell '7 months ago' required: False
+
+[4789] time 'Jan 14, 2023 11:19am EST'
+
+[4273] row ''
+
+[4295] gridcell '.github' required: False
+
+[4791] link '.github'
+
+[4296] gridcell 'Add flash attention (#387)' required: False
+
+[4797] link 'Add flash attention (#387)'
+
+[4297] gridcell '10 months ago' required: False
+
+[4800] time 'Nov 2, 2022 1:11pm EDT'
+
+[4274] row ''
+
+[4298] gridcell 'cpu_tests' required: False
+
+[4802] link 'cpu_tests'
+
+[4299] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[4808] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[4300] gridcell '9 months ago' required: False</pre><div>
+
+[3593] where [3593] is link 'Clone'</div>
+
+[3593]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to find the command to clone metaseq with SSH. On the current page, I can see a link with the text "Clone". Clicking on this link will provide more options for cloning. I will issue the click action to click on the "Clone" link. In summary, the next action I will perform is `click [3593]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[3005] RootWebArea 'Administrator / metaseq · GitLab' focused: True
+
+[3113] link 'Skip to content'
+
+[3285] link 'Dashboard'
+
+[3420] button '' hasPopup: menu expanded: False
+
+[3017] textbox 'Search GitLab' required: False
+
+[4400] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3426] link 'Create new...'
+
+[3428] link 'Issues'
+
+[3865] generic '13 assigned issues'
+
+[3429] link 'Merge requests'
+
+[3867] generic '8 merge requests'
+
+[3431] link 'To-Do List'
+
+[3883] generic 'Todos count'
+
+[4421] StaticText '5'
+
+[3432] link 'Help'
+
+[3434] link 'Byte Blaze'
+
+[3917] img 'Byte Blaze'
+
+[3114] complementary 'Project navigation'
+
+[3318] listitem 'metaseq'
+
+[3436] link 'metaseq'
+
+[3958] StaticText 'M'
+
+[3437] link 'Project information'
+
+[3439] link 'Repository'
+
+[3441] link 'Issues'
+
+[4023] StaticText '95'
+
+[3443] link 'Merge requests'
+
+[3445] link 'CI/CD'
+
+[3447] link 'Deployments'
+
+[3449] link 'Packages and registries'
+
+[3451] link 'Monitor'
+
+[3453] link 'Analytics'
+
+[3455] link 'Wiki'
+
+[3457] link 'Snippets'
+
+[3235] button 'Collapse sidebar'
+
+[3118] alert '' live: assertive atomic: True relevant: additions text
+
+[3121] button 'Dismiss'
+
+[3122] alert '' live: assertive atomic: True relevant: additions text
+
+[3349] link 'Add SSH key'
+
+[3350] button "Don't show again"
+
+[3119] navigation 'Breadcrumbs'
+
+[3474] link 'Administrator'
+
+[3476] link 'metaseq'
+
+[3021] main ''
+
+[3362] StaticText 'M'
+
+[3252] heading 'metaseq Public - The project can be accessed without any authentication.'
+
+[3255] generic 'Public - The project can be accessed without any authentication.'
+
+[3258] StaticText 'Project ID: 33 '
+
+[3259] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3261] link 'Request Access'
+
+[3368] button '' hasPopup: menu expanded: False
+
+[3264] button 'Star'
+
+[3265] link '0'
+
+[3373] link 'Fork'
+
+[3267] link '0'
+
+[3572] link '272 Commits'
+
+[3573] link '112 Branches'
+
+[3574] link '0 Tags'
+
+[4197] StaticText '32.4 MB'
+
+[4193] StaticText ' Project Storage'
+
+[3273] StaticText 'Repo for external large-scale work'
+
+[3275] generic '<span class="repository-language-bar-tooltip-language">Python</span>&nbsp;<span class="repository-language-bar-tooltip-share">98.0%</span>'
+
+[3276] generic '<span class="repository-language-bar-tooltip-language">Cython</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.0%</span>'
+
+[3277] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.7%</span>'
+
+[3278] generic '<span class="repository-language-bar-tooltip-language">Shell</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3279] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3386] img 'user avatar'
+
+[3390] link 'Simplify inheritance layers (#639)'
+
+[3391] button 'Toggle commit description'
+
+[3396] StaticText 'Nikolay Bashlykov authored '
+
+[3397] time 'Feb 9, 2023 3:32pm EST'
+
+[3579] StaticText '6 months ago'
+
+[3410] button 'Unverified'
+
+[3409] group ''
+
+[3582] StaticText '905f355e'
+
+[3412] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4201] button 'main' hasPopup: menu expanded: False
+
+[3081] navigation 'Files breadcrumb'
+
+[4757] link 'metaseq'
+
+[5030] button 'Add to tree' hasPopup: menu expanded: False
+
+[3585] link 'Find file'
+
+[3590] link 'Web IDE'
+
+[3591] button 'Download'
+
+[4208] StaticText 'Select Archive Format'
+
+[3593] link 'Clone' focused: True expanded: True
+
+[5146] StaticText 'Clone with SSH'
+
+[5160] textbox 'Repository clone URL' required: False
+
+[5147] StaticText 'ssh://git@metis.lti.cs.cmu.edu:2222/root/metaseq.git'
+
+[5131] button 'Copy URL' live: polite atomic: False relevant: additions text
+
+[5163] StaticText 'Clone with HTTP'
+
+[5150] textbox 'Repository clone URL' required: False
+
+[5136] StaticText 'http://metis.lti.cs.cmu.edu:8023/root/metaseq.git'
+
+[5139] button 'Copy URL' live: polite atomic: False relevant: additions text
+
+[5140] StaticText 'Open in your IDE'
+
+[5138] link 'Visual Studio Code (SSH)'
+
+[5159] link 'Visual Studio Code (HTTPS)'
+
+[5128] link 'IntelliJ IDEA (SSH)'
+
+[5134] link 'IntelliJ IDEA (HTTPS)'
+
+[3616] link 'README'
+
+[3617] link 'MIT License'
+
+[3618] link 'CHANGELOG'
+
+[3050] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[4268] row ''
+
+[4269] columnheader 'Name' required: False
+
+[4270] columnheader 'Last commit' required: False
+
+[4271] columnheader 'Last update' required: False
+
+[4272] row ''
+
+[4292] gridcell '.circleci' required: False
+
+[4780] link '.circleci'
+
+[4293] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[4786] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[4294] gridcell '7 months ago' required: False
+
+[4789] time 'Jan 14, 2023 11:19am EST'
+
+[4273] row ''
+
+[4295] gridcell '.github' required: False
+
+[4791] link '.github'
+
+[4296] gridcell 'Add flash attention (#387)' required: False
+
+[4797] link 'Add flash attention (#387)'
+
+[4297] gridcell '10 months ago' required: False
+
+[4800] time 'Nov 2, 2022 1:11pm EDT'
+
+[4274] row ''
+
+[4298] gridcell 'cpu_tests' required: False
+
+[4802] link 'cpu_tests'
+
+[4299] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[4808] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[4300] gridcell '9 months ago' required: False</pre><div>
+
+[3593]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[3593]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3593', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to find the command to clone metaseq with SSH. On the current page, I can see a link with the text "Clone". Clicking on this link will provide more options for cloning. I will issue the click action to click on the "Clone" link. In summary, the next action I will perform is ```click [3593]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3593] where [3593] is [3593] link 'Clone' focused: True expanded: True</pre></div></div>
+
+[3005] RootWebArea 'Administrator / metaseq · GitLab' focused: True
+
+[3113] link 'Skip to content'
+
+[3285] link 'Dashboard'
+
+[3420] button '' hasPopup: menu expanded: False
+
+[3017] textbox 'Search GitLab' required: False
+
+[4400] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3426] link 'Create new...'
+
+[3428] link 'Issues'
+
+[3865] generic '13 assigned issues'
+
+[3429] link 'Merge requests'
+
+[3867] generic '8 merge requests'
+
+[3431] link 'To-Do List'
+
+[3883] generic 'Todos count'
+
+[4421] StaticText '5'
+
+[3432] link 'Help'
+
+[3434] link 'Byte Blaze'
+
+[3917] img 'Byte Blaze'
+
+[3114] complementary 'Project navigation'
+
+[3318] listitem 'metaseq'
+
+[3436] link 'metaseq'
+
+[3958] StaticText 'M'
+
+[3437] link 'Project information'
+
+[3439] link 'Repository'
+
+[3441] link 'Issues'
+
+[4023] StaticText '95'
+
+[3443] link 'Merge requests'
+
+[3445] link 'CI/CD'
+
+[3447] link 'Deployments'
+
+[3449] link 'Packages and registries'
+
+[3451] link 'Monitor'
+
+[3453] link 'Analytics'
+
+[3455] link 'Wiki'
+
+[3457] link 'Snippets'
+
+[3235] button 'Collapse sidebar'
+
+[3118] alert '' live: assertive atomic: True relevant: additions text
+
+[3121] button 'Dismiss'
+
+[3122] alert '' live: assertive atomic: True relevant: additions text
+
+[3349] link 'Add SSH key'
+
+[3350] button "Don't show again"
+
+[3119] navigation 'Breadcrumbs'
+
+[3474] link 'Administrator'
+
+[3476] link 'metaseq'
+
+[3021] main ''
+
+[3362] StaticText 'M'
+
+[3252] heading 'metaseq Public - The project can be accessed without any authentication.'
+
+[3255] generic 'Public - The project can be accessed without any authentication.'
+
+[3258] StaticText 'Project ID: 33 '
+
+[3259] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3261] link 'Request Access'
+
+[3368] button '' hasPopup: menu expanded: False
+
+[3264] button 'Star'
+
+[3265] link '0'
+
+[3373] link 'Fork'
+
+[3267] link '0'
+
+[3572] link '272 Commits'
+
+[3573] link '112 Branches'
+
+[3574] link '0 Tags'
+
+[4197] StaticText '32.4 MB'
+
+[4193] StaticText ' Project Storage'
+
+[3273] StaticText 'Repo for external large-scale work'
+
+[3275] generic '<span class="repository-language-bar-tooltip-language">Python</span>&nbsp;<span class="repository-language-bar-tooltip-share">98.0%</span>'
+
+[3276] generic '<span class="repository-language-bar-tooltip-language">Cython</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.0%</span>'
+
+[3277] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.7%</span>'
+
+[3278] generic '<span class="repository-language-bar-tooltip-language">Shell</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3279] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3386] img 'user avatar'
+
+[3390] link 'Simplify inheritance layers (#639)'
+
+[3391] button 'Toggle commit description'
+
+[3396] StaticText 'Nikolay Bashlykov authored '
+
+[3397] time 'Feb 9, 2023 3:32pm EST'
+
+[3579] StaticText '6 months ago'
+
+[3410] button 'Unverified'
+
+[3409] group ''
+
+[3582] StaticText '905f355e'
+
+[3412] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4201] button 'main' hasPopup: menu expanded: False
+
+[3081] navigation 'Files breadcrumb'
+
+[4757] link 'metaseq'
+
+[5030] button 'Add to tree' hasPopup: menu expanded: False
+
+[3585] link 'Find file'
+
+[3590] link 'Web IDE'
+
+[3591] button 'Download'
+
+[4208] StaticText 'Select Archive Format'
+
+[3593] link 'Clone' focused: True expanded: False
+
+[3616] link 'README'
+
+[3617] link 'MIT License'
+
+[3618] link 'CHANGELOG'
+
+[3050] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[4268] row ''
+
+[4269] columnheader 'Name' required: False
+
+[4270] columnheader 'Last commit' required: False
+
+[4271] columnheader 'Last update' required: False
+
+[4272] row ''
+
+[4292] gridcell '.circleci' required: False
+
+[4780] link '.circleci'
+
+[4293] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[4786] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[4294] gridcell '7 months ago' required: False
+
+[4789] time 'Jan 14, 2023 11:19am EST'
+
+[4273] row ''
+
+[4295] gridcell '.github' required: False
+
+[4791] link '.github'
+
+[4296] gridcell 'Add flash attention (#387)' required: False
+
+[4797] link 'Add flash attention (#387)'
+
+[4297] gridcell '10 months ago' required: False
+
+[4800] time 'Nov 2, 2022 1:11pm EDT'
+
+[4274] row ''
+
+[4298] gridcell 'cpu_tests' required: False
+
+[4802] link 'cpu_tests'
+
+[4299] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[4808] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[4300] gridcell '9 months ago' required: False</pre><div>
+
+[3593] where [3593] is link 'Clone' focused: True expanded: True</div>
+
+[3593]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page has a "Clone" link with an associated command to clone the metaseq repository with SSH. I will click on the "Clone" link to view the command. In summary, the next action I will perform is `click [3593]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[3005] RootWebArea 'Administrator / metaseq · GitLab' focused: True
+
+[3113] link 'Skip to content'
+
+[3285] link 'Dashboard'
+
+[3420] button '' hasPopup: menu expanded: False
+
+[3017] textbox 'Search GitLab' required: False
+
+[4400] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3426] link 'Create new...'
+
+[3428] link 'Issues'
+
+[3865] generic '13 assigned issues'
+
+[3429] link 'Merge requests'
+
+[3867] generic '8 merge requests'
+
+[3431] link 'To-Do List'
+
+[3883] generic 'Todos count'
+
+[4421] StaticText '5'
+
+[3432] link 'Help'
+
+[3434] link 'Byte Blaze'
+
+[3917] img 'Byte Blaze'
+
+[3114] complementary 'Project navigation'
+
+[3318] listitem 'metaseq'
+
+[3436] link 'metaseq'
+
+[3958] StaticText 'M'
+
+[3437] link 'Project information'
+
+[3439] link 'Repository'
+
+[3441] link 'Issues'
+
+[4023] StaticText '95'
+
+[3443] link 'Merge requests'
+
+[3445] link 'CI/CD'
+
+[3447] link 'Deployments'
+
+[3449] link 'Packages and registries'
+
+[3451] link 'Monitor'
+
+[3453] link 'Analytics'
+
+[3455] link 'Wiki'
+
+[3457] link 'Snippets'
+
+[3235] button 'Collapse sidebar'
+
+[3118] alert '' live: assertive atomic: True relevant: additions text
+
+[3121] button 'Dismiss'
+
+[3122] alert '' live: assertive atomic: True relevant: additions text
+
+[3349] link 'Add SSH key'
+
+[3350] button "Don't show again"
+
+[3119] navigation 'Breadcrumbs'
+
+[3474] link 'Administrator'
+
+[3476] link 'metaseq'
+
+[3021] main ''
+
+[3362] StaticText 'M'
+
+[3252] heading 'metaseq Public - The project can be accessed without any authentication.'
+
+[3255] generic 'Public - The project can be accessed without any authentication.'
+
+[3258] StaticText 'Project ID: 33 '
+
+[3259] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3261] link 'Request Access'
+
+[3368] button '' hasPopup: menu expanded: False
+
+[3264] button 'Star'
+
+[3265] link '0'
+
+[3373] link 'Fork'
+
+[3267] link '0'
+
+[3572] link '272 Commits'
+
+[3573] link '112 Branches'
+
+[3574] link '0 Tags'
+
+[4197] StaticText '32.4 MB'
+
+[4193] StaticText ' Project Storage'
+
+[3273] StaticText 'Repo for external large-scale work'
+
+[3275] generic '<span class="repository-language-bar-tooltip-language">Python</span>&nbsp;<span class="repository-language-bar-tooltip-share">98.0%</span>'
+
+[3276] generic '<span class="repository-language-bar-tooltip-language">Cython</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.0%</span>'
+
+[3277] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.7%</span>'
+
+[3278] generic '<span class="repository-language-bar-tooltip-language">Shell</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3279] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3386] img 'user avatar'
+
+[3390] link 'Simplify inheritance layers (#639)'
+
+[3391] button 'Toggle commit description'
+
+[3396] StaticText 'Nikolay Bashlykov authored '
+
+[3397] time 'Feb 9, 2023 3:32pm EST'
+
+[3579] StaticText '6 months ago'
+
+[3410] button 'Unverified'
+
+[3409] group ''
+
+[3582] StaticText '905f355e'
+
+[3412] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4201] button 'main' hasPopup: menu expanded: False
+
+[3081] navigation 'Files breadcrumb'
+
+[4757] link 'metaseq'
+
+[5030] button 'Add to tree' hasPopup: menu expanded: False
+
+[3585] link 'Find file'
+
+[3590] link 'Web IDE'
+
+[3591] button 'Download'
+
+[4208] StaticText 'Select Archive Format'
+
+[3593] link 'Clone' focused: True expanded: False
+
+[3616] link 'README'
+
+[3617] link 'MIT License'
+
+[3618] link 'CHANGELOG'
+
+[3050] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[4268] row ''
+
+[4269] columnheader 'Name' required: False
+
+[4270] columnheader 'Last commit' required: False
+
+[4271] columnheader 'Last update' required: False
+
+[4272] row ''
+
+[4292] gridcell '.circleci' required: False
+
+[4780] link '.circleci'
+
+[4293] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[4786] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[4294] gridcell '7 months ago' required: False
+
+[4789] time 'Jan 14, 2023 11:19am EST'
+
+[4273] row ''
+
+[4295] gridcell '.github' required: False
+
+[4791] link '.github'
+
+[4296] gridcell 'Add flash attention (#387)' required: False
+
+[4797] link 'Add flash attention (#387)'
+
+[4297] gridcell '10 months ago' required: False
+
+[4800] time 'Nov 2, 2022 1:11pm EDT'
+
+[4274] row ''
+
+[4298] gridcell 'cpu_tests' required: False
+
+[4802] link 'cpu_tests'
+
+[4299] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[4808] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[4300] gridcell '9 months ago' required: False</pre><div>
+
+[3593]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[3593]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3593', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page has a "Clone" link with an associated command to clone the metaseq repository with SSH. I will click on the "Clone" link to view the command. In summary, the next action I will perform is ```click [3593]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3593] where [3593] is [3593] link 'Clone' focused: True expanded: False</pre></div></div>
+
+[3005] RootWebArea 'Administrator / metaseq · GitLab' focused: True
+
+[3113] link 'Skip to content'
+
+[3285] link 'Dashboard'
+
+[3420] button '' hasPopup: menu expanded: False
+
+[3017] textbox 'Search GitLab' required: False
+
+[4400] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3426] link 'Create new...'
+
+[3428] link 'Issues'
+
+[3865] generic '13 assigned issues'
+
+[3429] link 'Merge requests'
+
+[3867] generic '8 merge requests'
+
+[3431] link 'To-Do List'
+
+[3883] generic 'Todos count'
+
+[4421] StaticText '5'
+
+[3432] link 'Help'
+
+[3434] link 'Byte Blaze'
+
+[3917] img 'Byte Blaze'
+
+[3114] complementary 'Project navigation'
+
+[3318] listitem 'metaseq'
+
+[3436] link 'metaseq'
+
+[3958] StaticText 'M'
+
+[3437] link 'Project information'
+
+[3439] link 'Repository'
+
+[3441] link 'Issues'
+
+[4023] StaticText '95'
+
+[3443] link 'Merge requests'
+
+[3445] link 'CI/CD'
+
+[3447] link 'Deployments'
+
+[3449] link 'Packages and registries'
+
+[3451] link 'Monitor'
+
+[3453] link 'Analytics'
+
+[3455] link 'Wiki'
+
+[3457] link 'Snippets'
+
+[3235] button 'Collapse sidebar'
+
+[3118] alert '' live: assertive atomic: True relevant: additions text
+
+[3121] button 'Dismiss'
+
+[3122] alert '' live: assertive atomic: True relevant: additions text
+
+[3349] link 'Add SSH key'
+
+[3350] button "Don't show again"
+
+[3119] navigation 'Breadcrumbs'
+
+[3474] link 'Administrator'
+
+[3476] link 'metaseq'
+
+[3021] main ''
+
+[3362] StaticText 'M'
+
+[3252] heading 'metaseq Public - The project can be accessed without any authentication.'
+
+[3255] generic 'Public - The project can be accessed without any authentication.'
+
+[3258] StaticText 'Project ID: 33 '
+
+[3259] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3261] link 'Request Access'
+
+[3368] button '' hasPopup: menu expanded: False
+
+[3264] button 'Star'
+
+[3265] link '0'
+
+[3373] link 'Fork'
+
+[3267] link '0'
+
+[3572] link '272 Commits'
+
+[3573] link '112 Branches'
+
+[3574] link '0 Tags'
+
+[4197] StaticText '32.4 MB'
+
+[4193] StaticText ' Project Storage'
+
+[3273] StaticText 'Repo for external large-scale work'
+
+[3275] generic '<span class="repository-language-bar-tooltip-language">Python</span>&nbsp;<span class="repository-language-bar-tooltip-share">98.0%</span>'
+
+[3276] generic '<span class="repository-language-bar-tooltip-language">Cython</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.0%</span>'
+
+[3277] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.7%</span>'
+
+[3278] generic '<span class="repository-language-bar-tooltip-language">Shell</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3279] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3386] img 'user avatar'
+
+[3390] link 'Simplify inheritance layers (#639)'
+
+[3391] button 'Toggle commit description'
+
+[3396] StaticText 'Nikolay Bashlykov authored '
+
+[3397] time 'Feb 9, 2023 3:32pm EST'
+
+[3579] StaticText '6 months ago'
+
+[3410] button 'Unverified'
+
+[3409] group ''
+
+[3582] StaticText '905f355e'
+
+[3412] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4201] button 'main' hasPopup: menu expanded: False
+
+[3081] navigation 'Files breadcrumb'
+
+[4757] link 'metaseq'
+
+[5030] button 'Add to tree' hasPopup: menu expanded: False
+
+[3585] link 'Find file'
+
+[3590] link 'Web IDE'
+
+[3591] button 'Download'
+
+[4208] StaticText 'Select Archive Format'
+
+[3593] link 'Clone' focused: True expanded: True
+
+[5251] StaticText 'Clone with SSH'
+
+[5225] textbox 'Repository clone URL' required: False
+
+[5252] StaticText 'ssh://git@metis.lti.cs.cmu.edu:2222/root/metaseq.git'
+
+[5236] button 'Copy URL' live: polite atomic: False relevant: additions text
+
+[5220] StaticText 'Clone with HTTP'
+
+[5241] textbox 'Repository clone URL' required: False
+
+[5255] StaticText 'http://metis.lti.cs.cmu.edu:8023/root/metaseq.git'
+
+[5235] button 'Copy URL' live: polite atomic: False relevant: additions text
+
+[5240] StaticText 'Open in your IDE'
+
+[5224] link 'Visual Studio Code (SSH)'
+
+[5242] link 'Visual Studio Code (HTTPS)'
+
+[5237] link 'IntelliJ IDEA (SSH)'
+
+[5247] link 'IntelliJ IDEA (HTTPS)'
+
+[3616] link 'README'
+
+[3617] link 'MIT License'
+
+[3618] link 'CHANGELOG'
+
+[3050] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[4268] row ''
+
+[4269] columnheader 'Name' required: False
+
+[4270] columnheader 'Last commit' required: False
+
+[4271] columnheader 'Last update' required: False
+
+[4272] row ''
+
+[4292] gridcell '.circleci' required: False
+
+[4780] link '.circleci'
+
+[4293] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[4786] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[4294] gridcell '7 months ago' required: False
+
+[4789] time 'Jan 14, 2023 11:19am EST'
+
+[4273] row ''
+
+[4295] gridcell '.github' required: False
+
+[4791] link '.github'
+
+[4296] gridcell 'Add flash attention (#387)' required: False
+
+[4797] link 'Add flash attention (#387)'
+
+[4297] gridcell '10 months ago' required: False
+
+[4800] time 'Nov 2, 2022 1:11pm EDT'
+
+[4274] row ''
+
+[4298] gridcell 'cpu_tests' required: False
+
+[4802] link 'cpu_tests'
+
+[4299] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[4808] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[4300] gridcell '9 months ago' required: False</pre><div>
+
+[3593] where [3593] is link 'Clone' focused: True expanded: False</div>
+
+[3593]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3593', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to find the command to clone the metaseq repository with SSH. The current page is the GitLab repository page for metaseq. I can see a link with the label "Clone" that has focus. I will click on it to expand the options. In summary, the next action I will perform is ```click [3593]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3593] where [3593] is [3593] link 'Clone' focused: True expanded: True</pre></div></div>
+
+[3005] RootWebArea 'Administrator / metaseq · GitLab' focused: True
+
+[3113] link 'Skip to content'
+
+[3285] link 'Dashboard'
+
+[3420] button '' hasPopup: menu expanded: False
+
+[3017] textbox 'Search GitLab' required: False
+
+[4400] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3426] link 'Create new...'
+
+[3428] link 'Issues'
+
+[3865] generic '13 assigned issues'
+
+[3429] link 'Merge requests'
+
+[3867] generic '8 merge requests'
+
+[3431] link 'To-Do List'
+
+[3883] generic 'Todos count'
+
+[4421] StaticText '5'
+
+[3432] link 'Help'
+
+[3434] link 'Byte Blaze'
+
+[3917] img 'Byte Blaze'
+
+[3114] complementary 'Project navigation'
+
+[3318] listitem 'metaseq'
+
+[3436] link 'metaseq'
+
+[3958] StaticText 'M'
+
+[3437] link 'Project information'
+
+[3439] link 'Repository'
+
+[3441] link 'Issues'
+
+[4023] StaticText '95'
+
+[3443] link 'Merge requests'
+
+[3445] link 'CI/CD'
+
+[3447] link 'Deployments'
+
+[3449] link 'Packages and registries'
+
+[3451] link 'Monitor'
+
+[3453] link 'Analytics'
+
+[3455] link 'Wiki'
+
+[3457] link 'Snippets'
+
+[3235] button 'Collapse sidebar'
+
+[3118] alert '' live: assertive atomic: True relevant: additions text
+
+[3121] button 'Dismiss'
+
+[3122] alert '' live: assertive atomic: True relevant: additions text
+
+[3349] link 'Add SSH key'
+
+[3350] button "Don't show again"
+
+[3119] navigation 'Breadcrumbs'
+
+[3474] link 'Administrator'
+
+[3476] link 'metaseq'
+
+[3021] main ''
+
+[3362] StaticText 'M'
+
+[3252] heading 'metaseq Public - The project can be accessed without any authentication.'
+
+[3255] generic 'Public - The project can be accessed without any authentication.'
+
+[3258] StaticText 'Project ID: 33 '
+
+[3259] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3261] link 'Request Access'
+
+[3368] button '' hasPopup: menu expanded: False
+
+[3264] button 'Star'
+
+[3265] link '0'
+
+[3373] link 'Fork'
+
+[3267] link '0'
+
+[3572] link '272 Commits'
+
+[3573] link '112 Branches'
+
+[3574] link '0 Tags'
+
+[4197] StaticText '32.4 MB'
+
+[4193] StaticText ' Project Storage'
+
+[3273] StaticText 'Repo for external large-scale work'
+
+[3275] generic '<span class="repository-language-bar-tooltip-language">Python</span>&nbsp;<span class="repository-language-bar-tooltip-share">98.0%</span>'
+
+[3276] generic '<span class="repository-language-bar-tooltip-language">Cython</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.0%</span>'
+
+[3277] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.7%</span>'
+
+[3278] generic '<span class="repository-language-bar-tooltip-language">Shell</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3279] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3386] img 'user avatar'
+
+[3390] link 'Simplify inheritance layers (#639)'
+
+[3391] button 'Toggle commit description'
+
+[3396] StaticText 'Nikolay Bashlykov authored '
+
+[3397] time 'Feb 9, 2023 3:32pm EST'
+
+[3579] StaticText '6 months ago'
+
+[3410] button 'Unverified'
+
+[3409] group ''
+
+[3582] StaticText '905f355e'
+
+[3412] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4201] button 'main' hasPopup: menu expanded: False
+
+[3081] navigation 'Files breadcrumb'
+
+[4757] link 'metaseq'
+
+[5030] button 'Add to tree' hasPopup: menu expanded: False
+
+[3585] link 'Find file'
+
+[3590] link 'Web IDE'
+
+[3591] button 'Download'
+
+[4208] StaticText 'Select Archive Format'
+
+[3593] link 'Clone' focused: True expanded: False
+
+[3616] link 'README'
+
+[3617] link 'MIT License'
+
+[3618] link 'CHANGELOG'
+
+[3050] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[4268] row ''
+
+[4269] columnheader 'Name' required: False
+
+[4270] columnheader 'Last commit' required: False
+
+[4271] columnheader 'Last update' required: False
+
+[4272] row ''
+
+[4292] gridcell '.circleci' required: False
+
+[4780] link '.circleci'
+
+[4293] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[4786] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[4294] gridcell '7 months ago' required: False
+
+[4789] time 'Jan 14, 2023 11:19am EST'
+
+[4273] row ''
+
+[4295] gridcell '.github' required: False
+
+[4791] link '.github'
+
+[4296] gridcell 'Add flash attention (#387)' required: False
+
+[4797] link 'Add flash attention (#387)'
+
+[4297] gridcell '10 months ago' required: False
+
+[4800] time 'Nov 2, 2022 1:11pm EDT'
+
+[4274] row ''
+
+[4298] gridcell 'cpu_tests' required: False
+
+[4802] link 'cpu_tests'
+
+[4299] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[4808] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[4300] gridcell '9 months ago' required: False</pre><div>
+
+[3593] where [3593] is link 'Clone' focused: True expanded: True</div>
+
+[3593]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to show the command to clone the "metaseq" repository with SSH. From the observation, I can see that there is a link with the text "Clone" which is focused and expanded. I can click on it to get the clone command. In summary, the next action I will perform is `click [3593]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[3005] RootWebArea 'Administrator / metaseq · GitLab' focused: True
+
+[3113] link 'Skip to content'
+
+[3285] link 'Dashboard'
+
+[3420] button '' hasPopup: menu expanded: False
+
+[3017] textbox 'Search GitLab' required: False
+
+[4400] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3426] link 'Create new...'
+
+[3428] link 'Issues'
+
+[3865] generic '13 assigned issues'
+
+[3429] link 'Merge requests'
+
+[3867] generic '8 merge requests'
+
+[3431] link 'To-Do List'
+
+[3883] generic 'Todos count'
+
+[4421] StaticText '5'
+
+[3432] link 'Help'
+
+[3434] link 'Byte Blaze'
+
+[3917] img 'Byte Blaze'
+
+[3114] complementary 'Project navigation'
+
+[3318] listitem 'metaseq'
+
+[3436] link 'metaseq'
+
+[3958] StaticText 'M'
+
+[3437] link 'Project information'
+
+[3439] link 'Repository'
+
+[3441] link 'Issues'
+
+[4023] StaticText '95'
+
+[3443] link 'Merge requests'
+
+[3445] link 'CI/CD'
+
+[3447] link 'Deployments'
+
+[3449] link 'Packages and registries'
+
+[3451] link 'Monitor'
+
+[3453] link 'Analytics'
+
+[3455] link 'Wiki'
+
+[3457] link 'Snippets'
+
+[3235] button 'Collapse sidebar'
+
+[3118] alert '' live: assertive atomic: True relevant: additions text
+
+[3121] button 'Dismiss'
+
+[3122] alert '' live: assertive atomic: True relevant: additions text
+
+[3349] link 'Add SSH key'
+
+[3350] button "Don't show again"
+
+[3119] navigation 'Breadcrumbs'
+
+[3474] link 'Administrator'
+
+[3476] link 'metaseq'
+
+[3021] main ''
+
+[3362] StaticText 'M'
+
+[3252] heading 'metaseq Public - The project can be accessed without any authentication.'
+
+[3255] generic 'Public - The project can be accessed without any authentication.'
+
+[3258] StaticText 'Project ID: 33 '
+
+[3259] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3261] link 'Request Access'
+
+[3368] button '' hasPopup: menu expanded: False
+
+[3264] button 'Star'
+
+[3265] link '0'
+
+[3373] link 'Fork'
+
+[3267] link '0'
+
+[3572] link '272 Commits'
+
+[3573] link '112 Branches'
+
+[3574] link '0 Tags'
+
+[4197] StaticText '32.4 MB'
+
+[4193] StaticText ' Project Storage'
+
+[3273] StaticText 'Repo for external large-scale work'
+
+[3275] generic '<span class="repository-language-bar-tooltip-language">Python</span>&nbsp;<span class="repository-language-bar-tooltip-share">98.0%</span>'
+
+[3276] generic '<span class="repository-language-bar-tooltip-language">Cython</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.0%</span>'
+
+[3277] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.7%</span>'
+
+[3278] generic '<span class="repository-language-bar-tooltip-language">Shell</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3279] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3386] img 'user avatar'
+
+[3390] link 'Simplify inheritance layers (#639)'
+
+[3391] button 'Toggle commit description'
+
+[3396] StaticText 'Nikolay Bashlykov authored '
+
+[3397] time 'Feb 9, 2023 3:32pm EST'
+
+[3579] StaticText '6 months ago'
+
+[3410] button 'Unverified'
+
+[3409] group ''
+
+[3582] StaticText '905f355e'
+
+[3412] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4201] button 'main' hasPopup: menu expanded: False
+
+[3081] navigation 'Files breadcrumb'
+
+[4757] link 'metaseq'
+
+[5030] button 'Add to tree' hasPopup: menu expanded: False
+
+[3585] link 'Find file'
+
+[3590] link 'Web IDE'
+
+[3591] button 'Download'
+
+[4208] StaticText 'Select Archive Format'
+
+[3593] link 'Clone' focused: True expanded: False
+
+[3616] link 'README'
+
+[3617] link 'MIT License'
+
+[3618] link 'CHANGELOG'
+
+[3050] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[4268] row ''
+
+[4269] columnheader 'Name' required: False
+
+[4270] columnheader 'Last commit' required: False
+
+[4271] columnheader 'Last update' required: False
+
+[4272] row ''
+
+[4292] gridcell '.circleci' required: False
+
+[4780] link '.circleci'
+
+[4293] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[4786] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[4294] gridcell '7 months ago' required: False
+
+[4789] time 'Jan 14, 2023 11:19am EST'
+
+[4273] row ''
+
+[4295] gridcell '.github' required: False
+
+[4791] link '.github'
+
+[4296] gridcell 'Add flash attention (#387)' required: False
+
+[4797] link 'Add flash attention (#387)'
+
+[4297] gridcell '10 months ago' required: False
+
+[4800] time 'Nov 2, 2022 1:11pm EDT'
+
+[4274] row ''
+
+[4298] gridcell 'cpu_tests' required: False
+
+[4802] link 'cpu_tests'
+
+[4299] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[4808] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[4300] gridcell '9 months ago' required: False</pre><div>
+
+[3593]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[3593]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3593', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to show the command to clone the "metaseq" repository with SSH. From the observation, I can see that there is a link with the text "Clone" which is focused and expanded. I can click on it to get the clone command. In summary, the next action I will perform is ```click [3593]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3593] where [3593] is [3593] link 'Clone' focused: True expanded: False</pre></div></div>
+
+[3005] RootWebArea 'Administrator / metaseq · GitLab' focused: True
+
+[3113] link 'Skip to content'
+
+[3285] link 'Dashboard'
+
+[3420] button '' hasPopup: menu expanded: False
+
+[3017] textbox 'Search GitLab' required: False
+
+[4400] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3426] link 'Create new...'
+
+[3428] link 'Issues'
+
+[3865] generic '13 assigned issues'
+
+[3429] link 'Merge requests'
+
+[3867] generic '8 merge requests'
+
+[3431] link 'To-Do List'
+
+[3883] generic 'Todos count'
+
+[4421] StaticText '5'
+
+[3432] link 'Help'
+
+[3434] link 'Byte Blaze'
+
+[3917] img 'Byte Blaze'
+
+[3114] complementary 'Project navigation'
+
+[3318] listitem 'metaseq'
+
+[3436] link 'metaseq'
+
+[3958] StaticText 'M'
+
+[3437] link 'Project information'
+
+[3439] link 'Repository'
+
+[3441] link 'Issues'
+
+[4023] StaticText '95'
+
+[3443] link 'Merge requests'
+
+[3445] link 'CI/CD'
+
+[3447] link 'Deployments'
+
+[3449] link 'Packages and registries'
+
+[3451] link 'Monitor'
+
+[3453] link 'Analytics'
+
+[3455] link 'Wiki'
+
+[3457] link 'Snippets'
+
+[3235] button 'Collapse sidebar'
+
+[3118] alert '' live: assertive atomic: True relevant: additions text
+
+[3121] button 'Dismiss'
+
+[3122] alert '' live: assertive atomic: True relevant: additions text
+
+[3349] link 'Add SSH key'
+
+[3350] button "Don't show again"
+
+[3119] navigation 'Breadcrumbs'
+
+[3474] link 'Administrator'
+
+[3476] link 'metaseq'
+
+[3021] main ''
+
+[3362] StaticText 'M'
+
+[3252] heading 'metaseq Public - The project can be accessed without any authentication.'
+
+[3255] generic 'Public - The project can be accessed without any authentication.'
+
+[3258] StaticText 'Project ID: 33 '
+
+[3259] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3261] link 'Request Access'
+
+[3368] button '' hasPopup: menu expanded: False
+
+[3264] button 'Star'
+
+[3265] link '0'
+
+[3373] link 'Fork'
+
+[3267] link '0'
+
+[3572] link '272 Commits'
+
+[3573] link '112 Branches'
+
+[3574] link '0 Tags'
+
+[4197] StaticText '32.4 MB'
+
+[4193] StaticText ' Project Storage'
+
+[3273] StaticText 'Repo for external large-scale work'
+
+[3275] generic '<span class="repository-language-bar-tooltip-language">Python</span>&nbsp;<span class="repository-language-bar-tooltip-share">98.0%</span>'
+
+[3276] generic '<span class="repository-language-bar-tooltip-language">Cython</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.0%</span>'
+
+[3277] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.7%</span>'
+
+[3278] generic '<span class="repository-language-bar-tooltip-language">Shell</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3279] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3386] img 'user avatar'
+
+[3390] link 'Simplify inheritance layers (#639)'
+
+[3391] button 'Toggle commit description'
+
+[3396] StaticText 'Nikolay Bashlykov authored '
+
+[3397] time 'Feb 9, 2023 3:32pm EST'
+
+[3579] StaticText '6 months ago'
+
+[3410] button 'Unverified'
+
+[3409] group ''
+
+[3582] StaticText '905f355e'
+
+[3412] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4201] button 'main' hasPopup: menu expanded: False
+
+[3081] navigation 'Files breadcrumb'
+
+[4757] link 'metaseq'
+
+[5030] button 'Add to tree' hasPopup: menu expanded: False
+
+[3585] link 'Find file'
+
+[3590] link 'Web IDE'
+
+[3591] button 'Download'
+
+[4208] StaticText 'Select Archive Format'
+
+[3593] link 'Clone' focused: True expanded: True
+
+[5320] StaticText 'Clone with SSH'
+
+[5318] textbox 'Repository clone URL' required: False
+
+[5311] StaticText 'ssh://git@metis.lti.cs.cmu.edu:2222/root/metaseq.git'
+
+[5323] button 'Copy URL' live: polite atomic: False relevant: additions text
+
+[5325] StaticText 'Clone with HTTP'
+
+[5321] textbox 'Repository clone URL' required: False
+
+[5333] StaticText 'http://metis.lti.cs.cmu.edu:8023/root/metaseq.git'
+
+[5316] button 'Copy URL' live: polite atomic: False relevant: additions text
+
+[5302] StaticText 'Open in your IDE'
+
+[5322] link 'Visual Studio Code (SSH)'
+
+[5317] link 'Visual Studio Code (HTTPS)'
+
+[5337] link 'IntelliJ IDEA (SSH)'
+
+[5310] link 'IntelliJ IDEA (HTTPS)'
+
+[3616] link 'README'
+
+[3617] link 'MIT License'
+
+[3618] link 'CHANGELOG'
+
+[3050] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[4268] row ''
+
+[4269] columnheader 'Name' required: False
+
+[4270] columnheader 'Last commit' required: False
+
+[4271] columnheader 'Last update' required: False
+
+[4272] row ''
+
+[4292] gridcell '.circleci' required: False
+
+[4780] link '.circleci'
+
+[4293] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[4786] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[4294] gridcell '7 months ago' required: False
+
+[4789] time 'Jan 14, 2023 11:19am EST'
+
+[4273] row ''
+
+[4295] gridcell '.github' required: False
+
+[4791] link '.github'
+
+[4296] gridcell 'Add flash attention (#387)' required: False
+
+[4797] link 'Add flash attention (#387)'
+
+[4297] gridcell '10 months ago' required: False
+
+[4800] time 'Nov 2, 2022 1:11pm EDT'
+
+[4274] row ''
+
+[4298] gridcell 'cpu_tests' required: False
+
+[4802] link 'cpu_tests'
+
+[4299] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[4808] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[4300] gridcell '9 months ago' required: False</pre><div>
+
+[3593] where [3593] is link 'Clone' focused: True expanded: False</div>
+
+[5320]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '5320', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. The previous action was to click on the 'Clone' link. This link expands to show the clone options. The objective is to show the command to clone metaseq with SSH. \n\nTo achieve this, I will click on the 'Clone with SSH' link. In summary, the next action I will perform is ```click [5320]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [5320] where [5320] is [5320] StaticText 'Clone with SSH'</pre></div></div>
+
+[3005] RootWebArea 'Administrator / metaseq · GitLab' focused: True
+
+[3113] link 'Skip to content'
+
+[3285] link 'Dashboard'
+
+[3420] button '' hasPopup: menu expanded: False
+
+[3017] textbox 'Search GitLab' required: False
+
+[4400] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3426] link 'Create new...'
+
+[3428] link 'Issues'
+
+[3865] generic '13 assigned issues'
+
+[3429] link 'Merge requests'
+
+[3867] generic '8 merge requests'
+
+[3431] link 'To-Do List'
+
+[3883] generic 'Todos count'
+
+[4421] StaticText '5'
+
+[3432] link 'Help'
+
+[3434] link 'Byte Blaze'
+
+[3917] img 'Byte Blaze'
+
+[3114] complementary 'Project navigation'
+
+[3318] listitem 'metaseq'
+
+[3436] link 'metaseq'
+
+[3958] StaticText 'M'
+
+[3437] link 'Project information'
+
+[3439] link 'Repository'
+
+[3441] link 'Issues'
+
+[4023] StaticText '95'
+
+[3443] link 'Merge requests'
+
+[3445] link 'CI/CD'
+
+[3447] link 'Deployments'
+
+[3449] link 'Packages and registries'
+
+[3451] link 'Monitor'
+
+[3453] link 'Analytics'
+
+[3455] link 'Wiki'
+
+[3457] link 'Snippets'
+
+[3235] button 'Collapse sidebar'
+
+[3118] alert '' live: assertive atomic: True relevant: additions text
+
+[3121] button 'Dismiss'
+
+[3122] alert '' live: assertive atomic: True relevant: additions text
+
+[3349] link 'Add SSH key'
+
+[3350] button "Don't show again"
+
+[3119] navigation 'Breadcrumbs'
+
+[3474] link 'Administrator'
+
+[3476] link 'metaseq'
+
+[3021] main ''
+
+[3362] StaticText 'M'
+
+[3252] heading 'metaseq Public - The project can be accessed without any authentication.'
+
+[3255] generic 'Public - The project can be accessed without any authentication.'
+
+[3258] StaticText 'Project ID: 33 '
+
+[3259] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3261] link 'Request Access'
+
+[3368] button '' hasPopup: menu expanded: False
+
+[3264] button 'Star'
+
+[3265] link '0'
+
+[3373] link 'Fork'
+
+[3267] link '0'
+
+[3572] link '272 Commits'
+
+[3573] link '112 Branches'
+
+[3574] link '0 Tags'
+
+[4197] StaticText '32.4 MB'
+
+[4193] StaticText ' Project Storage'
+
+[3273] StaticText 'Repo for external large-scale work'
+
+[3275] generic '<span class="repository-language-bar-tooltip-language">Python</span>&nbsp;<span class="repository-language-bar-tooltip-share">98.0%</span>'
+
+[3276] generic '<span class="repository-language-bar-tooltip-language">Cython</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.0%</span>'
+
+[3277] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.7%</span>'
+
+[3278] generic '<span class="repository-language-bar-tooltip-language">Shell</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3279] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3386] img 'user avatar'
+
+[3390] link 'Simplify inheritance layers (#639)'
+
+[3391] button 'Toggle commit description'
+
+[3396] StaticText 'Nikolay Bashlykov authored '
+
+[3397] time 'Feb 9, 2023 3:32pm EST'
+
+[3579] StaticText '6 months ago'
+
+[3410] button 'Unverified'
+
+[3409] group ''
+
+[3582] StaticText '905f355e'
+
+[3412] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4201] button 'main' hasPopup: menu expanded: False
+
+[3081] navigation 'Files breadcrumb'
+
+[4757] link 'metaseq'
+
+[5030] button 'Add to tree' hasPopup: menu expanded: False
+
+[3585] link 'Find file'
+
+[3590] link 'Web IDE'
+
+[3591] button 'Download'
+
+[4208] StaticText 'Select Archive Format'
+
+[3593] link 'Clone' expanded: False
+
+[3616] link 'README'
+
+[3617] link 'MIT License'
+
+[3618] link 'CHANGELOG'
+
+[3050] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[4268] row ''
+
+[4269] columnheader 'Name' required: False
+
+[4270] columnheader 'Last commit' required: False
+
+[4271] columnheader 'Last update' required: False
+
+[4272] row ''
+
+[4292] gridcell '.circleci' required: False
+
+[4780] link '.circleci'
+
+[4293] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[4786] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[4294] gridcell '7 months ago' required: False
+
+[4789] time 'Jan 14, 2023 11:19am EST'
+
+[4273] row ''
+
+[4295] gridcell '.github' required: False
+
+[4791] link '.github'
+
+[4296] gridcell 'Add flash attention (#387)' required: False
+
+[4797] link 'Add flash attention (#387)'
+
+[4297] gridcell '10 months ago' required: False
+
+[4800] time 'Nov 2, 2022 1:11pm EDT'
+
+[4274] row ''
+
+[4298] gridcell 'cpu_tests' required: False
+
+[4802] link 'cpu_tests'
+
+[4299] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[4808] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[4300] gridcell '9 months ago' required: False</pre><div>
+
+[5320] where [5320] is StaticText 'Clone with SSH'</div>
+
+[5320]. In summary, the next action I will perform is ```click [5320]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '5320', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page contains the information we need to clone the metaseq repository with SSH. The SSH clone command can be found by clicking on the "Clone with SSH" link, which has the id [5320]. In summary, the next action I will perform is ```click [5320]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [5320] where [5320] is No match found</pre></div></div>
+
+[3005] RootWebArea 'Administrator / metaseq · GitLab' focused: True
+
+[3113] link 'Skip to content'
+
+[3285] link 'Dashboard'
+
+[3420] button '' hasPopup: menu expanded: False
+
+[3017] textbox 'Search GitLab' required: False
+
+[4400] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3426] link 'Create new...'
+
+[3428] link 'Issues'
+
+[3865] generic '13 assigned issues'
+
+[3429] link 'Merge requests'
+
+[3867] generic '8 merge requests'
+
+[3431] link 'To-Do List'
+
+[3883] generic 'Todos count'
+
+[4421] StaticText '5'
+
+[3432] link 'Help'
+
+[3434] link 'Byte Blaze'
+
+[3917] img 'Byte Blaze'
+
+[3114] complementary 'Project navigation'
+
+[3318] listitem 'metaseq'
+
+[3436] link 'metaseq'
+
+[3958] StaticText 'M'
+
+[3437] link 'Project information'
+
+[3439] link 'Repository'
+
+[3441] link 'Issues'
+
+[4023] StaticText '95'
+
+[3443] link 'Merge requests'
+
+[3445] link 'CI/CD'
+
+[3447] link 'Deployments'
+
+[3449] link 'Packages and registries'
+
+[3451] link 'Monitor'
+
+[3453] link 'Analytics'
+
+[3455] link 'Wiki'
+
+[3457] link 'Snippets'
+
+[3235] button 'Collapse sidebar'
+
+[3118] alert '' live: assertive atomic: True relevant: additions text
+
+[3121] button 'Dismiss'
+
+[3122] alert '' live: assertive atomic: True relevant: additions text
+
+[3349] link 'Add SSH key'
+
+[3350] button "Don't show again"
+
+[3119] navigation 'Breadcrumbs'
+
+[3474] link 'Administrator'
+
+[3476] link 'metaseq'
+
+[3021] main ''
+
+[3362] StaticText 'M'
+
+[3252] heading 'metaseq Public - The project can be accessed without any authentication.'
+
+[3255] generic 'Public - The project can be accessed without any authentication.'
+
+[3258] StaticText 'Project ID: 33 '
+
+[3259] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3261] link 'Request Access'
+
+[3368] button '' hasPopup: menu expanded: False
+
+[3264] button 'Star'
+
+[3265] link '0'
+
+[3373] link 'Fork'
+
+[3267] link '0'
+
+[3572] link '272 Commits'
+
+[3573] link '112 Branches'
+
+[3574] link '0 Tags'
+
+[4197] StaticText '32.4 MB'
+
+[4193] StaticText ' Project Storage'
+
+[3273] StaticText 'Repo for external large-scale work'
+
+[3275] generic '<span class="repository-language-bar-tooltip-language">Python</span>&nbsp;<span class="repository-language-bar-tooltip-share">98.0%</span>'
+
+[3276] generic '<span class="repository-language-bar-tooltip-language">Cython</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.0%</span>'
+
+[3277] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.7%</span>'
+
+[3278] generic '<span class="repository-language-bar-tooltip-language">Shell</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3279] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3386] img 'user avatar'
+
+[3390] link 'Simplify inheritance layers (#639)'
+
+[3391] button 'Toggle commit description'
+
+[3396] StaticText 'Nikolay Bashlykov authored '
+
+[3397] time 'Feb 9, 2023 3:32pm EST'
+
+[3579] StaticText '6 months ago'
+
+[3410] button 'Unverified'
+
+[3409] group ''
+
+[3582] StaticText '905f355e'
+
+[3412] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4201] button 'main' hasPopup: menu expanded: False
+
+[3081] navigation 'Files breadcrumb'
+
+[4757] link 'metaseq'
+
+[5030] button 'Add to tree' hasPopup: menu expanded: False
+
+[3585] link 'Find file'
+
+[3590] link 'Web IDE'
+
+[3591] button 'Download'
+
+[4208] StaticText 'Select Archive Format'
+
+[3593] link 'Clone' expanded: False
+
+[3616] link 'README'
+
+[3617] link 'MIT License'
+
+[3618] link 'CHANGELOG'
+
+[3050] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[4268] row ''
+
+[4269] columnheader 'Name' required: False
+
+[4270] columnheader 'Last commit' required: False
+
+[4271] columnheader 'Last update' required: False
+
+[4272] row ''
+
+[4292] gridcell '.circleci' required: False
+
+[4780] link '.circleci'
+
+[4293] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[4786] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[4294] gridcell '7 months ago' required: False
+
+[4789] time 'Jan 14, 2023 11:19am EST'
+
+[4273] row ''
+
+[4295] gridcell '.github' required: False
+
+[4791] link '.github'
+
+[4296] gridcell 'Add flash attention (#387)' required: False
+
+[4797] link 'Add flash attention (#387)'
+
+[4297] gridcell '10 months ago' required: False
+
+[4800] time 'Nov 2, 2022 1:11pm EDT'
+
+[4274] row ''
+
+[4298] gridcell 'cpu_tests' required: False
+
+[4802] link 'cpu_tests'
+
+[4299] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[4808] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[4300] gridcell '9 months ago' required: False</pre><div>
+
+[5320]" but no matching element found. Please check the observation more carefully.</div>
+
+[3439]) to navigate to the repository section.
+
+[3439]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page contains information about the metaseq project on GitLab. To find the command to clone metaseq with SSH, we need to navigate to the repository section. I will perform the following actions:\n1. Click on the link 'Repository' ([3439]) to navigate to the repository section.\nIn summary, the next action I will perform is `click [3439]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[3005] RootWebArea 'Administrator / metaseq · GitLab' focused: True
+
+[3113] link 'Skip to content'
+
+[3285] link 'Dashboard'
+
+[3420] button '' hasPopup: menu expanded: False
+
+[3017] textbox 'Search GitLab' required: False
+
+[4400] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3426] link 'Create new...'
+
+[3428] link 'Issues'
+
+[3865] generic '13 assigned issues'
+
+[3429] link 'Merge requests'
+
+[3867] generic '8 merge requests'
+
+[3431] link 'To-Do List'
+
+[3883] generic 'Todos count'
+
+[4421] StaticText '5'
+
+[3432] link 'Help'
+
+[3434] link 'Byte Blaze'
+
+[3917] img 'Byte Blaze'
+
+[3114] complementary 'Project navigation'
+
+[3318] listitem 'metaseq'
+
+[3436] link 'metaseq'
+
+[3958] StaticText 'M'
+
+[3437] link 'Project information'
+
+[3439] link 'Repository'
+
+[3441] link 'Issues'
+
+[4023] StaticText '95'
+
+[3443] link 'Merge requests'
+
+[3445] link 'CI/CD'
+
+[3447] link 'Deployments'
+
+[3449] link 'Packages and registries'
+
+[3451] link 'Monitor'
+
+[3453] link 'Analytics'
+
+[3455] link 'Wiki'
+
+[3457] link 'Snippets'
+
+[3235] button 'Collapse sidebar'
+
+[3118] alert '' live: assertive atomic: True relevant: additions text
+
+[3121] button 'Dismiss'
+
+[3122] alert '' live: assertive atomic: True relevant: additions text
+
+[3349] link 'Add SSH key'
+
+[3350] button "Don't show again"
+
+[3119] navigation 'Breadcrumbs'
+
+[3474] link 'Administrator'
+
+[3476] link 'metaseq'
+
+[3021] main ''
+
+[3362] StaticText 'M'
+
+[3252] heading 'metaseq Public - The project can be accessed without any authentication.'
+
+[3255] generic 'Public - The project can be accessed without any authentication.'
+
+[3258] StaticText 'Project ID: 33 '
+
+[3259] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[3261] link 'Request Access'
+
+[3368] button '' hasPopup: menu expanded: False
+
+[3264] button 'Star'
+
+[3265] link '0'
+
+[3373] link 'Fork'
+
+[3267] link '0'
+
+[3572] link '272 Commits'
+
+[3573] link '112 Branches'
+
+[3574] link '0 Tags'
+
+[4197] StaticText '32.4 MB'
+
+[4193] StaticText ' Project Storage'
+
+[3273] StaticText 'Repo for external large-scale work'
+
+[3275] generic '<span class="repository-language-bar-tooltip-language">Python</span>&nbsp;<span class="repository-language-bar-tooltip-share">98.0%</span>'
+
+[3276] generic '<span class="repository-language-bar-tooltip-language">Cython</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.0%</span>'
+
+[3277] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.7%</span>'
+
+[3278] generic '<span class="repository-language-bar-tooltip-language">Shell</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3279] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+
+[3386] img 'user avatar'
+
+[3390] link 'Simplify inheritance layers (#639)'
+
+[3391] button 'Toggle commit description'
+
+[3396] StaticText 'Nikolay Bashlykov authored '
+
+[3397] time 'Feb 9, 2023 3:32pm EST'
+
+[3579] StaticText '6 months ago'
+
+[3410] button 'Unverified'
+
+[3409] group ''
+
+[3582] StaticText '905f355e'
+
+[3412] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4201] button 'main' hasPopup: menu expanded: False
+
+[3081] navigation 'Files breadcrumb'
+
+[4757] link 'metaseq'
+
+[5030] button 'Add to tree' hasPopup: menu expanded: False
+
+[3585] link 'Find file'
+
+[3590] link 'Web IDE'
+
+[3591] button 'Download'
+
+[4208] StaticText 'Select Archive Format'
+
+[3593] link 'Clone' expanded: False
+
+[3616] link 'README'
+
+[3617] link 'MIT License'
+
+[3618] link 'CHANGELOG'
+
+[3050] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[4268] row ''
+
+[4269] columnheader 'Name' required: False
+
+[4270] columnheader 'Last commit' required: False
+
+[4271] columnheader 'Last update' required: False
+
+[4272] row ''
+
+[4292] gridcell '.circleci' required: False
+
+[4780] link '.circleci'
+
+[4293] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[4786] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[4294] gridcell '7 months ago' required: False
+
+[4789] time 'Jan 14, 2023 11:19am EST'
+
+[4273] row ''
+
+[4295] gridcell '.github' required: False
+
+[4791] link '.github'
+
+[4296] gridcell 'Add flash attention (#387)' required: False
+
+[4797] link 'Add flash attention (#387)'
+
+[4297] gridcell '10 months ago' required: False
+
+[4800] time 'Nov 2, 2022 1:11pm EDT'
+
+[4274] row ''
+
+[4298] gridcell 'cpu_tests' required: False
+
+[4802] link 'cpu_tests'
+
+[4299] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[4808] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[4300] gridcell '9 months ago' required: False</pre><div>
+
+[3439]) to navigate to the repository section.
+
+[3439]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[3439]) to navigate to the repository section.
+
+[3439]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3439', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page contains information about the metaseq project on GitLab. To find the command to clone metaseq with SSH, we need to navigate to the repository section. I will perform the following actions:\n1. Click on the link 'Repository' ([3439]) to navigate to the repository section.\nIn summary, the next action I will perform is ```click [3439]```."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3439] where [3439] is [3439] link 'Repository'</pre></div></div>
+
+[5414] RootWebArea 'Files · main · Administrator / metaseq · GitLab' focused: True
+
+[5515] link 'Skip to content'
+
+[5640] link 'Dashboard'
+
+[5744] button '' hasPopup: menu expanded: False
+
+[5426] textbox 'Search GitLab' required: False
+
+[6572] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[5750] link 'Create new...'
+
+[5752] link 'Issues'
+
+[6092] generic '13 assigned issues'
+
+[5753] link 'Merge requests'
+
+[6094] generic '8 merge requests'
+
+[5755] link 'To-Do List'
+
+[6110] generic 'Todos count'
+
+[5756] link 'Help'
+
+[5758] link 'Byte Blaze'
+
+[6144] img 'Byte Blaze'
+
+[5516] complementary 'Project navigation'
+
+[5673] listitem 'metaseq'
+
+[5760] link 'metaseq'
+
+[6185] StaticText 'M'
+
+[5761] link 'Project information'
+
+[5763] link 'Repository'
+
+[6612] link 'Files'
+
+[6613] link 'Commits'
+
+[6614] link 'Branches'
+
+[6615] link 'Tags'
+
+[6616] link 'Contributors'
+
+[6617] link 'Graph'
+
+[6618] link 'Compare'
+
+[5765] link 'Issues'
+
+[6226] StaticText '95'
+
+[5767] link 'Merge requests'
+
+[6255] StaticText '41'
+
+[5769] link 'CI/CD'
+
+[5771] link 'Deployments'
+
+[5773] link 'Packages and registries'
+
+[5775] link 'Monitor'
+
+[5777] link 'Analytics'
+
+[5779] link 'Wiki'
+
+[5781] link 'Snippets'
+
+[5632] button 'Collapse sidebar'
+
+[5520] navigation 'Breadcrumbs'
+
+[5798] link 'Administrator'
+
+[5800] link 'metaseq'
+
+[5802] link 'Repository'
+
+[5430] main ''
+
+[5714] img 'user avatar'
+
+[5718] link 'Simplify inheritance layers (#639)'
+
+[5719] button 'Toggle commit description'
+
+[5724] StaticText 'Nikolay Bashlykov authored '
+
+[5725] time 'Feb 9, 2023 3:32pm EST'
+
+[5806] StaticText '6 months ago'
+
+[5738] button 'Unverified'
+
+[5737] group ''
+
+[5809] StaticText '905f355e'
+
+[5740] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[6380] button 'main' hasPopup: menu expanded: False
+
+[5457] navigation 'Files breadcrumb'
+
+[6930] link 'metaseq'
+
+[7208] button 'Add to tree' hasPopup: menu expanded: False
+
+[5812] link 'History'
+
+[5813] link 'Find file'
+
+[5820] link 'Web IDE'
+
+[5821] button 'Download'
+
+[6387] StaticText 'Select Archive Format'
+
+[5823] link 'Clone'
+
+[5456] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[6440] row ''
+
+[6441] columnheader 'Name' required: False
+
+[6442] columnheader 'Last commit' required: False
+
+[6443] columnheader 'Last update' required: False
+
+[6444] row ''
+
+[6464] gridcell '.circleci' required: False
+
+[6944] link '.circleci'
+
+[6465] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[6950] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[6466] gridcell '7 months ago' required: False
+
+[6953] time 'Jan 14, 2023 11:19am EST'
+
+[6445] row ''
+
+[6467] gridcell '.github' required: False
+
+[6955] link '.github'
+
+[6468] gridcell 'Add flash attention (#387)' required: False
+
+[6961] link 'Add flash attention (#387)'
+
+[6469] gridcell '10 months ago' required: False
+
+[6964] time 'Nov 2, 2022 1:11pm EDT'
+
+[6446] row ''
+
+[6470] gridcell 'cpu_tests' required: False
+
+[6966] link 'cpu_tests'
+
+[6471] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[6972] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[6472] gridcell '9 months ago' required: False
+
+[6975] time 'Nov 11, 2022 11:42am EST'
+
+[6447] row ''
+
+[6473] gridcell 'docs' required: False
+
+[6977] link 'docs'
+
+[6474] gridcell 'unify IncrementalDecoder and BaseDecoder (#586)' required: False
+
+[6983] link 'unify IncrementalDecoder and BaseDecoder (#586)'
+
+[6475] gridcell '8 months ago' required: False
+
+[6986] time 'Jan 6, 2023 7:10am EST'
+
+[6448] row ''
+
+[6476] gridcell 'gpu_tests' required: False
+
+[6988] link 'gpu_tests'
+
+[6477] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[6994] link 'Simplify inheritance layers (#639)'
+
+[6478] gridcell '6 months ago' required: False
+
+[6997] time 'Feb 9, 2023 3:32pm EST'
+
+[6449] row ''
+
+[6479] gridcell 'metaseq' required: False
+
+[6999] link 'metaseq'
+
+[6480] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[7005] link 'Simplify inheritance layers (#639)'
+
+[6481] gridcell '6 months ago' required: False
+
+[7008] time 'Feb 9, 2023 3:32pm EST'
+
+[6450] row ''
+
+[6482] gridcell 'projects' required: False
+
+[7010] link 'projects'
+
+[6483] gridcell 'Replace optiml_paper_v1.pdf with placeholder (#623)' required: False
+
+[7016] link 'Replace optiml_paper_v1.pdf with placeholder (#623)'
+
+[6484] gridcell '7 months ago' required: False
+
+[7019] time 'Feb 1, 2023 11:22pm EST'
+
+[6451] row ''
+
+[6485] gridcell 'tests' required: False
+
+[7021] link 'tests'
+
+[6486] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[7027] link 'Simplify inheritance layers (#639)'
+
+[6487] gridcell '6 months ago' required: False
+
+[7030] time 'Feb 9, 2023 3:32pm EST'
+
+[6452] row ''
+
+[6488] gridcell '.flake8' required: False
+
+[7032] link '.flake8'
+
+[6489] gridcell 'Current flake8 no longer accepts comments on config lines (#570)' required: False
+
+[7038] link 'Current flake8 no longer accepts comments on config lines (#570)'
+
+[6490] gridcell '8 months ago' required: False
+
+[7041] time 'Dec 30, 2022 1:43am EST'
+
+[6453] row ''
+
+[6491] gridcell '.gitignore' required: False
+
+[7043] link '.gitignore'
+
+[6492] gridcell 'Initial commit' required: False
+
+[7049] link 'Initial commit'
+
+[6493] gridcell '1 year ago' required: False
+
+[7052] time 'May 2, 2022 10:08pm EDT'
+
+[6454] row ''
+
+[6494] gridcell '.pre-commit-config.yaml' required: False
+
+[7054] link '.pre-commit-config.yaml'
+
+[6495] gridcell 'Initial commit' required: False
+
+[7060] link 'Initial commit'
+
+[6496] gridcell '1 year ago' required: False
+
+[7063] time 'May 2, 2022 10:08pm EDT'</pre><div>
+
+[3439] where [3439] is link 'Repository'</div>
+
+[3439]. I will click on it to navigate to the repository. In summary, the next action I will perform is ```click [3439]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3439', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page has a link to the repository where we can find the command to clone metaseq with SSH. The link's ID is [3439]. I will click on it to navigate to the repository. In summary, the next action I will perform is ```click [3439]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3439] where [3439] is No match found</pre></div></div>
+
+[5414] RootWebArea 'Files · main · Administrator / metaseq · GitLab' focused: True
+
+[5515] link 'Skip to content'
+
+[5640] link 'Dashboard'
+
+[5744] button '' hasPopup: menu expanded: False
+
+[5426] textbox 'Search GitLab' required: False
+
+[6572] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[5750] link 'Create new...'
+
+[5752] link 'Issues'
+
+[6092] generic '13 assigned issues'
+
+[5753] link 'Merge requests'
+
+[6094] generic '8 merge requests'
+
+[5755] link 'To-Do List'
+
+[6110] generic 'Todos count'
+
+[5756] link 'Help'
+
+[5758] link 'Byte Blaze'
+
+[6144] img 'Byte Blaze'
+
+[5516] complementary 'Project navigation'
+
+[5673] listitem 'metaseq'
+
+[5760] link 'metaseq'
+
+[6185] StaticText 'M'
+
+[5761] link 'Project information'
+
+[5763] link 'Repository'
+
+[6612] link 'Files'
+
+[6613] link 'Commits'
+
+[6614] link 'Branches'
+
+[6615] link 'Tags'
+
+[6616] link 'Contributors'
+
+[6617] link 'Graph'
+
+[6618] link 'Compare'
+
+[5765] link 'Issues'
+
+[6226] StaticText '95'
+
+[5767] link 'Merge requests'
+
+[6255] StaticText '41'
+
+[5769] link 'CI/CD'
+
+[5771] link 'Deployments'
+
+[5773] link 'Packages and registries'
+
+[5775] link 'Monitor'
+
+[5777] link 'Analytics'
+
+[5779] link 'Wiki'
+
+[5781] link 'Snippets'
+
+[5632] button 'Collapse sidebar'
+
+[5520] navigation 'Breadcrumbs'
+
+[5798] link 'Administrator'
+
+[5800] link 'metaseq'
+
+[5802] link 'Repository'
+
+[5430] main ''
+
+[5714] img 'user avatar'
+
+[5718] link 'Simplify inheritance layers (#639)'
+
+[5719] button 'Toggle commit description'
+
+[5724] StaticText 'Nikolay Bashlykov authored '
+
+[5725] time 'Feb 9, 2023 3:32pm EST'
+
+[5806] StaticText '6 months ago'
+
+[5738] button 'Unverified'
+
+[5737] group ''
+
+[5809] StaticText '905f355e'
+
+[5740] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[6380] button 'main' hasPopup: menu expanded: False
+
+[5457] navigation 'Files breadcrumb'
+
+[6930] link 'metaseq'
+
+[7208] button 'Add to tree' hasPopup: menu expanded: False
+
+[5812] link 'History'
+
+[5813] link 'Find file'
+
+[5820] link 'Web IDE'
+
+[5821] button 'Download'
+
+[6387] StaticText 'Select Archive Format'
+
+[5823] link 'Clone'
+
+[5456] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[6440] row ''
+
+[6441] columnheader 'Name' required: False
+
+[6442] columnheader 'Last commit' required: False
+
+[6443] columnheader 'Last update' required: False
+
+[6444] row ''
+
+[6464] gridcell '.circleci' required: False
+
+[6944] link '.circleci'
+
+[6465] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[6950] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[6466] gridcell '7 months ago' required: False
+
+[6953] time 'Jan 14, 2023 11:19am EST'
+
+[6445] row ''
+
+[6467] gridcell '.github' required: False
+
+[6955] link '.github'
+
+[6468] gridcell 'Add flash attention (#387)' required: False
+
+[6961] link 'Add flash attention (#387)'
+
+[6469] gridcell '10 months ago' required: False
+
+[6964] time 'Nov 2, 2022 1:11pm EDT'
+
+[6446] row ''
+
+[6470] gridcell 'cpu_tests' required: False
+
+[6966] link 'cpu_tests'
+
+[6471] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[6972] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[6472] gridcell '9 months ago' required: False
+
+[6975] time 'Nov 11, 2022 11:42am EST'
+
+[6447] row ''
+
+[6473] gridcell 'docs' required: False
+
+[6977] link 'docs'
+
+[6474] gridcell 'unify IncrementalDecoder and BaseDecoder (#586)' required: False
+
+[6983] link 'unify IncrementalDecoder and BaseDecoder (#586)'
+
+[6475] gridcell '8 months ago' required: False
+
+[6986] time 'Jan 6, 2023 7:10am EST'
+
+[6448] row ''
+
+[6476] gridcell 'gpu_tests' required: False
+
+[6988] link 'gpu_tests'
+
+[6477] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[6994] link 'Simplify inheritance layers (#639)'
+
+[6478] gridcell '6 months ago' required: False
+
+[6997] time 'Feb 9, 2023 3:32pm EST'
+
+[6449] row ''
+
+[6479] gridcell 'metaseq' required: False
+
+[6999] link 'metaseq'
+
+[6480] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[7005] link 'Simplify inheritance layers (#639)'
+
+[6481] gridcell '6 months ago' required: False
+
+[7008] time 'Feb 9, 2023 3:32pm EST'
+
+[6450] row ''
+
+[6482] gridcell 'projects' required: False
+
+[7010] link 'projects'
+
+[6483] gridcell 'Replace optiml_paper_v1.pdf with placeholder (#623)' required: False
+
+[7016] link 'Replace optiml_paper_v1.pdf with placeholder (#623)'
+
+[6484] gridcell '7 months ago' required: False
+
+[7019] time 'Feb 1, 2023 11:22pm EST'
+
+[6451] row ''
+
+[6485] gridcell 'tests' required: False
+
+[7021] link 'tests'
+
+[6486] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[7027] link 'Simplify inheritance layers (#639)'
+
+[6487] gridcell '6 months ago' required: False
+
+[7030] time 'Feb 9, 2023 3:32pm EST'
+
+[6452] row ''
+
+[6488] gridcell '.flake8' required: False
+
+[7032] link '.flake8'
+
+[6489] gridcell 'Current flake8 no longer accepts comments on config lines (#570)' required: False
+
+[7038] link 'Current flake8 no longer accepts comments on config lines (#570)'
+
+[6490] gridcell '8 months ago' required: False
+
+[7041] time 'Dec 30, 2022 1:43am EST'
+
+[6453] row ''
+
+[6491] gridcell '.gitignore' required: False
+
+[7043] link '.gitignore'
+
+[6492] gridcell 'Initial commit' required: False
+
+[7049] link 'Initial commit'
+
+[6493] gridcell '1 year ago' required: False
+
+[7052] time 'May 2, 2022 10:08pm EDT'
+
+[6454] row ''
+
+[6494] gridcell '.pre-commit-config.yaml' required: False
+
+[7054] link '.pre-commit-config.yaml'
+
+[6495] gridcell 'Initial commit' required: False
+
+[7060] link 'Initial commit'
+
+[6496] gridcell '1 year ago' required: False
+
+[7063] time 'May 2, 2022 10:08pm EDT'</pre><div>
+
+[3439]" but no matching element found. Please check the observation more carefully.</div>
+
+[6613]``` to navigate to the "Repository" section.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '6613', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page represents a GitLab repository. The objective is to find the command to clone metaseq with SSH. The observation does not show a direct clue to achieve the objective. We need to navigate to the repository\'s "Repository" section where the cloning command can usually be found. In summary, the next action I will perform is ```click [6613]``` to navigate to the "Repository" section.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [6613] where [6613] is [6613] link 'Commits'</pre></div></div>
+
+[7305] RootWebArea 'Commits · main · Administrator / metaseq · GitLab' focused: True
+
+[7749] link 'Skip to content'
+
+[7875] link 'Dashboard'
+
+[7977] button '' hasPopup: menu expanded: False
+
+[7317] textbox 'Search GitLab' required: False
+
+[8897] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7983] link 'Create new...'
+
+[7985] link 'Issues'
+
+[8278] generic '13 assigned issues'
+
+[7986] link 'Merge requests'
+
+[8280] generic '8 merge requests'
+
+[7988] link 'To-Do List'
+
+[8296] generic 'Todos count'
+
+[8918] StaticText '5'
+
+[7989] link 'Help'
+
+[7991] link 'Byte Blaze'
+
+[8330] img 'Byte Blaze'
+
+[7750] complementary 'Project navigation'
+
+[7908] listitem 'metaseq'
+
+[7993] link 'metaseq'
+
+[8371] StaticText 'M'
+
+[7994] link 'Project information'
+
+[7996] link 'Repository'
+
+[8937] link 'Files'
+
+[8938] link 'Commits'
+
+[8939] link 'Branches'
+
+[8940] link 'Tags'
+
+[8941] link 'Contributors'
+
+[8942] link 'Graph'
+
+[8943] link 'Compare'
+
+[7998] link 'Issues'
+
+[8412] StaticText '95'
+
+[8000] link 'Merge requests'
+
+[8002] link 'CI/CD'
+
+[8004] link 'Deployments'
+
+[8006] link 'Packages and registries'
+
+[8008] link 'Monitor'
+
+[8010] link 'Analytics'
+
+[8012] link 'Wiki'
+
+[8014] link 'Snippets'
+
+[7866] button 'Collapse sidebar'
+
+[7754] navigation 'Breadcrumbs'
+
+[8031] link 'Administrator'
+
+[8033] link 'metaseq'
+
+[8035] link 'Commits'
+
+[7321] main ''
+
+[8036] button 'main' hasPopup: menu expanded: False
+
+[8037] link 'metaseq'
+
+[8038] button 'Author' hasPopup: menu expanded: False
+
+[7328] searchbox 'Search by message'
+
+[7948] link 'Commits feed'
+
+[8046] StaticText '09 Feb, 2023'
+
+[8049] StaticText '3 commits'
+
+[9033] link "Nikolay Bashlykov's avatar"
+
+[9754] img "Nikolay Bashlykov's avatar"
+
+[9034] link 'Simplify inheritance layers (#639)'
+
+[9036] button 'Toggle commit description'
+
+[9041] link 'Nikolay Bashlykov'
+
+[9042] StaticText ' authored '
+
+[7601] time 'Feb 9, 2023 3:32pm EST'
+
+[9759] StaticText '6 months ago'
+
+[7352] button 'Loading'
+
+[7353] status 'Loading' live: polite atomic: True relevant: additions text
+
+[9760] generic 'Loading'
+
+[9761] StaticText '905f355e'
+
+[9056] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9057] link 'Browse Files'
+
+[9058] link "Nikolay Bashlykov's avatar"
+
+[9764] img "Nikolay Bashlykov's avatar"
+
+[9059] link 'remove zero_sharding code (#645)'
+
+[9061] button 'Toggle commit description'
+
+[9066] link 'Nikolay Bashlykov'
+
+[9067] StaticText ' authored '
+
+[7604] time 'Feb 9, 2023 3:31pm EST'
+
+[9769] StaticText '6 months ago'
+
+[7357] button 'Loading'
+
+[7358] status 'Loading' live: polite atomic: True relevant: additions text
+
+[9770] generic 'Loading'
+
+[9771] StaticText '0431ab28'
+
+[9081] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9082] link 'Browse Files'
+
+[9083] link "Guillaume Klein's avatar"
+
+[9774] img "Guillaume Klein's avatar"
+
+[9084] link 'Community: Add the CTranslate2 integration (#644)'
+
+[9088] link 'Guillaume Klein'
+
+[9089] StaticText ' authored '
+
+[7607] time 'Feb 9, 2023 1:50pm EST'
+
+[9776] StaticText '6 months ago'
+
+[7362] button 'Loading'
+
+[7363] status 'Loading' live: polite atomic: True relevant: additions text
+
+[9777] generic 'Loading'
+
+[9778] StaticText 'b7e32b6b'
+
+[9093] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9094] link 'Browse Files'
+
+[8051] StaticText '04 Feb, 2023'
+
+[8054] StaticText '1 commit'
+
+[9095] link "Nikolay Bashlykov's avatar"
+
+[9781] img "Nikolay Bashlykov's avatar"
+
+[9096] link 'Unify-transformer_lm_megatron-and-transformer_lm (#634)'
+
+[9098] button 'Toggle commit description'
+
+[9103] link 'Nikolay Bashlykov'
+
+[9104] StaticText ' authored '
+
+[7610] time 'Feb 4, 2023 7:12am EST'
+
+[9786] StaticText '7 months ago'
+
+[7369] button 'Loading'
+
+[7370] status 'Loading' live: polite atomic: True relevant: additions text
+
+[9787] generic 'Loading'
+
+[9788] StaticText '51871bd7'
+
+[9118] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9119] link 'Browse Files'
+
+[8056] StaticText '03 Feb, 2023'
+
+[8059] StaticText '3 commits'
+
+[9120] link "Binh Tang's avatar"
+
+[9791] img "Binh Tang's avatar"
+
+[9121] link 'Update CODEOWNERS (#635)'
+
+[9123] button 'Toggle commit description'
+
+[9128] link 'Binh Tang'
+
+[9129] StaticText ' authored '
+
+[7613] time 'Feb 3, 2023 4:56pm EST'
+
+[9796] StaticText '7 months ago'
+
+[7376] button 'Loading'
+
+[7377] status 'Loading' live: polite atomic: True relevant: additions text
+
+[9797] generic 'Loading'
+
+[9798] StaticText '5c819d7a'
+
+[9143] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9144] link 'Browse Files'
+
+[9145] link "Susan Zhang's avatar"
+
+[9801] img "Susan Zhang's avatar"
+
+[9146] link 'update codeowners (#631)'
+
+[9150] link 'Susan Zhang'
+
+[9151] StaticText ' authored '
+
+[7616] time 'Feb 3, 2023 5:01am EST'
+
+[9803] StaticText '7 months ago'
+
+[7381] button 'Loading'
+
+[7382] status 'Loading' live: polite atomic: True relevant: additions text
+
+[9804] generic 'Loading'
+
+[9805] StaticText 'ac7f6a03'
+
+[9155] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9156] link 'Browse Files'
+
+[9157] link "Nikolay Bashlykov's avatar"
+
+[9808] img "Nikolay Bashlykov's avatar"
+
+[9158] link 'Merging model_parallel with models (#626)'
+
+[9160] button 'Toggle commit description'
+
+[9165] link 'Nikolay Bashlykov'
+
+[9166] StaticText ' authored '
+
+[7619] time 'Feb 3, 2023 5:00am EST'
+
+[9813] StaticText '7 months ago'
+
+[7386] button 'Loading'
+
+[7387] status 'Loading' live: polite atomic: True relevant: additions text
+
+[9814] generic 'Loading'
+
+[9815] StaticText '41e70f20'
+
+[9180] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9181] link 'Browse Files'
+
+[8061] StaticText '02 Feb, 2023'
+
+[8064] StaticText '1 commit'</pre><div>
+
+[6613] where [6613] is link 'Commits'</div>
+
+[9056]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '9056', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page shows the commits for the metaseq project. We need to find the command to clone metaseq with SSH. To do that, we can click on the first commit to see the details. In summary, the next action I will perform is ```click [9056]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [9056] where [9056] is [9056] button 'Copy commit SHA' live: polite atomic: False relevant: additions text</pre></div></div>
+
+[7305] RootWebArea 'Commits · main · Administrator / metaseq · GitLab' focused: True
+
+[7749] link 'Skip to content'
+
+[7875] link 'Dashboard'
+
+[7977] button '' hasPopup: menu expanded: False
+
+[7317] textbox 'Search GitLab' required: False
+
+[8897] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7983] link 'Create new...'
+
+[7985] link 'Issues'
+
+[8278] generic '13 assigned issues'
+
+[7986] link 'Merge requests'
+
+[8280] generic '8 merge requests'
+
+[7988] link 'To-Do List'
+
+[8296] generic 'Todos count'
+
+[8918] StaticText '5'
+
+[7989] link 'Help'
+
+[7991] link 'Byte Blaze'
+
+[8330] img 'Byte Blaze'
+
+[7750] complementary 'Project navigation'
+
+[7908] listitem 'metaseq'
+
+[7993] link 'metaseq'
+
+[8371] StaticText 'M'
+
+[7994] link 'Project information'
+
+[7996] link 'Repository'
+
+[8937] link 'Files'
+
+[8938] link 'Commits'
+
+[8939] link 'Branches'
+
+[8940] link 'Tags'
+
+[8941] link 'Contributors'
+
+[8942] link 'Graph'
+
+[8943] link 'Compare'
+
+[7998] link 'Issues'
+
+[8412] StaticText '95'
+
+[8000] link 'Merge requests'
+
+[8002] link 'CI/CD'
+
+[8004] link 'Deployments'
+
+[8006] link 'Packages and registries'
+
+[8008] link 'Monitor'
+
+[8010] link 'Analytics'
+
+[8012] link 'Wiki'
+
+[8014] link 'Snippets'
+
+[7866] button 'Collapse sidebar'
+
+[7754] navigation 'Breadcrumbs'
+
+[8031] link 'Administrator'
+
+[8033] link 'metaseq'
+
+[8035] link 'Commits'
+
+[7321] main ''
+
+[8036] button 'main' hasPopup: menu expanded: False
+
+[8037] link 'metaseq'
+
+[8038] button 'Author' hasPopup: menu expanded: False
+
+[7328] searchbox 'Search by message'
+
+[7948] link 'Commits feed'
+
+[8046] StaticText '09 Feb, 2023'
+
+[8049] StaticText '3 commits'
+
+[9033] link "Nikolay Bashlykov's avatar"
+
+[9754] img "Nikolay Bashlykov's avatar"
+
+[9034] link 'Simplify inheritance layers (#639)'
+
+[9036] button 'Toggle commit description'
+
+[9041] link 'Nikolay Bashlykov'
+
+[9042] StaticText ' authored '
+
+[7601] time 'Feb 9, 2023 3:32pm EST'
+
+[9759] StaticText '6 months ago'
+
+[10344] button 'Unverified'
+
+[9761] StaticText '905f355e'
+
+[9056] button 'Copy commit SHA' live: polite atomic: False relevant: additions text focused: True
+
+[9057] link 'Browse Files'
+
+[9058] link "Nikolay Bashlykov's avatar"
+
+[9764] img "Nikolay Bashlykov's avatar"
+
+[9059] link 'remove zero_sharding code (#645)'
+
+[9061] button 'Toggle commit description'
+
+[9066] link 'Nikolay Bashlykov'
+
+[9067] StaticText ' authored '
+
+[7604] time 'Feb 9, 2023 3:31pm EST'
+
+[9769] StaticText '6 months ago'
+
+[10346] button 'Unverified'
+
+[9771] StaticText '0431ab28'
+
+[9081] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9082] link 'Browse Files'
+
+[9083] link "Guillaume Klein's avatar"
+
+[9774] img "Guillaume Klein's avatar"
+
+[9084] link 'Community: Add the CTranslate2 integration (#644)'
+
+[9088] link 'Guillaume Klein'
+
+[9089] StaticText ' authored '
+
+[7607] time 'Feb 9, 2023 1:50pm EST'
+
+[9776] StaticText '6 months ago'
+
+[10348] button 'Unverified'
+
+[9778] StaticText 'b7e32b6b'
+
+[9093] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9094] link 'Browse Files'
+
+[8051] StaticText '04 Feb, 2023'
+
+[8054] StaticText '1 commit'
+
+[9095] link "Nikolay Bashlykov's avatar"
+
+[9781] img "Nikolay Bashlykov's avatar"
+
+[9096] link 'Unify-transformer_lm_megatron-and-transformer_lm (#634)'
+
+[9098] button 'Toggle commit description'
+
+[9103] link 'Nikolay Bashlykov'
+
+[9104] StaticText ' authored '
+
+[7610] time 'Feb 4, 2023 7:12am EST'
+
+[9786] StaticText '7 months ago'
+
+[10350] button 'Unverified'
+
+[9788] StaticText '51871bd7'
+
+[9118] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9119] link 'Browse Files'
+
+[8056] StaticText '03 Feb, 2023'
+
+[8059] StaticText '3 commits'
+
+[9120] link "Binh Tang's avatar"
+
+[9791] img "Binh Tang's avatar"
+
+[9121] link 'Update CODEOWNERS (#635)'
+
+[9123] button 'Toggle commit description'
+
+[9128] link 'Binh Tang'
+
+[9129] StaticText ' authored '
+
+[7613] time 'Feb 3, 2023 4:56pm EST'
+
+[9796] StaticText '7 months ago'
+
+[10352] button 'Unverified'
+
+[9798] StaticText '5c819d7a'
+
+[9143] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9144] link 'Browse Files'
+
+[9145] link "Susan Zhang's avatar"
+
+[9801] img "Susan Zhang's avatar"
+
+[9146] link 'update codeowners (#631)'
+
+[9150] link 'Susan Zhang'
+
+[9151] StaticText ' authored '
+
+[7616] time 'Feb 3, 2023 5:01am EST'
+
+[9803] StaticText '7 months ago'
+
+[10354] button 'Unverified'
+
+[9805] StaticText 'ac7f6a03'
+
+[9155] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9156] link 'Browse Files'
+
+[9157] link "Nikolay Bashlykov's avatar"
+
+[9808] img "Nikolay Bashlykov's avatar"
+
+[9158] link 'Merging model_parallel with models (#626)'
+
+[9160] button 'Toggle commit description'
+
+[9165] link 'Nikolay Bashlykov'
+
+[9166] StaticText ' authored '
+
+[7619] time 'Feb 3, 2023 5:00am EST'
+
+[9813] StaticText '7 months ago'
+
+[10356] button 'Unverified'
+
+[9815] StaticText '41e70f20'
+
+[9180] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9181] link 'Browse Files'
+
+[8061] StaticText '02 Feb, 2023'
+
+[8064] StaticText '1 commit'</pre><div>
+
+[9056] where [9056] is button 'Copy commit SHA' live: polite atomic: False relevant: additions text</div>
+
+[9056] has a button labeled 'Copy commit SHA'. Let's click on that button to see if it provides the necessary information. In summary, the next action I will perform is ```click [9056]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '9056', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page displays the commits for the metaseq project. We need to find the commit that contains the command to clone metaseq with SSH. By looking at the commit information, we can see that commit [9056] has a button labeled 'Copy commit SHA'. Let's click on that button to see if it provides the necessary information. In summary, the next action I will perform is ```click [9056]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [9056] where [9056] is [9056] button 'Copy commit SHA' live: polite atomic: False relevant: additions text focused: True</pre></div></div>
+
+[7305] RootWebArea 'Commits · main · Administrator / metaseq · GitLab' focused: True
+
+[7749] link 'Skip to content'
+
+[7875] link 'Dashboard'
+
+[7977] button '' hasPopup: menu expanded: False
+
+[7317] textbox 'Search GitLab' required: False
+
+[8897] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7983] link 'Create new...'
+
+[7985] link 'Issues'
+
+[8278] generic '13 assigned issues'
+
+[7986] link 'Merge requests'
+
+[8280] generic '8 merge requests'
+
+[7988] link 'To-Do List'
+
+[8296] generic 'Todos count'
+
+[8918] StaticText '5'
+
+[7989] link 'Help'
+
+[7991] link 'Byte Blaze'
+
+[8330] img 'Byte Blaze'
+
+[7750] complementary 'Project navigation'
+
+[7908] listitem 'metaseq'
+
+[7993] link 'metaseq'
+
+[8371] StaticText 'M'
+
+[7994] link 'Project information'
+
+[7996] link 'Repository'
+
+[8937] link 'Files'
+
+[8938] link 'Commits'
+
+[8939] link 'Branches'
+
+[8940] link 'Tags'
+
+[8941] link 'Contributors'
+
+[8942] link 'Graph'
+
+[8943] link 'Compare'
+
+[7998] link 'Issues'
+
+[8412] StaticText '95'
+
+[8000] link 'Merge requests'
+
+[8002] link 'CI/CD'
+
+[8004] link 'Deployments'
+
+[8006] link 'Packages and registries'
+
+[8008] link 'Monitor'
+
+[8010] link 'Analytics'
+
+[8012] link 'Wiki'
+
+[8014] link 'Snippets'
+
+[7866] button 'Collapse sidebar'
+
+[7754] navigation 'Breadcrumbs'
+
+[8031] link 'Administrator'
+
+[8033] link 'metaseq'
+
+[8035] link 'Commits'
+
+[7321] main ''
+
+[8036] button 'main' hasPopup: menu expanded: False
+
+[8037] link 'metaseq'
+
+[8038] button 'Author' hasPopup: menu expanded: False
+
+[7328] searchbox 'Search by message'
+
+[7948] link 'Commits feed'
+
+[8046] StaticText '09 Feb, 2023'
+
+[8049] StaticText '3 commits'
+
+[9033] link "Nikolay Bashlykov's avatar"
+
+[9754] img "Nikolay Bashlykov's avatar"
+
+[9034] link 'Simplify inheritance layers (#639)'
+
+[9036] button 'Toggle commit description'
+
+[9041] link 'Nikolay Bashlykov'
+
+[9042] StaticText ' authored '
+
+[7601] time 'Feb 9, 2023 3:32pm EST'
+
+[9759] StaticText '6 months ago'
+
+[10344] button 'Unverified'
+
+[9761] StaticText '905f355e'
+
+[9056] button 'Copy commit SHA' live: polite atomic: False relevant: additions text focused: True
+
+[9057] link 'Browse Files'
+
+[9058] link "Nikolay Bashlykov's avatar"
+
+[9764] img "Nikolay Bashlykov's avatar"
+
+[9059] link 'remove zero_sharding code (#645)'
+
+[9061] button 'Toggle commit description'
+
+[9066] link 'Nikolay Bashlykov'
+
+[9067] StaticText ' authored '
+
+[7604] time 'Feb 9, 2023 3:31pm EST'
+
+[9769] StaticText '6 months ago'
+
+[10346] button 'Unverified'
+
+[9771] StaticText '0431ab28'
+
+[9081] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9082] link 'Browse Files'
+
+[9083] link "Guillaume Klein's avatar"
+
+[9774] img "Guillaume Klein's avatar"
+
+[9084] link 'Community: Add the CTranslate2 integration (#644)'
+
+[9088] link 'Guillaume Klein'
+
+[9089] StaticText ' authored '
+
+[7607] time 'Feb 9, 2023 1:50pm EST'
+
+[9776] StaticText '6 months ago'
+
+[10348] button 'Unverified'
+
+[9778] StaticText 'b7e32b6b'
+
+[9093] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9094] link 'Browse Files'
+
+[8051] StaticText '04 Feb, 2023'
+
+[8054] StaticText '1 commit'
+
+[9095] link "Nikolay Bashlykov's avatar"
+
+[9781] img "Nikolay Bashlykov's avatar"
+
+[9096] link 'Unify-transformer_lm_megatron-and-transformer_lm (#634)'
+
+[9098] button 'Toggle commit description'
+
+[9103] link 'Nikolay Bashlykov'
+
+[9104] StaticText ' authored '
+
+[7610] time 'Feb 4, 2023 7:12am EST'
+
+[9786] StaticText '7 months ago'
+
+[10350] button 'Unverified'
+
+[9788] StaticText '51871bd7'
+
+[9118] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9119] link 'Browse Files'
+
+[8056] StaticText '03 Feb, 2023'
+
+[8059] StaticText '3 commits'
+
+[9120] link "Binh Tang's avatar"
+
+[9791] img "Binh Tang's avatar"
+
+[9121] link 'Update CODEOWNERS (#635)'
+
+[9123] button 'Toggle commit description'
+
+[9128] link 'Binh Tang'
+
+[9129] StaticText ' authored '
+
+[7613] time 'Feb 3, 2023 4:56pm EST'
+
+[9796] StaticText '7 months ago'
+
+[10352] button 'Unverified'
+
+[9798] StaticText '5c819d7a'
+
+[9143] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9144] link 'Browse Files'
+
+[9145] link "Susan Zhang's avatar"
+
+[9801] img "Susan Zhang's avatar"
+
+[9146] link 'update codeowners (#631)'
+
+[9150] link 'Susan Zhang'
+
+[9151] StaticText ' authored '
+
+[7616] time 'Feb 3, 2023 5:01am EST'
+
+[9803] StaticText '7 months ago'
+
+[10354] button 'Unverified'
+
+[9805] StaticText 'ac7f6a03'
+
+[9155] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9156] link 'Browse Files'
+
+[9157] link "Nikolay Bashlykov's avatar"
+
+[9808] img "Nikolay Bashlykov's avatar"
+
+[9158] link 'Merging model_parallel with models (#626)'
+
+[9160] button 'Toggle commit description'
+
+[9165] link 'Nikolay Bashlykov'
+
+[9166] StaticText ' authored '
+
+[7619] time 'Feb 3, 2023 5:00am EST'
+
+[9813] StaticText '7 months ago'
+
+[10356] button 'Unverified'
+
+[9815] StaticText '41e70f20'
+
+[9180] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9181] link 'Browse Files'
+
+[8061] StaticText '02 Feb, 2023'
+
+[8064] StaticText '1 commit'</pre><div>
+
+[9056] where [9056] is button 'Copy commit SHA' live: polite atomic: False relevant: additions text focused: True</div>
+
+[7305] RootWebArea 'Commits · main · Administrator / metaseq · GitLab' focused: True
+
+[7749] link 'Skip to content'
+
+[7875] link 'Dashboard'
+
+[7977] button '' hasPopup: menu expanded: False
+
+[7317] textbox 'Search GitLab' required: False
+
+[8897] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7983] link 'Create new...'
+
+[7985] link 'Issues'
+
+[8278] generic '13 assigned issues'
+
+[7986] link 'Merge requests'
+
+[8280] generic '8 merge requests'
+
+[7988] link 'To-Do List'
+
+[8296] generic 'Todos count'
+
+[8918] StaticText '5'
+
+[7989] link 'Help'
+
+[7991] link 'Byte Blaze'
+
+[8330] img 'Byte Blaze'
+
+[7750] complementary 'Project navigation'
+
+[7908] listitem 'metaseq'
+
+[7993] link 'metaseq'
+
+[8371] StaticText 'M'
+
+[7994] link 'Project information'
+
+[7996] link 'Repository'
+
+[8937] link 'Files'
+
+[8938] link 'Commits'
+
+[8939] link 'Branches'
+
+[8940] link 'Tags'
+
+[8941] link 'Contributors'
+
+[8942] link 'Graph'
+
+[8943] link 'Compare'
+
+[7998] link 'Issues'
+
+[8412] StaticText '95'
+
+[8000] link 'Merge requests'
+
+[8002] link 'CI/CD'
+
+[8004] link 'Deployments'
+
+[8006] link 'Packages and registries'
+
+[8008] link 'Monitor'
+
+[8010] link 'Analytics'
+
+[8012] link 'Wiki'
+
+[8014] link 'Snippets'
+
+[7866] button 'Collapse sidebar'
+
+[7754] navigation 'Breadcrumbs'
+
+[8031] link 'Administrator'
+
+[8033] link 'metaseq'
+
+[8035] link 'Commits'
+
+[7321] main ''
+
+[8036] button 'main' hasPopup: menu expanded: False
+
+[8037] link 'metaseq'
+
+[8038] button 'Author' hasPopup: menu expanded: False
+
+[7328] searchbox 'Search by message'
+
+[7948] link 'Commits feed'
+
+[8046] StaticText '09 Feb, 2023'
+
+[8049] StaticText '3 commits'
+
+[9033] link "Nikolay Bashlykov's avatar"
+
+[9754] img "Nikolay Bashlykov's avatar"
+
+[9034] link 'Simplify inheritance layers (#639)'
+
+[9036] button 'Toggle commit description'
+
+[9041] link 'Nikolay Bashlykov'
+
+[9042] StaticText ' authored '
+
+[7601] time 'Feb 9, 2023 3:32pm EST'
+
+[9759] StaticText '6 months ago'
+
+[10344] button 'Unverified'
+
+[9761] StaticText '905f355e'
+
+[9056] button 'Copy commit SHA' live: polite atomic: False relevant: additions text focused: True
+
+[9057] link 'Browse Files'
+
+[9058] link "Nikolay Bashlykov's avatar"
+
+[9764] img "Nikolay Bashlykov's avatar"
+
+[9059] link 'remove zero_sharding code (#645)'
+
+[9061] button 'Toggle commit description'
+
+[9066] link 'Nikolay Bashlykov'
+
+[9067] StaticText ' authored '
+
+[7604] time 'Feb 9, 2023 3:31pm EST'
+
+[9769] StaticText '6 months ago'
+
+[10346] button 'Unverified'
+
+[9771] StaticText '0431ab28'
+
+[9081] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9082] link 'Browse Files'
+
+[9083] link "Guillaume Klein's avatar"
+
+[9774] img "Guillaume Klein's avatar"
+
+[9084] link 'Community: Add the CTranslate2 integration (#644)'
+
+[9088] link 'Guillaume Klein'
+
+[9089] StaticText ' authored '
+
+[7607] time 'Feb 9, 2023 1:50pm EST'
+
+[9776] StaticText '6 months ago'
+
+[10348] button 'Unverified'
+
+[9778] StaticText 'b7e32b6b'
+
+[9093] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9094] link 'Browse Files'
+
+[8051] StaticText '04 Feb, 2023'
+
+[8054] StaticText '1 commit'
+
+[9095] link "Nikolay Bashlykov's avatar"
+
+[9781] img "Nikolay Bashlykov's avatar"
+
+[9096] link 'Unify-transformer_lm_megatron-and-transformer_lm (#634)'
+
+[9098] button 'Toggle commit description'
+
+[9103] link 'Nikolay Bashlykov'
+
+[9104] StaticText ' authored '
+
+[7610] time 'Feb 4, 2023 7:12am EST'
+
+[9786] StaticText '7 months ago'
+
+[10350] button 'Unverified'
+
+[9788] StaticText '51871bd7'
+
+[9118] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9119] link 'Browse Files'
+
+[8056] StaticText '03 Feb, 2023'
+
+[8059] StaticText '3 commits'
+
+[9120] link "Binh Tang's avatar"
+
+[9791] img "Binh Tang's avatar"
+
+[9121] link 'Update CODEOWNERS (#635)'
+
+[9123] button 'Toggle commit description'
+
+[9128] link 'Binh Tang'
+
+[9129] StaticText ' authored '
+
+[7613] time 'Feb 3, 2023 4:56pm EST'
+
+[9796] StaticText '7 months ago'
+
+[10352] button 'Unverified'
+
+[9798] StaticText '5c819d7a'
+
+[9143] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9144] link 'Browse Files'
+
+[9145] link "Susan Zhang's avatar"
+
+[9801] img "Susan Zhang's avatar"
+
+[9146] link 'update codeowners (#631)'
+
+[9150] link 'Susan Zhang'
+
+[9151] StaticText ' authored '
+
+[7616] time 'Feb 3, 2023 5:01am EST'
+
+[9803] StaticText '7 months ago'
+
+[10354] button 'Unverified'
+
+[9805] StaticText 'ac7f6a03'
+
+[9155] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9156] link 'Browse Files'
+
+[9157] link "Nikolay Bashlykov's avatar"
+
+[9808] img "Nikolay Bashlykov's avatar"
+
+[9158] link 'Merging model_parallel with models (#626)'
+
+[9160] button 'Toggle commit description'
+
+[9165] link 'Nikolay Bashlykov'
+
+[9166] StaticText ' authored '
+
+[7619] time 'Feb 3, 2023 5:00am EST'
+
+[9813] StaticText '7 months ago'
+
+[10356] button 'Unverified'
+
+[9815] StaticText '41e70f20'
+
+[9180] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[9181] link 'Browse Files'
+
+[8061] StaticText '02 Feb, 2023'
+
+[8064] StaticText '1 commit'</pre><div>
+
+[10428] RootWebArea 'Files · main · Administrator / metaseq · GitLab' focused: True
+
+[10529] link 'Skip to content'
+
+[10654] link 'Dashboard'
+
+[10758] button '' hasPopup: menu expanded: False
+
+[10440] textbox 'Search GitLab' required: False
+
+[11586] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[10764] link 'Create new...'
+
+[10766] link 'Issues'
+
+[11106] generic '13 assigned issues'
+
+[10767] link 'Merge requests'
+
+[11108] generic '8 merge requests'
+
+[10769] link 'To-Do List'
+
+[11124] generic 'Todos count'
+
+[11607] StaticText '5'
+
+[10770] link 'Help'
+
+[10772] link 'Byte Blaze'
+
+[11158] img 'Byte Blaze'
+
+[10530] complementary 'Project navigation'
+
+[10687] listitem 'metaseq'
+
+[10774] link 'metaseq'
+
+[11199] StaticText 'M'
+
+[10775] link 'Project information'
+
+[10777] link 'Repository'
+
+[11626] link 'Files'
+
+[11627] link 'Commits'
+
+[11628] link 'Branches'
+
+[11629] link 'Tags'
+
+[11630] link 'Contributors'
+
+[11631] link 'Graph'
+
+[11632] link 'Compare'
+
+[10779] link 'Issues'
+
+[11240] StaticText '95'
+
+[10781] link 'Merge requests'
+
+[11269] StaticText '41'
+
+[10783] link 'CI/CD'
+
+[10785] link 'Deployments'
+
+[10787] link 'Packages and registries'
+
+[10789] link 'Monitor'
+
+[10791] link 'Analytics'
+
+[10793] link 'Wiki'
+
+[10795] link 'Snippets'
+
+[10646] button 'Collapse sidebar'
+
+[10534] navigation 'Breadcrumbs'
+
+[10812] link 'Administrator'
+
+[10814] link 'metaseq'
+
+[10816] link 'Repository'
+
+[10444] main ''
+
+[10728] img 'user avatar'
+
+[10732] link 'Simplify inheritance layers (#639)'
+
+[10733] button 'Toggle commit description'
+
+[10738] StaticText 'Nikolay Bashlykov authored '
+
+[10739] time 'Feb 9, 2023 3:32pm EST'
+
+[10820] StaticText '6 months ago'
+
+[10752] button 'Unverified'
+
+[10751] group ''
+
+[10823] StaticText '905f355e'
+
+[10754] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[11394] button 'main' hasPopup: menu expanded: False
+
+[10485] navigation 'Files breadcrumb'
+
+[11944] link 'metaseq'
+
+[12222] button 'Add to tree' hasPopup: menu expanded: False
+
+[10826] link 'History'
+
+[10827] link 'Find file'
+
+[10834] link 'Web IDE'
+
+[10835] button 'Download'
+
+[11401] StaticText 'Select Archive Format'
+
+[10837] link 'Clone'
+
+[10470] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[11454] row ''
+
+[11455] columnheader 'Name' required: False
+
+[11456] columnheader 'Last commit' required: False
+
+[11457] columnheader 'Last update' required: False
+
+[11458] row ''
+
+[11478] gridcell '.circleci' required: False
+
+[11958] link '.circleci'
+
+[11479] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[11964] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[11480] gridcell '7 months ago' required: False
+
+[11967] time 'Jan 14, 2023 11:19am EST'
+
+[11459] row ''
+
+[11481] gridcell '.github' required: False
+
+[11969] link '.github'
+
+[11482] gridcell 'Add flash attention (#387)' required: False
+
+[11975] link 'Add flash attention (#387)'
+
+[11483] gridcell '10 months ago' required: False
+
+[11978] time 'Nov 2, 2022 1:11pm EDT'
+
+[11460] row ''
+
+[11484] gridcell 'cpu_tests' required: False
+
+[11980] link 'cpu_tests'
+
+[11485] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[11986] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[11486] gridcell '9 months ago' required: False
+
+[11989] time 'Nov 11, 2022 11:42am EST'
+
+[11461] row ''
+
+[11487] gridcell 'docs' required: False
+
+[11991] link 'docs'
+
+[11488] gridcell 'unify IncrementalDecoder and BaseDecoder (#586)' required: False
+
+[11997] link 'unify IncrementalDecoder and BaseDecoder (#586)'
+
+[11489] gridcell '8 months ago' required: False
+
+[12000] time 'Jan 6, 2023 7:10am EST'
+
+[11462] row ''
+
+[11490] gridcell 'gpu_tests' required: False
+
+[12002] link 'gpu_tests'
+
+[11491] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[12008] link 'Simplify inheritance layers (#639)'
+
+[11492] gridcell '6 months ago' required: False
+
+[12011] time 'Feb 9, 2023 3:32pm EST'
+
+[11463] row ''
+
+[11493] gridcell 'metaseq' required: False
+
+[12013] link 'metaseq'
+
+[11494] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[12019] link 'Simplify inheritance layers (#639)'
+
+[11495] gridcell '6 months ago' required: False
+
+[12022] time 'Feb 9, 2023 3:32pm EST'
+
+[11464] row ''
+
+[11496] gridcell 'projects' required: False
+
+[12024] link 'projects'
+
+[11497] gridcell 'Replace optiml_paper_v1.pdf with placeholder (#623)' required: False
+
+[12030] link 'Replace optiml_paper_v1.pdf with placeholder (#623)'
+
+[11498] gridcell '7 months ago' required: False
+
+[12033] time 'Feb 1, 2023 11:22pm EST'
+
+[11465] row ''
+
+[11499] gridcell 'tests' required: False
+
+[12035] link 'tests'
+
+[11500] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[12041] link 'Simplify inheritance layers (#639)'
+
+[11501] gridcell '6 months ago' required: False
+
+[12044] time 'Feb 9, 2023 3:32pm EST'
+
+[11466] row ''
+
+[11502] gridcell '.flake8' required: False
+
+[12046] link '.flake8'
+
+[11503] gridcell 'Current flake8 no longer accepts comments on config lines (#570)' required: False
+
+[12052] link 'Current flake8 no longer accepts comments on config lines (#570)'
+
+[11504] gridcell '8 months ago' required: False
+
+[12055] time 'Dec 30, 2022 1:43am EST'
+
+[11467] row ''
+
+[11505] gridcell '.gitignore' required: False
+
+[12057] link '.gitignore'
+
+[11506] gridcell 'Initial commit' required: False
+
+[12063] link 'Initial commit'
+
+[11507] gridcell '1 year ago' required: False
+
+[12066] time 'May 2, 2022 10:08pm EDT'
+
+[11468] row ''
+
+[11508] gridcell '.pre-commit-config.yaml' required: False
+
+[12068] link '.pre-commit-config.yaml'
+
+[11509] gridcell 'Initial commit' required: False
+
+[12074] link 'Initial commit'
+
+[11510] gridcell '1 year ago' required: False
+
+[12077] time 'May 2, 2022 10:08pm EDT'</pre><div>
+
+[10428] RootWebArea 'Files · main · Administrator / metaseq · GitLab' focused: True
+
+[10529] link 'Skip to content'
+
+[10654] link 'Dashboard'
+
+[10758] button '' hasPopup: menu expanded: False
+
+[10440] textbox 'Search GitLab' required: False
+
+[11586] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[10764] link 'Create new...'
+
+[10766] link 'Issues'
+
+[11106] generic '13 assigned issues'
+
+[10767] link 'Merge requests'
+
+[11108] generic '8 merge requests'
+
+[10769] link 'To-Do List'
+
+[11124] generic 'Todos count'
+
+[11607] StaticText '5'
+
+[10770] link 'Help'
+
+[10772] link 'Byte Blaze'
+
+[11158] img 'Byte Blaze'
+
+[10530] complementary 'Project navigation'
+
+[10687] listitem 'metaseq'
+
+[10774] link 'metaseq'
+
+[11199] StaticText 'M'
+
+[10775] link 'Project information'
+
+[10777] link 'Repository'
+
+[11626] link 'Files'
+
+[11627] link 'Commits'
+
+[11628] link 'Branches'
+
+[11629] link 'Tags'
+
+[11630] link 'Contributors'
+
+[11631] link 'Graph'
+
+[11632] link 'Compare'
+
+[10779] link 'Issues'
+
+[11240] StaticText '95'
+
+[10781] link 'Merge requests'
+
+[11269] StaticText '41'
+
+[10783] link 'CI/CD'
+
+[10785] link 'Deployments'
+
+[10787] link 'Packages and registries'
+
+[10789] link 'Monitor'
+
+[10791] link 'Analytics'
+
+[10793] link 'Wiki'
+
+[10795] link 'Snippets'
+
+[10646] button 'Collapse sidebar'
+
+[10534] navigation 'Breadcrumbs'
+
+[10812] link 'Administrator'
+
+[10814] link 'metaseq'
+
+[10816] link 'Repository'
+
+[10444] main ''
+
+[10728] img 'user avatar'
+
+[10732] link 'Simplify inheritance layers (#639)'
+
+[10733] button 'Toggle commit description'
+
+[10738] StaticText 'Nikolay Bashlykov authored '
+
+[10739] time 'Feb 9, 2023 3:32pm EST'
+
+[10820] StaticText '6 months ago'
+
+[10752] button 'Unverified'
+
+[10751] group ''
+
+[10823] StaticText '905f355e'
+
+[10754] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[11394] button 'main' hasPopup: menu expanded: False
+
+[10485] navigation 'Files breadcrumb'
+
+[11944] link 'metaseq'
+
+[12222] button 'Add to tree' hasPopup: menu expanded: False
+
+[10826] link 'History'
+
+[10827] link 'Find file'
+
+[10834] link 'Web IDE'
+
+[10835] button 'Download'
+
+[11401] StaticText 'Select Archive Format'
+
+[10837] link 'Clone'
+
+[10470] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[11454] row ''
+
+[11455] columnheader 'Name' required: False
+
+[11456] columnheader 'Last commit' required: False
+
+[11457] columnheader 'Last update' required: False
+
+[11458] row ''
+
+[11478] gridcell '.circleci' required: False
+
+[11958] link '.circleci'
+
+[11479] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[11964] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[11480] gridcell '7 months ago' required: False
+
+[11967] time 'Jan 14, 2023 11:19am EST'
+
+[11459] row ''
+
+[11481] gridcell '.github' required: False
+
+[11969] link '.github'
+
+[11482] gridcell 'Add flash attention (#387)' required: False
+
+[11975] link 'Add flash attention (#387)'
+
+[11483] gridcell '10 months ago' required: False
+
+[11978] time 'Nov 2, 2022 1:11pm EDT'
+
+[11460] row ''
+
+[11484] gridcell 'cpu_tests' required: False
+
+[11980] link 'cpu_tests'
+
+[11485] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[11986] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[11486] gridcell '9 months ago' required: False
+
+[11989] time 'Nov 11, 2022 11:42am EST'
+
+[11461] row ''
+
+[11487] gridcell 'docs' required: False
+
+[11991] link 'docs'
+
+[11488] gridcell 'unify IncrementalDecoder and BaseDecoder (#586)' required: False
+
+[11997] link 'unify IncrementalDecoder and BaseDecoder (#586)'
+
+[11489] gridcell '8 months ago' required: False
+
+[12000] time 'Jan 6, 2023 7:10am EST'
+
+[11462] row ''
+
+[11490] gridcell 'gpu_tests' required: False
+
+[12002] link 'gpu_tests'
+
+[11491] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[12008] link 'Simplify inheritance layers (#639)'
+
+[11492] gridcell '6 months ago' required: False
+
+[12011] time 'Feb 9, 2023 3:32pm EST'
+
+[11463] row ''
+
+[11493] gridcell 'metaseq' required: False
+
+[12013] link 'metaseq'
+
+[11494] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[12019] link 'Simplify inheritance layers (#639)'
+
+[11495] gridcell '6 months ago' required: False
+
+[12022] time 'Feb 9, 2023 3:32pm EST'
+
+[11464] row ''
+
+[11496] gridcell 'projects' required: False
+
+[12024] link 'projects'
+
+[11497] gridcell 'Replace optiml_paper_v1.pdf with placeholder (#623)' required: False
+
+[12030] link 'Replace optiml_paper_v1.pdf with placeholder (#623)'
+
+[11498] gridcell '7 months ago' required: False
+
+[12033] time 'Feb 1, 2023 11:22pm EST'
+
+[11465] row ''
+
+[11499] gridcell 'tests' required: False
+
+[12035] link 'tests'
+
+[11500] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[12041] link 'Simplify inheritance layers (#639)'
+
+[11501] gridcell '6 months ago' required: False
+
+[12044] time 'Feb 9, 2023 3:32pm EST'
+
+[11466] row ''
+
+[11502] gridcell '.flake8' required: False
+
+[12046] link '.flake8'
+
+[11503] gridcell 'Current flake8 no longer accepts comments on config lines (#570)' required: False
+
+[12052] link 'Current flake8 no longer accepts comments on config lines (#570)'
+
+[11504] gridcell '8 months ago' required: False
+
+[12055] time 'Dec 30, 2022 1:43am EST'
+
+[11467] row ''
+
+[11505] gridcell '.gitignore' required: False
+
+[12057] link '.gitignore'
+
+[11506] gridcell 'Initial commit' required: False
+
+[12063] link 'Initial commit'
+
+[11507] gridcell '1 year ago' required: False
+
+[12066] time 'May 2, 2022 10:08pm EDT'
+
+[11468] row ''
+
+[11508] gridcell '.pre-commit-config.yaml' required: False
+
+[12068] link '.pre-commit-config.yaml'
+
+[11509] gridcell 'Initial commit' required: False
+
+[12074] link 'Initial commit'
+
+[11510] gridcell '1 year ago' required: False
+
+[12077] time 'May 2, 2022 10:08pm EDT'</pre><div>
+
+[12319] RootWebArea 'Commits · main · Administrator / metaseq · GitLab' focused: True
+
+[12763] link 'Skip to content'
+
+[12889] link 'Dashboard'
+
+[12991] button '' hasPopup: menu expanded: False
+
+[12331] textbox 'Search GitLab' required: False
+
+[13911] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[12997] link 'Create new...'
+
+[12999] link 'Issues'
+
+[13292] generic '13 assigned issues'
+
+[13000] link 'Merge requests'
+
+[13294] generic '8 merge requests'
+
+[13002] link 'To-Do List'
+
+[13310] generic 'Todos count'
+
+[13932] StaticText '5'
+
+[13003] link 'Help'
+
+[13005] link 'Byte Blaze'
+
+[13344] img 'Byte Blaze'
+
+[12764] complementary 'Project navigation'
+
+[12922] listitem 'metaseq'
+
+[13007] link 'metaseq'
+
+[13385] StaticText 'M'
+
+[13008] link 'Project information'
+
+[13010] link 'Repository'
+
+[13951] link 'Files'
+
+[13952] link 'Commits'
+
+[13953] link 'Branches'
+
+[13954] link 'Tags'
+
+[13955] link 'Contributors'
+
+[13956] link 'Graph'
+
+[13957] link 'Compare'
+
+[13012] link 'Issues'
+
+[13014] link 'Merge requests'
+
+[13455] StaticText '41'
+
+[13016] link 'CI/CD'
+
+[13018] link 'Deployments'
+
+[13020] link 'Packages and registries'
+
+[13022] link 'Monitor'
+
+[13024] link 'Analytics'
+
+[13026] link 'Wiki'
+
+[13028] link 'Snippets'
+
+[12880] button 'Collapse sidebar'
+
+[12768] navigation 'Breadcrumbs'
+
+[13045] link 'Administrator'
+
+[13047] link 'metaseq'
+
+[13049] link 'Commits'
+
+[12335] main ''
+
+[13050] button 'main' hasPopup: menu expanded: False
+
+[13051] link 'metaseq'
+
+[13052] button 'Author' hasPopup: menu expanded: False
+
+[12342] searchbox 'Search by message'
+
+[12962] link 'Commits feed'
+
+[13060] StaticText '09 Feb, 2023'
+
+[13063] StaticText '3 commits'
+
+[14047] link "Nikolay Bashlykov's avatar"
+
+[14848] img "Nikolay Bashlykov's avatar"
+
+[14048] link 'Simplify inheritance layers (#639)'
+
+[14050] button 'Toggle commit description'
+
+[14055] link 'Nikolay Bashlykov'
+
+[14056] StaticText ' authored '
+
+[12615] time 'Feb 9, 2023 3:32pm EST'
+
+[14853] StaticText '6 months ago'
+
+[14067] button 'Unverified'
+
+[14854] StaticText '905f355e'
+
+[14072] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[14073] link 'Browse Files'
+
+[14074] link "Nikolay Bashlykov's avatar"
+
+[14857] img "Nikolay Bashlykov's avatar"
+
+[14075] link 'remove zero_sharding code (#645)'
+
+[14077] button 'Toggle commit description'
+
+[14082] link 'Nikolay Bashlykov'
+
+[14083] StaticText ' authored '
+
+[12618] time 'Feb 9, 2023 3:31pm EST'
+
+[14862] StaticText '6 months ago'
+
+[14094] button 'Unverified'
+
+[14863] StaticText '0431ab28'
+
+[14099] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[14100] link 'Browse Files'
+
+[14101] link "Guillaume Klein's avatar"
+
+[14866] img "Guillaume Klein's avatar"
+
+[14102] link 'Community: Add the CTranslate2 integration (#644)'
+
+[14106] link 'Guillaume Klein'
+
+[14107] StaticText ' authored '
+
+[12621] time 'Feb 9, 2023 1:50pm EST'
+
+[14868] StaticText '6 months ago'
+
+[14108] button 'Unverified'
+
+[14869] StaticText 'b7e32b6b'
+
+[14113] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[14114] link 'Browse Files'
+
+[13065] StaticText '04 Feb, 2023'
+
+[13068] StaticText '1 commit'
+
+[14115] link "Nikolay Bashlykov's avatar"
+
+[14872] img "Nikolay Bashlykov's avatar"
+
+[14116] link 'Unify-transformer_lm_megatron-and-transformer_lm (#634)'
+
+[14118] button 'Toggle commit description'
+
+[14123] link 'Nikolay Bashlykov'
+
+[14124] StaticText ' authored '
+
+[12624] time 'Feb 4, 2023 7:12am EST'
+
+[14877] StaticText '7 months ago'
+
+[14135] button 'Unverified'
+
+[14878] StaticText '51871bd7'
+
+[14140] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[14141] link 'Browse Files'
+
+[13070] StaticText '03 Feb, 2023'
+
+[13073] StaticText '3 commits'
+
+[14142] link "Binh Tang's avatar"
+
+[14881] img "Binh Tang's avatar"
+
+[14143] link 'Update CODEOWNERS (#635)'
+
+[14145] button 'Toggle commit description'
+
+[14150] link 'Binh Tang'
+
+[14151] StaticText ' authored '
+
+[12627] time 'Feb 3, 2023 4:56pm EST'
+
+[14886] StaticText '7 months ago'
+
+[14162] button 'Unverified'
+
+[14887] StaticText '5c819d7a'
+
+[14167] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[14168] link 'Browse Files'
+
+[14169] link "Susan Zhang's avatar"
+
+[14890] img "Susan Zhang's avatar"
+
+[14170] link 'update codeowners (#631)'
+
+[14174] link 'Susan Zhang'
+
+[14175] StaticText ' authored '
+
+[12630] time 'Feb 3, 2023 5:01am EST'
+
+[14892] StaticText '7 months ago'
+
+[14176] button 'Unverified'
+
+[14893] StaticText 'ac7f6a03'
+
+[14181] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[14182] link 'Browse Files'
+
+[14183] link "Nikolay Bashlykov's avatar"
+
+[14896] img "Nikolay Bashlykov's avatar"
+
+[14184] link 'Merging model_parallel with models (#626)'
+
+[14186] button 'Toggle commit description'
+
+[14191] link 'Nikolay Bashlykov'
+
+[14192] StaticText ' authored '
+
+[12633] time 'Feb 3, 2023 5:00am EST'
+
+[14901] StaticText '7 months ago'
+
+[14203] button 'Unverified'
+
+[14902] StaticText '41e70f20'
+
+[14208] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[14209] link 'Browse Files'
+
+[13075] StaticText '02 Feb, 2023'
+
+[13078] StaticText '1 commit'</pre><div>
+
+[12319] RootWebArea 'Commits · main · Administrator / metaseq · GitLab' focused: True
+
+[12763] link 'Skip to content'
+
+[12889] link 'Dashboard'
+
+[12991] button '' hasPopup: menu expanded: False
+
+[12331] textbox 'Search GitLab' required: False
+
+[13911] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[12997] link 'Create new...'
+
+[12999] link 'Issues'
+
+[13292] generic '13 assigned issues'
+
+[13000] link 'Merge requests'
+
+[13294] generic '8 merge requests'
+
+[13002] link 'To-Do List'
+
+[13310] generic 'Todos count'
+
+[13932] StaticText '5'
+
+[13003] link 'Help'
+
+[13005] link 'Byte Blaze'
+
+[13344] img 'Byte Blaze'
+
+[12764] complementary 'Project navigation'
+
+[12922] listitem 'metaseq'
+
+[13007] link 'metaseq'
+
+[13385] StaticText 'M'
+
+[13008] link 'Project information'
+
+[13010] link 'Repository'
+
+[13951] link 'Files'
+
+[13952] link 'Commits'
+
+[13953] link 'Branches'
+
+[13954] link 'Tags'
+
+[13955] link 'Contributors'
+
+[13956] link 'Graph'
+
+[13957] link 'Compare'
+
+[13012] link 'Issues'
+
+[13014] link 'Merge requests'
+
+[13455] StaticText '41'
+
+[13016] link 'CI/CD'
+
+[13018] link 'Deployments'
+
+[13020] link 'Packages and registries'
+
+[13022] link 'Monitor'
+
+[13024] link 'Analytics'
+
+[13026] link 'Wiki'
+
+[13028] link 'Snippets'
+
+[12880] button 'Collapse sidebar'
+
+[12768] navigation 'Breadcrumbs'
+
+[13045] link 'Administrator'
+
+[13047] link 'metaseq'
+
+[13049] link 'Commits'
+
+[12335] main ''
+
+[13050] button 'main' hasPopup: menu expanded: False
+
+[13051] link 'metaseq'
+
+[13052] button 'Author' hasPopup: menu expanded: False
+
+[12342] searchbox 'Search by message'
+
+[12962] link 'Commits feed'
+
+[13060] StaticText '09 Feb, 2023'
+
+[13063] StaticText '3 commits'
+
+[14047] link "Nikolay Bashlykov's avatar"
+
+[14848] img "Nikolay Bashlykov's avatar"
+
+[14048] link 'Simplify inheritance layers (#639)'
+
+[14050] button 'Toggle commit description'
+
+[14055] link 'Nikolay Bashlykov'
+
+[14056] StaticText ' authored '
+
+[12615] time 'Feb 9, 2023 3:32pm EST'
+
+[14853] StaticText '6 months ago'
+
+[14067] button 'Unverified'
+
+[14854] StaticText '905f355e'
+
+[14072] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[14073] link 'Browse Files'
+
+[14074] link "Nikolay Bashlykov's avatar"
+
+[14857] img "Nikolay Bashlykov's avatar"
+
+[14075] link 'remove zero_sharding code (#645)'
+
+[14077] button 'Toggle commit description'
+
+[14082] link 'Nikolay Bashlykov'
+
+[14083] StaticText ' authored '
+
+[12618] time 'Feb 9, 2023 3:31pm EST'
+
+[14862] StaticText '6 months ago'
+
+[14094] button 'Unverified'
+
+[14863] StaticText '0431ab28'
+
+[14099] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[14100] link 'Browse Files'
+
+[14101] link "Guillaume Klein's avatar"
+
+[14866] img "Guillaume Klein's avatar"
+
+[14102] link 'Community: Add the CTranslate2 integration (#644)'
+
+[14106] link 'Guillaume Klein'
+
+[14107] StaticText ' authored '
+
+[12621] time 'Feb 9, 2023 1:50pm EST'
+
+[14868] StaticText '6 months ago'
+
+[14108] button 'Unverified'
+
+[14869] StaticText 'b7e32b6b'
+
+[14113] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[14114] link 'Browse Files'
+
+[13065] StaticText '04 Feb, 2023'
+
+[13068] StaticText '1 commit'
+
+[14115] link "Nikolay Bashlykov's avatar"
+
+[14872] img "Nikolay Bashlykov's avatar"
+
+[14116] link 'Unify-transformer_lm_megatron-and-transformer_lm (#634)'
+
+[14118] button 'Toggle commit description'
+
+[14123] link 'Nikolay Bashlykov'
+
+[14124] StaticText ' authored '
+
+[12624] time 'Feb 4, 2023 7:12am EST'
+
+[14877] StaticText '7 months ago'
+
+[14135] button 'Unverified'
+
+[14878] StaticText '51871bd7'
+
+[14140] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[14141] link 'Browse Files'
+
+[13070] StaticText '03 Feb, 2023'
+
+[13073] StaticText '3 commits'
+
+[14142] link "Binh Tang's avatar"
+
+[14881] img "Binh Tang's avatar"
+
+[14143] link 'Update CODEOWNERS (#635)'
+
+[14145] button 'Toggle commit description'
+
+[14150] link 'Binh Tang'
+
+[14151] StaticText ' authored '
+
+[12627] time 'Feb 3, 2023 4:56pm EST'
+
+[14886] StaticText '7 months ago'
+
+[14162] button 'Unverified'
+
+[14887] StaticText '5c819d7a'
+
+[14167] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[14168] link 'Browse Files'
+
+[14169] link "Susan Zhang's avatar"
+
+[14890] img "Susan Zhang's avatar"
+
+[14170] link 'update codeowners (#631)'
+
+[14174] link 'Susan Zhang'
+
+[14175] StaticText ' authored '
+
+[12630] time 'Feb 3, 2023 5:01am EST'
+
+[14892] StaticText '7 months ago'
+
+[14176] button 'Unverified'
+
+[14893] StaticText 'ac7f6a03'
+
+[14181] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[14182] link 'Browse Files'
+
+[14183] link "Nikolay Bashlykov's avatar"
+
+[14896] img "Nikolay Bashlykov's avatar"
+
+[14184] link 'Merging model_parallel with models (#626)'
+
+[14186] button 'Toggle commit description'
+
+[14191] link 'Nikolay Bashlykov'
+
+[14192] StaticText ' authored '
+
+[12633] time 'Feb 3, 2023 5:00am EST'
+
+[14901] StaticText '7 months ago'
+
+[14203] button 'Unverified'
+
+[14902] StaticText '41e70f20'
+
+[14208] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[14209] link 'Browse Files'
+
+[13075] StaticText '02 Feb, 2023'
+
+[13078] StaticText '1 commit'</pre><div>
+
+[15394] RootWebArea 'Files · main · Administrator / metaseq · GitLab' focused: True
+
+[15495] link 'Skip to content'
+
+[15620] link 'Dashboard'
+
+[15724] button '' hasPopup: menu expanded: False
+
+[15406] textbox 'Search GitLab' required: False
+
+[16552] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[15730] link 'Create new...'
+
+[15732] link 'Issues'
+
+[16072] generic '13 assigned issues'
+
+[15733] link 'Merge requests'
+
+[16074] generic '8 merge requests'
+
+[15735] link 'To-Do List'
+
+[16090] generic 'Todos count'
+
+[15736] link 'Help'
+
+[15738] link 'Byte Blaze'
+
+[16124] img 'Byte Blaze'
+
+[15496] complementary 'Project navigation'
+
+[15653] listitem 'metaseq'
+
+[15740] link 'metaseq'
+
+[16165] StaticText 'M'
+
+[15741] link 'Project information'
+
+[15743] link 'Repository'
+
+[16592] link 'Files'
+
+[16593] link 'Commits'
+
+[16594] link 'Branches'
+
+[16595] link 'Tags'
+
+[16596] link 'Contributors'
+
+[16597] link 'Graph'
+
+[16598] link 'Compare'
+
+[15745] link 'Issues'
+
+[16206] StaticText '95'
+
+[15747] link 'Merge requests'
+
+[16235] StaticText '41'
+
+[15749] link 'CI/CD'
+
+[15751] link 'Deployments'
+
+[15753] link 'Packages and registries'
+
+[15755] link 'Monitor'
+
+[15757] link 'Analytics'
+
+[15759] link 'Wiki'
+
+[15761] link 'Snippets'
+
+[15612] button 'Collapse sidebar'
+
+[15500] navigation 'Breadcrumbs'
+
+[15778] link 'Administrator'
+
+[15780] link 'metaseq'
+
+[15782] link 'Repository'
+
+[15410] main ''
+
+[15694] img 'user avatar'
+
+[15698] link 'Simplify inheritance layers (#639)'
+
+[15699] button 'Toggle commit description'
+
+[15704] StaticText 'Nikolay Bashlykov authored '
+
+[15705] time 'Feb 9, 2023 3:32pm EST'
+
+[15786] StaticText '6 months ago'
+
+[15718] button 'Unverified'
+
+[15717] group ''
+
+[15789] StaticText '905f355e'
+
+[15720] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[16360] button 'main' hasPopup: menu expanded: False
+
+[15451] navigation 'Files breadcrumb'
+
+[16910] link 'metaseq'
+
+[17188] button 'Add to tree' hasPopup: menu expanded: False
+
+[15792] link 'History'
+
+[15793] link 'Find file'
+
+[15800] link 'Web IDE'
+
+[15801] button 'Download'
+
+[16367] StaticText 'Select Archive Format'
+
+[15803] link 'Clone'
+
+[15436] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[16420] row ''
+
+[16421] columnheader 'Name' required: False
+
+[16422] columnheader 'Last commit' required: False
+
+[16423] columnheader 'Last update' required: False
+
+[16424] row ''
+
+[16444] gridcell '.circleci' required: False
+
+[16924] link '.circleci'
+
+[16445] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[16930] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[16446] gridcell '7 months ago' required: False
+
+[16933] time 'Jan 14, 2023 11:19am EST'
+
+[16425] row ''
+
+[16447] gridcell '.github' required: False
+
+[16935] link '.github'
+
+[16448] gridcell 'Add flash attention (#387)' required: False
+
+[16941] link 'Add flash attention (#387)'
+
+[16449] gridcell '10 months ago' required: False
+
+[16944] time 'Nov 2, 2022 1:11pm EDT'
+
+[16426] row ''
+
+[16450] gridcell 'cpu_tests' required: False
+
+[16946] link 'cpu_tests'
+
+[16451] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[16952] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[16452] gridcell '9 months ago' required: False
+
+[16955] time 'Nov 11, 2022 11:42am EST'
+
+[16427] row ''
+
+[16453] gridcell 'docs' required: False
+
+[16957] link 'docs'
+
+[16454] gridcell 'unify IncrementalDecoder and BaseDecoder (#586)' required: False
+
+[16963] link 'unify IncrementalDecoder and BaseDecoder (#586)'
+
+[16455] gridcell '8 months ago' required: False
+
+[16966] time 'Jan 6, 2023 7:10am EST'
+
+[16428] row ''
+
+[16456] gridcell 'gpu_tests' required: False
+
+[16968] link 'gpu_tests'
+
+[16457] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[16974] link 'Simplify inheritance layers (#639)'
+
+[16458] gridcell '6 months ago' required: False
+
+[16977] time 'Feb 9, 2023 3:32pm EST'
+
+[16429] row ''
+
+[16459] gridcell 'metaseq' required: False
+
+[16979] link 'metaseq'
+
+[16460] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[16985] link 'Simplify inheritance layers (#639)'
+
+[16461] gridcell '6 months ago' required: False
+
+[16988] time 'Feb 9, 2023 3:32pm EST'
+
+[16430] row ''
+
+[16462] gridcell 'projects' required: False
+
+[16990] link 'projects'
+
+[16463] gridcell 'Replace optiml_paper_v1.pdf with placeholder (#623)' required: False
+
+[16996] link 'Replace optiml_paper_v1.pdf with placeholder (#623)'
+
+[16464] gridcell '7 months ago' required: False
+
+[16999] time 'Feb 1, 2023 11:22pm EST'
+
+[16431] row ''
+
+[16465] gridcell 'tests' required: False
+
+[17001] link 'tests'
+
+[16466] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[17007] link 'Simplify inheritance layers (#639)'
+
+[16467] gridcell '6 months ago' required: False
+
+[17010] time 'Feb 9, 2023 3:32pm EST'
+
+[16432] row ''
+
+[16468] gridcell '.flake8' required: False
+
+[17012] link '.flake8'
+
+[16469] gridcell 'Current flake8 no longer accepts comments on config lines (#570)' required: False
+
+[17018] link 'Current flake8 no longer accepts comments on config lines (#570)'
+
+[16470] gridcell '8 months ago' required: False
+
+[17021] time 'Dec 30, 2022 1:43am EST'
+
+[16433] row ''
+
+[16471] gridcell '.gitignore' required: False
+
+[17023] link '.gitignore'
+
+[16472] gridcell 'Initial commit' required: False
+
+[17029] link 'Initial commit'
+
+[16473] gridcell '1 year ago' required: False
+
+[17032] time 'May 2, 2022 10:08pm EDT'
+
+[16434] row ''
+
+[16474] gridcell '.pre-commit-config.yaml' required: False
+
+[17034] link '.pre-commit-config.yaml'
+
+[16475] gridcell 'Initial commit' required: False
+
+[17040] link 'Initial commit'
+
+[16476] gridcell '1 year ago' required: False
+
+[17043] time 'May 2, 2022 10:08pm EDT'</pre><div>
+
+[15803]. I will click on this link to see the command. In summary, the next action I will perform is ```click [15803]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '15803', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The previous action was go_back, which means I am on the previous page. The objective is to show the command to clone metaseq with SSH. Based on the observation, I can see that the clone command is usually located in the "Clone" link. In this case, the "Clone" link is located at [15803]. I will click on this link to see the command. In summary, the next action I will perform is ```click [15803]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [15803] where [15803] is [15803] link 'Clone'</pre></div></div>
+
+[15394] RootWebArea 'Files · main · Administrator / metaseq · GitLab' focused: True
+
+[15495] link 'Skip to content'
+
+[15620] link 'Dashboard'
+
+[15724] button '' hasPopup: menu expanded: False
+
+[15406] textbox 'Search GitLab' required: False
+
+[16552] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[15730] link 'Create new...'
+
+[15732] link 'Issues'
+
+[16072] generic '13 assigned issues'
+
+[15733] link 'Merge requests'
+
+[16074] generic '8 merge requests'
+
+[15735] link 'To-Do List'
+
+[16090] generic 'Todos count'
+
+[15736] link 'Help'
+
+[15738] link 'Byte Blaze'
+
+[16124] img 'Byte Blaze'
+
+[15496] complementary 'Project navigation'
+
+[15653] listitem 'metaseq'
+
+[15740] link 'metaseq'
+
+[16165] StaticText 'M'
+
+[15741] link 'Project information'
+
+[15743] link 'Repository'
+
+[16592] link 'Files'
+
+[16593] link 'Commits'
+
+[16594] link 'Branches'
+
+[16595] link 'Tags'
+
+[16596] link 'Contributors'
+
+[16597] link 'Graph'
+
+[16598] link 'Compare'
+
+[15745] link 'Issues'
+
+[16206] StaticText '95'
+
+[15747] link 'Merge requests'
+
+[16235] StaticText '41'
+
+[15749] link 'CI/CD'
+
+[15751] link 'Deployments'
+
+[15753] link 'Packages and registries'
+
+[15755] link 'Monitor'
+
+[15757] link 'Analytics'
+
+[15759] link 'Wiki'
+
+[15761] link 'Snippets'
+
+[15612] button 'Collapse sidebar'
+
+[15500] navigation 'Breadcrumbs'
+
+[15778] link 'Administrator'
+
+[15780] link 'metaseq'
+
+[15782] link 'Repository'
+
+[15410] main ''
+
+[15694] img 'user avatar'
+
+[15698] link 'Simplify inheritance layers (#639)'
+
+[15699] button 'Toggle commit description'
+
+[15704] StaticText 'Nikolay Bashlykov authored '
+
+[15705] time 'Feb 9, 2023 3:32pm EST'
+
+[15786] StaticText '6 months ago'
+
+[15718] button 'Unverified'
+
+[15717] group ''
+
+[15789] StaticText '905f355e'
+
+[15720] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[16360] button 'main' hasPopup: menu expanded: False
+
+[15451] navigation 'Files breadcrumb'
+
+[16910] link 'metaseq'
+
+[17188] button 'Add to tree' hasPopup: menu expanded: False
+
+[15792] link 'History'
+
+[15793] link 'Find file'
+
+[15800] link 'Web IDE'
+
+[15801] button 'Download'
+
+[16367] StaticText 'Select Archive Format'
+
+[15803] link 'Clone' focused: True expanded: True
+
+[17322] StaticText 'Clone with SSH'
+
+[17297] textbox 'Repository clone URL' required: False
+
+[17319] StaticText 'ssh://git@metis.lti.cs.cmu.edu:2222/root/metaseq.git'
+
+[17327] button 'Copy URL' live: polite atomic: False relevant: additions text
+
+[17293] StaticText 'Clone with HTTP'
+
+[17311] textbox 'Repository clone URL' required: False
+
+[17304] StaticText 'http://metis.lti.cs.cmu.edu:8023/root/metaseq.git'
+
+[17298] button 'Copy URL' live: polite atomic: False relevant: additions text
+
+[17312] StaticText 'Open in your IDE'
+
+[17316] link 'Visual Studio Code (SSH)'
+
+[17309] link 'Visual Studio Code (HTTPS)'
+
+[17290] link 'IntelliJ IDEA (SSH)'
+
+[17303] link 'IntelliJ IDEA (HTTPS)'
+
+[15436] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[16420] row ''
+
+[16421] columnheader 'Name' required: False
+
+[16422] columnheader 'Last commit' required: False
+
+[16423] columnheader 'Last update' required: False
+
+[16424] row ''
+
+[16444] gridcell '.circleci' required: False
+
+[16924] link '.circleci'
+
+[16445] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[16930] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[16446] gridcell '7 months ago' required: False
+
+[16933] time 'Jan 14, 2023 11:19am EST'
+
+[16425] row ''
+
+[16447] gridcell '.github' required: False
+
+[16935] link '.github'
+
+[16448] gridcell 'Add flash attention (#387)' required: False
+
+[16941] link 'Add flash attention (#387)'
+
+[16449] gridcell '10 months ago' required: False
+
+[16944] time 'Nov 2, 2022 1:11pm EDT'
+
+[16426] row ''
+
+[16450] gridcell 'cpu_tests' required: False
+
+[16946] link 'cpu_tests'
+
+[16451] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[16952] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[16452] gridcell '9 months ago' required: False
+
+[16955] time 'Nov 11, 2022 11:42am EST'
+
+[16427] row ''
+
+[16453] gridcell 'docs' required: False
+
+[16957] link 'docs'
+
+[16454] gridcell 'unify IncrementalDecoder and BaseDecoder (#586)' required: False
+
+[16963] link 'unify IncrementalDecoder and BaseDecoder (#586)'
+
+[16455] gridcell '8 months ago' required: False
+
+[16966] time 'Jan 6, 2023 7:10am EST'
+
+[16428] row ''
+
+[16456] gridcell 'gpu_tests' required: False
+
+[16968] link 'gpu_tests'
+
+[16457] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[16974] link 'Simplify inheritance layers (#639)'
+
+[16458] gridcell '6 months ago' required: False
+
+[16977] time 'Feb 9, 2023 3:32pm EST'
+
+[16429] row ''
+
+[16459] gridcell 'metaseq' required: False
+
+[16979] link 'metaseq'
+
+[16460] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[16985] link 'Simplify inheritance layers (#639)'
+
+[16461] gridcell '6 months ago' required: False
+
+[16988] time 'Feb 9, 2023 3:32pm EST'
+
+[16430] row ''
+
+[16462] gridcell 'projects' required: False
+
+[16990] link 'projects'
+
+[16463] gridcell 'Replace optiml_paper_v1.pdf with placeholder (#623)' required: False
+
+[16996] link 'Replace optiml_paper_v1.pdf with placeholder (#623)'
+
+[16464] gridcell '7 months ago' required: False
+
+[16999] time 'Feb 1, 2023 11:22pm EST'
+
+[16431] row ''
+
+[16465] gridcell 'tests' required: False
+
+[17001] link 'tests'
+
+[16466] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[17007] link 'Simplify inheritance layers (#639)'
+
+[16467] gridcell '6 months ago' required: False
+
+[17010] time 'Feb 9, 2023 3:32pm EST'
+
+[16432] row ''
+
+[16468] gridcell '.flake8' required: False
+
+[17012] link '.flake8'
+
+[16469] gridcell 'Current flake8 no longer accepts comments on config lines (#570)' required: False
+
+[17018] link 'Current flake8 no longer accepts comments on config lines (#570)'
+
+[16470] gridcell '8 months ago' required: False
+
+[17021] time 'Dec 30, 2022 1:43am EST'
+
+[16433] row ''
+
+[16471] gridcell '.gitignore' required: False
+
+[17023] link '.gitignore'
+
+[16472] gridcell 'Initial commit' required: False
+
+[17029] link 'Initial commit'
+
+[16473] gridcell '1 year ago' required: False
+
+[17032] time 'May 2, 2022 10:08pm EDT'
+
+[16434] row ''
+
+[16474] gridcell '.pre-commit-config.yaml' required: False
+
+[17034] link '.pre-commit-config.yaml'
+
+[16475] gridcell 'Initial commit' required: False
+
+[17040] link 'Initial commit'
+
+[16476] gridcell '1 year ago' required: False
+
+[17043] time 'May 2, 2022 10:08pm EDT'</pre><div>
+
+[15803] where [15803] is link 'Clone'</div>
+
+[15803]. In summary, the next action I will perform is `click [15803]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to find the command to clone the "metaseq" repository with SSH. On the current page, I see a link with the text "Clone" that I can click to reveal the cloning options. I will perform the click action on the link with the ID [15803]. In summary, the next action I will perform is `click [15803]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[15394] RootWebArea 'Files · main · Administrator / metaseq · GitLab' focused: True
+
+[15495] link 'Skip to content'
+
+[15620] link 'Dashboard'
+
+[15724] button '' hasPopup: menu expanded: False
+
+[15406] textbox 'Search GitLab' required: False
+
+[16552] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[15730] link 'Create new...'
+
+[15732] link 'Issues'
+
+[16072] generic '13 assigned issues'
+
+[15733] link 'Merge requests'
+
+[16074] generic '8 merge requests'
+
+[15735] link 'To-Do List'
+
+[16090] generic 'Todos count'
+
+[15736] link 'Help'
+
+[15738] link 'Byte Blaze'
+
+[16124] img 'Byte Blaze'
+
+[15496] complementary 'Project navigation'
+
+[15653] listitem 'metaseq'
+
+[15740] link 'metaseq'
+
+[16165] StaticText 'M'
+
+[15741] link 'Project information'
+
+[15743] link 'Repository'
+
+[16592] link 'Files'
+
+[16593] link 'Commits'
+
+[16594] link 'Branches'
+
+[16595] link 'Tags'
+
+[16596] link 'Contributors'
+
+[16597] link 'Graph'
+
+[16598] link 'Compare'
+
+[15745] link 'Issues'
+
+[16206] StaticText '95'
+
+[15747] link 'Merge requests'
+
+[16235] StaticText '41'
+
+[15749] link 'CI/CD'
+
+[15751] link 'Deployments'
+
+[15753] link 'Packages and registries'
+
+[15755] link 'Monitor'
+
+[15757] link 'Analytics'
+
+[15759] link 'Wiki'
+
+[15761] link 'Snippets'
+
+[15612] button 'Collapse sidebar'
+
+[15500] navigation 'Breadcrumbs'
+
+[15778] link 'Administrator'
+
+[15780] link 'metaseq'
+
+[15782] link 'Repository'
+
+[15410] main ''
+
+[15694] img 'user avatar'
+
+[15698] link 'Simplify inheritance layers (#639)'
+
+[15699] button 'Toggle commit description'
+
+[15704] StaticText 'Nikolay Bashlykov authored '
+
+[15705] time 'Feb 9, 2023 3:32pm EST'
+
+[15786] StaticText '6 months ago'
+
+[15718] button 'Unverified'
+
+[15717] group ''
+
+[15789] StaticText '905f355e'
+
+[15720] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[16360] button 'main' hasPopup: menu expanded: False
+
+[15451] navigation 'Files breadcrumb'
+
+[16910] link 'metaseq'
+
+[17188] button 'Add to tree' hasPopup: menu expanded: False
+
+[15792] link 'History'
+
+[15793] link 'Find file'
+
+[15800] link 'Web IDE'
+
+[15801] button 'Download'
+
+[16367] StaticText 'Select Archive Format'
+
+[15803] link 'Clone' focused: True expanded: True
+
+[17322] StaticText 'Clone with SSH'
+
+[17297] textbox 'Repository clone URL' required: False
+
+[17319] StaticText 'ssh://git@metis.lti.cs.cmu.edu:2222/root/metaseq.git'
+
+[17327] button 'Copy URL' live: polite atomic: False relevant: additions text
+
+[17293] StaticText 'Clone with HTTP'
+
+[17311] textbox 'Repository clone URL' required: False
+
+[17304] StaticText 'http://metis.lti.cs.cmu.edu:8023/root/metaseq.git'
+
+[17298] button 'Copy URL' live: polite atomic: False relevant: additions text
+
+[17312] StaticText 'Open in your IDE'
+
+[17316] link 'Visual Studio Code (SSH)'
+
+[17309] link 'Visual Studio Code (HTTPS)'
+
+[17290] link 'IntelliJ IDEA (SSH)'
+
+[17303] link 'IntelliJ IDEA (HTTPS)'
+
+[15436] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[16420] row ''
+
+[16421] columnheader 'Name' required: False
+
+[16422] columnheader 'Last commit' required: False
+
+[16423] columnheader 'Last update' required: False
+
+[16424] row ''
+
+[16444] gridcell '.circleci' required: False
+
+[16924] link '.circleci'
+
+[16445] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[16930] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[16446] gridcell '7 months ago' required: False
+
+[16933] time 'Jan 14, 2023 11:19am EST'
+
+[16425] row ''
+
+[16447] gridcell '.github' required: False
+
+[16935] link '.github'
+
+[16448] gridcell 'Add flash attention (#387)' required: False
+
+[16941] link 'Add flash attention (#387)'
+
+[16449] gridcell '10 months ago' required: False
+
+[16944] time 'Nov 2, 2022 1:11pm EDT'
+
+[16426] row ''
+
+[16450] gridcell 'cpu_tests' required: False
+
+[16946] link 'cpu_tests'
+
+[16451] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[16952] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[16452] gridcell '9 months ago' required: False
+
+[16955] time 'Nov 11, 2022 11:42am EST'
+
+[16427] row ''
+
+[16453] gridcell 'docs' required: False
+
+[16957] link 'docs'
+
+[16454] gridcell 'unify IncrementalDecoder and BaseDecoder (#586)' required: False
+
+[16963] link 'unify IncrementalDecoder and BaseDecoder (#586)'
+
+[16455] gridcell '8 months ago' required: False
+
+[16966] time 'Jan 6, 2023 7:10am EST'
+
+[16428] row ''
+
+[16456] gridcell 'gpu_tests' required: False
+
+[16968] link 'gpu_tests'
+
+[16457] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[16974] link 'Simplify inheritance layers (#639)'
+
+[16458] gridcell '6 months ago' required: False
+
+[16977] time 'Feb 9, 2023 3:32pm EST'
+
+[16429] row ''
+
+[16459] gridcell 'metaseq' required: False
+
+[16979] link 'metaseq'
+
+[16460] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[16985] link 'Simplify inheritance layers (#639)'
+
+[16461] gridcell '6 months ago' required: False
+
+[16988] time 'Feb 9, 2023 3:32pm EST'
+
+[16430] row ''
+
+[16462] gridcell 'projects' required: False
+
+[16990] link 'projects'
+
+[16463] gridcell 'Replace optiml_paper_v1.pdf with placeholder (#623)' required: False
+
+[16996] link 'Replace optiml_paper_v1.pdf with placeholder (#623)'
+
+[16464] gridcell '7 months ago' required: False
+
+[16999] time 'Feb 1, 2023 11:22pm EST'
+
+[16431] row ''
+
+[16465] gridcell 'tests' required: False
+
+[17001] link 'tests'
+
+[16466] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[17007] link 'Simplify inheritance layers (#639)'
+
+[16467] gridcell '6 months ago' required: False
+
+[17010] time 'Feb 9, 2023 3:32pm EST'
+
+[16432] row ''
+
+[16468] gridcell '.flake8' required: False
+
+[17012] link '.flake8'
+
+[16469] gridcell 'Current flake8 no longer accepts comments on config lines (#570)' required: False
+
+[17018] link 'Current flake8 no longer accepts comments on config lines (#570)'
+
+[16470] gridcell '8 months ago' required: False
+
+[17021] time 'Dec 30, 2022 1:43am EST'
+
+[16433] row ''
+
+[16471] gridcell '.gitignore' required: False
+
+[17023] link '.gitignore'
+
+[16472] gridcell 'Initial commit' required: False
+
+[17029] link 'Initial commit'
+
+[16473] gridcell '1 year ago' required: False
+
+[17032] time 'May 2, 2022 10:08pm EDT'
+
+[16434] row ''
+
+[16474] gridcell '.pre-commit-config.yaml' required: False
+
+[17034] link '.pre-commit-config.yaml'
+
+[16475] gridcell 'Initial commit' required: False
+
+[17040] link 'Initial commit'
+
+[16476] gridcell '1 year ago' required: False
+
+[17043] time 'May 2, 2022 10:08pm EDT'</pre><div>
+
+[15803]. In summary, the next action I will perform is `click [15803]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[15803]. In summary, the next action I will perform is ```click [15803]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '15803', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to find the command to clone the "metaseq" repository with SSH. On the current page, I see a link with the text "Clone" that I can click to reveal the cloning options. I will perform the click action on the link with the ID [15803]. In summary, the next action I will perform is ```click [15803]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [15803] where [15803] is [15803] link 'Clone' focused: True expanded: True</pre></div></div>
+
+[15394] RootWebArea 'Files · main · Administrator / metaseq · GitLab' focused: True
+
+[15495] link 'Skip to content'
+
+[15620] link 'Dashboard'
+
+[15724] button '' hasPopup: menu expanded: False
+
+[15406] textbox 'Search GitLab' required: False
+
+[16552] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[15730] link 'Create new...'
+
+[15732] link 'Issues'
+
+[16072] generic '13 assigned issues'
+
+[15733] link 'Merge requests'
+
+[16074] generic '8 merge requests'
+
+[15735] link 'To-Do List'
+
+[16090] generic 'Todos count'
+
+[15736] link 'Help'
+
+[15738] link 'Byte Blaze'
+
+[16124] img 'Byte Blaze'
+
+[15496] complementary 'Project navigation'
+
+[15653] listitem 'metaseq'
+
+[15740] link 'metaseq'
+
+[16165] StaticText 'M'
+
+[15741] link 'Project information'
+
+[15743] link 'Repository'
+
+[16592] link 'Files'
+
+[16593] link 'Commits'
+
+[16594] link 'Branches'
+
+[16595] link 'Tags'
+
+[16596] link 'Contributors'
+
+[16597] link 'Graph'
+
+[16598] link 'Compare'
+
+[15745] link 'Issues'
+
+[16206] StaticText '95'
+
+[15747] link 'Merge requests'
+
+[16235] StaticText '41'
+
+[15749] link 'CI/CD'
+
+[15751] link 'Deployments'
+
+[15753] link 'Packages and registries'
+
+[15755] link 'Monitor'
+
+[15757] link 'Analytics'
+
+[15759] link 'Wiki'
+
+[15761] link 'Snippets'
+
+[15612] button 'Collapse sidebar'
+
+[15500] navigation 'Breadcrumbs'
+
+[15778] link 'Administrator'
+
+[15780] link 'metaseq'
+
+[15782] link 'Repository'
+
+[15410] main ''
+
+[15694] img 'user avatar'
+
+[15698] link 'Simplify inheritance layers (#639)'
+
+[15699] button 'Toggle commit description'
+
+[15704] StaticText 'Nikolay Bashlykov authored '
+
+[15705] time 'Feb 9, 2023 3:32pm EST'
+
+[15786] StaticText '6 months ago'
+
+[15718] button 'Unverified'
+
+[15717] group ''
+
+[15789] StaticText '905f355e'
+
+[15720] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[16360] button 'main' hasPopup: menu expanded: False
+
+[15451] navigation 'Files breadcrumb'
+
+[16910] link 'metaseq'
+
+[17188] button 'Add to tree' hasPopup: menu expanded: False
+
+[15792] link 'History'
+
+[15793] link 'Find file'
+
+[15800] link 'Web IDE'
+
+[15801] button 'Download'
+
+[16367] StaticText 'Select Archive Format'
+
+[15803] link 'Clone' focused: True expanded: False
+
+[15436] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[16420] row ''
+
+[16421] columnheader 'Name' required: False
+
+[16422] columnheader 'Last commit' required: False
+
+[16423] columnheader 'Last update' required: False
+
+[16424] row ''
+
+[16444] gridcell '.circleci' required: False
+
+[16924] link '.circleci'
+
+[16445] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+
+[16930] link 'Added test for model-parallel mp1 and mp2 (#597)'
+
+[16446] gridcell '7 months ago' required: False
+
+[16933] time 'Jan 14, 2023 11:19am EST'
+
+[16425] row ''
+
+[16447] gridcell '.github' required: False
+
+[16935] link '.github'
+
+[16448] gridcell 'Add flash attention (#387)' required: False
+
+[16941] link 'Add flash attention (#387)'
+
+[16449] gridcell '10 months ago' required: False
+
+[16944] time 'Nov 2, 2022 1:11pm EDT'
+
+[16426] row ''
+
+[16450] gridcell 'cpu_tests' required: False
+
+[16946] link 'cpu_tests'
+
+[16451] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+
+[16952] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+
+[16452] gridcell '9 months ago' required: False
+
+[16955] time 'Nov 11, 2022 11:42am EST'
+
+[16427] row ''
+
+[16453] gridcell 'docs' required: False
+
+[16957] link 'docs'
+
+[16454] gridcell 'unify IncrementalDecoder and BaseDecoder (#586)' required: False
+
+[16963] link 'unify IncrementalDecoder and BaseDecoder (#586)'
+
+[16455] gridcell '8 months ago' required: False
+
+[16966] time 'Jan 6, 2023 7:10am EST'
+
+[16428] row ''
+
+[16456] gridcell 'gpu_tests' required: False
+
+[16968] link 'gpu_tests'
+
+[16457] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[16974] link 'Simplify inheritance layers (#639)'
+
+[16458] gridcell '6 months ago' required: False
+
+[16977] time 'Feb 9, 2023 3:32pm EST'
+
+[16429] row ''
+
+[16459] gridcell 'metaseq' required: False
+
+[16979] link 'metaseq'
+
+[16460] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[16985] link 'Simplify inheritance layers (#639)'
+
+[16461] gridcell '6 months ago' required: False
+
+[16988] time 'Feb 9, 2023 3:32pm EST'
+
+[16430] row ''
+
+[16462] gridcell 'projects' required: False
+
+[16990] link 'projects'
+
+[16463] gridcell 'Replace optiml_paper_v1.pdf with placeholder (#623)' required: False
+
+[16996] link 'Replace optiml_paper_v1.pdf with placeholder (#623)'
+
+[16464] gridcell '7 months ago' required: False
+
+[16999] time 'Feb 1, 2023 11:22pm EST'
+
+[16431] row ''
+
+[16465] gridcell 'tests' required: False
+
+[17001] link 'tests'
+
+[16466] gridcell 'Simplify inheritance layers (#639)' required: False
+
+[17007] link 'Simplify inheritance layers (#639)'
+
+[16467] gridcell '6 months ago' required: False
+
+[17010] time 'Feb 9, 2023 3:32pm EST'
+
+[16432] row ''
+
+[16468] gridcell '.flake8' required: False
+
+[17012] link '.flake8'
+
+[16469] gridcell 'Current flake8 no longer accepts comments on config lines (#570)' required: False
+
+[17018] link 'Current flake8 no longer accepts comments on config lines (#570)'
+
+[16470] gridcell '8 months ago' required: False
+
+[17021] time 'Dec 30, 2022 1:43am EST'
+
+[16433] row ''
+
+[16471] gridcell '.gitignore' required: False
+
+[17023] link '.gitignore'
+
+[16472] gridcell 'Initial commit' required: False
+
+[17029] link 'Initial commit'
+
+[16473] gridcell '1 year ago' required: False
+
+[17032] time 'May 2, 2022 10:08pm EDT'
+
+[16434] row ''
+
+[16474] gridcell '.pre-commit-config.yaml' required: False
+
+[17034] link '.pre-commit-config.yaml'
+
+[16475] gridcell 'Initial commit' required: False
+
+[17040] link 'Initial commit'
+
+[16476] gridcell '1 year ago' required: False
+
+[17043] time 'May 2, 2022 10:08pm EDT'</pre><div>
+
+[15803] where [15803] is link 'Clone' focused: True expanded: True</div>
+

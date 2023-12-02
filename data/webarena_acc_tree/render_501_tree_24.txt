@@ -1,0 +1,78 @@
+Tab 0 (current): Products / Inventory / Catalog / Magento Admin
+
+[1356] RootWebArea 'Products / Inventory / Catalog / Magento Admin' focused: True
+	[1772] link 'Magento Admin Panel'
+		[1940] img 'Magento Admin Panel'
+	[1368] menubar '' orientation: horizontal
+		[1370] link '\ue604 DASHBOARD'
+		[1374] link '\ue60b SALES'
+		[1378] link '\ue608 CATALOG'
+		[1382] link '\ue603 CUSTOMERS'
+		[1386] link '\ue609 MARKETING'
+		[1390] link '\ue602 CONTENT'
+		[1394] link '\ue60a REPORTS'
+		[1398] link '\ue60d STORES'
+		[1402] link '\ue610 SYSTEM'
+		[1406] link '\ue612 FIND PARTNERS & EXTENSIONS'
+	[2612] button 'System Messages: 2'
+	[2663] StaticText 'One or more of the Cache Types are invalidated: Page Cache, Layouts. Please go to '
+	[2664] link 'Cache Management'
+	[2665] StaticText ' and refresh cache types.'
+	[1983] heading 'Products'
+	[1985] link '\ue600 admin'
+	[1987] link '\ue607'
+	[1411] textbox '\ue60c' required: False
+	[1412] main ''
+		[1958] generic 'Add Product'
+			[1959] button 'Add Product'
+			[1960] button 'Add product of type'
+		[3113] button '\ue60fDefault View'
+		[3114] button '\ue610 Columns'
+		[2677] button '\ue605Filters'
+		[2675] LayoutTable ''
+			[3120] StaticText 'Active filters:'
+			[3254] StaticText 'Keyword:'
+			[3256] StaticText 'Antonia Racer TankTaurus ElSybil running shortblue Cronus yoga pants with size 33Diana TightsDiana TightsMinerva LumaTech V-TeeMinerva LumaTech V-TeeAeno capriGobi HeatTec TeeTaurus Elements Shellements Shell'
+			[3257] button '\ue620'
+			[3123] button 'Clear all'
+		[1429] textbox 'Search by keyword' required: False
+			[3259] StaticText 'Antonia Racer TankTaurus ElSybil running shortblue Cronus yoga pants with size 33Diana TightsDiana TightsMinerva LumaTech V-TeeMinerva LumaTech V-TeeAeno capriGobi HeatTec TeeTaurus Elements Shellements Shell'
+		[1430] button 'Search'
+		[1461] button 'Actions'
+		[3268] StaticText 'records found'
+		[1543] textbox 'per page' required: False
+			[3398] StaticText '200'
+		[3342] button 'per page Select'
+		[1437] button '\ue629' disabled: True
+		[1549] spinbutton 'of 1' required: False valuemin: 0 valuemax: 0 valuetext: 
+		[1438] button '\ue62a' disabled: True
+		[1644] table ''
+			[1646] row ''
+				[1647] columnheader 'Options' required: False
+					[1649] checkbox '' disabled: True checked: false
+					[3272] button 'Options' disabled: True
+				[3134] columnheader 'ID' required: False
+				[3135] columnheader 'Thumbnail' required: False
+				[3136] columnheader '↓ Name' required: False
+				[3137] columnheader 'Type' required: False
+				[3138] columnheader 'Attribute Set' required: False
+				[3139] columnheader 'SKU' required: False
+				[3140] columnheader 'Price' required: False
+				[3141] columnheader 'Quantity' required: False
+				[3142] columnheader 'Salable Quantity' required: False
+				[3143] columnheader 'Visibility' required: False
+				[3144] columnheader 'Status' required: False
+				[3145] columnheader 'Websites' required: False
+				[3146] columnheader 'Last Updated At' required: False
+				[3147] columnheader 'Action' required: False
+			[3148] row ''
+				[3149] gridcell "We couldn't find any records." required: False
+	[1768] contentinfo ''
+		[1965] link '\ue606'
+		[1966] StaticText ' Copyright © 2023 Magento Commerce Inc. All rights reserved.'
+		[2013] StaticText ' ver. 2.4.6'
+		[1968] link 'Privacy Policy'
+		[1969] StaticText ' |'
+		[1970] link ' Account Activity'
+		[1971] StaticText ' | '
+		[1972] link 'Report an Issue'</pre><div>

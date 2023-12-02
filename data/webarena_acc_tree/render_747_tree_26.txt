@@ -1,0 +1,47 @@
+Tab 0 (current): New Project · GitLab
+
+[10416] RootWebArea 'New Project · GitLab' focused: True
+	[10671] link 'Skip to content'
+	[11721] link 'Dashboard'
+	[11789] button '' hasPopup: menu expanded: False
+	[10428] textbox 'Search GitLab' required: False
+	[11978] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[11795] link 'Create new...'
+	[11797] link 'Issues'
+		[11882] generic '13 assigned issues'
+	[11798] link 'Merge requests'
+		[11884] generic '8 merge requests'
+	[11800] link 'To-Do List'
+		[11900] generic 'Todos count'
+			[11999] StaticText '5'
+	[11801] link 'Help'
+	[11803] link 'Byte Blaze'
+		[11934] img 'Byte Blaze'
+	[10432] main ''
+		[12051] heading 'Create blank project'
+		[12056] StaticText 'Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+		[12053] navigation 'Breadcrumb'
+			[12073] link 'New project'
+			[12074] link 'Create blank project'
+		[12163] StaticText 'Project name'
+		[12023] textbox 'Project name' required: True
+		[12167] StaticText 'Project URL'
+		[12026] group ''
+			[12182] generic 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/'
+			[12187] button '\u200ecrew\u200e' hasPopup: menu expanded: False
+				[12191] generic 'crew'
+		[12170] StaticText 'Project slug'
+		[12034] textbox 'Project slug' required: True
+		[12077] StaticText 'Want to organize several dependent projects under the same namespace? '
+		[12078] link 'Create a group.'
+		[12091] StaticText 'Visibility Level '
+		[12092] link 'Documentation for Visibility Level'
+		[12038] radio ' Private Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.' checked: false
+		[12040] radio ' Internal The project can be accessed by any logged in user except external users.' checked: false
+		[12042] radio ' Public The project can be accessed without any authentication.' checked: true
+		[12097] StaticText 'Project Configuration'
+		[12045] checkbox 'Initialize repository with a README Allows you to immediately clone this project’s repository. Skip this if you plan to push up an existing repository.' checked: true
+		[12048] checkbox 'Enable Static Application Security Testing (SAST) Analyze your source code for known security vulnerabilities. Learn more.' checked: false
+		[12157] link 'Learn more.'
+		[12071] button 'Create project'
+		[12072] link 'Cancel'</pre><div>

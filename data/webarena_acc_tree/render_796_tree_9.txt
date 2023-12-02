@@ -1,0 +1,37 @@
+Tab 0 (current): Checkout
+
+[12924] RootWebArea 'Checkout' focused: True
+	[13095] link 'store logo'
+		[13102] img 'one_stop_market_logo'
+	[12928] main ''
+		[13096] heading 'Checkout'
+		[13248] StaticText 'Shipping'
+		[13251] StaticText 'Review & Payments'
+		[13252] StaticText 'Shipping Address'
+		[13361] StaticText 'EmmaEmma'
+		[13362] StaticText 'Lopez654 Aspen Road'
+		[13363] LineBreak '\n'
+		[13364] StaticText '101 S San Mateo Dr654 Aspen Road, House #3, Bost3 Oxford St, Cambridge, MA3 Oxford St, Cambridge, MA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA111 Magnolia Path, Atlanta, GA, 30303987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110on, MA, 02110'
+		[13365] LineBreak '\n'
+		[13371] LineBreak '\n'
+		[13372] LineBreak '\n'
+		[13374] LineBreak '\n'
+		[12935] tabpanel ''
+		[12964] dialog '' modal: False describedby: modal-content-5
+			[13245] HeaderAsNonLandmark ''
+			[13151] StaticText 'Order Summary'
+			[12972] tablist '' multiselectable: False orientation: horizontal
+				[12971] tab '16Items in Cart \ue621' expanded: True selected: False
+					[13152] heading '16Items in Cart'
+				[12974] tabpanel ''
+					[13000] img 'Tazrigo 5pcs White Dental Resin Brush Pens Dental Shaping Silicone Tooth Tool'
+					[13159] LayoutTable ''
+						[13169] StaticText 'Qty'
+						[13175] StaticText '$8.99'
+					[13005] img '35 Ft HDMI Cable, GearIT Pro Series HDMI Cable 35 Feet High Speed Ethernet 4K Resolution 3D Video and ARC Audio Return Channel HDMI Cable, White'
+					[13177] LayoutTable ''
+						[13187] StaticText 'Qty'
+						[13193] StaticText '$25.04'
+					[13010] img 'Uttermost Volterra Crackled Taupe-Gray Ceramic Table Lamp'
+					[13195] LayoutTable ''
+						[13211] StaticText '$752.40'</pre><div>

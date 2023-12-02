@@ -1,0 +1,3956 @@
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[294] link 'Skip to content'
+
+[416] link 'Dashboard'
+
+[498] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1887] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[504] link 'Create new...'
+
+[506] link 'Issues'
+
+[1412] generic '13 assigned issues'
+
+[507] link 'Merge requests'
+
+[1414] generic '8 merge requests'
+
+[509] link 'To-Do List'
+
+[1430] generic 'Todos count'
+
+[510] link 'Help'
+
+[512] link 'Byte Blaze'
+
+[1464] img 'Byte Blaze'
+
+[17] main ''
+
+[395] heading 'Projects'
+
+[398] link 'New project'
+
+[514] link 'Yours 23'
+
+[515] link 'Starred 3'
+
+[516] link 'Explore'
+
+[517] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[468] button 'Name'
+
+[561] link 'All'
+
+[562] link 'Personal'
+
+[563] link 'A'
+
+[566] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[569] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[567] generic 'Public - The project can be accessed without any authentication.'
+
+[575] StaticText 'Owner'
+
+[1520] generic 'lipstick'
+
+[1918] StaticText '💄'
+
+[1521] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[587] link '1'
+
+[588] link '0'
+
+[589] link '0'
+
+[590] link '1'
+
+[599] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[600] StaticText '5 months ago'
+
+[601] link 'A'
+
+[604] heading 'Byte Blaze / a11y-webring.club'
+
+[607] link 'Byte Blaze / a11y-webring.club'
+
+[605] generic 'Public - The project can be accessed without any authentication.'
+
+[613] StaticText 'Owner'
+
+[1539] generic 'globe with meridians'
+
+[1919] StaticText '🌐'
+
+[1540] StaticText ' A webring for digital accessibility practitioners.'
+
+[625] link '2'
+
+[626] link '0'
+
+[627] link '1'
+
+[628] link '4'
+
+[637] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[638] StaticText '5 months ago'
+
+[639] link 'A'
+
+[642] heading 'The A11Y Project / a11yproject.com'
+
+[645] link 'The A11Y Project / a11yproject.com'
+
+[643] generic 'Public - The project can be accessed without any authentication.'
+
+[651] StaticText 'Maintainer'
+
+[1558] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[663] link '21'
+
+[664] link '0'
+
+[665] link '10'
+
+[666] link '40'
+
+[675] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[676] StaticText '5 months ago'
+
+[677] link 'A'
+
+[680] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[683] link 'Byte Blaze / accessible-html-content-patterns'
+
+[681] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[689] StaticText 'Owner'
+
+[1576] generic 'wheelchair symbol'
+
+[1920] StaticText '♿'
+
+[1577] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[701] link '1'
+
+[702] link '0'
+
+[703] link '0'
+
+[704] link '0'
+
+[713] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[714] StaticText '5 months ago'
+
+[715] link 'A'
+
+[717] heading 'crew / awesome_web_agents'
+
+[720] link 'crew / awesome_web_agents'
+
+[718] generic 'Public - The project can be accessed without any authentication.'
+
+[726] StaticText 'Owner'
+
+[737] link '0'
+
+[738] link '0'
+
+[739] link '0'
+
+[740] link '0'
+
+[749] StaticText 'Updated '
+
+[83] time 'Sep 12, 2023 2:11am EDT'
+
+[750] StaticText '1 hour ago'
+
+[751] link ''
+
+[754] heading 'Byte Blaze / cloud-to-butt'
+
+[757] link 'Byte Blaze / cloud-to-butt'
+
+[755] generic 'Public - The project can be accessed without any authentication.'
+
+[763] StaticText 'Owner'
+
+[775] link '0'
+
+[776] link '0'
+
+[777] link '0'
+
+[778] link '0'
+
+[787] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 7:22pm EDT'
+
+[788] StaticText '5 months ago'
+
+[789] link 'D'
+
+[792] heading 'Primer / design'
+
+[795] link 'Primer / design'
+
+[793] generic 'Public - The project can be accessed without any authentication.'
+
+[801] StaticText 'Developer'
+
+[1629] StaticText 'Primer Design Guidelines'
+
+[813] link '21'
+
+[814] link '0'
+
+[815] link '16'
+
+[816] link '21'
+
+[825] StaticText 'Updated '
+
+[107] time 'Mar 27, 2023 5:04pm EDT'
+
+[826] StaticText '5 months ago'</pre><div>
+
+[607]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. I need to assign an issue regarding linking to an accessibility statement in a11y-webring.club to Rohan. \n\n1. I will click on the link 'Byte Blaze / a11y-webring.club' to view the project.\n2. Once I am on the project page, I will click on the link 'Issues' to view the list of issues.\n3. I will locate the issue regarding linking to an accessibility statement and click on it to open it.\n4. I will find the option to assign the issue and assign it to Rohan.\n\nIn summary, the next action I will perform is `click [607]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[294] link 'Skip to content'
+
+[416] link 'Dashboard'
+
+[498] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1887] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[504] link 'Create new...'
+
+[506] link 'Issues'
+
+[1412] generic '13 assigned issues'
+
+[507] link 'Merge requests'
+
+[1414] generic '8 merge requests'
+
+[509] link 'To-Do List'
+
+[1430] generic 'Todos count'
+
+[510] link 'Help'
+
+[512] link 'Byte Blaze'
+
+[1464] img 'Byte Blaze'
+
+[17] main ''
+
+[395] heading 'Projects'
+
+[398] link 'New project'
+
+[514] link 'Yours 23'
+
+[515] link 'Starred 3'
+
+[516] link 'Explore'
+
+[517] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[468] button 'Name'
+
+[561] link 'All'
+
+[562] link 'Personal'
+
+[563] link 'A'
+
+[566] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[569] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[567] generic 'Public - The project can be accessed without any authentication.'
+
+[575] StaticText 'Owner'
+
+[1520] generic 'lipstick'
+
+[1918] StaticText '💄'
+
+[1521] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[587] link '1'
+
+[588] link '0'
+
+[589] link '0'
+
+[590] link '1'
+
+[599] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[600] StaticText '5 months ago'
+
+[601] link 'A'
+
+[604] heading 'Byte Blaze / a11y-webring.club'
+
+[607] link 'Byte Blaze / a11y-webring.club'
+
+[605] generic 'Public - The project can be accessed without any authentication.'
+
+[613] StaticText 'Owner'
+
+[1539] generic 'globe with meridians'
+
+[1919] StaticText '🌐'
+
+[1540] StaticText ' A webring for digital accessibility practitioners.'
+
+[625] link '2'
+
+[626] link '0'
+
+[627] link '1'
+
+[628] link '4'
+
+[637] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[638] StaticText '5 months ago'
+
+[639] link 'A'
+
+[642] heading 'The A11Y Project / a11yproject.com'
+
+[645] link 'The A11Y Project / a11yproject.com'
+
+[643] generic 'Public - The project can be accessed without any authentication.'
+
+[651] StaticText 'Maintainer'
+
+[1558] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[663] link '21'
+
+[664] link '0'
+
+[665] link '10'
+
+[666] link '40'
+
+[675] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[676] StaticText '5 months ago'
+
+[677] link 'A'
+
+[680] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[683] link 'Byte Blaze / accessible-html-content-patterns'
+
+[681] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[689] StaticText 'Owner'
+
+[1576] generic 'wheelchair symbol'
+
+[1920] StaticText '♿'
+
+[1577] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[701] link '1'
+
+[702] link '0'
+
+[703] link '0'
+
+[704] link '0'
+
+[713] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[714] StaticText '5 months ago'
+
+[715] link 'A'
+
+[717] heading 'crew / awesome_web_agents'
+
+[720] link 'crew / awesome_web_agents'
+
+[718] generic 'Public - The project can be accessed without any authentication.'
+
+[726] StaticText 'Owner'
+
+[737] link '0'
+
+[738] link '0'
+
+[739] link '0'
+
+[740] link '0'
+
+[749] StaticText 'Updated '
+
+[83] time 'Sep 12, 2023 2:11am EDT'
+
+[750] StaticText '1 hour ago'
+
+[751] link ''
+
+[754] heading 'Byte Blaze / cloud-to-butt'
+
+[757] link 'Byte Blaze / cloud-to-butt'
+
+[755] generic 'Public - The project can be accessed without any authentication.'
+
+[763] StaticText 'Owner'
+
+[775] link '0'
+
+[776] link '0'
+
+[777] link '0'
+
+[778] link '0'
+
+[787] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 7:22pm EDT'
+
+[788] StaticText '5 months ago'
+
+[789] link 'D'
+
+[792] heading 'Primer / design'
+
+[795] link 'Primer / design'
+
+[793] generic 'Public - The project can be accessed without any authentication.'
+
+[801] StaticText 'Developer'
+
+[1629] StaticText 'Primer Design Guidelines'
+
+[813] link '21'
+
+[814] link '0'
+
+[815] link '16'
+
+[816] link '21'
+
+[825] StaticText 'Updated '
+
+[107] time 'Mar 27, 2023 5:04pm EDT'
+
+[826] StaticText '5 months ago'</pre><div>
+
+[607]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[607]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '607', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. \n\n1. I will click on the link 'Byte Blaze / a11y-webring.club' to view the project.\n2. Once I am on the project page, I will click on the link 'Issues' to view the list of issues.\n3. I will locate the issue regarding linking to an accessibility statement and click on it to open it.\n4. I will find the option to assign the issue and assign it to Rohan.\n\nIn summary, the next action I will perform is ```click [607]```."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [607] where [607] is [607] link 'Byte Blaze / a11y-webring.club'</pre></div></div>
+
+[1932] RootWebArea 'Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[2071] link 'Skip to content'
+
+[2256] link 'Dashboard'
+
+[2416] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3457] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2422] link 'Create new...'
+
+[2424] link 'Issues'
+
+[2793] generic '13 assigned issues'
+
+[2425] link 'Merge requests'
+
+[2795] generic '8 merge requests'
+
+[2427] link 'To-Do List'
+
+[2811] generic 'Todos count'
+
+[2428] link 'Help'
+
+[2430] link 'Byte Blaze'
+
+[2845] img 'Byte Blaze'
+
+[2072] complementary 'Project navigation'
+
+[2289] listitem 'a11y-webring.club'
+
+[2432] link 'a11y-webring.club'
+
+[2886] StaticText 'A'
+
+[2433] link 'Project information'
+
+[2435] link 'Repository'
+
+[2437] link 'Issues'
+
+[2439] link 'Merge requests'
+
+[2980] StaticText '1'
+
+[2441] link 'CI/CD'
+
+[2443] link 'Security & Compliance'
+
+[2445] link 'Deployments'
+
+[2447] link 'Packages and registries'
+
+[2449] link 'Infrastructure'
+
+[2451] link 'Monitor'
+
+[2453] link 'Analytics'
+
+[2455] link 'Wiki'
+
+[2457] link 'Snippets'
+
+[2459] link 'Settings'
+
+[2208] button 'Collapse sidebar'
+
+[2076] alert '' live: assertive atomic: True relevant: additions text
+
+[2079] button 'Dismiss'
+
+[2080] alert '' live: assertive atomic: True relevant: additions text
+
+[2323] link 'Add SSH key'
+
+[2324] button "Don't show again"
+
+[2077] navigation 'Breadcrumbs'
+
+[2476] link 'Byte Blaze'
+
+[2478] link 'a11y-webring.club'
+
+[1948] main ''
+
+[2336] StaticText 'A'
+
+[2225] heading 'a11y-webring.club Public - The project can be accessed without any authentication.'
+
+[2228] generic 'Public - The project can be accessed without any authentication.'
+
+[2231] StaticText 'Project ID: 179 '
+
+[2232] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2341] button '' hasPopup: menu expanded: False
+
+[2236] button 'Star'
+
+[2237] link '2'
+
+[2346] link 'Fork'
+
+[2239] link '0'
+
+[2574] link '235 Commits'
+
+[2575] link '4 Branches'
+
+[2576] link '0 Tags'
+
+[2577] link '1.9 MB Project Storage'
+
+[2245] generic 'globe with meridians'
+
+[2355] StaticText '🌐'
+
+[2246] StaticText ' A webring for digital accessibility practitioners.'
+
+[2248] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">60.4%</span>'
+
+[2249] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">26.5%</span>'
+
+[2250] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">13.1%</span>'
+
+[2360] img 'user avatar'
+
+[2364] link 'Add Tiffany Pender (#96)'
+
+[2367] StaticText 'Eric Bailey authored '
+
+[2368] time 'Mar 12, 2023 4:24pm EDT'
+
+[2578] StaticText '6 months ago'
+
+[2371] button 'Unverified'
+
+[2370] group ''
+
+[2581] StaticText '83d965d9'
+
+[2373] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3229] button 'main' hasPopup: menu expanded: False
+
+[2002] navigation 'Files breadcrumb'
+
+[3620] link 'a11y-webring.club'
+
+[3975] button 'Add to tree' hasPopup: menu expanded: False
+
+[2586] link 'Find file'
+
+[2591] link 'Web IDE'
+
+[2592] button 'Download'
+
+[3236] StaticText 'Select Archive Format'
+
+[2594] link 'Clone'
+
+[2617] link 'README'
+
+[2618] link 'MIT License'
+
+[2619] link 'Add CHANGELOG'
+
+[2620] link 'Add CONTRIBUTING'
+
+[2621] link 'Enable Auto DevOps'
+
+[2622] link 'Add Kubernetes cluster'
+
+[2623] link 'Set up CI/CD'
+
+[2624] link 'Configure Integrations'
+
+[2020] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3306] row ''
+
+[3307] columnheader 'Name' required: False
+
+[3308] columnheader 'Last commit' required: False
+
+[3309] columnheader 'Last update' required: False
+
+[3310] row ''
+
+[3337] gridcell '.github' required: False
+
+[3658] link '.github'
+
+[3338] gridcell 'Update contribution instructions' required: False
+
+[3664] link 'Update contribution instructions'
+
+[3339] gridcell '7 months ago' required: False
+
+[3667] time 'Feb 4, 2023 5:36pm EST'
+
+[3311] row ''
+
+[3340] gridcell 'data' required: False
+
+[3669] link 'data'
+
+[3341] gridcell 'Create Tiffany Pender.json' required: False
+
+[3675] link 'Create Tiffany Pender.json'
+
+[3342] gridcell '6 months ago' required: False
+
+[3678] time 'Mar 9, 2023 6:46pm EST'</pre><div>
+
+[607] where [607] is link 'Byte Blaze / a11y-webring.club'</div>
+
+[2424]. I will click on this link to go to the 'Issues' section. In summary, the next action I will perform is ```click [2424]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2424', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. The objective is to assign an issue regarding linking to an accessibility statement in a11y-webring.club to Rohan. Currently, we are on the page of the project 'Byte Blaze / a11y-webring.club'. To assign an issue, we need to go to the 'Issues' section. From the observation, I see that there is a link 'Issues' with ID [2424]. I will click on this link to go to the 'Issues' section. In summary, the next action I will perform is ```click [2424]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2424] where [2424] is [2424] link 'Issues'</pre></div></div>
+
+[4111] RootWebArea 'Issues · Dashboard · GitLab' focused: True
+
+[4307] link 'Skip to content'
+
+[4428] link 'Dashboard'
+
+[4478] button '' hasPopup: menu expanded: False
+
+[4123] textbox 'Search GitLab' required: False
+
+[5455] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4484] link 'Create new...'
+
+[4486] link 'Issues'
+
+[4872] generic '13 assigned issues'
+
+[4487] link 'Merge requests'
+
+[4874] generic '8 merge requests'
+
+[4489] link 'To-Do List'
+
+[4890] generic 'Todos count'
+
+[5476] StaticText '5'
+
+[4490] link 'Help'
+
+[4492] link 'Byte Blaze'
+
+[4924] img 'Byte Blaze'
+
+[4127] main ''
+
+[4407] heading 'Issues'
+
+[4461] link 'Select project to create issue'
+
+[4462] button 'Toggle project select'
+
+[4463] link 'Open 13'
+
+[4464] link 'Closed 53'
+
+[4465] link 'All 66'
+
+[4414] link 'Subscribe to RSS feed'
+
+[4415] link 'Subscribe to calendar'
+
+[4518] button 'Recent searches'
+
+[4140] button 'Assignee = Byte Blaze'
+
+[5578] button ''
+
+[4138] textbox '' required: False
+
+[4473] button ''
+
+[4424] group ''
+
+[4560] button 'Created date' hasPopup: listbox
+
+[4475] link 'Sort direction'
+
+[4565] link '[Feature suggestion] Support linking to an accessibility statement'
+
+[4567] StaticText '\xa0 1 of 3 checklist items completed'
+
+[4569] StaticText 'byteblaze/a11y-webring.club#71 '
+
+[4570] StaticText '· created '
+
+[4154] time 'Feb 2, 2023 4:51pm EST'
+
+[5303] StaticText '7 months ago'
+
+[4571] StaticText ' by '
+
+[4572] link 'Rohan Kumar'
+
+[4573] StaticText ' \xa0 '
+
+[4575] link 'being discussed'
+
+[4577] link 'feature'
+
+[5310] link 'Assigned to Byte Blaze'
+
+[5311] link ' 1'
+
+[4581] StaticText 'updated '
+
+[4158] time 'Mar 27, 2023 4:17pm EDT'
+
+[5312] StaticText '5 months ago'
+
+[4584] link '[Feature suggestion] WCAG trash panda mode'
+
+[4586] StaticText '\xa0 1 of 3 checklist items completed'
+
+[4588] StaticText 'byteblaze/a11y-webring.club#39 '
+
+[4589] StaticText '· created '
+
+[4164] time 'Jan 22, 2023 2:23pm EST'
+
+[5314] StaticText '7 months ago'
+
+[4590] StaticText ' by '
+
+[4591] link 'Byte Blaze'
+
+[4592] StaticText ' \xa0 '
+
+[4594] link 'feature'
+
+[4596] link 'help wanted'
+
+[5321] link 'Assigned to Byte Blaze'
+
+[5322] link ' 0'
+
+[4600] StaticText 'updated '
+
+[4168] time 'Mar 27, 2023 4:17pm EDT'
+
+[5323] StaticText '5 months ago'
+
+[4603] link '[Feature suggestion] Add a submission form'
+
+[4605] StaticText '\xa0 1 of 3 checklist items completed'
+
+[4607] StaticText 'byteblaze/a11y-webring.club#30 '
+
+[4608] StaticText '· created '
+
+[4174] time 'Jan 20, 2023 3:16pm EST'
+
+[5325] StaticText '7 months ago'
+
+[4609] StaticText ' by '
+
+[4610] link 'Byte Blaze'
+
+[4611] StaticText ' \xa0 '
+
+[4613] link 'feature'
+
+[5330] link 'Assigned to Byte Blaze'
+
+[5331] link ' 0'
+
+[4617] StaticText 'updated '
+
+[4178] time 'Mar 27, 2023 4:17pm EDT'
+
+[5332] StaticText '5 months ago'
+
+[4620] link '[Feature suggestion] Color theme slider'
+
+[4622] StaticText '\xa0 1 of 3 checklist items completed'
+
+[4624] StaticText 'byteblaze/a11y-webring.club#21 '
+
+[4625] StaticText '· created '
+
+[4184] time 'Jan 18, 2023 10:58pm EST'
+
+[5334] StaticText '7 months ago'
+
+[4626] StaticText ' by '
+
+[4627] link 'Byte Blaze'
+
+[4628] StaticText ' \xa0 '
+
+[4630] link 'feature'
+
+[4632] link 'help wanted'
+
+[5341] link 'Assigned to Byte Blaze'
+
+[5342] link ' 0'
+
+[4636] StaticText 'updated '
+
+[4188] time 'Mar 27, 2023 4:17pm EDT'
+
+[5343] StaticText '5 months ago'
+
+[4639] link 'Link to WCAG 2.1 instead of 2.0?'
+
+[4641] StaticText 'a11yproject/a11yproject.com#1460 '
+
+[4642] StaticText '· created '
+
+[4194] time 'Aug 11, 2022 12:10pm EDT'
+
+[5345] StaticText '1 year ago'
+
+[4643] StaticText ' by '
+
+[4644] link 'Byte Blaze'
+
+[4645] StaticText ' \xa0 '
+
+[4647] link 'claimed'
+
+[4649] link 'content'
+
+[5352] link 'Assigned to Byte Blaze'
+
+[5353] link ' 0'
+
+[4653] StaticText 'updated '
+
+[4198] time 'Mar 23, 2023 4:42am EDT'
+
+[5354] StaticText '5 months ago'
+
+[4656] link 'The process for writing for us is both scattered and buried'
+
+[4658] StaticText 'a11yproject/a11yproject.com#1360 '
+
+[4659] StaticText '· created '
+
+[4204] time 'Oct 10, 2021 8:35pm EDT'
+
+[5356] StaticText '1 year ago'
+
+[4660] StaticText ' by '
+
+[4661] link 'Byte Blaze'
+
+[4662] StaticText ' \xa0 '
+
+[4664] link 'content'
+
+[4666] link 'design'
+
+[5363] link 'Assigned to Byte Blaze'
+
+[5364] link ' 2'
+
+[4670] StaticText 'updated '
+
+[4208] time 'Mar 23, 2023 4:41am EDT'
+
+[5365] StaticText '5 months ago'
+
+[4673] link 'Non-Github contribution guidelines need clarification'
+
+[4675] StaticText 'a11yproject/a11yproject.com#1294 '
+
+[4676] StaticText '· created '
+
+[4214] time 'Jun 16, 2021 10:18pm EDT'
+
+[5367] StaticText '2 years ago'
+
+[4677] StaticText ' by '
+
+[4678] link 'Byte Blaze'
+
+[4679] StaticText ' \xa0 '
+
+[4681] link 'claimed'
+
+[4683] link 'content'
+
+[5374] link 'Assigned to Byte Blaze'
+
+[5375] link ' 2'
+
+[4687] StaticText 'updated '
+
+[4218] time 'Mar 23, 2023 4:41am EDT'
+
+[5376] StaticText '5 months ago'
+
+[4690] link 'Outdated dependencies'
+
+[4692] StaticText 'byteblaze/empathy-prompts#18 '
+
+[4693] StaticText '· created '
+
+[4224] time 'Jun 1, 2021 8:52pm EDT'
+
+[5378] StaticText '2 years ago'
+
+[4694] StaticText ' by '
+
+[4695] link 'Byte Blaze'
+
+[4696] StaticText ' \xa0 '
+
+[4698] link '[Priority] Critical'
+
+[4700] link '[Status] Submitted'
+
+[4702] link '[Type] Bug'
+
+[5387] link 'Assigned to Byte Blaze'
+
+[5388] link ' 0'
+
+[4706] StaticText 'updated '
+
+[4228] time 'Mar 27, 2023 4:16pm EDT'
+
+[5389] StaticText '5 months ago'</pre><div>
+
+[2424] where [2424] is link 'Issues'</div>
+
+[4565]'. After clicking on the issue, I can find the 'Assignee' field and click on it to assign the issue to Rohan. In summary, the next action I will perform is `click [4565]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. The objective is to assign the issue regarding linking to an accessibility statement in a11y-webring.club to Rohan. To achieve this, I need to click on the link of the issue, which is '[4565]'. After clicking on the issue, I can find the 'Assignee' field and click on it to assign the issue to Rohan. In summary, the next action I will perform is `click [4565]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[4111] RootWebArea 'Issues · Dashboard · GitLab' focused: True
+
+[4307] link 'Skip to content'
+
+[4428] link 'Dashboard'
+
+[4478] button '' hasPopup: menu expanded: False
+
+[4123] textbox 'Search GitLab' required: False
+
+[5455] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4484] link 'Create new...'
+
+[4486] link 'Issues'
+
+[4872] generic '13 assigned issues'
+
+[4487] link 'Merge requests'
+
+[4874] generic '8 merge requests'
+
+[4489] link 'To-Do List'
+
+[4890] generic 'Todos count'
+
+[5476] StaticText '5'
+
+[4490] link 'Help'
+
+[4492] link 'Byte Blaze'
+
+[4924] img 'Byte Blaze'
+
+[4127] main ''
+
+[4407] heading 'Issues'
+
+[4461] link 'Select project to create issue'
+
+[4462] button 'Toggle project select'
+
+[4463] link 'Open 13'
+
+[4464] link 'Closed 53'
+
+[4465] link 'All 66'
+
+[4414] link 'Subscribe to RSS feed'
+
+[4415] link 'Subscribe to calendar'
+
+[4518] button 'Recent searches'
+
+[4140] button 'Assignee = Byte Blaze'
+
+[5578] button ''
+
+[4138] textbox '' required: False
+
+[4473] button ''
+
+[4424] group ''
+
+[4560] button 'Created date' hasPopup: listbox
+
+[4475] link 'Sort direction'
+
+[4565] link '[Feature suggestion] Support linking to an accessibility statement'
+
+[4567] StaticText '\xa0 1 of 3 checklist items completed'
+
+[4569] StaticText 'byteblaze/a11y-webring.club#71 '
+
+[4570] StaticText '· created '
+
+[4154] time 'Feb 2, 2023 4:51pm EST'
+
+[5303] StaticText '7 months ago'
+
+[4571] StaticText ' by '
+
+[4572] link 'Rohan Kumar'
+
+[4573] StaticText ' \xa0 '
+
+[4575] link 'being discussed'
+
+[4577] link 'feature'
+
+[5310] link 'Assigned to Byte Blaze'
+
+[5311] link ' 1'
+
+[4581] StaticText 'updated '
+
+[4158] time 'Mar 27, 2023 4:17pm EDT'
+
+[5312] StaticText '5 months ago'
+
+[4584] link '[Feature suggestion] WCAG trash panda mode'
+
+[4586] StaticText '\xa0 1 of 3 checklist items completed'
+
+[4588] StaticText 'byteblaze/a11y-webring.club#39 '
+
+[4589] StaticText '· created '
+
+[4164] time 'Jan 22, 2023 2:23pm EST'
+
+[5314] StaticText '7 months ago'
+
+[4590] StaticText ' by '
+
+[4591] link 'Byte Blaze'
+
+[4592] StaticText ' \xa0 '
+
+[4594] link 'feature'
+
+[4596] link 'help wanted'
+
+[5321] link 'Assigned to Byte Blaze'
+
+[5322] link ' 0'
+
+[4600] StaticText 'updated '
+
+[4168] time 'Mar 27, 2023 4:17pm EDT'
+
+[5323] StaticText '5 months ago'
+
+[4603] link '[Feature suggestion] Add a submission form'
+
+[4605] StaticText '\xa0 1 of 3 checklist items completed'
+
+[4607] StaticText 'byteblaze/a11y-webring.club#30 '
+
+[4608] StaticText '· created '
+
+[4174] time 'Jan 20, 2023 3:16pm EST'
+
+[5325] StaticText '7 months ago'
+
+[4609] StaticText ' by '
+
+[4610] link 'Byte Blaze'
+
+[4611] StaticText ' \xa0 '
+
+[4613] link 'feature'
+
+[5330] link 'Assigned to Byte Blaze'
+
+[5331] link ' 0'
+
+[4617] StaticText 'updated '
+
+[4178] time 'Mar 27, 2023 4:17pm EDT'
+
+[5332] StaticText '5 months ago'
+
+[4620] link '[Feature suggestion] Color theme slider'
+
+[4622] StaticText '\xa0 1 of 3 checklist items completed'
+
+[4624] StaticText 'byteblaze/a11y-webring.club#21 '
+
+[4625] StaticText '· created '
+
+[4184] time 'Jan 18, 2023 10:58pm EST'
+
+[5334] StaticText '7 months ago'
+
+[4626] StaticText ' by '
+
+[4627] link 'Byte Blaze'
+
+[4628] StaticText ' \xa0 '
+
+[4630] link 'feature'
+
+[4632] link 'help wanted'
+
+[5341] link 'Assigned to Byte Blaze'
+
+[5342] link ' 0'
+
+[4636] StaticText 'updated '
+
+[4188] time 'Mar 27, 2023 4:17pm EDT'
+
+[5343] StaticText '5 months ago'
+
+[4639] link 'Link to WCAG 2.1 instead of 2.0?'
+
+[4641] StaticText 'a11yproject/a11yproject.com#1460 '
+
+[4642] StaticText '· created '
+
+[4194] time 'Aug 11, 2022 12:10pm EDT'
+
+[5345] StaticText '1 year ago'
+
+[4643] StaticText ' by '
+
+[4644] link 'Byte Blaze'
+
+[4645] StaticText ' \xa0 '
+
+[4647] link 'claimed'
+
+[4649] link 'content'
+
+[5352] link 'Assigned to Byte Blaze'
+
+[5353] link ' 0'
+
+[4653] StaticText 'updated '
+
+[4198] time 'Mar 23, 2023 4:42am EDT'
+
+[5354] StaticText '5 months ago'
+
+[4656] link 'The process for writing for us is both scattered and buried'
+
+[4658] StaticText 'a11yproject/a11yproject.com#1360 '
+
+[4659] StaticText '· created '
+
+[4204] time 'Oct 10, 2021 8:35pm EDT'
+
+[5356] StaticText '1 year ago'
+
+[4660] StaticText ' by '
+
+[4661] link 'Byte Blaze'
+
+[4662] StaticText ' \xa0 '
+
+[4664] link 'content'
+
+[4666] link 'design'
+
+[5363] link 'Assigned to Byte Blaze'
+
+[5364] link ' 2'
+
+[4670] StaticText 'updated '
+
+[4208] time 'Mar 23, 2023 4:41am EDT'
+
+[5365] StaticText '5 months ago'
+
+[4673] link 'Non-Github contribution guidelines need clarification'
+
+[4675] StaticText 'a11yproject/a11yproject.com#1294 '
+
+[4676] StaticText '· created '
+
+[4214] time 'Jun 16, 2021 10:18pm EDT'
+
+[5367] StaticText '2 years ago'
+
+[4677] StaticText ' by '
+
+[4678] link 'Byte Blaze'
+
+[4679] StaticText ' \xa0 '
+
+[4681] link 'claimed'
+
+[4683] link 'content'
+
+[5374] link 'Assigned to Byte Blaze'
+
+[5375] link ' 2'
+
+[4687] StaticText 'updated '
+
+[4218] time 'Mar 23, 2023 4:41am EDT'
+
+[5376] StaticText '5 months ago'
+
+[4690] link 'Outdated dependencies'
+
+[4692] StaticText 'byteblaze/empathy-prompts#18 '
+
+[4693] StaticText '· created '
+
+[4224] time 'Jun 1, 2021 8:52pm EDT'
+
+[5378] StaticText '2 years ago'
+
+[4694] StaticText ' by '
+
+[4695] link 'Byte Blaze'
+
+[4696] StaticText ' \xa0 '
+
+[4698] link '[Priority] Critical'
+
+[4700] link '[Status] Submitted'
+
+[4702] link '[Type] Bug'
+
+[5387] link 'Assigned to Byte Blaze'
+
+[5388] link ' 0'
+
+[4706] StaticText 'updated '
+
+[4228] time 'Mar 27, 2023 4:16pm EDT'
+
+[5389] StaticText '5 months ago'</pre><div>
+
+[4565]'. After clicking on the issue, I can find the 'Assignee' field and click on it to assign the issue to Rohan. In summary, the next action I will perform is `click [4565]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[4565]'. After clicking on the issue, I can find the 'Assignee' field and click on it to assign the issue to Rohan. In summary, the next action I will perform is ```click [4565]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '4565', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. The objective is to assign the issue regarding linking to an accessibility statement in a11y-webring.club to Rohan. To achieve this, I need to click on the link of the issue, which is '[4565]'. After clicking on the issue, I can find the 'Assignee' field and click on it to assign the issue to Rohan. In summary, the next action I will perform is ```click [4565]```."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [4565] where [4565] is [4565] link '[Feature suggestion] Support linking to an accessibility statement'</pre></div></div>
+
+[5586] RootWebArea '[Feature suggestion] Support linking to an accessibility statement (#71) · Issues · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[5788] link 'Skip to content'
+
+[6027] link 'Dashboard'
+
+[6182] button '' hasPopup: menu expanded: False
+
+[5598] textbox 'Search GitLab' required: False
+
+[7085] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6188] link 'Create new...'
+
+[6190] link 'Issues'
+
+[6440] generic '13 assigned issues'
+
+[6191] link 'Merge requests'
+
+[6442] generic '8 merge requests'
+
+[6193] link 'To-Do List'
+
+[6458] generic 'Todos count'
+
+[6194] link 'Help'
+
+[6196] link 'Byte Blaze'
+
+[6492] img 'Byte Blaze'
+
+[5789] complementary 'Project navigation'
+
+[6060] listitem 'a11y-webring.club'
+
+[6198] link 'a11y-webring.club'
+
+[6533] StaticText 'A'
+
+[6199] link 'Project information'
+
+[6201] link 'Repository'
+
+[6203] link 'Issues'
+
+[6598] StaticText '4'
+
+[7130] link 'Issues'
+
+[7441] StaticText 'List'
+
+[7131] link 'Boards'
+
+[7132] link 'Service Desk'
+
+[7133] link 'Milestones'
+
+[6205] link 'Merge requests'
+
+[6207] link 'CI/CD'
+
+[6209] link 'Security & Compliance'
+
+[6211] link 'Deployments'
+
+[6213] link 'Packages and registries'
+
+[6215] link 'Infrastructure'
+
+[6217] link 'Monitor'
+
+[6219] link 'Analytics'
+
+[6221] link 'Wiki'
+
+[6223] link 'Snippets'
+
+[6225] link 'Settings'
+
+[5924] button 'Collapse sidebar'
+
+[5793] navigation 'Breadcrumbs'
+
+[6242] link 'Byte Blaze'
+
+[6244] link 'a11y-webring.club'
+
+[6246] link 'Issues'
+
+[6248] link '#71'
+
+[5602] main ''
+
+[6112] StaticText 'Open'
+
+[6117] StaticText 'Issue created '
+
+[5727] time 'Feb 2, 2023 4:51pm EST'
+
+[6119] StaticText '7 months ago'
+
+[6118] StaticText ' by'
+
+[6120] link 'Rohan Kumar'
+
+[5933] generic 'This user has previously committed to the a11y-webring.club project.'
+
+[6122] StaticText 'Contributor'
+
+[5934] generic '1st contribution!'
+
+[6123] StaticText '1 of 3 checklist items completed'
+
+[5938] button 'Close issue'
+
+[5680] generic 'Issue actions'
+
+[5969] button 'Issue actions' hasPopup: menu expanded: False
+
+[5972] heading '[Feature suggestion] Support linking to an accessibility statement'
+
+[5973] button 'Edit title and description'
+
+[5976] heading 'Feature suggestion'
+
+[5980] link '' hidden: True
+
+[5983] StaticText 'Some personal websites have accessibility statements, such as the kind recommended by the WAI. Linking to that alongside socials could be a nice touch.'
+
+[5978] heading 'Who would you like to work on this feature?'
+
+[5984] link '' hidden: True
+
+[5653] checkbox '' checked: false
+
+[6153] StaticText 'I would like to work on this feature'
+
+[5655] checkbox '' checked: false
+
+[6155] StaticText 'I would like the site maintainers to work on this feature'
+
+[5979] heading 'Code of conduct'
+
+[5987] link '' hidden: True
+
+[5658] checkbox '' checked: true
+
+[5704] button '👍 0'
+
+[5707] button '👎 0'
+
+[5696] generic 'Add reaction'
+
+[6157] button 'Add reaction' hasPopup: menu expanded: False
+
+[6280] button 'Create merge request'
+
+[6281] button ''
+
+[6282] button 'Drag your designs here or click to upload.'
+
+[6891] link 'click to upload'
+
+[6009] heading 'Tasks'
+
+[6018] button 'Add' hasPopup: menu expanded: False
+
+[6019] button 'Collapse tasks'
+
+[5622] complementary 'issue' live: polite atomic: False relevant: additions text
+
+[6316] button 'Toggle sidebar'
+
+[6321] button 'Add a to do'
+
+[5712] StaticText 'Assignee'
+
+[7240] link 'Edit'
+
+[7251] link "Byte Blaze's avatar Byte Blaze"
+
+[7255] img "Byte Blaze's avatar"
+
+[7539] StaticText 'Labels'
+
+[7298] button 'Edit'
+
+[7551] link 'being discussed'
+
+[7552] button 'Remove label'
+
+[7548] link 'feature'
+
+[7557] button 'Remove label'
+
+[7372] StaticText 'Milestone'
+
+[6933] button 'Edit'
+
+[6943] StaticText 'None'
+
+[7375] StaticText 'Due date'
+
+[6954] button 'Edit'
+
+[6986] StaticText 'Time tracking'
+
+[6987] button 'Add time entry'
+
+[6992] StaticText 'No estimate or time spent'
+
+[7381] StaticText 'Confidentiality'
+
+[6997] button 'Edit'
+
+[7003] StaticText 'Not confidential'
+
+[7038] StaticText 'Lock issue'
+
+[7039] link 'Edit'
+
+[7041] StaticText 'Unlocked'
+
+[7392] StaticText 'Notifications'
+
+[7394] switch 'Notifications' checked: true
+
+[5747] StaticText '2 participants'
+
+[7061] link 'Byte Blaze'
+
+[7399] img 'Byte Blaze'
+
+[7062] link 'Rohan Kumar'
+
+[7401] img 'Rohan Kumar'</pre><div>
+
+[4565] where [4565] is link '[Feature suggestion] Support linking to an accessibility statement'</div>
+
+[6316]``` to toggle the sidebar.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '6316', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. The objective is to assign the issue regarding linking to an accessibility statement in a11y-webring.club to Rohan. On this page, there is a button to edit the assignee. In summary, the next action I will perform is ```click [6316]``` to toggle the sidebar."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [6316] where [6316] is [6316] button 'Toggle sidebar'</pre></div></div>
+
+[5586] RootWebArea '[Feature suggestion] Support linking to an accessibility statement (#71) · Issues · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[5788] link 'Skip to content'
+
+[6027] link 'Dashboard'
+
+[6182] button '' hasPopup: menu expanded: False
+
+[5598] textbox 'Search GitLab' required: False
+
+[7085] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6188] link 'Create new...'
+
+[6190] link 'Issues'
+
+[6440] generic '13 assigned issues'
+
+[6191] link 'Merge requests'
+
+[6442] generic '8 merge requests'
+
+[6193] link 'To-Do List'
+
+[6458] generic 'Todos count'
+
+[6194] link 'Help'
+
+[6196] link 'Byte Blaze'
+
+[6492] img 'Byte Blaze'
+
+[5789] complementary 'Project navigation'
+
+[6060] listitem 'a11y-webring.club'
+
+[6198] link 'a11y-webring.club'
+
+[6533] StaticText 'A'
+
+[6199] link 'Project information'
+
+[6201] link 'Repository'
+
+[6203] link 'Issues'
+
+[6598] StaticText '4'
+
+[7130] link 'Issues'
+
+[7441] StaticText 'List'
+
+[7131] link 'Boards'
+
+[7132] link 'Service Desk'
+
+[7133] link 'Milestones'
+
+[6205] link 'Merge requests'
+
+[6207] link 'CI/CD'
+
+[6209] link 'Security & Compliance'
+
+[6211] link 'Deployments'
+
+[6213] link 'Packages and registries'
+
+[6215] link 'Infrastructure'
+
+[6217] link 'Monitor'
+
+[6219] link 'Analytics'
+
+[6221] link 'Wiki'
+
+[6223] link 'Snippets'
+
+[6225] link 'Settings'
+
+[5924] button 'Collapse sidebar'
+
+[5793] navigation 'Breadcrumbs'
+
+[6242] link 'Byte Blaze'
+
+[6244] link 'a11y-webring.club'
+
+[6246] link 'Issues'
+
+[6248] link '#71'
+
+[5602] main ''
+
+[6112] StaticText 'Open'
+
+[6117] StaticText 'Issue created '
+
+[5727] time 'Feb 2, 2023 4:51pm EST'
+
+[6119] StaticText '7 months ago'
+
+[6118] StaticText ' by'
+
+[6120] link 'Rohan Kumar'
+
+[5933] generic 'This user has previously committed to the a11y-webring.club project.'
+
+[6122] StaticText 'Contributor'
+
+[5934] generic '1st contribution!'
+
+[6123] StaticText '1 of 3 checklist items completed'
+
+[5938] button 'Close issue'
+
+[5680] generic 'Issue actions'
+
+[5969] button 'Issue actions' hasPopup: menu expanded: False
+
+[5972] heading '[Feature suggestion] Support linking to an accessibility statement'
+
+[5973] button 'Edit title and description'
+
+[5976] heading 'Feature suggestion'
+
+[5980] link '' hidden: True
+
+[5983] StaticText 'Some personal websites have accessibility statements, such as the kind recommended by the WAI. Linking to that alongside socials could be a nice touch.'
+
+[5978] heading 'Who would you like to work on this feature?'
+
+[5984] link '' hidden: True
+
+[5653] checkbox '' checked: false
+
+[6153] StaticText 'I would like to work on this feature'
+
+[5655] checkbox '' checked: false
+
+[6155] StaticText 'I would like the site maintainers to work on this feature'
+
+[5979] heading 'Code of conduct'
+
+[5987] link '' hidden: True
+
+[5658] checkbox '' checked: true
+
+[5704] button '👍 0'
+
+[5707] button '👎 0'
+
+[5696] generic 'Add reaction'
+
+[6157] button 'Add reaction' hasPopup: menu expanded: False
+
+[6280] button 'Create merge request'
+
+[6281] button ''
+
+[6282] button 'Drag your designs here or click to upload.'
+
+[6891] link 'click to upload'
+
+[6009] heading 'Tasks'
+
+[6018] button 'Add' hasPopup: menu expanded: False
+
+[6019] button 'Collapse tasks'
+
+[6022] StaticText 'No tasks are currently assigned. Use tasks to break down this issue into smaller parts.'
+
+[5622] complementary 'issue' live: polite atomic: False relevant: additions text
+
+[6316] button 'Toggle sidebar' focused: True describedby: gl-tooltip7
+
+[7874] button 'Add a to do'
+
+[7849] generic 'Byte Blaze'
+
+[7872] button "Byte Blaze's avatar"
+
+[7914] img "Byte Blaze's avatar"
+
+[7857] generic 'being discussed, feature'
+
+[7845] generic 'Milestone'
+
+[7863] img 'Milestone'
+
+[7896] StaticText 'No milestone'
+
+[7898] generic 'Due date'
+
+[7860] StaticText 'None'
+
+[7882] generic 'Time tracking'
+
+[7907] generic 'Not confidential'
+
+[7870] generic 'Notifications on'
+
+[7880] generic '2 participants'
+
+[7858] button 'Copy Reference' live: polite atomic: False relevant: additions text
+
+[7916] tooltip 'Expand sidebar'</pre><div>
+
+[6316] where [6316] is button 'Toggle sidebar'</div>
+
+[6316]. In summary, the next action I will perform is `click [6316]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to assign the issue to Rohan. Currently, we are on the issue page. To assign the issue, we need to click on the "Edit title and description" button. To find the button, we need to open the sidebar first. We can do this by clicking on the "Toggle sidebar" button with ID [6316]. In summary, the next action I will perform is `click [6316]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[5586] RootWebArea '[Feature suggestion] Support linking to an accessibility statement (#71) · Issues · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[5788] link 'Skip to content'
+
+[6027] link 'Dashboard'
+
+[6182] button '' hasPopup: menu expanded: False
+
+[5598] textbox 'Search GitLab' required: False
+
+[7085] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6188] link 'Create new...'
+
+[6190] link 'Issues'
+
+[6440] generic '13 assigned issues'
+
+[6191] link 'Merge requests'
+
+[6442] generic '8 merge requests'
+
+[6193] link 'To-Do List'
+
+[6458] generic 'Todos count'
+
+[6194] link 'Help'
+
+[6196] link 'Byte Blaze'
+
+[6492] img 'Byte Blaze'
+
+[5789] complementary 'Project navigation'
+
+[6060] listitem 'a11y-webring.club'
+
+[6198] link 'a11y-webring.club'
+
+[6533] StaticText 'A'
+
+[6199] link 'Project information'
+
+[6201] link 'Repository'
+
+[6203] link 'Issues'
+
+[6598] StaticText '4'
+
+[7130] link 'Issues'
+
+[7441] StaticText 'List'
+
+[7131] link 'Boards'
+
+[7132] link 'Service Desk'
+
+[7133] link 'Milestones'
+
+[6205] link 'Merge requests'
+
+[6207] link 'CI/CD'
+
+[6209] link 'Security & Compliance'
+
+[6211] link 'Deployments'
+
+[6213] link 'Packages and registries'
+
+[6215] link 'Infrastructure'
+
+[6217] link 'Monitor'
+
+[6219] link 'Analytics'
+
+[6221] link 'Wiki'
+
+[6223] link 'Snippets'
+
+[6225] link 'Settings'
+
+[5924] button 'Collapse sidebar'
+
+[5793] navigation 'Breadcrumbs'
+
+[6242] link 'Byte Blaze'
+
+[6244] link 'a11y-webring.club'
+
+[6246] link 'Issues'
+
+[6248] link '#71'
+
+[5602] main ''
+
+[6112] StaticText 'Open'
+
+[6117] StaticText 'Issue created '
+
+[5727] time 'Feb 2, 2023 4:51pm EST'
+
+[6119] StaticText '7 months ago'
+
+[6118] StaticText ' by'
+
+[6120] link 'Rohan Kumar'
+
+[5933] generic 'This user has previously committed to the a11y-webring.club project.'
+
+[6122] StaticText 'Contributor'
+
+[5934] generic '1st contribution!'
+
+[6123] StaticText '1 of 3 checklist items completed'
+
+[5938] button 'Close issue'
+
+[5680] generic 'Issue actions'
+
+[5969] button 'Issue actions' hasPopup: menu expanded: False
+
+[5972] heading '[Feature suggestion] Support linking to an accessibility statement'
+
+[5973] button 'Edit title and description'
+
+[5976] heading 'Feature suggestion'
+
+[5980] link '' hidden: True
+
+[5983] StaticText 'Some personal websites have accessibility statements, such as the kind recommended by the WAI. Linking to that alongside socials could be a nice touch.'
+
+[5978] heading 'Who would you like to work on this feature?'
+
+[5984] link '' hidden: True
+
+[5653] checkbox '' checked: false
+
+[6153] StaticText 'I would like to work on this feature'
+
+[5655] checkbox '' checked: false
+
+[6155] StaticText 'I would like the site maintainers to work on this feature'
+
+[5979] heading 'Code of conduct'
+
+[5987] link '' hidden: True
+
+[5658] checkbox '' checked: true
+
+[5704] button '👍 0'
+
+[5707] button '👎 0'
+
+[5696] generic 'Add reaction'
+
+[6157] button 'Add reaction' hasPopup: menu expanded: False
+
+[6280] button 'Create merge request'
+
+[6281] button ''
+
+[6282] button 'Drag your designs here or click to upload.'
+
+[6891] link 'click to upload'
+
+[6009] heading 'Tasks'
+
+[6018] button 'Add' hasPopup: menu expanded: False
+
+[6019] button 'Collapse tasks'
+
+[6022] StaticText 'No tasks are currently assigned. Use tasks to break down this issue into smaller parts.'
+
+[5622] complementary 'issue' live: polite atomic: False relevant: additions text
+
+[6316] button 'Toggle sidebar' focused: True describedby: gl-tooltip7
+
+[7874] button 'Add a to do'
+
+[7849] generic 'Byte Blaze'
+
+[7872] button "Byte Blaze's avatar"
+
+[7914] img "Byte Blaze's avatar"
+
+[7857] generic 'being discussed, feature'
+
+[7845] generic 'Milestone'
+
+[7863] img 'Milestone'
+
+[7896] StaticText 'No milestone'
+
+[7898] generic 'Due date'
+
+[7860] StaticText 'None'
+
+[7882] generic 'Time tracking'
+
+[7907] generic 'Not confidential'
+
+[7870] generic 'Notifications on'
+
+[7880] generic '2 participants'
+
+[7858] button 'Copy Reference' live: polite atomic: False relevant: additions text
+
+[7916] tooltip 'Expand sidebar'</pre><div>
+
+[6316]. In summary, the next action I will perform is `click [6316]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[6316]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '6316', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [6316]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [6316] where [6316] is [6316] button 'Toggle sidebar' focused: True describedby: gl-tooltip7</pre></div></div>
+
+[5586] RootWebArea '[Feature suggestion] Support linking to an accessibility statement (#71) · Issues · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[5788] link 'Skip to content'
+
+[6027] link 'Dashboard'
+
+[6182] button '' hasPopup: menu expanded: False
+
+[5598] textbox 'Search GitLab' required: False
+
+[7085] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6188] link 'Create new...'
+
+[6190] link 'Issues'
+
+[6440] generic '13 assigned issues'
+
+[6191] link 'Merge requests'
+
+[6442] generic '8 merge requests'
+
+[6193] link 'To-Do List'
+
+[6458] generic 'Todos count'
+
+[6194] link 'Help'
+
+[6196] link 'Byte Blaze'
+
+[6492] img 'Byte Blaze'
+
+[5789] complementary 'Project navigation'
+
+[6060] listitem 'a11y-webring.club'
+
+[6198] link 'a11y-webring.club'
+
+[6533] StaticText 'A'
+
+[6199] link 'Project information'
+
+[6201] link 'Repository'
+
+[6203] link 'Issues'
+
+[6598] StaticText '4'
+
+[7130] link 'Issues'
+
+[7441] StaticText 'List'
+
+[7131] link 'Boards'
+
+[7132] link 'Service Desk'
+
+[7133] link 'Milestones'
+
+[6205] link 'Merge requests'
+
+[6207] link 'CI/CD'
+
+[6209] link 'Security & Compliance'
+
+[6211] link 'Deployments'
+
+[6213] link 'Packages and registries'
+
+[6215] link 'Infrastructure'
+
+[6217] link 'Monitor'
+
+[6219] link 'Analytics'
+
+[6221] link 'Wiki'
+
+[6223] link 'Snippets'
+
+[6225] link 'Settings'
+
+[5924] button 'Collapse sidebar'
+
+[5793] navigation 'Breadcrumbs'
+
+[6242] link 'Byte Blaze'
+
+[6244] link 'a11y-webring.club'
+
+[6246] link 'Issues'
+
+[6248] link '#71'
+
+[5602] main ''
+
+[6112] StaticText 'Open'
+
+[6117] StaticText 'Issue created '
+
+[5727] time 'Feb 2, 2023 4:51pm EST'
+
+[6119] StaticText '7 months ago'
+
+[6118] StaticText ' by'
+
+[6120] link 'Rohan Kumar'
+
+[5933] generic 'This user has previously committed to the a11y-webring.club project.'
+
+[6122] StaticText 'Contributor'
+
+[5934] generic '1st contribution!'
+
+[6123] StaticText '1 of 3 checklist items completed'
+
+[5938] button 'Close issue'
+
+[5680] generic 'Issue actions'
+
+[5969] button 'Issue actions' hasPopup: menu expanded: False
+
+[5972] heading '[Feature suggestion] Support linking to an accessibility statement'
+
+[5973] button 'Edit title and description'
+
+[5976] heading 'Feature suggestion'
+
+[5980] link '' hidden: True
+
+[5983] StaticText 'Some personal websites have accessibility statements, such as the kind recommended by the WAI. Linking to that alongside socials could be a nice touch.'
+
+[5978] heading 'Who would you like to work on this feature?'
+
+[5984] link '' hidden: True
+
+[5653] checkbox '' checked: false
+
+[6153] StaticText 'I would like to work on this feature'
+
+[5655] checkbox '' checked: false
+
+[6155] StaticText 'I would like the site maintainers to work on this feature'
+
+[5979] heading 'Code of conduct'
+
+[5987] link '' hidden: True
+
+[5658] checkbox '' checked: true
+
+[5704] button '👍 0'
+
+[5707] button '👎 0'
+
+[5696] generic 'Add reaction'
+
+[6157] button 'Add reaction' hasPopup: menu expanded: False
+
+[6280] button 'Create merge request'
+
+[6281] button ''
+
+[6282] button 'Drag your designs here or click to upload.'
+
+[6891] link 'click to upload'
+
+[6009] heading 'Tasks'
+
+[6018] button 'Add' hasPopup: menu expanded: False
+
+[6019] button 'Collapse tasks'
+
+[5622] complementary 'issue' live: polite atomic: False relevant: additions text
+
+[6316] button 'Toggle sidebar' focused: True describedby: gl-tooltip7
+
+[8161] button 'Add a to do'
+
+[8099] StaticText 'Assignee'
+
+[8052] link 'Edit'
+
+[8134] link "Byte Blaze's avatar Byte Blaze"
+
+[8101] img "Byte Blaze's avatar"
+
+[8157] StaticText 'Labels'
+
+[8119] button 'Edit'
+
+[8118] link 'being discussed'
+
+[8113] button 'Remove label'
+
+[8102] link 'feature'
+
+[8156] button 'Remove label'
+
+[8100] StaticText 'Milestone'
+
+[8146] button 'Edit'
+
+[8111] StaticText 'None'
+
+[8063] StaticText 'Due date'
+
+[8059] button 'Edit'
+
+[8148] StaticText 'Time tracking'
+
+[8123] button 'Add time entry'
+
+[8116] StaticText 'No estimate or time spent'
+
+[8160] StaticText 'Confidentiality'
+
+[8163] button 'Edit'
+
+[8094] StaticText 'Not confidential'
+
+[8120] StaticText 'Lock issue'
+
+[8141] link 'Edit'
+
+[8064] StaticText 'Unlocked'
+
+[8170] StaticText 'Notifications'
+
+[8131] switch 'Notifications' checked: true
+
+[8137] StaticText '2 participants'
+
+[8075] link 'Byte Blaze'
+
+[8129] img 'Byte Blaze'
+
+[8162] link 'Rohan Kumar'
+
+[8106] img 'Rohan Kumar'
+
+[8171] tooltip 'Collapse sidebar'</pre><div>
+
+[6316] where [6316] is button 'Toggle sidebar' focused: True describedby: gl-tooltip7</div>
+
+[8099]` and then `click [8052]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to assign the issue regarding linking to an accessibility statement in a11y-webring.club to Rohan. The user has already clicked on the "Toggle sidebar" button. Now, I need to click on the "Assignee" link and then click on the "Edit" button. In summary, the next action I will perform is `click [8099]` and then `click [8052]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[5586] RootWebArea '[Feature suggestion] Support linking to an accessibility statement (#71) · Issues · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[5788] link 'Skip to content'
+
+[6027] link 'Dashboard'
+
+[6182] button '' hasPopup: menu expanded: False
+
+[5598] textbox 'Search GitLab' required: False
+
+[7085] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6188] link 'Create new...'
+
+[6190] link 'Issues'
+
+[6440] generic '13 assigned issues'
+
+[6191] link 'Merge requests'
+
+[6442] generic '8 merge requests'
+
+[6193] link 'To-Do List'
+
+[6458] generic 'Todos count'
+
+[6194] link 'Help'
+
+[6196] link 'Byte Blaze'
+
+[6492] img 'Byte Blaze'
+
+[5789] complementary 'Project navigation'
+
+[6060] listitem 'a11y-webring.club'
+
+[6198] link 'a11y-webring.club'
+
+[6533] StaticText 'A'
+
+[6199] link 'Project information'
+
+[6201] link 'Repository'
+
+[6203] link 'Issues'
+
+[6598] StaticText '4'
+
+[7130] link 'Issues'
+
+[7441] StaticText 'List'
+
+[7131] link 'Boards'
+
+[7132] link 'Service Desk'
+
+[7133] link 'Milestones'
+
+[6205] link 'Merge requests'
+
+[6207] link 'CI/CD'
+
+[6209] link 'Security & Compliance'
+
+[6211] link 'Deployments'
+
+[6213] link 'Packages and registries'
+
+[6215] link 'Infrastructure'
+
+[6217] link 'Monitor'
+
+[6219] link 'Analytics'
+
+[6221] link 'Wiki'
+
+[6223] link 'Snippets'
+
+[6225] link 'Settings'
+
+[5924] button 'Collapse sidebar'
+
+[5793] navigation 'Breadcrumbs'
+
+[6242] link 'Byte Blaze'
+
+[6244] link 'a11y-webring.club'
+
+[6246] link 'Issues'
+
+[6248] link '#71'
+
+[5602] main ''
+
+[6112] StaticText 'Open'
+
+[6117] StaticText 'Issue created '
+
+[5727] time 'Feb 2, 2023 4:51pm EST'
+
+[6119] StaticText '7 months ago'
+
+[6118] StaticText ' by'
+
+[6120] link 'Rohan Kumar'
+
+[5933] generic 'This user has previously committed to the a11y-webring.club project.'
+
+[6122] StaticText 'Contributor'
+
+[5934] generic '1st contribution!'
+
+[6123] StaticText '1 of 3 checklist items completed'
+
+[5938] button 'Close issue'
+
+[5680] generic 'Issue actions'
+
+[5969] button 'Issue actions' hasPopup: menu expanded: False
+
+[5972] heading '[Feature suggestion] Support linking to an accessibility statement'
+
+[5973] button 'Edit title and description'
+
+[5976] heading 'Feature suggestion'
+
+[5980] link '' hidden: True
+
+[5983] StaticText 'Some personal websites have accessibility statements, such as the kind recommended by the WAI. Linking to that alongside socials could be a nice touch.'
+
+[5978] heading 'Who would you like to work on this feature?'
+
+[5984] link '' hidden: True
+
+[5653] checkbox '' checked: false
+
+[6153] StaticText 'I would like to work on this feature'
+
+[5655] checkbox '' checked: false
+
+[6155] StaticText 'I would like the site maintainers to work on this feature'
+
+[5979] heading 'Code of conduct'
+
+[5987] link '' hidden: True
+
+[5658] checkbox '' checked: true
+
+[5704] button '👍 0'
+
+[5707] button '👎 0'
+
+[5696] generic 'Add reaction'
+
+[6157] button 'Add reaction' hasPopup: menu expanded: False
+
+[6280] button 'Create merge request'
+
+[6281] button ''
+
+[6282] button 'Drag your designs here or click to upload.'
+
+[6891] link 'click to upload'
+
+[6009] heading 'Tasks'
+
+[6018] button 'Add' hasPopup: menu expanded: False
+
+[6019] button 'Collapse tasks'
+
+[5622] complementary 'issue' live: polite atomic: False relevant: additions text
+
+[6316] button 'Toggle sidebar' focused: True describedby: gl-tooltip7
+
+[8161] button 'Add a to do'
+
+[8099] StaticText 'Assignee'
+
+[8052] link 'Edit'
+
+[8134] link "Byte Blaze's avatar Byte Blaze"
+
+[8101] img "Byte Blaze's avatar"
+
+[8157] StaticText 'Labels'
+
+[8119] button 'Edit'
+
+[8118] link 'being discussed'
+
+[8113] button 'Remove label'
+
+[8102] link 'feature'
+
+[8156] button 'Remove label'
+
+[8100] StaticText 'Milestone'
+
+[8146] button 'Edit'
+
+[8111] StaticText 'None'
+
+[8063] StaticText 'Due date'
+
+[8059] button 'Edit'
+
+[8148] StaticText 'Time tracking'
+
+[8123] button 'Add time entry'
+
+[8116] StaticText 'No estimate or time spent'
+
+[8160] StaticText 'Confidentiality'
+
+[8163] button 'Edit'
+
+[8094] StaticText 'Not confidential'
+
+[8120] StaticText 'Lock issue'
+
+[8141] link 'Edit'
+
+[8064] StaticText 'Unlocked'
+
+[8170] StaticText 'Notifications'
+
+[8131] switch 'Notifications' checked: true
+
+[8137] StaticText '2 participants'
+
+[8075] link 'Byte Blaze'
+
+[8129] img 'Byte Blaze'
+
+[8162] link 'Rohan Kumar'
+
+[8106] img 'Rohan Kumar'
+
+[8171] tooltip 'Collapse sidebar'</pre><div>
+
+[8099]` and then `click [8052]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[8099]``` and then ```click [8052]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '8099', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to assign the issue regarding linking to an accessibility statement in a11y-webring.club to Rohan. The user has already clicked on the "Toggle sidebar" button. Now, I need to click on the "Assignee" link and then click on the "Edit" button. In summary, the next action I will perform is ```click [8099]``` and then ```click [8052]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [8099] where [8099] is [8099] StaticText 'Assignee'</pre></div></div>
+
+[5586] RootWebArea '[Feature suggestion] Support linking to an accessibility statement (#71) · Issues · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[5788] link 'Skip to content'
+
+[6027] link 'Dashboard'
+
+[6182] button '' hasPopup: menu expanded: False
+
+[5598] textbox 'Search GitLab' required: False
+
+[7085] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6188] link 'Create new...'
+
+[6190] link 'Issues'
+
+[6440] generic '13 assigned issues'
+
+[6191] link 'Merge requests'
+
+[6442] generic '8 merge requests'
+
+[6193] link 'To-Do List'
+
+[6458] generic 'Todos count'
+
+[6194] link 'Help'
+
+[6196] link 'Byte Blaze'
+
+[6492] img 'Byte Blaze'
+
+[5789] complementary 'Project navigation'
+
+[6060] listitem 'a11y-webring.club'
+
+[6198] link 'a11y-webring.club'
+
+[6533] StaticText 'A'
+
+[6199] link 'Project information'
+
+[6201] link 'Repository'
+
+[6203] link 'Issues'
+
+[6598] StaticText '4'
+
+[7130] link 'Issues'
+
+[7441] StaticText 'List'
+
+[7131] link 'Boards'
+
+[7132] link 'Service Desk'
+
+[7133] link 'Milestones'
+
+[6205] link 'Merge requests'
+
+[6207] link 'CI/CD'
+
+[6209] link 'Security & Compliance'
+
+[6211] link 'Deployments'
+
+[6213] link 'Packages and registries'
+
+[6215] link 'Infrastructure'
+
+[6217] link 'Monitor'
+
+[6219] link 'Analytics'
+
+[6221] link 'Wiki'
+
+[6223] link 'Snippets'
+
+[6225] link 'Settings'
+
+[5924] button 'Collapse sidebar'
+
+[5793] navigation 'Breadcrumbs'
+
+[6242] link 'Byte Blaze'
+
+[6244] link 'a11y-webring.club'
+
+[6246] link 'Issues'
+
+[6248] link '#71'
+
+[5602] main ''
+
+[6112] StaticText 'Open'
+
+[6117] StaticText 'Issue created '
+
+[5727] time 'Feb 2, 2023 4:51pm EST'
+
+[6119] StaticText '7 months ago'
+
+[6118] StaticText ' by'
+
+[6120] link 'Rohan Kumar'
+
+[5933] generic 'This user has previously committed to the a11y-webring.club project.'
+
+[6122] StaticText 'Contributor'
+
+[5934] generic '1st contribution!'
+
+[6123] StaticText '1 of 3 checklist items completed'
+
+[5938] button 'Close issue'
+
+[5680] generic 'Issue actions'
+
+[5969] button 'Issue actions' hasPopup: menu expanded: False
+
+[5972] heading '[Feature suggestion] Support linking to an accessibility statement'
+
+[5973] button 'Edit title and description'
+
+[5976] heading 'Feature suggestion'
+
+[5980] link '' hidden: True
+
+[5983] StaticText 'Some personal websites have accessibility statements, such as the kind recommended by the WAI. Linking to that alongside socials could be a nice touch.'
+
+[5978] heading 'Who would you like to work on this feature?'
+
+[5984] link '' hidden: True
+
+[5653] checkbox '' checked: false
+
+[6153] StaticText 'I would like to work on this feature'
+
+[5655] checkbox '' checked: false
+
+[6155] StaticText 'I would like the site maintainers to work on this feature'
+
+[5979] heading 'Code of conduct'
+
+[5987] link '' hidden: True
+
+[5658] checkbox '' checked: true
+
+[5704] button '👍 0'
+
+[5707] button '👎 0'
+
+[5696] generic 'Add reaction'
+
+[6157] button 'Add reaction' hasPopup: menu expanded: False
+
+[6280] button 'Create merge request'
+
+[6281] button ''
+
+[6282] button 'Drag your designs here or click to upload.'
+
+[6891] link 'click to upload'
+
+[6009] heading 'Tasks'
+
+[6018] button 'Add' hasPopup: menu expanded: False
+
+[6019] button 'Collapse tasks'
+
+[5622] complementary 'issue' live: polite atomic: False relevant: additions text
+
+[6316] button 'Toggle sidebar'
+
+[8161] button 'Add a to do'
+
+[8099] StaticText 'Assignee'
+
+[8052] link 'Edit'
+
+[8134] link "Byte Blaze's avatar Byte Blaze"
+
+[8101] img "Byte Blaze's avatar"
+
+[8157] StaticText 'Labels'
+
+[8119] button 'Edit'
+
+[8118] link 'being discussed'
+
+[8113] button 'Remove label'
+
+[8102] link 'feature'
+
+[8156] button 'Remove label'
+
+[8100] StaticText 'Milestone'
+
+[8146] button 'Edit'
+
+[8111] StaticText 'None'
+
+[8063] StaticText 'Due date'
+
+[8059] button 'Edit'
+
+[8148] StaticText 'Time tracking'
+
+[8123] button 'Add time entry'
+
+[8116] StaticText 'No estimate or time spent'
+
+[8160] StaticText 'Confidentiality'
+
+[8163] button 'Edit'
+
+[8094] StaticText 'Not confidential'
+
+[8120] StaticText 'Lock issue'
+
+[8141] link 'Edit'
+
+[8064] StaticText 'Unlocked'
+
+[8170] StaticText 'Notifications'
+
+[8131] switch 'Notifications' checked: true
+
+[8137] StaticText '2 participants'
+
+[8075] link 'Byte Blaze'
+
+[8129] img 'Byte Blaze'
+
+[8162] link 'Rohan Kumar'
+
+[8106] img 'Rohan Kumar'</pre><div>
+
+[8099] where [8099] is StaticText 'Assignee'</div>
+
+[8099] [Rohan] [1]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [65, 94, 87, 80, 93, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '8099', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. The objective is to assign the issue to Rohan. Currently, the Assignee field is focused. To assign the issue to Rohan, I need to type their name and select it from the suggestions list. After that, I can press the Enter key to confirm the assignment. In summary, the next action I will perform is ```type [8099] [Rohan] [1]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [8099] [Rohan
+
+[8099] is [8099] StaticText 'Assignee'</pre></div></div>
+
+[5586] RootWebArea '[Feature suggestion] Support linking to an accessibility statement (#71) · Issues · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[5788] link 'Skip to content'
+
+[6027] link 'Dashboard'
+
+[6182] button '' hasPopup: menu expanded: False
+
+[5598] textbox 'Search GitLab' required: False
+
+[7085] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6188] link 'Create new...'
+
+[6190] link 'Issues'
+
+[6440] generic '13 assigned issues'
+
+[6191] link 'Merge requests'
+
+[6442] generic '8 merge requests'
+
+[6193] link 'To-Do List'
+
+[6458] generic 'Todos count'
+
+[6194] link 'Help'
+
+[6196] link 'Byte Blaze'
+
+[6492] img 'Byte Blaze'
+
+[5789] complementary 'Project navigation'
+
+[6060] listitem 'a11y-webring.club'
+
+[6198] link 'a11y-webring.club'
+
+[6533] StaticText 'A'
+
+[6199] link 'Project information'
+
+[6201] link 'Repository'
+
+[6203] link 'Issues'
+
+[6598] StaticText '4'
+
+[7130] link 'Issues'
+
+[7441] StaticText 'List'
+
+[7131] link 'Boards'
+
+[7132] link 'Service Desk'
+
+[7133] link 'Milestones'
+
+[6205] link 'Merge requests'
+
+[6207] link 'CI/CD'
+
+[6209] link 'Security & Compliance'
+
+[6211] link 'Deployments'
+
+[6213] link 'Packages and registries'
+
+[6215] link 'Infrastructure'
+
+[6217] link 'Monitor'
+
+[6219] link 'Analytics'
+
+[6221] link 'Wiki'
+
+[6223] link 'Snippets'
+
+[6225] link 'Settings'
+
+[5924] button 'Collapse sidebar'
+
+[5602] main ''
+
+[8283] StaticText 'Open'
+
+[8277] paragraph '[Feature suggestion] Support linking to an accessibility statement'
+
+[7458] link 'Rohan Kumar '
+
+[7462] StaticText 'added '
+
+[7464] link 'feature'
+
+[7465] StaticText ' label'
+
+[7467] link '7 months ago'
+
+[7570] time 'Feb 2, 2023 4:51pm EST'
+
+[7477] link 'Rohan Kumar '
+
+[7481] StaticText 'assigned to '
+
+[7482] link '@ericwbailey'
+
+[7484] link '7 months ago'
+
+[7583] time 'Feb 2, 2023 4:51pm EST'
+
+[7494] link 'Byte Blaze '
+
+[7498] StaticText 'added '
+
+[7500] link 'being discussed'
+
+[7501] StaticText ' label'
+
+[7503] link '7 months ago'
+
+[7594] time 'Feb 4, 2023 7:04pm EST'
+
+[7506] link 'Byte Blaze'
+
+[7604] img 'Byte Blaze'
+
+[7508] link 'Byte Blaze'
+
+[7513] link '@byteblaze'
+
+[7519] StaticText '·'
+
+[7521] link '7 months ago'
+
+[7523] time 'Feb 4, 2023 7:05pm EST'
+
+[7526] generic 'This user has the owner role in the a11y-webring.club project.'
+
+[7531] StaticText 'Owner'
+
+[7605] button '' hasPopup: menu expanded: False
+
+[7528] button 'Reply to comment'
+
+[7529] button 'Edit comment'
+
+[7534] button 'More actions'
+
+[7631] StaticText 'Another excellent suggestion, thank you!'
+
+[7709] tablist '' multiselectable: False orientation: horizontal
+
+[7711] tab 'Write' selected: True controls: __BVID__157
+
+[7713] tab 'Preview' selected: False controls: __BVID__160
+
+[7759] button 'Add bold text (⌘B)'
+
+[7760] button 'Add italic text (⌘I)'
+
+[7761] button 'Add strikethrough text (⌘⇧X)'
+
+[7762] button 'Insert a quote'
+
+[7763] button 'Insert code'
+
+[7764] button 'Add a link (⌘K)'
+
+[7765] button 'Add a bullet list'
+
+[7766] button 'Add a numbered list'
+
+[7767] button 'Add a checklist'
+
+[7770] button 'Add a collapsible section'
+
+[7771] button 'Add a table'
+
+[7772] button 'Attach a file or image'
+
+[7773] button 'Go full screen'
+
+[5688] tabpanel 'Write'
+
+[5618] textbox 'Comment' focused: True required: False
+
+[8252] StaticText 'ohan'
+
+[8286] StaticText '\n'
+
+[8253] LineBreak '\n'
+
+[7657] StaticText 'Supports '
+
+[7658] link 'Markdown'
+
+[7659] StaticText '. For '
+
+[7660] link 'quick actions'
+
+[7661] StaticText ', type '
+
+[7721] StaticText '/'
+
+[7663] StaticText '.'
+
+[5621] checkbox 'Make this an internal note Internal notes are only visible to members with the role of Reporter or higher' checked: false
+
+[7693] button 'Comment'
+
+[7694] button 'Toggle dropdown' hasPopup: menu expanded: False
+
+[7637] button 'Comment & close issue'
+
+[5622] complementary 'issue' live: polite atomic: False relevant: additions text
+
+[6316] button 'Toggle sidebar'
+
+[8161] button 'Add a to do'
+
+[8099] StaticText 'Assignee'
+
+[8052] link 'Edit'
+
+[8134] link "Byte Blaze's avatar Byte Blaze"
+
+[8101] img "Byte Blaze's avatar"
+
+[8157] StaticText 'Labels'
+
+[8119] button 'Edit'
+
+[8118] link 'being discussed'
+
+[8113] button 'Remove label'
+
+[8102] link 'feature'
+
+[8156] button 'Remove label'
+
+[8100] StaticText 'Milestone'
+
+[8146] button 'Edit'
+
+[8111] StaticText 'None'
+
+[8063] StaticText 'Due date'
+
+[8059] button 'Edit'
+
+[8148] StaticText 'Time tracking'
+
+[8123] button 'Add time entry'
+
+[8116] StaticText 'No estimate or time spent'
+
+[8160] StaticText 'Confidentiality'
+
+[8163] button 'Edit'
+
+[8094] StaticText 'Not confidential'
+
+[8120] StaticText 'Lock issue'
+
+[8141] link 'Edit'
+
+[8064] StaticText 'Unlocked'
+
+[8170] StaticText 'Notifications'
+
+[8131] switch 'Notifications' checked: true
+
+[8137] StaticText '2 participants'
+
+[8075] link 'Byte Blaze'
+
+[8129] img 'Byte Blaze'
+
+[8162] link 'Rohan Kumar'
+
+[8106] img 'Rohan Kumar'</pre><div>
+
+[8099] [Rohan
+
+[8099] is StaticText 'Assignee'</div>
+
+[8119]``` to assign the issue.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '8119', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To assign the issue to Rohan, I need to find the button or link that allows me to assign the issue and click on it. The button or link should have the label or text "Assign" or "Assignee". I can then search for Rohan in the assignee list and click on his name to assign the issue to him. In summary, the next action I will perform is ```click [8119]``` to assign the issue.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [8119] where [8119] is [8119] button 'Edit'</pre></div></div>
+
+[5586] RootWebArea '[Feature suggestion] Support linking to an accessibility statement (#71) · Issues · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[5788] link 'Skip to content'
+
+[6027] link 'Dashboard'
+
+[6182] button '' hasPopup: menu expanded: False
+
+[5598] textbox 'Search GitLab' required: False
+
+[7085] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6188] link 'Create new...'
+
+[6190] link 'Issues'
+
+[6440] generic '13 assigned issues'
+
+[6191] link 'Merge requests'
+
+[6442] generic '8 merge requests'
+
+[6193] link 'To-Do List'
+
+[6458] generic 'Todos count'
+
+[6194] link 'Help'
+
+[6196] link 'Byte Blaze'
+
+[6492] img 'Byte Blaze'
+
+[5789] complementary 'Project navigation'
+
+[6060] listitem 'a11y-webring.club'
+
+[6198] link 'a11y-webring.club'
+
+[6533] StaticText 'A'
+
+[6199] link 'Project information'
+
+[6201] link 'Repository'
+
+[6203] link 'Issues'
+
+[6598] StaticText '4'
+
+[7130] link 'Issues'
+
+[7441] StaticText 'List'
+
+[7131] link 'Boards'
+
+[7132] link 'Service Desk'
+
+[7133] link 'Milestones'
+
+[6205] link 'Merge requests'
+
+[6207] link 'CI/CD'
+
+[6209] link 'Security & Compliance'
+
+[6211] link 'Deployments'
+
+[6213] link 'Packages and registries'
+
+[6215] link 'Infrastructure'
+
+[6217] link 'Monitor'
+
+[6219] link 'Analytics'
+
+[6221] link 'Wiki'
+
+[6223] link 'Snippets'
+
+[6225] link 'Settings'
+
+[5924] button 'Collapse sidebar'
+
+[5602] main ''
+
+[8283] StaticText 'Open'
+
+[8277] paragraph '[Feature suggestion] Support linking to an accessibility statement'
+
+[7458] link 'Rohan Kumar '
+
+[7462] StaticText 'added '
+
+[7464] link 'feature'
+
+[7465] StaticText ' label'
+
+[7467] link '7 months ago'
+
+[7570] time 'Feb 2, 2023 4:51pm EST'
+
+[7477] link 'Rohan Kumar '
+
+[7481] StaticText 'assigned to '
+
+[7482] link '@ericwbailey'
+
+[7484] link '7 months ago'
+
+[7583] time 'Feb 2, 2023 4:51pm EST'
+
+[7494] link 'Byte Blaze '
+
+[7498] StaticText 'added '
+
+[7500] link 'being discussed'
+
+[7501] StaticText ' label'
+
+[7503] link '7 months ago'
+
+[7594] time 'Feb 4, 2023 7:04pm EST'
+
+[7506] link 'Byte Blaze'
+
+[7604] img 'Byte Blaze'
+
+[7508] link 'Byte Blaze'
+
+[7513] link '@byteblaze'
+
+[7519] StaticText '·'
+
+[7521] link '7 months ago'
+
+[7523] time 'Feb 4, 2023 7:05pm EST'
+
+[7526] generic 'This user has the owner role in the a11y-webring.club project.'
+
+[7531] StaticText 'Owner'
+
+[7605] button '' hasPopup: menu expanded: False
+
+[7528] button 'Reply to comment'
+
+[7529] button 'Edit comment'
+
+[7534] button 'More actions'
+
+[7631] StaticText 'Another excellent suggestion, thank you!'
+
+[7709] tablist '' multiselectable: False orientation: horizontal
+
+[7711] tab 'Write' selected: True controls: __BVID__157
+
+[7713] tab 'Preview' selected: False controls: __BVID__160
+
+[7759] button 'Add bold text (⌘B)'
+
+[7760] button 'Add italic text (⌘I)'
+
+[7761] button 'Add strikethrough text (⌘⇧X)'
+
+[7762] button 'Insert a quote'
+
+[7763] button 'Insert code'
+
+[7764] button 'Add a link (⌘K)'
+
+[7765] button 'Add a bullet list'
+
+[7766] button 'Add a numbered list'
+
+[7767] button 'Add a checklist'
+
+[7770] button 'Add a collapsible section'
+
+[7771] button 'Add a table'
+
+[7772] button 'Attach a file or image'
+
+[7773] button 'Go full screen'
+
+[5688] tabpanel 'Write'
+
+[5618] textbox 'Comment' required: False
+
+[8252] StaticText 'ohan'
+
+[8286] StaticText '\n'
+
+[8253] LineBreak '\n'
+
+[7657] StaticText 'Supports '
+
+[7658] link 'Markdown'
+
+[7659] StaticText '. For '
+
+[7660] link 'quick actions'
+
+[7661] StaticText ', type '
+
+[7721] StaticText '/'
+
+[7663] StaticText '.'
+
+[5621] checkbox 'Make this an internal note Internal notes are only visible to members with the role of Reporter or higher' checked: false
+
+[7693] button 'Comment'
+
+[7694] button 'Toggle dropdown' hasPopup: menu expanded: False
+
+[7637] button 'Comment & close issue'
+
+[5622] complementary 'issue' live: polite atomic: False relevant: additions text
+
+[6316] button 'Toggle sidebar'
+
+[8161] button 'Add a to do'
+
+[8099] StaticText 'Assignee'
+
+[8052] link 'Edit'
+
+[8134] link "Byte Blaze's avatar Byte Blaze"
+
+[8101] img "Byte Blaze's avatar"
+
+[8157] StaticText 'Labels'
+
+[8119] button 'Edit'
+
+[8293] link 'being discussed'
+
+[8346] button 'Remove label'
+
+[8322] link 'feature'
+
+[8299] button 'Remove label'
+
+[8328] button 'being discussed +1 more' hasPopup: menu expanded: True
+
+[8347] menu 'being discussed +1 more' orientation: vertical
+
+[8332] StaticText 'Assign labels'
+
+[8337] button 'Close'
+
+[8296] searchbox 'Search labels' focused: True
+
+[8376] menuitem 'addition'
+
+[8378] menuitem 'being discussed'
+
+[8380] menuitem 'bug'
+
+[8382] menuitem 'changes requested'
+
+[8384] menuitem 'code of conduct'
+
+[8386] menuitem 'feature'
+
+[8388] menuitem 'help wanted'
+
+[8390] menuitem 'invalid'
+
+[8392] menuitem 'needs triage'
+
+[8394] menuitem 'removal'
+
+[8396] menuitem 'update'
+
+[8398] menuitem 'wontfix'
+
+[8344] menuitem 'Create project label'
+
+[8339] menuitem 'Manage project labels'
+
+[8100] StaticText 'Milestone'
+
+[8146] button 'Edit'
+
+[8111] StaticText 'None'
+
+[8063] StaticText 'Due date'
+
+[8059] button 'Edit'
+
+[8148] StaticText 'Time tracking'
+
+[8123] button 'Add time entry'
+
+[8116] StaticText 'No estimate or time spent'
+
+[8160] StaticText 'Confidentiality'
+
+[8163] button 'Edit'
+
+[8094] StaticText 'Not confidential'
+
+[8120] StaticText 'Lock issue'
+
+[8141] link 'Edit'
+
+[8064] StaticText 'Unlocked'
+
+[8170] StaticText 'Notifications'
+
+[8131] switch 'Notifications' checked: true</pre><div>
+
+[8119] where [8119] is button 'Edit'</div>
+
+[8119] labeled 'Edit'. Clicking this button will allow us to edit the issue. Once we are on the edit page, we can assign the issue to Rohan by selecting his name from a dropdown or typing it in a textbox. I will perform the first step and click the 'Edit' button. In summary, the next action I will perform is ```click [8119]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '8119', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. On this page, there is a button with the ID [8119] labeled 'Edit'. Clicking this button will allow us to edit the issue. Once we are on the edit page, we can assign the issue to Rohan by selecting his name from a dropdown or typing it in a textbox. I will perform the first step and click the 'Edit' button. In summary, the next action I will perform is ```click [8119]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [8119] where [8119] is [8119] button 'Edit'</pre></div></div>
+
+[5586] RootWebArea '[Feature suggestion] Support linking to an accessibility statement (#71) · Issues · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[5788] link 'Skip to content'
+
+[6027] link 'Dashboard'
+
+[6182] button '' hasPopup: menu expanded: False
+
+[5598] textbox 'Search GitLab' required: False
+
+[7085] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6188] link 'Create new...'
+
+[6190] link 'Issues'
+
+[6440] generic '13 assigned issues'
+
+[6191] link 'Merge requests'
+
+[6442] generic '8 merge requests'
+
+[6193] link 'To-Do List'
+
+[6458] generic 'Todos count'
+
+[6194] link 'Help'
+
+[6196] link 'Byte Blaze'
+
+[6492] img 'Byte Blaze'
+
+[5789] complementary 'Project navigation'
+
+[6060] listitem 'a11y-webring.club'
+
+[6198] link 'a11y-webring.club'
+
+[6533] StaticText 'A'
+
+[6199] link 'Project information'
+
+[6201] link 'Repository'
+
+[6203] link 'Issues'
+
+[6598] StaticText '4'
+
+[7130] link 'Issues'
+
+[7441] StaticText 'List'
+
+[7131] link 'Boards'
+
+[7132] link 'Service Desk'
+
+[7133] link 'Milestones'
+
+[6205] link 'Merge requests'
+
+[6207] link 'CI/CD'
+
+[6209] link 'Security & Compliance'
+
+[6211] link 'Deployments'
+
+[6213] link 'Packages and registries'
+
+[6215] link 'Infrastructure'
+
+[6217] link 'Monitor'
+
+[6219] link 'Analytics'
+
+[6221] link 'Wiki'
+
+[6223] link 'Snippets'
+
+[6225] link 'Settings'
+
+[5924] button 'Collapse sidebar'
+
+[5602] main ''
+
+[8283] StaticText 'Open'
+
+[8277] paragraph '[Feature suggestion] Support linking to an accessibility statement'
+
+[7458] link 'Rohan Kumar '
+
+[7462] StaticText 'added '
+
+[7464] link 'feature'
+
+[7465] StaticText ' label'
+
+[7467] link '7 months ago'
+
+[7570] time 'Feb 2, 2023 4:51pm EST'
+
+[7477] link 'Rohan Kumar '
+
+[7481] StaticText 'assigned to '
+
+[7482] link '@ericwbailey'
+
+[7484] link '7 months ago'
+
+[7583] time 'Feb 2, 2023 4:51pm EST'
+
+[7494] link 'Byte Blaze '
+
+[7498] StaticText 'added '
+
+[7500] link 'being discussed'
+
+[7501] StaticText ' label'
+
+[7503] link '7 months ago'
+
+[7594] time 'Feb 4, 2023 7:04pm EST'
+
+[7506] link 'Byte Blaze'
+
+[7604] img 'Byte Blaze'
+
+[7508] link 'Byte Blaze'
+
+[7513] link '@byteblaze'
+
+[7519] StaticText '·'
+
+[7521] link '7 months ago'
+
+[7523] time 'Feb 4, 2023 7:05pm EST'
+
+[7526] generic 'This user has the owner role in the a11y-webring.club project.'
+
+[7531] StaticText 'Owner'
+
+[7605] button '' hasPopup: menu expanded: False
+
+[7528] button 'Reply to comment'
+
+[7529] button 'Edit comment'
+
+[7534] button 'More actions'
+
+[7631] StaticText 'Another excellent suggestion, thank you!'
+
+[7709] tablist '' multiselectable: False orientation: horizontal
+
+[7711] tab 'Write' selected: True controls: __BVID__157
+
+[7713] tab 'Preview' selected: False controls: __BVID__160
+
+[7759] button 'Add bold text (⌘B)'
+
+[7760] button 'Add italic text (⌘I)'
+
+[7761] button 'Add strikethrough text (⌘⇧X)'
+
+[7762] button 'Insert a quote'
+
+[7763] button 'Insert code'
+
+[7764] button 'Add a link (⌘K)'
+
+[7765] button 'Add a bullet list'
+
+[7766] button 'Add a numbered list'
+
+[7767] button 'Add a checklist'
+
+[7770] button 'Add a collapsible section'
+
+[7771] button 'Add a table'
+
+[7772] button 'Attach a file or image'
+
+[7773] button 'Go full screen'
+
+[5688] tabpanel 'Write'
+
+[5618] textbox 'Comment' required: False
+
+[8252] StaticText 'ohan'
+
+[8286] StaticText '\n'
+
+[8253] LineBreak '\n'
+
+[7657] StaticText 'Supports '
+
+[7658] link 'Markdown'
+
+[7659] StaticText '. For '
+
+[7660] link 'quick actions'
+
+[7661] StaticText ', type '
+
+[7721] StaticText '/'
+
+[7663] StaticText '.'
+
+[5621] checkbox 'Make this an internal note Internal notes are only visible to members with the role of Reporter or higher' checked: false
+
+[7693] button 'Comment'
+
+[7694] button 'Toggle dropdown' hasPopup: menu expanded: False
+
+[7637] button 'Comment & close issue'
+
+[5622] complementary 'issue' live: polite atomic: False relevant: additions text
+
+[6316] button 'Toggle sidebar'
+
+[8161] button 'Add a to do'
+
+[8099] StaticText 'Assignee'
+
+[8052] link 'Edit'
+
+[8134] link "Byte Blaze's avatar Byte Blaze"
+
+[8101] img "Byte Blaze's avatar"
+
+[8157] StaticText 'Labels'
+
+[8119] button 'Edit' focused: True
+
+[8538] link 'being discussed'
+
+[8530] button 'Remove label'
+
+[8533] link 'feature'
+
+[8532] button 'Remove label'
+
+[8100] StaticText 'Milestone'
+
+[8146] button 'Edit'
+
+[8111] StaticText 'None'
+
+[8063] StaticText 'Due date'
+
+[8059] button 'Edit'
+
+[8148] StaticText 'Time tracking'
+
+[8123] button 'Add time entry'
+
+[8116] StaticText 'No estimate or time spent'
+
+[8160] StaticText 'Confidentiality'
+
+[8163] button 'Edit'
+
+[8094] StaticText 'Not confidential'
+
+[8120] StaticText 'Lock issue'
+
+[8141] link 'Edit'
+
+[8064] StaticText 'Unlocked'
+
+[8170] StaticText 'Notifications'
+
+[8131] switch 'Notifications' checked: true
+
+[8137] StaticText '2 participants'
+
+[8075] link 'Byte Blaze'
+
+[8129] img 'Byte Blaze'
+
+[8162] link 'Rohan Kumar'
+
+[8106] img 'Rohan Kumar'</pre><div>
+
+[8119] where [8119] is button 'Edit'</div>
+
+[8119]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '8119', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to assign the issue regarding linking to an accessibility statement in a11y-webring.club to Rohan. To do this, we need to click the \'Edit\' button, find the input field to assign the issue, and then type "Rohan" to assign it to him. In summary, the next action I will perform is ```click [8119]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [8119] where [8119] is [8119] button 'Edit' focused: True</pre></div></div>
+
+[5586] RootWebArea '[Feature suggestion] Support linking to an accessibility statement (#71) · Issues · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[5788] link 'Skip to content'
+
+[6027] link 'Dashboard'
+
+[6182] button '' hasPopup: menu expanded: False
+
+[5598] textbox 'Search GitLab' required: False
+
+[7085] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6188] link 'Create new...'
+
+[6190] link 'Issues'
+
+[6440] generic '13 assigned issues'
+
+[6191] link 'Merge requests'
+
+[6442] generic '8 merge requests'
+
+[6193] link 'To-Do List'
+
+[6458] generic 'Todos count'
+
+[6194] link 'Help'
+
+[6196] link 'Byte Blaze'
+
+[6492] img 'Byte Blaze'
+
+[5789] complementary 'Project navigation'
+
+[6060] listitem 'a11y-webring.club'
+
+[6198] link 'a11y-webring.club'
+
+[6533] StaticText 'A'
+
+[6199] link 'Project information'
+
+[6201] link 'Repository'
+
+[6203] link 'Issues'
+
+[6598] StaticText '4'
+
+[7130] link 'Issues'
+
+[7441] StaticText 'List'
+
+[7131] link 'Boards'
+
+[7132] link 'Service Desk'
+
+[7133] link 'Milestones'
+
+[6205] link 'Merge requests'
+
+[6207] link 'CI/CD'
+
+[6209] link 'Security & Compliance'
+
+[6211] link 'Deployments'
+
+[6213] link 'Packages and registries'
+
+[6215] link 'Infrastructure'
+
+[6217] link 'Monitor'
+
+[6219] link 'Analytics'
+
+[6221] link 'Wiki'
+
+[6223] link 'Snippets'
+
+[6225] link 'Settings'
+
+[5924] button 'Collapse sidebar'
+
+[5602] main ''
+
+[8283] StaticText 'Open'
+
+[8277] paragraph '[Feature suggestion] Support linking to an accessibility statement'
+
+[7458] link 'Rohan Kumar '
+
+[7462] StaticText 'added '
+
+[7464] link 'feature'
+
+[7465] StaticText ' label'
+
+[7467] link '7 months ago'
+
+[7570] time 'Feb 2, 2023 4:51pm EST'
+
+[7477] link 'Rohan Kumar '
+
+[7481] StaticText 'assigned to '
+
+[7482] link '@ericwbailey'
+
+[7484] link '7 months ago'
+
+[7583] time 'Feb 2, 2023 4:51pm EST'
+
+[7494] link 'Byte Blaze '
+
+[7498] StaticText 'added '
+
+[7500] link 'being discussed'
+
+[7501] StaticText ' label'
+
+[7503] link '7 months ago'
+
+[7594] time 'Feb 4, 2023 7:04pm EST'
+
+[7506] link 'Byte Blaze'
+
+[7604] img 'Byte Blaze'
+
+[7508] link 'Byte Blaze'
+
+[7513] link '@byteblaze'
+
+[7519] StaticText '·'
+
+[7521] link '7 months ago'
+
+[7523] time 'Feb 4, 2023 7:05pm EST'
+
+[7526] generic 'This user has the owner role in the a11y-webring.club project.'
+
+[7531] StaticText 'Owner'
+
+[7605] button '' hasPopup: menu expanded: False
+
+[7528] button 'Reply to comment'
+
+[7529] button 'Edit comment'
+
+[7534] button 'More actions'
+
+[7631] StaticText 'Another excellent suggestion, thank you!'
+
+[7709] tablist '' multiselectable: False orientation: horizontal
+
+[7711] tab 'Write' selected: True controls: __BVID__157
+
+[7713] tab 'Preview' selected: False controls: __BVID__160
+
+[7759] button 'Add bold text (⌘B)'
+
+[7760] button 'Add italic text (⌘I)'
+
+[7761] button 'Add strikethrough text (⌘⇧X)'
+
+[7762] button 'Insert a quote'
+
+[7763] button 'Insert code'
+
+[7764] button 'Add a link (⌘K)'
+
+[7765] button 'Add a bullet list'
+
+[7766] button 'Add a numbered list'
+
+[7767] button 'Add a checklist'
+
+[7770] button 'Add a collapsible section'
+
+[7771] button 'Add a table'
+
+[7772] button 'Attach a file or image'
+
+[7773] button 'Go full screen'
+
+[5688] tabpanel 'Write'
+
+[5618] textbox 'Comment' required: False
+
+[8252] StaticText 'ohan'
+
+[8286] StaticText '\n'
+
+[8253] LineBreak '\n'
+
+[7657] StaticText 'Supports '
+
+[7658] link 'Markdown'
+
+[7659] StaticText '. For '
+
+[7660] link 'quick actions'
+
+[7661] StaticText ', type '
+
+[7721] StaticText '/'
+
+[7663] StaticText '.'
+
+[5621] checkbox 'Make this an internal note Internal notes are only visible to members with the role of Reporter or higher' checked: false
+
+[7693] button 'Comment'
+
+[7694] button 'Toggle dropdown' hasPopup: menu expanded: False
+
+[7637] button 'Comment & close issue'
+
+[5622] complementary 'issue' live: polite atomic: False relevant: additions text
+
+[6316] button 'Toggle sidebar'
+
+[8161] button 'Add a to do'
+
+[8099] StaticText 'Assignee'
+
+[8052] link 'Edit'
+
+[8134] link "Byte Blaze's avatar Byte Blaze"
+
+[8101] img "Byte Blaze's avatar"
+
+[8157] StaticText 'Labels'
+
+[8119] button 'Edit'
+
+[8899] link 'being discussed'
+
+[8871] button 'Remove label'
+
+[8886] link 'feature'
+
+[8809] button 'Remove label'
+
+[8866] button 'being discussed +1 more' hasPopup: menu expanded: True
+
+[8834] menu 'being discussed +1 more' orientation: vertical
+
+[8892] StaticText 'Assign labels'
+
+[8905] button 'Close'
+
+[8966] searchbox 'Search labels' focused: True
+
+[8879] menuitem 'addition'
+
+[8761] menuitem 'being discussed'
+
+[8758] menuitem 'bug'
+
+[8820] menuitem 'changes requested'
+
+[8843] menuitem 'code of conduct'
+
+[8938] menuitem 'feature'
+
+[8889] menuitem 'help wanted'
+
+[8837] menuitem 'invalid'
+
+[8795] menuitem 'needs triage'
+
+[8793] menuitem 'removal'
+
+[8927] menuitem 'update'
+
+[8937] menuitem 'wontfix'
+
+[8919] menuitem 'Create project label'
+
+[8772] menuitem 'Manage project labels'
+
+[8100] StaticText 'Milestone'
+
+[8146] button 'Edit'
+
+[8111] StaticText 'None'
+
+[8063] StaticText 'Due date'
+
+[8059] button 'Edit'
+
+[8148] StaticText 'Time tracking'
+
+[8123] button 'Add time entry'
+
+[8116] StaticText 'No estimate or time spent'
+
+[8160] StaticText 'Confidentiality'
+
+[8163] button 'Edit'
+
+[8094] StaticText 'Not confidential'
+
+[8120] StaticText 'Lock issue'
+
+[8141] link 'Edit'
+
+[8064] StaticText 'Unlocked'
+
+[8170] StaticText 'Notifications'
+
+[8131] switch 'Notifications' checked: true</pre><div>
+
+[8119] where [8119] is button 'Edit' focused: True</div>
+

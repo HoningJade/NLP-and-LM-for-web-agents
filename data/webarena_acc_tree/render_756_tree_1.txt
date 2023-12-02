@@ -1,0 +1,36 @@
+Tab 0 (current): 11711_gitlab · Search · GitLab
+
+[1949] RootWebArea '11711_gitlab · Search · GitLab' focused: True
+	[1999] link 'Skip to content'
+	[2111] link 'Dashboard'
+	[2167] button '' hasPopup: menu expanded: False
+	[2173] link 'Create new...'
+	[2175] link 'Issues'
+		[2330] generic '13 assigned issues'
+	[2176] link 'Merge requests'
+		[2332] generic '8 merge requests'
+	[2178] link 'To-Do List'
+		[2348] generic 'Todos count'
+			[2461] StaticText '5'
+	[2179] link 'Help'
+	[2181] link 'Byte Blaze'
+		[2382] img 'Byte Blaze'
+	[1955] main ''
+		[2101] heading 'Search'
+		[2148] StaticText 'What are you searching for?'
+		[1960] group ''
+			[1961] searchbox 'Search for projects, issues, etc.'
+				[2420] StaticText '11711_gitlab'
+			[2149] button 'Clear'
+			[2189] button 'Search'
+		[2152] StaticText 'Group'
+		[2153] button 'Any' hasPopup: menu expanded: False
+		[2155] StaticText 'Project'
+		[2156] button 'Any' hasPopup: menu expanded: False
+		[2103] separator '' orientation: horizontal
+		[2433] link 'Projects 0'
+		[2434] link 'Issues 0'
+		[2435] link 'Merge requests 0'
+		[2436] link 'Milestones 0'
+		[2437] link 'Users 0'
+		[2160] heading " We couldn't find any projects matching 11711_gitlab"</pre><div>

@@ -1,0 +1,2594 @@
+[1].outerText', 'required_contents': 'main'}, {'url': 'last', 'locator': 'document.querySelectorAll(".detail-page-description > a.gl-font-monospace")[0].outerText', 'required_contents': 'debug-build-time'}, {'url': 'last', 'locator': "document.querySelector('.block.reviewer').outerText", 'required_contents': 'byteblaze'}], 'url_note': 'GOLD in PRED'}
+
+[1] RootWebArea 'Primer / design · GitLab' focused: True
+
+[130] link 'Skip to content'
+
+[309] link 'Dashboard'
+
+[476] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1389] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[482] link 'Create new...'
+
+[484] link 'Issues'
+
+[830] generic '13 assigned issues'
+
+[485] link 'Merge requests'
+
+[832] generic '8 merge requests'
+
+[487] link 'To-Do List'
+
+[848] generic 'Todos count'
+
+[1410] StaticText '5'
+
+[488] link 'Help'
+
+[490] link 'Byte Blaze'
+
+[882] img 'Byte Blaze'
+
+[131] complementary 'Project navigation'
+
+[342] listitem 'design'
+
+[492] link 'design'
+
+[923] StaticText 'D'
+
+[493] link 'Project information'
+
+[495] link 'Repository'
+
+[497] link 'Issues'
+
+[988] StaticText '21'
+
+[499] link 'Merge requests'
+
+[1017] StaticText '16'
+
+[501] link 'CI/CD'
+
+[503] link 'Security & Compliance'
+
+[505] link 'Deployments'
+
+[507] link 'Packages and registries'
+
+[509] link 'Infrastructure'
+
+[511] link 'Monitor'
+
+[513] link 'Analytics'
+
+[515] link 'Wiki'
+
+[517] link 'Snippets'
+
+[262] button 'Collapse sidebar'
+
+[135] alert '' live: assertive atomic: True relevant: additions text
+
+[138] button 'Dismiss'
+
+[139] alert '' live: assertive atomic: True relevant: additions text
+
+[375] link 'Add SSH key'
+
+[376] button "Don't show again"
+
+[136] navigation 'Breadcrumbs'
+
+[534] link 'Primer'
+
+[536] link 'design'
+
+[17] main ''
+
+[388] StaticText 'D'
+
+[279] heading 'design Public - The project can be accessed without any authentication.'
+
+[282] generic 'Public - The project can be accessed without any authentication.'
+
+[285] StaticText 'Project ID: 180 '
+
+[286] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[288] link 'Leave project'
+
+[394] button '' hasPopup: menu expanded: False
+
+[291] button 'Star'
+
+[292] link '21'
+
+[399] link 'Fork'
+
+[294] link '0'
+
+[632] link '921 Commits'
+
+[633] link '38 Branches'
+
+[634] link '0 Tags'
+
+[1212] StaticText '97.8 MB'
+
+[1208] StaticText ' Project Storage'
+
+[300] StaticText 'Primer Design Guidelines'
+
+[302] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">77.4%</span>'
+
+[303] generic '<span class="repository-language-bar-tooltip-language">TSX</span>&nbsp;<span class="repository-language-bar-tooltip-share">22.6%</span>'
+
+[412] img 'user avatar'
+
+[416] link 'Add interface guidelines for ProgressBar (#452)'
+
+[417] button 'Toggle commit description'
+
+[422] StaticText 'Mike Perrotti authored '
+
+[423] time 'Mar 24, 2023 12:33pm EDT'
+
+[639] StaticText '5 months ago'
+
+[436] button 'Unverified'
+
+[435] group ''
+
+[642] StaticText '260e840e'
+
+[438] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[1216] button 'main' hasPopup: menu expanded: False
+
+[57] navigation 'Files breadcrumb'
+
+[1754] link 'design'
+
+[2029] button 'Add to tree' hasPopup: menu expanded: False
+
+[647] link 'Find file'
+
+[652] link 'Web IDE'
+
+[653] button 'Download'
+
+[1223] StaticText 'Select Archive Format'
+
+[655] link 'Clone'
+
+[678] link 'README'
+
+[679] link 'MIT License'
+
+[680] link 'CONTRIBUTING'
+
+[75] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[1283] row ''
+
+[1284] columnheader 'Name' required: False
+
+[1285] columnheader 'Last commit' required: False
+
+[1286] columnheader 'Last update' required: False
+
+[1287] row ''
+
+[1307] gridcell '.github' required: False
+
+[1777] link '.github'
+
+[1308] gridcell 'Add more deploy triggers (#406)' required: False
+
+[1783] link 'Add more deploy triggers (#406)'
+
+[1309] gridcell '6 months ago' required: False
+
+[1786] time 'Feb 23, 2023 12:27pm EST'
+
+[1288] row ''
+
+[1310] gridcell 'content' required: False
+
+[1788] link 'content'
+
+[1311] gridcell 'Add interface guidelines for ProgressBar (#452)' required: False
+
+[1794] link 'Add interface guidelines for ProgressBar (#452)'
+
+[1312] gridcell '5 months ago' required: False
+
+[1797] time 'Mar 24, 2023 12:33pm EDT'
+
+[1289] row ''
+
+[1313] gridcell 'docs' required: False
+
+[1799] link 'docs'
+
+[1314] gridcell 'Introduce markdownlinting (#345)' required: False
+
+[1805] link 'Introduce markdownlinting (#345)'
+
+[1315] gridcell '8 months ago' required: False</pre><div>
+
+[485]. I will click on it. In summary, the next action I will perform is ```click [485]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '485', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To submit a merge request in GitLab, we need to click on the "Merge requests" link. In this case, the "Merge requests" link is located at [485]. I will click on it. In summary, the next action I will perform is ```click [485]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [485] where [485] is [485] link 'Merge requests'</pre></div></div>
+
+[1] RootWebArea 'Primer / design · GitLab' focused: True
+
+[130] link 'Skip to content'
+
+[309] link 'Dashboard'
+
+[476] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1389] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[482] link 'Create new...'
+
+[484] link 'Issues'
+
+[830] generic '13 assigned issues'
+
+[485] link 'Merge requests' focused: True expanded: True describedby: gl-tooltip5
+
+[832] generic '8 merge requests'
+
+[2170] link 'Assigned to you 3'
+
+[2175] link 'Review requests for you 5'
+
+[487] link 'To-Do List'
+
+[848] generic 'Todos count'
+
+[488] link 'Help'
+
+[490] link 'Byte Blaze'
+
+[882] img 'Byte Blaze'
+
+[131] complementary 'Project navigation'
+
+[342] listitem 'design'
+
+[492] link 'design'
+
+[923] StaticText 'D'
+
+[493] link 'Project information'
+
+[495] link 'Repository'
+
+[497] link 'Issues'
+
+[988] StaticText '21'
+
+[499] link 'Merge requests'
+
+[1017] StaticText '16'
+
+[501] link 'CI/CD'
+
+[503] link 'Security & Compliance'
+
+[505] link 'Deployments'
+
+[507] link 'Packages and registries'
+
+[509] link 'Infrastructure'
+
+[511] link 'Monitor'
+
+[513] link 'Analytics'
+
+[515] link 'Wiki'
+
+[517] link 'Snippets'
+
+[262] button 'Collapse sidebar'
+
+[135] alert '' live: assertive atomic: True relevant: additions text
+
+[138] button 'Dismiss'
+
+[139] alert '' live: assertive atomic: True relevant: additions text
+
+[375] link 'Add SSH key'
+
+[376] button "Don't show again"
+
+[136] navigation 'Breadcrumbs'
+
+[534] link 'Primer'
+
+[536] link 'design'
+
+[17] main ''
+
+[388] StaticText 'D'
+
+[279] heading 'design Public - The project can be accessed without any authentication.'
+
+[282] generic 'Public - The project can be accessed without any authentication.'
+
+[285] StaticText 'Project ID: 180 '
+
+[286] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[288] link 'Leave project'
+
+[394] button '' hasPopup: menu expanded: False
+
+[291] button 'Star'
+
+[292] link '21'
+
+[399] link 'Fork'
+
+[294] link '0'
+
+[632] link '921 Commits'
+
+[633] link '38 Branches'
+
+[634] link '0 Tags'
+
+[1212] StaticText '97.8 MB'
+
+[1208] StaticText ' Project Storage'
+
+[300] StaticText 'Primer Design Guidelines'
+
+[302] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">77.4%</span>'
+
+[303] generic '<span class="repository-language-bar-tooltip-language">TSX</span>&nbsp;<span class="repository-language-bar-tooltip-share">22.6%</span>'
+
+[412] img 'user avatar'
+
+[416] link 'Add interface guidelines for ProgressBar (#452)'
+
+[417] button 'Toggle commit description'
+
+[422] StaticText 'Mike Perrotti authored '
+
+[423] time 'Mar 24, 2023 12:33pm EDT'
+
+[639] StaticText '5 months ago'
+
+[436] button 'Unverified'
+
+[435] group ''
+
+[642] StaticText '260e840e'
+
+[438] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[1216] button 'main' hasPopup: menu expanded: False
+
+[57] navigation 'Files breadcrumb'
+
+[1754] link 'design'
+
+[2029] button 'Add to tree' hasPopup: menu expanded: False
+
+[647] link 'Find file'
+
+[652] link 'Web IDE'
+
+[653] button 'Download'
+
+[1223] StaticText 'Select Archive Format'
+
+[655] link 'Clone'
+
+[678] link 'README'
+
+[679] link 'MIT License'
+
+[680] link 'CONTRIBUTING'
+
+[75] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[1283] row ''
+
+[1284] columnheader 'Name' required: False
+
+[1285] columnheader 'Last commit' required: False
+
+[1286] columnheader 'Last update' required: False
+
+[1287] row ''
+
+[1307] gridcell '.github' required: False
+
+[1777] link '.github'
+
+[1308] gridcell 'Add more deploy triggers (#406)' required: False
+
+[1783] link 'Add more deploy triggers (#406)'
+
+[1309] gridcell '6 months ago' required: False
+
+[1786] time 'Feb 23, 2023 12:27pm EST'
+
+[1288] row ''
+
+[1310] gridcell 'content' required: False
+
+[1788] link 'content'
+
+[1311] gridcell 'Add interface guidelines for ProgressBar (#452)' required: False
+
+[1794] link 'Add interface guidelines for ProgressBar (#452)'
+
+[1312] gridcell '5 months ago' required: False
+
+[1797] time 'Mar 24, 2023 12:33pm EDT'
+
+[1289] row ''
+
+[1313] gridcell 'docs' required: False
+
+[1799] link 'docs'
+
+[1314] gridcell 'Introduce markdownlinting (#345)' required: False
+
+[1805] link 'Introduce markdownlinting (#345)'
+
+[1315] gridcell '8 months ago' required: False
+
+[2181] tooltip 'Merge requests'</pre><div>
+
+[485] where [485] is link 'Merge requests'</div>
+
+[482]` to click the "Create new..." link.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page contains information related to merge requests for the project. We need to submit a merge request for the "build time debug" branch to be merged into the "main" branch. We also need to assign ourselves as the reviewer. To start, I will click on the link "New merge request". In summary, the next action I will perform is `click [482]` to click the "Create new..." link.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Primer / design · GitLab' focused: True
+
+[130] link 'Skip to content'
+
+[309] link 'Dashboard'
+
+[476] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1389] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[482] link 'Create new...'
+
+[484] link 'Issues'
+
+[830] generic '13 assigned issues'
+
+[485] link 'Merge requests' focused: True expanded: True describedby: gl-tooltip5
+
+[832] generic '8 merge requests'
+
+[2170] link 'Assigned to you 3'
+
+[2175] link 'Review requests for you 5'
+
+[487] link 'To-Do List'
+
+[848] generic 'Todos count'
+
+[488] link 'Help'
+
+[490] link 'Byte Blaze'
+
+[882] img 'Byte Blaze'
+
+[131] complementary 'Project navigation'
+
+[342] listitem 'design'
+
+[492] link 'design'
+
+[923] StaticText 'D'
+
+[493] link 'Project information'
+
+[495] link 'Repository'
+
+[497] link 'Issues'
+
+[988] StaticText '21'
+
+[499] link 'Merge requests'
+
+[1017] StaticText '16'
+
+[501] link 'CI/CD'
+
+[503] link 'Security & Compliance'
+
+[505] link 'Deployments'
+
+[507] link 'Packages and registries'
+
+[509] link 'Infrastructure'
+
+[511] link 'Monitor'
+
+[513] link 'Analytics'
+
+[515] link 'Wiki'
+
+[517] link 'Snippets'
+
+[262] button 'Collapse sidebar'
+
+[135] alert '' live: assertive atomic: True relevant: additions text
+
+[138] button 'Dismiss'
+
+[139] alert '' live: assertive atomic: True relevant: additions text
+
+[375] link 'Add SSH key'
+
+[376] button "Don't show again"
+
+[136] navigation 'Breadcrumbs'
+
+[534] link 'Primer'
+
+[536] link 'design'
+
+[17] main ''
+
+[388] StaticText 'D'
+
+[279] heading 'design Public - The project can be accessed without any authentication.'
+
+[282] generic 'Public - The project can be accessed without any authentication.'
+
+[285] StaticText 'Project ID: 180 '
+
+[286] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[288] link 'Leave project'
+
+[394] button '' hasPopup: menu expanded: False
+
+[291] button 'Star'
+
+[292] link '21'
+
+[399] link 'Fork'
+
+[294] link '0'
+
+[632] link '921 Commits'
+
+[633] link '38 Branches'
+
+[634] link '0 Tags'
+
+[1212] StaticText '97.8 MB'
+
+[1208] StaticText ' Project Storage'
+
+[300] StaticText 'Primer Design Guidelines'
+
+[302] generic '' describedby: gl-tooltip4
+
+[303] generic '<span class="repository-language-bar-tooltip-language">TSX</span>&nbsp;<span class="repository-language-bar-tooltip-share">22.6%</span>'
+
+[412] img 'user avatar'
+
+[416] link 'Add interface guidelines for ProgressBar (#452)'
+
+[417] button 'Toggle commit description'
+
+[422] StaticText 'Mike Perrotti authored '
+
+[423] time 'Mar 24, 2023 12:33pm EDT'
+
+[639] StaticText '5 months ago'
+
+[436] button 'Unverified'
+
+[435] group ''
+
+[642] StaticText '260e840e'
+
+[438] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[1216] button 'main' hasPopup: menu expanded: False
+
+[57] navigation 'Files breadcrumb'
+
+[1754] link 'design'
+
+[2029] button 'Add to tree' hasPopup: menu expanded: False
+
+[647] link 'Find file'
+
+[652] link 'Web IDE'
+
+[653] button 'Download'
+
+[1223] StaticText 'Select Archive Format'
+
+[655] link 'Clone'
+
+[678] link 'README'
+
+[679] link 'MIT License'
+
+[680] link 'CONTRIBUTING'
+
+[75] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[1283] row ''
+
+[1284] columnheader 'Name' required: False
+
+[1285] columnheader 'Last commit' required: False
+
+[1286] columnheader 'Last update' required: False
+
+[1287] row ''
+
+[1307] gridcell '.github' required: False
+
+[1777] link '.github'
+
+[1308] gridcell 'Add more deploy triggers (#406)' required: False
+
+[1783] link 'Add more deploy triggers (#406)'
+
+[1309] gridcell '6 months ago' required: False
+
+[1786] time 'Feb 23, 2023 12:27pm EST'
+
+[1288] row ''
+
+[1310] gridcell 'content' required: False
+
+[1788] link 'content'
+
+[1311] gridcell 'Add interface guidelines for ProgressBar (#452)' required: False
+
+[1794] link 'Add interface guidelines for ProgressBar (#452)'
+
+[1312] gridcell '5 months ago' required: False
+
+[1797] time 'Mar 24, 2023 12:33pm EDT'
+
+[1289] row ''
+
+[1313] gridcell 'docs' required: False
+
+[1799] link 'docs'
+
+[1314] gridcell 'Introduce markdownlinting (#345)' required: False
+
+[1805] link 'Introduce markdownlinting (#345)'
+
+[1315] gridcell '8 months ago' required: False
+
+[2181] tooltip 'Merge requests'
+
+[2186] tooltip 'JavaScript\xa077.4%'</pre><div>
+
+[482]` to click the "Create new..." link.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[482]``` to click the "Create new..." link.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '482', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page contains information related to merge requests for the project. We need to submit a merge request for the "build time debug" branch to be merged into the "main" branch. We also need to assign ourselves as the reviewer. To start, I will click on the link "New merge request". In summary, the next action I will perform is ```click [482]``` to click the "Create new..." link.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [482] where [482] is [482] link 'Create new...'</pre></div></div>
+
+[1] RootWebArea 'Primer / design · GitLab' focused: True
+
+[130] link 'Skip to content'
+
+[309] link 'Dashboard'
+
+[476] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1389] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[482] link 'Create new...' focused: True expanded: True describedby: gl-tooltip6
+
+[2213] StaticText 'This project'
+
+[2206] link 'New issue'
+
+[2215] link 'New merge request'
+
+[2208] link 'New snippet'
+
+[2212] StaticText 'GitLab'
+
+[2211] link 'New project/repository'
+
+[2207] link 'New group'
+
+[2199] link 'New snippet'
+
+[484] link 'Issues'
+
+[830] generic '13 assigned issues'
+
+[485] link 'Merge requests' expanded: False
+
+[832] generic '8 merge requests'
+
+[487] link 'To-Do List'
+
+[848] generic 'Todos count'
+
+[1410] StaticText '5'
+
+[488] link 'Help'
+
+[490] link 'Byte Blaze'
+
+[882] img 'Byte Blaze'
+
+[131] complementary 'Project navigation'
+
+[342] listitem 'design'
+
+[492] link 'design'
+
+[923] StaticText 'D'
+
+[493] link 'Project information'
+
+[495] link 'Repository'
+
+[497] link 'Issues'
+
+[988] StaticText '21'
+
+[499] link 'Merge requests'
+
+[1017] StaticText '16'
+
+[501] link 'CI/CD'
+
+[503] link 'Security & Compliance'
+
+[505] link 'Deployments'
+
+[507] link 'Packages and registries'
+
+[509] link 'Infrastructure'
+
+[511] link 'Monitor'
+
+[513] link 'Analytics'
+
+[515] link 'Wiki'
+
+[517] link 'Snippets'
+
+[262] button 'Collapse sidebar'
+
+[135] alert '' live: assertive atomic: True relevant: additions text
+
+[138] button 'Dismiss'
+
+[139] alert '' live: assertive atomic: True relevant: additions text
+
+[375] link 'Add SSH key'
+
+[376] button "Don't show again"
+
+[136] navigation 'Breadcrumbs'
+
+[534] link 'Primer'
+
+[536] link 'design'
+
+[17] main ''
+
+[388] StaticText 'D'
+
+[279] heading 'design Public - The project can be accessed without any authentication.'
+
+[282] generic 'Public - The project can be accessed without any authentication.'
+
+[285] StaticText 'Project ID: 180 '
+
+[286] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[288] link 'Leave project'
+
+[394] button '' hasPopup: menu expanded: False
+
+[291] button 'Star'
+
+[292] link '21'
+
+[399] link 'Fork'
+
+[294] link '0'
+
+[632] link '921 Commits'
+
+[633] link '38 Branches'
+
+[634] link '0 Tags'
+
+[1212] StaticText '97.8 MB'
+
+[1208] StaticText ' Project Storage'
+
+[300] StaticText 'Primer Design Guidelines'
+
+[302] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">77.4%</span>'
+
+[303] generic '<span class="repository-language-bar-tooltip-language">TSX</span>&nbsp;<span class="repository-language-bar-tooltip-share">22.6%</span>'
+
+[412] img 'user avatar'
+
+[416] link 'Add interface guidelines for ProgressBar (#452)'
+
+[417] button 'Toggle commit description'
+
+[422] StaticText 'Mike Perrotti authored '
+
+[423] time 'Mar 24, 2023 12:33pm EDT'
+
+[639] StaticText '5 months ago'
+
+[436] button 'Unverified'
+
+[435] group ''
+
+[642] StaticText '260e840e'
+
+[438] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[1216] button 'main' hasPopup: menu expanded: False
+
+[57] navigation 'Files breadcrumb'
+
+[1754] link 'design'
+
+[2029] button 'Add to tree' hasPopup: menu expanded: False
+
+[647] link 'Find file'
+
+[652] link 'Web IDE'
+
+[653] button 'Download'
+
+[1223] StaticText 'Select Archive Format'
+
+[655] link 'Clone'
+
+[678] link 'README'
+
+[679] link 'MIT License'
+
+[680] link 'CONTRIBUTING'
+
+[75] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[1283] row ''
+
+[1284] columnheader 'Name' required: False
+
+[1285] columnheader 'Last commit' required: False
+
+[1286] columnheader 'Last update' required: False
+
+[1287] row ''
+
+[1307] gridcell '.github' required: False
+
+[1777] link '.github'
+
+[1308] gridcell 'Add more deploy triggers (#406)' required: False
+
+[1783] link 'Add more deploy triggers (#406)'
+
+[1309] gridcell '6 months ago' required: False
+
+[1786] time 'Feb 23, 2023 12:27pm EST'
+
+[1288] row ''
+
+[1310] gridcell 'content' required: False
+
+[1788] link 'content'
+
+[1311] gridcell 'Add interface guidelines for ProgressBar (#452)' required: False
+
+[1794] link 'Add interface guidelines for ProgressBar (#452)'
+
+[1312] gridcell '5 months ago' required: False
+
+[1797] time 'Mar 24, 2023 12:33pm EDT'
+
+[1289] row ''
+
+[1313] gridcell 'docs' required: False
+
+[1799] link 'docs'
+
+[1314] gridcell 'Introduce markdownlinting (#345)' required: False
+
+[1805] link 'Introduce markdownlinting (#345)'
+
+[1315] gridcell '8 months ago' required: False
+
+[2220] tooltip 'Create new...'</pre><div>
+
+[482] where [482] is link 'Create new...'</div>
+
+[482]` where [482] is the link 'Create new...'.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to submit a merge request for the build time debug branch to be merged into the main branch and assign myself as the reviewer.\n\nTo do this, I need to click on the link "Create new..." to reveal the available options. In summary, the next action I will perform is `click [482]` where [482] is the link \'Create new...\'.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Primer / design · GitLab' focused: True
+
+[130] link 'Skip to content'
+
+[309] link 'Dashboard'
+
+[476] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1389] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[482] link 'Create new...' focused: True expanded: True describedby: gl-tooltip6
+
+[2213] StaticText 'This project'
+
+[2206] link 'New issue'
+
+[2215] link 'New merge request'
+
+[2208] link 'New snippet'
+
+[2212] StaticText 'GitLab'
+
+[2211] link 'New project/repository'
+
+[2207] link 'New group'
+
+[2199] link 'New snippet'
+
+[484] link 'Issues'
+
+[830] generic '13 assigned issues'
+
+[485] link 'Merge requests' expanded: False
+
+[832] generic '8 merge requests'
+
+[487] link 'To-Do List'
+
+[848] generic 'Todos count'
+
+[1410] StaticText '5'
+
+[488] link 'Help'
+
+[490] link 'Byte Blaze'
+
+[882] img 'Byte Blaze'
+
+[131] complementary 'Project navigation'
+
+[342] listitem 'design'
+
+[492] link 'design'
+
+[923] StaticText 'D'
+
+[493] link 'Project information'
+
+[495] link 'Repository'
+
+[497] link 'Issues'
+
+[988] StaticText '21'
+
+[499] link 'Merge requests'
+
+[1017] StaticText '16'
+
+[501] link 'CI/CD'
+
+[503] link 'Security & Compliance'
+
+[505] link 'Deployments'
+
+[507] link 'Packages and registries'
+
+[509] link 'Infrastructure'
+
+[511] link 'Monitor'
+
+[513] link 'Analytics'
+
+[515] link 'Wiki'
+
+[517] link 'Snippets'
+
+[262] button 'Collapse sidebar'
+
+[135] alert '' live: assertive atomic: True relevant: additions text
+
+[138] button 'Dismiss'
+
+[139] alert '' live: assertive atomic: True relevant: additions text
+
+[375] link 'Add SSH key'
+
+[376] button "Don't show again"
+
+[136] navigation 'Breadcrumbs'
+
+[534] link 'Primer'
+
+[536] link 'design'
+
+[17] main ''
+
+[388] StaticText 'D'
+
+[279] heading 'design Public - The project can be accessed without any authentication.'
+
+[282] generic 'Public - The project can be accessed without any authentication.'
+
+[285] StaticText 'Project ID: 180 '
+
+[286] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[288] link 'Leave project'
+
+[394] button '' hasPopup: menu expanded: False
+
+[291] button 'Star'
+
+[292] link '21'
+
+[399] link 'Fork'
+
+[294] link '0'
+
+[632] link '921 Commits'
+
+[633] link '38 Branches'
+
+[634] link '0 Tags'
+
+[1212] StaticText '97.8 MB'
+
+[1208] StaticText ' Project Storage'
+
+[300] StaticText 'Primer Design Guidelines'
+
+[302] generic '' describedby: gl-tooltip4
+
+[303] generic '<span class="repository-language-bar-tooltip-language">TSX</span>&nbsp;<span class="repository-language-bar-tooltip-share">22.6%</span>'
+
+[412] img 'user avatar'
+
+[416] link 'Add interface guidelines for ProgressBar (#452)'
+
+[417] button 'Toggle commit description'
+
+[422] StaticText 'Mike Perrotti authored '
+
+[423] time 'Mar 24, 2023 12:33pm EDT'
+
+[639] StaticText '5 months ago'
+
+[436] button 'Unverified'
+
+[435] group ''
+
+[642] StaticText '260e840e'
+
+[438] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[1216] button 'main' hasPopup: menu expanded: False
+
+[57] navigation 'Files breadcrumb'
+
+[1754] link 'design'
+
+[2029] button 'Add to tree' hasPopup: menu expanded: False
+
+[647] link 'Find file'
+
+[652] link 'Web IDE'
+
+[653] button 'Download'
+
+[1223] StaticText 'Select Archive Format'
+
+[655] link 'Clone'
+
+[678] link 'README'
+
+[679] link 'MIT License'
+
+[680] link 'CONTRIBUTING'
+
+[75] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[1283] row ''
+
+[1284] columnheader 'Name' required: False
+
+[1285] columnheader 'Last commit' required: False
+
+[1286] columnheader 'Last update' required: False
+
+[1287] row ''
+
+[1307] gridcell '.github' required: False
+
+[1777] link '.github'
+
+[1308] gridcell 'Add more deploy triggers (#406)' required: False
+
+[1783] link 'Add more deploy triggers (#406)'
+
+[1309] gridcell '6 months ago' required: False
+
+[1786] time 'Feb 23, 2023 12:27pm EST'
+
+[1288] row ''
+
+[1310] gridcell 'content' required: False
+
+[1788] link 'content'
+
+[1311] gridcell 'Add interface guidelines for ProgressBar (#452)' required: False
+
+[1794] link 'Add interface guidelines for ProgressBar (#452)'
+
+[1312] gridcell '5 months ago' required: False
+
+[1797] time 'Mar 24, 2023 12:33pm EDT'
+
+[1289] row ''
+
+[1313] gridcell 'docs' required: False
+
+[1799] link 'docs'
+
+[1314] gridcell 'Introduce markdownlinting (#345)' required: False
+
+[1805] link 'Introduce markdownlinting (#345)'
+
+[1315] gridcell '8 months ago' required: False
+
+[2220] tooltip 'Create new...'
+
+[2239] tooltip 'JavaScript\xa077.4%'</pre><div>
+
+[482]` where [482] is the link 'Create new...'.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[482]```, where [482] is the link 'Create new...'.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '482', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to submit a merge request for the build time debug branch to be merged into the main branch and assign myself as the reviewer.\n\nTo do this, I need to click on the link "Create new..." to reveal the available options. In summary, the next action I will perform is ```click [482]```, where [482] is the link \'Create new...\'.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [482] where [482] is [482] link 'Create new...' focused: True expanded: True describedby: gl-tooltip6</pre></div></div>
+
+[1] RootWebArea 'Primer / design · GitLab' focused: True
+
+[130] link 'Skip to content'
+
+[309] link 'Dashboard'
+
+[476] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1389] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[482] link 'Create new...' focused: True expanded: False
+
+[484] link 'Issues'
+
+[830] generic '13 assigned issues'
+
+[485] link 'Merge requests' expanded: False
+
+[832] generic '8 merge requests'
+
+[487] link 'To-Do List'
+
+[848] generic 'Todos count'
+
+[1410] StaticText '5'
+
+[488] link 'Help'
+
+[490] link 'Byte Blaze'
+
+[882] img 'Byte Blaze'
+
+[131] complementary 'Project navigation'
+
+[342] listitem 'design'
+
+[492] link 'design'
+
+[923] StaticText 'D'
+
+[493] link 'Project information'
+
+[495] link 'Repository'
+
+[497] link 'Issues'
+
+[988] StaticText '21'
+
+[499] link 'Merge requests'
+
+[1017] StaticText '16'
+
+[501] link 'CI/CD'
+
+[503] link 'Security & Compliance'
+
+[505] link 'Deployments'
+
+[507] link 'Packages and registries'
+
+[509] link 'Infrastructure'
+
+[511] link 'Monitor'
+
+[513] link 'Analytics'
+
+[515] link 'Wiki'
+
+[517] link 'Snippets'
+
+[262] button 'Collapse sidebar'
+
+[135] alert '' live: assertive atomic: True relevant: additions text
+
+[138] button 'Dismiss'
+
+[139] alert '' live: assertive atomic: True relevant: additions text
+
+[375] link 'Add SSH key'
+
+[376] button "Don't show again"
+
+[136] navigation 'Breadcrumbs'
+
+[534] link 'Primer'
+
+[536] link 'design'
+
+[17] main ''
+
+[388] StaticText 'D'
+
+[279] heading 'design Public - The project can be accessed without any authentication.'
+
+[282] generic 'Public - The project can be accessed without any authentication.'
+
+[285] StaticText 'Project ID: 180 '
+
+[286] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[288] link 'Leave project'
+
+[394] button '' hasPopup: menu expanded: False
+
+[291] button 'Star'
+
+[292] link '21'
+
+[399] link 'Fork'
+
+[294] link '0'
+
+[632] link '921 Commits'
+
+[633] link '38 Branches'
+
+[634] link '0 Tags'
+
+[1212] StaticText '97.8 MB'
+
+[1208] StaticText ' Project Storage'
+
+[300] StaticText 'Primer Design Guidelines'
+
+[302] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">77.4%</span>'
+
+[303] generic '<span class="repository-language-bar-tooltip-language">TSX</span>&nbsp;<span class="repository-language-bar-tooltip-share">22.6%</span>'
+
+[412] img 'user avatar'
+
+[416] link 'Add interface guidelines for ProgressBar (#452)'
+
+[417] button 'Toggle commit description'
+
+[422] StaticText 'Mike Perrotti authored '
+
+[423] time 'Mar 24, 2023 12:33pm EDT'
+
+[639] StaticText '5 months ago'
+
+[436] button 'Unverified'
+
+[435] group ''
+
+[642] StaticText '260e840e'
+
+[438] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[1216] button 'main' hasPopup: menu expanded: False
+
+[57] navigation 'Files breadcrumb'
+
+[1754] link 'design'
+
+[2029] button 'Add to tree' hasPopup: menu expanded: False
+
+[647] link 'Find file'
+
+[652] link 'Web IDE'
+
+[653] button 'Download'
+
+[1223] StaticText 'Select Archive Format'
+
+[655] link 'Clone'
+
+[678] link 'README'
+
+[679] link 'MIT License'
+
+[680] link 'CONTRIBUTING'
+
+[75] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[1283] row ''
+
+[1284] columnheader 'Name' required: False
+
+[1285] columnheader 'Last commit' required: False
+
+[1286] columnheader 'Last update' required: False
+
+[1287] row ''
+
+[1307] gridcell '.github' required: False
+
+[1777] link '.github'
+
+[1308] gridcell 'Add more deploy triggers (#406)' required: False
+
+[1783] link 'Add more deploy triggers (#406)'
+
+[1309] gridcell '6 months ago' required: False
+
+[1786] time 'Feb 23, 2023 12:27pm EST'
+
+[1288] row ''
+
+[1310] gridcell 'content' required: False
+
+[1788] link 'content'
+
+[1311] gridcell 'Add interface guidelines for ProgressBar (#452)' required: False
+
+[1794] link 'Add interface guidelines for ProgressBar (#452)'
+
+[1312] gridcell '5 months ago' required: False
+
+[1797] time 'Mar 24, 2023 12:33pm EDT'
+
+[1289] row ''
+
+[1313] gridcell 'docs' required: False
+
+[1799] link 'docs'
+
+[1314] gridcell 'Introduce markdownlinting (#345)' required: False
+
+[1805] link 'Introduce markdownlinting (#345)'
+
+[1315] gridcell '8 months ago' required: False</pre><div>
+
+[482] where [482] is link 'Create new...' focused: True expanded: True describedby: gl-tooltip6</div>
+
+[485]. This will take me to the merge requests page. From there, I can click on the "New merge request" button to create a new merge request. In summary, the next action I will perform is ```click [485]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '485', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the GitLab repository for the project Primer Design. The objective is to submit a merge request for the build time debug branch to be merged into the main branch and assign myself as the reviewer.\n\nTo do this, I need to click on the "Merge requests" link, which has an id of [485]. This will take me to the merge requests page. From there, I can click on the "New merge request" button to create a new merge request. In summary, the next action I will perform is ```click [485]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [485] where [485] is [485] link 'Merge requests' expanded: False</pre></div></div>
+
+[1] RootWebArea 'Primer / design · GitLab' focused: True
+
+[130] link 'Skip to content'
+
+[309] link 'Dashboard'
+
+[476] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1389] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[482] link 'Create new...' expanded: False
+
+[484] link 'Issues'
+
+[830] generic '13 assigned issues'
+
+[485] link 'Merge requests' focused: True expanded: True describedby: gl-tooltip5
+
+[832] generic '8 merge requests'
+
+[2284] link 'Assigned to you 3'
+
+[2274] link 'Review requests for you 5'
+
+[487] link 'To-Do List'
+
+[848] generic 'Todos count'
+
+[488] link 'Help'
+
+[490] link 'Byte Blaze'
+
+[882] img 'Byte Blaze'
+
+[131] complementary 'Project navigation'
+
+[342] listitem 'design'
+
+[492] link 'design'
+
+[923] StaticText 'D'
+
+[493] link 'Project information'
+
+[495] link 'Repository'
+
+[497] link 'Issues'
+
+[988] StaticText '21'
+
+[499] link 'Merge requests'
+
+[1017] StaticText '16'
+
+[501] link 'CI/CD'
+
+[503] link 'Security & Compliance'
+
+[505] link 'Deployments'
+
+[507] link 'Packages and registries'
+
+[509] link 'Infrastructure'
+
+[511] link 'Monitor'
+
+[513] link 'Analytics'
+
+[515] link 'Wiki'
+
+[517] link 'Snippets'
+
+[262] button 'Collapse sidebar'
+
+[135] alert '' live: assertive atomic: True relevant: additions text
+
+[138] button 'Dismiss'
+
+[139] alert '' live: assertive atomic: True relevant: additions text
+
+[375] link 'Add SSH key'
+
+[376] button "Don't show again"
+
+[136] navigation 'Breadcrumbs'
+
+[534] link 'Primer'
+
+[536] link 'design'
+
+[17] main ''
+
+[388] StaticText 'D'
+
+[279] heading 'design Public - The project can be accessed without any authentication.'
+
+[282] generic 'Public - The project can be accessed without any authentication.'
+
+[285] StaticText 'Project ID: 180 '
+
+[286] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[288] link 'Leave project'
+
+[394] button '' hasPopup: menu expanded: False
+
+[291] button 'Star'
+
+[292] link '21'
+
+[399] link 'Fork'
+
+[294] link '0'
+
+[632] link '921 Commits'
+
+[633] link '38 Branches'
+
+[634] link '0 Tags'
+
+[1212] StaticText '97.8 MB'
+
+[1208] StaticText ' Project Storage'
+
+[300] StaticText 'Primer Design Guidelines'
+
+[302] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">77.4%</span>'
+
+[303] generic '<span class="repository-language-bar-tooltip-language">TSX</span>&nbsp;<span class="repository-language-bar-tooltip-share">22.6%</span>'
+
+[412] img 'user avatar'
+
+[416] link 'Add interface guidelines for ProgressBar (#452)'
+
+[417] button 'Toggle commit description'
+
+[422] StaticText 'Mike Perrotti authored '
+
+[423] time 'Mar 24, 2023 12:33pm EDT'
+
+[639] StaticText '5 months ago'
+
+[436] button 'Unverified'
+
+[435] group ''
+
+[642] StaticText '260e840e'
+
+[438] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[1216] button 'main' hasPopup: menu expanded: False
+
+[57] navigation 'Files breadcrumb'
+
+[1754] link 'design'
+
+[2029] button 'Add to tree' hasPopup: menu expanded: False
+
+[647] link 'Find file'
+
+[652] link 'Web IDE'
+
+[653] button 'Download'
+
+[1223] StaticText 'Select Archive Format'
+
+[655] link 'Clone'
+
+[678] link 'README'
+
+[679] link 'MIT License'
+
+[680] link 'CONTRIBUTING'
+
+[75] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[1283] row ''
+
+[1284] columnheader 'Name' required: False
+
+[1285] columnheader 'Last commit' required: False
+
+[1286] columnheader 'Last update' required: False
+
+[1287] row ''
+
+[1307] gridcell '.github' required: False
+
+[1777] link '.github'
+
+[1308] gridcell 'Add more deploy triggers (#406)' required: False
+
+[1783] link 'Add more deploy triggers (#406)'
+
+[1309] gridcell '6 months ago' required: False
+
+[1786] time 'Feb 23, 2023 12:27pm EST'
+
+[1288] row ''
+
+[1310] gridcell 'content' required: False
+
+[1788] link 'content'
+
+[1311] gridcell 'Add interface guidelines for ProgressBar (#452)' required: False
+
+[1794] link 'Add interface guidelines for ProgressBar (#452)'
+
+[1312] gridcell '5 months ago' required: False
+
+[1797] time 'Mar 24, 2023 12:33pm EDT'
+
+[1289] row ''
+
+[1313] gridcell 'docs' required: False
+
+[1799] link 'docs'
+
+[1314] gridcell 'Introduce markdownlinting (#345)' required: False
+
+[1805] link 'Introduce markdownlinting (#345)'
+
+[1315] gridcell '8 months ago' required: False
+
+[2287] tooltip 'Merge requests'</pre><div>
+
+[485] where [485] is link 'Merge requests' expanded: False</div>
+
+[485]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '485', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page has a link 'Merge requests' that we need to click to view the merge requests. In summary, the next action I will perform is ```click [485]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [485] where [485] is [485] link 'Merge requests' focused: True expanded: True describedby: gl-tooltip5</pre></div></div>
+
+[1] RootWebArea 'Primer / design · GitLab' focused: True
+
+[130] link 'Skip to content'
+
+[309] link 'Dashboard'
+
+[476] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1389] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[482] link 'Create new...' expanded: False
+
+[484] link 'Issues'
+
+[830] generic '13 assigned issues'
+
+[485] link 'Merge requests' focused: True expanded: False
+
+[832] generic '8 merge requests'
+
+[487] link 'To-Do List'
+
+[848] generic 'Todos count'
+
+[1410] StaticText '5'
+
+[488] link 'Help'
+
+[490] link 'Byte Blaze'
+
+[882] img 'Byte Blaze'
+
+[131] complementary 'Project navigation'
+
+[342] listitem 'design'
+
+[492] link 'design'
+
+[923] StaticText 'D'
+
+[493] link 'Project information'
+
+[495] link 'Repository'
+
+[497] link 'Issues'
+
+[988] StaticText '21'
+
+[499] link 'Merge requests'
+
+[1017] StaticText '16'
+
+[501] link 'CI/CD'
+
+[503] link 'Security & Compliance'
+
+[505] link 'Deployments'
+
+[507] link 'Packages and registries'
+
+[509] link 'Infrastructure'
+
+[511] link 'Monitor'
+
+[513] link 'Analytics'
+
+[515] link 'Wiki'
+
+[517] link 'Snippets'
+
+[262] button 'Collapse sidebar'
+
+[135] alert '' live: assertive atomic: True relevant: additions text
+
+[138] button 'Dismiss'
+
+[139] alert '' live: assertive atomic: True relevant: additions text
+
+[375] link 'Add SSH key'
+
+[376] button "Don't show again"
+
+[136] navigation 'Breadcrumbs'
+
+[534] link 'Primer'
+
+[536] link 'design'
+
+[17] main ''
+
+[388] StaticText 'D'
+
+[279] heading 'design Public - The project can be accessed without any authentication.'
+
+[282] generic 'Public - The project can be accessed without any authentication.'
+
+[285] StaticText 'Project ID: 180 '
+
+[286] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[288] link 'Leave project'
+
+[394] button '' hasPopup: menu expanded: False
+
+[291] button 'Star'
+
+[292] link '21'
+
+[399] link 'Fork'
+
+[294] link '0'
+
+[632] link '921 Commits'
+
+[633] link '38 Branches'
+
+[634] link '0 Tags'
+
+[1212] StaticText '97.8 MB'
+
+[1208] StaticText ' Project Storage'
+
+[300] StaticText 'Primer Design Guidelines'
+
+[302] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">77.4%</span>'
+
+[303] generic '<span class="repository-language-bar-tooltip-language">TSX</span>&nbsp;<span class="repository-language-bar-tooltip-share">22.6%</span>'
+
+[412] img 'user avatar'
+
+[416] link 'Add interface guidelines for ProgressBar (#452)'
+
+[417] button 'Toggle commit description'
+
+[422] StaticText 'Mike Perrotti authored '
+
+[423] time 'Mar 24, 2023 12:33pm EDT'
+
+[639] StaticText '5 months ago'
+
+[436] button 'Unverified'
+
+[435] group ''
+
+[642] StaticText '260e840e'
+
+[438] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[1216] button 'main' hasPopup: menu expanded: False
+
+[57] navigation 'Files breadcrumb'
+
+[1754] link 'design'
+
+[2029] button 'Add to tree' hasPopup: menu expanded: False
+
+[647] link 'Find file'
+
+[652] link 'Web IDE'
+
+[653] button 'Download'
+
+[1223] StaticText 'Select Archive Format'
+
+[655] link 'Clone'
+
+[678] link 'README'
+
+[679] link 'MIT License'
+
+[680] link 'CONTRIBUTING'
+
+[75] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[1283] row ''
+
+[1284] columnheader 'Name' required: False
+
+[1285] columnheader 'Last commit' required: False
+
+[1286] columnheader 'Last update' required: False
+
+[1287] row ''
+
+[1307] gridcell '.github' required: False
+
+[1777] link '.github'
+
+[1308] gridcell 'Add more deploy triggers (#406)' required: False
+
+[1783] link 'Add more deploy triggers (#406)'
+
+[1309] gridcell '6 months ago' required: False
+
+[1786] time 'Feb 23, 2023 12:27pm EST'
+
+[1288] row ''
+
+[1310] gridcell 'content' required: False
+
+[1788] link 'content'
+
+[1311] gridcell 'Add interface guidelines for ProgressBar (#452)' required: False
+
+[1794] link 'Add interface guidelines for ProgressBar (#452)'
+
+[1312] gridcell '5 months ago' required: False
+
+[1797] time 'Mar 24, 2023 12:33pm EDT'
+
+[1289] row ''
+
+[1313] gridcell 'docs' required: False
+
+[1799] link 'docs'
+
+[1314] gridcell 'Introduce markdownlinting (#345)' required: False
+
+[1805] link 'Introduce markdownlinting (#345)'
+
+[1315] gridcell '8 months ago' required: False</pre><div>
+
+[485] where [485] is link 'Merge requests' focused: True expanded: True describedby: gl-tooltip5</div>
+
+[482]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '482', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We are currently on the GitLab page for the Primer design project. To submit a merge request, we need to go to the "Merge requests" section, which is already expanded. Now, we need to click on the "New merge request" button to create a new merge request. \n\nIn summary, the next action I will perform is ```click [482]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [482] where [482] is [482] link 'Create new...' expanded: False</pre></div></div>
+
+[1] RootWebArea 'Primer / design · GitLab' focused: True
+
+[130] link 'Skip to content'
+
+[309] link 'Dashboard'
+
+[476] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1389] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[482] link 'Create new...' focused: True expanded: True describedby: gl-tooltip6
+
+[2312] StaticText 'This project'
+
+[2313] link 'New issue'
+
+[2309] link 'New merge request'
+
+[2328] link 'New snippet'
+
+[2310] StaticText 'GitLab'
+
+[2307] link 'New project/repository'
+
+[2315] link 'New group'
+
+[2319] link 'New snippet'
+
+[484] link 'Issues'
+
+[830] generic '13 assigned issues'
+
+[485] link 'Merge requests' expanded: False
+
+[832] generic '8 merge requests'
+
+[487] link 'To-Do List'
+
+[848] generic 'Todos count'
+
+[1410] StaticText '5'
+
+[488] link 'Help'
+
+[490] link 'Byte Blaze'
+
+[882] img 'Byte Blaze'
+
+[131] complementary 'Project navigation'
+
+[342] listitem 'design'
+
+[492] link 'design'
+
+[923] StaticText 'D'
+
+[493] link 'Project information'
+
+[495] link 'Repository'
+
+[497] link 'Issues'
+
+[988] StaticText '21'
+
+[499] link 'Merge requests'
+
+[1017] StaticText '16'
+
+[501] link 'CI/CD'
+
+[503] link 'Security & Compliance'
+
+[505] link 'Deployments'
+
+[507] link 'Packages and registries'
+
+[509] link 'Infrastructure'
+
+[511] link 'Monitor'
+
+[513] link 'Analytics'
+
+[515] link 'Wiki'
+
+[517] link 'Snippets'
+
+[262] button 'Collapse sidebar'
+
+[135] alert '' live: assertive atomic: True relevant: additions text
+
+[138] button 'Dismiss'
+
+[139] alert '' live: assertive atomic: True relevant: additions text
+
+[375] link 'Add SSH key'
+
+[376] button "Don't show again"
+
+[136] navigation 'Breadcrumbs'
+
+[534] link 'Primer'
+
+[536] link 'design'
+
+[17] main ''
+
+[388] StaticText 'D'
+
+[279] heading 'design Public - The project can be accessed without any authentication.'
+
+[282] generic 'Public - The project can be accessed without any authentication.'
+
+[285] StaticText 'Project ID: 180 '
+
+[286] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[288] link 'Leave project'
+
+[394] button '' hasPopup: menu expanded: False
+
+[291] button 'Star'
+
+[292] link '21'
+
+[399] link 'Fork'
+
+[294] link '0'
+
+[632] link '921 Commits'
+
+[633] link '38 Branches'
+
+[634] link '0 Tags'
+
+[1212] StaticText '97.8 MB'
+
+[1208] StaticText ' Project Storage'
+
+[300] StaticText 'Primer Design Guidelines'
+
+[302] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">77.4%</span>'
+
+[303] generic '<span class="repository-language-bar-tooltip-language">TSX</span>&nbsp;<span class="repository-language-bar-tooltip-share">22.6%</span>'
+
+[412] img 'user avatar'
+
+[416] link 'Add interface guidelines for ProgressBar (#452)'
+
+[417] button 'Toggle commit description'
+
+[422] StaticText 'Mike Perrotti authored '
+
+[423] time 'Mar 24, 2023 12:33pm EDT'
+
+[639] StaticText '5 months ago'
+
+[436] button 'Unverified'
+
+[435] group ''
+
+[642] StaticText '260e840e'
+
+[438] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[1216] button 'main' hasPopup: menu expanded: False
+
+[57] navigation 'Files breadcrumb'
+
+[1754] link 'design'
+
+[2029] button 'Add to tree' hasPopup: menu expanded: False
+
+[647] link 'Find file'
+
+[652] link 'Web IDE'
+
+[653] button 'Download'
+
+[1223] StaticText 'Select Archive Format'
+
+[655] link 'Clone'
+
+[678] link 'README'
+
+[679] link 'MIT License'
+
+[680] link 'CONTRIBUTING'
+
+[75] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[1283] row ''
+
+[1284] columnheader 'Name' required: False
+
+[1285] columnheader 'Last commit' required: False
+
+[1286] columnheader 'Last update' required: False
+
+[1287] row ''
+
+[1307] gridcell '.github' required: False
+
+[1777] link '.github'
+
+[1308] gridcell 'Add more deploy triggers (#406)' required: False
+
+[1783] link 'Add more deploy triggers (#406)'
+
+[1309] gridcell '6 months ago' required: False
+
+[1786] time 'Feb 23, 2023 12:27pm EST'
+
+[1288] row ''
+
+[1310] gridcell 'content' required: False
+
+[1788] link 'content'
+
+[1311] gridcell 'Add interface guidelines for ProgressBar (#452)' required: False
+
+[1794] link 'Add interface guidelines for ProgressBar (#452)'
+
+[1312] gridcell '5 months ago' required: False
+
+[1797] time 'Mar 24, 2023 12:33pm EDT'
+
+[1289] row ''
+
+[1313] gridcell 'docs' required: False
+
+[1799] link 'docs'
+
+[1314] gridcell 'Introduce markdownlinting (#345)' required: False
+
+[1805] link 'Introduce markdownlinting (#345)'
+
+[1315] gridcell '8 months ago' required: False
+
+[2331] tooltip 'Create new...'</pre><div>
+
+[482] where [482] is link 'Create new...' expanded: False</div>
+
+[482]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '482', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We want to create a merge request for the build time debug branch to be merged into the main branch and assign ourselves as the reviewer. This can be done by clicking on the "Create new..." link, which has not been expanded yet. In summary, the next action I will perform is ```click [482]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [482] where [482] is [482] link 'Create new...' focused: True expanded: True describedby: gl-tooltip6</pre></div></div>
+
+[1] RootWebArea 'Primer / design · GitLab' focused: True
+
+[130] link 'Skip to content'
+
+[309] link 'Dashboard'
+
+[476] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1389] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[482] link 'Create new...' focused: True expanded: False
+
+[484] link 'Issues'
+
+[830] generic '13 assigned issues'
+
+[485] link 'Merge requests' expanded: False
+
+[832] generic '8 merge requests'
+
+[487] link 'To-Do List'
+
+[848] generic 'Todos count'
+
+[1410] StaticText '5'
+
+[488] link 'Help'
+
+[490] link 'Byte Blaze'
+
+[882] img 'Byte Blaze'
+
+[131] complementary 'Project navigation'
+
+[342] listitem 'design'
+
+[492] link 'design'
+
+[923] StaticText 'D'
+
+[493] link 'Project information'
+
+[495] link 'Repository'
+
+[497] link 'Issues'
+
+[988] StaticText '21'
+
+[499] link 'Merge requests'
+
+[1017] StaticText '16'
+
+[501] link 'CI/CD'
+
+[503] link 'Security & Compliance'
+
+[505] link 'Deployments'
+
+[507] link 'Packages and registries'
+
+[509] link 'Infrastructure'
+
+[511] link 'Monitor'
+
+[513] link 'Analytics'
+
+[515] link 'Wiki'
+
+[517] link 'Snippets'
+
+[262] button 'Collapse sidebar'
+
+[135] alert '' live: assertive atomic: True relevant: additions text
+
+[138] button 'Dismiss'
+
+[139] alert '' live: assertive atomic: True relevant: additions text
+
+[375] link 'Add SSH key'
+
+[376] button "Don't show again"
+
+[136] navigation 'Breadcrumbs'
+
+[534] link 'Primer'
+
+[536] link 'design'
+
+[17] main ''
+
+[388] StaticText 'D'
+
+[279] heading 'design Public - The project can be accessed without any authentication.'
+
+[282] generic 'Public - The project can be accessed without any authentication.'
+
+[285] StaticText 'Project ID: 180 '
+
+[286] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[288] link 'Leave project'
+
+[394] button '' hasPopup: menu expanded: False
+
+[291] button 'Star'
+
+[292] link '21'
+
+[399] link 'Fork'
+
+[294] link '0'
+
+[632] link '921 Commits'
+
+[633] link '38 Branches'
+
+[634] link '0 Tags'
+
+[1212] StaticText '97.8 MB'
+
+[1208] StaticText ' Project Storage'
+
+[300] StaticText 'Primer Design Guidelines'
+
+[302] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">77.4%</span>'
+
+[303] generic '<span class="repository-language-bar-tooltip-language">TSX</span>&nbsp;<span class="repository-language-bar-tooltip-share">22.6%</span>'
+
+[412] img 'user avatar'
+
+[416] link 'Add interface guidelines for ProgressBar (#452)'
+
+[417] button 'Toggle commit description'
+
+[422] StaticText 'Mike Perrotti authored '
+
+[423] time 'Mar 24, 2023 12:33pm EDT'
+
+[639] StaticText '5 months ago'
+
+[436] button 'Unverified'
+
+[435] group ''
+
+[642] StaticText '260e840e'
+
+[438] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[1216] button 'main' hasPopup: menu expanded: False
+
+[57] navigation 'Files breadcrumb'
+
+[1754] link 'design'
+
+[2029] button 'Add to tree' hasPopup: menu expanded: False
+
+[647] link 'Find file'
+
+[652] link 'Web IDE'
+
+[653] button 'Download'
+
+[1223] StaticText 'Select Archive Format'
+
+[655] link 'Clone'
+
+[678] link 'README'
+
+[679] link 'MIT License'
+
+[680] link 'CONTRIBUTING'
+
+[75] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[1283] row ''
+
+[1284] columnheader 'Name' required: False
+
+[1285] columnheader 'Last commit' required: False
+
+[1286] columnheader 'Last update' required: False
+
+[1287] row ''
+
+[1307] gridcell '.github' required: False
+
+[1777] link '.github'
+
+[1308] gridcell 'Add more deploy triggers (#406)' required: False
+
+[1783] link 'Add more deploy triggers (#406)'
+
+[1309] gridcell '6 months ago' required: False
+
+[1786] time 'Feb 23, 2023 12:27pm EST'
+
+[1288] row ''
+
+[1310] gridcell 'content' required: False
+
+[1788] link 'content'
+
+[1311] gridcell 'Add interface guidelines for ProgressBar (#452)' required: False
+
+[1794] link 'Add interface guidelines for ProgressBar (#452)'
+
+[1312] gridcell '5 months ago' required: False
+
+[1797] time 'Mar 24, 2023 12:33pm EDT'
+
+[1289] row ''
+
+[1313] gridcell 'docs' required: False
+
+[1799] link 'docs'
+
+[1314] gridcell 'Introduce markdownlinting (#345)' required: False
+
+[1805] link 'Introduce markdownlinting (#345)'
+
+[1315] gridcell '8 months ago' required: False</pre><div>
+
+[482] where [482] is link 'Create new...' focused: True expanded: True describedby: gl-tooltip6</div>
+
+[482]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '482', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to submit a merge request for the "build time debug" branch to be merged into the "main" branch and assign yourself as the reviewer. We can start by clicking on the "Create new..." link. \n\nIn summary, the next action I will perform is ```click [482]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [482] where [482] is [482] link 'Create new...' focused: True expanded: False</pre></div></div>
+
+[1] RootWebArea 'Primer / design · GitLab' focused: True
+
+[130] link 'Skip to content'
+
+[309] link 'Dashboard'
+
+[476] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1389] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[482] link 'Create new...' focused: True expanded: True describedby: gl-tooltip6
+
+[2367] StaticText 'This project'
+
+[2382] link 'New issue'
+
+[2364] link 'New merge request'
+
+[2380] link 'New snippet'
+
+[2365] StaticText 'GitLab'
+
+[2373] link 'New project/repository'
+
+[2361] link 'New group'
+
+[2378] link 'New snippet'
+
+[484] link 'Issues'
+
+[830] generic '13 assigned issues'
+
+[485] link 'Merge requests' expanded: False
+
+[832] generic '8 merge requests'
+
+[487] link 'To-Do List'
+
+[848] generic 'Todos count'
+
+[1410] StaticText '5'
+
+[488] link 'Help'
+
+[490] link 'Byte Blaze'
+
+[882] img 'Byte Blaze'
+
+[131] complementary 'Project navigation'
+
+[342] listitem 'design'
+
+[492] link 'design'
+
+[923] StaticText 'D'
+
+[493] link 'Project information'
+
+[495] link 'Repository'
+
+[497] link 'Issues'
+
+[988] StaticText '21'
+
+[499] link 'Merge requests'
+
+[1017] StaticText '16'
+
+[501] link 'CI/CD'
+
+[503] link 'Security & Compliance'
+
+[505] link 'Deployments'
+
+[507] link 'Packages and registries'
+
+[509] link 'Infrastructure'
+
+[511] link 'Monitor'
+
+[513] link 'Analytics'
+
+[515] link 'Wiki'
+
+[517] link 'Snippets'
+
+[262] button 'Collapse sidebar'
+
+[135] alert '' live: assertive atomic: True relevant: additions text
+
+[138] button 'Dismiss'
+
+[139] alert '' live: assertive atomic: True relevant: additions text
+
+[375] link 'Add SSH key'
+
+[376] button "Don't show again"
+
+[136] navigation 'Breadcrumbs'
+
+[534] link 'Primer'
+
+[536] link 'design'
+
+[17] main ''
+
+[388] StaticText 'D'
+
+[279] heading 'design Public - The project can be accessed without any authentication.'
+
+[282] generic 'Public - The project can be accessed without any authentication.'
+
+[285] StaticText 'Project ID: 180 '
+
+[286] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[288] link 'Leave project'
+
+[394] button '' hasPopup: menu expanded: False
+
+[291] button 'Star'
+
+[292] link '21'
+
+[399] link 'Fork'
+
+[294] link '0'
+
+[632] link '921 Commits'
+
+[633] link '38 Branches'
+
+[634] link '0 Tags'
+
+[1212] StaticText '97.8 MB'
+
+[1208] StaticText ' Project Storage'
+
+[300] StaticText 'Primer Design Guidelines'
+
+[302] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">77.4%</span>'
+
+[303] generic '<span class="repository-language-bar-tooltip-language">TSX</span>&nbsp;<span class="repository-language-bar-tooltip-share">22.6%</span>'
+
+[412] img 'user avatar'
+
+[416] link 'Add interface guidelines for ProgressBar (#452)'
+
+[417] button 'Toggle commit description'
+
+[422] StaticText 'Mike Perrotti authored '
+
+[423] time 'Mar 24, 2023 12:33pm EDT'
+
+[639] StaticText '5 months ago'
+
+[436] button 'Unverified'
+
+[435] group ''
+
+[642] StaticText '260e840e'
+
+[438] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[1216] button 'main' hasPopup: menu expanded: False
+
+[57] navigation 'Files breadcrumb'
+
+[1754] link 'design'
+
+[2029] button 'Add to tree' hasPopup: menu expanded: False
+
+[647] link 'Find file'
+
+[652] link 'Web IDE'
+
+[653] button 'Download'
+
+[1223] StaticText 'Select Archive Format'
+
+[655] link 'Clone'
+
+[678] link 'README'
+
+[679] link 'MIT License'
+
+[680] link 'CONTRIBUTING'
+
+[75] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[1283] row ''
+
+[1284] columnheader 'Name' required: False
+
+[1285] columnheader 'Last commit' required: False
+
+[1286] columnheader 'Last update' required: False
+
+[1287] row ''
+
+[1307] gridcell '.github' required: False
+
+[1777] link '.github'
+
+[1308] gridcell 'Add more deploy triggers (#406)' required: False
+
+[1783] link 'Add more deploy triggers (#406)'
+
+[1309] gridcell '6 months ago' required: False
+
+[1786] time 'Feb 23, 2023 12:27pm EST'
+
+[1288] row ''
+
+[1310] gridcell 'content' required: False
+
+[1788] link 'content'
+
+[1311] gridcell 'Add interface guidelines for ProgressBar (#452)' required: False
+
+[1794] link 'Add interface guidelines for ProgressBar (#452)'
+
+[1312] gridcell '5 months ago' required: False
+
+[1797] time 'Mar 24, 2023 12:33pm EDT'
+
+[1289] row ''
+
+[1313] gridcell 'docs' required: False
+
+[1799] link 'docs'
+
+[1314] gridcell 'Introduce markdownlinting (#345)' required: False
+
+[1805] link 'Introduce markdownlinting (#345)'
+
+[1315] gridcell '8 months ago' required: False
+
+[2386] tooltip 'Create new...'</pre><div>
+
+[482] where [482] is link 'Create new...' focused: True expanded: False</div>
+

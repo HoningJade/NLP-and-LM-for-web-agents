@@ -1,0 +1,35 @@
+Tab 0 (current): dotfile configurations · Search · GitLab
+
+[2340] RootWebArea 'dotfile configurations · Search · GitLab' focused: True
+	[2390] link 'Skip to content'
+	[2502] link 'Dashboard'
+	[2558] button '' hasPopup: menu expanded: False
+	[2564] link 'Create new...'
+	[2566] link 'Issues'
+		[2721] generic '13 assigned issues'
+	[2567] link 'Merge requests'
+		[2723] generic '8 merge requests'
+	[2569] link 'To-Do List'
+		[2739] generic 'Todos count'
+	[2570] link 'Help'
+	[2572] link 'Byte Blaze'
+		[2773] img 'Byte Blaze'
+	[2346] main ''
+		[2492] heading 'Search'
+		[2539] StaticText 'What are you searching for?'
+		[2351] group ''
+			[2352] searchbox 'Search for projects, issues, etc.'
+				[2811] StaticText 'dotfile configurations'
+			[2540] button 'Clear'
+			[2580] button 'Search'
+		[2543] StaticText 'Group'
+		[2544] button 'Any' hasPopup: menu expanded: False
+		[2546] StaticText 'Project'
+		[2547] button 'Any' hasPopup: menu expanded: False
+		[2494] separator '' orientation: horizontal
+		[2824] link 'Projects 0'
+		[2825] link 'Issues 3'
+		[2826] link 'Merge requests 0'
+		[2827] link 'Milestones 0'
+		[2828] link 'Users 0'
+		[2551] heading " We couldn't find any projects matching dotfile configurations"</pre><div>

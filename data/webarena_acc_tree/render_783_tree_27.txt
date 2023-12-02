@@ -1,0 +1,94 @@
+Tab 0 (current): Find File · main · Byte Blaze / a11y-webring.club · GitLab
+
+[20545] RootWebArea 'Find File · main · Byte Blaze / a11y-webring.club · GitLab' focused: True
+	[20604] link 'Skip to content'
+	[20748] link 'Dashboard'
+	[20835] button '' hasPopup: menu expanded: False
+	[20566] textbox 'Search GitLab' required: False
+	[21566] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[20841] link 'Create new...'
+	[20843] link 'Issues'
+		[21057] generic '13 assigned issues'
+	[20844] link 'Merge requests'
+		[21059] generic '8 merge requests'
+	[20846] link 'To-Do List'
+		[21075] generic 'Todos count'
+	[20847] link 'Help'
+	[20849] link 'Byte Blaze'
+		[21109] img 'Byte Blaze'
+	[20605] complementary 'Project navigation'
+		[20781] listitem 'a11y-webring.club'
+			[20851] link 'a11y-webring.club'
+				[21150] StaticText 'A'
+		[20852] link 'Project information'
+		[20854] link 'Repository'
+		[21606] link 'Files'
+		[21607] link 'Commits'
+		[21608] link 'Branches'
+		[21609] link 'Tags'
+		[21610] link 'Contributors'
+		[21611] link 'Graph'
+		[21612] link 'Compare'
+		[20856] link 'Issues'
+			[21191] StaticText '4'
+		[20858] link 'Merge requests'
+		[20860] link 'CI/CD'
+		[20862] link 'Security & Compliance'
+		[20864] link 'Deployments'
+		[20866] link 'Packages and registries'
+		[20868] link 'Infrastructure'
+		[20870] link 'Monitor'
+		[20872] link 'Analytics'
+		[20874] link 'Wiki'
+		[20736] button 'Collapse sidebar'
+	[20609] navigation 'Breadcrumbs'
+		[20895] link 'Byte Blaze'
+		[20897] link 'a11y-webring.club'
+		[20899] link 'main'
+	[20551] main ''
+		[20900] button 'main'
+		[20901] link 'a11y-webring.club'
+		[20556] textbox 'Find by path' focused: True required: False
+		[20743] table ''
+			[20903] row ''
+				[20923] gridcell '.editorconfig' required: False
+					[21477] link '.editorconfig'
+			[20904] row ''
+				[20924] gridcell '.eleventy.js' required: False
+					[21481] link '.eleventy.js'
+			[20905] row ''
+				[20925] gridcell '.eleventyignore' required: False
+					[21485] link '.eleventyignore'
+			[20906] row ''
+				[20926] gridcell '.github/CODE_OF_CONDUCT.md' required: False
+					[21489] link '.github/CODE_OF_CONDUCT.md'
+			[20907] row ''
+				[20927] gridcell '.github/CONTRIBUTING.md' required: False
+					[21493] link '.github/CONTRIBUTING.md'
+			[20908] row ''
+				[20928] gridcell '.github/ISSUE_TEMPLATE/addition.yml' required: False
+					[21497] link '.github/ISSUE_TEMPLATE/addition.yml'
+			[20909] row ''
+				[20929] gridcell '.github/ISSUE_TEMPLATE/bug-report.yml' required: False
+					[21501] link '.github/ISSUE_TEMPLATE/bug-report.yml'
+			[20910] row ''
+				[20930] gridcell '.github/ISSUE_TEMPLATE/code-of-conduct.yml' required: False
+					[21505] link '.github/ISSUE_TEMPLATE/code-of-conduct.yml'
+			[20911] row ''
+				[20931] gridcell '.github/ISSUE_TEMPLATE/feature-suggestion.yml' required: False
+					[21509] link '.github/ISSUE_TEMPLATE/feature-suggestion.yml'
+			[20912] row ''
+				[20932] gridcell '.github/ISSUE_TEMPLATE/other.yml' required: False
+					[21513] link '.github/ISSUE_TEMPLATE/other.yml'
+			[20913] row ''
+				[20933] gridcell '.github/PULL_REQUEST_TEMPLATE/ADDITION.md' required: False
+					[21517] link '.github/PULL_REQUEST_TEMPLATE/ADDITION.md'
+			[20914] row ''
+				[20934] gridcell '.github/PULL_REQUEST_TEMPLATE/BUGFIX.md' required: False
+					[21521] link '.github/PULL_REQUEST_TEMPLATE/BUGFIX.md'
+			[20915] row ''
+				[20935] gridcell '.github/PULL_REQUEST_TEMPLATE/FEATURE.md' required: False
+					[21525] link '.github/PULL_REQUEST_TEMPLATE/FEATURE.md'
+			[20916] row ''
+				[20936] gridcell '.github/PULL_REQUEST_TEMPLATE/MODIFICATION.md' required: False
+					[21529] link '.github/PULL_REQUEST_TEMPLATE/MODIFICATION.md'</pre><div>

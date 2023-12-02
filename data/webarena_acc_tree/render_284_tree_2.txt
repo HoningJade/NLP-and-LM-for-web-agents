@@ -1,0 +1,46 @@
+Tab 0 (current): Advanced Search
+
+[2634] RootWebArea 'Advanced Search' focused: True
+	[3903] link 'My Account'
+	[3901] link 'My Wish List'
+	[3905] link 'Sign Out'
+	[3908] StaticText 'Welcome to One Stop Market'
+	[3843] link 'Skip to Content'
+	[3852] link 'store logo'
+		[3911] img 'one_stop_market_logo'
+	[3912] link '\ue611 My Cart'
+	[4697] StaticText 'Search'
+	[2645] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+	[4700] link 'Advanced Search'
+	[3981] button 'Search' disabled: True
+	[3743] tablist '' multiselectable: False orientation: horizontal
+		[3745] tabpanel ''
+			[2687] menu '' orientation: vertical
+				[3438] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+				[3503] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+				[3513] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+				[3527] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+				[3564] menuitem '\ue622 Office Products' hasPopup: menu
+				[3572] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+				[3577] menuitem '\ue622 Health & Household' hasPopup: menu
+				[3583] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+				[3588] menuitem '\ue622 Electronics' hasPopup: menu
+				[3649] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+				[3664] menuitem '\ue622 Video Games' hasPopup: menu
+				[3677] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+	[3874] link 'Home '
+	[3877] StaticText 'Catalog Advanced Search'
+	[2646] main ''
+		[3878] heading 'Advanced Search'
+		[2650] group 'Search Settings'
+			[3954] StaticText 'Product Name'
+			[2653] textbox 'Product Name' required: False
+			[3957] StaticText 'SKU'
+			[2656] textbox 'SKU' required: False
+			[3960] StaticText 'Description'
+			[2659] textbox 'Description' required: False
+			[3963] StaticText 'Short Description'
+			[2662] textbox 'Short Description' required: False
+			[3966] StaticText 'Price'
+			[2668] textbox 'Price' required: False
+			[2672] textbox 'USD' required: False</pre><div>

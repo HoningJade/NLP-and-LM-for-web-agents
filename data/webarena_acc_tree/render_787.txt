@@ -1,0 +1,174 @@
+[1] RootWebArea 'Contributors · Henning Leutz / awesome-visibility · GitLab' focused: True
+
+[635] link 'Skip to content'
+
+[786] link 'Dashboard'
+
+[912] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1941] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[918] link 'Create new...'
+
+[920] link 'Issues'
+
+[1257] generic '13 assigned issues'
+
+[921] link 'Merge requests'
+
+[1259] generic '8 merge requests'
+
+[923] link 'To-Do List'
+
+[1275] generic 'Todos count'
+
+[924] link 'Help'
+
+[926] link 'Byte Blaze'
+
+[1309] img 'Byte Blaze'
+
+[636] complementary 'Project navigation'
+
+[819] listitem 'awesome-visibility'
+
+[928] link 'awesome-visibility'
+
+[1350] StaticText 'A'
+
+[929] link 'Project information'
+
+[931] link 'Repository'
+
+[1981] link 'Files'
+
+[1982] link 'Commits'
+
+[1983] link 'Branches'
+
+[1984] link 'Tags'
+
+[1985] link 'Contributors'
+
+[1986] link 'Graph'
+
+[1987] link 'Compare'
+
+[933] link 'Issues'
+
+[935] link 'Merge requests'
+
+[1420] StaticText '0'
+
+[937] link 'CI/CD'
+
+[939] link 'Deployments'
+
+[941] link 'Packages and registries'
+
+[943] link 'Monitor'
+
+[945] link 'Analytics'
+
+[947] link 'Wiki'
+
+[949] link 'Snippets'
+
+[752] button 'Collapse sidebar'
+
+[640] navigation 'Breadcrumbs'
+
+[966] link 'Henning Leutz'
+
+[968] link 'awesome-visibility'
+
+[970] link 'Contributors'
+
+[17] main ''
+
+[971] button 'master'
+
+[756] link 'History'
+
+[757] heading 'Commits to master'
+
+[759] StaticText 'Excluding merge commits. Limited to 6,000 commits.'
+
+[497] SvgRoot ''
+
+[1570] StaticText 'Number of commits'
+
+[626] StaticText '2'
+
+[624] StaticText '3'
+
+[614] StaticText 'Mar'
+
+[612] StaticText 'Apr'
+
+[610] StaticText 'May'
+
+[608] StaticText 'Jun'
+
+[606] StaticText 'Jul'
+
+[604] StaticText 'Aug'
+
+[602] StaticText 'Sep'
+
+[600] StaticText 'Oct'
+
+[598] StaticText 'Nov'
+
+[596] StaticText 'Dec'
+
+[594] StaticText 'Feb'
+
+[592] StaticText 'Mar'
+
+[590] StaticText 'Apr'
+
+[588] StaticText 'May'
+
+[586] StaticText 'Jun'
+
+[584] StaticText 'Jul'
+
+[582] StaticText 'Aug'
+
+[580] StaticText 'Sep'
+
+[578] StaticText 'Oct'
+
+[576] StaticText 'Nov'
+
+[574] StaticText 'Dec'
+
+[572] StaticText '2020'
+
+[860] button 'Commits Avg: 92.6m · Max: 7'
+
+[866] generic 'Commits'
+
+[763] heading 'Henning Leutz'
+
+[871] StaticText '51 commits (leutz@pcsg.de)'
+
+[453] SvgRoot ''
+
+[492] StaticText 'Commits'
+
+[478] StaticText '6'
+
+[765] heading 'Jérémie Zarca'
+
+[875] StaticText '3 commits (jzarca01@users.noreply.github.com)'
+
+[408] SvgRoot ''
+
+[447] StaticText 'Commits'
+
+[433] StaticText '6'</pre><div>
+

@@ -1,0 +1,109 @@
+Tab 0 (current): crew / awesome_web_agents · GitLab
+
+[5678] RootWebArea 'crew / awesome_web_agents · GitLab' focused: True
+	[5791] link 'Skip to content'
+	[5973] link 'Dashboard'
+	[6143] button '' hasPopup: menu expanded: False
+	[5690] textbox 'Search GitLab' required: False
+	[7171] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[6149] link 'Create new...'
+	[6151] link 'Issues'
+		[6515] generic '13 assigned issues'
+	[6152] link 'Merge requests'
+		[6517] generic '8 merge requests'
+	[6154] link 'To-Do List'
+		[6533] generic 'Todos count'
+	[6155] link 'Help'
+	[6157] link 'Byte Blaze'
+		[6567] img 'Byte Blaze'
+	[5792] complementary 'Project navigation'
+		[6006] listitem 'awesome_web_agents'
+			[6159] link 'awesome_web_agents'
+				[6608] StaticText 'A'
+		[6160] link 'Project information'
+		[6162] link 'Repository'
+		[6164] link 'Issues'
+		[6166] link 'Merge requests'
+			[6702] StaticText '0'
+		[6168] link 'CI/CD'
+		[6170] link 'Security & Compliance'
+		[6172] link 'Deployments'
+		[6174] link 'Packages and registries'
+		[6176] link 'Infrastructure'
+		[6178] link 'Monitor'
+		[6180] link 'Analytics'
+		[6182] link 'Wiki'
+		[6184] link 'Snippets'
+		[6186] link 'Settings'
+		[5928] button 'Collapse sidebar'
+	[5796] alert '' live: assertive atomic: True relevant: additions text
+		[5799] button 'Dismiss'
+		[5800] alert '' live: assertive atomic: True relevant: additions text
+			[6040] link 'Add SSH key'
+			[6041] button "Don't show again"
+	[5797] navigation 'Breadcrumbs'
+		[6203] link 'crew'
+		[6205] link 'awesome_web_agents'
+	[5694] main ''
+		[5938] alert '' live: assertive atomic: True relevant: additions text
+			[6054] button 'Dismiss'
+			[6055] alert '' live: assertive atomic: True relevant: additions text
+				[6929] StaticText 'The project was successfully imported.'
+		[6056] StaticText 'A'
+		[5946] heading 'awesome_web_agents Public - The project can be accessed without any authentication.'
+			[5949] generic 'Public - The project can be accessed without any authentication.'
+		[5952] StaticText 'Project ID: 200 '
+		[5953] button 'Copy project ID' live: polite atomic: False relevant: additions text
+		[5955] link 'Leave project'
+		[6062] button '' hasPopup: menu expanded: False
+		[5958] button 'Star'
+		[5959] link '0'
+		[6067] link 'Fork'
+		[5961] link '0'
+		[6306] link '1 Commit'
+		[6307] link '1 Branch'
+		[6308] link '0 Tags'
+		[6309] link '236 KB Project Storage'
+		[5963] generic '<span class="repository-language-bar-tooltip-language">Ruby</span>&nbsp;<span class="repository-language-bar-tooltip-share">75.0%</span>'
+		[5964] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">12.5%</span>'
+		[5965] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">8.6%</span>'
+		[5966] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.8%</span>'
+		[5967] generic '<span class="repository-language-bar-tooltip-language">HTML+ERB</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.7%</span>'
+		[6080] img 'user avatar'
+		[6084] link "Initialized from 'Ruby on Rails' project template"
+		[6085] button 'Toggle commit description'
+		[6090] StaticText 'GitLab authored '
+		[6091] time 'Dec 2, 2022 6:46pm EST'
+			[6313] StaticText '9 months ago'
+		[6096] group ''
+			[6315] StaticText '18f93570'
+			[6098] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[6955] button 'master' hasPopup: menu expanded: False
+		[5748] navigation 'Files breadcrumb'
+			[7295] link 'awesome_web_agents'
+			[7643] button 'Add to tree' hasPopup: menu expanded: False
+		[6320] link 'Find file'
+		[6325] link 'Web IDE'
+		[6326] button 'Download'
+			[6962] StaticText 'Select Archive Format'
+		[6328] link 'Clone'
+		[6351] link 'README'
+		[6352] link 'MIT License'
+		[6353] link 'CONTRIBUTING'
+		[6354] link 'CI/CD configuration'
+		[6355] link 'Add CHANGELOG'
+		[7026] StaticText 'Auto DevOps enabled'
+		[6357] link 'Add Kubernetes cluster'
+		[6358] link 'Configure Integrations'
+		[5766] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+			[7031] row ''
+				[7032] columnheader 'Name' required: False
+				[7033] columnheader 'Last commit' required: False
+				[7034] columnheader 'Last update' required: False
+			[7035] row ''
+				[7064] gridcell 'app' required: False
+					[7330] link 'app'
+				[7065] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+					[7336] link "Initialized from 'Ruby on Rails' project template"
+				[7066] gridcell '9 months ago' required: False
+					[7339] time 'Dec 2, 2022 6:46pm EST'</pre><div>

@@ -1,0 +1,13 @@
+Tab 0 (current): ec2-3-135-39-80.us-east-2.compute.amazonaws.com
+
+[1] RootWebArea 'ec2-3-135-39-80.us-east-2.compute.amazonaws.com' focused: True
+	[49] heading 'This site can’t be reached'
+	[53] StaticText ' refused to connect.'
+	[82] StaticText 'Try:'
+	[16] ListMarker '• '
+	[83] StaticText 'Checking the connection'
+	[18] ListMarker '• '
+	[84] link 'Checking the proxy and the firewall'
+	[12] StaticText 'ERR_CONNECTION_REFUSED'
+	[58] button 'Reload'
+	[33] button 'Details'</pre><div>

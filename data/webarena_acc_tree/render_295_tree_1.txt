@@ -1,0 +1,47 @@
+Tab 0 (current): metaseq · Search · GitLab
+
+[1787] RootWebArea 'metaseq · Search · GitLab' focused: True
+	[1855] link 'Skip to content'
+	[1964] link 'Dashboard'
+	[2016] button '' hasPopup: menu expanded: False
+	[2022] link 'Create new...'
+	[2024] link 'Issues'
+		[2177] generic '13 assigned issues'
+	[2025] link 'Merge requests'
+		[2179] generic '8 merge requests'
+	[2027] link 'To-Do List'
+		[2195] generic 'Todos count'
+	[2028] link 'Help'
+	[2030] link 'Byte Blaze'
+		[2229] img 'Byte Blaze'
+	[1793] main ''
+		[1956] heading 'Search'
+		[2001] StaticText 'What are you searching for?'
+		[1798] group ''
+			[1799] searchbox 'Search for projects, issues, etc.'
+				[2267] StaticText 'metaseq'
+			[2002] button 'Clear'
+			[2038] button 'Search'
+		[2005] StaticText 'Group'
+		[2006] button 'Any' hasPopup: menu expanded: False
+		[2008] StaticText 'Project'
+		[2009] button 'Any' hasPopup: menu expanded: False
+		[1958] separator '' orientation: horizontal
+		[2280] link 'Projects 1'
+		[2281] link 'Issues 99'
+		[2282] link 'Merge requests 99 Result count is over limit.'
+			[2366] img 'Result count is over limit.'
+		[2283] link 'Milestones 0'
+		[2284] link 'Users 0'
+		[2285] link 'M'
+		[2288] heading 'Administrator / metaseq'
+			[2290] link 'Administrator / metaseq'
+		[2289] generic 'Public - The project can be accessed without any authentication.'
+		[2380] StaticText 'Repo for external large-scale work'
+		[2307] link '0'
+		[2308] link '0'
+		[2309] link '41'
+		[2310] link '95'
+		[2319] StaticText 'Updated '
+		[1833] time 'Feb 12, 2023 1:33am EST'
+			[2320] StaticText '6 months ago'</pre><div>

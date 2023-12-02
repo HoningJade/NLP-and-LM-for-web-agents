@@ -1,0 +1,45 @@
+Tab 0 (current): aem-hacker · Search · GitLab
+
+[1806] RootWebArea 'aem-hacker · Search · GitLab' focused: True
+	[1880] link 'Skip to content'
+	[1988] link 'Dashboard'
+	[2038] button '' hasPopup: menu expanded: False
+	[2044] link 'Create new...'
+	[1815] link 'Issues'
+		[1816] generic '13 assigned issues'
+	[2046] link 'Merge requests'
+		[2199] generic '8 merge requests'
+	[2048] link 'To-Do List'
+		[2215] generic 'Todos count'
+	[2049] link 'Help'
+	[2051] link 'Byte Blaze'
+		[2249] img 'Byte Blaze'
+	[1821] main ''
+		[1980] heading 'Search'
+		[2023] StaticText 'What are you searching for?'
+		[1826] group ''
+			[1827] searchbox 'Search for projects, issues, etc.'
+				[2287] StaticText 'aem-hacker'
+			[2024] button 'Clear'
+			[2059] button 'Search'
+		[2027] StaticText 'Group'
+		[2028] button 'Any' hasPopup: menu expanded: False
+		[2030] StaticText 'Project'
+		[2031] button 'Any' hasPopup: menu expanded: False
+		[1982] separator '' orientation: horizontal
+		[2300] link 'Projects 1'
+		[2301] link 'Issues 0'
+		[2302] link 'Merge requests 2'
+		[2303] link 'Milestones 0'
+		[2304] link 'Users 0'
+		[2305] link 'A'
+		[2307] heading '0ang3el / aem-hacker'
+			[2309] link '0ang3el / aem-hacker'
+		[2308] generic 'Public - The project can be accessed without any authentication.'
+		[2325] link '12'
+		[2326] link '0'
+		[2327] link '2'
+		[2328] link '12'
+		[2337] StaticText 'Updated '
+		[1861] time 'Mar 20, 2023 10:19am EDT'
+			[2338] StaticText '5 months ago'</pre><div>

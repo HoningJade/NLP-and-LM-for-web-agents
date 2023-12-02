@@ -1,0 +1,75 @@
+Tab 0 (current): Edit Profile · User Settings · GitLab
+
+[5185] RootWebArea 'Edit Profile · User Settings · GitLab' focused: True
+	[5293] link 'Skip to content'
+	[5441] link 'Dashboard'
+	[5545] button '' hasPopup: menu expanded: False
+	[5197] textbox 'Search GitLab' required: False
+	[6047] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[5551] link 'Create new...'
+	[5553] link 'Issues'
+		[5799] generic '13 assigned issues'
+	[5554] link 'Merge requests'
+		[5801] generic '8 merge requests'
+	[5556] link 'To-Do List'
+		[5817] generic 'Todos count'
+	[5557] link 'Help'
+	[5559] link 'Byte Blazea11yproject.contributor.me'
+		[5851] img 'Byte Blazea11yproject.contributor.me'
+	[5294] complementary 'User settings'
+		[5474] link 'Byte Blazea11yproject.contributor.me User Settings'
+			[5561] img 'Byte Blazea11yproject.contributor.me'
+		[5564] link 'Profile'
+		[5566] link 'Account'
+		[5568] link 'Applications'
+		[5570] link 'Chat'
+		[5572] link 'Access Tokens'
+		[5574] link 'Emails'
+		[5576] link 'Password'
+		[5578] link 'Notifications'
+		[5580] link 'SSH Keys'
+		[5582] link 'GPG Keys'
+		[5584] link 'Preferences'
+		[5586] link 'Active Sessions'
+		[5588] link 'Authentication log'
+		[5399] button 'Collapse sidebar'
+	[5298] navigation 'Breadcrumbs'
+		[5593] link 'User Settings'
+		[5595] link 'Edit Profile'
+	[5201] main ''
+		[5266] searchbox 'Search page'
+		[5517] heading 'Public avatar'
+		[5597] StaticText 'You can upload your avatar here or change it at '
+		[5598] link 'gravatar.com'
+		[5599] link ''
+		[5520] heading 'Upload new avatar'
+		[5601] button 'Choose file...'
+		[5606] StaticText 'No file chosen.'
+		[5610] StaticText 'The maximum file size allowed is 200KB.'
+		[5523] separator '' orientation: horizontal
+		[5526] heading 'Current status'
+		[5612] StaticText 'This emoji and message will appear on your profile and throughout the interface.'
+		[5207] group ''
+			[5270] button '' hasPopup: menu expanded: False
+			[5208] textbox "What's your status?" required: False
+			[6008] button 'Clear status' focused: True describedby: __bv_tooltip_22__
+		[5210] checkbox 'Set yourself as busy Displays that you are busy or not able to respond' checked: false
+		[5260] group 'Clear status after'
+			[5261] group 'Clear status after'
+				[6121] button 'Never' hasPopup: menu expanded: False
+		[5528] separator '' orientation: horizontal
+		[5531] heading 'Time settings'
+		[5622] StaticText 'Set your local time zone.'
+		[5623] StaticText 'Time zone'
+		[5625] button 'Select timezone' hasPopup: menu expanded: False
+		[5534] separator '' orientation: horizontal
+		[5536] heading 'Main settings'
+		[5627] StaticText 'This information will appear on your profile.'
+		[6018] StaticText 'Full name'
+		[5215] textbox 'Full name' required: True
+			[6125] StaticText 'Byte Blazea11yproject.contributor.me'
+		[6021] StaticText 'Enter your name, so people you know can recognize you.'
+		[6022] StaticText 'User ID'
+		[5217] textbox 'User ID' required: False
+			[6126] StaticText '2330'
+	[6199] tooltip 'Clear status'</pre><div>

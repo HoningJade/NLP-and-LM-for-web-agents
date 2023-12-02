@@ -1,0 +1,111 @@
+Tab 0 (current): Akilesh Kannan / dots · GitLab
+
+[2566] RootWebArea 'Akilesh Kannan / dots · GitLab' focused: True
+	[2656] link 'Skip to content'
+	[2826] link 'Dashboard'
+	[2951] button '' hasPopup: menu expanded: False
+	[2578] textbox 'Search GitLab' required: False
+	[3871] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[2957] link 'Create new...'
+	[2959] link 'Issues'
+		[3274] generic '13 assigned issues'
+	[2960] link 'Merge requests'
+		[3276] generic '8 merge requests'
+	[2962] link 'To-Do List'
+		[3292] generic 'Todos count'
+			[3892] StaticText '5'
+	[2963] link 'Help'
+	[2965] link 'Byte Blaze'
+		[3326] img 'Byte Blaze'
+	[2657] complementary 'Project navigation'
+		[2859] listitem 'dots'
+			[2967] link 'dots'
+				[3373] StaticText 'D'
+		[2968] link 'Project information'
+		[2970] link 'Repository'
+		[2972] link 'Issues'
+		[2974] link 'Merge requests'
+		[2976] link 'CI/CD'
+		[2978] link 'Deployments'
+		[2980] link 'Packages and registries'
+		[2982] link 'Monitor'
+		[2984] link 'Analytics'
+		[2986] link 'Wiki'
+		[2988] link 'Snippets'
+		[2778] button 'Collapse sidebar'
+	[2661] alert '' live: assertive atomic: True relevant: additions text
+		[2664] button 'Dismiss'
+		[2665] alert '' live: assertive atomic: True relevant: additions text
+			[2890] link 'Add SSH key'
+			[2891] button "Don't show again"
+	[2662] navigation 'Breadcrumbs'
+		[3005] link 'Akilesh Kannan'
+		[3007] link 'dots'
+	[2582] main ''
+		[2903] StaticText 'D'
+		[2795] heading 'dots Public - The project can be accessed without any authentication.'
+			[2798] generic 'Public - The project can be accessed without any authentication.'
+		[2801] StaticText 'Project ID: 159 '
+		[2802] button 'Copy project ID' live: polite atomic: False relevant: additions text
+		[2804] link 'Request Access'
+		[2909] button '' hasPopup: menu expanded: False
+		[2807] button 'Star'
+		[2808] link '0'
+		[2914] link 'Fork'
+		[2810] link '0'
+		[3103] link '255 Commits'
+		[3104] link '1 Branch'
+		[3105] link '0 Tags'
+		[3612] StaticText '63 MB'
+		[3608] StaticText ' Project Storage'
+		[2816] StaticText '⋅files that define my system settings'
+		[2818] generic '<span class="repository-language-bar-tooltip-language">GDB</span>&nbsp;<span class="repository-language-bar-tooltip-share">63.8%</span>'
+		[2819] generic '<span class="repository-language-bar-tooltip-language">Lua</span>&nbsp;<span class="repository-language-bar-tooltip-share">18.6%</span>'
+		[2820] generic '<span class="repository-language-bar-tooltip-language">Shell</span>&nbsp;<span class="repository-language-bar-tooltip-share">17.6%</span>'
+		[2927] img 'user avatar'
+		[2931] link 'remove unnecessary autocommand'
+		[2934] StaticText 'Akilesh Kannan authored '
+		[2935] time 'Mar 20, 2023 7:05am EDT'
+			[3107] StaticText '5 months ago'
+		[2938] button 'Unverified'
+		[2937] group ''
+			[3110] StaticText '79817d14'
+			[2940] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[3616] button 'master' hasPopup: menu expanded: False
+		[2642] navigation 'Files breadcrumb'
+			[3983] link 'dots'
+			[4409] button 'Add to tree' hasPopup: menu expanded: False
+		[3113] link 'Find file'
+		[3118] link 'Web IDE'
+		[3119] button 'Download'
+			[3623] StaticText 'Select Archive Format'
+		[3121] link 'Clone'
+		[3144] link 'README'
+		[3145] link 'MIT License'
+		[3146] link 'CI/CD configuration'
+		[3683] StaticText 'Auto DevOps enabled'
+		[2625] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+			[3684] row ''
+				[3685] columnheader 'Name' required: False
+				[3686] columnheader 'Last commit' required: False
+				[3687] columnheader 'Last update' required: False
+			[3688] row ''
+				[3728] gridcell 'bashtop/.config/bashtop' required: False
+					[4006] link 'bashtop/.config/bashtop'
+				[3729] gridcell 'remove error.log from git' required: False
+					[4012] link 'remove error.log from git'
+				[3730] gridcell '1 year ago' required: False
+					[4015] time 'Apr 30, 2022 10:52am EDT'
+			[3689] row ''
+				[3731] gridcell 'bat/.config/bat' required: False
+					[4017] link 'bat/.config/bat'
+				[3732] gridcell 'some stuff' required: False
+					[4023] link 'some stuff'
+				[3733] gridcell '1 year ago' required: False
+					[4026] time 'May 7, 2022 11:48am EDT'
+			[3690] row ''
+				[3734] gridcell 'cargo/.cargo' required: False
+					[4028] link 'cargo/.cargo'
+				[3735] gridcell 'idk why root relative to user home didnt work' required: False
+					[4034] link 'idk why root relative to user home didnt work'
+				[3736] gridcell '9 months ago' required: False</pre><div>

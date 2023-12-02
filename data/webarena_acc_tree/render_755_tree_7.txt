@@ -1,0 +1,35 @@
+Tab 0 (current): web_agent_index · Search · GitLab
+
+[4227] RootWebArea 'web_agent_index · Search · GitLab' focused: True
+	[4277] link 'Skip to content'
+	[4389] link 'Dashboard'
+	[4445] button '' hasPopup: menu expanded: False
+	[4451] link 'Create new...'
+	[4453] link 'Issues'
+		[4608] generic '13 assigned issues'
+	[4454] link 'Merge requests'
+		[4610] generic '8 merge requests'
+	[4456] link 'To-Do List'
+		[4626] generic 'Todos count'
+	[4457] link 'Help'
+	[4459] link 'Byte Blaze'
+		[4660] img 'Byte Blaze'
+	[4233] main ''
+		[4379] heading 'Search'
+		[4426] StaticText 'What are you searching for?'
+		[4238] group ''
+			[4239] searchbox 'Search for projects, issues, etc.'
+				[4698] StaticText 'web_agent_index'
+			[4427] button 'Clear'
+			[4467] button 'Search'
+		[4430] StaticText 'Group'
+		[4431] button 'Any' hasPopup: menu expanded: False
+		[4433] StaticText 'Project'
+		[4434] button 'Any' hasPopup: menu expanded: False
+		[4381] separator '' orientation: horizontal
+		[4711] link 'Projects 0'
+		[4712] link 'Issues 12'
+		[4713] link 'Merge requests 0'
+		[4714] link 'Milestones 0'
+		[4715] link 'Users 0'
+		[4438] heading " We couldn't find any projects matching web_agent_index"</pre><div>

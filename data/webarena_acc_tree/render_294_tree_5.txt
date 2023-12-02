@@ -1,0 +1,108 @@
+Tab 0 (current): Convex Eggtart / Chatgpt · GitLab
+
+[2389] RootWebArea 'Convex Eggtart / Chatgpt · GitLab' focused: True
+	[2514] link 'Skip to content'
+	[2674] link 'Dashboard'
+	[2795] button '' hasPopup: menu expanded: False
+	[2401] textbox 'Search GitLab' required: False
+	[3673] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[2801] link 'Create new...'
+	[2803] link 'Issues'
+		[3224] generic '13 assigned issues'
+	[2804] link 'Merge requests'
+		[3226] generic '8 merge requests'
+	[2806] link 'To-Do List'
+		[3242] generic 'Todos count'
+			[3694] StaticText '5'
+	[2807] link 'Help'
+	[2809] link 'Byte Blaze'
+		[3276] img 'Byte Blaze'
+	[2515] complementary 'Project navigation'
+		[2707] listitem 'Chatgpt'
+			[2811] link 'Chatgpt'
+		[2812] link 'Project information'
+		[2814] link 'Repository'
+		[2816] link 'Issues'
+			[3382] StaticText '0'
+		[2818] link 'Merge requests'
+		[2820] link 'CI/CD'
+		[2822] link 'Deployments'
+		[2824] link 'Packages and registries'
+		[2826] link 'Monitor'
+		[2828] link 'Analytics'
+		[2830] link 'Wiki'
+		[2832] link 'Snippets'
+		[2635] button 'Collapse sidebar'
+	[2519] alert '' live: assertive atomic: True relevant: additions text
+		[2522] button 'Dismiss'
+		[2523] alert '' live: assertive atomic: True relevant: additions text
+			[2738] link 'Add SSH key'
+			[2739] button "Don't show again"
+	[2520] navigation 'Breadcrumbs'
+		[2849] link 'Convex Eggtart'
+		[2851] link 'Chatgpt'
+	[2405] main ''
+		[2652] heading 'Chatgpt Public - The project can be accessed without any authentication.'
+			[2655] generic 'Public - The project can be accessed without any authentication.'
+		[2658] StaticText 'Project ID: 175 '
+		[2659] button 'Copy project ID' live: polite atomic: False relevant: additions text
+		[2661] link 'Request Access'
+		[2757] button '' hasPopup: menu expanded: False
+		[2664] button 'Star'
+		[2665] link '0'
+		[2762] link 'Fork'
+		[2667] link '0'
+		[2947] link '1 Commit'
+		[2948] link '1 Branch'
+		[2949] link '0 Tags'
+		[3556] StaticText '72 KB'
+		[3552] StaticText ' Project Storage'
+		[2773] link ''
+		[2780] link 'Initial commit'
+		[2783] link 'Convex Eggtart'
+		[2784] StaticText ' authored '
+		[2785] time 'Mar 24, 2023 1:11pm EDT'
+			[2952] StaticText '5 months ago'
+		[2786] group ''
+			[2954] StaticText '0a3cb7b0'
+			[2788] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[3560] button 'main' hasPopup: menu expanded: False
+		[2465] navigation 'Files breadcrumb'
+			[3785] link 'chatgpt'
+			[3859] button 'Add to tree' hasPopup: menu expanded: False
+		[2957] link 'Find file'
+		[2962] link 'Web IDE'
+		[2963] button 'Download'
+			[3567] StaticText 'Select Archive Format'
+		[2965] link 'Clone' focused: True expanded: True
+		[3921] StaticText 'Clone with SSH'
+		[3935] textbox 'Repository clone URL' required: False
+			[3914] StaticText 'ssh://git@metis.lti.cs.cmu.edu:2222/convexegg/chatgpt.git'
+		[3929] button 'Copy URL' live: polite atomic: False relevant: additions text
+		[3902] StaticText 'Clone with HTTP'
+		[3924] textbox 'Repository clone URL' required: False
+			[3912] StaticText 'http://metis.lti.cs.cmu.edu:8023/convexegg/chatgpt.git'
+		[3909] button 'Copy URL' live: polite atomic: False relevant: additions text
+		[3926] StaticText 'Open in your IDE'
+		[3893] link 'Visual Studio Code (SSH)'
+		[3923] link 'Visual Studio Code (HTTPS)'
+		[3930] link 'IntelliJ IDEA (SSH)'
+		[3913] link 'IntelliJ IDEA (HTTPS)'
+		[2988] link 'README'
+		[3622] StaticText 'Auto DevOps enabled'
+		[2448] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+			[3623] row ''
+				[3624] columnheader 'Name' required: False
+				[3625] columnheader 'Last commit' required: False
+				[3626] columnheader 'Last update' required: False
+			[3627] row ''
+				[3628] gridcell 'README.md' required: False
+					[3802] link 'README.md'
+				[3629] gridcell 'Initial commit' required: False
+					[3808] link 'Initial commit'
+				[3630] gridcell '5 months ago' required: False
+					[3811] time 'Mar 24, 2023 1:11pm EDT'
+		[2475] article ''
+			[2994] link 'README.md'
+			[2995] heading 'Chatgpt'
+				[3036] link '' hidden: True</pre><div>

@@ -1,0 +1,48 @@
+Tab 0 (current): Create submission
+
+[4563] RootWebArea 'Create submission' focused: True
+	[4628] HeaderAsNonLandmark ''
+		[4629] link 'Home'
+			[4658] StaticText 'Postmill'
+	[4659] link 'Forums'
+	[4660] link 'Wiki'
+	[4582] searchbox 'Search query'
+	[4668] link 'Notifications (0)'
+	[4669] link 'Submit'
+	[4574] button 'MarvelsGrantMan136' hasPopup: menu expanded: False
+	[4583] main ''
+		[4622] heading 'Create submission'
+		[4586] radio 'URL' checked: true
+		[4587] radio 'Image' checked: false
+		[4591] textbox '' required: False
+		[4681] StaticText 'Title '
+		[4683] StaticText '*'
+		[4594] textbox 'Title *' focused: True required: True
+			[5181] StaticText 'Asking for advice about cheating in a relationship'
+			[5183] StaticText '\n'
+			[5182] LineBreak '\n'
+		[4686] StaticText 'Body'
+		[4598] textbox 'Body' required: False describedby: submission_body_help
+		[4600] checkbox 'Formatting help +' checked: false
+		[4689] StaticText 'Markdown allowed.'
+		[4693] StaticText 'Forum '
+		[5140] StaticText '*'
+		[4614] combobox 'relationship_advice' hasPopup: menu required: False expanded: False
+			[4616] textbox 'relationship_advice' required: False
+		[4799] button 'Create submission'
+	[4576] complementary ''
+		[4645] heading 'relationship_advice'
+			[4802] link 'relationship_advice'
+		[5142] button 'Subscribe No subscribers'
+			[5144] generic 'No subscribers'
+		[4807] StaticText 't5_2r0cn'
+		[4648] separator '' orientation: horizontal
+		[5149] StaticText 'Created '
+		[5150] time 'September 30, 2022 at 8:38:56 PM EDT'
+			[5171] StaticText '12 months ago'
+		[5151] link 'Subscribe via RSS'
+		[4577] Details ''
+			[4579] DisclosureTriangle 'Hide this forum' expanded: False
+		[4651] heading 'Toolbox'
+		[5153] link 'Bans'
+		[5154] link 'Moderation log'</pre><div>

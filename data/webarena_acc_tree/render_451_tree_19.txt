@@ -1,0 +1,36 @@
+Tab 0 (current): homepage URLwww.byteblaze.com · Search · GitLab
+
+[3539] RootWebArea 'homepage URLwww.byteblaze.com · Search · GitLab' focused: True
+	[3589] link 'Skip to content'
+	[3701] link 'Dashboard'
+	[3757] button '' hasPopup: menu expanded: False
+	[3763] link 'Create new...'
+	[3765] link 'Issues'
+		[3920] generic '13 assigned issues'
+	[3766] link 'Merge requests'
+		[3922] generic '8 merge requests'
+	[3768] link 'To-Do List'
+		[3938] generic 'Todos count'
+			[4057] StaticText '5'
+	[3769] link 'Help'
+	[3771] link 'Byte Blazea11yproject.contributor.me' focused: True expanded: False
+		[3972] img 'Byte Blazea11yproject.contributor.me'
+	[3545] main ''
+		[3691] heading 'Search'
+		[3738] StaticText 'What are you searching for?'
+		[3550] group ''
+			[3551] searchbox 'Search for projects, issues, etc.'
+				[4016] StaticText 'homepage URLwww.byteblaze.com'
+			[3739] button 'Clear'
+			[3779] button 'Search'
+		[3742] StaticText 'Group'
+		[3743] button 'Any' hasPopup: menu expanded: False
+		[3745] StaticText 'Project'
+		[3746] button 'Any' hasPopup: menu expanded: False
+		[3693] separator '' orientation: horizontal
+		[4029] link 'Projects 0'
+		[4030] link 'Issues 0'
+		[4031] link 'Merge requests 0'
+		[4032] link 'Milestones 0'
+		[4033] link 'Users 0'
+		[3750] heading " We couldn't find any projects matching homepage URLwww.byteblaze.com"</pre><div>

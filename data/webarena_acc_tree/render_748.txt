@@ -1,0 +1,1982 @@
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[294] link 'Skip to content'
+
+[416] link 'Dashboard'
+
+[498] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1887] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[504] link 'Create new...'
+
+[506] link 'Issues'
+
+[1412] generic '13 assigned issues'
+
+[507] link 'Merge requests'
+
+[1414] generic '8 merge requests'
+
+[509] link 'To-Do List'
+
+[1430] generic 'Todos count'
+
+[510] link 'Help'
+
+[512] link 'Byte Blaze'
+
+[1464] img 'Byte Blaze'
+
+[17] main ''
+
+[395] heading 'Projects'
+
+[398] link 'New project'
+
+[514] link 'Yours 21'
+
+[515] link 'Starred 3'
+
+[516] link 'Explore'
+
+[517] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[468] button 'Name'
+
+[561] link 'All'
+
+[562] link 'Personal'
+
+[563] link 'A'
+
+[566] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[569] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[567] generic 'Public - The project can be accessed without any authentication.'
+
+[575] StaticText 'Owner'
+
+[1520] generic 'lipstick'
+
+[1918] StaticText '💄'
+
+[1521] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[587] link '1'
+
+[588] link '0'
+
+[589] link '0'
+
+[590] link '1'
+
+[599] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[600] StaticText '5 months ago'
+
+[601] link 'A'
+
+[604] heading 'Byte Blaze / a11y-webring.club'
+
+[607] link 'Byte Blaze / a11y-webring.club'
+
+[605] generic 'Public - The project can be accessed without any authentication.'
+
+[613] StaticText 'Owner'
+
+[1539] generic 'globe with meridians'
+
+[1919] StaticText '🌐'
+
+[1540] StaticText ' A webring for digital accessibility practitioners.'
+
+[625] link '2'
+
+[626] link '0'
+
+[627] link '1'
+
+[628] link '4'
+
+[637] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[638] StaticText '5 months ago'
+
+[639] link 'A'
+
+[642] heading 'The A11Y Project / a11yproject.com'
+
+[645] link 'The A11Y Project / a11yproject.com'
+
+[643] generic 'Public - The project can be accessed without any authentication.'
+
+[651] StaticText 'Maintainer'
+
+[1558] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[663] link '21'
+
+[664] link '0'
+
+[665] link '10'
+
+[666] link '40'
+
+[675] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[676] StaticText '5 months ago'
+
+[677] link 'A'
+
+[680] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[683] link 'Byte Blaze / accessible-html-content-patterns'
+
+[681] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[689] StaticText 'Owner'
+
+[1576] generic 'wheelchair symbol'
+
+[1920] StaticText '♿'
+
+[1577] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[701] link '1'
+
+[702] link '0'
+
+[703] link '0'
+
+[704] link '0'
+
+[713] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[714] StaticText '5 months ago'
+
+[715] link 'A'
+
+[717] heading 'crew / awesome_web_agents'
+
+[720] link 'crew / awesome_web_agents'
+
+[718] generic 'Public - The project can be accessed without any authentication.'
+
+[726] StaticText 'Owner'
+
+[737] link '0'
+
+[738] link '0'
+
+[739] link '0'
+
+[740] link '0'
+
+[749] StaticText 'Updated '
+
+[83] time 'Sep 12, 2023 2:11am EDT'
+
+[750] StaticText '2 minutes ago'
+
+[751] link ''
+
+[754] heading 'Byte Blaze / cloud-to-butt'
+
+[757] link 'Byte Blaze / cloud-to-butt'
+
+[755] generic 'Public - The project can be accessed without any authentication.'
+
+[763] StaticText 'Owner'
+
+[775] link '0'
+
+[776] link '0'
+
+[777] link '0'
+
+[778] link '0'
+
+[787] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 7:22pm EDT'
+
+[788] StaticText '5 months ago'
+
+[789] link 'D'
+
+[792] heading 'Primer / design'
+
+[795] link 'Primer / design'
+
+[793] generic 'Public - The project can be accessed without any authentication.'
+
+[801] StaticText 'Developer'
+
+[1629] StaticText 'Primer Design Guidelines'
+
+[813] link '21'
+
+[814] link '0'
+
+[815] link '16'
+
+[816] link '21'
+
+[825] StaticText 'Updated '
+
+[107] time 'Mar 27, 2023 5:04pm EDT'
+
+[826] StaticText '5 months ago'</pre><div>
+
+[398]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '398', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To start a private project, I need to click on the "New project" link. After that, I can choose the template "Android" and fill in the project name "web_agent_android". I will then need to add members by typing their names and selecting them from the dropdown list. In summary, the next action I will perform is ```click [398]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [398] where [398] is [398] link 'New project'</pre></div></div>
+
+[1932] RootWebArea 'New Project · GitLab' focused: True
+
+[2187] link 'Skip to content'
+
+[3237] link 'Dashboard'
+
+[3305] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3494] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3311] link 'Create new...'
+
+[3313] link 'Issues'
+
+[3398] generic '13 assigned issues'
+
+[3314] link 'Merge requests'
+
+[3400] generic '8 merge requests'
+
+[3316] link 'To-Do List'
+
+[3416] generic 'Todos count'
+
+[3515] StaticText '5'
+
+[3317] link 'Help'
+
+[3319] link 'Byte Blaze'
+
+[3450] img 'Byte Blaze'
+
+[1948] main ''
+
+[2288] heading 'Create new project'
+
+[2295] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[2299] heading 'Create blank project'
+
+[2303] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[2307] heading 'Create from template'
+
+[2311] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[2315] heading 'Import project'
+
+[2320] StaticText 'You can also create a project from the command line. '
+
+[2321] link 'Show command'</pre><div>
+
+[398] where [398] is link 'New project'</div>
+
+[2303]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the new project page on GitLab. It has different options to create a project. We can create a project using a template, so I will click on the "Create from template" link. In summary, the next action I will perform is `click [2303]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1932] RootWebArea 'New Project · GitLab' focused: True
+
+[2187] link 'Skip to content'
+
+[3237] link 'Dashboard'
+
+[3305] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3494] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3311] link 'Create new...'
+
+[3313] link 'Issues'
+
+[3398] generic '13 assigned issues'
+
+[3314] link 'Merge requests'
+
+[3400] generic '8 merge requests'
+
+[3316] link 'To-Do List'
+
+[3416] generic 'Todos count'
+
+[3515] StaticText '5'
+
+[3317] link 'Help'
+
+[3319] link 'Byte Blaze'
+
+[3450] img 'Byte Blaze'
+
+[1948] main ''
+
+[2288] heading 'Create new project'
+
+[2295] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[2299] heading 'Create blank project'
+
+[2303] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[2307] heading 'Create from template'
+
+[2311] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[2315] heading 'Import project'
+
+[2320] StaticText 'You can also create a project from the command line. '
+
+[2321] link 'Show command'</pre><div>
+
+[2303]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[2303]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2303', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the new project page on GitLab. It has different options to create a project. We can create a project using a template, so I will click on the "Create from template" link. In summary, the next action I will perform is ```click [2303]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2303] where [2303] is [2303] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'</pre></div></div>
+
+[1932] RootWebArea 'New Project · GitLab' focused: True
+
+[2187] link 'Skip to content'
+
+[3237] link 'Dashboard'
+
+[3305] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3494] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3311] link 'Create new...'
+
+[3313] link 'Issues'
+
+[3398] generic '13 assigned issues'
+
+[3314] link 'Merge requests'
+
+[3400] generic '8 merge requests'
+
+[3316] link 'To-Do List'
+
+[3416] generic 'Todos count'
+
+[3515] StaticText '5'
+
+[3317] link 'Help'
+
+[3319] link 'Byte Blaze'
+
+[3450] img 'Byte Blaze'
+
+[1948] main ''
+
+[3689] heading 'Create from template'
+
+[3694] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[3691] navigation 'Breadcrumb'
+
+[3709] link 'New project'
+
+[3710] link 'Create from template'
+
+[3712] StaticText 'Learn how to '
+
+[3713] link 'contribute to the built-in templates'
+
+[3851] link 'Built-in 30'
+
+[3856] StaticText 'Ruby on Rails'
+
+[3857] LineBreak '\n'
+
+[3859] StaticText 'Includes an MVC structure, Gemfile, Rakefile, along with many others, to help you get started'
+
+[3860] link 'Preview'
+
+[3545] radio 'Use template' checked: false
+
+[3867] StaticText 'Spring'
+
+[3868] LineBreak '\n'
+
+[3870] StaticText 'Includes an MVC structure, mvnw and pom.xml to help you get started'
+
+[3871] link 'Preview'
+
+[3549] radio 'Use template' checked: false
+
+[3878] StaticText 'NodeJS Express'
+
+[3879] LineBreak '\n'
+
+[3881] StaticText 'Includes an MVC structure to help you get started'
+
+[3882] link 'Preview'
+
+[3553] radio 'Use template' checked: false
+
+[3889] StaticText 'iOS (Swift)'
+
+[3890] LineBreak '\n'
+
+[3892] StaticText 'A ready-to-go template for use with iOS Swift apps'
+
+[3893] link 'Preview'
+
+[3557] radio 'Use template' checked: false
+
+[3900] StaticText '.NET Core'
+
+[3901] LineBreak '\n'
+
+[3903] StaticText 'A .NET Core console application template, customizable for any .NET Core project'
+
+[3904] link 'Preview'
+
+[3561] radio 'Use template' checked: false
+
+[3911] StaticText 'Android'
+
+[3912] LineBreak '\n'
+
+[3914] StaticText 'A ready-to-go template for use with Android apps'
+
+[3915] link 'Preview'
+
+[3565] radio 'Use template' checked: false
+
+[3922] StaticText 'Go Micro'
+
+[3923] LineBreak '\n'
+
+[3926] link 'Preview'</pre><div>
+
+[2303] where [2303] is link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'</div>
+
+[3915]``` to select the Android template.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3915', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. The objective is to start a private project named web_agent_android with the Android template and add primer, convexegg, and abishek as members. \n\nAfter clicking on the link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.', I am taken to a page where I can choose from different templates.\n\nThe template we want is Android. There is a link 'Android' with the text 'A ready-to-go template for use with Android apps'. I will click on this link to select the Android template. \n\nIn summary, the next action I will perform is ```click [3915]``` to select the Android template."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3915] where [3915] is [3915] link 'Preview'</pre></div></div>
+
+[1932] RootWebArea 'New Project · GitLab' focused: True
+
+[2187] link 'Skip to content'
+
+[3237] link 'Dashboard'
+
+[3305] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3494] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3311] link 'Create new...'
+
+[3313] link 'Issues'
+
+[3398] generic '13 assigned issues'
+
+[3314] link 'Merge requests'
+
+[3400] generic '8 merge requests'
+
+[3316] link 'To-Do List'
+
+[3416] generic 'Todos count'
+
+[3515] StaticText '5'
+
+[3317] link 'Help'
+
+[3319] link 'Byte Blaze'
+
+[3450] img 'Byte Blaze'
+
+[1948] main ''
+
+[3689] heading 'Create from template'
+
+[3694] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[3691] navigation 'Breadcrumb'
+
+[3709] link 'New project'
+
+[3710] link 'Create from template'
+
+[3712] StaticText 'Learn how to '
+
+[3713] link 'contribute to the built-in templates'
+
+[3851] link 'Built-in 30'
+
+[3856] StaticText 'Ruby on Rails'
+
+[3857] LineBreak '\n'
+
+[3859] StaticText 'Includes an MVC structure, Gemfile, Rakefile, along with many others, to help you get started'
+
+[3860] link 'Preview'
+
+[3545] radio 'Use template' checked: false
+
+[3867] StaticText 'Spring'
+
+[3868] LineBreak '\n'
+
+[3870] StaticText 'Includes an MVC structure, mvnw and pom.xml to help you get started'
+
+[3871] link 'Preview'
+
+[3549] radio 'Use template' checked: false
+
+[3878] StaticText 'NodeJS Express'
+
+[3879] LineBreak '\n'
+
+[3881] StaticText 'Includes an MVC structure to help you get started'
+
+[3882] link 'Preview'
+
+[3553] radio 'Use template' checked: false
+
+[3889] StaticText 'iOS (Swift)'
+
+[3890] LineBreak '\n'
+
+[3892] StaticText 'A ready-to-go template for use with iOS Swift apps'
+
+[3893] link 'Preview'
+
+[3557] radio 'Use template' checked: false
+
+[3900] StaticText '.NET Core'
+
+[3901] LineBreak '\n'
+
+[3903] StaticText 'A .NET Core console application template, customizable for any .NET Core project'
+
+[3904] link 'Preview'
+
+[3561] radio 'Use template' checked: false
+
+[3911] StaticText 'Android'
+
+[3912] LineBreak '\n'
+
+[3914] StaticText 'A ready-to-go template for use with Android apps'
+
+[3915] link 'Preview' focused: True
+
+[3565] radio 'Use template' checked: false
+
+[3922] StaticText 'Go Micro'
+
+[3923] LineBreak '\n'
+
+[3926] link 'Preview'</pre><div>
+
+[3915] where [3915] is link 'Preview'</div>
+
+[3311]` where [3311] is the link 'Create new...'.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. I have clicked on the "Preview" link for the Android template. Now, I need to find the button to start the project. The button for starting a project is typically labeled as "Create" or "Start". I will search for this button on the page and click on it to start the project. In summary, the next action I will perform is `click [3311]` where [3311] is the link \'Create new...\'.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1932] RootWebArea 'New Project · GitLab' focused: True
+
+[2187] link 'Skip to content'
+
+[3237] link 'Dashboard'
+
+[3305] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3494] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3311] link 'Create new...'
+
+[3313] link 'Issues'
+
+[3398] generic '13 assigned issues'
+
+[3314] link 'Merge requests'
+
+[3400] generic '8 merge requests'
+
+[3316] link 'To-Do List'
+
+[3416] generic 'Todos count'
+
+[3515] StaticText '5'
+
+[3317] link 'Help'
+
+[3319] link 'Byte Blaze'
+
+[3450] img 'Byte Blaze'
+
+[1948] main ''
+
+[3689] heading 'Create from template'
+
+[3694] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[3691] navigation 'Breadcrumb'
+
+[3709] link 'New project'
+
+[3710] link 'Create from template'
+
+[3712] StaticText 'Learn how to '
+
+[3713] link 'contribute to the built-in templates'
+
+[3851] link 'Built-in 30'
+
+[3856] StaticText 'Ruby on Rails'
+
+[3857] LineBreak '\n'
+
+[3859] StaticText 'Includes an MVC structure, Gemfile, Rakefile, along with many others, to help you get started'
+
+[3860] link 'Preview'
+
+[3545] radio 'Use template' checked: false
+
+[3867] StaticText 'Spring'
+
+[3868] LineBreak '\n'
+
+[3870] StaticText 'Includes an MVC structure, mvnw and pom.xml to help you get started'
+
+[3871] link 'Preview'
+
+[3549] radio 'Use template' checked: false
+
+[3878] StaticText 'NodeJS Express'
+
+[3879] LineBreak '\n'
+
+[3881] StaticText 'Includes an MVC structure to help you get started'
+
+[3882] link 'Preview'
+
+[3553] radio 'Use template' checked: false
+
+[3889] StaticText 'iOS (Swift)'
+
+[3890] LineBreak '\n'
+
+[3892] StaticText 'A ready-to-go template for use with iOS Swift apps'
+
+[3893] link 'Preview'
+
+[3557] radio 'Use template' checked: false
+
+[3900] StaticText '.NET Core'
+
+[3901] LineBreak '\n'
+
+[3903] StaticText 'A .NET Core console application template, customizable for any .NET Core project'
+
+[3904] link 'Preview'
+
+[3561] radio 'Use template' checked: false
+
+[3911] StaticText 'Android'
+
+[3912] LineBreak '\n'
+
+[3914] StaticText 'A ready-to-go template for use with Android apps'
+
+[3915] link 'Preview' focused: True
+
+[3565] radio 'Use template' checked: false
+
+[3922] StaticText 'Go Micro'
+
+[3923] LineBreak '\n'
+
+[3926] link 'Preview'</pre><div>
+
+[3311]` where [3311] is the link 'Create new...'.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[3311]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3311', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [3311]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3311] where [3311] is [3311] link 'Create new...'</pre></div></div>
+
+[1932] RootWebArea 'New Project · GitLab' focused: True
+
+[2187] link 'Skip to content'
+
+[3237] link 'Dashboard'
+
+[3305] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3494] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3311] link 'Create new...' focused: True expanded: True describedby: gl-tooltip1
+
+[4227] link 'New project/repository'
+
+[4228] link 'New group'
+
+[4226] link 'New snippet'
+
+[3313] link 'Issues'
+
+[3398] generic '13 assigned issues'
+
+[3314] link 'Merge requests'
+
+[3400] generic '8 merge requests'
+
+[3316] link 'To-Do List'
+
+[3416] generic 'Todos count'
+
+[3515] StaticText '5'
+
+[3317] link 'Help'
+
+[3319] link 'Byte Blaze'
+
+[3450] img 'Byte Blaze'
+
+[1948] main ''
+
+[3689] heading 'Create from template'
+
+[3694] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[3691] navigation 'Breadcrumb'
+
+[3709] link 'New project'
+
+[3710] link 'Create from template'
+
+[3712] StaticText 'Learn how to '
+
+[3713] link 'contribute to the built-in templates'
+
+[3851] link 'Built-in 30'
+
+[3856] StaticText 'Ruby on Rails'
+
+[3857] LineBreak '\n'
+
+[3859] StaticText 'Includes an MVC structure, Gemfile, Rakefile, along with many others, to help you get started'
+
+[3860] link 'Preview'
+
+[3545] radio 'Use template' checked: false
+
+[3867] StaticText 'Spring'
+
+[3868] LineBreak '\n'
+
+[3870] StaticText 'Includes an MVC structure, mvnw and pom.xml to help you get started'
+
+[3871] link 'Preview'
+
+[3549] radio 'Use template' checked: false
+
+[3878] StaticText 'NodeJS Express'
+
+[3879] LineBreak '\n'
+
+[3881] StaticText 'Includes an MVC structure to help you get started'
+
+[3882] link 'Preview'
+
+[3553] radio 'Use template' checked: false
+
+[3889] StaticText 'iOS (Swift)'
+
+[3890] LineBreak '\n'
+
+[3892] StaticText 'A ready-to-go template for use with iOS Swift apps'
+
+[3893] link 'Preview'
+
+[3557] radio 'Use template' checked: false
+
+[3900] StaticText '.NET Core'
+
+[3901] LineBreak '\n'
+
+[3903] StaticText 'A .NET Core console application template, customizable for any .NET Core project'
+
+[3904] link 'Preview'
+
+[3561] radio 'Use template' checked: false
+
+[3911] StaticText 'Android'
+
+[3912] LineBreak '\n'
+
+[3914] StaticText 'A ready-to-go template for use with Android apps'
+
+[3915] link 'Preview'
+
+[3565] radio 'Use template' checked: false
+
+[3922] StaticText 'Go Micro'
+
+[3923] LineBreak '\n'
+
+[3926] link 'Preview'
+
+[4229] tooltip 'Create new...'</pre><div>
+
+[3311] where [3311] is link 'Create new...'</div>
+
+[3911]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3911', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. We are currently on the GitLab website, specifically on the page to create a new project. We need to select the Android template and add members to the project. \n\nTo select the Android template, we need to click on the 'Android' link. \n\nIn summary, the next action I will perform is ```click [3911]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3911] where [3911] is [3911] StaticText 'Android'</pre></div></div>
+
+[1932] RootWebArea 'New Project · GitLab' focused: True
+
+[2187] link 'Skip to content'
+
+[3237] link 'Dashboard'
+
+[3305] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3494] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3311] link 'Create new...' expanded: False
+
+[3313] link 'Issues'
+
+[3398] generic '13 assigned issues'
+
+[3314] link 'Merge requests'
+
+[3400] generic '8 merge requests'
+
+[3316] link 'To-Do List'
+
+[3416] generic 'Todos count'
+
+[3515] StaticText '5'
+
+[3317] link 'Help'
+
+[3319] link 'Byte Blaze'
+
+[3450] img 'Byte Blaze'
+
+[1948] main ''
+
+[3689] heading 'Create from template'
+
+[3694] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[3691] navigation 'Breadcrumb'
+
+[3709] link 'New project'
+
+[3710] link 'Create from template'
+
+[3712] StaticText 'Learn how to '
+
+[3713] link 'contribute to the built-in templates'
+
+[3851] link 'Built-in 30'
+
+[3856] StaticText 'Ruby on Rails'
+
+[3857] LineBreak '\n'
+
+[3859] StaticText 'Includes an MVC structure, Gemfile, Rakefile, along with many others, to help you get started'
+
+[3860] link 'Preview'
+
+[3545] radio 'Use template' checked: false
+
+[3867] StaticText 'Spring'
+
+[3868] LineBreak '\n'
+
+[3870] StaticText 'Includes an MVC structure, mvnw and pom.xml to help you get started'
+
+[3871] link 'Preview'
+
+[3549] radio 'Use template' checked: false
+
+[3878] StaticText 'NodeJS Express'
+
+[3879] LineBreak '\n'
+
+[3881] StaticText 'Includes an MVC structure to help you get started'
+
+[3882] link 'Preview'
+
+[3553] radio 'Use template' checked: false
+
+[3889] StaticText 'iOS (Swift)'
+
+[3890] LineBreak '\n'
+
+[3892] StaticText 'A ready-to-go template for use with iOS Swift apps'
+
+[3893] link 'Preview'
+
+[3557] radio 'Use template' checked: false
+
+[3900] StaticText '.NET Core'
+
+[3901] LineBreak '\n'
+
+[3903] StaticText 'A .NET Core console application template, customizable for any .NET Core project'
+
+[3904] link 'Preview'
+
+[3561] radio 'Use template' checked: false
+
+[3911] StaticText 'Android'
+
+[3912] LineBreak '\n'
+
+[3914] StaticText 'A ready-to-go template for use with Android apps'
+
+[3915] link 'Preview'
+
+[3565] radio 'Use template' checked: false
+
+[3922] StaticText 'Go Micro'
+
+[3923] LineBreak '\n'
+
+[3926] link 'Preview'</pre><div>
+
+[3911] where [3911] is StaticText 'Android'</div>
+
+[3911]. After selecting the template, we can proceed to the next step of creating the project. In summary, the next action I will perform is ```click [3553]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3553', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. On this page, there is a list of templates to choose from. We need to select the Android template for our project. The ID of the Android template is [3911]. After selecting the template, we can proceed to the next step of creating the project. In summary, the next action I will perform is ```click [3553]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3553] where [3553] is [3553] radio 'Use template' checked: false</pre></div></div>
+
+[1932] RootWebArea 'New Project · GitLab' focused: True
+
+[2187] link 'Skip to content'
+
+[3237] link 'Dashboard'
+
+[3305] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3494] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3311] link 'Create new...' expanded: False
+
+[3313] link 'Issues'
+
+[3398] generic '13 assigned issues'
+
+[3314] link 'Merge requests'
+
+[3400] generic '8 merge requests'
+
+[3316] link 'To-Do List'
+
+[3416] generic 'Todos count'
+
+[3515] StaticText '5'
+
+[3317] link 'Help'
+
+[3319] link 'Byte Blaze'
+
+[3450] img 'Byte Blaze'
+
+[1948] main ''
+
+[3689] heading 'Create from template'
+
+[3694] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[3691] navigation 'Breadcrumb'
+
+[3709] link 'New project'
+
+[3710] link 'Create from template'
+
+[3712] StaticText 'Learn how to '
+
+[3713] link 'contribute to the built-in templates'
+
+[4402] StaticText 'Template'
+
+[4853] StaticText 'NodeJS Express'
+
+[4391] button 'Change template'
+
+[4450] StaticText 'Project name'
+
+[4457] textbox 'Project name' focused: True required: True
+
+[4374] StaticText 'Project URL'
+
+[4434] group ''
+
+[4375] generic 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/'
+
+[4444] button '\u200ecrew\u200e' hasPopup: menu expanded: False
+
+[4415] generic 'crew'
+
+[4420] StaticText 'Project slug'
+
+[4466] textbox 'Project slug' required: True
+
+[4382] StaticText 'Want to organize several dependent projects under the same namespace? '
+
+[4427] link 'Create a group.'
+
+[4453] StaticText 'Project description '
+
+[4456] StaticText '(optional)'
+
+[4455] textbox 'Project description (optional)' required: False
+
+[4452] StaticText 'Visibility Level '
+
+[4461] link 'Documentation for Visibility Level'
+
+[4405] radio ' Private Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.' checked: false
+
+[4369] radio ' Internal The project can be accessed by any logged in user except external users.' checked: false
+
+[4388] radio ' Public The project can be accessed without any authentication.' checked: true</pre><div>
+
+[3553] where [3553] is radio 'Use template' checked: false</div>
+
+[3553]``` to select the "Use template" radio button.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3553', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page allows us to create a new project with pre-populated templates. We need to start a private project with the Android template. We also need to add primer, convexegg, and abishek as members. \n\nTo start, we need to check the "Use template" radio button. However, I noticed that the radio button is currently unchecked. I will need to click on it to select it. In summary, the next action I will perform is ```click [3553]``` to select the "Use template" radio button.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3553] where [3553] is No match found</pre></div></div>
+
+[1932] RootWebArea 'New Project · GitLab' focused: True
+
+[2187] link 'Skip to content'
+
+[3237] link 'Dashboard'
+
+[3305] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3494] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3311] link 'Create new...' expanded: False
+
+[3313] link 'Issues'
+
+[3398] generic '13 assigned issues'
+
+[3314] link 'Merge requests'
+
+[3400] generic '8 merge requests'
+
+[3316] link 'To-Do List'
+
+[3416] generic 'Todos count'
+
+[3515] StaticText '5'
+
+[3317] link 'Help'
+
+[3319] link 'Byte Blaze'
+
+[3450] img 'Byte Blaze'
+
+[1948] main ''
+
+[3689] heading 'Create from template'
+
+[3694] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[3691] navigation 'Breadcrumb'
+
+[3709] link 'New project'
+
+[3710] link 'Create from template'
+
+[3712] StaticText 'Learn how to '
+
+[3713] link 'contribute to the built-in templates'
+
+[4402] StaticText 'Template'
+
+[4853] StaticText 'NodeJS Express'
+
+[4391] button 'Change template'
+
+[4450] StaticText 'Project name'
+
+[4457] textbox 'Project name' focused: True required: True
+
+[4374] StaticText 'Project URL'
+
+[4434] group ''
+
+[4375] generic 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/'
+
+[4444] button '\u200ecrew\u200e' hasPopup: menu expanded: False
+
+[4415] generic 'crew'
+
+[4420] StaticText 'Project slug'
+
+[4466] textbox 'Project slug' required: True
+
+[4382] StaticText 'Want to organize several dependent projects under the same namespace? '
+
+[4427] link 'Create a group.'
+
+[4453] StaticText 'Project description '
+
+[4456] StaticText '(optional)'
+
+[4455] textbox 'Project description (optional)' required: False
+
+[4452] StaticText 'Visibility Level '
+
+[4461] link 'Documentation for Visibility Level'
+
+[4405] radio ' Private Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.' checked: false
+
+[4369] radio ' Internal The project can be accessed by any logged in user except external users.' checked: false
+
+[4388] radio ' Public The project can be accessed without any authentication.' checked: true</pre><div>
+
+[3553]" but no matching element found. Please check the observation more carefully.</div>
+
+[4391]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '4391', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the "Create from template" page on GitLab. I can see that I need to start a private project named "web_agent_android" with the Android template. I also need to add "primer", "convexegg", and "abishek" as members. \n\nTo start, I need to click on the "Change template" button to select the Android template. \n\nIn summary, the next action I will perform is ```click [4391]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [4391] where [4391] is [4391] button 'Change template'</pre></div></div>
+
+[1932] RootWebArea 'New Project · GitLab' focused: True
+
+[2187] link 'Skip to content'
+
+[3237] link 'Dashboard'
+
+[3305] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3494] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3311] link 'Create new...' expanded: False
+
+[3313] link 'Issues'
+
+[3398] generic '13 assigned issues'
+
+[3314] link 'Merge requests'
+
+[3400] generic '8 merge requests'
+
+[3316] link 'To-Do List'
+
+[3416] generic 'Todos count'
+
+[3515] StaticText '5'
+
+[3317] link 'Help'
+
+[3319] link 'Byte Blaze'
+
+[3450] img 'Byte Blaze'
+
+[1948] main ''
+
+[3689] heading 'Create from template'
+
+[3694] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[3691] navigation 'Breadcrumb'
+
+[3709] link 'New project'
+
+[3710] link 'Create from template'
+
+[3712] StaticText 'Learn how to '
+
+[3713] link 'contribute to the built-in templates'
+
+[4953] link 'Built-in 30'
+
+[5249] StaticText 'Ruby on Rails'
+
+[5209] LineBreak '\n'
+
+[5071] StaticText 'Includes an MVC structure, Gemfile, Rakefile, along with many others, to help you get started'
+
+[5265] link 'Preview'
+
+[5127] radio 'Use template' checked: false
+
+[5214] StaticText 'Spring'
+
+[5117] LineBreak '\n'
+
+[5160] StaticText 'Includes an MVC structure, mvnw and pom.xml to help you get started'
+
+[4988] link 'Preview'
+
+[5005] radio 'Use template' checked: false
+
+[4861] StaticText 'NodeJS Express'
+
+[5289] LineBreak '\n'
+
+[5014] StaticText 'Includes an MVC structure to help you get started'
+
+[5155] link 'Preview'
+
+[4939] radio 'Use template' checked: false
+
+[5338] StaticText 'iOS (Swift)'
+
+[5292] LineBreak '\n'
+
+[5008] StaticText 'A ready-to-go template for use with iOS Swift apps'
+
+[4868] link 'Preview'
+
+[5216] radio 'Use template' checked: false
+
+[5051] StaticText '.NET Core'
+
+[4963] LineBreak '\n'
+
+[5164] StaticText 'A .NET Core console application template, customizable for any .NET Core project'
+
+[5205] link 'Preview'
+
+[5210] radio 'Use template' checked: false
+
+[5159] StaticText 'Android'
+
+[5197] LineBreak '\n'
+
+[5114] StaticText 'A ready-to-go template for use with Android apps'
+
+[5297] link 'Preview'
+
+[4997] radio 'Use template' checked: false
+
+[5035] StaticText 'Go Micro'
+
+[5321] LineBreak '\n'
+
+[4918] link 'Preview'</pre><div>
+
+[4391] where [4391] is button 'Change template'</div>
+
+[4391]. After that, we can select the Android template and add the members. In summary, the next action I will perform is ```click [4391]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '4391', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We are on the GitLab website, trying to create a new project with the Android template and add members to it. We need to change the template first since it is currently not selected. We can click on the "Change template" button with the ID [4391]. After that, we can select the Android template and add the members. In summary, the next action I will perform is ```click [4391]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [4391] where [4391] is No match found</pre></div></div>
+
+[1932] RootWebArea 'New Project · GitLab' focused: True
+
+[2187] link 'Skip to content'
+
+[3237] link 'Dashboard'
+
+[3305] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3494] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3311] link 'Create new...' expanded: False
+
+[3313] link 'Issues'
+
+[3398] generic '13 assigned issues'
+
+[3314] link 'Merge requests'
+
+[3400] generic '8 merge requests'
+
+[3316] link 'To-Do List'
+
+[3416] generic 'Todos count'
+
+[3515] StaticText '5'
+
+[3317] link 'Help'
+
+[3319] link 'Byte Blaze'
+
+[3450] img 'Byte Blaze'
+
+[1948] main ''
+
+[3689] heading 'Create from template'
+
+[3694] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[3691] navigation 'Breadcrumb'
+
+[3709] link 'New project'
+
+[3710] link 'Create from template'
+
+[3712] StaticText 'Learn how to '
+
+[3713] link 'contribute to the built-in templates'
+
+[4953] link 'Built-in 30'
+
+[5249] StaticText 'Ruby on Rails'
+
+[5209] LineBreak '\n'
+
+[5071] StaticText 'Includes an MVC structure, Gemfile, Rakefile, along with many others, to help you get started'
+
+[5265] link 'Preview'
+
+[5127] radio 'Use template' checked: false
+
+[5214] StaticText 'Spring'
+
+[5117] LineBreak '\n'
+
+[5160] StaticText 'Includes an MVC structure, mvnw and pom.xml to help you get started'
+
+[4988] link 'Preview'
+
+[5005] radio 'Use template' checked: false
+
+[4861] StaticText 'NodeJS Express'
+
+[5289] LineBreak '\n'
+
+[5014] StaticText 'Includes an MVC structure to help you get started'
+
+[5155] link 'Preview'
+
+[4939] radio 'Use template' checked: false
+
+[5338] StaticText 'iOS (Swift)'
+
+[5292] LineBreak '\n'
+
+[5008] StaticText 'A ready-to-go template for use with iOS Swift apps'
+
+[4868] link 'Preview'
+
+[5216] radio 'Use template' checked: false
+
+[5051] StaticText '.NET Core'
+
+[4963] LineBreak '\n'
+
+[5164] StaticText 'A .NET Core console application template, customizable for any .NET Core project'
+
+[5205] link 'Preview'
+
+[5210] radio 'Use template' checked: false
+
+[5159] StaticText 'Android'
+
+[5197] LineBreak '\n'
+
+[5114] StaticText 'A ready-to-go template for use with Android apps'
+
+[5297] link 'Preview'
+
+[4997] radio 'Use template' checked: false
+
+[5035] StaticText 'Go Micro'
+
+[5321] LineBreak '\n'
+
+[4918] link 'Preview'</pre><div>
+
+[4391]" but no matching element found. Please check the observation more carefully.</div>
+
+[5159]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '5159', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. On this page, I need to create a new project with the Android template and add some members. First, I need to click on the link with the text "Android" to select the Android template. Then, I can proceed to fill in the necessary information for the new project. In summary, the next action I will perform is ```click [5159]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [5159] where [5159] is [5159] StaticText 'Android'</pre></div></div>
+
+[1932] RootWebArea 'New Project · GitLab' focused: True
+
+[2187] link 'Skip to content'
+
+[3237] link 'Dashboard'
+
+[3305] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3494] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3311] link 'Create new...' expanded: False
+
+[3313] link 'Issues'
+
+[3398] generic '13 assigned issues'
+
+[3314] link 'Merge requests'
+
+[3400] generic '8 merge requests'
+
+[3316] link 'To-Do List'
+
+[3416] generic 'Todos count'
+
+[3515] StaticText '5'
+
+[3317] link 'Help'
+
+[3319] link 'Byte Blaze'
+
+[3450] img 'Byte Blaze'
+
+[1948] main ''
+
+[3689] heading 'Create from template'
+
+[3694] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[3691] navigation 'Breadcrumb'
+
+[3709] link 'New project'
+
+[3710] link 'Create from template'
+
+[3712] StaticText 'Learn how to '
+
+[3713] link 'contribute to the built-in templates'
+
+[4953] link 'Built-in 30'
+
+[5249] StaticText 'Ruby on Rails'
+
+[5209] LineBreak '\n'
+
+[5071] StaticText 'Includes an MVC structure, Gemfile, Rakefile, along with many others, to help you get started'
+
+[5265] link 'Preview'
+
+[5127] radio 'Use template' checked: false
+
+[5214] StaticText 'Spring'
+
+[5117] LineBreak '\n'
+
+[5160] StaticText 'Includes an MVC structure, mvnw and pom.xml to help you get started'
+
+[4988] link 'Preview'
+
+[5005] radio 'Use template' checked: false
+
+[4861] StaticText 'NodeJS Express'
+
+[5289] LineBreak '\n'
+
+[5014] StaticText 'Includes an MVC structure to help you get started'
+
+[5155] link 'Preview'
+
+[4939] radio 'Use template' checked: false
+
+[5338] StaticText 'iOS (Swift)'
+
+[5292] LineBreak '\n'
+
+[5008] StaticText 'A ready-to-go template for use with iOS Swift apps'
+
+[4868] link 'Preview'
+
+[5216] radio 'Use template' checked: false
+
+[5051] StaticText '.NET Core'
+
+[4963] LineBreak '\n'
+
+[5164] StaticText 'A .NET Core console application template, customizable for any .NET Core project'
+
+[5205] link 'Preview'
+
+[5210] radio 'Use template' checked: false
+
+[5159] StaticText 'Android'
+
+[5197] LineBreak '\n'
+
+[5114] StaticText 'A ready-to-go template for use with Android apps'
+
+[5297] link 'Preview'
+
+[4997] radio 'Use template' checked: false
+
+[5035] StaticText 'Go Micro'
+
+[5321] LineBreak '\n'
+
+[4918] link 'Preview'</pre><div>
+
+[5159] where [5159] is StaticText 'Android'</div>
+
+[5297]``` to preview the Android template.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '5297', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page has a list of project templates to choose from. We need to start a private project with the Android template. There is a "Preview" link next to the Android template. We can click on that to preview the template. After that, we need to add primer, convexegg, and abishek as members. In summary, the next action I will perform is ```click [5297]``` to preview the Android template.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [5297] where [5297] is [5297] link 'Preview'</pre></div></div>
+
+[1932] RootWebArea 'New Project · GitLab' focused: True
+
+[2187] link 'Skip to content'
+
+[3237] link 'Dashboard'
+
+[3305] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3494] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3311] link 'Create new...' expanded: False
+
+[3313] link 'Issues'
+
+[3398] generic '13 assigned issues'
+
+[3314] link 'Merge requests'
+
+[3400] generic '8 merge requests'
+
+[3316] link 'To-Do List'
+
+[3416] generic 'Todos count'
+
+[3515] StaticText '5'
+
+[3317] link 'Help'
+
+[3319] link 'Byte Blaze'
+
+[3450] img 'Byte Blaze'
+
+[1948] main ''
+
+[3689] heading 'Create from template'
+
+[3694] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[3691] navigation 'Breadcrumb'
+
+[3709] link 'New project'
+
+[3710] link 'Create from template'
+
+[3712] StaticText 'Learn how to '
+
+[3713] link 'contribute to the built-in templates'
+
+[4953] link 'Built-in 30'
+
+[5249] StaticText 'Ruby on Rails'
+
+[5209] LineBreak '\n'
+
+[5071] StaticText 'Includes an MVC structure, Gemfile, Rakefile, along with many others, to help you get started'
+
+[5265] link 'Preview'
+
+[5127] radio 'Use template' checked: false
+
+[5214] StaticText 'Spring'
+
+[5117] LineBreak '\n'
+
+[5160] StaticText 'Includes an MVC structure, mvnw and pom.xml to help you get started'
+
+[4988] link 'Preview'
+
+[5005] radio 'Use template' checked: false
+
+[4861] StaticText 'NodeJS Express'
+
+[5289] LineBreak '\n'
+
+[5014] StaticText 'Includes an MVC structure to help you get started'
+
+[5155] link 'Preview'
+
+[4939] radio 'Use template' checked: false
+
+[5338] StaticText 'iOS (Swift)'
+
+[5292] LineBreak '\n'
+
+[5008] StaticText 'A ready-to-go template for use with iOS Swift apps'
+
+[4868] link 'Preview'
+
+[5216] radio 'Use template' checked: false
+
+[5051] StaticText '.NET Core'
+
+[4963] LineBreak '\n'
+
+[5164] StaticText 'A .NET Core console application template, customizable for any .NET Core project'
+
+[5205] link 'Preview'
+
+[5210] radio 'Use template' checked: false
+
+[5159] StaticText 'Android'
+
+[5197] LineBreak '\n'
+
+[5114] StaticText 'A ready-to-go template for use with Android apps'
+
+[5297] link 'Preview' focused: True
+
+[4997] radio 'Use template' checked: false
+
+[5035] StaticText 'Go Micro'
+
+[5321] LineBreak '\n'
+
+[4918] link 'Preview'</pre><div>
+
+[5297] where [5297] is link 'Preview'</div>
+
+[4997]` where [4997] is the "Use template" button for the Android template.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page has a list of templates to create a new project. The Android template is listed as an option. I can click on the "Use template" button next to the Android template to select it. In summary, the next action I will perform is `click [4997]` where [4997] is the "Use template" button for the Android template.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1932] RootWebArea 'New Project · GitLab' focused: True
+
+[2187] link 'Skip to content'
+
+[3237] link 'Dashboard'
+
+[3305] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3494] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3311] link 'Create new...' expanded: False
+
+[3313] link 'Issues'
+
+[3398] generic '13 assigned issues'
+
+[3314] link 'Merge requests'
+
+[3400] generic '8 merge requests'
+
+[3316] link 'To-Do List'
+
+[3416] generic 'Todos count'
+
+[3515] StaticText '5'
+
+[3317] link 'Help'
+
+[3319] link 'Byte Blaze'
+
+[3450] img 'Byte Blaze'
+
+[1948] main ''
+
+[3689] heading 'Create from template'
+
+[3694] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[3691] navigation 'Breadcrumb'
+
+[3709] link 'New project'
+
+[3710] link 'Create from template'
+
+[3712] StaticText 'Learn how to '
+
+[3713] link 'contribute to the built-in templates'
+
+[4953] link 'Built-in 30'
+
+[5249] StaticText 'Ruby on Rails'
+
+[5209] LineBreak '\n'
+
+[5071] StaticText 'Includes an MVC structure, Gemfile, Rakefile, along with many others, to help you get started'
+
+[5265] link 'Preview'
+
+[5127] radio 'Use template' checked: false
+
+[5214] StaticText 'Spring'
+
+[5117] LineBreak '\n'
+
+[5160] StaticText 'Includes an MVC structure, mvnw and pom.xml to help you get started'
+
+[4988] link 'Preview'
+
+[5005] radio 'Use template' checked: false
+
+[4861] StaticText 'NodeJS Express'
+
+[5289] LineBreak '\n'
+
+[5014] StaticText 'Includes an MVC structure to help you get started'
+
+[5155] link 'Preview'
+
+[4939] radio 'Use template' checked: false
+
+[5338] StaticText 'iOS (Swift)'
+
+[5292] LineBreak '\n'
+
+[5008] StaticText 'A ready-to-go template for use with iOS Swift apps'
+
+[4868] link 'Preview'
+
+[5216] radio 'Use template' checked: false
+
+[5051] StaticText '.NET Core'
+
+[4963] LineBreak '\n'
+
+[5164] StaticText 'A .NET Core console application template, customizable for any .NET Core project'
+
+[5205] link 'Preview'
+
+[5210] radio 'Use template' checked: false
+
+[5159] StaticText 'Android'
+
+[5197] LineBreak '\n'
+
+[5114] StaticText 'A ready-to-go template for use with Android apps'
+
+[5297] link 'Preview' focused: True
+
+[4997] radio 'Use template' checked: false
+
+[5035] StaticText 'Go Micro'
+
+[5321] LineBreak '\n'
+
+[4918] link 'Preview'</pre><div>
+
+[4997]` where [4997] is the "Use template" button for the Android template.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[4997]``` where [4997] is the "Use template" button for the Android template.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '4997', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page has a list of templates to create a new project. The Android template is listed as an option. I can click on the "Use template" button next to the Android template to select it. In summary, the next action I will perform is ```click [4997]``` where [4997] is the "Use template" button for the Android template.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [4997] where [4997] is [4997] radio 'Use template' checked: false</pre></div></div>
+
+[1932] RootWebArea 'New Project · GitLab' focused: True
+
+[2187] link 'Skip to content'
+
+[3237] link 'Dashboard'
+
+[3305] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3494] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3311] link 'Create new...' expanded: False
+
+[3313] link 'Issues'
+
+[3398] generic '13 assigned issues'
+
+[3314] link 'Merge requests'
+
+[3400] generic '8 merge requests'
+
+[3316] link 'To-Do List'
+
+[3416] generic 'Todos count'
+
+[3515] StaticText '5'
+
+[3317] link 'Help'
+
+[3319] link 'Byte Blaze'
+
+[3450] img 'Byte Blaze'
+
+[1948] main ''
+
+[3689] heading 'Create from template'
+
+[3694] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[3691] navigation 'Breadcrumb'
+
+[3709] link 'New project'
+
+[3710] link 'Create from template'
+
+[3712] StaticText 'Learn how to '
+
+[3713] link 'contribute to the built-in templates'
+
+[5594] StaticText 'Template'
+
+[6065] StaticText 'Android'
+
+[5614] button 'Change template'
+
+[5582] StaticText 'Project name'
+
+[5637] textbox 'Project name' focused: True required: True
+
+[5666] StaticText 'Project URL'
+
+[5625] group ''
+
+[5690] generic 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/'
+
+[5579] button '\u200ecrew\u200e' hasPopup: menu expanded: False
+
+[5606] generic 'crew'
+
+[5636] StaticText 'Project slug'
+
+[5650] textbox 'Project slug' required: True
+
+[5630] StaticText 'Want to organize several dependent projects under the same namespace? '
+
+[5658] link 'Create a group.'
+
+[5669] StaticText 'Project description '
+
+[5591] StaticText '(optional)'
+
+[5663] textbox 'Project description (optional)' required: False
+
+[5641] StaticText 'Visibility Level '
+
+[5597] link 'Documentation for Visibility Level'
+
+[5686] radio ' Private Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.' checked: false
+
+[5682] radio ' Internal The project can be accessed by any logged in user except external users.' checked: false
+
+[5624] radio ' Public The project can be accessed without any authentication.' checked: true</pre><div>
+
+[4997] where [4997] is radio 'Use template' checked: false</div>
+
+[4997]```.
+
+[4997]```.\n'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [4997] where [4997] is No match found</pre></div></div>
+
+[1932] RootWebArea 'New Project · GitLab' focused: True
+
+[2187] link 'Skip to content'
+
+[3237] link 'Dashboard'
+
+[3305] button '' hasPopup: menu expanded: False
+
+[1944] textbox 'Search GitLab' required: False
+
+[3494] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3311] link 'Create new...' expanded: False
+
+[3313] link 'Issues'
+
+[3398] generic '13 assigned issues'
+
+[3314] link 'Merge requests'
+
+[3400] generic '8 merge requests'
+
+[3316] link 'To-Do List'
+
+[3416] generic 'Todos count'
+
+[3515] StaticText '5'
+
+[3317] link 'Help'
+
+[3319] link 'Byte Blaze'
+
+[3450] img 'Byte Blaze'
+
+[1948] main ''
+
+[3689] heading 'Create from template'
+
+[3694] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[3691] navigation 'Breadcrumb'
+
+[3709] link 'New project'
+
+[3710] link 'Create from template'
+
+[3712] StaticText 'Learn how to '
+
+[3713] link 'contribute to the built-in templates'
+
+[5594] StaticText 'Template'
+
+[6065] StaticText 'Android'
+
+[5614] button 'Change template'
+
+[5582] StaticText 'Project name'
+
+[5637] textbox 'Project name' focused: True required: True
+
+[5666] StaticText 'Project URL'
+
+[5625] group ''
+
+[5690] generic 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/'
+
+[5579] button '\u200ecrew\u200e' hasPopup: menu expanded: False
+
+[5606] generic 'crew'
+
+[5636] StaticText 'Project slug'
+
+[5650] textbox 'Project slug' required: True
+
+[5630] StaticText 'Want to organize several dependent projects under the same namespace? '
+
+[5658] link 'Create a group.'
+
+[5669] StaticText 'Project description '
+
+[5591] StaticText '(optional)'
+
+[5663] textbox 'Project description (optional)' required: False
+
+[5641] StaticText 'Visibility Level '
+
+[5597] link 'Documentation for Visibility Level'
+
+[5686] radio ' Private Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.' checked: false
+
+[5682] radio ' Internal The project can be accessed by any logged in user except external users.' checked: false
+
+[5624] radio ' Public The project can be accessed without any authentication.' checked: true</pre><div>
+
+[4997]" but no matching element found. Please check the observation more carefully.</div>
+

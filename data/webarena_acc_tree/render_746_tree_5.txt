@@ -1,0 +1,47 @@
+Tab 0 (current): New Project · GitLab
+
+[1864] RootWebArea 'New Project · GitLab' focused: True
+	[2119] link 'Skip to content'
+	[3169] link 'Dashboard'
+	[3237] button '' hasPopup: menu expanded: False
+	[1876] textbox 'Search GitLab' required: False
+	[3426] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[3243] link 'Create new...' expanded: False
+	[3245] link 'Issues'
+		[3330] generic '13 assigned issues'
+	[3246] link 'Merge requests'
+		[3332] generic '8 merge requests'
+	[3248] link 'To-Do List'
+		[3348] generic 'Todos count'
+			[3447] StaticText '5'
+	[3249] link 'Help'
+	[3251] link 'Byte Blaze'
+		[3382] img 'Byte Blaze'
+	[1880] main ''
+		[3515] heading 'Create blank project'
+		[3520] StaticText 'Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+		[3517] navigation 'Breadcrumb'
+			[3548] link 'New project'
+			[3549] link 'Create blank project'
+		[3638] StaticText 'Project name'
+		[3487] textbox 'Project name' required: True
+		[3642] StaticText 'Project URL'
+		[3490] group ''
+			[3657] generic 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/'
+			[3662] button '\u200ecrew\u200e' hasPopup: menu expanded: False
+				[3666] generic 'crew'
+		[3645] StaticText 'Project slug'
+		[3498] textbox 'Project slug' required: True
+		[3552] StaticText 'Want to organize several dependent projects under the same namespace? '
+		[3553] link 'Create a group.'
+		[3566] StaticText 'Visibility Level '
+		[3567] link 'Documentation for Visibility Level'
+		[3502] radio ' Private Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.' checked: false
+		[3504] radio ' Internal The project can be accessed by any logged in user except external users.' checked: false
+		[3506] radio ' Public The project can be accessed without any authentication.' checked: true
+		[3572] StaticText 'Project Configuration'
+		[3509] checkbox 'Initialize repository with a README Allows you to immediately clone this project’s repository. Skip this if you plan to push up an existing repository.' checked: true
+		[3512] checkbox 'Enable Static Application Security Testing (SAST) Analyze your source code for known security vulnerabilities. Learn more.' checked: false
+		[3632] link 'Learn more.'
+		[3536] button 'Create project'
+		[3537] link 'Cancel'</pre><div>

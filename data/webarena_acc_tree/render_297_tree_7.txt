@@ -1,0 +1,31 @@
+Tab 0 (current): Projects · Dashboard · GitLab
+
+[3556] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+	[3607] link 'Skip to content'
+	[3730] link 'Dashboard'
+	[3788] button '' hasPopup: menu expanded: False
+	[3568] textbox 'Search GitLab' required: False
+	[4058] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[3794] link 'Create new...'
+	[3796] link 'Issues'
+		[3949] generic '13 assigned issues'
+	[3797] link 'Merge requests'
+		[3951] generic '8 merge requests'
+	[3799] link 'To-Do List'
+		[3967] generic 'Todos count'
+	[3800] link 'Help'
+	[3802] link 'Byte Blaze'
+		[4001] img 'Byte Blaze'
+	[3572] main ''
+		[3709] heading 'Projects'
+		[3712] link 'New project'
+		[3804] link 'Yours 18'
+		[3805] link 'Starred 3'
+		[3806] link 'Explore'
+		[3807] link 'Topics'
+		[3576] searchbox 'Filter by name'
+			[3808] StaticText 'Covid location tracker'
+		[3782] button 'Name'
+		[3852] link 'All'
+		[3853] link 'Personal'
+		[3725] heading "This user doesn't have any personal projects"</pre><div>

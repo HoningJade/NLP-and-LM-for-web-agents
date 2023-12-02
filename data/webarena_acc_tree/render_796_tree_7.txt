@@ -1,0 +1,85 @@
+Tab 0 (current): Shopping Cart
+
+[9474] RootWebArea 'Shopping Cart' focused: True
+	[9486] main ''
+		[9688] StaticText 'Summary'
+		[11894] tablist '' multiselectable: False orientation: horizontal
+			[11893] tab 'Estimate Shipping and Tax \ue621' focused: True expanded: True selected: True controls: block-summary
+				[9815] heading 'Estimate Shipping and Tax'
+			[12135] tabpanel 'Estimate Shipping and Tax'
+				[12142] group ''
+					[12582] StaticText 'Enter your destination to get a shipping estimate.'
+					[12585] StaticText 'Country'
+					[12136] combobox 'Country' hasPopup: menu expanded: False
+					[12588] StaticText 'State/Province'
+					[12129] combobox 'State/Province' hasPopup: menu expanded: False
+					[12596] StaticText 'Zip/Postal Code'
+					[12139] textbox 'Zip/Postal Code' required: False
+						[12918] StaticText '94010'
+				[12130] group ''
+					[12144] DescriptionList ''
+						[12597] DescriptionListTerm ''
+							[12917] StaticText 'Flat Rate'
+						[12134] DescriptionListDetail ''
+							[12128] radio 'Fixed$80.00' checked: true
+		[12116] table ''
+			[12562] row ''
+				[12563] rowheader 'Subtotal' required: False
+				[12564] gridcell '$5,162.22' required: False
+			[12123] row ''
+				[12565] rowheader 'Shipping(Flat Rate - Fixed)' required: False
+				[12124] gridcell '$80.00' required: False
+			[12118] row ''
+				[12566] rowheader 'Order Total' required: False
+				[12119] gridcell '$5,242.22' required: False
+		[11897] tablist '' multiselectable: False orientation: horizontal
+			[11896] tab 'Apply Discount Code \ue622' expanded: False selected: False
+				[9817] heading 'Apply Discount Code'
+		[9830] button 'Proceed to Checkout'
+		[9500] table 'Shopping Cart Items'
+			[9694] caption ''
+			[9832] row ''
+				[9833] columnheader 'Item' required: False
+				[9834] columnheader 'Price' required: False
+				[9835] columnheader 'Qty' required: False
+				[9836] columnheader 'Subtotal' required: False
+			[9501] rowgroup ''
+				[9502] row ''
+					[11062] gridcell 'Tazrigo 5pcs White Dental Resin Brush Pens Dental Shaping Silicone Tooth Tool Tazrigo 5pcs White Dental Resin Brush Pens Dental Shaping Silicone Tooth Tool' required: False
+						[11104] link 'Tazrigo 5pcs White Dental Resin Brush Pens Dental Shaping Silicone Tooth Tool'
+							[11108] img 'Tazrigo 5pcs White Dental Resin Brush Pens Dental Shaping Silicone Tooth Tool'
+						[11110] link 'Tazrigo 5pcs White Dental Resin Brush Pens Dental Shaping Silicone Tooth Tool'
+					[11060] gridcell '$8.99' required: False
+					[9503] gridcell 'Qty 1' required: False
+						[9507] spinbutton 'Qty' required: False valuemin: 0 valuemax: 0 valuetext: 
+					[11061] gridcell '$8.99' required: False
+				[9837] row ''
+					[11063] gridcell 'Move to WishlistEditRemove item' required: False
+						[11124] link 'Move to Wishlist'
+						[11125] link 'Edit'
+						[11126] link 'Remove item'
+			[9508] rowgroup ''
+				[9509] row ''
+					[11066] gridcell '35 Ft HDMI Cable, GearIT Pro Series HDMI Cable 35 Feet High Speed Ethernet 4K Resolution 3D Video and ARC Audio Return Channel HDMI Cable, White 35 Ft HDMI Cable, GearIT Pro Series HDMI Cable 35 Feet High Speed Ethernet 4K Resolution 3D Video and ARC Audio Return Channel HDMI Cable, White' required: False
+						[11133] link '35 Ft HDMI Cable, GearIT Pro Series HDMI Cable 35 Feet High Speed Ethernet 4K Resolution 3D Video and ARC Audio Return Channel HDMI Cable, White'
+							[11137] img '35 Ft HDMI Cable, GearIT Pro Series HDMI Cable 35 Feet High Speed Ethernet 4K Resolution 3D Video and ARC Audio Return Channel HDMI Cable, White'
+						[11139] link '35 Ft HDMI Cable, GearIT Pro Series HDMI Cable 35 Feet High Speed Ethernet 4K Resolution 3D Video and ARC Audio Return Channel HDMI Cable, White'
+					[11064] gridcell '$25.04' required: False
+					[9510] gridcell 'Qty 1' required: False
+						[9514] spinbutton 'Qty' required: False valuemin: 0 valuemax: 0 valuetext: 
+					[11065] gridcell '$25.04' required: False
+				[9838] row ''
+					[11067] gridcell 'Move to WishlistEditRemove item' required: False
+						[11153] link 'Move to Wishlist'
+						[11154] link 'Edit'
+						[11155] link 'Remove item'
+			[9515] rowgroup ''
+				[9516] row ''
+					[11070] gridcell 'Uttermost Volterra Crackled Taupe-Gray Ceramic Table Lamp Uttermost Volterra Crackled Taupe-Gray Ceramic Table Lamp' required: False
+						[11162] link 'Uttermost Volterra Crackled Taupe-Gray Ceramic Table Lamp'
+							[11166] img 'Uttermost Volterra Crackled Taupe-Gray Ceramic Table Lamp'
+						[11168] link 'Uttermost Volterra Crackled Taupe-Gray Ceramic Table Lamp'
+					[11068] gridcell '$250.80' required: False
+					[9517] gridcell 'Qty 3' required: False
+						[9521] spinbutton 'Qty' required: False valuemin: 0 valuemax: 0 valuetext: 
+					[11069] gridcell '$752.40' required: False</pre><div>

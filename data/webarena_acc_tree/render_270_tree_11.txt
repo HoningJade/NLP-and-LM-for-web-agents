@@ -1,0 +1,78 @@
+Tab 0 (current): Office Products
+
+[2635] RootWebArea 'Office Products' focused: True
+	[3894] link 'My Account'
+	[3892] link 'My Wish List'
+	[3896] link 'Sign Out'
+	[3899] StaticText 'Welcome to One Stop Market'
+	[3836] link 'Skip to Content'
+	[3845] link 'store logo'
+		[3902] img 'one_stop_market_logo'
+	[3903] link '\ue611 My Cart'
+	[4821] StaticText 'Search'
+	[2646] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+	[4824] link 'Advanced Search'
+	[4077] button 'Search' disabled: True
+	[3736] tablist '' multiselectable: False orientation: horizontal
+		[3738] tabpanel ''
+			[2680] menu '' orientation: vertical
+				[3431] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+				[3496] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+				[3506] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+				[3520] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+				[5310] menu '' orientation: vertical
+					[5313] menuitem '\ue608 Furniture' hasPopup: menu
+					[5315] menuitem '\ue608 Bedding' hasPopup: menu
+					[5317] menuitem '\ue608 Storage & Organization' hasPopup: menu
+					[5319] menuitem '\ue608 Home Décor Products' hasPopup: menu
+					[5321] menuitem '\ue608 Kitchen & Dining' hasPopup: menu
+					[5365] menu '' orientation: vertical
+						[5367] menuitem 'Dining & Entertaining'
+						[5369] menuitem 'Storage & Organization'
+						[5371] menuitem 'Kitchen & Table Linens'
+					[5323] menuitem 'Heating, Cooling & Air Quality'
+					[5325] menuitem '\ue608 Wall Art' hasPopup: menu
+					[5327] menuitem '\ue608 Bath' hasPopup: menu
+				[3557] menuitem '\ue622 Office Products' hasPopup: menu
+				[3565] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+				[3570] menuitem '\ue622 Health & Household' hasPopup: menu
+				[3576] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+				[3581] menuitem '\ue622 Electronics' hasPopup: menu
+				[3642] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+				[3657] menuitem '\ue622 Video Games' hasPopup: menu
+				[3670] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+	[3867] link 'Home '
+	[3870] StaticText 'Office Products'
+	[2647] main ''
+		[3871] heading 'Office Products Items 1-12 of 958'
+		[3926] StaticText 'View as'
+		[3924] strong 'Grid'
+		[3925] link 'View as \ue60b List'
+		[3910] StaticText 'Items '
+		[3913] StaticText '-'
+		[3915] StaticText '12'
+		[3916] StaticText ' of '
+		[3918] StaticText '958'
+		[4022] StaticText 'Sort By'
+		[2670] combobox 'Sort By' hasPopup: menu expanded: False
+		[3934] link '\ue613 Set Descending Direction'
+		[4782] link 'Image'
+			[4827] img 'Image'
+		[4784] link 'Image'
+			[4843] img 'Image'
+		[4786] link 'Image'
+			[4856] img 'Image'
+		[4788] link 'Image'
+			[4869] img 'Image'
+		[3958] StaticText 'Shop By'
+		[3959] heading 'Shopping Options'
+		[3960] DescriptionList ''
+			[3962] heading 'Category'
+			[3963] DescriptionListDetail ''
+				[5009] link 'Office Electronics( 488 item )'
+				[5010] link 'Office & School Supplies( 98 item )'
+				[5011] link 'Office Furniture & Lighting( 372 item )'
+			[3964] heading 'Price'
+			[3965] DescriptionListDetail ''
+				[5012] link '$0.00 - $9,999.99( 955 item )'
+				[5013] link '$10,000.00 and above( 3 item )'</pre><div>

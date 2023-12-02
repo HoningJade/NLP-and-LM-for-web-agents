@@ -1,0 +1,2880 @@
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[270] link 'Skip to content'
+
+[386] link 'Dashboard'
+
+[462] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1733] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[468] link 'Create new...'
+
+[470] link 'Issues'
+
+[1298] generic '13 assigned issues'
+
+[471] link 'Merge requests'
+
+[1300] generic '8 merge requests'
+
+[473] link 'To-Do List'
+
+[1316] generic 'Todos count'
+
+[1754] StaticText '5'
+
+[474] link 'Help'
+
+[476] link 'Byte Blaze'
+
+[1350] img 'Byte Blaze'
+
+[17] main ''
+
+[371] heading 'Projects'
+
+[374] link 'New project'
+
+[478] link 'Yours 18'
+
+[479] link 'Starred 3'
+
+[480] link 'Explore'
+
+[481] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[438] button 'Name'
+
+[525] link 'All'
+
+[526] link 'Personal'
+
+[527] link 'A'
+
+[530] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[533] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[531] generic 'Public - The project can be accessed without any authentication.'
+
+[539] StaticText 'Owner'
+
+[1406] generic 'lipstick'
+
+[1764] StaticText '💄'
+
+[1407] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[551] link '1'
+
+[552] link '0'
+
+[553] link '0'
+
+[554] link '1'
+
+[563] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[564] StaticText '5 months ago'
+
+[565] link 'A'
+
+[568] heading 'Byte Blaze / a11y-webring.club'
+
+[571] link 'Byte Blaze / a11y-webring.club'
+
+[569] generic 'Public - The project can be accessed without any authentication.'
+
+[577] StaticText 'Owner'
+
+[1425] generic 'globe with meridians'
+
+[1765] StaticText '🌐'
+
+[1426] StaticText ' A webring for digital accessibility practitioners.'
+
+[589] link '2'
+
+[590] link '0'
+
+[591] link '1'
+
+[592] link '4'
+
+[601] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[602] StaticText '5 months ago'
+
+[603] link 'A'
+
+[606] heading 'The A11Y Project / a11yproject.com'
+
+[609] link 'The A11Y Project / a11yproject.com'
+
+[607] generic 'Public - The project can be accessed without any authentication.'
+
+[615] StaticText 'Maintainer'
+
+[1444] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[627] link '21'
+
+[628] link '0'
+
+[629] link '10'
+
+[630] link '40'
+
+[639] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[640] StaticText '5 months ago'
+
+[641] link 'A'
+
+[644] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[647] link 'Byte Blaze / accessible-html-content-patterns'
+
+[645] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[653] StaticText 'Owner'
+
+[1462] generic 'wheelchair symbol'
+
+[1766] StaticText '♿'
+
+[1463] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[665] link '1'
+
+[666] link '0'
+
+[667] link '0'
+
+[668] link '0'
+
+[677] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[678] StaticText '5 months ago'
+
+[679] link ''
+
+[682] heading 'Byte Blaze / cloud-to-butt'
+
+[685] link 'Byte Blaze / cloud-to-butt'
+
+[683] generic 'Public - The project can be accessed without any authentication.'
+
+[691] StaticText 'Owner'
+
+[703] link '0'
+
+[704] link '0'
+
+[705] link '0'
+
+[706] link '0'
+
+[715] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[716] StaticText '5 months ago'
+
+[717] link 'D'
+
+[720] heading 'Primer / design'
+
+[723] link 'Primer / design'
+
+[721] generic 'Public - The project can be accessed without any authentication.'
+
+[729] StaticText 'Developer'
+
+[1498] StaticText 'Primer Design Guidelines'
+
+[741] link '21'
+
+[742] link '0'
+
+[743] link '16'
+
+[744] link '21'
+
+[753] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[754] StaticText '5 months ago'
+
+[755] link 'D'
+
+[757] heading 'Byte Blaze / Do it myself'
+
+[760] link 'Byte Blaze / Do it myself'
+
+[758] generic 'Public - The project can be accessed without any authentication.'
+
+[766] StaticText 'Owner'
+
+[777] link '0'
+
+[778] link '0'
+
+[779] link '0'
+
+[780] link '0'
+
+[789] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[790] StaticText '2 days ago'</pre><div>
+
+[682]. I will click on it. In summary, the next action I will perform is `click [682]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To create an issue in the "cloud-to-butt" repository, I need to navigate to that repository first. The repository can be found under the "Byte Blaze" project. The link to the "cloud-to-butt" repository is [682]. I will click on it. In summary, the next action I will perform is `click [682]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[270] link 'Skip to content'
+
+[386] link 'Dashboard'
+
+[462] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1733] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[468] link 'Create new...'
+
+[470] link 'Issues'
+
+[1298] generic '13 assigned issues'
+
+[471] link 'Merge requests'
+
+[1300] generic '8 merge requests'
+
+[473] link 'To-Do List'
+
+[1316] generic 'Todos count'
+
+[1754] StaticText '5'
+
+[474] link 'Help'
+
+[476] link 'Byte Blaze'
+
+[1350] img 'Byte Blaze'
+
+[17] main ''
+
+[371] heading 'Projects'
+
+[374] link 'New project'
+
+[478] link 'Yours 18'
+
+[479] link 'Starred 3'
+
+[480] link 'Explore'
+
+[481] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[438] button 'Name'
+
+[525] link 'All'
+
+[526] link 'Personal'
+
+[527] link 'A'
+
+[530] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[533] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[531] generic 'Public - The project can be accessed without any authentication.'
+
+[539] StaticText 'Owner'
+
+[1406] generic 'lipstick'
+
+[1764] StaticText '💄'
+
+[1407] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[551] link '1'
+
+[552] link '0'
+
+[553] link '0'
+
+[554] link '1'
+
+[563] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[564] StaticText '5 months ago'
+
+[565] link 'A'
+
+[568] heading 'Byte Blaze / a11y-webring.club'
+
+[571] link 'Byte Blaze / a11y-webring.club'
+
+[569] generic 'Public - The project can be accessed without any authentication.'
+
+[577] StaticText 'Owner'
+
+[1425] generic 'globe with meridians'
+
+[1765] StaticText '🌐'
+
+[1426] StaticText ' A webring for digital accessibility practitioners.'
+
+[589] link '2'
+
+[590] link '0'
+
+[591] link '1'
+
+[592] link '4'
+
+[601] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[602] StaticText '5 months ago'
+
+[603] link 'A'
+
+[606] heading 'The A11Y Project / a11yproject.com'
+
+[609] link 'The A11Y Project / a11yproject.com'
+
+[607] generic 'Public - The project can be accessed without any authentication.'
+
+[615] StaticText 'Maintainer'
+
+[1444] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[627] link '21'
+
+[628] link '0'
+
+[629] link '10'
+
+[630] link '40'
+
+[639] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[640] StaticText '5 months ago'
+
+[641] link 'A'
+
+[644] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[647] link 'Byte Blaze / accessible-html-content-patterns'
+
+[645] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[653] StaticText 'Owner'
+
+[1462] generic 'wheelchair symbol'
+
+[1766] StaticText '♿'
+
+[1463] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[665] link '1'
+
+[666] link '0'
+
+[667] link '0'
+
+[668] link '0'
+
+[677] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[678] StaticText '5 months ago'
+
+[679] link ''
+
+[682] heading 'Byte Blaze / cloud-to-butt'
+
+[685] link 'Byte Blaze / cloud-to-butt'
+
+[683] generic 'Public - The project can be accessed without any authentication.'
+
+[691] StaticText 'Owner'
+
+[703] link '0'
+
+[704] link '0'
+
+[705] link '0'
+
+[706] link '0'
+
+[715] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[716] StaticText '5 months ago'
+
+[717] link 'D'
+
+[720] heading 'Primer / design'
+
+[723] link 'Primer / design'
+
+[721] generic 'Public - The project can be accessed without any authentication.'
+
+[729] StaticText 'Developer'
+
+[1498] StaticText 'Primer Design Guidelines'
+
+[741] link '21'
+
+[742] link '0'
+
+[743] link '16'
+
+[744] link '21'
+
+[753] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[754] StaticText '5 months ago'
+
+[755] link 'D'
+
+[757] heading 'Byte Blaze / Do it myself'
+
+[760] link 'Byte Blaze / Do it myself'
+
+[758] generic 'Public - The project can be accessed without any authentication.'
+
+[766] StaticText 'Owner'
+
+[777] link '0'
+
+[778] link '0'
+
+[779] link '0'
+
+[780] link '0'
+
+[789] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[790] StaticText '2 days ago'</pre><div>
+
+[682]. I will click on it. In summary, the next action I will perform is `click [682]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[682]. I will click on it. In summary, the next action I will perform is ```click [682]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '682', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To create an issue in the "cloud-to-butt" repository, I need to navigate to that repository first. The repository can be found under the "Byte Blaze" project. The link to the "cloud-to-butt" repository is [682]. I will click on it. In summary, the next action I will perform is ```click [682]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [682] where [682] is [682] heading 'Byte Blaze / cloud-to-butt'</pre></div></div>
+
+[1778] RootWebArea 'Byte Blaze / cloud-to-butt · GitLab' focused: True
+
+[1891] link 'Skip to content'
+
+[2086] link 'Dashboard'
+
+[2260] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3196] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2266] link 'Create new...'
+
+[2268] link 'Issues'
+
+[2641] generic '13 assigned issues'
+
+[2269] link 'Merge requests'
+
+[2643] generic '8 merge requests'
+
+[2271] link 'To-Do List'
+
+[2659] generic 'Todos count'
+
+[2272] link 'Help'
+
+[2274] link 'Byte Blaze'
+
+[2693] img 'Byte Blaze'
+
+[1892] complementary 'Project navigation'
+
+[2119] listitem 'cloud-to-butt'
+
+[2276] link 'cloud-to-butt'
+
+[2733] img 'cloud-to-butt'
+
+[2277] link 'Project information'
+
+[2279] link 'Repository'
+
+[2281] link 'Issues'
+
+[2798] StaticText '0'
+
+[2283] link 'Merge requests'
+
+[2285] link 'CI/CD'
+
+[2287] link 'Security & Compliance'
+
+[2289] link 'Deployments'
+
+[2291] link 'Packages and registries'
+
+[2293] link 'Infrastructure'
+
+[2295] link 'Monitor'
+
+[2297] link 'Analytics'
+
+[2299] link 'Wiki'
+
+[2301] link 'Snippets'
+
+[2303] link 'Settings'
+
+[2032] button 'Collapse sidebar'
+
+[1896] alert '' live: assertive atomic: True relevant: additions text
+
+[1900] button 'Dismiss'
+
+[1901] alert '' live: assertive atomic: True relevant: additions text
+
+[2153] link 'Add SSH key'
+
+[2154] button "Don't show again"
+
+[1897] alert '' live: assertive atomic: True relevant: additions text
+
+[1903] button 'Dismiss'
+
+[1904] alert '' live: assertive atomic: True relevant: additions text
+
+[2160] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+
+[2162] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+
+[2163] link 'Settings'
+
+[2164] link 'More information'
+
+[1898] navigation 'Breadcrumbs'
+
+[2320] link 'Byte Blaze'
+
+[2322] link 'cloud-to-butt cloud-to-butt'
+
+[3046] img 'cloud-to-butt'
+
+[1794] main ''
+
+[2054] img 'cloud-to-butt'
+
+[2055] heading 'cloud-to-butt Public - The project can be accessed without any authentication.'
+
+[2058] generic 'Public - The project can be accessed without any authentication.'
+
+[2061] StaticText 'Project ID: 189 '
+
+[2062] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2180] button '' hasPopup: menu expanded: False
+
+[2066] button 'Star'
+
+[2067] link '0'
+
+[2185] link 'Fork'
+
+[2069] link '0'
+
+[2418] link '29 Commits'
+
+[2419] link '4 Branches'
+
+[2420] link '0 Tags'
+
+[2421] link '154 KB Project Storage'
+
+[2078] StaticText 'Forked from '
+
+[2079] link 'Steven Frank / cloud-to-butt'
+
+[2080] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">100.0%</span>'
+
+[2199] img 'user avatar'
+
+[2203] link 'Merge pull request #70 from lionello/fix-node-tagName-classList'
+
+[2204] button 'Toggle commit description'
+
+[2209] StaticText 'Steven Frank authored '
+
+[2210] time 'Aug 25, 2019 10:46am EDT'
+
+[2425] StaticText '4 years ago'
+
+[2214] button 'Unverified'
+
+[2213] group ''
+
+[2428] StaticText '3251e612'
+
+[2216] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3077] button 'master' hasPopup: menu expanded: False
+
+[1848] navigation 'Files breadcrumb'
+
+[3359] link 'cloud-to-butt'
+
+[3442] button 'Add to tree' hasPopup: menu expanded: False
+
+[2433] link 'Find file'
+
+[2438] link 'Web IDE'
+
+[2439] button 'Download'
+
+[3084] StaticText 'Select Archive Format'
+
+[2441] link 'Clone'
+
+[2464] link 'README'
+
+[2465] link 'Do What The F*ck You Want To Public License'
+
+[2466] link 'Auto DevOps enabled'
+
+[2467] link 'Add CHANGELOG'</pre><div>
+
+[682] where [682] is heading 'Byte Blaze / cloud-to-butt'</div>
+
+[2283]. I will click on it. In summary, the next action I will perform is ```click [2283]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2283', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We are currently on the cloud-to-butt repository page on GitLab. To create an issue, we need to find the "Issues" link, which is [2283]. I will click on it. In summary, the next action I will perform is ```click [2283]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2283] where [2283] is [2283] link 'Merge requests'</pre></div></div>
+
+[3498] RootWebArea 'Merge requests · Byte Blaze / cloud-to-butt · GitLab' focused: True
+
+[3542] link 'Skip to content'
+
+[3689] link 'Dashboard'
+
+[3771] button '' hasPopup: menu expanded: False
+
+[3510] textbox 'Search GitLab' required: False
+
+[4372] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3777] link 'Create new...'
+
+[3779] link 'Issues'
+
+[3951] generic '13 assigned issues'
+
+[3780] link 'Merge requests'
+
+[3953] generic '8 merge requests'
+
+[3782] link 'To-Do List'
+
+[3969] generic 'Todos count'
+
+[3783] link 'Help'
+
+[3785] link 'Byte Blaze'
+
+[4003] img 'Byte Blaze'
+
+[3543] complementary 'Project navigation'
+
+[3722] listitem 'cloud-to-butt'
+
+[3787] link 'cloud-to-butt'
+
+[4043] img 'cloud-to-butt'
+
+[3788] link 'Project information'
+
+[3790] link 'Repository'
+
+[3792] link 'Issues'
+
+[3794] link 'Merge requests'
+
+[3796] link 'CI/CD'
+
+[3798] link 'Security & Compliance'
+
+[3800] link 'Deployments'
+
+[3802] link 'Packages and registries'
+
+[3804] link 'Infrastructure'
+
+[3806] link 'Monitor'
+
+[3808] link 'Analytics'
+
+[3810] link 'Wiki'
+
+[3812] link 'Snippets'
+
+[3814] link 'Settings'
+
+[3678] button 'Collapse sidebar'
+
+[3549] navigation 'Breadcrumbs'
+
+[3831] link 'Byte Blaze'
+
+[3833] link 'cloud-to-butt cloud-to-butt'
+
+[4356] img 'cloud-to-butt'
+
+[3835] link 'Merge requests'
+
+[3551] main ''
+
+[3763] heading "Merge requests are a place to propose changes you've made to a project and discuss those changes with others"
+
+[3767] StaticText 'Interested parties can even contribute by pushing commits if they want to.'
+
+[3768] link 'New merge request'</pre><div>
+
+[2283] where [2283] is link 'Merge requests'</div>
+
+[3780]``` to click on the "Issues" link.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3780', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. I can see that the current page is the merge requests page of the "cloud-to-butt" repository on GitLab. To create an issue, I need to go to the "Issues" section. I will perform the action ```click [3780]``` to click on the "Issues" link.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3780] where [3780] is [3780] link 'Merge requests'</pre></div></div>
+
+[3498] RootWebArea 'Merge requests · Byte Blaze / cloud-to-butt · GitLab' focused: True
+
+[3542] link 'Skip to content'
+
+[3689] link 'Dashboard'
+
+[3771] button '' hasPopup: menu expanded: False
+
+[3510] textbox 'Search GitLab' required: False
+
+[4372] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3777] link 'Create new...'
+
+[3779] link 'Issues'
+
+[3951] generic '13 assigned issues'
+
+[3780] link 'Merge requests' focused: True expanded: True describedby: gl-tooltip2
+
+[3953] generic '8 merge requests'
+
+[4462] link 'Assigned to you 3'
+
+[4453] link 'Review requests for you 5'
+
+[3782] link 'To-Do List'
+
+[3969] generic 'Todos count'
+
+[3783] link 'Help'
+
+[3785] link 'Byte Blaze'
+
+[4003] img 'Byte Blaze'
+
+[3543] complementary 'Project navigation'
+
+[3722] listitem 'cloud-to-butt'
+
+[3787] link 'cloud-to-butt'
+
+[4043] img 'cloud-to-butt'
+
+[3788] link 'Project information'
+
+[3790] link 'Repository'
+
+[3792] link 'Issues'
+
+[3794] link 'Merge requests'
+
+[3796] link 'CI/CD'
+
+[3798] link 'Security & Compliance'
+
+[3800] link 'Deployments'
+
+[3802] link 'Packages and registries'
+
+[3804] link 'Infrastructure'
+
+[3806] link 'Monitor'
+
+[3808] link 'Analytics'
+
+[3810] link 'Wiki'
+
+[3812] link 'Snippets'
+
+[3814] link 'Settings'
+
+[3678] button 'Collapse sidebar'
+
+[3549] navigation 'Breadcrumbs'
+
+[3831] link 'Byte Blaze'
+
+[3833] link 'cloud-to-butt cloud-to-butt'
+
+[4356] img 'cloud-to-butt'
+
+[3835] link 'Merge requests'
+
+[3551] main ''
+
+[3763] heading "Merge requests are a place to propose changes you've made to a project and discuss those changes with others"
+
+[3767] StaticText 'Interested parties can even contribute by pushing commits if they want to.'
+
+[3768] link 'New merge request'
+
+[4466] tooltip 'Merge requests'</pre><div>
+
+[3780] where [3780] is link 'Merge requests'</div>
+
+[3768]``` to click the "New merge request" button.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3768', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to create an issue in the cloud-to-butt repo with specific details. I have navigated to the merge requests page. I need to find the "New issue" button to create a new issue. In summary, the next action I will perform is ```click [3768]``` to click the "New merge request" button.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3768] where [3768] is [3768] link 'New merge request'</pre></div></div>
+
+[4471] RootWebArea 'New merge request · Byte Blaze / cloud-to-butt · GitLab' focused: True
+
+[4549] link 'Skip to content'
+
+[4691] link 'Dashboard'
+
+[4769] button '' hasPopup: menu expanded: False
+
+[4483] textbox 'Search GitLab' required: False
+
+[5523] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4775] link 'Create new...'
+
+[4777] link 'Issues'
+
+[4980] generic '13 assigned issues'
+
+[4778] link 'Merge requests'
+
+[4982] generic '8 merge requests'
+
+[4780] link 'To-Do List'
+
+[4998] generic 'Todos count'
+
+[5544] StaticText '5'
+
+[4781] link 'Help'
+
+[4783] link 'Byte Blaze'
+
+[5032] img 'Byte Blaze'
+
+[4550] complementary 'Project navigation'
+
+[4724] listitem 'cloud-to-butt'
+
+[4785] link 'cloud-to-butt'
+
+[5072] img 'cloud-to-butt'
+
+[4786] link 'Project information'
+
+[4788] link 'Repository'
+
+[4790] link 'Issues'
+
+[4792] link 'Merge requests'
+
+[4794] link 'CI/CD'
+
+[4796] link 'Security & Compliance'
+
+[4798] link 'Deployments'
+
+[4800] link 'Packages and registries'
+
+[4802] link 'Infrastructure'
+
+[4804] link 'Monitor'
+
+[4806] link 'Analytics'
+
+[4808] link 'Wiki'
+
+[4810] link 'Snippets'
+
+[4812] link 'Settings'
+
+[4682] button 'Collapse sidebar'
+
+[4554] navigation 'Breadcrumbs'
+
+[4829] link 'Byte Blaze'
+
+[4831] link 'cloud-to-butt cloud-to-butt'
+
+[5385] img 'cloud-to-butt'
+
+[4833] link 'Merge requests'
+
+[4835] link 'New'
+
+[4487] main ''
+
+[4557] heading 'New merge request'
+
+[4836] heading 'Source branch'
+
+[4840] button 'byteblaze/cloud-to-butt'
+
+[4842] button 'Select source branch'
+
+[4847] StaticText 'Select a branch to compare'
+
+[4852] heading 'Target branch'
+
+[4855] button 'panicsteve/cloud-to-butt'
+
+[4857] button 'master'
+
+[5608] link "Steven Frank's avatar"
+
+[5628] img "Steven Frank's avatar"
+
+[5610] link 'Merge pull request #70 from lionello/fix-node-tagName-classList'
+
+[5612] button 'Toggle commit description'
+
+[5617] link 'Steven Frank'
+
+[5618] StaticText ' authored '
+
+[4532] time 'Aug 25, 2019 10:46am EDT'
+
+[5633] StaticText '4 years ago'
+
+[5620] button 'Unverified'
+
+[5634] StaticText '3251e612'
+
+[5625] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[4687] button 'Compare branches and continue'</pre><div>
+
+[3768] where [3768] is link 'New merge request'</div>
+
+[4777]. In summary, the next action I will perform is ```click [4777]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '4777', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. Since we are already on the "New merge request" page, we need to navigate to the "Issues" section where we can create a new issue. The link for "Issues" has the id [4777]. In summary, the next action I will perform is ```click [4777]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [4777] where [4777] is [4777] link 'Issues'</pre></div></div>
+
+[5644] RootWebArea 'Issues · Dashboard · GitLab' focused: True
+
+[5840] link 'Skip to content'
+
+[5961] link 'Dashboard'
+
+[6011] button '' hasPopup: menu expanded: False
+
+[5656] textbox 'Search GitLab' required: False
+
+[6988] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6017] link 'Create new...'
+
+[6019] link 'Issues'
+
+[6405] generic '13 assigned issues'
+
+[6020] link 'Merge requests'
+
+[6407] generic '8 merge requests'
+
+[6022] link 'To-Do List'
+
+[6423] generic 'Todos count'
+
+[7009] StaticText '5'
+
+[6023] link 'Help'
+
+[6025] link 'Byte Blaze'
+
+[6457] img 'Byte Blaze'
+
+[5660] main ''
+
+[5940] heading 'Issues'
+
+[5994] link 'Select project to create issue'
+
+[5995] button 'Toggle project select'
+
+[5996] link 'Open 13'
+
+[5997] link 'Closed 53'
+
+[5998] link 'All 66'
+
+[5947] link 'Subscribe to RSS feed'
+
+[5948] link 'Subscribe to calendar'
+
+[6051] button 'Recent searches'
+
+[5673] button 'Assignee = Byte Blaze'
+
+[7111] button ''
+
+[5671] textbox '' required: False
+
+[6006] button ''
+
+[5957] group ''
+
+[6093] button 'Created date' hasPopup: listbox
+
+[6008] link 'Sort direction'
+
+[6098] link '[Feature suggestion] Support linking to an accessibility statement'
+
+[6100] StaticText '\xa0 1 of 3 checklist items completed'
+
+[6102] StaticText 'byteblaze/a11y-webring.club#71 '
+
+[6103] StaticText '· created '
+
+[5687] time 'Feb 2, 2023 4:51pm EST'
+
+[6836] StaticText '7 months ago'
+
+[6104] StaticText ' by '
+
+[6105] link 'Rohan Kumar'
+
+[6106] StaticText ' \xa0 '
+
+[6108] link 'being discussed'
+
+[6110] link 'feature'
+
+[6843] link 'Assigned to Byte Blaze'
+
+[6844] link ' 1'
+
+[6114] StaticText 'updated '
+
+[5691] time 'Mar 27, 2023 4:17pm EDT'
+
+[6845] StaticText '5 months ago'
+
+[6117] link '[Feature suggestion] WCAG trash panda mode'
+
+[6119] StaticText '\xa0 1 of 3 checklist items completed'
+
+[6121] StaticText 'byteblaze/a11y-webring.club#39 '
+
+[6122] StaticText '· created '
+
+[5697] time 'Jan 22, 2023 2:23pm EST'
+
+[6847] StaticText '7 months ago'
+
+[6123] StaticText ' by '
+
+[6124] link 'Byte Blaze'
+
+[6125] StaticText ' \xa0 '
+
+[6127] link 'feature'
+
+[6129] link 'help wanted'
+
+[6854] link 'Assigned to Byte Blaze'
+
+[6855] link ' 0'
+
+[6133] StaticText 'updated '
+
+[5701] time 'Mar 27, 2023 4:17pm EDT'
+
+[6856] StaticText '5 months ago'
+
+[6136] link '[Feature suggestion] Add a submission form'
+
+[6138] StaticText '\xa0 1 of 3 checklist items completed'
+
+[6140] StaticText 'byteblaze/a11y-webring.club#30 '
+
+[6141] StaticText '· created '
+
+[5707] time 'Jan 20, 2023 3:16pm EST'
+
+[6858] StaticText '7 months ago'
+
+[6142] StaticText ' by '
+
+[6143] link 'Byte Blaze'
+
+[6144] StaticText ' \xa0 '
+
+[6146] link 'feature'
+
+[6863] link 'Assigned to Byte Blaze'
+
+[6864] link ' 0'
+
+[6150] StaticText 'updated '
+
+[5711] time 'Mar 27, 2023 4:17pm EDT'
+
+[6865] StaticText '5 months ago'
+
+[6153] link '[Feature suggestion] Color theme slider'
+
+[6155] StaticText '\xa0 1 of 3 checklist items completed'
+
+[6157] StaticText 'byteblaze/a11y-webring.club#21 '
+
+[6158] StaticText '· created '
+
+[5717] time 'Jan 18, 2023 10:58pm EST'
+
+[6867] StaticText '7 months ago'
+
+[6159] StaticText ' by '
+
+[6160] link 'Byte Blaze'
+
+[6161] StaticText ' \xa0 '
+
+[6163] link 'feature'
+
+[6165] link 'help wanted'
+
+[6874] link 'Assigned to Byte Blaze'
+
+[6875] link ' 0'
+
+[6169] StaticText 'updated '
+
+[5721] time 'Mar 27, 2023 4:17pm EDT'
+
+[6876] StaticText '5 months ago'
+
+[6172] link 'Link to WCAG 2.1 instead of 2.0?'
+
+[6174] StaticText 'a11yproject/a11yproject.com#1460 '
+
+[6175] StaticText '· created '
+
+[5727] time 'Aug 11, 2022 12:10pm EDT'
+
+[6878] StaticText '1 year ago'
+
+[6176] StaticText ' by '
+
+[6177] link 'Byte Blaze'
+
+[6178] StaticText ' \xa0 '
+
+[6180] link 'claimed'
+
+[6182] link 'content'
+
+[6885] link 'Assigned to Byte Blaze'
+
+[6886] link ' 0'
+
+[6186] StaticText 'updated '
+
+[5731] time 'Mar 23, 2023 4:42am EDT'
+
+[6887] StaticText '5 months ago'
+
+[6189] link 'The process for writing for us is both scattered and buried'
+
+[6191] StaticText 'a11yproject/a11yproject.com#1360 '
+
+[6192] StaticText '· created '
+
+[5737] time 'Oct 10, 2021 8:35pm EDT'
+
+[6889] StaticText '1 year ago'
+
+[6193] StaticText ' by '
+
+[6194] link 'Byte Blaze'
+
+[6195] StaticText ' \xa0 '
+
+[6197] link 'content'
+
+[6199] link 'design'
+
+[6896] link 'Assigned to Byte Blaze'
+
+[6897] link ' 2'
+
+[6203] StaticText 'updated '
+
+[5741] time 'Mar 23, 2023 4:41am EDT'
+
+[6898] StaticText '5 months ago'
+
+[6206] link 'Non-Github contribution guidelines need clarification'
+
+[6208] StaticText 'a11yproject/a11yproject.com#1294 '
+
+[6209] StaticText '· created '
+
+[5747] time 'Jun 16, 2021 10:18pm EDT'
+
+[6900] StaticText '2 years ago'
+
+[6210] StaticText ' by '
+
+[6211] link 'Byte Blaze'
+
+[6212] StaticText ' \xa0 '
+
+[6214] link 'claimed'
+
+[6216] link 'content'
+
+[6907] link 'Assigned to Byte Blaze'
+
+[6908] link ' 2'
+
+[6220] StaticText 'updated '
+
+[5751] time 'Mar 23, 2023 4:41am EDT'
+
+[6909] StaticText '5 months ago'
+
+[6223] link 'Outdated dependencies'
+
+[6225] StaticText 'byteblaze/empathy-prompts#18 '
+
+[6226] StaticText '· created '
+
+[5757] time 'Jun 1, 2021 8:52pm EDT'
+
+[6911] StaticText '2 years ago'
+
+[6227] StaticText ' by '
+
+[6228] link 'Byte Blaze'
+
+[6229] StaticText ' \xa0 '
+
+[6231] link '[Priority] Critical'
+
+[6233] link '[Status] Submitted'
+
+[6235] link '[Type] Bug'
+
+[6920] link 'Assigned to Byte Blaze'
+
+[6921] link ' 0'
+
+[6239] StaticText 'updated '
+
+[5761] time 'Mar 27, 2023 4:16pm EDT'
+
+[6922] StaticText '5 months ago'</pre><div>
+
+[4777] where [4777] is link 'Issues'</div>
+
+[6017]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the GitLab dashboard showing a list of issues. The objective is to create an issue in the "cloud-to-butt" repository with a specific title, assign it to myself, and set the due date. \n\nTo achieve this, I will perform the following actions:\n1. Click on the "Create new..." link to create a new issue.\n2. Fill in the title of the issue as "Let\'s keep the project alive".\n3. Assign the issue to myself.\n4. Set the due date to the end of Q1 2033.\n\nIn summary, the next action I will perform is `click [6017]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[5644] RootWebArea 'Issues · Dashboard · GitLab' focused: True
+
+[5840] link 'Skip to content'
+
+[5961] link 'Dashboard'
+
+[6011] button '' hasPopup: menu expanded: False
+
+[5656] textbox 'Search GitLab' required: False
+
+[6988] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6017] link 'Create new...'
+
+[6019] link 'Issues'
+
+[6405] generic '13 assigned issues'
+
+[6020] link 'Merge requests'
+
+[6407] generic '8 merge requests'
+
+[6022] link 'To-Do List'
+
+[6423] generic 'Todos count'
+
+[7009] StaticText '5'
+
+[6023] link 'Help'
+
+[6025] link 'Byte Blaze'
+
+[6457] img 'Byte Blaze'
+
+[5660] main ''
+
+[5940] heading 'Issues'
+
+[5994] link 'Select project to create issue'
+
+[5995] button 'Toggle project select'
+
+[5996] link 'Open 13'
+
+[5997] link 'Closed 53'
+
+[5998] link 'All 66'
+
+[5947] link 'Subscribe to RSS feed'
+
+[5948] link 'Subscribe to calendar'
+
+[6051] button 'Recent searches'
+
+[5673] button 'Assignee = Byte Blaze'
+
+[7111] button ''
+
+[5671] textbox '' required: False
+
+[6006] button ''
+
+[5957] group ''
+
+[6093] button 'Created date' hasPopup: listbox
+
+[6008] link 'Sort direction'
+
+[6098] link '[Feature suggestion] Support linking to an accessibility statement'
+
+[6100] StaticText '\xa0 1 of 3 checklist items completed'
+
+[6102] StaticText 'byteblaze/a11y-webring.club#71 '
+
+[6103] StaticText '· created '
+
+[5687] time 'Feb 2, 2023 4:51pm EST'
+
+[6836] StaticText '7 months ago'
+
+[6104] StaticText ' by '
+
+[6105] link 'Rohan Kumar'
+
+[6106] StaticText ' \xa0 '
+
+[6108] link 'being discussed'
+
+[6110] link 'feature'
+
+[6843] link 'Assigned to Byte Blaze'
+
+[6844] link ' 1'
+
+[6114] StaticText 'updated '
+
+[5691] time 'Mar 27, 2023 4:17pm EDT'
+
+[6845] StaticText '5 months ago'
+
+[6117] link '[Feature suggestion] WCAG trash panda mode'
+
+[6119] StaticText '\xa0 1 of 3 checklist items completed'
+
+[6121] StaticText 'byteblaze/a11y-webring.club#39 '
+
+[6122] StaticText '· created '
+
+[5697] time 'Jan 22, 2023 2:23pm EST'
+
+[6847] StaticText '7 months ago'
+
+[6123] StaticText ' by '
+
+[6124] link 'Byte Blaze'
+
+[6125] StaticText ' \xa0 '
+
+[6127] link 'feature'
+
+[6129] link 'help wanted'
+
+[6854] link 'Assigned to Byte Blaze'
+
+[6855] link ' 0'
+
+[6133] StaticText 'updated '
+
+[5701] time 'Mar 27, 2023 4:17pm EDT'
+
+[6856] StaticText '5 months ago'
+
+[6136] link '[Feature suggestion] Add a submission form'
+
+[6138] StaticText '\xa0 1 of 3 checklist items completed'
+
+[6140] StaticText 'byteblaze/a11y-webring.club#30 '
+
+[6141] StaticText '· created '
+
+[5707] time 'Jan 20, 2023 3:16pm EST'
+
+[6858] StaticText '7 months ago'
+
+[6142] StaticText ' by '
+
+[6143] link 'Byte Blaze'
+
+[6144] StaticText ' \xa0 '
+
+[6146] link 'feature'
+
+[6863] link 'Assigned to Byte Blaze'
+
+[6864] link ' 0'
+
+[6150] StaticText 'updated '
+
+[5711] time 'Mar 27, 2023 4:17pm EDT'
+
+[6865] StaticText '5 months ago'
+
+[6153] link '[Feature suggestion] Color theme slider'
+
+[6155] StaticText '\xa0 1 of 3 checklist items completed'
+
+[6157] StaticText 'byteblaze/a11y-webring.club#21 '
+
+[6158] StaticText '· created '
+
+[5717] time 'Jan 18, 2023 10:58pm EST'
+
+[6867] StaticText '7 months ago'
+
+[6159] StaticText ' by '
+
+[6160] link 'Byte Blaze'
+
+[6161] StaticText ' \xa0 '
+
+[6163] link 'feature'
+
+[6165] link 'help wanted'
+
+[6874] link 'Assigned to Byte Blaze'
+
+[6875] link ' 0'
+
+[6169] StaticText 'updated '
+
+[5721] time 'Mar 27, 2023 4:17pm EDT'
+
+[6876] StaticText '5 months ago'
+
+[6172] link 'Link to WCAG 2.1 instead of 2.0?'
+
+[6174] StaticText 'a11yproject/a11yproject.com#1460 '
+
+[6175] StaticText '· created '
+
+[5727] time 'Aug 11, 2022 12:10pm EDT'
+
+[6878] StaticText '1 year ago'
+
+[6176] StaticText ' by '
+
+[6177] link 'Byte Blaze'
+
+[6178] StaticText ' \xa0 '
+
+[6180] link 'claimed'
+
+[6182] link 'content'
+
+[6885] link 'Assigned to Byte Blaze'
+
+[6886] link ' 0'
+
+[6186] StaticText 'updated '
+
+[5731] time 'Mar 23, 2023 4:42am EDT'
+
+[6887] StaticText '5 months ago'
+
+[6189] link 'The process for writing for us is both scattered and buried'
+
+[6191] StaticText 'a11yproject/a11yproject.com#1360 '
+
+[6192] StaticText '· created '
+
+[5737] time 'Oct 10, 2021 8:35pm EDT'
+
+[6889] StaticText '1 year ago'
+
+[6193] StaticText ' by '
+
+[6194] link 'Byte Blaze'
+
+[6195] StaticText ' \xa0 '
+
+[6197] link 'content'
+
+[6199] link 'design'
+
+[6896] link 'Assigned to Byte Blaze'
+
+[6897] link ' 2'
+
+[6203] StaticText 'updated '
+
+[5741] time 'Mar 23, 2023 4:41am EDT'
+
+[6898] StaticText '5 months ago'
+
+[6206] link 'Non-Github contribution guidelines need clarification'
+
+[6208] StaticText 'a11yproject/a11yproject.com#1294 '
+
+[6209] StaticText '· created '
+
+[5747] time 'Jun 16, 2021 10:18pm EDT'
+
+[6900] StaticText '2 years ago'
+
+[6210] StaticText ' by '
+
+[6211] link 'Byte Blaze'
+
+[6212] StaticText ' \xa0 '
+
+[6214] link 'claimed'
+
+[6216] link 'content'
+
+[6907] link 'Assigned to Byte Blaze'
+
+[6908] link ' 2'
+
+[6220] StaticText 'updated '
+
+[5751] time 'Mar 23, 2023 4:41am EDT'
+
+[6909] StaticText '5 months ago'
+
+[6223] link 'Outdated dependencies'
+
+[6225] StaticText 'byteblaze/empathy-prompts#18 '
+
+[6226] StaticText '· created '
+
+[5757] time 'Jun 1, 2021 8:52pm EDT'
+
+[6911] StaticText '2 years ago'
+
+[6227] StaticText ' by '
+
+[6228] link 'Byte Blaze'
+
+[6229] StaticText ' \xa0 '
+
+[6231] link '[Priority] Critical'
+
+[6233] link '[Status] Submitted'
+
+[6235] link '[Type] Bug'
+
+[6920] link 'Assigned to Byte Blaze'
+
+[6921] link ' 0'
+
+[6239] StaticText 'updated '
+
+[5761] time 'Mar 27, 2023 4:16pm EDT'
+
+[6922] StaticText '5 months ago'</pre><div>
+
+[6017]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[6017]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '6017', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [6017]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [6017] where [6017] is [6017] link 'Create new...'</pre></div></div>
+
+[5644] RootWebArea 'Issues · Dashboard · GitLab' focused: True
+
+[5840] link 'Skip to content'
+
+[5961] link 'Dashboard'
+
+[6011] button '' hasPopup: menu expanded: False
+
+[5656] textbox 'Search GitLab' required: False
+
+[6988] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6017] link 'Create new...' focused: True expanded: True describedby: gl-tooltip3
+
+[7125] link 'New project/repository'
+
+[7119] link 'New group'
+
+[7127] link 'New snippet'
+
+[6019] link 'Issues'
+
+[6405] generic '13 assigned issues'
+
+[6020] link 'Merge requests'
+
+[6407] generic '8 merge requests'
+
+[6022] link 'To-Do List'
+
+[6423] generic 'Todos count'
+
+[7009] StaticText '5'
+
+[6023] link 'Help'
+
+[6025] link 'Byte Blaze'
+
+[6457] img 'Byte Blaze'
+
+[5660] main ''
+
+[5940] heading 'Issues'
+
+[5994] link 'Select project to create issue'
+
+[5995] button 'Toggle project select'
+
+[5996] link 'Open 13'
+
+[5997] link 'Closed 53'
+
+[5998] link 'All 66'
+
+[5947] link 'Subscribe to RSS feed'
+
+[5948] link 'Subscribe to calendar'
+
+[6051] button 'Recent searches'
+
+[5673] button 'Assignee = Byte Blaze'
+
+[7111] button ''
+
+[5671] textbox '' required: False
+
+[6006] button ''
+
+[5957] group ''
+
+[6093] button 'Created date' hasPopup: listbox
+
+[6008] link 'Sort direction'
+
+[6098] link '[Feature suggestion] Support linking to an accessibility statement'
+
+[6100] StaticText '\xa0 1 of 3 checklist items completed'
+
+[6102] StaticText 'byteblaze/a11y-webring.club#71 '
+
+[6103] StaticText '· created '
+
+[5687] time 'Feb 2, 2023 4:51pm EST'
+
+[6836] StaticText '7 months ago'
+
+[6104] StaticText ' by '
+
+[6105] link 'Rohan Kumar'
+
+[6106] StaticText ' \xa0 '
+
+[6108] link 'being discussed'
+
+[6110] link 'feature'
+
+[6843] link 'Assigned to Byte Blaze'
+
+[6844] link ' 1'
+
+[6114] StaticText 'updated '
+
+[5691] time 'Mar 27, 2023 4:17pm EDT'
+
+[6845] StaticText '5 months ago'
+
+[6117] link '[Feature suggestion] WCAG trash panda mode'
+
+[6119] StaticText '\xa0 1 of 3 checklist items completed'
+
+[6121] StaticText 'byteblaze/a11y-webring.club#39 '
+
+[6122] StaticText '· created '
+
+[5697] time 'Jan 22, 2023 2:23pm EST'
+
+[6847] StaticText '7 months ago'
+
+[6123] StaticText ' by '
+
+[6124] link 'Byte Blaze'
+
+[6125] StaticText ' \xa0 '
+
+[6127] link 'feature'
+
+[6129] link 'help wanted'
+
+[6854] link 'Assigned to Byte Blaze'
+
+[6855] link ' 0'
+
+[6133] StaticText 'updated '
+
+[5701] time 'Mar 27, 2023 4:17pm EDT'
+
+[6856] StaticText '5 months ago'
+
+[6136] link '[Feature suggestion] Add a submission form'
+
+[6138] StaticText '\xa0 1 of 3 checklist items completed'
+
+[6140] StaticText 'byteblaze/a11y-webring.club#30 '
+
+[6141] StaticText '· created '
+
+[5707] time 'Jan 20, 2023 3:16pm EST'
+
+[6858] StaticText '7 months ago'
+
+[6142] StaticText ' by '
+
+[6143] link 'Byte Blaze'
+
+[6144] StaticText ' \xa0 '
+
+[6146] link 'feature'
+
+[6863] link 'Assigned to Byte Blaze'
+
+[6864] link ' 0'
+
+[6150] StaticText 'updated '
+
+[5711] time 'Mar 27, 2023 4:17pm EDT'
+
+[6865] StaticText '5 months ago'
+
+[6153] link '[Feature suggestion] Color theme slider'
+
+[6155] StaticText '\xa0 1 of 3 checklist items completed'
+
+[6157] StaticText 'byteblaze/a11y-webring.club#21 '
+
+[6158] StaticText '· created '
+
+[5717] time 'Jan 18, 2023 10:58pm EST'
+
+[6867] StaticText '7 months ago'
+
+[6159] StaticText ' by '
+
+[6160] link 'Byte Blaze'
+
+[6161] StaticText ' \xa0 '
+
+[6163] link 'feature'
+
+[6165] link 'help wanted'
+
+[6874] link 'Assigned to Byte Blaze'
+
+[6875] link ' 0'
+
+[6169] StaticText 'updated '
+
+[5721] time 'Mar 27, 2023 4:17pm EDT'
+
+[6876] StaticText '5 months ago'
+
+[6172] link 'Link to WCAG 2.1 instead of 2.0?'
+
+[6174] StaticText 'a11yproject/a11yproject.com#1460 '
+
+[6175] StaticText '· created '
+
+[5727] time 'Aug 11, 2022 12:10pm EDT'
+
+[6878] StaticText '1 year ago'
+
+[6176] StaticText ' by '
+
+[6177] link 'Byte Blaze'
+
+[6178] StaticText ' \xa0 '
+
+[6180] link 'claimed'
+
+[6182] link 'content'
+
+[6885] link 'Assigned to Byte Blaze'
+
+[6886] link ' 0'
+
+[6186] StaticText 'updated '
+
+[5731] time 'Mar 23, 2023 4:42am EDT'
+
+[6887] StaticText '5 months ago'
+
+[6189] link 'The process for writing for us is both scattered and buried'
+
+[6191] StaticText 'a11yproject/a11yproject.com#1360 '
+
+[6192] StaticText '· created '
+
+[5737] time 'Oct 10, 2021 8:35pm EDT'
+
+[6889] StaticText '1 year ago'
+
+[6193] StaticText ' by '
+
+[6194] link 'Byte Blaze'
+
+[6195] StaticText ' \xa0 '
+
+[6197] link 'content'
+
+[6199] link 'design'
+
+[6896] link 'Assigned to Byte Blaze'
+
+[6897] link ' 2'
+
+[6203] StaticText 'updated '
+
+[5741] time 'Mar 23, 2023 4:41am EDT'
+
+[6898] StaticText '5 months ago'
+
+[6206] link 'Non-Github contribution guidelines need clarification'
+
+[6208] StaticText 'a11yproject/a11yproject.com#1294 '
+
+[6209] StaticText '· created '
+
+[5747] time 'Jun 16, 2021 10:18pm EDT'
+
+[6900] StaticText '2 years ago'
+
+[6210] StaticText ' by '
+
+[6211] link 'Byte Blaze'
+
+[6212] StaticText ' \xa0 '
+
+[6214] link 'claimed'
+
+[6216] link 'content'
+
+[6907] link 'Assigned to Byte Blaze'
+
+[6908] link ' 2'
+
+[6220] StaticText 'updated '
+
+[5751] time 'Mar 23, 2023 4:41am EDT'
+
+[6909] StaticText '5 months ago'
+
+[6223] link 'Outdated dependencies'
+
+[6225] StaticText 'byteblaze/empathy-prompts#18 '
+
+[6226] StaticText '· created '
+
+[5757] time 'Jun 1, 2021 8:52pm EDT'
+
+[6911] StaticText '2 years ago'
+
+[6227] StaticText ' by '
+
+[6228] link 'Byte Blaze'
+
+[6229] StaticText ' \xa0 '
+
+[6231] link '[Priority] Critical'
+
+[6233] link '[Status] Submitted'
+
+[6235] link '[Type] Bug'
+
+[6920] link 'Assigned to Byte Blaze'
+
+[6921] link ' 0'
+
+[6239] StaticText 'updated '
+
+[5761] time 'Mar 27, 2023 4:16pm EDT'
+
+[6922] StaticText '5 months ago'
+
+[7130] tooltip 'Create new...'</pre><div>
+
+[6017] where [6017] is link 'Create new...'</div>
+
+[7119]``` to select the "cloud-to-butt" repository.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '7119', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to create an issue in the "cloud-to-butt" repository with a specific title, assign it to myself, and set a due date.\n\n1. I have clicked on the "Create new..." link to create a new issue.\n2. Now I need to select the repository "cloud-to-butt".\n3. Next, I need to enter the issue title as "Let\'s keep the project alive".\n4. Then, I need to assign the issue to myself.\n5. Finally, I need to set the due date to the end of Q1 2033.\n\nIn summary, the next action I will perform is ```click [7119]``` to select the "cloud-to-butt" repository.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [7119] where [7119] is [7119] link 'New group'</pre></div></div>
+
+[7195] RootWebArea 'New Group · GitLab' focused: True
+
+[7285] link 'Skip to content'
+
+[7601] link 'Dashboard'
+
+[7661] button '' hasPopup: menu expanded: False
+
+[7207] textbox 'Search GitLab' required: False
+
+[7850] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7667] link 'Create new...'
+
+[7669] link 'Issues'
+
+[7754] generic '13 assigned issues'
+
+[7670] link 'Merge requests'
+
+[7756] generic '8 merge requests'
+
+[7672] link 'To-Do List'
+
+[7772] generic 'Todos count'
+
+[7673] link 'Help'
+
+[7675] link 'Byte Blaze'
+
+[7806] img 'Byte Blaze'
+
+[7211] main ''
+
+[7385] heading 'Create new group'
+
+[7390] link 'Create group Assemble related projects together and grant members access to several projects at once.'
+
+[7394] heading 'Create group'
+
+[7398] link 'Import group Import a group and related data from another GitLab instance.'
+
+[7402] heading 'Import group'</pre><div>
+
+[7119] where [7119] is link 'New group'</div>
+
+[7888] RootWebArea 'Issues · Dashboard · GitLab' focused: True
+
+[8084] link 'Skip to content'
+
+[8205] link 'Dashboard'
+
+[8255] button '' hasPopup: menu expanded: False
+
+[7900] textbox 'Search GitLab' required: False
+
+[9232] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8261] link 'Create new...'
+
+[8263] link 'Issues'
+
+[8649] generic '13 assigned issues'
+
+[8264] link 'Merge requests'
+
+[8651] generic '8 merge requests'
+
+[8266] link 'To-Do List'
+
+[8667] generic 'Todos count'
+
+[8267] link 'Help'
+
+[8269] link 'Byte Blaze'
+
+[8701] img 'Byte Blaze'
+
+[7904] main ''
+
+[8184] heading 'Issues'
+
+[8238] link 'Select project to create issue'
+
+[8239] button 'Toggle project select'
+
+[8240] link 'Open 13'
+
+[8241] link 'Closed 53'
+
+[8242] link 'All 66'
+
+[8191] link 'Subscribe to RSS feed'
+
+[8192] link 'Subscribe to calendar'
+
+[8295] button 'Recent searches'
+
+[7917] button 'Assignee = Byte Blaze'
+
+[9355] button ''
+
+[7915] textbox '' required: False
+
+[8250] button ''
+
+[8201] group ''
+
+[8337] button 'Created date' hasPopup: listbox
+
+[8252] link 'Sort direction'
+
+[8342] link '[Feature suggestion] Support linking to an accessibility statement'
+
+[8344] StaticText '\xa0 1 of 3 checklist items completed'
+
+[8346] StaticText 'byteblaze/a11y-webring.club#71 '
+
+[8347] StaticText '· created '
+
+[7940] time 'Feb 2, 2023 4:51pm EST'
+
+[9080] StaticText '7 months ago'
+
+[8348] StaticText ' by '
+
+[8349] link 'Rohan Kumar'
+
+[8350] StaticText ' \xa0 '
+
+[8352] link 'being discussed'
+
+[8354] link 'feature'
+
+[9087] link 'Assigned to Byte Blaze'
+
+[9088] link ' 1'
+
+[8358] StaticText 'updated '
+
+[7944] time 'Mar 27, 2023 4:17pm EDT'
+
+[9089] StaticText '5 months ago'
+
+[8361] link '[Feature suggestion] WCAG trash panda mode'
+
+[8363] StaticText '\xa0 1 of 3 checklist items completed'
+
+[8365] StaticText 'byteblaze/a11y-webring.club#39 '
+
+[8366] StaticText '· created '
+
+[7950] time 'Jan 22, 2023 2:23pm EST'
+
+[9091] StaticText '7 months ago'
+
+[8367] StaticText ' by '
+
+[8368] link 'Byte Blaze'
+
+[8369] StaticText ' \xa0 '
+
+[8371] link 'feature'
+
+[8373] link 'help wanted'
+
+[9098] link 'Assigned to Byte Blaze'
+
+[9099] link ' 0'
+
+[8377] StaticText 'updated '
+
+[7954] time 'Mar 27, 2023 4:17pm EDT'
+
+[9100] StaticText '5 months ago'
+
+[8380] link '[Feature suggestion] Add a submission form'
+
+[8382] StaticText '\xa0 1 of 3 checklist items completed'
+
+[8384] StaticText 'byteblaze/a11y-webring.club#30 '
+
+[8385] StaticText '· created '
+
+[7960] time 'Jan 20, 2023 3:16pm EST'
+
+[9102] StaticText '7 months ago'
+
+[8386] StaticText ' by '
+
+[8387] link 'Byte Blaze'
+
+[8388] StaticText ' \xa0 '
+
+[8390] link 'feature'
+
+[9107] link 'Assigned to Byte Blaze'
+
+[9108] link ' 0'
+
+[8394] StaticText 'updated '
+
+[7964] time 'Mar 27, 2023 4:17pm EDT'
+
+[9109] StaticText '5 months ago'
+
+[8397] link '[Feature suggestion] Color theme slider'
+
+[8399] StaticText '\xa0 1 of 3 checklist items completed'
+
+[8401] StaticText 'byteblaze/a11y-webring.club#21 '
+
+[8402] StaticText '· created '
+
+[7970] time 'Jan 18, 2023 10:58pm EST'
+
+[9111] StaticText '7 months ago'
+
+[8403] StaticText ' by '
+
+[8404] link 'Byte Blaze'
+
+[8405] StaticText ' \xa0 '
+
+[8407] link 'feature'
+
+[8409] link 'help wanted'
+
+[9118] link 'Assigned to Byte Blaze'
+
+[9119] link ' 0'
+
+[8413] StaticText 'updated '
+
+[7974] time 'Mar 27, 2023 4:17pm EDT'
+
+[9120] StaticText '5 months ago'
+
+[8416] link 'Link to WCAG 2.1 instead of 2.0?'
+
+[8418] StaticText 'a11yproject/a11yproject.com#1460 '
+
+[8419] StaticText '· created '
+
+[7980] time 'Aug 11, 2022 12:10pm EDT'
+
+[9122] StaticText '1 year ago'
+
+[8420] StaticText ' by '
+
+[8421] link 'Byte Blaze'
+
+[8422] StaticText ' \xa0 '
+
+[8424] link 'claimed'
+
+[8426] link 'content'
+
+[9129] link 'Assigned to Byte Blaze'
+
+[9130] link ' 0'
+
+[8430] StaticText 'updated '
+
+[7984] time 'Mar 23, 2023 4:42am EDT'
+
+[9131] StaticText '5 months ago'
+
+[8433] link 'The process for writing for us is both scattered and buried'
+
+[8435] StaticText 'a11yproject/a11yproject.com#1360 '
+
+[8436] StaticText '· created '
+
+[7990] time 'Oct 10, 2021 8:35pm EDT'
+
+[9133] StaticText '1 year ago'
+
+[8437] StaticText ' by '
+
+[8438] link 'Byte Blaze'
+
+[8439] StaticText ' \xa0 '
+
+[8441] link 'content'
+
+[8443] link 'design'
+
+[9140] link 'Assigned to Byte Blaze'
+
+[9141] link ' 2'
+
+[8447] StaticText 'updated '
+
+[7994] time 'Mar 23, 2023 4:41am EDT'
+
+[9142] StaticText '5 months ago'
+
+[8450] link 'Non-Github contribution guidelines need clarification'
+
+[8452] StaticText 'a11yproject/a11yproject.com#1294 '
+
+[8453] StaticText '· created '
+
+[8000] time 'Jun 16, 2021 10:18pm EDT'
+
+[9144] StaticText '2 years ago'
+
+[8454] StaticText ' by '
+
+[8455] link 'Byte Blaze'
+
+[8456] StaticText ' \xa0 '
+
+[8458] link 'claimed'
+
+[8460] link 'content'
+
+[9151] link 'Assigned to Byte Blaze'
+
+[9152] link ' 2'
+
+[8464] StaticText 'updated '
+
+[8004] time 'Mar 23, 2023 4:41am EDT'
+
+[9153] StaticText '5 months ago'
+
+[8467] link 'Outdated dependencies'
+
+[8469] StaticText 'byteblaze/empathy-prompts#18 '
+
+[8470] StaticText '· created '
+
+[8010] time 'Jun 1, 2021 8:52pm EDT'
+
+[9155] StaticText '2 years ago'
+
+[8471] StaticText ' by '
+
+[8472] link 'Byte Blaze'
+
+[8473] StaticText ' \xa0 '
+
+[8475] link '[Priority] Critical'
+
+[8477] link '[Status] Submitted'
+
+[8479] link '[Type] Bug'
+
+[9164] link 'Assigned to Byte Blaze'
+
+[9165] link ' 0'
+
+[8483] StaticText 'updated '
+
+[8014] time 'Mar 27, 2023 4:16pm EDT'
+
+[9166] StaticText '5 months ago'</pre><div>
+
+[8261]``` to create a new issue.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '8261', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. Based on the observation, we are on the GitLab dashboard. To create an issue in the "cloud-to-butt" repository, I need to click on "Create new...". Then, I will fill in the necessary information, including the issue title, assignment to myself, and the due date. In summary, the next action I will perform is ```click [8261]``` to create a new issue.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [8261] where [8261] is [8261] link 'Create new...'</pre></div></div>
+
+[7888] RootWebArea 'Issues · Dashboard · GitLab' focused: True
+
+[8084] link 'Skip to content'
+
+[8205] link 'Dashboard'
+
+[8255] button '' hasPopup: menu expanded: False
+
+[7900] textbox 'Search GitLab' required: False
+
+[9232] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8261] link 'Create new...' focused: True expanded: True describedby: gl-tooltip3
+
+[9372] link 'New project/repository'
+
+[9366] link 'New group'
+
+[9369] link 'New snippet'
+
+[8263] link 'Issues'
+
+[8649] generic '13 assigned issues'
+
+[8264] link 'Merge requests'
+
+[8651] generic '8 merge requests'
+
+[8266] link 'To-Do List'
+
+[8667] generic 'Todos count'
+
+[8267] link 'Help'
+
+[8269] link 'Byte Blaze'
+
+[8701] img 'Byte Blaze'
+
+[7904] main ''
+
+[8184] heading 'Issues'
+
+[8238] link 'Select project to create issue'
+
+[8239] button 'Toggle project select'
+
+[8240] link 'Open 13'
+
+[8241] link 'Closed 53'
+
+[8242] link 'All 66'
+
+[8191] link 'Subscribe to RSS feed'
+
+[8192] link 'Subscribe to calendar'
+
+[8295] button 'Recent searches'
+
+[7917] button 'Assignee = Byte Blaze'
+
+[9355] button ''
+
+[7915] textbox '' required: False
+
+[8250] button ''
+
+[8201] group ''
+
+[8337] button 'Created date' hasPopup: listbox
+
+[8252] link 'Sort direction'
+
+[8342] link '[Feature suggestion] Support linking to an accessibility statement'
+
+[8344] StaticText '\xa0 1 of 3 checklist items completed'
+
+[8346] StaticText 'byteblaze/a11y-webring.club#71 '
+
+[8347] StaticText '· created '
+
+[7940] time 'Feb 2, 2023 4:51pm EST'
+
+[9080] StaticText '7 months ago'
+
+[8348] StaticText ' by '
+
+[8349] link 'Rohan Kumar'
+
+[8350] StaticText ' \xa0 '
+
+[8352] link 'being discussed'
+
+[8354] link 'feature'
+
+[9087] link 'Assigned to Byte Blaze'
+
+[9088] link ' 1'
+
+[8358] StaticText 'updated '
+
+[7944] time 'Mar 27, 2023 4:17pm EDT'
+
+[9089] StaticText '5 months ago'
+
+[8361] link '[Feature suggestion] WCAG trash panda mode'
+
+[8363] StaticText '\xa0 1 of 3 checklist items completed'
+
+[8365] StaticText 'byteblaze/a11y-webring.club#39 '
+
+[8366] StaticText '· created '
+
+[7950] time 'Jan 22, 2023 2:23pm EST'
+
+[9091] StaticText '7 months ago'
+
+[8367] StaticText ' by '
+
+[8368] link 'Byte Blaze'
+
+[8369] StaticText ' \xa0 '
+
+[8371] link 'feature'
+
+[8373] link 'help wanted'
+
+[9098] link 'Assigned to Byte Blaze'
+
+[9099] link ' 0'
+
+[8377] StaticText 'updated '
+
+[7954] time 'Mar 27, 2023 4:17pm EDT'
+
+[9100] StaticText '5 months ago'
+
+[8380] link '[Feature suggestion] Add a submission form'
+
+[8382] StaticText '\xa0 1 of 3 checklist items completed'
+
+[8384] StaticText 'byteblaze/a11y-webring.club#30 '
+
+[8385] StaticText '· created '
+
+[7960] time 'Jan 20, 2023 3:16pm EST'
+
+[9102] StaticText '7 months ago'
+
+[8386] StaticText ' by '
+
+[8387] link 'Byte Blaze'
+
+[8388] StaticText ' \xa0 '
+
+[8390] link 'feature'
+
+[9107] link 'Assigned to Byte Blaze'
+
+[9108] link ' 0'
+
+[8394] StaticText 'updated '
+
+[7964] time 'Mar 27, 2023 4:17pm EDT'
+
+[9109] StaticText '5 months ago'
+
+[8397] link '[Feature suggestion] Color theme slider'
+
+[8399] StaticText '\xa0 1 of 3 checklist items completed'
+
+[8401] StaticText 'byteblaze/a11y-webring.club#21 '
+
+[8402] StaticText '· created '
+
+[7970] time 'Jan 18, 2023 10:58pm EST'
+
+[9111] StaticText '7 months ago'
+
+[8403] StaticText ' by '
+
+[8404] link 'Byte Blaze'
+
+[8405] StaticText ' \xa0 '
+
+[8407] link 'feature'
+
+[8409] link 'help wanted'
+
+[9118] link 'Assigned to Byte Blaze'
+
+[9119] link ' 0'
+
+[8413] StaticText 'updated '
+
+[7974] time 'Mar 27, 2023 4:17pm EDT'
+
+[9120] StaticText '5 months ago'
+
+[8416] link 'Link to WCAG 2.1 instead of 2.0?'
+
+[8418] StaticText 'a11yproject/a11yproject.com#1460 '
+
+[8419] StaticText '· created '
+
+[7980] time 'Aug 11, 2022 12:10pm EDT'
+
+[9122] StaticText '1 year ago'
+
+[8420] StaticText ' by '
+
+[8421] link 'Byte Blaze'
+
+[8422] StaticText ' \xa0 '
+
+[8424] link 'claimed'
+
+[8426] link 'content'
+
+[9129] link 'Assigned to Byte Blaze'
+
+[9130] link ' 0'
+
+[8430] StaticText 'updated '
+
+[7984] time 'Mar 23, 2023 4:42am EDT'
+
+[9131] StaticText '5 months ago'
+
+[8433] link 'The process for writing for us is both scattered and buried'
+
+[8435] StaticText 'a11yproject/a11yproject.com#1360 '
+
+[8436] StaticText '· created '
+
+[7990] time 'Oct 10, 2021 8:35pm EDT'
+
+[9133] StaticText '1 year ago'
+
+[8437] StaticText ' by '
+
+[8438] link 'Byte Blaze'
+
+[8439] StaticText ' \xa0 '
+
+[8441] link 'content'
+
+[8443] link 'design'
+
+[9140] link 'Assigned to Byte Blaze'
+
+[9141] link ' 2'
+
+[8447] StaticText 'updated '
+
+[7994] time 'Mar 23, 2023 4:41am EDT'
+
+[9142] StaticText '5 months ago'
+
+[8450] link 'Non-Github contribution guidelines need clarification'
+
+[8452] StaticText 'a11yproject/a11yproject.com#1294 '
+
+[8453] StaticText '· created '
+
+[8000] time 'Jun 16, 2021 10:18pm EDT'
+
+[9144] StaticText '2 years ago'
+
+[8454] StaticText ' by '
+
+[8455] link 'Byte Blaze'
+
+[8456] StaticText ' \xa0 '
+
+[8458] link 'claimed'
+
+[8460] link 'content'
+
+[9151] link 'Assigned to Byte Blaze'
+
+[9152] link ' 2'
+
+[8464] StaticText 'updated '
+
+[8004] time 'Mar 23, 2023 4:41am EDT'
+
+[9153] StaticText '5 months ago'
+
+[8467] link 'Outdated dependencies'
+
+[8469] StaticText 'byteblaze/empathy-prompts#18 '
+
+[8470] StaticText '· created '
+
+[8010] time 'Jun 1, 2021 8:52pm EDT'
+
+[9155] StaticText '2 years ago'
+
+[8471] StaticText ' by '
+
+[8472] link 'Byte Blaze'
+
+[8473] StaticText ' \xa0 '
+
+[8475] link '[Priority] Critical'
+
+[8477] link '[Status] Submitted'
+
+[8479] link '[Type] Bug'
+
+[9164] link 'Assigned to Byte Blaze'
+
+[9165] link ' 0'
+
+[8483] StaticText 'updated '
+
+[8014] time 'Mar 27, 2023 4:16pm EDT'
+
+[9166] StaticText '5 months ago'
+
+[9374] tooltip 'Create new...'</pre><div>
+
+[8261] where [8261] is link 'Create new...'</div>
+
+[9372]``` to create a new issue.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '9372', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We are currently on the GitLab dashboard page and we want to create a new issue in the "cloud-to-butt" repository. We need to click on the "New project/repository" link. After that, we can fill in the necessary information like the issue title, assignee, and due date. In summary, the next action I will perform is ```click [9372]``` to create a new issue.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [9372] where [9372] is [9372] link 'New project/repository'</pre></div></div>
+
+[9439] RootWebArea 'New Project · GitLab' focused: True
+
+[9694] link 'Skip to content'
+
+[10744] link 'Dashboard'
+
+[10812] button '' hasPopup: menu expanded: False
+
+[9451] textbox 'Search GitLab' required: False
+
+[11001] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[10818] link 'Create new...'
+
+[10820] link 'Issues'
+
+[10905] generic '13 assigned issues'
+
+[10821] link 'Merge requests'
+
+[10907] generic '8 merge requests'
+
+[10823] link 'To-Do List'
+
+[10923] generic 'Todos count'
+
+[11022] StaticText '5'
+
+[10824] link 'Help'
+
+[10826] link 'Byte Blaze'
+
+[10957] img 'Byte Blaze'
+
+[9455] main ''
+
+[9795] heading 'Create new project'
+
+[9802] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[9806] heading 'Create blank project'
+
+[9810] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[9814] heading 'Create from template'
+
+[9818] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[9822] heading 'Import project'
+
+[9827] StaticText 'You can also create a project from the command line. '
+
+[9828] link 'Show command'</pre><div>
+
+[9372] where [9372] is link 'New project/repository'</div>
+
+[9439] RootWebArea 'New Project · GitLab' focused: True
+
+[9694] link 'Skip to content'
+
+[10744] link 'Dashboard'
+
+[10812] button '' hasPopup: menu expanded: False
+
+[9451] textbox 'Search GitLab' required: False
+
+[11001] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[10818] link 'Create new...'
+
+[10820] link 'Issues'
+
+[10905] generic '13 assigned issues'
+
+[10821] link 'Merge requests'
+
+[10907] generic '8 merge requests'
+
+[10823] link 'To-Do List'
+
+[10923] generic 'Todos count'
+
+[11022] StaticText '5'
+
+[10824] link 'Help'
+
+[10826] link 'Byte Blaze'
+
+[10957] img 'Byte Blaze'
+
+[9455] main ''
+
+[9795] heading 'Create new project'
+
+[9802] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[9806] heading 'Create blank project'
+
+[9810] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[9814] heading 'Create from template'
+
+[9818] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[9822] heading 'Import project'
+
+[9827] StaticText 'You can also create a project from the command line. '
+
+[9828] link 'Show command'</pre><div>
+
+[1] RootWebArea '' focused: True</pre><div>
+
+[1] RootWebArea 'Just a moment...'
+
+[4] main ''
+
+[8] heading 'Icon for gitlab.com gitlab.com'
+
+[15] img 'Icon for gitlab.com'
+
+[9] heading 'Checking if the site connection is secure'
+
+[42] Iframe 'Widget containing a Cloudflare security challenge'
+
+[24] StaticText 'gitlab.com needs to review the security of your connection before proceeding.'
+
+[5] contentinfo ''
+
+[35] StaticText 'Ray ID: '
+
+[37] StaticText '80455f15df7c0a13'
+
+[38] StaticText 'Performance & security by '
+
+[39] link 'Cloudflare'</pre><div>
+
+[1] RootWebArea 'Just a moment...'
+
+[4] main ''
+
+[8] heading 'Icon for gitlab.com gitlab.com'
+
+[15] img 'Icon for gitlab.com'
+
+[9] heading 'Checking if the site connection is secure'
+
+[42] Iframe 'Widget containing a Cloudflare security challenge'
+
+[24] StaticText 'gitlab.com needs to review the security of your connection before proceeding.'
+
+[5] contentinfo ''
+
+[35] StaticText 'Ray ID: '
+
+[37] StaticText '80455f15df7c0a13'
+
+[38] StaticText 'Performance & security by '
+
+[39] link 'Cloudflare'</pre><div>
+
+[10]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```wait [10]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Just a moment...'
+
+[4] main ''
+
+[8] heading 'Icon for gitlab.com gitlab.com'
+
+[15] img 'Icon for gitlab.com'
+
+[9] heading 'Checking if the site connection is secure'
+
+[42] Iframe 'Widget containing a Cloudflare security challenge'
+
+[24] StaticText 'gitlab.com needs to review the security of your connection before proceeding.'
+
+[5] contentinfo ''
+
+[35] StaticText 'Ray ID: '
+
+[37] StaticText '80455f15df7c0a13'
+
+[38] StaticText 'Performance & security by '
+
+[39] link 'Cloudflare'</pre><div>
+
+[10]```". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[10]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The current page is a loading page with the title "Just a moment...". Once the page finishes loading, we should be redirected to the sign-in page for GitLab. However, there seems to be an issue with the site connection. We need to wait for the security challenge to complete before proceeding.\n\nIn summary, the next action I will perform is ```wait [10]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Just a moment...'
+
+[4] main ''
+
+[8] heading 'Icon for gitlab.com gitlab.com'
+
+[15] img 'Icon for gitlab.com'
+
+[9] heading 'Checking if the site connection is secure'
+
+[42] Iframe 'Widget containing a Cloudflare security challenge'
+
+[24] StaticText 'gitlab.com needs to review the security of your connection before proceeding.'
+
+[5] contentinfo ''
+
+[35] StaticText 'Ray ID: '
+
+[37] StaticText '80455f15df7c0a13'
+
+[38] StaticText 'Performance & security by '
+
+[39] link 'Cloudflare'</pre><div>
+
+[10]```". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+

@@ -1,0 +1,57 @@
+Tab 0 (current): Default Category (ID: 2) / Categories / Inventory / Catalog / Magento Admin
+
+[6792] RootWebArea 'Default Category (ID: 2) / Categories / Inventory / Catalog / Magento Admin' focused: True
+	[6905] link 'Magento Admin Panel'
+		[6959] img 'Magento Admin Panel'
+	[6797] menubar '' orientation: horizontal
+		[6799] link '\ue604 DASHBOARD'
+		[6803] link '\ue60b SALES'
+		[6807] link '\ue608 CATALOG'
+		[6811] link '\ue603 CUSTOMERS'
+		[6815] link '\ue609 MARKETING'
+		[6819] link '\ue602 CONTENT'
+		[6823] link '\ue60a REPORTS'
+		[6827] link '\ue60d STORES'
+		[6831] link '\ue610 SYSTEM'
+		[6835] link '\ue612 FIND PARTNERS & EXTENSIONS'
+	[7622] button 'System Messages: 2'
+	[7784] StaticText 'One or more of the Cache Types are invalidated: Page Cache, Layouts. Please go to '
+	[7785] link 'Cache Management'
+	[7786] StaticText ' and refresh cache types.'
+	[7006] heading 'Default Category (ID: 2)'
+	[7008] link '\ue600 admin'
+	[7010] link '\ue607'
+	[6887] textbox '\ue60c' required: False
+	[6845] main ''
+		[6977] StaticText 'Scope:'
+		[7015] button 'All Store Views' hasPopup: menu
+		[7018] link '\ue633 What is this?'
+		[6982] button 'Save'
+		[6876] group ''
+			[7916] StaticText 'Enable Category'
+			[6891] checkbox '[store view] Enable Category Yes' checked: true
+			[7924] StaticText 'Include in Menu'
+			[6895] checkbox '[store view] Include in Menu Yes' checked: true
+			[7910] StaticText 'Category Name'
+			[6884] textbox '[store view] Category Name *' required: False
+				[7931] StaticText 'Default Category'
+		[6863] generic '\ue616 Content'
+		[6865] generic '\ue616 Display Settings'
+		[6867] generic '\ue616 Search Engine Optimization'
+		[6869] generic '\ue616 Products in Category'
+		[6871] generic '\ue616 Design'
+		[7771] button 'Add Root Category'
+		[7772] LineBreak '\n'
+		[7773] button 'Add Subcategory'
+		[7774] link 'Collapse All'
+		[7777] StaticText '|'
+		[7779] link 'Expand All'
+		[6857] link 'Default Category (ID: 2) (1181)' focused: True
+		[7968] link "What's New (ID: 38) (0)"
+		[7974] link 'Women (ID: 20) (0)'
+		[7980] link 'Men (ID: 11) (0)'
+		[7986] link 'Gear (ID: 3) (46)'
+		[7992] link 'Collections (ID: 7) (13)'
+		[7998] link 'Training (ID: 9) (0)'
+		[8004] link 'Promotions (ID: 29) (0)'
+		[8010] link 'Sale (ID: 37) (0)'</pre><div>

@@ -1,0 +1,73 @@
+Tab 0 (current): Edit Profile · User Settings · GitLab
+
+[6441] RootWebArea 'Edit Profile · User Settings · GitLab' focused: True
+	[6549] link 'Skip to content'
+	[6697] link 'Dashboard'
+	[6801] button '' hasPopup: menu expanded: False
+	[6453] textbox 'Search GitLab' required: False
+	[7303] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[6807] link 'Create new...'
+	[6809] link 'Issues'
+		[7055] generic '13 assigned issues'
+	[6810] link 'Merge requests'
+		[7057] generic '8 merge requests'
+	[6812] link 'To-Do List'
+		[7073] generic 'Todos count'
+	[6813] link 'Help'
+	[6815] link 'Byte Blaze'
+		[7107] img 'Byte Blaze'
+	[6550] complementary 'User settings'
+		[6730] link 'Byte Blaze User Settings'
+			[6817] img 'Byte Blaze'
+		[6820] link 'Profile'
+		[6822] link 'Account'
+		[6824] link 'Applications'
+		[6826] link 'Chat'
+		[6828] link 'Access Tokens'
+		[6830] link 'Emails'
+		[6832] link 'Password'
+		[6834] link 'Notifications'
+		[6836] link 'SSH Keys'
+		[6838] link 'GPG Keys'
+		[6840] link 'Preferences'
+		[6842] link 'Active Sessions'
+		[6844] link 'Authentication log'
+		[6655] button 'Collapse sidebar'
+	[6554] navigation 'Breadcrumbs'
+		[6849] link 'User Settings'
+		[6851] link 'Edit Profile'
+	[6457] main ''
+		[7456] status '' live: polite atomic: True relevant: additions text
+			[7463] StaticText 'Profile was successfully updated'
+		[7457] button 'Dismiss'
+		[6544] searchbox 'Search page'
+		[6773] heading 'Public avatar'
+		[6853] StaticText 'You can upload your avatar here or change it at '
+		[6854] link 'gravatar.com'
+		[6855] link ''
+		[6776] heading 'Upload new avatar'
+		[6857] button 'Choose file...'
+		[6862] StaticText 'No file chosen.'
+		[6866] StaticText 'The maximum file size allowed is 200KB.'
+		[6779] separator '' orientation: horizontal
+		[6782] heading 'Current status'
+		[6868] StaticText 'This emoji and message will appear on your profile and throughout the interface.'
+		[6463] group ''
+			[6537] button '💬' hasPopup: menu expanded: False
+				[6540] generic 'speech balloon'
+			[6464] textbox "What's your status?" required: False
+				[7373] StaticText 'https://egg.tart.com/https://egg.tart.com/https://egg.tart.com/'
+			[7264] button 'Clear status'
+		[6466] checkbox 'Set yourself as busy Displays that you are busy or not able to respond' checked: false
+		[6516] group 'Clear status after'
+			[6517] group 'Clear status after'
+				[7377] button 'Never' hasPopup: menu expanded: False
+		[6784] separator '' orientation: horizontal
+		[6787] heading 'Time settings'
+		[6878] StaticText 'Set your local time zone.'
+		[6879] StaticText 'Time zone'
+		[6881] button 'Select timezone' hasPopup: menu expanded: False
+		[6790] separator '' orientation: horizontal
+		[6792] heading 'Main settings'
+		[7274] StaticText 'Full name'
+		[7278] StaticText 'User ID'</pre><div>

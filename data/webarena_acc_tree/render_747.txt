@@ -1,0 +1,5796 @@
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[294] link 'Skip to content'
+
+[410] link 'Dashboard'
+
+[488] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1865] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[494] link 'Create new...'
+
+[496] link 'Issues'
+
+[1396] generic '13 assigned issues'
+
+[497] link 'Merge requests'
+
+[1398] generic '8 merge requests'
+
+[499] link 'To-Do List'
+
+[1414] generic 'Todos count'
+
+[1886] StaticText '5'
+
+[500] link 'Help'
+
+[502] link 'Byte Blaze'
+
+[1448] img 'Byte Blaze'
+
+[17] main ''
+
+[395] heading 'Projects'
+
+[398] link 'New project'
+
+[504] link 'Yours 20'
+
+[505] link 'Starred 3'
+
+[506] link 'Explore'
+
+[507] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[462] button 'Name'
+
+[551] link 'All'
+
+[552] link 'Personal'
+
+[553] link 'A'
+
+[556] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[559] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[557] generic 'Public - The project can be accessed without any authentication.'
+
+[565] StaticText 'Owner'
+
+[1504] generic 'lipstick'
+
+[1896] StaticText '💄'
+
+[1505] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[577] link '1'
+
+[578] link '0'
+
+[579] link '0'
+
+[580] link '1'
+
+[589] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[590] StaticText '5 months ago'
+
+[591] link 'A'
+
+[594] heading 'Byte Blaze / a11y-webring.club'
+
+[597] link 'Byte Blaze / a11y-webring.club'
+
+[595] generic 'Public - The project can be accessed without any authentication.'
+
+[603] StaticText 'Owner'
+
+[1523] generic 'globe with meridians'
+
+[1897] StaticText '🌐'
+
+[1524] StaticText ' A webring for digital accessibility practitioners.'
+
+[615] link '2'
+
+[616] link '0'
+
+[617] link '1'
+
+[618] link '4'
+
+[627] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[628] StaticText '5 months ago'
+
+[629] link 'A'
+
+[632] heading 'The A11Y Project / a11yproject.com'
+
+[635] link 'The A11Y Project / a11yproject.com'
+
+[633] generic 'Public - The project can be accessed without any authentication.'
+
+[641] StaticText 'Maintainer'
+
+[1542] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[653] link '21'
+
+[654] link '0'
+
+[655] link '10'
+
+[656] link '40'
+
+[665] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[666] StaticText '5 months ago'
+
+[667] link 'A'
+
+[670] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[673] link 'Byte Blaze / accessible-html-content-patterns'
+
+[671] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[679] StaticText 'Owner'
+
+[1560] generic 'wheelchair symbol'
+
+[1898] StaticText '♿'
+
+[1561] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[691] link '1'
+
+[692] link '0'
+
+[693] link '0'
+
+[694] link '0'
+
+[703] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[704] StaticText '5 months ago'
+
+[705] link ''
+
+[708] heading 'Byte Blaze / cloud-to-butt'
+
+[711] link 'Byte Blaze / cloud-to-butt'
+
+[709] generic 'Public - The project can be accessed without any authentication.'
+
+[717] StaticText 'Owner'
+
+[729] link '0'
+
+[730] link '0'
+
+[731] link '0'
+
+[732] link '0'
+
+[741] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[742] StaticText '5 months ago'
+
+[743] link 'D'
+
+[746] heading 'Primer / design'
+
+[749] link 'Primer / design'
+
+[747] generic 'Public - The project can be accessed without any authentication.'
+
+[755] StaticText 'Developer'
+
+[1596] StaticText 'Primer Design Guidelines'
+
+[767] link '21'
+
+[768] link '0'
+
+[769] link '16'
+
+[770] link '21'
+
+[779] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[780] StaticText '5 months ago'
+
+[781] link 'D'
+
+[783] heading 'Byte Blaze / Do it myself'
+
+[786] link 'Byte Blaze / Do it myself'
+
+[784] generic 'Public - The project can be accessed without any authentication.'
+
+[792] StaticText 'Owner'
+
+[803] link '0'
+
+[804] link '0'
+
+[805] link '0'
+
+[806] link '0'
+
+[815] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[816] StaticText '4 days ago'</pre><div>
+
+[398]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '398', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To start a private project in GitLab, I need to click on the "New project" link. Then, I can choose the "blank" template. After that, I can add Abishek and Vinta as members. In summary, the next action I will perform is ```click [398]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [398] where [398] is [398] link 'New project'</pre></div></div>
+
+[1910] RootWebArea 'New Project · GitLab' focused: True
+
+[2165] link 'Skip to content'
+
+[3215] link 'Dashboard'
+
+[3283] button '' hasPopup: menu expanded: False
+
+[1922] textbox 'Search GitLab' required: False
+
+[3472] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3289] link 'Create new...'
+
+[3291] link 'Issues'
+
+[3376] generic '13 assigned issues'
+
+[3292] link 'Merge requests'
+
+[3378] generic '8 merge requests'
+
+[3294] link 'To-Do List'
+
+[3394] generic 'Todos count'
+
+[3493] StaticText '5'
+
+[3295] link 'Help'
+
+[3297] link 'Byte Blaze'
+
+[3428] img 'Byte Blaze'
+
+[1926] main ''
+
+[2266] heading 'Create new project'
+
+[2273] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[2277] heading 'Create blank project'
+
+[2281] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[2285] heading 'Create from template'
+
+[2289] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[2293] heading 'Import project'
+
+[2298] StaticText 'You can also create a project from the command line. '
+
+[2299] link 'Show command'</pre><div>
+
+[398] where [398] is link 'New project'</div>
+
+[2281]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page has a list of options for creating a new project on GitLab. To start a new project with a blank template, I need to click on the link 'Create blank project'. After that, I will be able to add members to the project. In summary, the next action I will perform is `click [2281]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1910] RootWebArea 'New Project · GitLab' focused: True
+
+[2165] link 'Skip to content'
+
+[3215] link 'Dashboard'
+
+[3283] button '' hasPopup: menu expanded: False
+
+[1922] textbox 'Search GitLab' required: False
+
+[3472] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3289] link 'Create new...'
+
+[3291] link 'Issues'
+
+[3376] generic '13 assigned issues'
+
+[3292] link 'Merge requests'
+
+[3378] generic '8 merge requests'
+
+[3294] link 'To-Do List'
+
+[3394] generic 'Todos count'
+
+[3493] StaticText '5'
+
+[3295] link 'Help'
+
+[3297] link 'Byte Blaze'
+
+[3428] img 'Byte Blaze'
+
+[1926] main ''
+
+[2266] heading 'Create new project'
+
+[2273] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[2277] heading 'Create blank project'
+
+[2281] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[2285] heading 'Create from template'
+
+[2289] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[2293] heading 'Import project'
+
+[2298] StaticText 'You can also create a project from the command line. '
+
+[2299] link 'Show command'</pre><div>
+
+[2281]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[2281]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2281', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page has a list of options for creating a new project on GitLab. To start a new project with a blank template, I need to click on the link 'Create blank project'. After that, I will be able to add members to the project. In summary, the next action I will perform is ```click [2281]```."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2281] where [2281] is [2281] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'</pre></div></div>
+
+[1910] RootWebArea 'New Project · GitLab' focused: True
+
+[2165] link 'Skip to content'
+
+[3215] link 'Dashboard'
+
+[3283] button '' hasPopup: menu expanded: False
+
+[1922] textbox 'Search GitLab' required: False
+
+[3472] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3289] link 'Create new...'
+
+[3291] link 'Issues'
+
+[3376] generic '13 assigned issues'
+
+[3292] link 'Merge requests'
+
+[3378] generic '8 merge requests'
+
+[3294] link 'To-Do List'
+
+[3394] generic 'Todos count'
+
+[3493] StaticText '5'
+
+[3295] link 'Help'
+
+[3297] link 'Byte Blaze'
+
+[3428] img 'Byte Blaze'
+
+[1926] main ''
+
+[3667] heading 'Create from template'
+
+[3672] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[3669] navigation 'Breadcrumb'
+
+[3687] link 'New project'
+
+[3688] link 'Create from template'
+
+[3690] StaticText 'Learn how to '
+
+[3691] link 'contribute to the built-in templates'
+
+[3829] link 'Built-in 30'
+
+[3834] StaticText 'Ruby on Rails'
+
+[3835] LineBreak '\n'
+
+[3837] StaticText 'Includes an MVC structure, Gemfile, Rakefile, along with many others, to help you get started'
+
+[3838] link 'Preview'
+
+[3523] radio 'Use template' checked: false
+
+[3845] StaticText 'Spring'
+
+[3846] LineBreak '\n'
+
+[3848] StaticText 'Includes an MVC structure, mvnw and pom.xml to help you get started'
+
+[3849] link 'Preview'
+
+[3527] radio 'Use template' checked: false
+
+[3856] StaticText 'NodeJS Express'
+
+[3857] LineBreak '\n'
+
+[3859] StaticText 'Includes an MVC structure to help you get started'
+
+[3860] link 'Preview'
+
+[3531] radio 'Use template' checked: false
+
+[3867] StaticText 'iOS (Swift)'
+
+[3868] LineBreak '\n'
+
+[3870] StaticText 'A ready-to-go template for use with iOS Swift apps'
+
+[3871] link 'Preview'
+
+[3535] radio 'Use template' checked: false
+
+[3878] StaticText '.NET Core'
+
+[3879] LineBreak '\n'
+
+[3881] StaticText 'A .NET Core console application template, customizable for any .NET Core project'
+
+[3882] link 'Preview'
+
+[3539] radio 'Use template' checked: false
+
+[3889] StaticText 'Android'
+
+[3890] LineBreak '\n'
+
+[3892] StaticText 'A ready-to-go template for use with Android apps'
+
+[3893] link 'Preview'
+
+[3543] radio 'Use template' checked: false
+
+[3900] StaticText 'Go Micro'
+
+[3901] LineBreak '\n'
+
+[3904] link 'Preview'</pre><div>
+
+[2281] where [2281] is link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'</div>
+
+[3523]` to select the "Use template" radio button for the blank template.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page has a form to create a new project. We need to choose the "blank template" option and fill in the necessary information. Then, we can add Abishek and Vinta as members of the project. \n\nIn summary, the next action I will perform is `click [3523]` to select the "Use template" radio button for the blank template.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1910] RootWebArea 'New Project · GitLab' focused: True
+
+[2165] link 'Skip to content'
+
+[3215] link 'Dashboard'
+
+[3283] button '' hasPopup: menu expanded: False
+
+[1922] textbox 'Search GitLab' required: False
+
+[3472] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3289] link 'Create new...'
+
+[3291] link 'Issues'
+
+[3376] generic '13 assigned issues'
+
+[3292] link 'Merge requests'
+
+[3378] generic '8 merge requests'
+
+[3294] link 'To-Do List'
+
+[3394] generic 'Todos count'
+
+[3493] StaticText '5'
+
+[3295] link 'Help'
+
+[3297] link 'Byte Blaze'
+
+[3428] img 'Byte Blaze'
+
+[1926] main ''
+
+[3667] heading 'Create from template'
+
+[3672] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[3669] navigation 'Breadcrumb'
+
+[3687] link 'New project'
+
+[3688] link 'Create from template'
+
+[3690] StaticText 'Learn how to '
+
+[3691] link 'contribute to the built-in templates'
+
+[3829] link 'Built-in 30'
+
+[3834] StaticText 'Ruby on Rails'
+
+[3835] LineBreak '\n'
+
+[3837] StaticText 'Includes an MVC structure, Gemfile, Rakefile, along with many others, to help you get started'
+
+[3838] link 'Preview'
+
+[3523] radio 'Use template' checked: false
+
+[3845] StaticText 'Spring'
+
+[3846] LineBreak '\n'
+
+[3848] StaticText 'Includes an MVC structure, mvnw and pom.xml to help you get started'
+
+[3849] link 'Preview'
+
+[3527] radio 'Use template' checked: false
+
+[3856] StaticText 'NodeJS Express'
+
+[3857] LineBreak '\n'
+
+[3859] StaticText 'Includes an MVC structure to help you get started'
+
+[3860] link 'Preview'
+
+[3531] radio 'Use template' checked: false
+
+[3867] StaticText 'iOS (Swift)'
+
+[3868] LineBreak '\n'
+
+[3870] StaticText 'A ready-to-go template for use with iOS Swift apps'
+
+[3871] link 'Preview'
+
+[3535] radio 'Use template' checked: false
+
+[3878] StaticText '.NET Core'
+
+[3879] LineBreak '\n'
+
+[3881] StaticText 'A .NET Core console application template, customizable for any .NET Core project'
+
+[3882] link 'Preview'
+
+[3539] radio 'Use template' checked: false
+
+[3889] StaticText 'Android'
+
+[3890] LineBreak '\n'
+
+[3892] StaticText 'A ready-to-go template for use with Android apps'
+
+[3893] link 'Preview'
+
+[3543] radio 'Use template' checked: false
+
+[3900] StaticText 'Go Micro'
+
+[3901] LineBreak '\n'
+
+[3904] link 'Preview'</pre><div>
+
+[3523]` to select the "Use template" radio button for the blank template.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[3523]``` to select the "Use template" radio button for the blank template.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3523', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [3523]``` to select the "Use template" radio button for the blank template.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3523] where [3523] is [3523] radio 'Use template' checked: false</pre></div></div>
+
+[1910] RootWebArea 'New Project · GitLab' focused: True
+
+[2165] link 'Skip to content'
+
+[3215] link 'Dashboard'
+
+[3283] button '' hasPopup: menu expanded: False
+
+[1922] textbox 'Search GitLab' required: False
+
+[3472] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3289] link 'Create new...'
+
+[3291] link 'Issues'
+
+[3376] generic '13 assigned issues'
+
+[3292] link 'Merge requests'
+
+[3378] generic '8 merge requests'
+
+[3294] link 'To-Do List'
+
+[3394] generic 'Todos count'
+
+[3493] StaticText '5'
+
+[3295] link 'Help'
+
+[3297] link 'Byte Blaze'
+
+[3428] img 'Byte Blaze'
+
+[1926] main ''
+
+[3667] heading 'Create from template'
+
+[3672] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[3669] navigation 'Breadcrumb'
+
+[3687] link 'New project'
+
+[3688] link 'Create from template'
+
+[3690] StaticText 'Learn how to '
+
+[3691] link 'contribute to the built-in templates'
+
+[4382] StaticText 'Template'
+
+[4804] StaticText 'Ruby on Rails'
+
+[4401] button 'Change template'
+
+[4355] StaticText 'Project name'
+
+[4419] textbox 'Project name' focused: True required: True
+
+[4371] StaticText 'Project URL'
+
+[4324] group ''
+
+[4366] generic 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/'
+
+[4317] button '\u200ecrew\u200e' hasPopup: menu expanded: False
+
+[4334] generic 'crew'
+
+[4363] StaticText 'Project slug'
+
+[4354] textbox 'Project slug' required: True
+
+[4348] StaticText 'Want to organize several dependent projects under the same namespace? '
+
+[4347] link 'Create a group.'
+
+[4356] StaticText 'Project description '
+
+[4350] StaticText '(optional)'
+
+[4321] textbox 'Project description (optional)' required: False
+
+[4367] StaticText 'Visibility Level '
+
+[4327] link 'Documentation for Visibility Level'
+
+[4342] radio ' Private Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.' checked: false
+
+[4413] radio ' Internal The project can be accessed by any logged in user except external users.' checked: false
+
+[4390] radio ' Public The project can be accessed without any authentication.' checked: true</pre><div>
+
+[3523] where [3523] is radio 'Use template' checked: false</div>
+
+[4419] and select the "Private" visibility level. After that, we can add Abishek and Vinta as members. In summary, the next action I will perform is ```type [4419] [awesome_web_agents]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [80, 102, 84, 98, 94, 92, 84, 78, 102, 84, 81, 78, 80, 86, 84, 93, 99, 98, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '4419', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the "Create new project" page on GitLab. To start a private project with a blank template, we need to fill in the project name in the textbox with ID [4419] and select the "Private" visibility level. After that, we can add Abishek and Vinta as members. In summary, the next action I will perform is ```type [4419] [awesome_web_agents]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [4419] [awesome_web_agents
+
+[4419] is [4419] textbox 'Project name' focused: True required: True</pre></div></div>
+
+[4806] RootWebArea 'Import in progress · crew / awesome_web_agents · GitLab' focused: True
+
+[4850] link 'Skip to content'
+
+[5000] link 'Dashboard'
+
+[5072] button '' hasPopup: menu expanded: False
+
+[4818] textbox 'Search GitLab' required: False
+
+[5604] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[5078] link 'Create new...'
+
+[5080] link 'Issues'
+
+[5243] generic '13 assigned issues'
+
+[5081] link 'Merge requests'
+
+[5245] generic '8 merge requests'
+
+[5083] link 'To-Do List'
+
+[5261] generic 'Todos count'
+
+[5084] link 'Help'
+
+[5086] link 'Byte Blaze'
+
+[5295] img 'Byte Blaze'
+
+[4851] complementary 'Project navigation'
+
+[5033] listitem 'awesome_web_agents'
+
+[5088] link 'awesome_web_agents'
+
+[5336] StaticText 'A'
+
+[5089] link 'Project information'
+
+[5091] link 'Issues'
+
+[5093] link 'CI/CD'
+
+[5095] link 'Security & Compliance'
+
+[5097] link 'Deployments'
+
+[5099] link 'Packages and registries'
+
+[5101] link 'Infrastructure'
+
+[5103] link 'Monitor'
+
+[5105] link 'Analytics'
+
+[5107] link 'Wiki'
+
+[5109] link 'Snippets'
+
+[5111] link 'Settings'
+
+[4986] button 'Collapse sidebar'
+
+[4857] navigation 'Breadcrumbs'
+
+[5124] link 'crew'
+
+[5126] link 'awesome_web_agents'
+
+[5128] link 'Import in progress'
+
+[4859] main ''
+
+[4991] heading 'Import in progress'
+
+[4993] status '' live: polite atomic: True relevant: additions text
+
+[5069] generic 'Loading'
+
+[4996] StaticText 'Please wait while we import the repository for you. Refresh at will.'</pre><div>
+
+[4419] [awesome_web_agents
+
+[4419] is textbox 'Project name' focused: True required: True</div>
+
+[5080]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. On this page, I see a form for creating a new project. I have already typed the project name as "awesome_web_agents". \n\nNow, I need to find the option to choose the blank template and add Abishek and Vinta as members. To do that, I need to click on the "Create new..." link, and then select the appropriate options to add members.\n\nIn summary, the next action I will perform is `click [5080]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[5678] RootWebArea 'crew / awesome_web_agents · GitLab' focused: True
+
+[5791] link 'Skip to content'
+
+[5973] link 'Dashboard'
+
+[6143] button '' hasPopup: menu expanded: False
+
+[5690] textbox 'Search GitLab' required: False
+
+[7171] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6149] link 'Create new...'
+
+[6151] link 'Issues'
+
+[6515] generic '13 assigned issues'
+
+[6152] link 'Merge requests'
+
+[6517] generic '8 merge requests'
+
+[6154] link 'To-Do List'
+
+[6533] generic 'Todos count'
+
+[6155] link 'Help'
+
+[6157] link 'Byte Blaze'
+
+[6567] img 'Byte Blaze'
+
+[5792] complementary 'Project navigation'
+
+[6006] listitem 'awesome_web_agents'
+
+[6159] link 'awesome_web_agents'
+
+[6608] StaticText 'A'
+
+[6160] link 'Project information'
+
+[6162] link 'Repository'
+
+[6164] link 'Issues'
+
+[6166] link 'Merge requests'
+
+[6702] StaticText '0'
+
+[6168] link 'CI/CD'
+
+[6170] link 'Security & Compliance'
+
+[6172] link 'Deployments'
+
+[6174] link 'Packages and registries'
+
+[6176] link 'Infrastructure'
+
+[6178] link 'Monitor'
+
+[6180] link 'Analytics'
+
+[6182] link 'Wiki'
+
+[6184] link 'Snippets'
+
+[6186] link 'Settings'
+
+[5928] button 'Collapse sidebar'
+
+[5796] alert '' live: assertive atomic: True relevant: additions text
+
+[5799] button 'Dismiss'
+
+[5800] alert '' live: assertive atomic: True relevant: additions text
+
+[6040] link 'Add SSH key'
+
+[6041] button "Don't show again"
+
+[5797] navigation 'Breadcrumbs'
+
+[6203] link 'crew'
+
+[6205] link 'awesome_web_agents'
+
+[5694] main ''
+
+[5938] alert '' live: assertive atomic: True relevant: additions text
+
+[6054] button 'Dismiss'
+
+[6055] alert '' live: assertive atomic: True relevant: additions text
+
+[6929] StaticText 'The project was successfully imported.'
+
+[6056] StaticText 'A'
+
+[5946] heading 'awesome_web_agents Public - The project can be accessed without any authentication.'
+
+[5949] generic 'Public - The project can be accessed without any authentication.'
+
+[5952] StaticText 'Project ID: 200 '
+
+[5953] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[5955] link 'Leave project'
+
+[6062] button '' hasPopup: menu expanded: False
+
+[5958] button 'Star'
+
+[5959] link '0'
+
+[6067] link 'Fork'
+
+[5961] link '0'
+
+[6306] link '1 Commit'
+
+[6307] link '1 Branch'
+
+[6308] link '0 Tags'
+
+[6309] link '236 KB Project Storage'
+
+[5963] generic '<span class="repository-language-bar-tooltip-language">Ruby</span>&nbsp;<span class="repository-language-bar-tooltip-share">75.0%</span>'
+
+[5964] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">12.5%</span>'
+
+[5965] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">8.6%</span>'
+
+[5966] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.8%</span>'
+
+[5967] generic '<span class="repository-language-bar-tooltip-language">HTML+ERB</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.7%</span>'
+
+[6080] img 'user avatar'
+
+[6084] link "Initialized from 'Ruby on Rails' project template"
+
+[6085] button 'Toggle commit description'
+
+[6090] StaticText 'GitLab authored '
+
+[6091] time 'Dec 2, 2022 6:46pm EST'
+
+[6313] StaticText '9 months ago'
+
+[6096] group ''
+
+[6315] StaticText '18f93570'
+
+[6098] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[6955] button 'master' hasPopup: menu expanded: False
+
+[5748] navigation 'Files breadcrumb'
+
+[7295] link 'awesome_web_agents'
+
+[7643] button 'Add to tree' hasPopup: menu expanded: False
+
+[6320] link 'Find file'
+
+[6325] link 'Web IDE'
+
+[6326] button 'Download'
+
+[6962] StaticText 'Select Archive Format'
+
+[6328] link 'Clone'
+
+[6351] link 'README'
+
+[6352] link 'MIT License'
+
+[6353] link 'CONTRIBUTING'
+
+[6354] link 'CI/CD configuration'
+
+[6355] link 'Add CHANGELOG'
+
+[7026] StaticText 'Auto DevOps enabled'
+
+[6357] link 'Add Kubernetes cluster'
+
+[6358] link 'Configure Integrations'
+
+[5766] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+
+[7031] row ''
+
+[7032] columnheader 'Name' required: False
+
+[7033] columnheader 'Last commit' required: False
+
+[7034] columnheader 'Last update' required: False
+
+[7035] row ''
+
+[7064] gridcell 'app' required: False
+
+[7330] link 'app'
+
+[7065] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[7336] link "Initialized from 'Ruby on Rails' project template"
+
+[7066] gridcell '9 months ago' required: False
+
+[7339] time 'Dec 2, 2022 6:46pm EST'</pre><div>
+
+[5080]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[6159]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '6159', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [6159]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [6159] where [6159] is [6159] link 'awesome_web_agents'</pre></div></div>
+
+[7788] RootWebArea 'crew / awesome_web_agents · GitLab' focused: True
+
+[7881] link 'Skip to content'
+
+[8062] link 'Dashboard'
+
+[8226] button '' hasPopup: menu expanded: False
+
+[7800] textbox 'Search GitLab' required: False
+
+[9339] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8232] link 'Create new...'
+
+[8234] link 'Issues'
+
+[8563] generic '13 assigned issues'
+
+[8235] link 'Merge requests'
+
+[8565] generic '8 merge requests'
+
+[8237] link 'To-Do List'
+
+[8581] generic 'Todos count'
+
+[8238] link 'Help'
+
+[8240] link 'Byte Blaze'
+
+[8615] img 'Byte Blaze'
+
+[7882] complementary 'Project navigation'
+
+[8095] listitem 'awesome_web_agents'
+
+[8242] link 'awesome_web_agents'
+
+[8656] StaticText 'A'
+
+[8243] link 'Project information'
+
+[8245] link 'Repository'
+
+[8247] link 'Issues'
+
+[8721] StaticText '0'
+
+[8249] link 'Merge requests'
+
+[8251] link 'CI/CD'
+
+[8253] link 'Security & Compliance'
+
+[8255] link 'Deployments'
+
+[8257] link 'Packages and registries'
+
+[8259] link 'Infrastructure'
+
+[8261] link 'Monitor'
+
+[8263] link 'Analytics'
+
+[8265] link 'Wiki'
+
+[8267] link 'Snippets'
+
+[8269] link 'Settings'
+
+[8018] button 'Collapse sidebar'
+
+[7886] alert '' live: assertive atomic: True relevant: additions text
+
+[7889] button 'Dismiss'
+
+[7890] alert '' live: assertive atomic: True relevant: additions text
+
+[8129] link 'Add SSH key'
+
+[8130] button "Don't show again"
+
+[7887] navigation 'Breadcrumbs'
+
+[8286] link 'crew'
+
+[8288] link 'awesome_web_agents'
+
+[7804] main ''
+
+[8142] StaticText 'A'
+
+[8035] heading 'awesome_web_agents Public - The project can be accessed without any authentication.'
+
+[8038] generic 'Public - The project can be accessed without any authentication.'
+
+[8041] StaticText 'Project ID: 200 '
+
+[8042] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8044] link 'Leave project'
+
+[8148] button '' hasPopup: menu expanded: False
+
+[8047] button 'Star'
+
+[8048] link '0'
+
+[8153] link 'Fork'
+
+[8050] link '0'
+
+[8384] link '1 Commit'
+
+[8385] link '1 Branch'
+
+[8386] link '0 Tags'
+
+[8387] link '236 KB Project Storage'
+
+[8052] generic '<span class="repository-language-bar-tooltip-language">Ruby</span>&nbsp;<span class="repository-language-bar-tooltip-share">75.0%</span>'
+
+[8053] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">12.5%</span>'
+
+[8054] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">8.6%</span>'
+
+[8055] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.8%</span>'
+
+[8056] generic '<span class="repository-language-bar-tooltip-language">HTML+ERB</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.7%</span>'
+
+[8166] img 'user avatar'
+
+[8170] link "Initialized from 'Ruby on Rails' project template"
+
+[8171] button 'Toggle commit description'
+
+[8176] StaticText 'GitLab authored '
+
+[8177] time 'Dec 2, 2022 6:46pm EST'
+
+[8391] StaticText '9 months ago'
+
+[8182] group ''
+
+[8393] StaticText '18f93570'
+
+[8184] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8999] button 'master' hasPopup: menu expanded: False
+
+[7844] navigation 'Files breadcrumb'
+
+[9446] link 'awesome_web_agents'
+
+[9488] button 'Add to tree' hasPopup: menu expanded: False
+
+[8396] link 'Find file'
+
+[8401] link 'Web IDE'
+
+[8402] button 'Download'
+
+[9006] StaticText 'Select Archive Format'
+
+[8404] link 'Clone'
+
+[8427] link 'README'
+
+[8428] link 'MIT License'
+
+[8429] link 'CONTRIBUTING'
+
+[8430] link 'CI/CD configuration'
+
+[8431] link 'Add CHANGELOG'
+
+[9070] StaticText 'Auto DevOps enabled'
+
+[8433] link 'Add Kubernetes cluster'
+
+[8434] link 'Configure Integrations'
+
+[7862] table 'Loading files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+
+[9075] row ''
+
+[9076] columnheader 'Name' required: False
+
+[9077] columnheader 'Last commit' required: False
+
+[9078] columnheader 'Last update' required: False</pre><div>
+
+[6159] where [6159] is link 'awesome_web_agents'</div>
+
+[8232]``` to create a new project.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '8232', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. We are currently on the project page for 'awesome_web_agents' on GitLab. The objective is to start a private project 'awesome_web_agents' with a blank template and add Abishek and Vinta as members.\n\nTo start a new project, we need to click on the 'Create new...' link. In summary, the next action I will perform is ```click [8232]``` to create a new project."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [8232] where [8232] is [8232] link 'Create new...'</pre></div></div>
+
+[7788] RootWebArea 'crew / awesome_web_agents · GitLab' focused: True
+
+[7881] link 'Skip to content'
+
+[8062] link 'Dashboard'
+
+[8226] button '' hasPopup: menu expanded: False
+
+[7800] textbox 'Search GitLab' required: False
+
+[9339] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8232] link 'Create new...'
+
+[8234] link 'Issues'
+
+[8563] generic '13 assigned issues'
+
+[8235] link 'Merge requests'
+
+[8565] generic '8 merge requests'
+
+[8237] link 'To-Do List'
+
+[8581] generic 'Todos count'
+
+[8238] link 'Help'
+
+[8240] link 'Byte Blaze'
+
+[8615] img 'Byte Blaze'
+
+[7882] complementary 'Project navigation'
+
+[8095] listitem 'awesome_web_agents'
+
+[8242] link 'awesome_web_agents'
+
+[8656] StaticText 'A'
+
+[8243] link 'Project information'
+
+[8245] link 'Repository'
+
+[8247] link 'Issues'
+
+[8721] StaticText '0'
+
+[8249] link 'Merge requests'
+
+[8251] link 'CI/CD'
+
+[8253] link 'Security & Compliance'
+
+[8255] link 'Deployments'
+
+[8257] link 'Packages and registries'
+
+[8259] link 'Infrastructure'
+
+[8261] link 'Monitor'
+
+[8263] link 'Analytics'
+
+[8265] link 'Wiki'
+
+[8267] link 'Snippets'
+
+[8269] link 'Settings'
+
+[8018] button 'Collapse sidebar'
+
+[7886] alert '' live: assertive atomic: True relevant: additions text
+
+[7889] button 'Dismiss'
+
+[7890] alert '' live: assertive atomic: True relevant: additions text
+
+[8129] link 'Add SSH key'
+
+[8130] button "Don't show again"
+
+[7887] navigation 'Breadcrumbs'
+
+[8286] link 'crew'
+
+[8288] link 'awesome_web_agents'
+
+[7804] main ''
+
+[8142] StaticText 'A'
+
+[8035] heading 'awesome_web_agents Public - The project can be accessed without any authentication.'
+
+[8038] generic 'Public - The project can be accessed without any authentication.'
+
+[8041] StaticText 'Project ID: 200 '
+
+[8042] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8044] link 'Leave project'
+
+[8148] button '' hasPopup: menu expanded: False
+
+[8047] button 'Star'
+
+[8048] link '0'
+
+[8153] link 'Fork'
+
+[8050] link '0'
+
+[8384] link '1 Commit'
+
+[8385] link '1 Branch'
+
+[8386] link '0 Tags'
+
+[8387] link '236 KB Project Storage'
+
+[8052] generic '<span class="repository-language-bar-tooltip-language">Ruby</span>&nbsp;<span class="repository-language-bar-tooltip-share">75.0%</span>'
+
+[8053] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">12.5%</span>'
+
+[8054] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">8.6%</span>'
+
+[8055] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.8%</span>'
+
+[8056] generic '<span class="repository-language-bar-tooltip-language">HTML+ERB</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.7%</span>'
+
+[8166] img 'user avatar'
+
+[8170] link "Initialized from 'Ruby on Rails' project template"
+
+[8171] button 'Toggle commit description'
+
+[8176] StaticText 'GitLab authored '
+
+[8177] time 'Dec 2, 2022 6:46pm EST'
+
+[8391] StaticText '9 months ago'
+
+[8182] group ''
+
+[8393] StaticText '18f93570'
+
+[8184] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8999] button 'master' hasPopup: menu expanded: False
+
+[7844] navigation 'Files breadcrumb'
+
+[9446] link 'awesome_web_agents'
+
+[9488] button 'Add to tree' hasPopup: menu expanded: False
+
+[8396] link 'Find file'
+
+[8401] link 'Web IDE'
+
+[8402] button 'Download'
+
+[9006] StaticText 'Select Archive Format'
+
+[8404] link 'Clone'
+
+[8427] link 'README'
+
+[8428] link 'MIT License'
+
+[8429] link 'CONTRIBUTING'
+
+[8430] link 'CI/CD configuration'
+
+[8431] link 'Add CHANGELOG'
+
+[9070] StaticText 'Auto DevOps enabled'
+
+[8433] link 'Add Kubernetes cluster'
+
+[8434] link 'Configure Integrations'
+
+[7862] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+
+[9075] row ''
+
+[9076] columnheader 'Name' required: False
+
+[9077] columnheader 'Last commit' required: False
+
+[9078] columnheader 'Last update' required: False
+
+[9567] row ''
+
+[9596] gridcell 'app' required: False
+
+[9716] link 'app'
+
+[9597] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9722] link "Initialized from 'Ruby on Rails' project template"
+
+[9598] gridcell '9 months ago' required: False
+
+[9725] time 'Dec 2, 2022 6:46pm EST'
+
+[9568] row ''
+
+[9599] gridcell 'bin' required: False
+
+[9727] link 'bin'
+
+[9600] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9733] link "Initialized from 'Ruby on Rails' project template"
+
+[9601] gridcell '9 months ago' required: False
+
+[9736] time 'Dec 2, 2022 6:46pm EST'
+
+[9569] row ''
+
+[9602] gridcell 'config' required: False
+
+[9738] link 'config'
+
+[9603] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9604] gridcell '9 months ago' required: False</pre><div>
+
+[8232] where [8232] is link 'Create new...'</div>
+
+[8232] is the "Create new..." link. I will click on it. In summary, the next action I will perform is `click [8232]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. I need to create a new project. The link with ID [8232] is the "Create new..." link. I will click on it. In summary, the next action I will perform is `click [8232]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[7788] RootWebArea 'crew / awesome_web_agents · GitLab' focused: True
+
+[7881] link 'Skip to content'
+
+[8062] link 'Dashboard'
+
+[8226] button '' hasPopup: menu expanded: False
+
+[7800] textbox 'Search GitLab' required: False
+
+[9339] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8232] link 'Create new...'
+
+[8234] link 'Issues'
+
+[8563] generic '13 assigned issues'
+
+[8235] link 'Merge requests'
+
+[8565] generic '8 merge requests'
+
+[8237] link 'To-Do List'
+
+[8581] generic 'Todos count'
+
+[8238] link 'Help'
+
+[8240] link 'Byte Blaze'
+
+[8615] img 'Byte Blaze'
+
+[7882] complementary 'Project navigation'
+
+[8095] listitem 'awesome_web_agents'
+
+[8242] link 'awesome_web_agents'
+
+[8656] StaticText 'A'
+
+[8243] link 'Project information'
+
+[8245] link 'Repository'
+
+[8247] link 'Issues'
+
+[8721] StaticText '0'
+
+[8249] link 'Merge requests'
+
+[8251] link 'CI/CD'
+
+[8253] link 'Security & Compliance'
+
+[8255] link 'Deployments'
+
+[8257] link 'Packages and registries'
+
+[8259] link 'Infrastructure'
+
+[8261] link 'Monitor'
+
+[8263] link 'Analytics'
+
+[8265] link 'Wiki'
+
+[8267] link 'Snippets'
+
+[8269] link 'Settings'
+
+[8018] button 'Collapse sidebar'
+
+[7886] alert '' live: assertive atomic: True relevant: additions text
+
+[7889] button 'Dismiss'
+
+[7890] alert '' live: assertive atomic: True relevant: additions text
+
+[8129] link 'Add SSH key'
+
+[8130] button "Don't show again"
+
+[7887] navigation 'Breadcrumbs'
+
+[8286] link 'crew'
+
+[8288] link 'awesome_web_agents'
+
+[7804] main ''
+
+[8142] StaticText 'A'
+
+[8035] heading 'awesome_web_agents Public - The project can be accessed without any authentication.'
+
+[8038] generic 'Public - The project can be accessed without any authentication.'
+
+[8041] StaticText 'Project ID: 200 '
+
+[8042] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8044] link 'Leave project'
+
+[8148] button '' hasPopup: menu expanded: False
+
+[8047] button 'Star'
+
+[8048] link '0'
+
+[8153] link 'Fork'
+
+[8050] link '0'
+
+[8384] link '1 Commit'
+
+[8385] link '1 Branch'
+
+[8386] link '0 Tags'
+
+[8387] link '236 KB Project Storage'
+
+[8052] generic '<span class="repository-language-bar-tooltip-language">Ruby</span>&nbsp;<span class="repository-language-bar-tooltip-share">75.0%</span>'
+
+[8053] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">12.5%</span>'
+
+[8054] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">8.6%</span>'
+
+[8055] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.8%</span>'
+
+[8056] generic '<span class="repository-language-bar-tooltip-language">HTML+ERB</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.7%</span>'
+
+[8166] img 'user avatar'
+
+[8170] link "Initialized from 'Ruby on Rails' project template"
+
+[8171] button 'Toggle commit description'
+
+[8176] StaticText 'GitLab authored '
+
+[8177] time 'Dec 2, 2022 6:46pm EST'
+
+[8391] StaticText '9 months ago'
+
+[8182] group ''
+
+[8393] StaticText '18f93570'
+
+[8184] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8999] button 'master' hasPopup: menu expanded: False
+
+[7844] navigation 'Files breadcrumb'
+
+[9446] link 'awesome_web_agents'
+
+[9488] button 'Add to tree' hasPopup: menu expanded: False
+
+[8396] link 'Find file'
+
+[8401] link 'Web IDE'
+
+[8402] button 'Download'
+
+[9006] StaticText 'Select Archive Format'
+
+[8404] link 'Clone'
+
+[8427] link 'README'
+
+[8428] link 'MIT License'
+
+[8429] link 'CONTRIBUTING'
+
+[8430] link 'CI/CD configuration'
+
+[8431] link 'Add CHANGELOG'
+
+[9070] StaticText 'Auto DevOps enabled'
+
+[8433] link 'Add Kubernetes cluster'
+
+[8434] link 'Configure Integrations'
+
+[7862] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+
+[9075] row ''
+
+[9076] columnheader 'Name' required: False
+
+[9077] columnheader 'Last commit' required: False
+
+[9078] columnheader 'Last update' required: False
+
+[9567] row ''
+
+[9596] gridcell 'app' required: False
+
+[9716] link 'app'
+
+[9597] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9722] link "Initialized from 'Ruby on Rails' project template"
+
+[9598] gridcell '9 months ago' required: False
+
+[9725] time 'Dec 2, 2022 6:46pm EST'
+
+[9568] row ''
+
+[9599] gridcell 'bin' required: False
+
+[9727] link 'bin'
+
+[9600] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9733] link "Initialized from 'Ruby on Rails' project template"
+
+[9601] gridcell '9 months ago' required: False
+
+[9736] time 'Dec 2, 2022 6:46pm EST'
+
+[9569] row ''
+
+[9602] gridcell 'config' required: False
+
+[9738] link 'config'
+
+[9603] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9604] gridcell '9 months ago' required: False</pre><div>
+
+[8232] is the "Create new..." link. I will click on it. In summary, the next action I will perform is `click [8232]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[8232] is the "Create new..." link. I will click on it. In summary, the next action I will perform is ```click [8232]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '8232', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. I need to create a new project. The link with ID [8232] is the "Create new..." link. I will click on it. In summary, the next action I will perform is ```click [8232]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [8232] where [8232] is [8232] link 'Create new...'</pre></div></div>
+
+[7788] RootWebArea 'crew / awesome_web_agents · GitLab' focused: True
+
+[7881] link 'Skip to content'
+
+[8062] link 'Dashboard'
+
+[8226] button '' hasPopup: menu expanded: False
+
+[7800] textbox 'Search GitLab' required: False
+
+[9339] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8232] link 'Create new...' focused: True expanded: True describedby: gl-tooltip3
+
+[10156] StaticText 'This project'
+
+[10161] link 'New issue'
+
+[10153] link 'New merge request'
+
+[10149] link 'New snippet'
+
+[10163] link 'Invite members '
+
+[10166] StaticText 'GitLab'
+
+[10158] link 'New project/repository'
+
+[10142] link 'New group'
+
+[10157] link 'New snippet'
+
+[8234] link 'Issues'
+
+[8563] generic '13 assigned issues'
+
+[8235] link 'Merge requests'
+
+[8565] generic '8 merge requests'
+
+[8237] link 'To-Do List'
+
+[8581] generic 'Todos count'
+
+[8238] link 'Help'
+
+[8240] link 'Byte Blaze'
+
+[8615] img 'Byte Blaze'
+
+[7882] complementary 'Project navigation'
+
+[8095] listitem 'awesome_web_agents'
+
+[8242] link 'awesome_web_agents'
+
+[8656] StaticText 'A'
+
+[8243] link 'Project information'
+
+[8245] link 'Repository'
+
+[8247] link 'Issues'
+
+[8721] StaticText '0'
+
+[8249] link 'Merge requests'
+
+[8251] link 'CI/CD'
+
+[8253] link 'Security & Compliance'
+
+[8255] link 'Deployments'
+
+[8257] link 'Packages and registries'
+
+[8259] link 'Infrastructure'
+
+[8261] link 'Monitor'
+
+[8263] link 'Analytics'
+
+[8265] link 'Wiki'
+
+[8267] link 'Snippets'
+
+[8269] link 'Settings'
+
+[8018] button 'Collapse sidebar'
+
+[7886] alert '' live: assertive atomic: True relevant: additions text
+
+[7889] button 'Dismiss'
+
+[7890] alert '' live: assertive atomic: True relevant: additions text
+
+[8129] link 'Add SSH key'
+
+[8130] button "Don't show again"
+
+[7887] navigation 'Breadcrumbs'
+
+[8286] link 'crew'
+
+[8288] link 'awesome_web_agents'
+
+[7804] main ''
+
+[8142] StaticText 'A'
+
+[8035] heading 'awesome_web_agents Public - The project can be accessed without any authentication.'
+
+[8038] generic 'Public - The project can be accessed without any authentication.'
+
+[8041] StaticText 'Project ID: 200 '
+
+[8042] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8044] link 'Leave project'
+
+[8148] button '' hasPopup: menu expanded: False
+
+[8047] button 'Star'
+
+[8048] link '0'
+
+[8153] link 'Fork'
+
+[8050] link '0'
+
+[8384] link '1 Commit'
+
+[8385] link '1 Branch'
+
+[8386] link '0 Tags'
+
+[8387] link '236 KB Project Storage'
+
+[8052] generic '<span class="repository-language-bar-tooltip-language">Ruby</span>&nbsp;<span class="repository-language-bar-tooltip-share">75.0%</span>'
+
+[8053] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">12.5%</span>'
+
+[8054] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">8.6%</span>'
+
+[8055] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.8%</span>'
+
+[8056] generic '<span class="repository-language-bar-tooltip-language">HTML+ERB</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.7%</span>'
+
+[8166] img 'user avatar'
+
+[8170] link "Initialized from 'Ruby on Rails' project template"
+
+[8171] button 'Toggle commit description'
+
+[8176] StaticText 'GitLab authored '
+
+[8177] time 'Dec 2, 2022 6:46pm EST'
+
+[8391] StaticText '9 months ago'
+
+[8182] group ''
+
+[8393] StaticText '18f93570'
+
+[8184] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8999] button 'master' hasPopup: menu expanded: False
+
+[7844] navigation 'Files breadcrumb'
+
+[9446] link 'awesome_web_agents'
+
+[9488] button 'Add to tree' hasPopup: menu expanded: False
+
+[8396] link 'Find file'
+
+[8401] link 'Web IDE'
+
+[8402] button 'Download'
+
+[9006] StaticText 'Select Archive Format'
+
+[8404] link 'Clone'
+
+[8427] link 'README'
+
+[8428] link 'MIT License'
+
+[8429] link 'CONTRIBUTING'
+
+[8430] link 'CI/CD configuration'
+
+[8431] link 'Add CHANGELOG'
+
+[9070] StaticText 'Auto DevOps enabled'
+
+[8433] link 'Add Kubernetes cluster'
+
+[8434] link 'Configure Integrations'
+
+[7862] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+
+[9075] row ''
+
+[9076] columnheader 'Name' required: False
+
+[9077] columnheader 'Last commit' required: False
+
+[9078] columnheader 'Last update' required: False
+
+[9567] row ''
+
+[9596] gridcell 'app' required: False
+
+[9716] link 'app'
+
+[9597] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9722] link "Initialized from 'Ruby on Rails' project template"
+
+[9598] gridcell '9 months ago' required: False
+
+[9725] time 'Dec 2, 2022 6:46pm EST'
+
+[9568] row ''
+
+[9599] gridcell 'bin' required: False
+
+[9727] link 'bin'
+
+[9600] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9733] link "Initialized from 'Ruby on Rails' project template"
+
+[9601] gridcell '9 months ago' required: False
+
+[9736] time 'Dec 2, 2022 6:46pm EST'
+
+[9569] row ''
+
+[9602] gridcell 'config' required: False
+
+[9738] link 'config'
+
+[9603] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9604] gridcell '9 months ago' required: False
+
+[10167] tooltip 'Create new...'</pre><div>
+
+[8232] where [8232] is link 'Create new...'</div>
+
+[8232] that says "Create new...". Clicking on it will likely take us to the page where we can create a new project. In summary, the next action I will perform is ```click [8232]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '8232', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page has a link with id [8232] that says "Create new...". Clicking on it will likely take us to the page where we can create a new project. In summary, the next action I will perform is ```click [8232]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [8232] where [8232] is [8232] link 'Create new...' focused: True expanded: True describedby: gl-tooltip3</pre></div></div>
+
+[7788] RootWebArea 'crew / awesome_web_agents · GitLab' focused: True
+
+[7881] link 'Skip to content'
+
+[8062] link 'Dashboard'
+
+[8226] button '' hasPopup: menu expanded: False
+
+[7800] textbox 'Search GitLab' required: False
+
+[9339] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8232] link 'Create new...' focused: True expanded: False
+
+[8234] link 'Issues'
+
+[8563] generic '13 assigned issues'
+
+[8235] link 'Merge requests'
+
+[8565] generic '8 merge requests'
+
+[8237] link 'To-Do List'
+
+[8581] generic 'Todos count'
+
+[8238] link 'Help'
+
+[8240] link 'Byte Blaze'
+
+[8615] img 'Byte Blaze'
+
+[7882] complementary 'Project navigation'
+
+[8095] listitem 'awesome_web_agents'
+
+[8242] link 'awesome_web_agents'
+
+[8656] StaticText 'A'
+
+[8243] link 'Project information'
+
+[8245] link 'Repository'
+
+[8247] link 'Issues'
+
+[8721] StaticText '0'
+
+[8249] link 'Merge requests'
+
+[8251] link 'CI/CD'
+
+[8253] link 'Security & Compliance'
+
+[8255] link 'Deployments'
+
+[8257] link 'Packages and registries'
+
+[8259] link 'Infrastructure'
+
+[8261] link 'Monitor'
+
+[8263] link 'Analytics'
+
+[8265] link 'Wiki'
+
+[8267] link 'Snippets'
+
+[8269] link 'Settings'
+
+[8018] button 'Collapse sidebar'
+
+[7886] alert '' live: assertive atomic: True relevant: additions text
+
+[7889] button 'Dismiss'
+
+[7890] alert '' live: assertive atomic: True relevant: additions text
+
+[8129] link 'Add SSH key'
+
+[8130] button "Don't show again"
+
+[7887] navigation 'Breadcrumbs'
+
+[8286] link 'crew'
+
+[8288] link 'awesome_web_agents'
+
+[7804] main ''
+
+[8142] StaticText 'A'
+
+[8035] heading 'awesome_web_agents Public - The project can be accessed without any authentication.'
+
+[8038] generic 'Public - The project can be accessed without any authentication.'
+
+[8041] StaticText 'Project ID: 200 '
+
+[8042] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8044] link 'Leave project'
+
+[8148] button '' hasPopup: menu expanded: False
+
+[8047] button 'Star'
+
+[8048] link '0'
+
+[8153] link 'Fork'
+
+[8050] link '0'
+
+[8384] link '1 Commit'
+
+[8385] link '1 Branch'
+
+[8386] link '0 Tags'
+
+[8387] link '236 KB Project Storage'
+
+[8052] generic '<span class="repository-language-bar-tooltip-language">Ruby</span>&nbsp;<span class="repository-language-bar-tooltip-share">75.0%</span>'
+
+[8053] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">12.5%</span>'
+
+[8054] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">8.6%</span>'
+
+[8055] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.8%</span>'
+
+[8056] generic '<span class="repository-language-bar-tooltip-language">HTML+ERB</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.7%</span>'
+
+[8166] img 'user avatar'
+
+[8170] link "Initialized from 'Ruby on Rails' project template"
+
+[8171] button 'Toggle commit description'
+
+[8176] StaticText 'GitLab authored '
+
+[8177] time 'Dec 2, 2022 6:46pm EST'
+
+[8391] StaticText '9 months ago'
+
+[8182] group ''
+
+[8393] StaticText '18f93570'
+
+[8184] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8999] button 'master' hasPopup: menu expanded: False
+
+[7844] navigation 'Files breadcrumb'
+
+[9446] link 'awesome_web_agents'
+
+[9488] button 'Add to tree' hasPopup: menu expanded: False
+
+[8396] link 'Find file'
+
+[8401] link 'Web IDE'
+
+[8402] button 'Download'
+
+[9006] StaticText 'Select Archive Format'
+
+[8404] link 'Clone'
+
+[8427] link 'README'
+
+[8428] link 'MIT License'
+
+[8429] link 'CONTRIBUTING'
+
+[8430] link 'CI/CD configuration'
+
+[8431] link 'Add CHANGELOG'
+
+[9070] StaticText 'Auto DevOps enabled'
+
+[8433] link 'Add Kubernetes cluster'
+
+[8434] link 'Configure Integrations'
+
+[7862] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+
+[9075] row ''
+
+[9076] columnheader 'Name' required: False
+
+[9077] columnheader 'Last commit' required: False
+
+[9078] columnheader 'Last update' required: False
+
+[9567] row ''
+
+[9596] gridcell 'app' required: False
+
+[9716] link 'app'
+
+[9597] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9722] link "Initialized from 'Ruby on Rails' project template"
+
+[9598] gridcell '9 months ago' required: False
+
+[9725] time 'Dec 2, 2022 6:46pm EST'
+
+[9568] row ''
+
+[9599] gridcell 'bin' required: False
+
+[9727] link 'bin'
+
+[9600] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9733] link "Initialized from 'Ruby on Rails' project template"
+
+[9601] gridcell '9 months ago' required: False
+
+[9736] time 'Dec 2, 2022 6:46pm EST'
+
+[9569] row ''
+
+[9602] gridcell 'config' required: False
+
+[9738] link 'config'
+
+[9603] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9604] gridcell '9 months ago' required: False</pre><div>
+
+[8232] where [8232] is link 'Create new...' focused: True expanded: True describedby: gl-tooltip3</div>
+
+[8232] that says "Create new...". Clicking on this link will take us to the page where we can create a new project. I will click on this link. In summary, the next action I will perform is `click [8232]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page has a link with ID [8232] that says "Create new...". Clicking on this link will take us to the page where we can create a new project. I will click on this link. In summary, the next action I will perform is `click [8232]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[7788] RootWebArea 'crew / awesome_web_agents · GitLab' focused: True
+
+[7881] link 'Skip to content'
+
+[8062] link 'Dashboard'
+
+[8226] button '' hasPopup: menu expanded: False
+
+[7800] textbox 'Search GitLab' required: False
+
+[9339] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8232] link 'Create new...' focused: True expanded: False
+
+[8234] link 'Issues'
+
+[8563] generic '13 assigned issues'
+
+[8235] link 'Merge requests'
+
+[8565] generic '8 merge requests'
+
+[8237] link 'To-Do List'
+
+[8581] generic 'Todos count'
+
+[8238] link 'Help'
+
+[8240] link 'Byte Blaze'
+
+[8615] img 'Byte Blaze'
+
+[7882] complementary 'Project navigation'
+
+[8095] listitem 'awesome_web_agents'
+
+[8242] link 'awesome_web_agents'
+
+[8656] StaticText 'A'
+
+[8243] link 'Project information'
+
+[8245] link 'Repository'
+
+[8247] link 'Issues'
+
+[8721] StaticText '0'
+
+[8249] link 'Merge requests'
+
+[8251] link 'CI/CD'
+
+[8253] link 'Security & Compliance'
+
+[8255] link 'Deployments'
+
+[8257] link 'Packages and registries'
+
+[8259] link 'Infrastructure'
+
+[8261] link 'Monitor'
+
+[8263] link 'Analytics'
+
+[8265] link 'Wiki'
+
+[8267] link 'Snippets'
+
+[8269] link 'Settings'
+
+[8018] button 'Collapse sidebar'
+
+[7886] alert '' live: assertive atomic: True relevant: additions text
+
+[7889] button 'Dismiss'
+
+[7890] alert '' live: assertive atomic: True relevant: additions text
+
+[8129] link 'Add SSH key'
+
+[8130] button "Don't show again"
+
+[7887] navigation 'Breadcrumbs'
+
+[8286] link 'crew'
+
+[8288] link 'awesome_web_agents'
+
+[7804] main ''
+
+[8142] StaticText 'A'
+
+[8035] heading 'awesome_web_agents Public - The project can be accessed without any authentication.'
+
+[8038] generic 'Public - The project can be accessed without any authentication.'
+
+[8041] StaticText 'Project ID: 200 '
+
+[8042] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8044] link 'Leave project'
+
+[8148] button '' hasPopup: menu expanded: False
+
+[8047] button 'Star'
+
+[8048] link '0'
+
+[8153] link 'Fork'
+
+[8050] link '0'
+
+[8384] link '1 Commit'
+
+[8385] link '1 Branch'
+
+[8386] link '0 Tags'
+
+[8387] link '236 KB Project Storage'
+
+[8052] generic '<span class="repository-language-bar-tooltip-language">Ruby</span>&nbsp;<span class="repository-language-bar-tooltip-share">75.0%</span>'
+
+[8053] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">12.5%</span>'
+
+[8054] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">8.6%</span>'
+
+[8055] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.8%</span>'
+
+[8056] generic '<span class="repository-language-bar-tooltip-language">HTML+ERB</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.7%</span>'
+
+[8166] img 'user avatar'
+
+[8170] link "Initialized from 'Ruby on Rails' project template"
+
+[8171] button 'Toggle commit description'
+
+[8176] StaticText 'GitLab authored '
+
+[8177] time 'Dec 2, 2022 6:46pm EST'
+
+[8391] StaticText '9 months ago'
+
+[8182] group ''
+
+[8393] StaticText '18f93570'
+
+[8184] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8999] button 'master' hasPopup: menu expanded: False
+
+[7844] navigation 'Files breadcrumb'
+
+[9446] link 'awesome_web_agents'
+
+[9488] button 'Add to tree' hasPopup: menu expanded: False
+
+[8396] link 'Find file'
+
+[8401] link 'Web IDE'
+
+[8402] button 'Download'
+
+[9006] StaticText 'Select Archive Format'
+
+[8404] link 'Clone'
+
+[8427] link 'README'
+
+[8428] link 'MIT License'
+
+[8429] link 'CONTRIBUTING'
+
+[8430] link 'CI/CD configuration'
+
+[8431] link 'Add CHANGELOG'
+
+[9070] StaticText 'Auto DevOps enabled'
+
+[8433] link 'Add Kubernetes cluster'
+
+[8434] link 'Configure Integrations'
+
+[7862] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+
+[9075] row ''
+
+[9076] columnheader 'Name' required: False
+
+[9077] columnheader 'Last commit' required: False
+
+[9078] columnheader 'Last update' required: False
+
+[9567] row ''
+
+[9596] gridcell 'app' required: False
+
+[9716] link 'app'
+
+[9597] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9722] link "Initialized from 'Ruby on Rails' project template"
+
+[9598] gridcell '9 months ago' required: False
+
+[9725] time 'Dec 2, 2022 6:46pm EST'
+
+[9568] row ''
+
+[9599] gridcell 'bin' required: False
+
+[9727] link 'bin'
+
+[9600] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9733] link "Initialized from 'Ruby on Rails' project template"
+
+[9601] gridcell '9 months ago' required: False
+
+[9736] time 'Dec 2, 2022 6:46pm EST'
+
+[9569] row ''
+
+[9602] gridcell 'config' required: False
+
+[9738] link 'config'
+
+[9603] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9604] gridcell '9 months ago' required: False</pre><div>
+
+[8232] that says "Create new...". Clicking on this link will take us to the page where we can create a new project. I will click on this link. In summary, the next action I will perform is `click [8232]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[8232] that says "Create new...". Clicking on this link will take us to the page where we can create a new project. I will click on this link. In summary, the next action I will perform is ```click [8232]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '8232', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page has a link with ID [8232] that says "Create new...". Clicking on this link will take us to the page where we can create a new project. I will click on this link. In summary, the next action I will perform is ```click [8232]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [8232] where [8232] is [8232] link 'Create new...' focused: True expanded: False</pre></div></div>
+
+[7788] RootWebArea 'crew / awesome_web_agents · GitLab' focused: True
+
+[7881] link 'Skip to content'
+
+[8062] link 'Dashboard'
+
+[8226] button '' hasPopup: menu expanded: False
+
+[7800] textbox 'Search GitLab' required: False
+
+[9339] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8232] link 'Create new...' focused: True expanded: True
+
+[10228] StaticText 'This project'
+
+[10226] link 'New issue'
+
+[10224] link 'New merge request'
+
+[10208] link 'New snippet'
+
+[10210] link 'Invite members '
+
+[10206] StaticText 'GitLab'
+
+[10211] link 'New project/repository'
+
+[10225] link 'New group'
+
+[10229] link 'New snippet'
+
+[8234] link 'Issues'
+
+[8563] generic '13 assigned issues'
+
+[8235] link 'Merge requests'
+
+[8565] generic '8 merge requests'
+
+[8237] link 'To-Do List'
+
+[8581] generic 'Todos count'
+
+[8238] link 'Help'
+
+[8240] link 'Byte Blaze'
+
+[8615] img 'Byte Blaze'
+
+[7882] complementary 'Project navigation'
+
+[8095] listitem 'awesome_web_agents'
+
+[8242] link 'awesome_web_agents'
+
+[8656] StaticText 'A'
+
+[8243] link 'Project information'
+
+[8245] link 'Repository'
+
+[8247] link 'Issues'
+
+[8721] StaticText '0'
+
+[8249] link 'Merge requests'
+
+[8251] link 'CI/CD'
+
+[8253] link 'Security & Compliance'
+
+[8255] link 'Deployments'
+
+[8257] link 'Packages and registries'
+
+[8259] link 'Infrastructure'
+
+[8261] link 'Monitor'
+
+[8263] link 'Analytics'
+
+[8265] link 'Wiki'
+
+[8267] link 'Snippets'
+
+[8269] link 'Settings'
+
+[8018] button 'Collapse sidebar'
+
+[7886] alert '' live: assertive atomic: True relevant: additions text
+
+[7889] button 'Dismiss'
+
+[7890] alert '' live: assertive atomic: True relevant: additions text
+
+[8129] link 'Add SSH key'
+
+[8130] button "Don't show again"
+
+[7887] navigation 'Breadcrumbs'
+
+[8286] link 'crew'
+
+[8288] link 'awesome_web_agents'
+
+[7804] main ''
+
+[8142] StaticText 'A'
+
+[8035] heading 'awesome_web_agents Public - The project can be accessed without any authentication.'
+
+[8038] generic 'Public - The project can be accessed without any authentication.'
+
+[8041] StaticText 'Project ID: 200 '
+
+[8042] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8044] link 'Leave project'
+
+[8148] button '' hasPopup: menu expanded: False
+
+[8047] button 'Star'
+
+[8048] link '0'
+
+[8153] link 'Fork'
+
+[8050] link '0'
+
+[8384] link '1 Commit'
+
+[8385] link '1 Branch'
+
+[8386] link '0 Tags'
+
+[8387] link '236 KB Project Storage'
+
+[8052] generic '<span class="repository-language-bar-tooltip-language">Ruby</span>&nbsp;<span class="repository-language-bar-tooltip-share">75.0%</span>'
+
+[8053] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">12.5%</span>'
+
+[8054] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">8.6%</span>'
+
+[8055] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.8%</span>'
+
+[8056] generic '<span class="repository-language-bar-tooltip-language">HTML+ERB</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.7%</span>'
+
+[8166] img 'user avatar'
+
+[8170] link "Initialized from 'Ruby on Rails' project template"
+
+[8171] button 'Toggle commit description'
+
+[8176] StaticText 'GitLab authored '
+
+[8177] time 'Dec 2, 2022 6:46pm EST'
+
+[8391] StaticText '9 months ago'
+
+[8182] group ''
+
+[8393] StaticText '18f93570'
+
+[8184] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8999] button 'master' hasPopup: menu expanded: False
+
+[7844] navigation 'Files breadcrumb'
+
+[9446] link 'awesome_web_agents'
+
+[9488] button 'Add to tree' hasPopup: menu expanded: False
+
+[8396] link 'Find file'
+
+[8401] link 'Web IDE'
+
+[8402] button 'Download'
+
+[9006] StaticText 'Select Archive Format'
+
+[8404] link 'Clone'
+
+[8427] link 'README'
+
+[8428] link 'MIT License'
+
+[8429] link 'CONTRIBUTING'
+
+[8430] link 'CI/CD configuration'
+
+[8431] link 'Add CHANGELOG'
+
+[9070] StaticText 'Auto DevOps enabled'
+
+[8433] link 'Add Kubernetes cluster'
+
+[8434] link 'Configure Integrations'
+
+[7862] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+
+[9075] row ''
+
+[9076] columnheader 'Name' required: False
+
+[9077] columnheader 'Last commit' required: False
+
+[9078] columnheader 'Last update' required: False
+
+[9567] row ''
+
+[9596] gridcell 'app' required: False
+
+[9716] link 'app'
+
+[9597] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9722] link "Initialized from 'Ruby on Rails' project template"
+
+[9598] gridcell '9 months ago' required: False
+
+[9725] time 'Dec 2, 2022 6:46pm EST'
+
+[9568] row ''
+
+[9599] gridcell 'bin' required: False
+
+[9727] link 'bin'
+
+[9600] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9733] link "Initialized from 'Ruby on Rails' project template"
+
+[9601] gridcell '9 months ago' required: False
+
+[9736] time 'Dec 2, 2022 6:46pm EST'
+
+[9569] row ''
+
+[9602] gridcell 'config' required: False
+
+[9738] link 'config'
+
+[9603] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9604] gridcell '9 months ago' required: False</pre><div>
+
+[8232] where [8232] is link 'Create new...' focused: True expanded: False</div>
+
+[8232]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to start a private project called "awesome_web_agents" with a blank template and add Abishek and Vinta as members. To do this, I need to click on the "Create new..." link. \n\nIn summary, the next action I will perform is `click [8232]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[7788] RootWebArea 'crew / awesome_web_agents · GitLab' focused: True
+
+[7881] link 'Skip to content'
+
+[8062] link 'Dashboard'
+
+[8226] button '' hasPopup: menu expanded: False
+
+[7800] textbox 'Search GitLab' required: False
+
+[9339] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8232] link 'Create new...' focused: True expanded: True
+
+[10228] StaticText 'This project'
+
+[10226] link 'New issue'
+
+[10224] link 'New merge request'
+
+[10208] link 'New snippet'
+
+[10210] link 'Invite members '
+
+[10206] StaticText 'GitLab'
+
+[10211] link 'New project/repository'
+
+[10225] link 'New group'
+
+[10229] link 'New snippet'
+
+[8234] link 'Issues'
+
+[8563] generic '13 assigned issues'
+
+[8235] link 'Merge requests'
+
+[8565] generic '8 merge requests'
+
+[8237] link 'To-Do List'
+
+[8581] generic 'Todos count'
+
+[8238] link 'Help'
+
+[8240] link 'Byte Blaze'
+
+[8615] img 'Byte Blaze'
+
+[7882] complementary 'Project navigation'
+
+[8095] listitem 'awesome_web_agents'
+
+[8242] link 'awesome_web_agents'
+
+[8656] StaticText 'A'
+
+[8243] link 'Project information'
+
+[8245] link 'Repository'
+
+[8247] link 'Issues'
+
+[8721] StaticText '0'
+
+[8249] link 'Merge requests'
+
+[8251] link 'CI/CD'
+
+[8253] link 'Security & Compliance'
+
+[8255] link 'Deployments'
+
+[8257] link 'Packages and registries'
+
+[8259] link 'Infrastructure'
+
+[8261] link 'Monitor'
+
+[8263] link 'Analytics'
+
+[8265] link 'Wiki'
+
+[8267] link 'Snippets'
+
+[8269] link 'Settings'
+
+[8018] button 'Collapse sidebar'
+
+[7886] alert '' live: assertive atomic: True relevant: additions text
+
+[7889] button 'Dismiss'
+
+[7890] alert '' live: assertive atomic: True relevant: additions text
+
+[8129] link 'Add SSH key'
+
+[8130] button "Don't show again"
+
+[7887] navigation 'Breadcrumbs'
+
+[8286] link 'crew'
+
+[8288] link 'awesome_web_agents'
+
+[7804] main ''
+
+[8142] StaticText 'A'
+
+[8035] heading 'awesome_web_agents Public - The project can be accessed without any authentication.'
+
+[8038] generic 'Public - The project can be accessed without any authentication.'
+
+[8041] StaticText 'Project ID: 200 '
+
+[8042] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8044] link 'Leave project'
+
+[8148] button '' hasPopup: menu expanded: False
+
+[8047] button 'Star'
+
+[8048] link '0'
+
+[8153] link 'Fork'
+
+[8050] link '0'
+
+[8384] link '1 Commit'
+
+[8385] link '1 Branch'
+
+[8386] link '0 Tags'
+
+[8387] link '236 KB Project Storage'
+
+[8052] generic '<span class="repository-language-bar-tooltip-language">Ruby</span>&nbsp;<span class="repository-language-bar-tooltip-share">75.0%</span>'
+
+[8053] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">12.5%</span>'
+
+[8054] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">8.6%</span>'
+
+[8055] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.8%</span>'
+
+[8056] generic '<span class="repository-language-bar-tooltip-language">HTML+ERB</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.7%</span>'
+
+[8166] img 'user avatar'
+
+[8170] link "Initialized from 'Ruby on Rails' project template"
+
+[8171] button 'Toggle commit description'
+
+[8176] StaticText 'GitLab authored '
+
+[8177] time 'Dec 2, 2022 6:46pm EST'
+
+[8391] StaticText '9 months ago'
+
+[8182] group ''
+
+[8393] StaticText '18f93570'
+
+[8184] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8999] button 'master' hasPopup: menu expanded: False
+
+[7844] navigation 'Files breadcrumb'
+
+[9446] link 'awesome_web_agents'
+
+[9488] button 'Add to tree' hasPopup: menu expanded: False
+
+[8396] link 'Find file'
+
+[8401] link 'Web IDE'
+
+[8402] button 'Download'
+
+[9006] StaticText 'Select Archive Format'
+
+[8404] link 'Clone'
+
+[8427] link 'README'
+
+[8428] link 'MIT License'
+
+[8429] link 'CONTRIBUTING'
+
+[8430] link 'CI/CD configuration'
+
+[8431] link 'Add CHANGELOG'
+
+[9070] StaticText 'Auto DevOps enabled'
+
+[8433] link 'Add Kubernetes cluster'
+
+[8434] link 'Configure Integrations'
+
+[7862] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+
+[9075] row ''
+
+[9076] columnheader 'Name' required: False
+
+[9077] columnheader 'Last commit' required: False
+
+[9078] columnheader 'Last update' required: False
+
+[9567] row ''
+
+[9596] gridcell 'app' required: False
+
+[9716] link 'app'
+
+[9597] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9722] link "Initialized from 'Ruby on Rails' project template"
+
+[9598] gridcell '9 months ago' required: False
+
+[9725] time 'Dec 2, 2022 6:46pm EST'
+
+[9568] row ''
+
+[9599] gridcell 'bin' required: False
+
+[9727] link 'bin'
+
+[9600] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9733] link "Initialized from 'Ruby on Rails' project template"
+
+[9601] gridcell '9 months ago' required: False
+
+[9736] time 'Dec 2, 2022 6:46pm EST'
+
+[9569] row ''
+
+[9602] gridcell 'config' required: False
+
+[9738] link 'config'
+
+[9603] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9604] gridcell '9 months ago' required: False</pre><div>
+
+[8232]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[8232]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '8232', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to start a private project called "awesome_web_agents" with a blank template and add Abishek and Vinta as members. To do this, I need to click on the "Create new..." link. \n\nIn summary, the next action I will perform is ```click [8232]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [8232] where [8232] is [8232] link 'Create new...' focused: True expanded: True</pre></div></div>
+
+[7788] RootWebArea 'crew / awesome_web_agents · GitLab' focused: True
+
+[7881] link 'Skip to content'
+
+[8062] link 'Dashboard'
+
+[8226] button '' hasPopup: menu expanded: False
+
+[7800] textbox 'Search GitLab' required: False
+
+[9339] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8232] link 'Create new...' focused: True expanded: False
+
+[8234] link 'Issues'
+
+[8563] generic '13 assigned issues'
+
+[8235] link 'Merge requests'
+
+[8565] generic '8 merge requests'
+
+[8237] link 'To-Do List'
+
+[8581] generic 'Todos count'
+
+[8238] link 'Help'
+
+[8240] link 'Byte Blaze'
+
+[8615] img 'Byte Blaze'
+
+[7882] complementary 'Project navigation'
+
+[8095] listitem 'awesome_web_agents'
+
+[8242] link 'awesome_web_agents'
+
+[8656] StaticText 'A'
+
+[8243] link 'Project information'
+
+[8245] link 'Repository'
+
+[8247] link 'Issues'
+
+[8721] StaticText '0'
+
+[8249] link 'Merge requests'
+
+[8251] link 'CI/CD'
+
+[8253] link 'Security & Compliance'
+
+[8255] link 'Deployments'
+
+[8257] link 'Packages and registries'
+
+[8259] link 'Infrastructure'
+
+[8261] link 'Monitor'
+
+[8263] link 'Analytics'
+
+[8265] link 'Wiki'
+
+[8267] link 'Snippets'
+
+[8269] link 'Settings'
+
+[8018] button 'Collapse sidebar'
+
+[7886] alert '' live: assertive atomic: True relevant: additions text
+
+[7889] button 'Dismiss'
+
+[7890] alert '' live: assertive atomic: True relevant: additions text
+
+[8129] link 'Add SSH key'
+
+[8130] button "Don't show again"
+
+[7887] navigation 'Breadcrumbs'
+
+[8286] link 'crew'
+
+[8288] link 'awesome_web_agents'
+
+[7804] main ''
+
+[8142] StaticText 'A'
+
+[8035] heading 'awesome_web_agents Public - The project can be accessed without any authentication.'
+
+[8038] generic 'Public - The project can be accessed without any authentication.'
+
+[8041] StaticText 'Project ID: 200 '
+
+[8042] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8044] link 'Leave project'
+
+[8148] button '' hasPopup: menu expanded: False
+
+[8047] button 'Star'
+
+[8048] link '0'
+
+[8153] link 'Fork'
+
+[8050] link '0'
+
+[8384] link '1 Commit'
+
+[8385] link '1 Branch'
+
+[8386] link '0 Tags'
+
+[8387] link '236 KB Project Storage'
+
+[8052] generic '<span class="repository-language-bar-tooltip-language">Ruby</span>&nbsp;<span class="repository-language-bar-tooltip-share">75.0%</span>'
+
+[8053] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">12.5%</span>'
+
+[8054] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">8.6%</span>'
+
+[8055] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.8%</span>'
+
+[8056] generic '<span class="repository-language-bar-tooltip-language">HTML+ERB</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.7%</span>'
+
+[8166] img 'user avatar'
+
+[8170] link "Initialized from 'Ruby on Rails' project template"
+
+[8171] button 'Toggle commit description'
+
+[8176] StaticText 'GitLab authored '
+
+[8177] time 'Dec 2, 2022 6:46pm EST'
+
+[8391] StaticText '9 months ago'
+
+[8182] group ''
+
+[8393] StaticText '18f93570'
+
+[8184] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8999] button 'master' hasPopup: menu expanded: False
+
+[7844] navigation 'Files breadcrumb'
+
+[9446] link 'awesome_web_agents'
+
+[9488] button 'Add to tree' hasPopup: menu expanded: False
+
+[8396] link 'Find file'
+
+[8401] link 'Web IDE'
+
+[8402] button 'Download'
+
+[9006] StaticText 'Select Archive Format'
+
+[8404] link 'Clone'
+
+[8427] link 'README'
+
+[8428] link 'MIT License'
+
+[8429] link 'CONTRIBUTING'
+
+[8430] link 'CI/CD configuration'
+
+[8431] link 'Add CHANGELOG'
+
+[9070] StaticText 'Auto DevOps enabled'
+
+[8433] link 'Add Kubernetes cluster'
+
+[8434] link 'Configure Integrations'
+
+[7862] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+
+[9075] row ''
+
+[9076] columnheader 'Name' required: False
+
+[9077] columnheader 'Last commit' required: False
+
+[9078] columnheader 'Last update' required: False
+
+[9567] row ''
+
+[9596] gridcell 'app' required: False
+
+[9716] link 'app'
+
+[9597] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9722] link "Initialized from 'Ruby on Rails' project template"
+
+[9598] gridcell '9 months ago' required: False
+
+[9725] time 'Dec 2, 2022 6:46pm EST'
+
+[9568] row ''
+
+[9599] gridcell 'bin' required: False
+
+[9727] link 'bin'
+
+[9600] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9733] link "Initialized from 'Ruby on Rails' project template"
+
+[9601] gridcell '9 months ago' required: False
+
+[9736] time 'Dec 2, 2022 6:46pm EST'
+
+[9569] row ''
+
+[9602] gridcell 'config' required: False
+
+[9738] link 'config'
+
+[9603] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9604] gridcell '9 months ago' required: False</pre><div>
+
+[8232] where [8232] is link 'Create new...' focused: True expanded: True</div>
+
+[8232]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '8232', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To start a private project awesome_web_agents with a blank template, we need to click on the "Create new..." link. Since the current action is already a click action, I will perform the next action. In summary, the next action I will perform is ```click [8232]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [8232] where [8232] is [8232] link 'Create new...' focused: True expanded: False</pre></div></div>
+
+[7788] RootWebArea 'crew / awesome_web_agents · GitLab' focused: True
+
+[7881] link 'Skip to content'
+
+[8062] link 'Dashboard'
+
+[8226] button '' hasPopup: menu expanded: False
+
+[7800] textbox 'Search GitLab' required: False
+
+[9339] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8232] link 'Create new...' focused: True expanded: True
+
+[10264] StaticText 'This project'
+
+[10263] link 'New issue'
+
+[10284] link 'New merge request'
+
+[10287] link 'New snippet'
+
+[10280] link 'Invite members '
+
+[10269] StaticText 'GitLab'
+
+[10267] link 'New project/repository'
+
+[10291] link 'New group'
+
+[10275] link 'New snippet'
+
+[8234] link 'Issues'
+
+[8563] generic '13 assigned issues'
+
+[8235] link 'Merge requests'
+
+[8565] generic '8 merge requests'
+
+[8237] link 'To-Do List'
+
+[8581] generic 'Todos count'
+
+[8238] link 'Help'
+
+[8240] link 'Byte Blaze'
+
+[8615] img 'Byte Blaze'
+
+[7882] complementary 'Project navigation'
+
+[8095] listitem 'awesome_web_agents'
+
+[8242] link 'awesome_web_agents'
+
+[8656] StaticText 'A'
+
+[8243] link 'Project information'
+
+[8245] link 'Repository'
+
+[8247] link 'Issues'
+
+[8721] StaticText '0'
+
+[8249] link 'Merge requests'
+
+[8251] link 'CI/CD'
+
+[8253] link 'Security & Compliance'
+
+[8255] link 'Deployments'
+
+[8257] link 'Packages and registries'
+
+[8259] link 'Infrastructure'
+
+[8261] link 'Monitor'
+
+[8263] link 'Analytics'
+
+[8265] link 'Wiki'
+
+[8267] link 'Snippets'
+
+[8269] link 'Settings'
+
+[8018] button 'Collapse sidebar'
+
+[7886] alert '' live: assertive atomic: True relevant: additions text
+
+[7889] button 'Dismiss'
+
+[7890] alert '' live: assertive atomic: True relevant: additions text
+
+[8129] link 'Add SSH key'
+
+[8130] button "Don't show again"
+
+[7887] navigation 'Breadcrumbs'
+
+[8286] link 'crew'
+
+[8288] link 'awesome_web_agents'
+
+[7804] main ''
+
+[8142] StaticText 'A'
+
+[8035] heading 'awesome_web_agents Public - The project can be accessed without any authentication.'
+
+[8038] generic 'Public - The project can be accessed without any authentication.'
+
+[8041] StaticText 'Project ID: 200 '
+
+[8042] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8044] link 'Leave project'
+
+[8148] button '' hasPopup: menu expanded: False
+
+[8047] button 'Star'
+
+[8048] link '0'
+
+[8153] link 'Fork'
+
+[8050] link '0'
+
+[8384] link '1 Commit'
+
+[8385] link '1 Branch'
+
+[8386] link '0 Tags'
+
+[8387] link '236 KB Project Storage'
+
+[8052] generic '<span class="repository-language-bar-tooltip-language">Ruby</span>&nbsp;<span class="repository-language-bar-tooltip-share">75.0%</span>'
+
+[8053] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">12.5%</span>'
+
+[8054] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">8.6%</span>'
+
+[8055] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.8%</span>'
+
+[8056] generic '<span class="repository-language-bar-tooltip-language">HTML+ERB</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.7%</span>'
+
+[8166] img 'user avatar'
+
+[8170] link "Initialized from 'Ruby on Rails' project template"
+
+[8171] button 'Toggle commit description'
+
+[8176] StaticText 'GitLab authored '
+
+[8177] time 'Dec 2, 2022 6:46pm EST'
+
+[8391] StaticText '9 months ago'
+
+[8182] group ''
+
+[8393] StaticText '18f93570'
+
+[8184] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8999] button 'master' hasPopup: menu expanded: False
+
+[7844] navigation 'Files breadcrumb'
+
+[9446] link 'awesome_web_agents'
+
+[9488] button 'Add to tree' hasPopup: menu expanded: False
+
+[8396] link 'Find file'
+
+[8401] link 'Web IDE'
+
+[8402] button 'Download'
+
+[9006] StaticText 'Select Archive Format'
+
+[8404] link 'Clone'
+
+[8427] link 'README'
+
+[8428] link 'MIT License'
+
+[8429] link 'CONTRIBUTING'
+
+[8430] link 'CI/CD configuration'
+
+[8431] link 'Add CHANGELOG'
+
+[9070] StaticText 'Auto DevOps enabled'
+
+[8433] link 'Add Kubernetes cluster'
+
+[8434] link 'Configure Integrations'
+
+[7862] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+
+[9075] row ''
+
+[9076] columnheader 'Name' required: False
+
+[9077] columnheader 'Last commit' required: False
+
+[9078] columnheader 'Last update' required: False
+
+[9567] row ''
+
+[9596] gridcell 'app' required: False
+
+[9716] link 'app'
+
+[9597] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9722] link "Initialized from 'Ruby on Rails' project template"
+
+[9598] gridcell '9 months ago' required: False
+
+[9725] time 'Dec 2, 2022 6:46pm EST'
+
+[9568] row ''
+
+[9599] gridcell 'bin' required: False
+
+[9727] link 'bin'
+
+[9600] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9733] link "Initialized from 'Ruby on Rails' project template"
+
+[9601] gridcell '9 months ago' required: False
+
+[9736] time 'Dec 2, 2022 6:46pm EST'
+
+[9569] row ''
+
+[9602] gridcell 'config' required: False
+
+[9738] link 'config'
+
+[9603] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9604] gridcell '9 months ago' required: False</pre><div>
+
+[8232] where [8232] is link 'Create new...' focused: True expanded: False</div>
+
+[8232]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. I need to create a new project with the name "awesome_web_agents" and choose a blank template. Then, I need to add Abishek and Vinta as members to the project. To do this, I should click on the "Create new..." link. In summary, the next action I will perform is `click [8232]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[7788] RootWebArea 'crew / awesome_web_agents · GitLab' focused: True
+
+[7881] link 'Skip to content'
+
+[8062] link 'Dashboard'
+
+[8226] button '' hasPopup: menu expanded: False
+
+[7800] textbox 'Search GitLab' required: False
+
+[9339] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8232] link 'Create new...' focused: True expanded: True
+
+[10264] StaticText 'This project'
+
+[10263] link 'New issue'
+
+[10284] link 'New merge request'
+
+[10287] link 'New snippet'
+
+[10280] link 'Invite members '
+
+[10269] StaticText 'GitLab'
+
+[10267] link 'New project/repository'
+
+[10291] link 'New group'
+
+[10275] link 'New snippet'
+
+[8234] link 'Issues'
+
+[8563] generic '13 assigned issues'
+
+[8235] link 'Merge requests'
+
+[8565] generic '8 merge requests'
+
+[8237] link 'To-Do List'
+
+[8581] generic 'Todos count'
+
+[8238] link 'Help'
+
+[8240] link 'Byte Blaze'
+
+[8615] img 'Byte Blaze'
+
+[7882] complementary 'Project navigation'
+
+[8095] listitem 'awesome_web_agents'
+
+[8242] link 'awesome_web_agents'
+
+[8656] StaticText 'A'
+
+[8243] link 'Project information'
+
+[8245] link 'Repository'
+
+[8247] link 'Issues'
+
+[8721] StaticText '0'
+
+[8249] link 'Merge requests'
+
+[8251] link 'CI/CD'
+
+[8253] link 'Security & Compliance'
+
+[8255] link 'Deployments'
+
+[8257] link 'Packages and registries'
+
+[8259] link 'Infrastructure'
+
+[8261] link 'Monitor'
+
+[8263] link 'Analytics'
+
+[8265] link 'Wiki'
+
+[8267] link 'Snippets'
+
+[8269] link 'Settings'
+
+[8018] button 'Collapse sidebar'
+
+[7886] alert '' live: assertive atomic: True relevant: additions text
+
+[7889] button 'Dismiss'
+
+[7890] alert '' live: assertive atomic: True relevant: additions text
+
+[8129] link 'Add SSH key'
+
+[8130] button "Don't show again"
+
+[7887] navigation 'Breadcrumbs'
+
+[8286] link 'crew'
+
+[8288] link 'awesome_web_agents'
+
+[7804] main ''
+
+[8142] StaticText 'A'
+
+[8035] heading 'awesome_web_agents Public - The project can be accessed without any authentication.'
+
+[8038] generic 'Public - The project can be accessed without any authentication.'
+
+[8041] StaticText 'Project ID: 200 '
+
+[8042] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8044] link 'Leave project'
+
+[8148] button '' hasPopup: menu expanded: False
+
+[8047] button 'Star'
+
+[8048] link '0'
+
+[8153] link 'Fork'
+
+[8050] link '0'
+
+[8384] link '1 Commit'
+
+[8385] link '1 Branch'
+
+[8386] link '0 Tags'
+
+[8387] link '236 KB Project Storage'
+
+[8052] generic '<span class="repository-language-bar-tooltip-language">Ruby</span>&nbsp;<span class="repository-language-bar-tooltip-share">75.0%</span>'
+
+[8053] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">12.5%</span>'
+
+[8054] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">8.6%</span>'
+
+[8055] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.8%</span>'
+
+[8056] generic '<span class="repository-language-bar-tooltip-language">HTML+ERB</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.7%</span>'
+
+[8166] img 'user avatar'
+
+[8170] link "Initialized from 'Ruby on Rails' project template"
+
+[8171] button 'Toggle commit description'
+
+[8176] StaticText 'GitLab authored '
+
+[8177] time 'Dec 2, 2022 6:46pm EST'
+
+[8391] StaticText '9 months ago'
+
+[8182] group ''
+
+[8393] StaticText '18f93570'
+
+[8184] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8999] button 'master' hasPopup: menu expanded: False
+
+[7844] navigation 'Files breadcrumb'
+
+[9446] link 'awesome_web_agents'
+
+[9488] button 'Add to tree' hasPopup: menu expanded: False
+
+[8396] link 'Find file'
+
+[8401] link 'Web IDE'
+
+[8402] button 'Download'
+
+[9006] StaticText 'Select Archive Format'
+
+[8404] link 'Clone'
+
+[8427] link 'README'
+
+[8428] link 'MIT License'
+
+[8429] link 'CONTRIBUTING'
+
+[8430] link 'CI/CD configuration'
+
+[8431] link 'Add CHANGELOG'
+
+[9070] StaticText 'Auto DevOps enabled'
+
+[8433] link 'Add Kubernetes cluster'
+
+[8434] link 'Configure Integrations'
+
+[7862] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+
+[9075] row ''
+
+[9076] columnheader 'Name' required: False
+
+[9077] columnheader 'Last commit' required: False
+
+[9078] columnheader 'Last update' required: False
+
+[9567] row ''
+
+[9596] gridcell 'app' required: False
+
+[9716] link 'app'
+
+[9597] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9722] link "Initialized from 'Ruby on Rails' project template"
+
+[9598] gridcell '9 months ago' required: False
+
+[9725] time 'Dec 2, 2022 6:46pm EST'
+
+[9568] row ''
+
+[9599] gridcell 'bin' required: False
+
+[9727] link 'bin'
+
+[9600] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9733] link "Initialized from 'Ruby on Rails' project template"
+
+[9601] gridcell '9 months ago' required: False
+
+[9736] time 'Dec 2, 2022 6:46pm EST'
+
+[9569] row ''
+
+[9602] gridcell 'config' required: False
+
+[9738] link 'config'
+
+[9603] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9604] gridcell '9 months ago' required: False</pre><div>
+
+[8232]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[8232]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '8232', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. I need to create a new project with the name "awesome_web_agents" and choose a blank template. Then, I need to add Abishek and Vinta as members to the project. To do this, I should click on the "Create new..." link. In summary, the next action I will perform is ```click [8232]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [8232] where [8232] is [8232] link 'Create new...' focused: True expanded: True</pre></div></div>
+
+[7788] RootWebArea 'crew / awesome_web_agents · GitLab' focused: True
+
+[7881] link 'Skip to content'
+
+[8062] link 'Dashboard'
+
+[8226] button '' hasPopup: menu expanded: False
+
+[7800] textbox 'Search GitLab' required: False
+
+[9339] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8232] link 'Create new...' focused: True expanded: False
+
+[8234] link 'Issues'
+
+[8563] generic '13 assigned issues'
+
+[8235] link 'Merge requests'
+
+[8565] generic '8 merge requests'
+
+[8237] link 'To-Do List'
+
+[8581] generic 'Todos count'
+
+[8238] link 'Help'
+
+[8240] link 'Byte Blaze'
+
+[8615] img 'Byte Blaze'
+
+[7882] complementary 'Project navigation'
+
+[8095] listitem 'awesome_web_agents'
+
+[8242] link 'awesome_web_agents'
+
+[8656] StaticText 'A'
+
+[8243] link 'Project information'
+
+[8245] link 'Repository'
+
+[8247] link 'Issues'
+
+[8721] StaticText '0'
+
+[8249] link 'Merge requests'
+
+[8251] link 'CI/CD'
+
+[8253] link 'Security & Compliance'
+
+[8255] link 'Deployments'
+
+[8257] link 'Packages and registries'
+
+[8259] link 'Infrastructure'
+
+[8261] link 'Monitor'
+
+[8263] link 'Analytics'
+
+[8265] link 'Wiki'
+
+[8267] link 'Snippets'
+
+[8269] link 'Settings'
+
+[8018] button 'Collapse sidebar'
+
+[7886] alert '' live: assertive atomic: True relevant: additions text
+
+[7889] button 'Dismiss'
+
+[7890] alert '' live: assertive atomic: True relevant: additions text
+
+[8129] link 'Add SSH key'
+
+[8130] button "Don't show again"
+
+[7887] navigation 'Breadcrumbs'
+
+[8286] link 'crew'
+
+[8288] link 'awesome_web_agents'
+
+[7804] main ''
+
+[8142] StaticText 'A'
+
+[8035] heading 'awesome_web_agents Public - The project can be accessed without any authentication.'
+
+[8038] generic 'Public - The project can be accessed without any authentication.'
+
+[8041] StaticText 'Project ID: 200 '
+
+[8042] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8044] link 'Leave project'
+
+[8148] button '' hasPopup: menu expanded: False
+
+[8047] button 'Star'
+
+[8048] link '0'
+
+[8153] link 'Fork'
+
+[8050] link '0'
+
+[8384] link '1 Commit'
+
+[8385] link '1 Branch'
+
+[8386] link '0 Tags'
+
+[8387] link '236 KB Project Storage'
+
+[8052] generic '<span class="repository-language-bar-tooltip-language">Ruby</span>&nbsp;<span class="repository-language-bar-tooltip-share">75.0%</span>'
+
+[8053] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">12.5%</span>'
+
+[8054] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">8.6%</span>'
+
+[8055] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.8%</span>'
+
+[8056] generic '<span class="repository-language-bar-tooltip-language">HTML+ERB</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.7%</span>'
+
+[8166] img 'user avatar'
+
+[8170] link "Initialized from 'Ruby on Rails' project template"
+
+[8171] button 'Toggle commit description'
+
+[8176] StaticText 'GitLab authored '
+
+[8177] time 'Dec 2, 2022 6:46pm EST'
+
+[8391] StaticText '9 months ago'
+
+[8182] group ''
+
+[8393] StaticText '18f93570'
+
+[8184] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8999] button 'master' hasPopup: menu expanded: False
+
+[7844] navigation 'Files breadcrumb'
+
+[9446] link 'awesome_web_agents'
+
+[9488] button 'Add to tree' hasPopup: menu expanded: False
+
+[8396] link 'Find file'
+
+[8401] link 'Web IDE'
+
+[8402] button 'Download'
+
+[9006] StaticText 'Select Archive Format'
+
+[8404] link 'Clone'
+
+[8427] link 'README'
+
+[8428] link 'MIT License'
+
+[8429] link 'CONTRIBUTING'
+
+[8430] link 'CI/CD configuration'
+
+[8431] link 'Add CHANGELOG'
+
+[9070] StaticText 'Auto DevOps enabled'
+
+[8433] link 'Add Kubernetes cluster'
+
+[8434] link 'Configure Integrations'
+
+[7862] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+
+[9075] row ''
+
+[9076] columnheader 'Name' required: False
+
+[9077] columnheader 'Last commit' required: False
+
+[9078] columnheader 'Last update' required: False
+
+[9567] row ''
+
+[9596] gridcell 'app' required: False
+
+[9716] link 'app'
+
+[9597] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9722] link "Initialized from 'Ruby on Rails' project template"
+
+[9598] gridcell '9 months ago' required: False
+
+[9725] time 'Dec 2, 2022 6:46pm EST'
+
+[9568] row ''
+
+[9599] gridcell 'bin' required: False
+
+[9727] link 'bin'
+
+[9600] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9733] link "Initialized from 'Ruby on Rails' project template"
+
+[9601] gridcell '9 months ago' required: False
+
+[9736] time 'Dec 2, 2022 6:46pm EST'
+
+[9569] row ''
+
+[9602] gridcell 'config' required: False
+
+[9738] link 'config'
+
+[9603] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9604] gridcell '9 months ago' required: False</pre><div>
+
+[8232] where [8232] is link 'Create new...' focused: True expanded: True</div>
+
+[8232]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to start a private project called awesome_web_agents with a blank template and add Abishek and Vinta as members.\n\nFirst, I need to click on the "Create new..." link to start a new project. In summary, the next action I will perform is `click [8232]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[7788] RootWebArea 'crew / awesome_web_agents · GitLab' focused: True
+
+[7881] link 'Skip to content'
+
+[8062] link 'Dashboard'
+
+[8226] button '' hasPopup: menu expanded: False
+
+[7800] textbox 'Search GitLab' required: False
+
+[9339] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8232] link 'Create new...' focused: True expanded: False
+
+[8234] link 'Issues'
+
+[8563] generic '13 assigned issues'
+
+[8235] link 'Merge requests'
+
+[8565] generic '8 merge requests'
+
+[8237] link 'To-Do List'
+
+[8581] generic 'Todos count'
+
+[8238] link 'Help'
+
+[8240] link 'Byte Blaze'
+
+[8615] img 'Byte Blaze'
+
+[7882] complementary 'Project navigation'
+
+[8095] listitem 'awesome_web_agents'
+
+[8242] link 'awesome_web_agents'
+
+[8656] StaticText 'A'
+
+[8243] link 'Project information'
+
+[8245] link 'Repository'
+
+[8247] link 'Issues'
+
+[8721] StaticText '0'
+
+[8249] link 'Merge requests'
+
+[8251] link 'CI/CD'
+
+[8253] link 'Security & Compliance'
+
+[8255] link 'Deployments'
+
+[8257] link 'Packages and registries'
+
+[8259] link 'Infrastructure'
+
+[8261] link 'Monitor'
+
+[8263] link 'Analytics'
+
+[8265] link 'Wiki'
+
+[8267] link 'Snippets'
+
+[8269] link 'Settings'
+
+[8018] button 'Collapse sidebar'
+
+[7886] alert '' live: assertive atomic: True relevant: additions text
+
+[7889] button 'Dismiss'
+
+[7890] alert '' live: assertive atomic: True relevant: additions text
+
+[8129] link 'Add SSH key'
+
+[8130] button "Don't show again"
+
+[7887] navigation 'Breadcrumbs'
+
+[8286] link 'crew'
+
+[8288] link 'awesome_web_agents'
+
+[7804] main ''
+
+[8142] StaticText 'A'
+
+[8035] heading 'awesome_web_agents Public - The project can be accessed without any authentication.'
+
+[8038] generic 'Public - The project can be accessed without any authentication.'
+
+[8041] StaticText 'Project ID: 200 '
+
+[8042] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8044] link 'Leave project'
+
+[8148] button '' hasPopup: menu expanded: False
+
+[8047] button 'Star'
+
+[8048] link '0'
+
+[8153] link 'Fork'
+
+[8050] link '0'
+
+[8384] link '1 Commit'
+
+[8385] link '1 Branch'
+
+[8386] link '0 Tags'
+
+[8387] link '236 KB Project Storage'
+
+[8052] generic '<span class="repository-language-bar-tooltip-language">Ruby</span>&nbsp;<span class="repository-language-bar-tooltip-share">75.0%</span>'
+
+[8053] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">12.5%</span>'
+
+[8054] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">8.6%</span>'
+
+[8055] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.8%</span>'
+
+[8056] generic '<span class="repository-language-bar-tooltip-language">HTML+ERB</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.7%</span>'
+
+[8166] img 'user avatar'
+
+[8170] link "Initialized from 'Ruby on Rails' project template"
+
+[8171] button 'Toggle commit description'
+
+[8176] StaticText 'GitLab authored '
+
+[8177] time 'Dec 2, 2022 6:46pm EST'
+
+[8391] StaticText '9 months ago'
+
+[8182] group ''
+
+[8393] StaticText '18f93570'
+
+[8184] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8999] button 'master' hasPopup: menu expanded: False
+
+[7844] navigation 'Files breadcrumb'
+
+[9446] link 'awesome_web_agents'
+
+[9488] button 'Add to tree' hasPopup: menu expanded: False
+
+[8396] link 'Find file'
+
+[8401] link 'Web IDE'
+
+[8402] button 'Download'
+
+[9006] StaticText 'Select Archive Format'
+
+[8404] link 'Clone'
+
+[8427] link 'README'
+
+[8428] link 'MIT License'
+
+[8429] link 'CONTRIBUTING'
+
+[8430] link 'CI/CD configuration'
+
+[8431] link 'Add CHANGELOG'
+
+[9070] StaticText 'Auto DevOps enabled'
+
+[8433] link 'Add Kubernetes cluster'
+
+[8434] link 'Configure Integrations'
+
+[7862] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+
+[9075] row ''
+
+[9076] columnheader 'Name' required: False
+
+[9077] columnheader 'Last commit' required: False
+
+[9078] columnheader 'Last update' required: False
+
+[9567] row ''
+
+[9596] gridcell 'app' required: False
+
+[9716] link 'app'
+
+[9597] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9722] link "Initialized from 'Ruby on Rails' project template"
+
+[9598] gridcell '9 months ago' required: False
+
+[9725] time 'Dec 2, 2022 6:46pm EST'
+
+[9568] row ''
+
+[9599] gridcell 'bin' required: False
+
+[9727] link 'bin'
+
+[9600] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9733] link "Initialized from 'Ruby on Rails' project template"
+
+[9601] gridcell '9 months ago' required: False
+
+[9736] time 'Dec 2, 2022 6:46pm EST'
+
+[9569] row ''
+
+[9602] gridcell 'config' required: False
+
+[9738] link 'config'
+
+[9603] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9604] gridcell '9 months ago' required: False</pre><div>
+
+[8232]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[8232]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '8232', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to start a private project called awesome_web_agents with a blank template and add Abishek and Vinta as members.\n\nFirst, I need to click on the "Create new..." link to start a new project. In summary, the next action I will perform is ```click [8232]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [8232] where [8232] is [8232] link 'Create new...' focused: True expanded: False</pre></div></div>
+
+[7788] RootWebArea 'crew / awesome_web_agents · GitLab' focused: True
+
+[7881] link 'Skip to content'
+
+[8062] link 'Dashboard'
+
+[8226] button '' hasPopup: menu expanded: False
+
+[7800] textbox 'Search GitLab' required: False
+
+[9339] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8232] link 'Create new...' focused: True expanded: True
+
+[10340] StaticText 'This project'
+
+[10326] link 'New issue'
+
+[10328] link 'New merge request'
+
+[10325] link 'New snippet'
+
+[10336] link 'Invite members '
+
+[10345] StaticText 'GitLab'
+
+[10344] link 'New project/repository'
+
+[10322] link 'New group'
+
+[10341] link 'New snippet'
+
+[8234] link 'Issues'
+
+[8563] generic '13 assigned issues'
+
+[8235] link 'Merge requests'
+
+[8565] generic '8 merge requests'
+
+[8237] link 'To-Do List'
+
+[8581] generic 'Todos count'
+
+[8238] link 'Help'
+
+[8240] link 'Byte Blaze'
+
+[8615] img 'Byte Blaze'
+
+[7882] complementary 'Project navigation'
+
+[8095] listitem 'awesome_web_agents'
+
+[8242] link 'awesome_web_agents'
+
+[8656] StaticText 'A'
+
+[8243] link 'Project information'
+
+[8245] link 'Repository'
+
+[8247] link 'Issues'
+
+[8721] StaticText '0'
+
+[8249] link 'Merge requests'
+
+[8251] link 'CI/CD'
+
+[8253] link 'Security & Compliance'
+
+[8255] link 'Deployments'
+
+[8257] link 'Packages and registries'
+
+[8259] link 'Infrastructure'
+
+[8261] link 'Monitor'
+
+[8263] link 'Analytics'
+
+[8265] link 'Wiki'
+
+[8267] link 'Snippets'
+
+[8269] link 'Settings'
+
+[8018] button 'Collapse sidebar'
+
+[7886] alert '' live: assertive atomic: True relevant: additions text
+
+[7889] button 'Dismiss'
+
+[7890] alert '' live: assertive atomic: True relevant: additions text
+
+[8129] link 'Add SSH key'
+
+[8130] button "Don't show again"
+
+[7887] navigation 'Breadcrumbs'
+
+[8286] link 'crew'
+
+[8288] link 'awesome_web_agents'
+
+[7804] main ''
+
+[8142] StaticText 'A'
+
+[8035] heading 'awesome_web_agents Public - The project can be accessed without any authentication.'
+
+[8038] generic 'Public - The project can be accessed without any authentication.'
+
+[8041] StaticText 'Project ID: 200 '
+
+[8042] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8044] link 'Leave project'
+
+[8148] button '' hasPopup: menu expanded: False
+
+[8047] button 'Star'
+
+[8048] link '0'
+
+[8153] link 'Fork'
+
+[8050] link '0'
+
+[8384] link '1 Commit'
+
+[8385] link '1 Branch'
+
+[8386] link '0 Tags'
+
+[8387] link '236 KB Project Storage'
+
+[8052] generic '<span class="repository-language-bar-tooltip-language">Ruby</span>&nbsp;<span class="repository-language-bar-tooltip-share">75.0%</span>'
+
+[8053] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">12.5%</span>'
+
+[8054] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">8.6%</span>'
+
+[8055] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.8%</span>'
+
+[8056] generic '<span class="repository-language-bar-tooltip-language">HTML+ERB</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.7%</span>'
+
+[8166] img 'user avatar'
+
+[8170] link "Initialized from 'Ruby on Rails' project template"
+
+[8171] button 'Toggle commit description'
+
+[8176] StaticText 'GitLab authored '
+
+[8177] time 'Dec 2, 2022 6:46pm EST'
+
+[8391] StaticText '9 months ago'
+
+[8182] group ''
+
+[8393] StaticText '18f93570'
+
+[8184] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8999] button 'master' hasPopup: menu expanded: False
+
+[7844] navigation 'Files breadcrumb'
+
+[9446] link 'awesome_web_agents'
+
+[9488] button 'Add to tree' hasPopup: menu expanded: False
+
+[8396] link 'Find file'
+
+[8401] link 'Web IDE'
+
+[8402] button 'Download'
+
+[9006] StaticText 'Select Archive Format'
+
+[8404] link 'Clone'
+
+[8427] link 'README'
+
+[8428] link 'MIT License'
+
+[8429] link 'CONTRIBUTING'
+
+[8430] link 'CI/CD configuration'
+
+[8431] link 'Add CHANGELOG'
+
+[9070] StaticText 'Auto DevOps enabled'
+
+[8433] link 'Add Kubernetes cluster'
+
+[8434] link 'Configure Integrations'
+
+[7862] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+
+[9075] row ''
+
+[9076] columnheader 'Name' required: False
+
+[9077] columnheader 'Last commit' required: False
+
+[9078] columnheader 'Last update' required: False
+
+[9567] row ''
+
+[9596] gridcell 'app' required: False
+
+[9716] link 'app'
+
+[9597] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9722] link "Initialized from 'Ruby on Rails' project template"
+
+[9598] gridcell '9 months ago' required: False
+
+[9725] time 'Dec 2, 2022 6:46pm EST'
+
+[9568] row ''
+
+[9599] gridcell 'bin' required: False
+
+[9727] link 'bin'
+
+[9600] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9733] link "Initialized from 'Ruby on Rails' project template"
+
+[9601] gridcell '9 months ago' required: False
+
+[9736] time 'Dec 2, 2022 6:46pm EST'
+
+[9569] row ''
+
+[9602] gridcell 'config' required: False
+
+[9738] link 'config'
+
+[9603] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9604] gridcell '9 months ago' required: False</pre><div>
+
+[8232] where [8232] is link 'Create new...' focused: True expanded: False</div>
+
+[8232] to create a new project. I will click on this link to proceed with creating a new project. In summary, the next action I will perform is `click [8232]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page has a link with id [8232] to create a new project. I will click on this link to proceed with creating a new project. In summary, the next action I will perform is `click [8232]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[7788] RootWebArea 'crew / awesome_web_agents · GitLab' focused: True
+
+[7881] link 'Skip to content'
+
+[8062] link 'Dashboard'
+
+[8226] button '' hasPopup: menu expanded: False
+
+[7800] textbox 'Search GitLab' required: False
+
+[9339] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8232] link 'Create new...' focused: True expanded: True
+
+[10340] StaticText 'This project'
+
+[10326] link 'New issue'
+
+[10328] link 'New merge request'
+
+[10325] link 'New snippet'
+
+[10336] link 'Invite members '
+
+[10345] StaticText 'GitLab'
+
+[10344] link 'New project/repository'
+
+[10322] link 'New group'
+
+[10341] link 'New snippet'
+
+[8234] link 'Issues'
+
+[8563] generic '13 assigned issues'
+
+[8235] link 'Merge requests'
+
+[8565] generic '8 merge requests'
+
+[8237] link 'To-Do List'
+
+[8581] generic 'Todos count'
+
+[8238] link 'Help'
+
+[8240] link 'Byte Blaze'
+
+[8615] img 'Byte Blaze'
+
+[7882] complementary 'Project navigation'
+
+[8095] listitem 'awesome_web_agents'
+
+[8242] link 'awesome_web_agents'
+
+[8656] StaticText 'A'
+
+[8243] link 'Project information'
+
+[8245] link 'Repository'
+
+[8247] link 'Issues'
+
+[8721] StaticText '0'
+
+[8249] link 'Merge requests'
+
+[8251] link 'CI/CD'
+
+[8253] link 'Security & Compliance'
+
+[8255] link 'Deployments'
+
+[8257] link 'Packages and registries'
+
+[8259] link 'Infrastructure'
+
+[8261] link 'Monitor'
+
+[8263] link 'Analytics'
+
+[8265] link 'Wiki'
+
+[8267] link 'Snippets'
+
+[8269] link 'Settings'
+
+[8018] button 'Collapse sidebar'
+
+[7886] alert '' live: assertive atomic: True relevant: additions text
+
+[7889] button 'Dismiss'
+
+[7890] alert '' live: assertive atomic: True relevant: additions text
+
+[8129] link 'Add SSH key'
+
+[8130] button "Don't show again"
+
+[7887] navigation 'Breadcrumbs'
+
+[8286] link 'crew'
+
+[8288] link 'awesome_web_agents'
+
+[7804] main ''
+
+[8142] StaticText 'A'
+
+[8035] heading 'awesome_web_agents Public - The project can be accessed without any authentication.'
+
+[8038] generic 'Public - The project can be accessed without any authentication.'
+
+[8041] StaticText 'Project ID: 200 '
+
+[8042] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8044] link 'Leave project'
+
+[8148] button '' hasPopup: menu expanded: False
+
+[8047] button 'Star'
+
+[8048] link '0'
+
+[8153] link 'Fork'
+
+[8050] link '0'
+
+[8384] link '1 Commit'
+
+[8385] link '1 Branch'
+
+[8386] link '0 Tags'
+
+[8387] link '236 KB Project Storage'
+
+[8052] generic '<span class="repository-language-bar-tooltip-language">Ruby</span>&nbsp;<span class="repository-language-bar-tooltip-share">75.0%</span>'
+
+[8053] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">12.5%</span>'
+
+[8054] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">8.6%</span>'
+
+[8055] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.8%</span>'
+
+[8056] generic '<span class="repository-language-bar-tooltip-language">HTML+ERB</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.7%</span>'
+
+[8166] img 'user avatar'
+
+[8170] link "Initialized from 'Ruby on Rails' project template"
+
+[8171] button 'Toggle commit description'
+
+[8176] StaticText 'GitLab authored '
+
+[8177] time 'Dec 2, 2022 6:46pm EST'
+
+[8391] StaticText '9 months ago'
+
+[8182] group ''
+
+[8393] StaticText '18f93570'
+
+[8184] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8999] button 'master' hasPopup: menu expanded: False
+
+[7844] navigation 'Files breadcrumb'
+
+[9446] link 'awesome_web_agents'
+
+[9488] button 'Add to tree' hasPopup: menu expanded: False
+
+[8396] link 'Find file'
+
+[8401] link 'Web IDE'
+
+[8402] button 'Download'
+
+[9006] StaticText 'Select Archive Format'
+
+[8404] link 'Clone'
+
+[8427] link 'README'
+
+[8428] link 'MIT License'
+
+[8429] link 'CONTRIBUTING'
+
+[8430] link 'CI/CD configuration'
+
+[8431] link 'Add CHANGELOG'
+
+[9070] StaticText 'Auto DevOps enabled'
+
+[8433] link 'Add Kubernetes cluster'
+
+[8434] link 'Configure Integrations'
+
+[7862] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+
+[9075] row ''
+
+[9076] columnheader 'Name' required: False
+
+[9077] columnheader 'Last commit' required: False
+
+[9078] columnheader 'Last update' required: False
+
+[9567] row ''
+
+[9596] gridcell 'app' required: False
+
+[9716] link 'app'
+
+[9597] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9722] link "Initialized from 'Ruby on Rails' project template"
+
+[9598] gridcell '9 months ago' required: False
+
+[9725] time 'Dec 2, 2022 6:46pm EST'
+
+[9568] row ''
+
+[9599] gridcell 'bin' required: False
+
+[9727] link 'bin'
+
+[9600] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9733] link "Initialized from 'Ruby on Rails' project template"
+
+[9601] gridcell '9 months ago' required: False
+
+[9736] time 'Dec 2, 2022 6:46pm EST'
+
+[9569] row ''
+
+[9602] gridcell 'config' required: False
+
+[9738] link 'config'
+
+[9603] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9604] gridcell '9 months ago' required: False</pre><div>
+
+[8232] to create a new project. I will click on this link to proceed with creating a new project. In summary, the next action I will perform is `click [8232]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[8232] to create a new project. I will click on this link to proceed with creating a new project. In summary, the next action I will perform is ```click [8232]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '8232', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page has a link with id [8232] to create a new project. I will click on this link to proceed with creating a new project. In summary, the next action I will perform is ```click [8232]```."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [8232] where [8232] is [8232] link 'Create new...' focused: True expanded: True</pre></div></div>
+
+[7788] RootWebArea 'crew / awesome_web_agents · GitLab' focused: True
+
+[7881] link 'Skip to content'
+
+[8062] link 'Dashboard'
+
+[8226] button '' hasPopup: menu expanded: False
+
+[7800] textbox 'Search GitLab' required: False
+
+[9339] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8232] link 'Create new...' focused: True expanded: False
+
+[8234] link 'Issues'
+
+[8563] generic '13 assigned issues'
+
+[8235] link 'Merge requests'
+
+[8565] generic '8 merge requests'
+
+[8237] link 'To-Do List'
+
+[8581] generic 'Todos count'
+
+[8238] link 'Help'
+
+[8240] link 'Byte Blaze'
+
+[8615] img 'Byte Blaze'
+
+[7882] complementary 'Project navigation'
+
+[8095] listitem 'awesome_web_agents'
+
+[8242] link 'awesome_web_agents'
+
+[8656] StaticText 'A'
+
+[8243] link 'Project information'
+
+[8245] link 'Repository'
+
+[8247] link 'Issues'
+
+[8721] StaticText '0'
+
+[8249] link 'Merge requests'
+
+[8251] link 'CI/CD'
+
+[8253] link 'Security & Compliance'
+
+[8255] link 'Deployments'
+
+[8257] link 'Packages and registries'
+
+[8259] link 'Infrastructure'
+
+[8261] link 'Monitor'
+
+[8263] link 'Analytics'
+
+[8265] link 'Wiki'
+
+[8267] link 'Snippets'
+
+[8269] link 'Settings'
+
+[8018] button 'Collapse sidebar'
+
+[7886] alert '' live: assertive atomic: True relevant: additions text
+
+[7889] button 'Dismiss'
+
+[7890] alert '' live: assertive atomic: True relevant: additions text
+
+[8129] link 'Add SSH key'
+
+[8130] button "Don't show again"
+
+[7887] navigation 'Breadcrumbs'
+
+[8286] link 'crew'
+
+[8288] link 'awesome_web_agents'
+
+[7804] main ''
+
+[8142] StaticText 'A'
+
+[8035] heading 'awesome_web_agents Public - The project can be accessed without any authentication.'
+
+[8038] generic 'Public - The project can be accessed without any authentication.'
+
+[8041] StaticText 'Project ID: 200 '
+
+[8042] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8044] link 'Leave project'
+
+[8148] button '' hasPopup: menu expanded: False
+
+[8047] button 'Star'
+
+[8048] link '0'
+
+[8153] link 'Fork'
+
+[8050] link '0'
+
+[8384] link '1 Commit'
+
+[8385] link '1 Branch'
+
+[8386] link '0 Tags'
+
+[8387] link '236 KB Project Storage'
+
+[8052] generic '<span class="repository-language-bar-tooltip-language">Ruby</span>&nbsp;<span class="repository-language-bar-tooltip-share">75.0%</span>'
+
+[8053] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">12.5%</span>'
+
+[8054] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">8.6%</span>'
+
+[8055] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.8%</span>'
+
+[8056] generic '<span class="repository-language-bar-tooltip-language">HTML+ERB</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.7%</span>'
+
+[8166] img 'user avatar'
+
+[8170] link "Initialized from 'Ruby on Rails' project template"
+
+[8171] button 'Toggle commit description'
+
+[8176] StaticText 'GitLab authored '
+
+[8177] time 'Dec 2, 2022 6:46pm EST'
+
+[8391] StaticText '9 months ago'
+
+[8182] group ''
+
+[8393] StaticText '18f93570'
+
+[8184] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8999] button 'master' hasPopup: menu expanded: False
+
+[7844] navigation 'Files breadcrumb'
+
+[9446] link 'awesome_web_agents'
+
+[9488] button 'Add to tree' hasPopup: menu expanded: False
+
+[8396] link 'Find file'
+
+[8401] link 'Web IDE'
+
+[8402] button 'Download'
+
+[9006] StaticText 'Select Archive Format'
+
+[8404] link 'Clone'
+
+[8427] link 'README'
+
+[8428] link 'MIT License'
+
+[8429] link 'CONTRIBUTING'
+
+[8430] link 'CI/CD configuration'
+
+[8431] link 'Add CHANGELOG'
+
+[9070] StaticText 'Auto DevOps enabled'
+
+[8433] link 'Add Kubernetes cluster'
+
+[8434] link 'Configure Integrations'
+
+[7862] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+
+[9075] row ''
+
+[9076] columnheader 'Name' required: False
+
+[9077] columnheader 'Last commit' required: False
+
+[9078] columnheader 'Last update' required: False
+
+[9567] row ''
+
+[9596] gridcell 'app' required: False
+
+[9716] link 'app'
+
+[9597] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9722] link "Initialized from 'Ruby on Rails' project template"
+
+[9598] gridcell '9 months ago' required: False
+
+[9725] time 'Dec 2, 2022 6:46pm EST'
+
+[9568] row ''
+
+[9599] gridcell 'bin' required: False
+
+[9727] link 'bin'
+
+[9600] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9733] link "Initialized from 'Ruby on Rails' project template"
+
+[9601] gridcell '9 months ago' required: False
+
+[9736] time 'Dec 2, 2022 6:46pm EST'
+
+[9569] row ''
+
+[9602] gridcell 'config' required: False
+
+[9738] link 'config'
+
+[9603] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9604] gridcell '9 months ago' required: False</pre><div>
+
+[8232] where [8232] is link 'Create new...' focused: True expanded: True</div>
+
+[8232]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '8232', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page has a link to create a new project. I should click on it to proceed. In summary, the next action I will perform is ```click [8232]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [8232] where [8232] is [8232] link 'Create new...' focused: True expanded: False</pre></div></div>
+
+[7788] RootWebArea 'crew / awesome_web_agents · GitLab' focused: True
+
+[7881] link 'Skip to content'
+
+[8062] link 'Dashboard'
+
+[8226] button '' hasPopup: menu expanded: False
+
+[7800] textbox 'Search GitLab' required: False
+
+[9339] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8232] link 'Create new...' focused: True expanded: True
+
+[10400] StaticText 'This project'
+
+[10387] link 'New issue'
+
+[10402] link 'New merge request'
+
+[10396] link 'New snippet'
+
+[10385] link 'Invite members '
+
+[10382] StaticText 'GitLab'
+
+[10393] link 'New project/repository'
+
+[10399] link 'New group'
+
+[10408] link 'New snippet'
+
+[8234] link 'Issues'
+
+[8563] generic '13 assigned issues'
+
+[8235] link 'Merge requests'
+
+[8565] generic '8 merge requests'
+
+[8237] link 'To-Do List'
+
+[8581] generic 'Todos count'
+
+[8238] link 'Help'
+
+[8240] link 'Byte Blaze'
+
+[8615] img 'Byte Blaze'
+
+[7882] complementary 'Project navigation'
+
+[8095] listitem 'awesome_web_agents'
+
+[8242] link 'awesome_web_agents'
+
+[8656] StaticText 'A'
+
+[8243] link 'Project information'
+
+[8245] link 'Repository'
+
+[8247] link 'Issues'
+
+[8721] StaticText '0'
+
+[8249] link 'Merge requests'
+
+[8251] link 'CI/CD'
+
+[8253] link 'Security & Compliance'
+
+[8255] link 'Deployments'
+
+[8257] link 'Packages and registries'
+
+[8259] link 'Infrastructure'
+
+[8261] link 'Monitor'
+
+[8263] link 'Analytics'
+
+[8265] link 'Wiki'
+
+[8267] link 'Snippets'
+
+[8269] link 'Settings'
+
+[8018] button 'Collapse sidebar'
+
+[7886] alert '' live: assertive atomic: True relevant: additions text
+
+[7889] button 'Dismiss'
+
+[7890] alert '' live: assertive atomic: True relevant: additions text
+
+[8129] link 'Add SSH key'
+
+[8130] button "Don't show again"
+
+[7887] navigation 'Breadcrumbs'
+
+[8286] link 'crew'
+
+[8288] link 'awesome_web_agents'
+
+[7804] main ''
+
+[8142] StaticText 'A'
+
+[8035] heading 'awesome_web_agents Public - The project can be accessed without any authentication.'
+
+[8038] generic 'Public - The project can be accessed without any authentication.'
+
+[8041] StaticText 'Project ID: 200 '
+
+[8042] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8044] link 'Leave project'
+
+[8148] button '' hasPopup: menu expanded: False
+
+[8047] button 'Star'
+
+[8048] link '0'
+
+[8153] link 'Fork'
+
+[8050] link '0'
+
+[8384] link '1 Commit'
+
+[8385] link '1 Branch'
+
+[8386] link '0 Tags'
+
+[8387] link '236 KB Project Storage'
+
+[8052] generic '<span class="repository-language-bar-tooltip-language">Ruby</span>&nbsp;<span class="repository-language-bar-tooltip-share">75.0%</span>'
+
+[8053] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">12.5%</span>'
+
+[8054] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">8.6%</span>'
+
+[8055] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.8%</span>'
+
+[8056] generic '<span class="repository-language-bar-tooltip-language">HTML+ERB</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.7%</span>'
+
+[8166] img 'user avatar'
+
+[8170] link "Initialized from 'Ruby on Rails' project template"
+
+[8171] button 'Toggle commit description'
+
+[8176] StaticText 'GitLab authored '
+
+[8177] time 'Dec 2, 2022 6:46pm EST'
+
+[8391] StaticText '9 months ago'
+
+[8182] group ''
+
+[8393] StaticText '18f93570'
+
+[8184] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8999] button 'master' hasPopup: menu expanded: False
+
+[7844] navigation 'Files breadcrumb'
+
+[9446] link 'awesome_web_agents'
+
+[9488] button 'Add to tree' hasPopup: menu expanded: False
+
+[8396] link 'Find file'
+
+[8401] link 'Web IDE'
+
+[8402] button 'Download'
+
+[9006] StaticText 'Select Archive Format'
+
+[8404] link 'Clone'
+
+[8427] link 'README'
+
+[8428] link 'MIT License'
+
+[8429] link 'CONTRIBUTING'
+
+[8430] link 'CI/CD configuration'
+
+[8431] link 'Add CHANGELOG'
+
+[9070] StaticText 'Auto DevOps enabled'
+
+[8433] link 'Add Kubernetes cluster'
+
+[8434] link 'Configure Integrations'
+
+[7862] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+
+[9075] row ''
+
+[9076] columnheader 'Name' required: False
+
+[9077] columnheader 'Last commit' required: False
+
+[9078] columnheader 'Last update' required: False
+
+[9567] row ''
+
+[9596] gridcell 'app' required: False
+
+[9716] link 'app'
+
+[9597] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9722] link "Initialized from 'Ruby on Rails' project template"
+
+[9598] gridcell '9 months ago' required: False
+
+[9725] time 'Dec 2, 2022 6:46pm EST'
+
+[9568] row ''
+
+[9599] gridcell 'bin' required: False
+
+[9727] link 'bin'
+
+[9600] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9733] link "Initialized from 'Ruby on Rails' project template"
+
+[9601] gridcell '9 months ago' required: False
+
+[9736] time 'Dec 2, 2022 6:46pm EST'
+
+[9569] row ''
+
+[9602] gridcell 'config' required: False
+
+[9738] link 'config'
+
+[9603] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9604] gridcell '9 months ago' required: False</pre><div>
+
+[8232] where [8232] is link 'Create new...' focused: True expanded: False</div>
+
+[10393]` to create a new project.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The previous action was to click on the "Create new..." link. This link is used to create a new item. In this case, we want to create a new project. We need to click on the "New project/repository" link. In summary, the next action I will perform is `click [10393]` to create a new project.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[7788] RootWebArea 'crew / awesome_web_agents · GitLab' focused: True
+
+[7881] link 'Skip to content'
+
+[8062] link 'Dashboard'
+
+[8226] button '' hasPopup: menu expanded: False
+
+[7800] textbox 'Search GitLab' required: False
+
+[9339] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8232] link 'Create new...' focused: True expanded: True
+
+[10400] StaticText 'This project'
+
+[10387] link 'New issue'
+
+[10402] link 'New merge request'
+
+[10396] link 'New snippet'
+
+[10385] link 'Invite members '
+
+[10382] StaticText 'GitLab'
+
+[10393] link 'New project/repository'
+
+[10399] link 'New group'
+
+[10408] link 'New snippet'
+
+[8234] link 'Issues'
+
+[8563] generic '13 assigned issues'
+
+[8235] link 'Merge requests'
+
+[8565] generic '8 merge requests'
+
+[8237] link 'To-Do List'
+
+[8581] generic 'Todos count'
+
+[8238] link 'Help'
+
+[8240] link 'Byte Blaze'
+
+[8615] img 'Byte Blaze'
+
+[7882] complementary 'Project navigation'
+
+[8095] listitem 'awesome_web_agents'
+
+[8242] link 'awesome_web_agents'
+
+[8656] StaticText 'A'
+
+[8243] link 'Project information'
+
+[8245] link 'Repository'
+
+[8247] link 'Issues'
+
+[8721] StaticText '0'
+
+[8249] link 'Merge requests'
+
+[8251] link 'CI/CD'
+
+[8253] link 'Security & Compliance'
+
+[8255] link 'Deployments'
+
+[8257] link 'Packages and registries'
+
+[8259] link 'Infrastructure'
+
+[8261] link 'Monitor'
+
+[8263] link 'Analytics'
+
+[8265] link 'Wiki'
+
+[8267] link 'Snippets'
+
+[8269] link 'Settings'
+
+[8018] button 'Collapse sidebar'
+
+[7886] alert '' live: assertive atomic: True relevant: additions text
+
+[7889] button 'Dismiss'
+
+[7890] alert '' live: assertive atomic: True relevant: additions text
+
+[8129] link 'Add SSH key'
+
+[8130] button "Don't show again"
+
+[7887] navigation 'Breadcrumbs'
+
+[8286] link 'crew'
+
+[8288] link 'awesome_web_agents'
+
+[7804] main ''
+
+[8142] StaticText 'A'
+
+[8035] heading 'awesome_web_agents Public - The project can be accessed without any authentication.'
+
+[8038] generic 'Public - The project can be accessed without any authentication.'
+
+[8041] StaticText 'Project ID: 200 '
+
+[8042] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8044] link 'Leave project'
+
+[8148] button '' hasPopup: menu expanded: False
+
+[8047] button 'Star'
+
+[8048] link '0'
+
+[8153] link 'Fork'
+
+[8050] link '0'
+
+[8384] link '1 Commit'
+
+[8385] link '1 Branch'
+
+[8386] link '0 Tags'
+
+[8387] link '236 KB Project Storage'
+
+[8052] generic '<span class="repository-language-bar-tooltip-language">Ruby</span>&nbsp;<span class="repository-language-bar-tooltip-share">75.0%</span>'
+
+[8053] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">12.5%</span>'
+
+[8054] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">8.6%</span>'
+
+[8055] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.8%</span>'
+
+[8056] generic '<span class="repository-language-bar-tooltip-language">HTML+ERB</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.7%</span>'
+
+[8166] img 'user avatar'
+
+[8170] link "Initialized from 'Ruby on Rails' project template"
+
+[8171] button 'Toggle commit description'
+
+[8176] StaticText 'GitLab authored '
+
+[8177] time 'Dec 2, 2022 6:46pm EST'
+
+[8391] StaticText '9 months ago'
+
+[8182] group ''
+
+[8393] StaticText '18f93570'
+
+[8184] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8999] button 'master' hasPopup: menu expanded: False
+
+[7844] navigation 'Files breadcrumb'
+
+[9446] link 'awesome_web_agents'
+
+[9488] button 'Add to tree' hasPopup: menu expanded: False
+
+[8396] link 'Find file'
+
+[8401] link 'Web IDE'
+
+[8402] button 'Download'
+
+[9006] StaticText 'Select Archive Format'
+
+[8404] link 'Clone'
+
+[8427] link 'README'
+
+[8428] link 'MIT License'
+
+[8429] link 'CONTRIBUTING'
+
+[8430] link 'CI/CD configuration'
+
+[8431] link 'Add CHANGELOG'
+
+[9070] StaticText 'Auto DevOps enabled'
+
+[8433] link 'Add Kubernetes cluster'
+
+[8434] link 'Configure Integrations'
+
+[7862] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+
+[9075] row ''
+
+[9076] columnheader 'Name' required: False
+
+[9077] columnheader 'Last commit' required: False
+
+[9078] columnheader 'Last update' required: False
+
+[9567] row ''
+
+[9596] gridcell 'app' required: False
+
+[9716] link 'app'
+
+[9597] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9722] link "Initialized from 'Ruby on Rails' project template"
+
+[9598] gridcell '9 months ago' required: False
+
+[9725] time 'Dec 2, 2022 6:46pm EST'
+
+[9568] row ''
+
+[9599] gridcell 'bin' required: False
+
+[9727] link 'bin'
+
+[9600] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9733] link "Initialized from 'Ruby on Rails' project template"
+
+[9601] gridcell '9 months ago' required: False
+
+[9736] time 'Dec 2, 2022 6:46pm EST'
+
+[9569] row ''
+
+[9602] gridcell 'config' required: False
+
+[9738] link 'config'
+
+[9603] gridcell "Initialized from 'Ruby on Rails' project template" required: False
+
+[9604] gridcell '9 months ago' required: False</pre><div>
+
+[10393]` to create a new project.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[10393]``` to create a new project.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '10393', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [10393]``` to create a new project.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [10393] where [10393] is [10393] link 'New project/repository'</pre></div></div>
+
+[10416] RootWebArea 'New Project · GitLab' focused: True
+
+[10671] link 'Skip to content'
+
+[11721] link 'Dashboard'
+
+[11789] button '' hasPopup: menu expanded: False
+
+[10428] textbox 'Search GitLab' required: False
+
+[11978] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[11795] link 'Create new...'
+
+[11797] link 'Issues'
+
+[11882] generic '13 assigned issues'
+
+[11798] link 'Merge requests'
+
+[11884] generic '8 merge requests'
+
+[11800] link 'To-Do List'
+
+[11900] generic 'Todos count'
+
+[11999] StaticText '5'
+
+[11801] link 'Help'
+
+[11803] link 'Byte Blaze'
+
+[11934] img 'Byte Blaze'
+
+[10432] main ''
+
+[10772] heading 'Create new project'
+
+[10779] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[10783] heading 'Create blank project'
+
+[10787] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[10791] heading 'Create from template'
+
+[10795] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[10799] heading 'Import project'
+
+[10804] StaticText 'You can also create a project from the command line. '
+
+[10805] link 'Show command'</pre><div>
+
+[10393] where [10393] is link 'New project/repository'</div>
+
+[10779]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '10779', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. On this page, I need to create a new project with the name "awesome_web_agents" and choose the "blank" template. Then, I need to add Abishek and Vinta as members to the project. To start, I will click on the link "Create blank project" to create a new project with a blank template. In summary, the next action I will perform is ```click [10779]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [10779] where [10779] is [10779] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'</pre></div></div>
+
+[10416] RootWebArea 'New Project · GitLab' focused: True
+
+[10671] link 'Skip to content'
+
+[11721] link 'Dashboard'
+
+[11789] button '' hasPopup: menu expanded: False
+
+[10428] textbox 'Search GitLab' required: False
+
+[11978] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[11795] link 'Create new...'
+
+[11797] link 'Issues'
+
+[11882] generic '13 assigned issues'
+
+[11798] link 'Merge requests'
+
+[11884] generic '8 merge requests'
+
+[11800] link 'To-Do List'
+
+[11900] generic 'Todos count'
+
+[11999] StaticText '5'
+
+[11801] link 'Help'
+
+[11803] link 'Byte Blaze'
+
+[11934] img 'Byte Blaze'
+
+[10432] main ''
+
+[12051] heading 'Create blank project'
+
+[12056] StaticText 'Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[12053] navigation 'Breadcrumb'
+
+[12073] link 'New project'
+
+[12074] link 'Create blank project'
+
+[12163] StaticText 'Project name'
+
+[12023] textbox 'Project name' required: True
+
+[12167] StaticText 'Project URL'
+
+[12026] group ''
+
+[12182] generic 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/'
+
+[12187] button '\u200ecrew\u200e' hasPopup: menu expanded: False
+
+[12191] generic 'crew'
+
+[12170] StaticText 'Project slug'
+
+[12034] textbox 'Project slug' required: True
+
+[12077] StaticText 'Want to organize several dependent projects under the same namespace? '
+
+[12078] link 'Create a group.'
+
+[12091] StaticText 'Visibility Level '
+
+[12092] link 'Documentation for Visibility Level'
+
+[12038] radio ' Private Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.' checked: false
+
+[12040] radio ' Internal The project can be accessed by any logged in user except external users.' checked: false
+
+[12042] radio ' Public The project can be accessed without any authentication.' checked: true
+
+[12097] StaticText 'Project Configuration'
+
+[12045] checkbox 'Initialize repository with a README Allows you to immediately clone this project’s repository. Skip this if you plan to push up an existing repository.' checked: true
+
+[12048] checkbox 'Enable Static Application Security Testing (SAST) Analyze your source code for known security vulnerabilities. Learn more.' checked: false
+
+[12157] link 'Learn more.'
+
+[12071] button 'Create project'
+
+[12072] link 'Cancel'</pre><div>
+
+[10779] where [10779] is link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'</div>
+
+[12038]``` to select the "Private" option for Visibility Level.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '12038', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the project creation page in GitLab. I have clicked on the "Create blank project" link. To start a private project, I need to select the "Private" option for the Visibility Level. Then, I can fill in the Project name and Project slug with "awesome_web_agents". Finally, I can click on the "Create project" button. In summary, the next action I will perform is ```click [12038]``` to select the "Private" option for Visibility Level.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [12038] where [12038] is [12038] radio ' Private Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.' checked: false</pre></div></div>
+
+[10416] RootWebArea 'New Project · GitLab' focused: True
+
+[10671] link 'Skip to content'
+
+[11721] link 'Dashboard'
+
+[11789] button '' hasPopup: menu expanded: False
+
+[10428] textbox 'Search GitLab' required: False
+
+[11978] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[11795] link 'Create new...'
+
+[11797] link 'Issues'
+
+[11882] generic '13 assigned issues'
+
+[11798] link 'Merge requests'
+
+[11884] generic '8 merge requests'
+
+[11800] link 'To-Do List'
+
+[11900] generic 'Todos count'
+
+[11999] StaticText '5'
+
+[11801] link 'Help'
+
+[11803] link 'Byte Blaze'
+
+[11934] img 'Byte Blaze'
+
+[10432] main ''
+
+[12051] heading 'Create blank project'
+
+[12056] StaticText 'Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[12053] navigation 'Breadcrumb'
+
+[12073] link 'New project'
+
+[12074] link 'Create blank project'
+
+[12163] StaticText 'Project name'
+
+[12023] textbox 'Project name' required: True
+
+[12167] StaticText 'Project URL'
+
+[12026] group ''
+
+[12182] generic 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/'
+
+[12187] button '\u200ecrew\u200e' hasPopup: menu expanded: False
+
+[12191] generic 'crew'
+
+[12170] StaticText 'Project slug'
+
+[12034] textbox 'Project slug' required: True
+
+[12077] StaticText 'Want to organize several dependent projects under the same namespace? '
+
+[12078] link 'Create a group.'
+
+[12091] StaticText 'Visibility Level '
+
+[12092] link 'Documentation for Visibility Level'
+
+[12038] radio ' Private Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.' focused: True checked: true
+
+[12040] radio ' Internal The project can be accessed by any logged in user except external users.' checked: false
+
+[12042] radio ' Public The project can be accessed without any authentication.' checked: false
+
+[12097] StaticText 'Project Configuration'
+
+[12045] checkbox 'Initialize repository with a README Allows you to immediately clone this project’s repository. Skip this if you plan to push up an existing repository.' checked: true
+
+[12048] checkbox 'Enable Static Application Security Testing (SAST) Analyze your source code for known security vulnerabilities. Learn more.' checked: false
+
+[12157] link 'Learn more.'
+
+[12071] button 'Create project'
+
+[12072] link 'Cancel'</pre><div>
+
+[12038] where [12038] is radio ' Private Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.' checked: false</div>
+
+[12023] and the project slug field has the ID [12034]. I will fill in these fields with the project name "awesome_web_agents". After filling in the fields, I will click the "Create project" button to start the project. In summary, the next action I will perform is `type [12023] [awesome_web_agents]` followed by `type [12034] [awesome-web-agents]` and finally `click [12071]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. I have clicked on the radio button for "Private" access for the project. Now I need to fill in the project name and slug. The project name field has the ID [12023] and the project slug field has the ID [12034]. I will fill in these fields with the project name "awesome_web_agents". After filling in the fields, I will click the "Create project" button to start the project. In summary, the next action I will perform is `type [12023] [awesome_web_agents]` followed by `type [12034] [awesome-web-agents]` and finally `click [12071]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[10416] RootWebArea 'New Project · GitLab' focused: True
+
+[10671] link 'Skip to content'
+
+[11721] link 'Dashboard'
+
+[11789] button '' hasPopup: menu expanded: False
+
+[10428] textbox 'Search GitLab' required: False
+
+[11978] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[11795] link 'Create new...'
+
+[11797] link 'Issues'
+
+[11882] generic '13 assigned issues'
+
+[11798] link 'Merge requests'
+
+[11884] generic '8 merge requests'
+
+[11800] link 'To-Do List'
+
+[11900] generic 'Todos count'
+
+[11999] StaticText '5'
+
+[11801] link 'Help'
+
+[11803] link 'Byte Blaze'
+
+[11934] img 'Byte Blaze'
+
+[10432] main ''
+
+[12051] heading 'Create blank project'
+
+[12056] StaticText 'Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[12053] navigation 'Breadcrumb'
+
+[12073] link 'New project'
+
+[12074] link 'Create blank project'
+
+[12163] StaticText 'Project name'
+
+[12023] textbox 'Project name' required: True
+
+[12167] StaticText 'Project URL'
+
+[12026] group ''
+
+[12182] generic 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/'
+
+[12187] button '\u200ecrew\u200e' hasPopup: menu expanded: False
+
+[12191] generic 'crew'
+
+[12170] StaticText 'Project slug'
+
+[12034] textbox 'Project slug' required: True
+
+[12077] StaticText 'Want to organize several dependent projects under the same namespace? '
+
+[12078] link 'Create a group.'
+
+[12091] StaticText 'Visibility Level '
+
+[12092] link 'Documentation for Visibility Level'
+
+[12038] radio ' Private Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.' focused: True checked: true
+
+[12040] radio ' Internal The project can be accessed by any logged in user except external users.' checked: false
+
+[12042] radio ' Public The project can be accessed without any authentication.' checked: false
+
+[12097] StaticText 'Project Configuration'
+
+[12045] checkbox 'Initialize repository with a README Allows you to immediately clone this project’s repository. Skip this if you plan to push up an existing repository.' checked: true
+
+[12048] checkbox 'Enable Static Application Security Testing (SAST) Analyze your source code for known security vulnerabilities. Learn more.' checked: false
+
+[12157] link 'Learn more.'
+
+[12071] button 'Create project'
+
+[12072] link 'Cancel'</pre><div>
+
+[12023] and the project slug field has the ID [12034]. I will fill in these fields with the project name "awesome_web_agents". After filling in the fields, I will click the "Create project" button to start the project. In summary, the next action I will perform is `type [12023] [awesome_web_agents]` followed by `type [12034] [awesome-web-agents]` and finally `click [12071]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[12023] [awesome_web_agents]
+
+[12034] [awesome-web-agents]
+
+[12071]
+
+[12023] [awesome_web_agents]\ntype [12034] [awesome-web-agents]\nclick [12071]\n```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[10416] RootWebArea 'New Project · GitLab' focused: True
+
+[10671] link 'Skip to content'
+
+[11721] link 'Dashboard'
+
+[11789] button '' hasPopup: menu expanded: False
+
+[10428] textbox 'Search GitLab' required: False
+
+[11978] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[11795] link 'Create new...'
+
+[11797] link 'Issues'
+
+[11882] generic '13 assigned issues'
+
+[11798] link 'Merge requests'
+
+[11884] generic '8 merge requests'
+
+[11800] link 'To-Do List'
+
+[11900] generic 'Todos count'
+
+[11999] StaticText '5'
+
+[11801] link 'Help'
+
+[11803] link 'Byte Blaze'
+
+[11934] img 'Byte Blaze'
+
+[10432] main ''
+
+[12051] heading 'Create blank project'
+
+[12056] StaticText 'Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[12053] navigation 'Breadcrumb'
+
+[12073] link 'New project'
+
+[12074] link 'Create blank project'
+
+[12163] StaticText 'Project name'
+
+[12023] textbox 'Project name' required: True
+
+[12167] StaticText 'Project URL'
+
+[12026] group ''
+
+[12182] generic 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/'
+
+[12187] button '\u200ecrew\u200e' hasPopup: menu expanded: False
+
+[12191] generic 'crew'
+
+[12170] StaticText 'Project slug'
+
+[12034] textbox 'Project slug' required: True
+
+[12077] StaticText 'Want to organize several dependent projects under the same namespace? '
+
+[12078] link 'Create a group.'
+
+[12091] StaticText 'Visibility Level '
+
+[12092] link 'Documentation for Visibility Level'
+
+[12038] radio ' Private Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.' focused: True checked: true
+
+[12040] radio ' Internal The project can be accessed by any logged in user except external users.' checked: false
+
+[12042] radio ' Public The project can be accessed without any authentication.' checked: false
+
+[12097] StaticText 'Project Configuration'
+
+[12045] checkbox 'Initialize repository with a README Allows you to immediately clone this project’s repository. Skip this if you plan to push up an existing repository.' checked: true
+
+[12048] checkbox 'Enable Static Application Security Testing (SAST) Analyze your source code for known security vulnerabilities. Learn more.' checked: false
+
+[12157] link 'Learn more.'
+
+[12071] button 'Create project'
+
+[12072] link 'Cancel'</pre><div>
+
+[12023] [awesome_web_agents]
+
+[12034] [awesome-web-agents]
+
+[12071]
+

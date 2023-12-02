@@ -1,0 +1,29 @@
+Tab 0 (current): New Group · GitLab
+
+[6842] RootWebArea 'New Group · GitLab' focused: True
+	[6932] link 'Skip to content'
+	[7248] link 'Dashboard'
+	[7308] button '' hasPopup: menu expanded: False
+	[6854] textbox 'Search GitLab' required: False
+	[7497] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[7314] link 'Create new...' focused: True expanded: True describedby: gl-tooltip1
+	[7543] link 'New project/repository'
+	[7544] link 'New group'
+	[7538] link 'New snippet'
+	[7316] link 'Issues'
+		[7401] generic '13 assigned issues'
+	[7317] link 'Merge requests'
+		[7403] generic '8 merge requests'
+	[7319] link 'To-Do List'
+		[7419] generic 'Todos count'
+			[7518] StaticText '5'
+	[7320] link 'Help'
+	[7322] link 'Byte Blaze'
+		[7453] img 'Byte Blaze'
+	[6858] main ''
+		[7032] heading 'Create new group'
+		[7037] link 'Create group Assemble related projects together and grant members access to several projects at once.'
+			[7041] heading 'Create group'
+		[7045] link 'Import group Import a group and related data from another GitLab instance.'
+			[7049] heading 'Import group'
+	[7546] tooltip 'Create new...'</pre><div>

@@ -1,0 +1,35 @@
+Tab 0 (current): agi_index · Search · GitLab
+
+[4254] RootWebArea 'agi_index · Search · GitLab' focused: True
+	[4304] link 'Skip to content'
+	[4416] link 'Dashboard'
+	[4472] button '' hasPopup: menu expanded: False
+	[4478] link 'Create new...'
+	[4480] link 'Issues'
+		[4635] generic '13 assigned issues'
+	[4481] link 'Merge requests'
+		[4637] generic '8 merge requests'
+	[4483] link 'To-Do List'
+		[4653] generic 'Todos count'
+	[4484] link 'Help'
+	[4486] link 'Byte Blaze'
+		[4687] img 'Byte Blaze'
+	[4260] main ''
+		[4406] heading 'Search'
+		[4453] StaticText 'What are you searching for?'
+		[4265] group ''
+			[4266] searchbox 'Search for projects, issues, etc.'
+				[4725] StaticText 'agi_index'
+			[4454] button 'Clear'
+			[4494] button 'Search'
+		[4457] StaticText 'Group'
+		[4458] button 'Any' hasPopup: menu expanded: False
+		[4460] StaticText 'Project'
+		[4461] button 'Any' hasPopup: menu expanded: False
+		[4408] separator '' orientation: horizontal
+		[4738] link 'Projects 0'
+		[4739] link 'Issues 3'
+		[4740] link 'Merge requests 0'
+		[4741] link 'Milestones 0'
+		[4742] link 'Users 0'
+		[4465] heading " We couldn't find any projects matching agi_index"</pre><div>

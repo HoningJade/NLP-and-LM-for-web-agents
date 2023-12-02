@@ -1,0 +1,96 @@
+Tab 0 (current): crew / llm_bulk_inference · GitLab
+
+[3686] RootWebArea 'crew / llm_bulk_inference · GitLab' focused: True
+	[3783] link 'Skip to content'
+	[3968] link 'Dashboard'
+	[4124] button '' hasPopup: menu expanded: False
+	[3698] textbox 'Search GitLab' required: False
+	[5234] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[4130] link 'Create new...'
+	[4132] link 'Issues'
+		[4458] generic '13 assigned issues'
+	[4133] link 'Merge requests'
+		[4460] generic '8 merge requests'
+	[4135] link 'To-Do List'
+		[4476] generic 'Todos count'
+	[4136] link 'Help'
+	[4138] link 'Byte Blaze'
+		[4510] img 'Byte Blaze'
+	[3784] complementary 'Project navigation'
+		[4001] listitem 'llm_bulk_inference'
+			[4140] link 'llm_bulk_inference'
+				[4551] StaticText 'L'
+		[4141] link 'Project information'
+		[4143] link 'Repository'
+		[4145] link 'Issues'
+			[4616] StaticText '0'
+		[4147] link 'Merge requests'
+		[4149] link 'CI/CD'
+		[4151] link 'Security & Compliance'
+		[4153] link 'Deployments'
+		[4155] link 'Packages and registries'
+		[4157] link 'Infrastructure'
+		[4159] link 'Monitor'
+		[4161] link 'Analytics'
+		[4163] link 'Wiki'
+		[4165] link 'Snippets'
+		[4167] link 'Settings'
+		[3923] button 'Collapse sidebar'
+	[3788] alert '' live: assertive atomic: True relevant: additions text
+		[3792] button 'Dismiss'
+		[3793] alert '' live: assertive atomic: True relevant: additions text
+			[4035] link 'Add SSH key'
+			[4036] button "Don't show again"
+	[3789] alert '' live: assertive atomic: True relevant: additions text
+		[3795] button 'Dismiss'
+		[3796] alert '' live: assertive atomic: True relevant: additions text
+			[4042] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+			[4044] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+			[4045] link 'Settings'
+			[4046] link 'More information'
+	[3790] navigation 'Breadcrumbs'
+		[4184] link 'crew'
+		[4186] link 'llm_bulk_inference'
+	[3702] main ''
+		[3939] alert '' live: assertive atomic: True relevant: additions text
+			[4059] button 'Dismiss'
+			[4060] alert '' live: assertive atomic: True relevant: additions text
+		[4061] StaticText 'L'
+		[3947] heading 'llm_bulk_inference Public - The project can be accessed without any authentication.'
+			[3950] generic 'Public - The project can be accessed without any authentication.'
+		[3953] StaticText 'Project ID: 199 '
+		[3954] button 'Copy project ID' live: polite atomic: False relevant: additions text
+		[4066] button '' hasPopup: menu expanded: False
+		[3958] button 'Star'
+		[3959] link '0'
+		[4071] link 'Fork'
+		[3961] link '0'
+		[4287] link '1 Commit'
+		[4288] link '1 Branch'
+		[4289] link '0 Tags'
+		[4290] link '61 KB Project Storage'
+		[5448] link ''
+		[5455] link 'Initial commit'
+		[5458] link 'Byte Blaze'
+		[5459] StaticText ' authored '
+		[5460] time 'Sep 12, 2023 2:09am EDT'
+			[5466] StaticText 'just now'
+		[5461] group ''
+			[5468] StaticText 'c972ff63'
+			[5463] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[4895] button 'main' hasPopup: menu expanded: False
+		[3742] navigation 'Files breadcrumb'
+			[5337] link 'llm_bulk_inference'
+			[5379] button 'Add to tree' hasPopup: menu expanded: False
+		[4292] link 'Find file'
+		[4297] link 'Web IDE'
+		[4298] button 'Download'
+			[4902] StaticText 'Select Archive Format'
+		[4300] link 'Clone'
+		[4323] link 'README'
+		[4324] link 'Auto DevOps enabled'
+		[4325] link 'Add LICENSE'
+		[4326] link 'Add CHANGELOG'
+		[4327] link 'Add CONTRIBUTING'
+		[4328] link 'Add Kubernetes cluster'
+		[4329] link 'Configure Integrations'</pre><div>

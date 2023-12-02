@@ -1,0 +1,86 @@
+Tab 0 (current): Relation: ‪Carnegie Mellon University‬ (‪2279034‬) | OpenStreetMap
+
+[1] RootWebArea 'Relation: \u202aCarnegie Mellon University\u202c (\u202a2279034\u202c) | OpenStreetMap' focused: True
+	[104] heading 'OpenStreetMap logo OpenStreetMap'
+		[109] link 'OpenStreetMap logo OpenStreetMap'
+			[112] img 'OpenStreetMap logo'
+	[390] link 'Edit'
+	[391] button ''
+	[362] link 'History'
+	[363] link 'Export'
+	[395] link 'GPS Traces'
+	[396] link 'User Diaries'
+	[397] link 'Communities'
+	[398] link 'Copyright'
+	[399] link 'Help'
+	[400] link 'About'
+	[371] link 'Log In'
+	[372] link 'Sign Up'
+	[812] link 'Where is this?'
+	[12] textbox 'Search' required: False
+	[495] button 'Go'
+	[482] link 'Find directions between two points'
+	[826] heading 'Relation: Carnegie Mellon University (2279034)'
+	[835] button 'Close'
+	[836] heading 'Version #12'
+	[843] StaticText '(no comment)'
+	[853] StaticText 'Edited '
+	[854] Abbr 'Tue, 16 Nov 2021 01:24:51 +0000'
+		[906] StaticText 'almost 2 years ago'
+	[855] StaticText ' by anonymous'
+	[856] StaticText 'Changeset #'
+	[857] link '0'
+	[839] heading 'Tags'
+	[840] table ''
+		[858] row ''
+			[868] rowheader 'amenity' required: False
+				[908] link 'amenity'
+			[869] gridcell 'university' required: False
+				[910] link 'university'
+		[859] row ''
+			[870] rowheader 'gnis:county_id' required: False
+			[871] gridcell '003' required: False
+		[860] row ''
+			[872] rowheader 'gnis:created' required: False
+			[873] gridcell '08/30/1990' required: False
+		[861] row ''
+			[874] rowheader 'gnis:feature_id' required: False
+				[916] link 'gnis:feature_id'
+			[875] gridcell '1217343' required: False
+		[862] row ''
+			[876] rowheader 'gnis:state_id' required: False
+			[877] gridcell '42' required: False
+		[863] row ''
+			[878] rowheader 'name' required: False
+				[921] link 'name'
+			[879] gridcell 'Carnegie Mellon University' required: False
+		[864] row ''
+			[880] rowheader 'name:ko' required: False
+				[924] link 'name:ko'
+			[881] gridcell '카네기 멜론 대학' required: False
+		[865] row ''
+			[882] rowheader 'short_name' required: False
+				[927] link 'short_name'
+			[883] gridcell 'CMU' required: False
+		[866] row ''
+			[884] rowheader 'type' required: False
+				[930] link 'type'
+			[885] gridcell 'multipolygon' required: False
+				[932] link 'multipolygon'
+	[50] generic 'Zoom In Zoom Out Show My Location Layers Share 100 m 500 ft © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+		[54] link 'Zoom In'
+		[55] link 'Zoom Out'
+		[57] button 'Show My Location'
+		[59] link 'Layers'
+		[301] link ''
+		[61] link 'Share'
+		[303] link ''
+		[305] link ''
+		[776] StaticText '100 m'
+		[777] StaticText '500 ft'
+		[313] StaticText '© '
+		[314] link 'OpenStreetMap contributors'
+		[315] StaticText ' ♥ '
+		[316] link 'Make a Donation'
+		[317] StaticText '. '
+		[318] link 'Website and API terms'</pre><div>

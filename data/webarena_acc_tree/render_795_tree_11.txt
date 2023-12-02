@@ -1,0 +1,68 @@
+Tab 0 (current): My Account | Tab 1: Order # 000000170 | Tab 2: Order # 000000170
+
+[9532] RootWebArea 'My Account' focused: True
+	[10897] link 'My Account'
+	[10895] link 'My Wish List'
+	[10899] link 'Sign Out'
+	[10902] StaticText 'Welcome to One Stop Market'
+	[10720] link 'Skip to Content'
+	[10729] link 'store logo'
+		[10905] img 'one_stop_market_logo'
+	[10906] link '\ue611 My Cart'
+	[11813] StaticText 'Search'
+	[9543] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+	[11816] link 'Advanced Search'
+	[11095] button 'Search' disabled: True
+	[10625] tablist '' multiselectable: False orientation: horizontal
+		[10627] tabpanel ''
+			[9569] menu '' orientation: vertical
+				[10320] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+				[10385] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+				[10395] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+				[10409] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+				[10446] menuitem '\ue622 Office Products' hasPopup: menu
+				[10454] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+				[10459] menuitem '\ue622 Health & Household' hasPopup: menu
+				[10465] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+				[10470] menuitem '\ue622 Electronics' hasPopup: menu
+				[10531] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+				[10546] menuitem '\ue622 Video Games' hasPopup: menu
+				[10559] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+	[9544] main ''
+		[10761] heading 'My Account'
+		[10767] StaticText 'Account Information'
+		[10774] StaticText 'Contact Information'
+		[10776] StaticText 'Emma231 Willow Way, Suite 100, Chicago, IL, 606012EmmaEmmaEmmaEmma231231 Willow Way, Suite 100, Chicago, IL, 60601231 Willow Way, Suite 100, Chicago, IL, 60601Emma231 Willow Way, Suite 100, Chicago, IL, 6060131 Willow Way, Suite 100, Chicago, IL, 60601 LopezLopezLopez'
+		[10777] LineBreak '\n'
+		[10778] StaticText 'emma.lopez@gmail.com'
+		[10779] LineBreak '\n'
+		[10780] link 'Edit'
+		[10781] link 'Change Password'
+		[10786] StaticText 'Newsletters'
+		[10789] link 'Edit'
+		[10793] StaticText 'Address Book'
+		[10795] link 'Manage Addresses'
+		[10802] StaticText 'Default Billing Address'
+		[10803] group ''
+			[10804] StaticText 'EmmaEmma Lopez654 Aspen Road'
+			[10805] LineBreak '\n'
+			[10807] LineBreak '\n'
+			[10809] LineBreak '\n'
+			[10811] LineBreak '\n'
+		[10819] StaticText 'Default Shipping Address'
+		[10820] group ''
+			[10821] StaticText 'EmmaEmma Lopez654 Aspen Road'
+			[10822] LineBreak '\n'
+			[10824] LineBreak '\n'
+			[10826] LineBreak '\n'
+			[10828] LineBreak '\n'
+		[10847] StaticText 'My Account'
+		[11070] link 'My Orders'
+		[11071] link 'My Downloadable Products'
+		[11072] link 'My Wish List'
+		[11074] link 'Address Book'
+		[11075] link 'Account Information'
+		[11076] link 'Stored Payment Methods'
+		[11078] link 'My Product Reviews'
+		[11079] link 'Newsletter Subscriptions'
+		[10853] heading 'Compare Products'</pre><div>

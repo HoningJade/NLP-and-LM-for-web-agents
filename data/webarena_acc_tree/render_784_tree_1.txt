@@ -1,0 +1,108 @@
+Tab 0 (current): CellularPrivacy / Android-IMSI-Catcher-Detector · GitLab
+
+[1] RootWebArea 'CellularPrivacy / Android-IMSI-Catcher-Detector · GitLab' focused: True
+	[151] link 'Skip to content'
+	[319] link 'Dashboard'
+	[446] button '' hasPopup: menu expanded: False
+	[13] textbox 'Search GitLab' required: False
+	[1443] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[452] link 'Create new...'
+	[454] link 'Issues'
+		[892] generic '13 assigned issues'
+	[455] link 'Merge requests'
+		[894] generic '8 merge requests'
+	[457] link 'To-Do List'
+		[910] generic 'Todos count'
+	[458] link 'Help'
+	[460] link 'Byte Blaze'
+		[944] img 'Byte Blaze'
+	[152] complementary 'Project navigation'
+		[352] listitem 'Android-IMSI-Catcher-Detector'
+			[462] link 'Android-IMSI-Catcher-Detector'
+		[463] link 'Project information'
+		[465] link 'Repository'
+		[467] link 'Issues'
+			[1050] StaticText '162'
+		[469] link 'Merge requests'
+		[471] link 'CI/CD'
+		[473] link 'Deployments'
+		[475] link 'Packages and registries'
+		[477] link 'Monitor'
+		[479] link 'Analytics'
+		[481] link 'Wiki'
+		[483] link 'Snippets'
+		[273] button 'Collapse sidebar'
+	[156] alert '' live: assertive atomic: True relevant: additions text
+		[159] button 'Dismiss'
+		[160] alert '' live: assertive atomic: True relevant: additions text
+			[383] link 'Add SSH key'
+			[384] button "Don't show again"
+	[157] navigation 'Breadcrumbs'
+		[500] link 'CellularPrivacy'
+		[502] link 'Android-IMSI-Catcher-Detector'
+	[17] main ''
+		[290] heading 'Android-IMSI-Catcher-Detector Public - The project can be accessed without any authentication.'
+			[293] generic 'Public - The project can be accessed without any authentication.'
+		[296] StaticText 'Project ID: 61 '
+		[297] button 'Copy project ID' live: polite atomic: False relevant: additions text
+		[299] link 'Request Access'
+		[402] button '' hasPopup: menu expanded: False
+		[302] button 'Star'
+		[303] link '28'
+		[407] link 'Fork'
+		[305] link '0'
+		[598] link '2,642 Commits'
+		[599] link '11 Branches'
+		[600] link '49 Tags'
+		[1224] StaticText '258.9 MB'
+		[1220] StaticText ' Project Storage'
+		[602] link '48 Releases'
+		[311] StaticText 'AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!'
+		[313] generic '<span class="repository-language-bar-tooltip-language">Java</span>&nbsp;<span class="repository-language-bar-tooltip-share">100.0%</span>'
+		[421] img 'user avatar'
+		[425] link 'Translated using Weblate (Portuguese)'
+		[426] button 'Toggle commit description'
+		[431] StaticText 'ssantos authored '
+		[432] time 'Mar 18, 2023 6:18am EDT'
+			[606] StaticText '5 months ago'
+		[436] button 'Unverified'
+		[435] group ''
+			[609] StaticText '0f9268c5'
+			[438] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[1232] button 'development' hasPopup: menu expanded: False
+		[77] navigation 'Files breadcrumb'
+			[1958] link 'Android-IMSI-Catcher-Detector'
+			[2207] button 'Add to tree' hasPopup: menu expanded: False
+		[612] link 'Find file'
+		[617] link 'Web IDE'
+		[618] button 'Download'
+			[1239] StaticText 'Select Archive Format'
+		[620] link 'Clone'
+		[643] link 'README'
+		[644] link 'GNU GPLv3'
+		[645] link 'CHANGELOG'
+		[46] table 'Files, directories, and submodules in the path / for commit reference development' live: polite atomic: False relevant: additions text
+			[1299] row ''
+				[1300] columnheader 'Name' required: False
+				[1301] columnheader 'Last commit' required: False
+				[1302] columnheader 'Last update' required: False
+			[1303] row ''
+				[1318] gridcell '.github' required: False
+					[1981] link '.github'
+				[1319] gridcell 'Reduce visual noise' required: False
+					[1987] link 'Reduce visual noise'
+				[1320] gridcell '6 years ago' required: False
+					[1990] time 'Jan 1, 2017 11:37am EST'
+			[1304] row ''
+				[1321] gridcell '.idea' required: False
+					[1992] link '.idea'
+				[1322] gridcell 'Improve Checkstyle Configuration' required: False
+					[1998] link 'Improve Checkstyle Configuration'
+				[1323] gridcell '6 years ago' required: False
+					[2001] time 'Apr 11, 2017 6:19pm EDT'
+			[1305] row ''
+				[1324] gridcell 'AIMSICD' required: False
+					[2003] link 'AIMSICD'
+				[1325] gridcell 'Translated using Weblate (Portuguese)' required: False
+					[2009] link 'Translated using Weblate (Portuguese)'
+				[1326] gridcell '5 months ago' required: False</pre><div>

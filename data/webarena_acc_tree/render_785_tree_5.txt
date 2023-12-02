@@ -1,0 +1,138 @@
+Tab 0 (current): Commits · master · CellularPrivacy / Android-IMSI-Catcher-Detector · GitLab
+
+[3970] RootWebArea 'Commits · master · CellularPrivacy / Android-IMSI-Catcher-Detector · GitLab' focused: True
+	[4260] link 'Skip to content'
+	[4386] link 'Dashboard'
+	[4471] button '' hasPopup: menu expanded: False
+	[3982] textbox 'Search GitLab' required: False
+	[5461] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[4477] link 'Create new...'
+	[4479] link 'Issues'
+		[4687] generic '13 assigned issues'
+	[4480] link 'Merge requests'
+		[4689] generic '8 merge requests'
+	[4482] link 'To-Do List'
+		[4705] generic 'Todos count'
+	[4483] link 'Help'
+	[4485] link 'Byte Blaze'
+		[4739] img 'Byte Blaze'
+	[4261] complementary 'Project navigation'
+		[4419] listitem 'Android-IMSI-Catcher-Detector'
+			[4487] link 'Android-IMSI-Catcher-Detector'
+		[4488] link 'Project information'
+		[4490] link 'Repository'
+		[5501] link 'Files'
+		[5502] link 'Commits'
+		[5503] link 'Branches'
+		[5504] link 'Tags'
+		[5505] link 'Contributors'
+		[5506] link 'Graph'
+		[5507] link 'Compare'
+		[4492] link 'Issues'
+			[4821] StaticText '162'
+		[4494] link 'Merge requests'
+			[4850] StaticText '5'
+		[4496] link 'CI/CD'
+		[4498] link 'Deployments'
+		[4500] link 'Packages and registries'
+		[4502] link 'Monitor'
+		[4504] link 'Analytics'
+		[4506] link 'Wiki'
+		[4508] link 'Snippets'
+		[4377] button 'Collapse sidebar'
+	[4265] navigation 'Breadcrumbs'
+		[4525] link 'CellularPrivacy'
+		[4527] link 'Android-IMSI-Catcher-Detector'
+		[4529] link 'Commits'
+	[3986] main ''
+		[4530] button 'master' hasPopup: menu expanded: False
+		[4531] link 'Android-IMSI-Catcher-Detector'
+		[4532] button 'Author' hasPopup: menu expanded: False
+		[3993] searchbox 'Search by message'
+		[4459] link 'Commits feed'
+		[4540] StaticText '01 May, 2016'
+		[4543] StaticText '5 commits'
+		[5597] link "Security: PWNED's avatar"
+			[6154] img "Security: PWNED's avatar"
+		[5599] link 'Merge pull request #868 from CellularPrivacy/development'
+		[5601] button 'Toggle commit description'
+		[5606] link 'Security: PWNED'
+		[5607] StaticText ' authored '
+		[4018] time 'May 1, 2016 6:34pm EDT'
+			[6159] StaticText '7 years ago'
+		[6160] StaticText 'c4d06cf7'
+		[5612] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[5613] link 'Browse Files'
+		[5614] link "Weblate's avatar"
+			[6163] img "Weblate's avatar"
+		[5616] link "Merge remote-tracking branch 'origin/development' into development"
+		[5620] link 'Weblate'
+		[5621] StaticText ' authored '
+		[4023] time 'May 1, 2016 5:57pm EDT'
+			[6165] StaticText '7 years ago'
+		[6166] StaticText 'd31a44c0'
+		[5625] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[5626] link 'Browse Files'
+		[5627] link "SecUpwN's avatar"
+			[6169] img "SecUpwN's avatar"
+		[5629] link 'Preparing WIP-Release v0.1.43-alpha'
+		[5633] link 'SecUpwN'
+		[5634] StaticText ' authored '
+		[4028] time 'May 1, 2016 5:59pm EDT'
+			[6171] StaticText '7 years ago'
+		[6172] StaticText 'a2c7125f'
+		[5638] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[5639] link 'Browse Files'
+		[5640] link "SecUpwN's avatar"
+			[6175] img "SecUpwN's avatar"
+		[5642] link 'Update CHANGELOG.md'
+		[5646] link 'SecUpwN'
+		[5647] StaticText ' authored '
+		[4033] time 'May 1, 2016 5:59pm EDT'
+			[6177] StaticText '7 years ago'
+		[6178] StaticText 'bbbee5b8'
+		[5651] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[5652] link 'Browse Files'
+		[5653] link "Nordlenningen's avatar"
+			[6181] img "Nordlenningen's avatar"
+		[5655] link 'Translated using Weblate (Norwegian Bokmål)'
+		[5657] button 'Toggle commit description'
+		[5662] link 'Nordlenningen'
+		[5663] StaticText ' authored '
+		[4038] time 'Apr 30, 2016 1:56pm EDT'
+			[6186] StaticText '7 years ago'
+		[6187] StaticText 'e338361c'
+		[5668] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[5669] link 'Browse Files'
+		[4545] StaticText '26 Apr, 2016'
+		[4548] StaticText '1 commit'
+		[5670] link "Security: PWNED's avatar"
+			[6190] img "Security: PWNED's avatar"
+		[5672] link 'Merge pull request #866 from CellularPrivacy/NeighboringConsistency'
+		[5674] button 'Toggle commit description'
+		[5679] link 'Security: PWNED'
+		[5680] StaticText ' authored '
+		[4045] time 'Apr 26, 2016 11:12am EDT'
+			[6195] StaticText '7 years ago'
+		[6196] StaticText '47e05bc9'
+		[5687] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[5688] link 'Browse Files'
+		[4550] StaticText '25 Apr, 2016'
+		[4553] StaticText '8 commits'
+		[5689] link "Lars Grefer's avatar"
+			[6199] img "Lars Grefer's avatar"
+		[5691] link "Merge remote-tracking branch 'origin/development' into NeighboringConsistency"
+		[5695] link 'Lars Grefer'
+		[5696] StaticText ' authored '
+		[4052] time 'Apr 25, 2016 2:45pm EDT'
+			[6201] StaticText '7 years ago'
+		[6202] StaticText '384839e9'
+		[5700] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[5701] link 'Browse Files'
+		[5702] link "naofum's avatar"
+			[6205] img "naofum's avatar"
+		[5704] link 'Translated using Weblate (Japanese)'
+		[5706] button 'Toggle commit description'
+		[6211] StaticText 'd73c9433'
+		[5717] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[5718] link 'Browse Files'</pre><div>

@@ -1,0 +1,127 @@
+Tab 0 (current): Administrator / metaseq · GitLab
+
+[3005] RootWebArea 'Administrator / metaseq · GitLab' focused: True
+	[3113] link 'Skip to content'
+	[3285] link 'Dashboard'
+	[3420] button '' hasPopup: menu expanded: False
+	[3017] textbox 'Search GitLab' required: False
+	[4400] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[3426] link 'Create new...'
+	[3428] link 'Issues'
+		[3865] generic '13 assigned issues'
+	[3429] link 'Merge requests'
+		[3867] generic '8 merge requests'
+	[3431] link 'To-Do List'
+		[3883] generic 'Todos count'
+			[4421] StaticText '5'
+	[3432] link 'Help'
+	[3434] link 'Byte Blaze'
+		[3917] img 'Byte Blaze'
+	[3114] complementary 'Project navigation'
+		[3318] listitem 'metaseq'
+			[3436] link 'metaseq'
+				[3958] StaticText 'M'
+		[3437] link 'Project information'
+		[3439] link 'Repository'
+		[3441] link 'Issues'
+			[4023] StaticText '95'
+		[3443] link 'Merge requests'
+		[3445] link 'CI/CD'
+		[3447] link 'Deployments'
+		[3449] link 'Packages and registries'
+		[3451] link 'Monitor'
+		[3453] link 'Analytics'
+		[3455] link 'Wiki'
+		[3457] link 'Snippets'
+		[3235] button 'Collapse sidebar'
+	[3118] alert '' live: assertive atomic: True relevant: additions text
+		[3121] button 'Dismiss'
+		[3122] alert '' live: assertive atomic: True relevant: additions text
+			[3349] link 'Add SSH key'
+			[3350] button "Don't show again"
+	[3119] navigation 'Breadcrumbs'
+		[3474] link 'Administrator'
+		[3476] link 'metaseq'
+	[3021] main ''
+		[3362] StaticText 'M'
+		[3252] heading 'metaseq Public - The project can be accessed without any authentication.'
+			[3255] generic 'Public - The project can be accessed without any authentication.'
+		[3258] StaticText 'Project ID: 33 '
+		[3259] button 'Copy project ID' live: polite atomic: False relevant: additions text
+		[3261] link 'Request Access'
+		[3368] button '' hasPopup: menu expanded: False
+		[3264] button 'Star'
+		[3265] link '0'
+		[3373] link 'Fork'
+		[3267] link '0'
+		[3572] link '272 Commits'
+		[3573] link '112 Branches'
+		[3574] link '0 Tags'
+		[4197] StaticText '32.4 MB'
+		[4193] StaticText ' Project Storage'
+		[3273] StaticText 'Repo for external large-scale work'
+		[3275] generic '<span class="repository-language-bar-tooltip-language">Python</span>&nbsp;<span class="repository-language-bar-tooltip-share">98.0%</span>'
+		[3276] generic '<span class="repository-language-bar-tooltip-language">Cython</span>&nbsp;<span class="repository-language-bar-tooltip-share">1.0%</span>'
+		[3277] generic '<span class="repository-language-bar-tooltip-language">HTML</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.7%</span>'
+		[3278] generic '<span class="repository-language-bar-tooltip-language">Shell</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+		[3279] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">0.1%</span>'
+		[3386] img 'user avatar'
+		[3390] link 'Simplify inheritance layers (#639)'
+		[3391] button 'Toggle commit description'
+		[3396] StaticText 'Nikolay Bashlykov authored '
+		[3397] time 'Feb 9, 2023 3:32pm EST'
+			[3579] StaticText '6 months ago'
+		[3410] button 'Unverified'
+		[3409] group ''
+			[3582] StaticText '905f355e'
+			[3412] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[4201] button 'main' hasPopup: menu expanded: False
+		[3081] navigation 'Files breadcrumb'
+			[4757] link 'metaseq'
+			[5030] button 'Add to tree' hasPopup: menu expanded: False
+		[3585] link 'Find file'
+		[3590] link 'Web IDE'
+		[3591] button 'Download'
+			[4208] StaticText 'Select Archive Format'
+		[3593] link 'Clone' focused: True expanded: True
+		[5320] StaticText 'Clone with SSH'
+		[5318] textbox 'Repository clone URL' required: False
+			[5311] StaticText 'ssh://git@metis.lti.cs.cmu.edu:2222/root/metaseq.git'
+		[5323] button 'Copy URL' live: polite atomic: False relevant: additions text
+		[5325] StaticText 'Clone with HTTP'
+		[5321] textbox 'Repository clone URL' required: False
+			[5333] StaticText 'http://metis.lti.cs.cmu.edu:8023/root/metaseq.git'
+		[5316] button 'Copy URL' live: polite atomic: False relevant: additions text
+		[5302] StaticText 'Open in your IDE'
+		[5322] link 'Visual Studio Code (SSH)'
+		[5317] link 'Visual Studio Code (HTTPS)'
+		[5337] link 'IntelliJ IDEA (SSH)'
+		[5310] link 'IntelliJ IDEA (HTTPS)'
+		[3616] link 'README'
+		[3617] link 'MIT License'
+		[3618] link 'CHANGELOG'
+		[3050] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+			[4268] row ''
+				[4269] columnheader 'Name' required: False
+				[4270] columnheader 'Last commit' required: False
+				[4271] columnheader 'Last update' required: False
+			[4272] row ''
+				[4292] gridcell '.circleci' required: False
+					[4780] link '.circleci'
+				[4293] gridcell 'Added test for model-parallel mp1 and mp2 (#597)' required: False
+					[4786] link 'Added test for model-parallel mp1 and mp2 (#597)'
+				[4294] gridcell '7 months ago' required: False
+					[4789] time 'Jan 14, 2023 11:19am EST'
+			[4273] row ''
+				[4295] gridcell '.github' required: False
+					[4791] link '.github'
+				[4296] gridcell 'Add flash attention (#387)' required: False
+					[4797] link 'Add flash attention (#387)'
+				[4297] gridcell '10 months ago' required: False
+					[4800] time 'Nov 2, 2022 1:11pm EDT'
+			[4274] row ''
+				[4298] gridcell 'cpu_tests' required: False
+					[4802] link 'cpu_tests'
+				[4299] gridcell 'Revert "Added dynamic configs (profiling) (#473)" (#509)' required: False
+					[4808] link 'Revert "Added dynamic configs (profiling) (#473)" (#509)'
+				[4300] gridcell '9 months ago' required: False</pre><div>

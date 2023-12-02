@@ -1,0 +1,48 @@
+Tab 0 (current): New Group · GitLab
+
+[3308] RootWebArea 'New Group · GitLab' focused: True
+	[3398] link 'Skip to content'
+	[3714] link 'Dashboard'
+	[3774] button '' hasPopup: menu expanded: False
+	[3320] textbox 'Search GitLab' required: False
+	[3963] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[3780] link 'Create new...'
+	[3782] link 'Issues'
+		[3867] generic '13 assigned issues'
+	[3783] link 'Merge requests'
+		[3869] generic '8 merge requests'
+	[3785] link 'To-Do List'
+		[3885] generic 'Todos count'
+	[3786] link 'Help'
+	[3788] link 'Byte Blaze'
+		[3919] img 'Byte Blaze'
+	[3324] main ''
+		[4041] heading 'Create group'
+		[4049] link 'Groups'
+		[4050] StaticText ' allow you to manage and collaborate across multiple projects. Members of a group have access to all of its projects.'
+		[4051] StaticText 'Groups can also be nested by creating '
+		[4052] link 'subgroups'
+		[4055] status '' live: polite atomic: True relevant: additions text
+			[4069] heading "You're creating a new top-level group"
+			[4080] StaticText 'Members, projects, trials, and paid subscriptions are tied to a specific top-level group. If you are already a member of a top-level group, you can create a subgroup so your new work is part of your existing top-level group. Do you want to create a subgroup instead?'
+			[4081] link 'Learn more about subgroups'
+		[4056] button 'Dismiss'
+		[4044] navigation 'Breadcrumb'
+			[4087] link 'New group'
+			[4088] link 'Create group'
+		[4007] group ''
+			[4110] StaticText 'Group name'
+			[4009] textbox 'Group name' required: True describedby: __BVID__4__BV_description_
+			[4113] StaticText 'Must start with letter, digit, emoji, or underscore. Can also contain periods, dashes, spaces, and parentheses.'
+		[4011] group ''
+			[4117] StaticText 'Group URL'
+			[4013] group ''
+				[4161] StaticText 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/'
+				[4014] textbox 'Group URL' required: True
+		[4121] StaticText 'Visibility level'
+		[4122] StaticText 'Who will be able to see this group? '
+		[4123] link 'View the documentation'
+		[4019] radio ' Private The group and its projects can only be viewed by members.' checked: false
+		[4021] radio ' Internal The group and any internal projects can be viewed by any logged in user except external users.' checked: false
+		[4023] radio ' Public The group and any public projects can be viewed without any authentication.' checked: true
+		[4128] StaticText 'Now, personalize your GitLab experience'</pre><div>

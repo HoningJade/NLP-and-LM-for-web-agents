@@ -1,0 +1,108 @@
+Tab 0 (current): crew / project_site · GitLab | Tab 1: GitLab.org / project-templates / express · GitLab
+
+[7419] RootWebArea 'crew / project_site · GitLab' focused: True
+	[7532] link 'Skip to content'
+	[7723] link 'Dashboard'
+	[7902] button '' hasPopup: menu expanded: False
+	[7431] textbox 'Search GitLab' required: False
+	[8864] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[7908] link 'Create new...' focused: True expanded: True
+	[9284] StaticText 'This project'
+	[9295] link 'New issue'
+	[9298] link 'New merge request'
+	[9299] link 'New snippet'
+	[9277] link 'Invite members '
+	[9276] StaticText 'GitLab'
+	[9279] link 'New project/repository'
+	[9281] link 'New group'
+	[9289] link 'New snippet'
+	[7910] link 'Issues'
+		[8273] generic '13 assigned issues'
+	[7911] link 'Merge requests'
+		[8275] generic '8 merge requests'
+	[7913] link 'To-Do List'
+		[8291] generic 'Todos count'
+	[7914] link 'Help'
+	[7916] link 'Byte Blaze'
+		[8325] img 'Byte Blaze'
+	[7533] complementary 'Project navigation'
+		[7756] listitem 'project_site'
+			[7918] link 'project_site'
+		[7919] link 'Project information'
+		[7921] link 'Repository'
+		[7923] link 'Issues'
+			[8431] StaticText '0'
+		[7925] link 'Merge requests'
+		[7927] link 'CI/CD'
+		[7929] link 'Security & Compliance'
+		[7931] link 'Deployments'
+		[7933] link 'Packages and registries'
+		[7935] link 'Infrastructure'
+		[7937] link 'Monitor'
+		[7939] link 'Analytics'
+		[7941] link 'Wiki'
+		[7943] link 'Snippets'
+		[7945] link 'Settings'
+		[7673] button 'Collapse sidebar'
+	[7537] alert '' live: assertive atomic: True relevant: additions text
+		[7541] button 'Dismiss'
+		[7542] alert '' live: assertive atomic: True relevant: additions text
+			[7790] link 'Add SSH key'
+			[7791] button "Don't show again"
+	[7538] alert '' live: assertive atomic: True relevant: additions text
+		[7544] button 'Dismiss'
+		[7545] alert '' live: assertive atomic: True relevant: additions text
+			[7797] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+			[7799] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+			[7800] link 'Settings'
+			[7801] link 'More information'
+	[7539] navigation 'Breadcrumbs'
+		[7962] link 'crew'
+		[7964] link 'project_site'
+	[7435] main ''
+		[7689] alert '' live: assertive atomic: True relevant: additions text
+			[7814] button 'Dismiss'
+			[7815] alert '' live: assertive atomic: True relevant: additions text
+				[8687] StaticText 'The project was successfully imported.'
+		[7816] StaticText 'P'
+		[7697] heading 'project_site Public - The project can be accessed without any authentication.'
+			[7700] generic 'Public - The project can be accessed without any authentication.'
+		[7703] StaticText 'Project ID: 201 '
+		[7704] button 'Copy project ID' live: polite atomic: False relevant: additions text
+		[7706] link 'Leave project'
+		[7822] button '' hasPopup: menu expanded: False
+		[7709] button 'Star'
+		[7710] link '0'
+		[7827] link 'Fork'
+		[7712] link '0'
+		[8065] link '1 Commit'
+		[8066] link '1 Branch'
+		[8067] link '0 Tags'
+		[8068] link '92 KB Project Storage'
+		[7714] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">84.9%</span>'
+		[7715] generic '<span class="repository-language-bar-tooltip-language">Pug</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.1%</span>'
+		[7716] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">5.2%</span>'
+		[7717] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">2.9%</span>'
+		[7840] img 'user avatar'
+		[7844] link "Initialized from 'NodeJS Express' project template"
+		[7845] button 'Toggle commit description'
+		[7850] StaticText 'GitLab authored '
+		[7851] time 'Feb 8, 2021 10:48am EST'
+			[8072] StaticText '2 years ago'
+		[7856] group ''
+			[8074] StaticText 'eaa48337'
+			[7858] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[8713] button 'master' hasPopup: menu expanded: False
+		[7489] navigation 'Files breadcrumb'
+			[8988] link 'project_site'
+			[9124] button 'Add to tree' hasPopup: menu expanded: False
+		[8079] link 'Find file'
+		[8084] link 'Web IDE'
+		[8085] button 'Download'
+			[8720] StaticText 'Select Archive Format'
+		[8087] link 'Clone'
+		[8110] link 'README'
+		[8111] link 'Auto DevOps enabled'
+		[8112] link 'Add LICENSE'
+		[8113] link 'Add CHANGELOG'
+		[8114] link 'Add CONTRIBUTING'</pre><div>

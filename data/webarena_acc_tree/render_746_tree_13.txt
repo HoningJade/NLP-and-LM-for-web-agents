@@ -1,0 +1,47 @@
+Tab 0 (current): llm_bulk_inference · Search · GitLab
+
+[8088] RootWebArea 'llm_bulk_inference · Search · GitLab' focused: True
+	[8156] link 'Skip to content'
+	[8265] link 'Dashboard'
+	[8317] button '' hasPopup: menu expanded: False
+	[8323] link 'Create new...'
+	[8325] link 'Issues'
+		[8478] generic '13 assigned issues'
+	[8326] link 'Merge requests'
+		[8480] generic '8 merge requests'
+	[8328] link 'To-Do List'
+		[8496] generic 'Todos count'
+			[8645] StaticText '5'
+	[8329] link 'Help'
+	[8331] link 'Byte Blaze'
+		[8530] img 'Byte Blaze'
+	[8094] main ''
+		[8257] heading 'Search'
+		[8302] StaticText 'What are you searching for?'
+		[8099] group ''
+			[8100] searchbox 'Search for projects, issues, etc.'
+				[8568] StaticText 'llm_bulk_inference'
+			[8303] button 'Clear'
+			[8339] button 'Search'
+		[8306] StaticText 'Group'
+		[8307] button 'Any' hasPopup: menu expanded: False
+		[8309] StaticText 'Project'
+		[8310] button 'Any' hasPopup: menu expanded: False
+		[8259] separator '' orientation: horizontal
+		[8581] link 'Projects 1'
+		[8582] link 'Issues 0'
+		[8583] link 'Merge requests 0'
+		[8584] link 'Milestones 0'
+		[8585] link 'Users 0'
+		[8586] link 'L'
+		[8588] heading 'crew / llm_bulk_inference'
+			[8591] link 'crew / llm_bulk_inference'
+		[8589] generic 'Public - The project can be accessed without any authentication.'
+		[8597] StaticText 'Owner'
+		[8608] link '0'
+		[8609] link '0'
+		[8610] link '0'
+		[8611] link '0'
+		[8620] StaticText 'Updated '
+		[8134] time 'Sep 12, 2023 2:09am EDT'
+			[8621] StaticText 'just now'</pre><div>

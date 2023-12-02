@@ -1,0 +1,169 @@
+Tab 0 (current): The A11Y Project / a11yproject.com · GitLab
+
+[1778] RootWebArea 'The A11Y Project / a11yproject.com · GitLab' focused: True
+	[1871] link 'Skip to content'
+	[2056] link 'Dashboard'
+	[2202] button '' hasPopup: menu expanded: False
+	[1790] textbox 'Search GitLab' required: False
+	[3310] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[2208] link 'Create new...'
+	[2210] link 'Issues'
+		[2533] generic '13 assigned issues'
+	[2211] link 'Merge requests'
+		[2535] generic '8 merge requests'
+	[2213] link 'To-Do List'
+		[2551] generic 'Todos count'
+	[2214] link 'Help'
+	[2216] link 'Byte Blaze'
+		[2585] img 'Byte Blaze'
+	[1872] complementary 'Project navigation'
+		[2089] listitem 'a11yproject.com'
+			[2218] link 'a11yproject.com'
+				[2626] StaticText 'A'
+		[2219] link 'Project information'
+		[2221] link 'Repository'
+		[2223] link 'Issues'
+			[2691] StaticText '40'
+		[2225] link 'Merge requests'
+			[2720] StaticText '10'
+		[2227] link 'CI/CD'
+		[2229] link 'Security & Compliance'
+		[2231] link 'Deployments'
+		[2233] link 'Packages and registries'
+		[2235] link 'Infrastructure'
+		[2237] link 'Monitor'
+		[2239] link 'Analytics'
+		[2241] link 'Wiki'
+		[2243] link 'Snippets'
+		[2245] link 'Settings'
+		[2008] button 'Collapse sidebar'
+	[1794] main ''
+		[1866] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+			[3708] row ''
+				[3733] gridcell '.tours' required: False
+					[4149] link '.tours'
+				[3734] gridcell 'Add Jammies announcement (#1354)' required: False
+					[4155] link 'Add Jammies announcement (#1354)'
+				[3735] gridcell '1 year ago' required: False
+					[4158] time 'Oct 6, 2021 9:21pm EDT'
+			[3709] row ''
+				[3736] gridcell '.vscode' required: False
+					[4160] link '.vscode'
+				[3737] gridcell 'Add some default settings & suggested extensions' required: False
+					[4166] link 'Add some default settings & suggested extensions'
+				[3738] gridcell '2 years ago' required: False
+					[4169] time 'Jul 6, 2021 9:06pm EDT'
+			[3710] row ''
+				[3739] gridcell 'src' required: False
+					[4171] link 'src'
+				[3740] gridcell 'Update the-power-of-chatgpt-as-a-cognitive-accessibility-assistive-technology-for-traumatic-brain-injury-survivors.md' required: False
+					[4177] link 'Update the-power-of-chatgpt-as-a-cognitive-accessibility-assistive-technology-for-traumatic-brain-injury-survivors.md'
+				[3741] gridcell '5 months ago' required: False
+					[4180] time 'Mar 13, 2023 9:04pm EDT'
+			[3711] row ''
+				[3742] gridcell '.editorconfig' required: False
+					[4182] link '.editorconfig'
+				[3743] gridcell 'Use tabs' required: False
+					[4188] link 'Use tabs'
+				[3744] gridcell '3 years ago' required: False
+					[4191] time 'May 30, 2020 12:43pm EDT'
+			[3712] row ''
+				[3745] gridcell '.eleventy.js' required: False
+					[4193] link '.eleventy.js'
+				[3746] gridcell 'Initial draft of post collections feature (#1235)' required: False
+					[4199] link 'Initial draft of post collections feature (#1235)'
+				[3747] gridcell '1 year ago' required: False
+					[4202] time 'Feb 7, 2022 11:20am EST'
+			[3713] row ''
+				[3748] gridcell '.gitignore' required: False
+					[4204] link '.gitignore'
+				[3749] gridcell 'Add initial batch of icons' required: False
+					[4210] link 'Add initial batch of icons'
+				[3750] gridcell '3 years ago' required: False
+					[4213] time 'Apr 26, 2020 11:27pm EDT'
+			[3714] row ''
+				[3751] gridcell '.jshintignore' required: False
+					[4215] link '.jshintignore'
+				[3752] gridcell 'Fix misnamed polyfill file (#1045)' required: False
+					[4221] link 'Fix misnamed polyfill file (#1045)'
+				[3753] gridcell '3 years ago' required: False
+					[4224] time 'Aug 3, 2020 11:49pm EDT'
+			[3715] row ''
+				[3754] gridcell '.jshintrc' required: False
+					[4226] link '.jshintrc'
+				[3755] gridcell 'Resolve JS and Style linting issues (#947)' required: False
+					[4232] link 'Resolve JS and Style linting issues (#947)'
+				[3756] gridcell '3 years ago' required: False
+					[4235] time 'Jul 15, 2020 3:03pm EDT'
+			[3716] row ''
+				[3757] gridcell '.nvmrc' required: False
+					[4237] link '.nvmrc'
+				[3758] gridcell 'Align engines, nvmrc to 16' required: False
+					[4243] link 'Align engines, nvmrc to 16'
+				[3759] gridcell '2 years ago' required: False
+					[4246] time 'Jun 25, 2021 5:34am EDT'
+			[3717] row ''
+				[3760] gridcell '.stylelintrc' required: False
+					[4248] link '.stylelintrc'
+						[4251] SvgRoot ''
+							[4501] group 'stylelint-icon-white'
+				[3761] gridcell 'Update stylelint' required: False
+					[4254] link 'Update stylelint'
+				[3762] gridcell '1 year ago' required: False
+					[4257] time 'Mar 16, 2022 9:00pm EDT'
+			[3718] row ''
+				[3763] gridcell 'AUTHORS' required: False
+					[4259] link 'AUTHORS'
+				[3764] gridcell 'Add AUTHORS' required: False
+					[4265] link 'Add AUTHORS'
+				[3765] gridcell '4 years ago' required: False
+					[4268] time 'Dec 23, 2018 5:25pm EST'
+			[3719] row ''
+				[3766] gridcell 'CNAME' required: False
+					[4270] link 'CNAME'
+				[3767] gridcell 'Updating CNAME' required: False
+					[4276] link 'Updating CNAME'
+				[3768] gridcell '10 years ago' required: False
+					[4279] time 'Jan 14, 2013 4:57pm EST'
+			[3720] row ''
+				[3769] gridcell 'LICENSE-APLv2' required: False
+					[4281] link 'LICENSE-APLv2'
+				[3770] gridcell 'Create LICENSE-APLv2 (#661)' required: False
+					[4287] link 'Create LICENSE-APLv2 (#661)'
+				[3771] gridcell '4 years ago' required: False
+					[4290] time 'Nov 17, 2018 5:24pm EST'
+			[3721] row ''
+				[3772] gridcell 'README.md' required: False
+					[4292] link 'README.md'
+				[3773] gridcell 'Update README.md' required: False
+					[4298] link 'Update README.md'
+				[3774] gridcell '6 months ago' required: False
+					[4301] time 'Feb 27, 2023 8:54pm EST'
+			[3722] row ''
+				[3775] gridcell 'TECHNOLOGY.md' required: False
+					[4303] link 'TECHNOLOGY.md'
+				[3776] gridcell 'edited sentence in TECHNOLOGY.md (#1352)' required: False
+					[4309] link 'edited sentence in TECHNOLOGY.md (#1352)'
+				[3777] gridcell '1 year ago' required: False
+					[4312] time 'Oct 7, 2021 3:57pm EDT'
+			[3723] row ''
+				[3778] gridcell 'TROUBLESHOOTING.md' required: False
+					[4314] link 'TROUBLESHOOTING.md'
+				[3779] gridcell 'Usability feedback (#1087)' required: False
+					[4320] link 'Usability feedback (#1087)'
+				[3780] gridcell '3 years ago' required: False
+					[4323] time 'Aug 24, 2020 11:30pm EDT'
+			[3724] row ''
+				[3781] gridcell 'gulpfile.js' required: False
+					[4325] link 'gulpfile.js'
+				[3782] gridcell 'Begin working through richtext content' required: False
+					[4331] link 'Begin working through richtext content'
+				[3783] gridcell '1 year ago' required: False
+					[4334] time 'Apr 6, 2022 11:19pm EDT'
+			[3725] row ''
+				[3784] gridcell 'jsconfig.json' required: False
+					[4336] link 'jsconfig.json'
+				[3785] gridcell 'Update project config' required: False
+					[4342] link 'Update project config'
+				[3786] gridcell '3 years ago' required: False
+					[4345] time 'May 30, 2020 12:40pm EDT'</pre><div>

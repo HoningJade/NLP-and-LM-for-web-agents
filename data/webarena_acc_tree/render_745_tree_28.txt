@@ -1,0 +1,29 @@
+Tab 1 (current): The DevSecOps Platform | GitLab
+
+[4] RootWebArea 'The DevSecOps Platform | GitLab' focused: True
+	[277] StaticText 'GitLab named a Leader in the Gartner® Magic Quadrant™ for DevOps Platforms'
+	[276] link 'Read the report'
+	[280] menu '' orientation: vertical
+		[799] link 'Home'
+			[801] img 'GitLab home page'
+		[1166] link 'Why GitLab'
+		[1019] link 'Platform'
+		[1023] button 'Solutions'
+		[1029] link 'Pricing'
+		[1035] button 'Resources'
+		[1046] button 'Company'
+		[1052] button 'Contact us'
+		[811] button 'Search'
+		[812] link 'Get free trial'
+		[816] link 'Sign in'
+	[282] main ''
+		[818] link 'Meet GitLab Duo: AI-powered workflows →'
+		[819] heading 'Software. Faster.'
+		[820] heading 'GitLab is the most comprehensive AI-powered DevSecOps Platform.'
+			[826] LineBreak '\n'
+		[828] link 'Get free trial'
+		[829] button 'What is GitLab?'
+		[830] img 'Brand image of GitLab boards'
+		[831] img 'Brand image of GitLab product'
+		[832] img 'Brand image of GitLab roadmap'
+	[16] Iframe 'Qualified Messenger'</pre><div>

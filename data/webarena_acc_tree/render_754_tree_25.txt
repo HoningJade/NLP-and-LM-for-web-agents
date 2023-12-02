@@ -1,0 +1,99 @@
+Tab 0 (current): crew / web_agent_nodejs · GitLab | Tab 1: GitLab.org / project-templates / express · GitLab
+
+[11543] RootWebArea 'crew / web_agent_nodejs · GitLab' focused: True
+	[11656] link 'Skip to content'
+	[11847] link 'Dashboard'
+	[12026] button '' hasPopup: menu expanded: False
+	[11555] textbox 'Search GitLab' required: False
+	[12988] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[12032] link 'Create new...'
+	[12034] link 'Issues'
+		[12397] generic '13 assigned issues'
+	[12035] link 'Merge requests'
+		[12399] generic '8 merge requests'
+	[12037] link 'To-Do List'
+		[12415] generic 'Todos count'
+	[12038] link 'Help'
+	[12040] link 'Byte Blaze'
+		[12449] img 'Byte Blaze'
+	[11657] complementary 'Project navigation'
+		[11880] listitem 'web_agent_nodejs'
+			[12042] link 'web_agent_nodejs'
+				[12490] StaticText 'W'
+		[12043] link 'Project information'
+		[12045] link 'Repository'
+		[12047] link 'Issues'
+		[12049] link 'Merge requests'
+		[12051] link 'CI/CD'
+		[12053] link 'Security & Compliance'
+		[12055] link 'Deployments'
+		[12057] link 'Packages and registries'
+		[12059] link 'Infrastructure'
+		[12061] link 'Monitor'
+		[12063] link 'Analytics'
+		[12065] link 'Wiki'
+		[12067] link 'Snippets'
+		[12069] link 'Settings'
+		[11797] button 'Collapse sidebar'
+	[11661] alert '' live: assertive atomic: True relevant: additions text
+		[11665] button 'Dismiss'
+		[11666] alert '' live: assertive atomic: True relevant: additions text
+			[11914] link 'Add SSH key'
+			[11915] button "Don't show again"
+	[11662] alert '' live: assertive atomic: True relevant: additions text
+		[11668] button 'Dismiss'
+		[11669] alert '' live: assertive atomic: True relevant: additions text
+			[11921] StaticText 'The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found.'
+			[11923] StaticText 'Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work.'
+			[11924] link 'Settings'
+			[11925] link 'More information'
+	[11663] navigation 'Breadcrumbs'
+		[12086] link 'crew'
+		[12088] link 'web_agent_nodejs'
+	[11559] main ''
+		[11813] alert '' live: assertive atomic: True relevant: additions text
+			[11938] button 'Dismiss'
+			[11939] alert '' live: assertive atomic: True relevant: additions text
+				[12811] StaticText 'The project was successfully imported.'
+		[11940] StaticText 'W'
+		[11821] heading 'web_agent_nodejs Public - The project can be accessed without any authentication.'
+			[11824] generic 'Public - The project can be accessed without any authentication.'
+		[11827] StaticText 'Project ID: 202 '
+		[11828] button 'Copy project ID' live: polite atomic: False relevant: additions text
+		[11830] link 'Leave project'
+		[11946] button '' hasPopup: menu expanded: False
+		[11833] button 'Star'
+		[11834] link '0'
+		[11951] link 'Fork'
+		[11836] link '0'
+		[12189] link '1 Commit'
+		[12190] link '1 Branch'
+		[12191] link '0 Tags'
+		[12192] link '92 KB Project Storage'
+		[11838] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">84.9%</span>'
+		[11839] generic '<span class="repository-language-bar-tooltip-language">Pug</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.1%</span>'
+		[11840] generic '<span class="repository-language-bar-tooltip-language">Dockerfile</span>&nbsp;<span class="repository-language-bar-tooltip-share">5.2%</span>'
+		[11841] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">2.9%</span>'
+		[11964] img 'user avatar'
+		[11968] link "Initialized from 'NodeJS Express' project template"
+		[11969] button 'Toggle commit description'
+		[11974] StaticText 'GitLab authored '
+		[11975] time 'Feb 8, 2021 10:48am EST'
+			[12196] StaticText '2 years ago'
+		[11980] group ''
+			[12198] StaticText 'eaa48337'
+			[11982] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[12837] button 'master' hasPopup: menu expanded: False
+		[11613] navigation 'Files breadcrumb'
+			[13112] link 'web_agent_nodejs'
+			[13248] button 'Add to tree' hasPopup: menu expanded: False
+		[12203] link 'Find file'
+		[12208] link 'Web IDE'
+		[12209] button 'Download'
+			[12844] StaticText 'Select Archive Format'
+		[12211] link 'Clone'
+		[12234] link 'README'
+		[12235] link 'Auto DevOps enabled'
+		[12236] link 'Add LICENSE'
+		[12237] link 'Add CHANGELOG'
+		[12238] link 'Add CONTRIBUTING'</pre><div>

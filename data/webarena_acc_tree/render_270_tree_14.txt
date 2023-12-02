@@ -1,0 +1,68 @@
+Tab 0 (current): Office Products
+
+[5573] RootWebArea 'Office Products' focused: True
+	[6832] link 'My Account'
+	[6830] link 'My Wish List'
+	[6834] link 'Sign Out'
+	[6837] StaticText 'Welcome to One Stop Market'
+	[6774] link 'Skip to Content'
+	[6783] link 'store logo'
+		[6840] img 'one_stop_market_logo'
+	[6841] link '\ue611 My Cart'
+	[7775] StaticText 'Search'
+	[5584] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+	[7778] link 'Advanced Search'
+	[7028] button 'Search' disabled: True
+	[6674] tablist '' multiselectable: False orientation: horizontal
+		[6676] tabpanel ''
+			[5618] menu '' orientation: vertical
+				[6369] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+				[6434] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+				[6444] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+				[6458] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+				[6495] menuitem '\ue622 Office Products' hasPopup: menu
+				[6503] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+				[6508] menuitem '\ue622 Health & Household' hasPopup: menu
+				[6514] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+				[6519] menuitem '\ue622 Electronics' hasPopup: menu
+				[6580] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+				[6595] menuitem '\ue622 Video Games' hasPopup: menu
+				[6608] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+	[6805] link 'Home '
+	[6808] StaticText 'Office Products'
+	[5585] main ''
+		[6809] heading 'Office Products Items 1-12 of 488'
+		[6864] StaticText 'View as'
+		[6862] strong 'Grid'
+		[6863] link 'View as \ue60b List'
+		[6848] StaticText 'Items '
+		[6850] StaticText '1'
+		[6851] StaticText '-'
+		[6853] StaticText '12'
+		[6854] StaticText ' of '
+		[6856] StaticText '488'
+		[6967] StaticText 'Sort By'
+		[5608] combobox 'Sort By' hasPopup: menu expanded: False
+		[6872] link '\ue613 Set Descending Direction'
+		[7733] link 'Image'
+			[7781] img 'Image'
+		[7735] link 'Image'
+			[7797] img 'Image'
+		[7737] link 'Image'
+			[7810] img 'Image'
+		[7739] link 'Image'
+			[7823] img 'Image'
+		[6896] StaticText 'Shop By'
+		[6901] heading 'Now Shopping by'
+		[7763] StaticText 'Category'
+		[7003] StaticText 'Office Electronics'
+		[7004] link 'Remove This Item'
+		[6905] link 'Clear All'
+		[6899] heading 'Shopping Options'
+		[6900] DescriptionList ''
+			[6907] heading 'Category'
+			[6908] DescriptionListDetail ''
+				[7966] link 'Printers & Accessories( 331 item )'
+			[6909] heading 'Price'
+			[6910] DescriptionListDetail ''
+				[7967] link '$0.00 - $9,999.99( 485 item )'</pre><div>

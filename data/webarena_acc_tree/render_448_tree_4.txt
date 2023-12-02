@@ -1,0 +1,74 @@
+Tab 0 (current): Edit Profile · User Settings · GitLab
+
+[1957] RootWebArea 'Edit Profile · User Settings · GitLab' focused: True
+	[2061] link 'Skip to content'
+	[2209] link 'Dashboard'
+	[2313] button '' hasPopup: menu expanded: False
+	[1969] textbox 'Search GitLab' required: False
+	[2809] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[2319] link 'Create new...'
+	[2321] link 'Issues'
+		[2567] generic '13 assigned issues'
+	[2322] link 'Merge requests'
+		[2569] generic '8 merge requests'
+	[2324] link 'To-Do List'
+		[2585] generic 'Todos count'
+	[2325] link 'Help'
+	[2327] link 'Byte Blaze'
+		[2619] img 'Byte Blaze'
+	[2062] complementary 'User settings'
+		[2242] link 'Byte Blaze User Settings'
+			[2329] img 'Byte Blaze'
+		[2332] link 'Profile'
+		[2334] link 'Account'
+		[2336] link 'Applications'
+		[2338] link 'Chat'
+		[2340] link 'Access Tokens'
+		[2342] link 'Emails'
+		[2344] link 'Password'
+		[2346] link 'Notifications'
+		[2348] link 'SSH Keys'
+		[2350] link 'GPG Keys'
+		[2352] link 'Preferences'
+		[2354] link 'Active Sessions'
+		[2356] link 'Authentication log'
+		[2167] button 'Collapse sidebar'
+	[2066] navigation 'Breadcrumbs'
+		[2361] link 'User Settings'
+		[2363] link 'Edit Profile'
+	[1973] main ''
+		[2056] searchbox 'Search page'
+		[2285] heading 'Public avatar'
+		[2365] StaticText 'You can upload your avatar here or change it at '
+		[2366] link 'gravatar.com'
+		[2367] link ''
+		[2288] heading 'Upload new avatar'
+		[2369] button 'Choose file...'
+		[2374] StaticText 'No file chosen.'
+		[2378] StaticText 'The maximum file size allowed is 200KB.'
+		[2291] separator '' orientation: horizontal
+		[2294] heading 'Current status'
+		[2380] StaticText 'This emoji and message will appear on your profile and throughout the interface.'
+		[1979] group ''
+			[2879] button '' hasPopup: menu expanded: False
+			[1980] textbox "What's your status?" required: False
+			[2770] button 'Clear status'
+		[1982] checkbox 'Set yourself as busy Displays that you are busy or not able to respond' checked: false
+		[2032] group 'Clear status after'
+			[2033] group 'Clear status after'
+				[2883] button 'Never' hasPopup: menu expanded: False
+		[2296] separator '' orientation: horizontal
+		[2299] heading 'Time settings'
+		[2390] StaticText 'Set your local time zone.'
+		[2391] StaticText 'Time zone'
+		[2393] button 'Select timezone' hasPopup: menu expanded: False
+		[2302] separator '' orientation: horizontal
+		[2304] heading 'Main settings'
+		[2395] StaticText 'This information will appear on your profile.'
+		[2780] StaticText 'Full name'
+		[1987] textbox 'Full name' required: True
+			[2887] StaticText 'Byte Blaze'
+		[2783] StaticText 'Enter your name, so people you know can recognize you.'
+		[2784] StaticText 'User ID'
+		[1989] textbox 'User ID' required: False
+			[2888] StaticText '2330'</pre><div>

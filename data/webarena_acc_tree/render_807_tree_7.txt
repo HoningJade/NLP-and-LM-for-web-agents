@@ -1,0 +1,114 @@
+Tab 0 (current): Primer / design · GitLab
+
+[1] RootWebArea 'Primer / design · GitLab' focused: True
+	[130] link 'Skip to content'
+	[309] link 'Dashboard'
+	[476] button '' hasPopup: menu expanded: False
+	[13] textbox 'Search GitLab' required: False
+	[1389] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[482] link 'Create new...' expanded: False
+	[484] link 'Issues'
+		[830] generic '13 assigned issues'
+	[485] link 'Merge requests' focused: True expanded: False
+		[832] generic '8 merge requests'
+	[487] link 'To-Do List'
+		[848] generic 'Todos count'
+			[1410] StaticText '5'
+	[488] link 'Help'
+	[490] link 'Byte Blaze'
+		[882] img 'Byte Blaze'
+	[131] complementary 'Project navigation'
+		[342] listitem 'design'
+			[492] link 'design'
+				[923] StaticText 'D'
+		[493] link 'Project information'
+		[495] link 'Repository'
+		[497] link 'Issues'
+			[988] StaticText '21'
+		[499] link 'Merge requests'
+			[1017] StaticText '16'
+		[501] link 'CI/CD'
+		[503] link 'Security & Compliance'
+		[505] link 'Deployments'
+		[507] link 'Packages and registries'
+		[509] link 'Infrastructure'
+		[511] link 'Monitor'
+		[513] link 'Analytics'
+		[515] link 'Wiki'
+		[517] link 'Snippets'
+		[262] button 'Collapse sidebar'
+	[135] alert '' live: assertive atomic: True relevant: additions text
+		[138] button 'Dismiss'
+		[139] alert '' live: assertive atomic: True relevant: additions text
+			[375] link 'Add SSH key'
+			[376] button "Don't show again"
+	[136] navigation 'Breadcrumbs'
+		[534] link 'Primer'
+		[536] link 'design'
+	[17] main ''
+		[388] StaticText 'D'
+		[279] heading 'design Public - The project can be accessed without any authentication.'
+			[282] generic 'Public - The project can be accessed without any authentication.'
+		[285] StaticText 'Project ID: 180 '
+		[286] button 'Copy project ID' live: polite atomic: False relevant: additions text
+		[288] link 'Leave project'
+		[394] button '' hasPopup: menu expanded: False
+		[291] button 'Star'
+		[292] link '21'
+		[399] link 'Fork'
+		[294] link '0'
+		[632] link '921 Commits'
+		[633] link '38 Branches'
+		[634] link '0 Tags'
+		[1212] StaticText '97.8 MB'
+		[1208] StaticText ' Project Storage'
+		[300] StaticText 'Primer Design Guidelines'
+		[302] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">77.4%</span>'
+		[303] generic '<span class="repository-language-bar-tooltip-language">TSX</span>&nbsp;<span class="repository-language-bar-tooltip-share">22.6%</span>'
+		[412] img 'user avatar'
+		[416] link 'Add interface guidelines for ProgressBar (#452)'
+		[417] button 'Toggle commit description'
+		[422] StaticText 'Mike Perrotti authored '
+		[423] time 'Mar 24, 2023 12:33pm EDT'
+			[639] StaticText '5 months ago'
+		[436] button 'Unverified'
+		[435] group ''
+			[642] StaticText '260e840e'
+			[438] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[1216] button 'main' hasPopup: menu expanded: False
+		[57] navigation 'Files breadcrumb'
+			[1754] link 'design'
+			[2029] button 'Add to tree' hasPopup: menu expanded: False
+		[647] link 'Find file'
+		[652] link 'Web IDE'
+		[653] button 'Download'
+			[1223] StaticText 'Select Archive Format'
+		[655] link 'Clone'
+		[678] link 'README'
+		[679] link 'MIT License'
+		[680] link 'CONTRIBUTING'
+		[75] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+			[1283] row ''
+				[1284] columnheader 'Name' required: False
+				[1285] columnheader 'Last commit' required: False
+				[1286] columnheader 'Last update' required: False
+			[1287] row ''
+				[1307] gridcell '.github' required: False
+					[1777] link '.github'
+				[1308] gridcell 'Add more deploy triggers (#406)' required: False
+					[1783] link 'Add more deploy triggers (#406)'
+				[1309] gridcell '6 months ago' required: False
+					[1786] time 'Feb 23, 2023 12:27pm EST'
+			[1288] row ''
+				[1310] gridcell 'content' required: False
+					[1788] link 'content'
+				[1311] gridcell 'Add interface guidelines for ProgressBar (#452)' required: False
+					[1794] link 'Add interface guidelines for ProgressBar (#452)'
+				[1312] gridcell '5 months ago' required: False
+					[1797] time 'Mar 24, 2023 12:33pm EDT'
+			[1289] row ''
+				[1313] gridcell 'docs' required: False
+					[1799] link 'docs'
+				[1314] gridcell 'Introduce markdownlinting (#345)' required: False
+					[1805] link 'Introduce markdownlinting (#345)'
+				[1315] gridcell '8 months ago' required: False</pre><div>

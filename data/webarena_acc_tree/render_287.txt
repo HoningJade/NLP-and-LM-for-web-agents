@@ -1,0 +1,368 @@
+[1] RootWebArea 'OpenStreetMap' focused: True
+
+[104] heading 'OpenStreetMap logo OpenStreetMap'
+
+[109] link 'OpenStreetMap logo OpenStreetMap'
+
+[112] img 'OpenStreetMap logo'
+
+[390] link 'Edit'
+
+[391] button ''
+
+[362] link 'History'
+
+[363] link 'Export'
+
+[395] link 'GPS Traces'
+
+[396] link 'User Diaries'
+
+[397] link 'Communities'
+
+[398] link 'Copyright'
+
+[399] link 'Help'
+
+[400] link 'About'
+
+[371] link 'Log In'
+
+[372] link 'Sign Up'
+
+[494] link 'Where is this?'
+
+[12] textbox 'Search' focused: True required: False
+
+[495] button 'Go'
+
+[482] link 'Find directions between two points'
+
+[445] heading 'Welcome to OpenStreetMap!'
+
+[448] button 'Close'
+
+[452] StaticText 'OpenStreetMap is a map of the world, created by people like you and free to use under an open license.'
+
+[453] StaticText 'Hosting is supported by '
+
+[454] link 'UCL'
+
+[456] link 'Fastly'
+
+[457] StaticText ', '
+
+[458] link 'Bytemark Hosting'
+
+[459] StaticText ', and other '
+
+[460] link 'partners'
+
+[461] StaticText '.'
+
+[464] link 'Learn More'
+
+[465] link 'Start Mapping'
+
+[50] generic 'Zoom In Zoom Out Show My Location Layers Share 50 km 50 mi © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[54] link 'Zoom In'
+
+[55] link 'Zoom Out'
+
+[57] button 'Show My Location'
+
+[59] link 'Layers'
+
+[301] link ''
+
+[61] link 'Share'
+
+[303] link ''
+
+[305] link ''
+
+[310] StaticText '50 km'
+
+[311] StaticText '50 mi'
+
+[313] StaticText '© '
+
+[314] link 'OpenStreetMap contributors'
+
+[315] StaticText ' ♥ '
+
+[316] link 'Make a Donation'
+
+[317] StaticText '. '
+
+[318] link 'Website and API terms'</pre><div>
+
+[12]. I can type "directions from Pittsburgh to Philadelphia" in the search box. Then, I can press the Enter key to perform the search. In summary, the next action I will perform is ```type [12] [directions from Pittsburgh to Philadelphia] [1]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [83, 88, 97, 84, 82, 99, 88, 94, 93, 98, 15, 85, 97, 94, 92, 15, 63, 88, 99, 99, 98, 81, 100, 97, 86, 87, 15, 99, 94, 15, 63, 87, 88, 91, 80, 83, 84, 91, 95, 87, 88, 80, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '12', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is OpenStreetMap. It has a search box with ID [12]. I can type "directions from Pittsburgh to Philadelphia" in the search box. Then, I can press the Enter key to perform the search. In summary, the next action I will perform is ```type [12] [directions from Pittsburgh to Philadelphia] [1]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [12] [directions from Pittsburgh to Philadelphia
+
+[12] is [12] textbox 'Search' focused: True required: False</pre></div></div>
+
+[1] RootWebArea 'directions from Pittsburgh to Philadelphia | OpenStreetMap' focused: True
+
+[104] heading 'OpenStreetMap logo OpenStreetMap'
+
+[109] link 'OpenStreetMap logo OpenStreetMap'
+
+[112] img 'OpenStreetMap logo'
+
+[390] link 'Edit'
+
+[391] button ''
+
+[362] link 'History'
+
+[363] link 'Export'
+
+[395] link 'GPS Traces'
+
+[396] link 'User Diaries'
+
+[397] link 'Communities'
+
+[398] link 'Copyright'
+
+[399] link 'Help'
+
+[400] link 'About'
+
+[371] link 'Log In'
+
+[372] link 'Sign Up'
+
+[12] textbox 'Search' focused: True required: False
+
+[501] StaticText 'directions from Pittsburgh to Philadelphia'
+
+[495] button 'Go'
+
+[482] link 'Find directions between two points'
+
+[554] heading 'Search Results'
+
+[557] button 'Close'
+
+[523] heading 'Results from OpenStreetMap Nominatim'
+
+[559] link 'OpenStreetMap Nominatim'
+
+[563] StaticText 'No results found'
+
+[50] generic 'Zoom In Zoom Out Show My Location Layers Share 50 km 50 mi © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[54] link 'Zoom In'
+
+[55] link 'Zoom Out'
+
+[57] button 'Show My Location'
+
+[59] link 'Layers'
+
+[301] link ''
+
+[61] link 'Share'
+
+[303] link ''
+
+[305] link ''
+
+[519] StaticText '50 km'
+
+[520] StaticText '50 mi'
+
+[313] StaticText '© '
+
+[314] link 'OpenStreetMap contributors'
+
+[315] StaticText ' ♥ '
+
+[316] link 'Make a Donation'
+
+[317] StaticText '. '
+
+[318] link 'Website and API terms'</pre><div>
+
+[12] [directions from Pittsburgh to Philadelphia
+
+[12] is textbox 'Search' focused: True required: False</div>
+
+[554]``` to open the search results.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '554', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. We have searched for directions from Pittsburgh to Philadelphia on OpenStreetMap. The search results are displayed on the page. We need to find the time it takes to travel from Pittsburgh to Philadelphia by car. I will look for this information in the search results. In summary, the next action I will perform is ```click [554]``` to open the search results."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [554] where [554] is [554] heading 'Search Results'</pre></div></div>
+
+[1] RootWebArea 'directions from Pittsburgh to Philadelphia | OpenStreetMap' focused: True
+
+[104] heading 'OpenStreetMap logo OpenStreetMap'
+
+[109] link 'OpenStreetMap logo OpenStreetMap'
+
+[112] img 'OpenStreetMap logo'
+
+[390] link 'Edit'
+
+[391] button ''
+
+[362] link 'History'
+
+[363] link 'Export'
+
+[395] link 'GPS Traces'
+
+[396] link 'User Diaries'
+
+[397] link 'Communities'
+
+[398] link 'Copyright'
+
+[399] link 'Help'
+
+[400] link 'About'
+
+[371] link 'Log In'
+
+[372] link 'Sign Up'
+
+[12] textbox 'Search' required: False
+
+[501] StaticText 'directions from Pittsburgh to Philadelphia'
+
+[495] button 'Go'
+
+[482] link 'Find directions between two points'
+
+[554] heading 'Search Results'
+
+[557] button 'Close'
+
+[523] heading 'Results from OpenStreetMap Nominatim'
+
+[559] link 'OpenStreetMap Nominatim'
+
+[563] StaticText 'No results found'
+
+[50] generic 'Zoom In Zoom Out Show My Location Layers Share 50 km 50 mi © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[54] link 'Zoom In'
+
+[55] link 'Zoom Out'
+
+[57] button 'Show My Location'
+
+[59] link 'Layers'
+
+[301] link ''
+
+[61] link 'Share'
+
+[303] link ''
+
+[305] link ''
+
+[519] StaticText '50 km'
+
+[520] StaticText '50 mi'
+
+[313] StaticText '© '
+
+[314] link 'OpenStreetMap contributors'
+
+[315] StaticText ' ♥ '
+
+[316] link 'Make a Donation'
+
+[317] StaticText '. '
+
+[318] link 'Website and API terms'</pre><div>
+
+[554] where [554] is heading 'Search Results'</div>
+
+[554]. In summary, the next action I will perform is ```click [554]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '554', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page shows the search results for the directions from Pittsburgh to Philadelphia. To find out how much time it takes to travel from Pittsburgh to Philadelphia by car, I can click on the search results heading, which is element [554]. In summary, the next action I will perform is ```click [554]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [554] where [554] is [554] heading 'Search Results'</pre></div></div>
+
+[1] RootWebArea 'directions from Pittsburgh to Philadelphia | OpenStreetMap' focused: True
+
+[104] heading 'OpenStreetMap logo OpenStreetMap'
+
+[109] link 'OpenStreetMap logo OpenStreetMap'
+
+[112] img 'OpenStreetMap logo'
+
+[390] link 'Edit'
+
+[391] button ''
+
+[362] link 'History'
+
+[363] link 'Export'
+
+[395] link 'GPS Traces'
+
+[396] link 'User Diaries'
+
+[397] link 'Communities'
+
+[398] link 'Copyright'
+
+[399] link 'Help'
+
+[400] link 'About'
+
+[371] link 'Log In'
+
+[372] link 'Sign Up'
+
+[12] textbox 'Search' required: False
+
+[501] StaticText 'directions from Pittsburgh to Philadelphia'
+
+[495] button 'Go'
+
+[482] link 'Find directions between two points'
+
+[554] heading 'Search Results'
+
+[557] button 'Close'
+
+[523] heading 'Results from OpenStreetMap Nominatim'
+
+[559] link 'OpenStreetMap Nominatim'
+
+[563] StaticText 'No results found'
+
+[50] generic 'Zoom In Zoom Out Show My Location Layers Share 50 km 50 mi © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[54] link 'Zoom In'
+
+[55] link 'Zoom Out'
+
+[57] button 'Show My Location'
+
+[59] link 'Layers'
+
+[301] link ''
+
+[61] link 'Share'
+
+[303] link ''
+
+[305] link ''
+
+[519] StaticText '50 km'
+
+[520] StaticText '50 mi'
+
+[313] StaticText '© '
+
+[314] link 'OpenStreetMap contributors'
+
+[315] StaticText ' ♥ '
+
+[316] link 'Make a Donation'
+
+[317] StaticText '. '
+
+[318] link 'Website and API terms'</pre><div>
+
+[554] where [554] is heading 'Search Results'</div>
+

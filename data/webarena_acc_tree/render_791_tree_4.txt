@@ -1,0 +1,46 @@
+Tab 0 (current): gimmiethat.space · Search · GitLab
+
+[1808] RootWebArea 'gimmiethat.space · Search · GitLab' focused: True
+	[1876] link 'Skip to content'
+	[1985] link 'Dashboard'
+	[2037] button '' hasPopup: menu expanded: False
+	[2043] link 'Create new...'
+	[2045] link 'Issues'
+		[2198] generic '13 assigned issues'
+	[2046] link 'Merge requests'
+		[2200] generic '8 merge requests'
+	[2048] link 'To-Do List'
+		[2216] generic 'Todos count'
+			[2361] StaticText '5'
+	[2049] link 'Help'
+	[2051] link 'Byte Blaze'
+		[2250] img 'Byte Blaze'
+	[1814] main ''
+		[1977] heading 'Search'
+		[2022] StaticText 'What are you searching for?'
+		[1819] group ''
+			[1820] searchbox 'Search for projects, issues, etc.'
+				[2288] StaticText 'gimmiethat.space'
+			[2023] button 'Clear'
+			[2059] button 'Search'
+		[2026] StaticText 'Group'
+		[2027] button 'Any' hasPopup: menu expanded: False
+		[2029] StaticText 'Project'
+		[2030] button 'Any' hasPopup: menu expanded: False
+		[1979] separator '' orientation: horizontal
+		[2301] link 'Projects 1'
+		[2302] link 'Issues 0'
+		[2303] link 'Merge requests 0'
+		[2304] link 'Milestones 0'
+		[2305] link 'Users 0'
+		[2306] link 'G'
+		[2309] heading 'Byte Blaze / gimmiethat.space'
+			[2312] link 'Byte Blaze / gimmiethat.space'
+		[2310] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+		[2318] StaticText 'Owner'
+		[2396] StaticText 'I need some space.'
+		[2330] link '0'
+		[2331] link '0'
+		[2336] StaticText 'Updated '
+		[1854] time 'Apr 24, 2023 5:22pm EDT'
+			[2337] StaticText '4 months ago'</pre><div>

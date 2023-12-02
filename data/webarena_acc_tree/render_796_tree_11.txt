@@ -1,0 +1,37 @@
+Tab 0 (current): Checkout
+
+[12924] RootWebArea 'Checkout' focused: True
+	[12928] main ''
+		[13364] StaticText '101 S San Mateo Dr654 Aspen Road, House #3, Bost3 Oxford St, Cambridge, MA3 Oxford St, Cambridge, MA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA111 Magnolia Path, Atlanta, GA, 30303987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110on, MA, 02110'
+		[13369] StaticText 'California'
+		[13370] StaticText '94010'
+		[13373] link '6505551212'
+		[13297] button '+New Address'
+		[13255] StaticText 'Shipping Methods'
+		[13243] tabpanel ''
+			[13497] table ''
+				[13499] row ''
+					[13500] gridcell 'Fixed Flat Rate' required: False
+						[13501] radio 'Fixed Flat Rate' checked: true
+					[13514] gridcell '$80.00' required: False
+					[13515] gridcell 'Fixed' required: False
+					[13516] gridcell 'Flat Rate' required: False
+		[12935] tabpanel ''
+		[12964] dialog '' modal: False describedby: modal-content-5
+			[12972] tablist '' multiselectable: False orientation: horizontal
+				[12974] tabpanel ''
+					[13010] img 'Uttermost Volterra Crackled Taupe-Gray Ceramic Table Lamp'
+					[13195] LayoutTable ''
+						[13205] StaticText 'Qty'
+					[13015] img 'NOZE Rustic Coat Rack Wall Mounted Shelf with 4 Hooks, Hanging Entryway Organizer for Mug Coffee Cup, Holding Solid Wooden Shelf with 2 Baskets for Kitchen Living Room, Bathroom and Bedroom'
+					[13213] LayoutTable ''
+						[13229] StaticText '$122.97'
+					[13018] img 'Plus Size Lingerie for Women Sexy for Sex Naughty Eyelash Lace Bodysuit Naughty Mesh One Piece Teddy Bodysuit Outfits'
+					[13230] LayoutTable ''
+						[13476] StaticText 'Qty'
+						[13406] StaticText '$175.89'
+					[12984] tablist '' multiselectable: False orientation: horizontal
+						[12983] tab 'View Details\ue622' expanded: False selected: False
+					[13023] img 'HP Envy X360 2-in-1 13.3" FHD OLED Touch-Screen Laptop | 11th Generation Intel Core i7-1195G7 | 8GB DDR4 RAM | 512GB SSD | Backlit Keyboard | Fingerprint | Windows 11 Home | with USB3.0 HUB Bundle'
+					[13388] LayoutTable ''
+						[13432] StaticText '$1,999.98'</pre><div>

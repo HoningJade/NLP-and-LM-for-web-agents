@@ -1,0 +1,35 @@
+Tab 0 (current): ://helloworld.xyz/https://helloworld.xyz/ · Search · GitLab
+
+[5298] RootWebArea '://helloworld.xyz/https://helloworld.xyz/ · Search · GitLab' focused: True
+	[5348] link 'Skip to content'
+	[5460] link 'Dashboard'
+	[5516] button '' hasPopup: menu expanded: False
+	[5522] link 'Create new...'
+	[5524] link 'Issues'
+		[5679] generic '13 assigned issues'
+	[5525] link 'Merge requests'
+		[5681] generic '8 merge requests'
+	[5527] link 'To-Do List'
+		[5697] generic 'Todos count'
+	[5528] link 'Help'
+	[5530] link 'Byte Blaze'
+		[5731] img 'Byte Blaze'
+	[5304] main ''
+		[5450] heading 'Search'
+		[5497] StaticText 'What are you searching for?'
+		[5309] group ''
+			[5310] searchbox 'Search for projects, issues, etc.'
+				[5775] StaticText '://helloworld.xyz/https://helloworld.xyz/'
+			[5498] button 'Clear'
+			[5538] button 'Search'
+		[5501] StaticText 'Group'
+		[5502] button 'Any' hasPopup: menu expanded: False
+		[5504] StaticText 'Project'
+		[5505] button 'Any' hasPopup: menu expanded: False
+		[5452] separator '' orientation: horizontal
+		[5788] link 'Projects 0'
+		[5789] link 'Issues 0'
+		[5790] link 'Merge requests 0'
+		[5791] link 'Milestones 0'
+		[5792] link 'Users 0'
+		[5509] heading " We couldn't find any projects matching ://helloworld.xyz/https://helloworld.xyz/"</pre><div>

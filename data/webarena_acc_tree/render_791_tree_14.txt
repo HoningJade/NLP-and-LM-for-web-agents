@@ -1,0 +1,145 @@
+Tab 0 (current): Files · main · Byte Blaze / gimmiethat.space · GitLab
+
+[7450] RootWebArea 'Files · main · Byte Blaze / gimmiethat.space · GitLab' focused: True
+	[7567] link 'Skip to content'
+	[7707] link 'Dashboard'
+	[7828] button '' hasPopup: menu expanded: False
+	[7462] textbox 'Search GitLab' required: False
+	[8546] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[7834] link 'Create new...'
+	[7836] link 'Issues'
+		[8050] generic '13 assigned issues'
+	[7837] link 'Merge requests'
+		[8052] generic '8 merge requests'
+	[7839] link 'To-Do List'
+		[8068] generic 'Todos count'
+	[7840] link 'Help'
+	[7842] link 'Byte Blaze'
+		[8102] img 'Byte Blaze'
+	[7568] complementary 'Project navigation'
+		[7740] listitem 'gimmiethat.space'
+			[7844] link 'gimmiethat.space'
+				[8143] StaticText 'G'
+		[7845] link 'Project information'
+		[7847] link 'Repository'
+		[8586] link 'Files'
+		[8587] link 'Commits'
+		[8588] link 'Branches'
+		[8589] link 'Tags'
+		[8590] link 'Contributors'
+		[8591] link 'Graph'
+		[8592] link 'Compare'
+		[7849] link 'Issues'
+			[8184] StaticText '0'
+		[7851] link 'Merge requests'
+		[7853] link 'CI/CD'
+		[7855] link 'Security & Compliance'
+		[7857] link 'Deployments'
+		[7859] link 'Packages and registries'
+		[7861] link 'Infrastructure'
+		[7863] link 'Monitor'
+		[7865] link 'Analytics'
+		[7867] link 'Wiki'
+		[7699] button 'Collapse sidebar'
+	[7572] navigation 'Breadcrumbs'
+		[7888] link 'Byte Blaze'
+		[7890] link 'gimmiethat.space'
+		[7892] link 'Repository'
+	[7514] main ''
+		[7784] img 'user avatar'
+		[7788] link 'Add index.html'
+		[7791] StaticText 'Eric Bailey authored '
+		[7792] time 'Mar 28, 2021 5:59pm EDT'
+			[7893] StaticText '2 years ago'
+		[7793] group ''
+			[7895] StaticText '67c3a0e8'
+			[7795] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[8441] button 'main' hasPopup: menu expanded: False
+		[7518] navigation 'Files breadcrumb'
+			[8668] link 'gimmiethat.space'
+			[8791] button 'Add to tree' hasPopup: menu expanded: True
+			[8882] menu 'Add to tree' focused: True orientation: vertical
+				[8888] listitem 'This directory'
+					[8896] heading 'This directory'
+				[8899] listitem 'New file'
+					[8903] menuitem 'New file'
+				[8911] listitem 'Upload file'
+					[8902] menuitem 'Upload file'
+				[8904] listitem 'New directory'
+					[8908] menuitem 'New directory'
+				[8884] separator '' orientation: horizontal
+				[8892] listitem 'This repository'
+					[8901] heading 'This repository'
+				[8907] listitem 'New branch'
+					[8886] menuitem 'New branch'
+				[8887] listitem 'New tag'
+					[8905] menuitem 'New tag'
+		[7900] link 'History'
+		[7901] link 'Find file'
+		[7908] link 'Web IDE'
+		[7909] button 'Download'
+			[8448] StaticText 'Select Archive Format'
+		[7911] link 'Clone'
+		[7532] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+			[8501] row ''
+				[8502] columnheader 'Name' required: False
+				[8503] columnheader 'Last commit' required: False
+				[8504] columnheader 'Last update' required: False
+			[8505] row ''
+				[8513] gridcell '.editorconfig' required: False
+					[8682] link '.editorconfig'
+				[8514] gridcell 'Add setup boilerplate' required: False
+					[8688] link 'Add setup boilerplate'
+				[8515] gridcell '2 years ago' required: False
+					[8691] time 'Mar 28, 2021 5:53pm EDT'
+			[8506] row ''
+				[8516] gridcell '.gitignore' required: False
+					[8693] link '.gitignore'
+				[8517] gridcell 'Add setup boilerplate' required: False
+					[8699] link 'Add setup boilerplate'
+				[8518] gridcell '2 years ago' required: False
+					[8702] time 'Mar 28, 2021 5:53pm EDT'
+			[8507] row ''
+				[8519] gridcell '.htmlhintrc' required: False
+					[8704] link '.htmlhintrc'
+				[8520] gridcell 'Add setup boilerplate' required: False
+					[8710] link 'Add setup boilerplate'
+				[8521] gridcell '2 years ago' required: False
+					[8713] time 'Mar 28, 2021 5:53pm EDT'
+			[8508] row ''
+				[8522] gridcell '.stylelintrc' required: False
+					[8715] link '.stylelintrc'
+						[8718] SvgRoot ''
+							[8850] group 'stylelint-icon-white'
+				[8523] gridcell 'Add setup boilerplate' required: False
+					[8721] link 'Add setup boilerplate'
+				[8524] gridcell '2 years ago' required: False
+					[8724] time 'Mar 28, 2021 5:53pm EDT'
+			[8509] row ''
+				[8525] gridcell 'AUTHORS' required: False
+					[8726] link 'AUTHORS'
+				[8526] gridcell 'Add setup boilerplate' required: False
+					[8732] link 'Add setup boilerplate'
+				[8527] gridcell '2 years ago' required: False
+					[8735] time 'Mar 28, 2021 5:53pm EDT'
+			[8510] row ''
+				[8528] gridcell 'LICENSE' required: False
+					[8737] link 'LICENSE'
+				[8529] gridcell 'Initial commit' required: False
+					[8743] link 'Initial commit'
+				[8530] gridcell '2 years ago' required: False
+					[8746] time 'Mar 28, 2021 5:48pm EDT'
+			[8511] row ''
+				[8531] gridcell 'index.html' required: False
+					[8748] link 'index.html'
+				[8532] gridcell 'Add index.html' required: False
+					[8754] link 'Add index.html'
+				[8533] gridcell '2 years ago' required: False
+					[8757] time 'Mar 28, 2021 5:59pm EDT'
+			[8512] row ''
+				[8534] gridcell 'package.json' required: False
+					[8759] link 'package.json'
+				[8535] gridcell 'Add setup boilerplate' required: False
+					[8765] link 'Add setup boilerplate'
+				[8536] gridcell '2 years ago' required: False
+					[8768] time 'Mar 28, 2021 5:53pm EDT'</pre><div>

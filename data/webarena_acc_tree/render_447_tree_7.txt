@@ -1,0 +1,106 @@
+Tab 0 (current): [Feature suggestion] Support linking to an accessibility statement (#71) · Issues · Byte Blaze / a11y-webring.club · GitLab
+
+[5586] RootWebArea '[Feature suggestion] Support linking to an accessibility statement (#71) · Issues · Byte Blaze / a11y-webring.club · GitLab' focused: True
+	[5788] link 'Skip to content'
+	[6027] link 'Dashboard'
+	[6182] button '' hasPopup: menu expanded: False
+	[5598] textbox 'Search GitLab' required: False
+	[7085] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[6188] link 'Create new...'
+	[6190] link 'Issues'
+		[6440] generic '13 assigned issues'
+	[6191] link 'Merge requests'
+		[6442] generic '8 merge requests'
+	[6193] link 'To-Do List'
+		[6458] generic 'Todos count'
+	[6194] link 'Help'
+	[6196] link 'Byte Blaze'
+		[6492] img 'Byte Blaze'
+	[5789] complementary 'Project navigation'
+		[6060] listitem 'a11y-webring.club'
+			[6198] link 'a11y-webring.club'
+				[6533] StaticText 'A'
+		[6199] link 'Project information'
+		[6201] link 'Repository'
+		[6203] link 'Issues'
+			[6598] StaticText '4'
+		[7130] link 'Issues'
+			[7441] StaticText 'List'
+		[7131] link 'Boards'
+		[7132] link 'Service Desk'
+		[7133] link 'Milestones'
+		[6205] link 'Merge requests'
+		[6207] link 'CI/CD'
+		[6209] link 'Security & Compliance'
+		[6211] link 'Deployments'
+		[6213] link 'Packages and registries'
+		[6215] link 'Infrastructure'
+		[6217] link 'Monitor'
+		[6219] link 'Analytics'
+		[6221] link 'Wiki'
+		[6223] link 'Snippets'
+		[6225] link 'Settings'
+		[5924] button 'Collapse sidebar'
+	[5793] navigation 'Breadcrumbs'
+		[6242] link 'Byte Blaze'
+		[6244] link 'a11y-webring.club'
+		[6246] link 'Issues'
+		[6248] link '#71'
+	[5602] main ''
+		[6112] StaticText 'Open'
+		[6117] StaticText 'Issue created '
+		[5727] time 'Feb 2, 2023 4:51pm EST'
+			[6119] StaticText '7 months ago'
+		[6118] StaticText ' by'
+		[6120] link 'Rohan Kumar'
+		[5933] generic 'This user has previously committed to the a11y-webring.club project.'
+			[6122] StaticText 'Contributor'
+		[5934] generic '1st contribution!'
+		[6123] StaticText '1 of 3 checklist items completed'
+		[5938] button 'Close issue'
+		[5680] generic 'Issue actions'
+			[5969] button 'Issue actions' hasPopup: menu expanded: False
+		[5972] heading '[Feature suggestion] Support linking to an accessibility statement'
+		[5973] button 'Edit title and description'
+		[5976] heading 'Feature suggestion'
+			[5980] link '' hidden: True
+		[5983] StaticText 'Some personal websites have accessibility statements, such as the kind recommended by the WAI. Linking to that alongside socials could be a nice touch.'
+		[5978] heading 'Who would you like to work on this feature?'
+			[5984] link '' hidden: True
+		[5653] checkbox '' checked: false
+		[6153] StaticText 'I would like to work on this feature'
+		[5655] checkbox '' checked: false
+		[6155] StaticText 'I would like the site maintainers to work on this feature'
+		[5979] heading 'Code of conduct'
+			[5987] link '' hidden: True
+		[5658] checkbox '' checked: true
+		[5704] button '👍 0'
+		[5707] button '👎 0'
+		[5696] generic 'Add reaction'
+			[6157] button 'Add reaction' hasPopup: menu expanded: False
+		[6280] button 'Create merge request'
+		[6281] button ''
+		[6282] button 'Drag your designs here or click to upload.'
+			[6891] link 'click to upload'
+		[6009] heading 'Tasks'
+		[6018] button 'Add' hasPopup: menu expanded: False
+		[6019] button 'Collapse tasks'
+		[6022] StaticText 'No tasks are currently assigned. Use tasks to break down this issue into smaller parts.'
+		[5622] complementary 'issue' live: polite atomic: False relevant: additions text
+			[6316] button 'Toggle sidebar' focused: True describedby: gl-tooltip7
+			[7874] button 'Add a to do'
+			[7849] generic 'Byte Blaze'
+				[7872] button "Byte Blaze's avatar"
+					[7914] img "Byte Blaze's avatar"
+			[7857] generic 'being discussed, feature'
+			[7845] generic 'Milestone'
+				[7863] img 'Milestone'
+				[7896] StaticText 'No milestone'
+			[7898] generic 'Due date'
+				[7860] StaticText 'None'
+			[7882] generic 'Time tracking'
+			[7907] generic 'Not confidential'
+			[7870] generic 'Notifications on'
+			[7880] generic '2 participants'
+			[7858] button 'Copy Reference' live: polite atomic: False relevant: additions text
+	[7916] tooltip 'Expand sidebar'</pre><div>

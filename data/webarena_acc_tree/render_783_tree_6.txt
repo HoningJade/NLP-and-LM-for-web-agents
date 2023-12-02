@@ -1,0 +1,11 @@
+Tab 0 (current): Not Found
+
+[5809] RootWebArea 'Not Found' focused: True
+	[5818] img '404'
+	[5820] heading 'Page Not Found'
+	[5825] StaticText 'Please contact your GitLab administrator if you think this is a mistake.'
+	[5817] searchbox 'Search for projects, issues, etc.'
+	[5826] button 'Search'
+	[5838] link 'Home'
+	[5840] link 'Sign out and sign in with a different account'
+	[5843] link 'Help'</pre><div>

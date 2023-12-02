@@ -1,0 +1,112 @@
+Tab 0 (current): Byte Blaze / a11y-webring.club · GitLab
+
+[7694] RootWebArea 'Byte Blaze / a11y-webring.club · GitLab' focused: True
+	[7833] link 'Skip to content'
+	[8018] link 'Dashboard'
+	[8178] button '' hasPopup: menu expanded: False
+	[7706] textbox 'Search GitLab' required: False
+	[9219] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[8184] link 'Create new...'
+	[8186] link 'Issues'
+		[8555] generic '13 assigned issues'
+	[8187] link 'Merge requests'
+		[8557] generic '8 merge requests'
+	[8189] link 'To-Do List'
+		[8573] generic 'Todos count'
+	[8190] link 'Help'
+	[8192] link 'Byte Blaze'
+		[8607] img 'Byte Blaze'
+	[7834] complementary 'Project navigation'
+		[8051] listitem 'a11y-webring.club'
+			[8194] link 'a11y-webring.club'
+				[8648] StaticText 'A'
+		[8195] link 'Project information'
+		[8197] link 'Repository'
+		[8199] link 'Issues'
+			[8713] StaticText '4'
+		[8201] link 'Merge requests'
+		[8203] link 'CI/CD'
+		[8205] link 'Security & Compliance'
+		[8207] link 'Deployments'
+		[8209] link 'Packages and registries'
+		[8211] link 'Infrastructure'
+		[8213] link 'Monitor'
+		[8215] link 'Analytics'
+		[8217] link 'Wiki'
+		[8219] link 'Snippets'
+		[8221] link 'Settings'
+		[7970] button 'Collapse sidebar'
+	[7838] alert '' live: assertive atomic: True relevant: additions text
+		[7841] button 'Dismiss'
+		[7842] alert '' live: assertive atomic: True relevant: additions text
+			[8085] link 'Add SSH key'
+			[8086] button "Don't show again"
+	[7839] navigation 'Breadcrumbs'
+		[8238] link 'Byte Blaze'
+		[8240] link 'a11y-webring.club'
+	[7710] main ''
+		[8098] StaticText 'A'
+		[7987] heading 'a11y-webring.club Public - The project can be accessed without any authentication.'
+			[7990] generic 'Public - The project can be accessed without any authentication.'
+		[7993] StaticText 'Project ID: 179 '
+		[7994] button 'Copy project ID' live: polite atomic: False relevant: additions text
+		[8103] button '' hasPopup: menu expanded: False
+		[7998] button 'Star'
+		[7999] link '2'
+		[8108] link 'Fork'
+		[8001] link '0'
+		[8336] link '235 Commits'
+		[8337] link '4 Branches'
+		[8338] link '0 Tags'
+		[8339] link '1.9 MB Project Storage'
+		[8007] generic 'globe with meridians'
+			[8117] StaticText '🌐'
+		[8008] StaticText ' A webring for digital accessibility practitioners.'
+		[8010] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">60.4%</span>'
+		[8011] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">26.5%</span>'
+		[8012] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">13.1%</span>'
+		[8122] img 'user avatar'
+		[8126] link 'Add Tiffany Pender (#96)'
+		[8129] StaticText 'Eric Bailey authored '
+		[8130] time 'Mar 12, 2023 4:24pm EDT'
+			[8340] StaticText '5 months ago'
+		[8133] button 'Unverified'
+		[8132] group ''
+			[8343] StaticText '83d965d9'
+			[8135] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[8991] button 'main' hasPopup: menu expanded: False
+		[7750] navigation 'Files breadcrumb'
+			[9382] link 'a11y-webring.club'
+			[9737] button 'Add to tree' hasPopup: menu expanded: False
+		[8348] link 'Find file'
+		[8353] link 'Web IDE'
+		[8354] button 'Download'
+			[8998] StaticText 'Select Archive Format'
+		[8356] link 'Clone'
+		[8379] link 'README'
+		[8380] link 'MIT License'
+		[8381] link 'Add CHANGELOG'
+		[8382] link 'Add CONTRIBUTING'
+		[8383] link 'Enable Auto DevOps'
+		[8384] link 'Add Kubernetes cluster'
+		[8385] link 'Set up CI/CD'
+		[8386] link 'Configure Integrations'
+		[7768] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+			[9068] row ''
+				[9069] columnheader 'Name' required: False
+				[9070] columnheader 'Last commit' required: False
+				[9071] columnheader 'Last update' required: False
+			[9072] row ''
+				[9099] gridcell '.github' required: False
+					[9420] link '.github'
+				[9100] gridcell 'Update contribution instructions' required: False
+					[9426] link 'Update contribution instructions'
+				[9101] gridcell '7 months ago' required: False
+					[9429] time 'Feb 4, 2023 5:36pm EST'
+			[9073] row ''
+				[9102] gridcell 'data' required: False
+					[9431] link 'data'
+				[9103] gridcell 'Create Tiffany Pender.json' required: False
+					[9437] link 'Create Tiffany Pender.json'
+				[9104] gridcell '6 months ago' required: False
+					[9440] time 'Mar 9, 2023 6:46pm EST'</pre><div>

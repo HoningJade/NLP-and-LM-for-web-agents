@@ -1,0 +1,73 @@
+Tab 0 (current): Search results for: 'switch card holder'
+
+[24224] RootWebArea "Search results for: 'switch card holder'" focused: True
+	[25484] link 'My Account'
+	[25482] link 'My Wish List'
+	[25486] link 'Sign Out'
+	[25489] StaticText 'Welcome to One Stop Market'
+	[25426] link 'Skip to Content'
+	[25435] link 'store logo'
+		[25492] img 'one_stop_market_logo'
+	[25493] link '\ue611 My Cart'
+	[26423] StaticText 'Search'
+	[24235] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+		[26635] StaticText 'switch card holder'
+	[26426] link 'Advanced Search'
+	[25670] button 'Search' disabled: True
+	[25326] tablist '' multiselectable: False orientation: horizontal
+		[25328] tabpanel ''
+			[24270] menu '' orientation: vertical
+				[25021] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+				[25086] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+				[25096] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+				[25110] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+				[25147] menuitem '\ue622 Office Products' hasPopup: menu
+				[25155] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+				[25160] menuitem '\ue622 Health & Household' hasPopup: menu
+				[25166] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+				[25171] menuitem '\ue622 Electronics' hasPopup: menu
+				[25232] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+				[25247] menuitem '\ue622 Video Games' hasPopup: menu
+				[25260] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+	[25457] link 'Home '
+	[24236] main ''
+		[25461] heading "Search results for: 'switch card holder'"
+		[25508] StaticText 'View as'
+		[25506] strong 'Grid'
+		[25507] link 'View as \ue60b List'
+		[25515] StaticText 'Items '
+		[25518] StaticText '-'
+		[25520] StaticText '12'
+		[25521] StaticText ' of '
+		[25523] StaticText '13962'
+		[25614] StaticText 'Sort By'
+		[24260] combobox 'Sort By' hasPopup: menu expanded: False
+		[25525] link '\ue613 Set Descending Direction'
+		[25501] DescriptionList ''
+			[25526] DescriptionListTerm ''
+				[25623] StaticText 'Related search terms'
+			[25527] DescriptionListDetail ''
+				[25624] link 'card case switch'
+			[25528] DescriptionListDetail ''
+				[25625] link 'switch accessories'
+		[26377] link 'Image'
+			[26429] img 'Image'
+		[26379] link 'Image'
+			[26442] img 'Image'
+		[26381] link 'Image'
+			[26455] img 'Image'
+		[26383] link 'Image'
+			[26468] img 'Image'
+		[25552] StaticText 'Shop By'
+		[25553] heading 'Shopping Options'
+		[25554] DescriptionList ''
+			[25556] heading 'Category'
+			[25557] DescriptionListDetail ''
+				[26623] link 'Beauty & Personal Care( 2199 item )'
+				[26624] link 'Sports & Outdoors( 115 item )'
+				[26625] link 'Clothing, Shoes & Jewelry( 1099 item )'
+				[26626] link 'Home & Kitchen( 1924 item )'
+				[26627] link 'Office Products( 185 item )'
+				[26628] link 'Tools & Home Improvement( 1855 item )'
+				[26629] link 'Health & Household( 52 item )'
+				[26630] link 'Patio, Lawn & Garden( 40 item )'</pre><div>

@@ -1,0 +1,119 @@
+Tab 0 (current): Grace Nguyen / Customers / Customers / Magento Admin
+
+[1317] RootWebArea 'Grace Nguyen / Customers / Customers / Magento Admin' focused: True
+	[1388] link 'Magento Admin Panel'
+		[1422] img 'Magento Admin Panel'
+	[1322] menubar '' orientation: horizontal
+		[1324] link '\ue604 DASHBOARD'
+		[1328] link '\ue60b SALES'
+		[1332] link '\ue608 CATALOG'
+		[1336] link '\ue603 CUSTOMERS'
+		[1340] link '\ue609 MARKETING'
+		[1344] link '\ue602 CONTENT'
+		[1348] link '\ue60a REPORTS'
+		[1352] link '\ue60d STORES'
+		[1356] link '\ue610 SYSTEM'
+		[1360] link '\ue612 FIND PARTNERS & EXTENSIONS'
+	[2101] button 'System Messages: 2'
+	[2178] StaticText 'One or more of the Cache Types are invalidated: Page Cache, Layouts. Please go to '
+	[2179] link 'Cache Management'
+	[2180] StaticText ' and refresh cache types.'
+	[1492] heading 'Grace Nguyen'
+	[1494] link '\ue600 admin'
+	[1496] link '\ue607'
+	[1372] textbox '\ue60c' required: False
+	[1373] main ''
+		[1440] button '\ue626 Back'
+		[1441] button 'Login as Customer'
+		[1442] button 'Delete Customer'
+		[1443] button 'Reset'
+		[1444] button 'Create Order'
+		[1445] button 'Reset Password'
+		[1446] button 'Force Sign-In'
+		[1447] button 'Save and Continue Edit'
+		[1448] button 'Save Customer'
+		[2645] button 'Search'
+		[2646] button 'Reset Filter'
+		[2657] StaticText '15 '
+		[2648] StaticText 'records found'
+		[2413] combobox 'per page' hasPopup: menu expanded: False
+		[2669] button '\ue629'
+		[2415] textbox 'of 1' required: False
+		[2671] button '\ue62a'
+		[2417] table ''
+			[2672] row ''
+				[2673] columnheader 'Order #' required: False
+				[2674] columnheader '↑ Purchased' required: False
+				[2675] columnheader 'Bill-to Name' required: False
+				[2676] columnheader 'Ship-to Name' required: False
+				[2677] columnheader 'Order Total' required: False
+				[2678] columnheader 'Purchase Point' required: False
+				[2679] columnheader 'Action' required: False
+			[2419] row ''
+				[2420] gridcell '' required: False
+					[2421] textbox '' required: False
+				[2422] gridcell 'undefined \ue627 undefined \ue627' required: False
+					[2425] textbox 'From' required: False
+					[2828] button 'undefined \ue627'
+					[2427] textbox 'To' required: False
+					[2833] button 'undefined \ue627'
+				[2428] gridcell '' required: False
+					[2429] textbox '' required: False
+				[2430] gridcell '' required: False
+					[2431] textbox '' required: False
+				[2432] gridcell '' required: False
+					[2435] textbox 'From' required: False
+					[2437] textbox 'To' required: False
+				[2438] gridcell '' required: False
+					[2439] combobox '' hasPopup: menu expanded: False
+				[2680] gridcell '\xa0' required: False
+			[2681] row 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:7780/admin/sales/order/view/order_id/65/customer_id/18/'
+				[2696] gridcell '000000065' required: False
+				[2697] gridcell 'May 28, 2023, 6:43:55 AM' required: False
+				[2698] gridcell 'Grace Nguyen' required: False
+				[2699] gridcell 'Grace Nguyen' required: False
+				[2700] gridcell '$210.00' required: False
+				[2701] gridcell 'Main Website \xa0\xa0\xa0Main Website Store \xa0\xa0\xa0\xa0\xa0\xa0Default Store View ' required: False
+					[2847] LineBreak '\n'
+					[2849] LineBreak '\n'
+					[2851] LineBreak '\n'
+				[2702] gridcell 'Reorder' required: False
+					[2852] link 'Reorder'
+			[2682] row 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:7780/admin/sales/order/view/order_id/308/customer_id/18/'
+				[2703] gridcell '000000308' required: False
+				[2704] gridcell 'Apr 19, 2023, 7:42:37 PM' required: False
+				[2705] gridcell 'Grace Nguyen' required: False
+				[2706] gridcell 'Grace Nguyen' required: False
+				[2707] gridcell '$175.40' required: False
+				[2708] gridcell 'Main Website \xa0\xa0\xa0Main Website Store \xa0\xa0\xa0\xa0\xa0\xa0Default Store View ' required: False
+					[2860] LineBreak '\n'
+					[2862] LineBreak '\n'
+					[2864] LineBreak '\n'
+				[2709] gridcell 'Reorder' required: False
+					[2865] link 'Reorder'
+			[2683] row 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:7780/admin/sales/order/view/order_id/307/customer_id/18/'
+				[2710] gridcell '000000307' required: False
+				[2711] gridcell 'Apr 19, 2023, 7:42:25 PM' required: False
+				[2712] gridcell 'Grace Nguyen' required: False
+				[2713] gridcell 'Grace Nguyen' required: False
+				[2714] gridcell '$101.20' required: False
+				[2715] gridcell 'Main Website \xa0\xa0\xa0Main Website Store \xa0\xa0\xa0\xa0\xa0\xa0Default Store View ' required: False
+					[2873] LineBreak '\n'
+					[2875] LineBreak '\n'
+					[2877] LineBreak '\n'
+				[2716] gridcell 'Reorder' required: False
+		[1379] strong 'CUSTOMER INFORMATION'
+		[2168] listitem 'Customer View'
+			[2203] link 'Customer View'
+		[2169] listitem 'Account Information'
+			[2209] link 'Account Information'
+		[2170] listitem 'Addresses'
+			[2215] link 'Addresses'
+		[2171] listitem 'Orders'
+			[2221] link 'Orders' focused: True
+		[2172] listitem 'Shopping cart'
+			[2227] link 'Shopping cart'
+		[2173] listitem 'Newsletter'
+			[2233] link 'Newsletter'
+		[2174] listitem 'Billing Agreements'
+			[2239] link 'Billing Agreements'</pre><div>

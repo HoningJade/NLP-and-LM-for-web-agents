@@ -1,0 +1,2336 @@
+[1] RootWebArea 'CellularPrivacy / Android-IMSI-Catcher-Detector · GitLab' focused: True
+
+[151] link 'Skip to content'
+
+[319] link 'Dashboard'
+
+[446] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1443] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[452] link 'Create new...'
+
+[454] link 'Issues'
+
+[892] generic '13 assigned issues'
+
+[455] link 'Merge requests'
+
+[894] generic '8 merge requests'
+
+[457] link 'To-Do List'
+
+[910] generic 'Todos count'
+
+[458] link 'Help'
+
+[460] link 'Byte Blaze'
+
+[944] img 'Byte Blaze'
+
+[152] complementary 'Project navigation'
+
+[352] listitem 'Android-IMSI-Catcher-Detector'
+
+[462] link 'Android-IMSI-Catcher-Detector'
+
+[463] link 'Project information'
+
+[465] link 'Repository'
+
+[467] link 'Issues'
+
+[1050] StaticText '162'
+
+[469] link 'Merge requests'
+
+[471] link 'CI/CD'
+
+[473] link 'Deployments'
+
+[475] link 'Packages and registries'
+
+[477] link 'Monitor'
+
+[479] link 'Analytics'
+
+[481] link 'Wiki'
+
+[483] link 'Snippets'
+
+[273] button 'Collapse sidebar'
+
+[156] alert '' live: assertive atomic: True relevant: additions text
+
+[159] button 'Dismiss'
+
+[160] alert '' live: assertive atomic: True relevant: additions text
+
+[383] link 'Add SSH key'
+
+[384] button "Don't show again"
+
+[157] navigation 'Breadcrumbs'
+
+[500] link 'CellularPrivacy'
+
+[502] link 'Android-IMSI-Catcher-Detector'
+
+[17] main ''
+
+[290] heading 'Android-IMSI-Catcher-Detector Public - The project can be accessed without any authentication.'
+
+[293] generic 'Public - The project can be accessed without any authentication.'
+
+[296] StaticText 'Project ID: 61 '
+
+[297] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[299] link 'Request Access'
+
+[402] button '' hasPopup: menu expanded: False
+
+[302] button 'Star'
+
+[303] link '28'
+
+[407] link 'Fork'
+
+[305] link '0'
+
+[598] link '2,642 Commits'
+
+[599] link '11 Branches'
+
+[600] link '49 Tags'
+
+[1224] StaticText '258.9 MB'
+
+[1220] StaticText ' Project Storage'
+
+[602] link '48 Releases'
+
+[311] StaticText 'AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!'
+
+[313] generic '<span class="repository-language-bar-tooltip-language">Java</span>&nbsp;<span class="repository-language-bar-tooltip-share">100.0%</span>'
+
+[421] img 'user avatar'
+
+[425] link 'Translated using Weblate (Portuguese)'
+
+[426] button 'Toggle commit description'
+
+[431] StaticText 'ssantos authored '
+
+[432] time 'Mar 18, 2023 6:18am EDT'
+
+[606] StaticText '5 months ago'
+
+[436] button 'Unverified'
+
+[435] group ''
+
+[609] StaticText '0f9268c5'
+
+[438] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[1232] button 'development' hasPopup: menu expanded: False
+
+[77] navigation 'Files breadcrumb'
+
+[1958] link 'Android-IMSI-Catcher-Detector'
+
+[2207] button 'Add to tree' hasPopup: menu expanded: False
+
+[612] link 'Find file'
+
+[617] link 'Web IDE'
+
+[618] button 'Download'
+
+[1239] StaticText 'Select Archive Format'
+
+[620] link 'Clone'
+
+[643] link 'README'
+
+[644] link 'GNU GPLv3'
+
+[645] link 'CHANGELOG'
+
+[46] table 'Files, directories, and submodules in the path / for commit reference development' live: polite atomic: False relevant: additions text
+
+[1299] row ''
+
+[1300] columnheader 'Name' required: False
+
+[1301] columnheader 'Last commit' required: False
+
+[1302] columnheader 'Last update' required: False
+
+[1303] row ''
+
+[1318] gridcell '.github' required: False
+
+[1981] link '.github'
+
+[1319] gridcell 'Reduce visual noise' required: False
+
+[1987] link 'Reduce visual noise'
+
+[1320] gridcell '6 years ago' required: False
+
+[1990] time 'Jan 1, 2017 11:37am EST'
+
+[1304] row ''
+
+[1321] gridcell '.idea' required: False
+
+[1992] link '.idea'
+
+[1322] gridcell 'Improve Checkstyle Configuration' required: False
+
+[1998] link 'Improve Checkstyle Configuration'
+
+[1323] gridcell '6 years ago' required: False
+
+[2001] time 'Apr 11, 2017 6:19pm EDT'
+
+[1305] row ''
+
+[1324] gridcell 'AIMSICD' required: False
+
+[2003] link 'AIMSICD'
+
+[1325] gridcell 'Translated using Weblate (Portuguese)' required: False
+
+[2009] link 'Translated using Weblate (Portuguese)'
+
+[1326] gridcell '5 months ago' required: False</pre><div>
+
+[469] to view the branches in this repository. Once we have the branches list, we can click on the link for the "main" branch to view its commits. From there, we can identify the contributor with the most commits and find their email address. In summary, the next action I will perform is `click [469]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the GitLab repository for the project "Android-IMSI-Catcher-Detector". We need to find the email address of the contributor who has the most commits to the branch "main". We can start by clicking on the "Branches" link [469] to view the branches in this repository. Once we have the branches list, we can click on the link for the "main" branch to view its commits. From there, we can identify the contributor with the most commits and find their email address. In summary, the next action I will perform is `click [469]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'CellularPrivacy / Android-IMSI-Catcher-Detector · GitLab' focused: True
+
+[151] link 'Skip to content'
+
+[319] link 'Dashboard'
+
+[446] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1443] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[452] link 'Create new...'
+
+[454] link 'Issues'
+
+[892] generic '13 assigned issues'
+
+[455] link 'Merge requests'
+
+[894] generic '8 merge requests'
+
+[457] link 'To-Do List'
+
+[910] generic 'Todos count'
+
+[458] link 'Help'
+
+[460] link 'Byte Blaze'
+
+[944] img 'Byte Blaze'
+
+[152] complementary 'Project navigation'
+
+[352] listitem 'Android-IMSI-Catcher-Detector'
+
+[462] link 'Android-IMSI-Catcher-Detector'
+
+[463] link 'Project information'
+
+[465] link 'Repository'
+
+[467] link 'Issues'
+
+[1050] StaticText '162'
+
+[469] link 'Merge requests'
+
+[471] link 'CI/CD'
+
+[473] link 'Deployments'
+
+[475] link 'Packages and registries'
+
+[477] link 'Monitor'
+
+[479] link 'Analytics'
+
+[481] link 'Wiki'
+
+[483] link 'Snippets'
+
+[273] button 'Collapse sidebar'
+
+[156] alert '' live: assertive atomic: True relevant: additions text
+
+[159] button 'Dismiss'
+
+[160] alert '' live: assertive atomic: True relevant: additions text
+
+[383] link 'Add SSH key'
+
+[384] button "Don't show again"
+
+[157] navigation 'Breadcrumbs'
+
+[500] link 'CellularPrivacy'
+
+[502] link 'Android-IMSI-Catcher-Detector'
+
+[17] main ''
+
+[290] heading 'Android-IMSI-Catcher-Detector Public - The project can be accessed without any authentication.'
+
+[293] generic 'Public - The project can be accessed without any authentication.'
+
+[296] StaticText 'Project ID: 61 '
+
+[297] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[299] link 'Request Access'
+
+[402] button '' hasPopup: menu expanded: False
+
+[302] button 'Star'
+
+[303] link '28'
+
+[407] link 'Fork'
+
+[305] link '0'
+
+[598] link '2,642 Commits'
+
+[599] link '11 Branches'
+
+[600] link '49 Tags'
+
+[1224] StaticText '258.9 MB'
+
+[1220] StaticText ' Project Storage'
+
+[602] link '48 Releases'
+
+[311] StaticText 'AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!'
+
+[313] generic '<span class="repository-language-bar-tooltip-language">Java</span>&nbsp;<span class="repository-language-bar-tooltip-share">100.0%</span>'
+
+[421] img 'user avatar'
+
+[425] link 'Translated using Weblate (Portuguese)'
+
+[426] button 'Toggle commit description'
+
+[431] StaticText 'ssantos authored '
+
+[432] time 'Mar 18, 2023 6:18am EDT'
+
+[606] StaticText '5 months ago'
+
+[436] button 'Unverified'
+
+[435] group ''
+
+[609] StaticText '0f9268c5'
+
+[438] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[1232] button 'development' hasPopup: menu expanded: False
+
+[77] navigation 'Files breadcrumb'
+
+[1958] link 'Android-IMSI-Catcher-Detector'
+
+[2207] button 'Add to tree' hasPopup: menu expanded: False
+
+[612] link 'Find file'
+
+[617] link 'Web IDE'
+
+[618] button 'Download'
+
+[1239] StaticText 'Select Archive Format'
+
+[620] link 'Clone'
+
+[643] link 'README'
+
+[644] link 'GNU GPLv3'
+
+[645] link 'CHANGELOG'
+
+[46] table 'Files, directories, and submodules in the path / for commit reference development' live: polite atomic: False relevant: additions text
+
+[1299] row ''
+
+[1300] columnheader 'Name' required: False
+
+[1301] columnheader 'Last commit' required: False
+
+[1302] columnheader 'Last update' required: False
+
+[1303] row ''
+
+[1318] gridcell '.github' required: False
+
+[1981] link '.github'
+
+[1319] gridcell 'Reduce visual noise' required: False
+
+[1987] link 'Reduce visual noise'
+
+[1320] gridcell '6 years ago' required: False
+
+[1990] time 'Jan 1, 2017 11:37am EST'
+
+[1304] row ''
+
+[1321] gridcell '.idea' required: False
+
+[1992] link '.idea'
+
+[1322] gridcell 'Improve Checkstyle Configuration' required: False
+
+[1998] link 'Improve Checkstyle Configuration'
+
+[1323] gridcell '6 years ago' required: False
+
+[2001] time 'Apr 11, 2017 6:19pm EDT'
+
+[1305] row ''
+
+[1324] gridcell 'AIMSICD' required: False
+
+[2003] link 'AIMSICD'
+
+[1325] gridcell 'Translated using Weblate (Portuguese)' required: False
+
+[2009] link 'Translated using Weblate (Portuguese)'
+
+[1326] gridcell '5 months ago' required: False</pre><div>
+
+[469] to view the branches in this repository. Once we have the branches list, we can click on the link for the "main" branch to view its commits. From there, we can identify the contributor with the most commits and find their email address. In summary, the next action I will perform is `click [469]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[469]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '469', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [469]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [469] where [469] is [469] link 'Merge requests'</pre></div></div>
+
+[2327] RootWebArea 'Merge requests · CellularPrivacy / Android-IMSI-Catcher-Detector · GitLab' focused: True
+
+[2442] link 'Skip to content'
+
+[2582] link 'Dashboard'
+
+[2666] button '' hasPopup: menu expanded: False
+
+[2339] textbox 'Search GitLab' required: False
+
+[3689] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2672] link 'Create new...'
+
+[2674] link 'Issues'
+
+[2946] generic '13 assigned issues'
+
+[2675] link 'Merge requests'
+
+[2948] generic '8 merge requests'
+
+[2677] link 'To-Do List'
+
+[2964] generic 'Todos count'
+
+[3710] StaticText '5'
+
+[2678] link 'Help'
+
+[2680] link 'Byte Blaze'
+
+[2998] img 'Byte Blaze'
+
+[2443] complementary 'Project navigation'
+
+[2615] listitem 'Android-IMSI-Catcher-Detector'
+
+[2682] link 'Android-IMSI-Catcher-Detector'
+
+[2683] link 'Project information'
+
+[2685] link 'Repository'
+
+[2687] link 'Issues'
+
+[3104] StaticText '162'
+
+[2689] link 'Merge requests'
+
+[3133] StaticText '5'
+
+[2691] link 'CI/CD'
+
+[2693] link 'Deployments'
+
+[2695] link 'Packages and registries'
+
+[2697] link 'Monitor'
+
+[2699] link 'Analytics'
+
+[2701] link 'Wiki'
+
+[2703] link 'Snippets'
+
+[2560] button 'Collapse sidebar'
+
+[2447] navigation 'Breadcrumbs'
+
+[2720] link 'CellularPrivacy'
+
+[2722] link 'Android-IMSI-Catcher-Detector'
+
+[2724] link 'Merge requests'
+
+[2343] main ''
+
+[2652] link 'Open 5'
+
+[2653] link 'Merged 291'
+
+[2654] link 'Closed 49'
+
+[2655] link 'All 345'
+
+[2570] link 'Subscribe to RSS feed'
+
+[2575] group ''
+
+[2659] button 'Export as CSV'
+
+[2742] button 'Recent searches'
+
+[2354] textbox 'Search or filter results...' required: False
+
+[2578] group ''
+
+[2773] button 'Created date' hasPopup: listbox
+
+[2663] link 'Sort direction'
+
+[2778] link 'Refactor Member Ignoring Method smell in Device class'
+
+[2780] StaticText '!968 '
+
+[2781] StaticText '· created '
+
+[2362] time 'Jan 11, 2020 12:18pm EST'
+
+[3644] StaticText '3 years ago'
+
+[2782] StaticText ' by '
+
+[2783] link 'Emanuele Iannone'
+
+[3647] link 'Pipeline: failed'
+
+[3648] link ' 0'
+
+[2787] StaticText 'updated '
+
+[2366] time 'Mar 19, 2023 2:59pm EDT'
+
+[3649] StaticText '5 months ago'
+
+[2790] link 'Privacy '
+
+[2792] StaticText '\xa0 6 of 6 checklist items completed'
+
+[2794] StaticText '!953 '
+
+[2795] StaticText '· created '
+
+[2372] time 'Mar 25, 2018 1:39am EDT'
+
+[3651] StaticText '5 years ago'
+
+[2796] StaticText ' by '
+
+[2797] link 'iamnew70284'
+
+[2798] generic 'Target branch'
+
+[3654] StaticText '\xa0 '
+
+[3655] link ' master'
+
+[3656] link 'Pipeline: failed'
+
+[3657] link ' 1'
+
+[2802] StaticText 'updated '
+
+[2376] time 'Mar 19, 2023 2:59pm EDT'
+
+[3658] StaticText '5 months ago'
+
+[2805] link 'Petites corrections aux fautes et incohérences.'
+
+[2807] StaticText '\xa0 0 of 3 checklist items completed'
+
+[2809] StaticText '!951 '
+
+[2810] StaticText '· created '
+
+[2382] time 'Feb 5, 2018 11:38pm EST'
+
+[3660] StaticText '5 years ago'
+
+[2811] StaticText ' by '
+
+[2812] link 'Administrator'
+
+[3663] link 'Pipeline: failed'
+
+[3664] link ' 0'
+
+[2816] StaticText 'updated '
+
+[2386] time 'Mar 19, 2023 2:59pm EDT'
+
+[3665] StaticText '5 months ago'
+
+[2819] link 'Versal case fixes and spelling'
+
+[2821] StaticText '!950 '
+
+[2822] StaticText '· created '
+
+[2392] time 'Jan 29, 2018 8:25pm EST'
+
+[3667] StaticText '5 years ago'
+
+[2823] StaticText ' by '
+
+[2824] link 'Allan Nordhøy'
+
+[3670] link 'Pipeline: failed'
+
+[3671] link ' 0'
+
+[2828] StaticText 'updated '
+
+[2396] time 'Mar 19, 2023 2:59pm EDT'
+
+[3672] StaticText '5 months ago'
+
+[2831] link 'Fix #849 by caching previous states'
+
+[2833] StaticText '\xa0 3 of 6 checklist items completed'
+
+[2835] StaticText '!880 '
+
+[2836] StaticText '· created '
+
+[2402] time 'Jun 3, 2016 6:24pm EDT'
+
+[3674] StaticText '7 years ago'
+
+[2837] StaticText ' by '
+
+[2838] link 'Kai'
+
+[3677] link 'Pipeline: failed'
+
+[3678] link ' 4'
+
+[2842] StaticText 'updated '
+
+[2406] time 'Mar 19, 2023 2:59pm EDT'
+
+[3679] StaticText '5 months ago'</pre><div>
+
+[469] where [469] is link 'Merge requests'</div>
+
+[2675]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. I need to find the contributor who has the most commits to the branch `main`. I see that there is a link to the merge requests on this page. I will click on the link to go to the merge requests page. In summary, the next action I will perform is `click [2675]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[2327] RootWebArea 'Merge requests · CellularPrivacy / Android-IMSI-Catcher-Detector · GitLab' focused: True
+
+[2442] link 'Skip to content'
+
+[2582] link 'Dashboard'
+
+[2666] button '' hasPopup: menu expanded: False
+
+[2339] textbox 'Search GitLab' required: False
+
+[3689] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2672] link 'Create new...'
+
+[2674] link 'Issues'
+
+[2946] generic '13 assigned issues'
+
+[2675] link 'Merge requests'
+
+[2948] generic '8 merge requests'
+
+[2677] link 'To-Do List'
+
+[2964] generic 'Todos count'
+
+[3710] StaticText '5'
+
+[2678] link 'Help'
+
+[2680] link 'Byte Blaze'
+
+[2998] img 'Byte Blaze'
+
+[2443] complementary 'Project navigation'
+
+[2615] listitem 'Android-IMSI-Catcher-Detector'
+
+[2682] link 'Android-IMSI-Catcher-Detector'
+
+[2683] link 'Project information'
+
+[2685] link 'Repository'
+
+[2687] link 'Issues'
+
+[3104] StaticText '162'
+
+[2689] link 'Merge requests'
+
+[3133] StaticText '5'
+
+[2691] link 'CI/CD'
+
+[2693] link 'Deployments'
+
+[2695] link 'Packages and registries'
+
+[2697] link 'Monitor'
+
+[2699] link 'Analytics'
+
+[2701] link 'Wiki'
+
+[2703] link 'Snippets'
+
+[2560] button 'Collapse sidebar'
+
+[2447] navigation 'Breadcrumbs'
+
+[2720] link 'CellularPrivacy'
+
+[2722] link 'Android-IMSI-Catcher-Detector'
+
+[2724] link 'Merge requests'
+
+[2343] main ''
+
+[2652] link 'Open 5'
+
+[2653] link 'Merged 291'
+
+[2654] link 'Closed 49'
+
+[2655] link 'All 345'
+
+[2570] link 'Subscribe to RSS feed'
+
+[2575] group ''
+
+[2659] button 'Export as CSV'
+
+[2742] button 'Recent searches'
+
+[2354] textbox 'Search or filter results...' required: False
+
+[2578] group ''
+
+[2773] button 'Created date' hasPopup: listbox
+
+[2663] link 'Sort direction'
+
+[2778] link 'Refactor Member Ignoring Method smell in Device class'
+
+[2780] StaticText '!968 '
+
+[2781] StaticText '· created '
+
+[2362] time 'Jan 11, 2020 12:18pm EST'
+
+[3644] StaticText '3 years ago'
+
+[2782] StaticText ' by '
+
+[2783] link 'Emanuele Iannone'
+
+[3647] link 'Pipeline: failed'
+
+[3648] link ' 0'
+
+[2787] StaticText 'updated '
+
+[2366] time 'Mar 19, 2023 2:59pm EDT'
+
+[3649] StaticText '5 months ago'
+
+[2790] link 'Privacy '
+
+[2792] StaticText '\xa0 6 of 6 checklist items completed'
+
+[2794] StaticText '!953 '
+
+[2795] StaticText '· created '
+
+[2372] time 'Mar 25, 2018 1:39am EDT'
+
+[3651] StaticText '5 years ago'
+
+[2796] StaticText ' by '
+
+[2797] link 'iamnew70284'
+
+[2798] generic 'Target branch'
+
+[3654] StaticText '\xa0 '
+
+[3655] link ' master'
+
+[3656] link 'Pipeline: failed'
+
+[3657] link ' 1'
+
+[2802] StaticText 'updated '
+
+[2376] time 'Mar 19, 2023 2:59pm EDT'
+
+[3658] StaticText '5 months ago'
+
+[2805] link 'Petites corrections aux fautes et incohérences.'
+
+[2807] StaticText '\xa0 0 of 3 checklist items completed'
+
+[2809] StaticText '!951 '
+
+[2810] StaticText '· created '
+
+[2382] time 'Feb 5, 2018 11:38pm EST'
+
+[3660] StaticText '5 years ago'
+
+[2811] StaticText ' by '
+
+[2812] link 'Administrator'
+
+[3663] link 'Pipeline: failed'
+
+[3664] link ' 0'
+
+[2816] StaticText 'updated '
+
+[2386] time 'Mar 19, 2023 2:59pm EDT'
+
+[3665] StaticText '5 months ago'
+
+[2819] link 'Versal case fixes and spelling'
+
+[2821] StaticText '!950 '
+
+[2822] StaticText '· created '
+
+[2392] time 'Jan 29, 2018 8:25pm EST'
+
+[3667] StaticText '5 years ago'
+
+[2823] StaticText ' by '
+
+[2824] link 'Allan Nordhøy'
+
+[3670] link 'Pipeline: failed'
+
+[3671] link ' 0'
+
+[2828] StaticText 'updated '
+
+[2396] time 'Mar 19, 2023 2:59pm EDT'
+
+[3672] StaticText '5 months ago'
+
+[2831] link 'Fix #849 by caching previous states'
+
+[2833] StaticText '\xa0 3 of 6 checklist items completed'
+
+[2835] StaticText '!880 '
+
+[2836] StaticText '· created '
+
+[2402] time 'Jun 3, 2016 6:24pm EDT'
+
+[3674] StaticText '7 years ago'
+
+[2837] StaticText ' by '
+
+[2838] link 'Kai'
+
+[3677] link 'Pipeline: failed'
+
+[3678] link ' 4'
+
+[2842] StaticText 'updated '
+
+[2406] time 'Mar 19, 2023 2:59pm EDT'
+
+[3679] StaticText '5 months ago'</pre><div>
+
+[2675]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[2675]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2675', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. I need to find the contributor who has the most commits to the branch `main`. I see that there is a link to the merge requests on this page. I will click on the link to go to the merge requests page. In summary, the next action I will perform is ```click [2675]```."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2675] where [2675] is [2675] link 'Merge requests'</pre></div></div>
+
+[2327] RootWebArea 'Merge requests · CellularPrivacy / Android-IMSI-Catcher-Detector · GitLab' focused: True
+
+[2442] link 'Skip to content'
+
+[2582] link 'Dashboard'
+
+[2666] button '' hasPopup: menu expanded: False
+
+[2339] textbox 'Search GitLab' required: False
+
+[3689] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2672] link 'Create new...'
+
+[2674] link 'Issues'
+
+[2946] generic '13 assigned issues'
+
+[2675] link 'Merge requests' focused: True expanded: True describedby: gl-tooltip4
+
+[2948] generic '8 merge requests'
+
+[3835] link 'Assigned to you 3'
+
+[3843] link 'Review requests for you 5'
+
+[2677] link 'To-Do List'
+
+[2964] generic 'Todos count'
+
+[2678] link 'Help'
+
+[2680] link 'Byte Blaze'
+
+[2998] img 'Byte Blaze'
+
+[2443] complementary 'Project navigation'
+
+[2615] listitem 'Android-IMSI-Catcher-Detector'
+
+[2682] link 'Android-IMSI-Catcher-Detector'
+
+[2683] link 'Project information'
+
+[2685] link 'Repository'
+
+[2687] link 'Issues'
+
+[3104] StaticText '162'
+
+[2689] link 'Merge requests'
+
+[3133] StaticText '5'
+
+[2691] link 'CI/CD'
+
+[2693] link 'Deployments'
+
+[2695] link 'Packages and registries'
+
+[2697] link 'Monitor'
+
+[2699] link 'Analytics'
+
+[2701] link 'Wiki'
+
+[2703] link 'Snippets'
+
+[2560] button 'Collapse sidebar'
+
+[2447] navigation 'Breadcrumbs'
+
+[2720] link 'CellularPrivacy'
+
+[2722] link 'Android-IMSI-Catcher-Detector'
+
+[2724] link 'Merge requests'
+
+[2343] main ''
+
+[2652] link 'Open 5'
+
+[2653] link 'Merged 291'
+
+[2654] link 'Closed 49'
+
+[2655] link 'All 345'
+
+[2570] link 'Subscribe to RSS feed'
+
+[2575] group ''
+
+[2659] button 'Export as CSV'
+
+[2742] button 'Recent searches'
+
+[2354] textbox 'Search or filter results...' required: False
+
+[2578] group ''
+
+[2773] button 'Created date' hasPopup: listbox
+
+[2663] link 'Sort direction'
+
+[2778] link 'Refactor Member Ignoring Method smell in Device class'
+
+[2780] StaticText '!968 '
+
+[2781] StaticText '· created '
+
+[2362] time 'Jan 11, 2020 12:18pm EST'
+
+[3644] StaticText '3 years ago'
+
+[2782] StaticText ' by '
+
+[2783] link 'Emanuele Iannone'
+
+[3647] link 'Pipeline: failed'
+
+[3648] link ' 0'
+
+[2787] StaticText 'updated '
+
+[2366] time 'Mar 19, 2023 2:59pm EDT'
+
+[3649] StaticText '5 months ago'
+
+[2790] link 'Privacy '
+
+[2792] StaticText '\xa0 6 of 6 checklist items completed'
+
+[2794] StaticText '!953 '
+
+[2795] StaticText '· created '
+
+[2372] time 'Mar 25, 2018 1:39am EDT'
+
+[3651] StaticText '5 years ago'
+
+[2796] StaticText ' by '
+
+[2797] link 'iamnew70284'
+
+[2798] generic 'Target branch'
+
+[3654] StaticText '\xa0 '
+
+[3655] link ' master'
+
+[3656] link 'Pipeline: failed'
+
+[3657] link ' 1'
+
+[2802] StaticText 'updated '
+
+[2376] time 'Mar 19, 2023 2:59pm EDT'
+
+[3658] StaticText '5 months ago'
+
+[2805] link 'Petites corrections aux fautes et incohérences.'
+
+[2807] StaticText '\xa0 0 of 3 checklist items completed'
+
+[2809] StaticText '!951 '
+
+[2810] StaticText '· created '
+
+[2382] time 'Feb 5, 2018 11:38pm EST'
+
+[3660] StaticText '5 years ago'
+
+[2811] StaticText ' by '
+
+[2812] link 'Administrator'
+
+[3663] link 'Pipeline: failed'
+
+[3664] link ' 0'
+
+[2816] StaticText 'updated '
+
+[2386] time 'Mar 19, 2023 2:59pm EDT'
+
+[3665] StaticText '5 months ago'
+
+[2819] link 'Versal case fixes and spelling'
+
+[2821] StaticText '!950 '
+
+[2822] StaticText '· created '
+
+[2392] time 'Jan 29, 2018 8:25pm EST'
+
+[3667] StaticText '5 years ago'
+
+[2823] StaticText ' by '
+
+[2824] link 'Allan Nordhøy'
+
+[3670] link 'Pipeline: failed'
+
+[3671] link ' 0'
+
+[2828] StaticText 'updated '
+
+[2396] time 'Mar 19, 2023 2:59pm EDT'
+
+[3672] StaticText '5 months ago'
+
+[2831] link 'Fix #849 by caching previous states'
+
+[2833] StaticText '\xa0 3 of 6 checklist items completed'
+
+[2835] StaticText '!880 '
+
+[2836] StaticText '· created '
+
+[2402] time 'Jun 3, 2016 6:24pm EDT'
+
+[3674] StaticText '7 years ago'
+
+[2837] StaticText ' by '
+
+[2838] link 'Kai'
+
+[3677] link 'Pipeline: failed'
+
+[3678] link ' 4'
+
+[2842] StaticText 'updated '
+
+[2406] time 'Mar 19, 2023 2:59pm EDT'
+
+[3679] StaticText '5 months ago'
+
+[3844] tooltip 'Merge requests'</pre><div>
+
+[2675] where [2675] is link 'Merge requests'</div>
+
+[2327] RootWebArea 'Merge requests · CellularPrivacy / Android-IMSI-Catcher-Detector · GitLab' focused: True
+
+[2442] link 'Skip to content'
+
+[2582] link 'Dashboard'
+
+[2666] button '' hasPopup: menu expanded: False
+
+[2339] textbox 'Search GitLab' required: False
+
+[3689] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2672] link 'Create new...'
+
+[2674] link 'Issues'
+
+[2946] generic '13 assigned issues'
+
+[2675] link 'Merge requests' focused: True expanded: True describedby: gl-tooltip4
+
+[2948] generic '8 merge requests'
+
+[3835] link 'Assigned to you 3'
+
+[3843] link 'Review requests for you 5'
+
+[2677] link 'To-Do List'
+
+[2964] generic 'Todos count'
+
+[2678] link 'Help'
+
+[2680] link 'Byte Blaze'
+
+[2998] img 'Byte Blaze'
+
+[2443] complementary 'Project navigation'
+
+[2615] listitem 'Android-IMSI-Catcher-Detector'
+
+[2682] link 'Android-IMSI-Catcher-Detector'
+
+[2683] link 'Project information'
+
+[2685] link 'Repository'
+
+[2687] link 'Issues'
+
+[3104] StaticText '162'
+
+[2689] link 'Merge requests'
+
+[3133] StaticText '5'
+
+[2691] link 'CI/CD'
+
+[2693] link 'Deployments'
+
+[2695] link 'Packages and registries'
+
+[2697] link 'Monitor'
+
+[2699] link 'Analytics'
+
+[2701] link 'Wiki'
+
+[2703] link 'Snippets'
+
+[2560] button 'Collapse sidebar'
+
+[2447] navigation 'Breadcrumbs'
+
+[2720] link 'CellularPrivacy'
+
+[2722] link 'Android-IMSI-Catcher-Detector'
+
+[2724] link 'Merge requests'
+
+[2343] main ''
+
+[2652] link 'Open 5'
+
+[2653] link 'Merged 291'
+
+[2654] link 'Closed 49'
+
+[2655] link 'All 345'
+
+[2570] link 'Subscribe to RSS feed'
+
+[2575] group ''
+
+[2659] button 'Export as CSV'
+
+[2742] button 'Recent searches'
+
+[2354] textbox 'Search or filter results...' required: False
+
+[2578] group ''
+
+[2773] button 'Created date' hasPopup: listbox
+
+[2663] link 'Sort direction'
+
+[2778] link 'Refactor Member Ignoring Method smell in Device class'
+
+[2780] StaticText '!968 '
+
+[2781] StaticText '· created '
+
+[2362] time 'Jan 11, 2020 12:18pm EST'
+
+[3644] StaticText '3 years ago'
+
+[2782] StaticText ' by '
+
+[2783] link 'Emanuele Iannone'
+
+[3647] link 'Pipeline: failed'
+
+[3648] link ' 0'
+
+[2787] StaticText 'updated '
+
+[2366] time 'Mar 19, 2023 2:59pm EDT'
+
+[3649] StaticText '5 months ago'
+
+[2790] link 'Privacy '
+
+[2792] StaticText '\xa0 6 of 6 checklist items completed'
+
+[2794] StaticText '!953 '
+
+[2795] StaticText '· created '
+
+[2372] time 'Mar 25, 2018 1:39am EDT'
+
+[3651] StaticText '5 years ago'
+
+[2796] StaticText ' by '
+
+[2797] link 'iamnew70284'
+
+[2798] generic 'Target branch'
+
+[3654] StaticText '\xa0 '
+
+[3655] link ' master'
+
+[3656] link 'Pipeline: failed'
+
+[3657] link ' 1'
+
+[2802] StaticText 'updated '
+
+[2376] time 'Mar 19, 2023 2:59pm EDT'
+
+[3658] StaticText '5 months ago'
+
+[2805] link 'Petites corrections aux fautes et incohérences.'
+
+[2807] StaticText '\xa0 0 of 3 checklist items completed'
+
+[2809] StaticText '!951 '
+
+[2810] StaticText '· created '
+
+[2382] time 'Feb 5, 2018 11:38pm EST'
+
+[3660] StaticText '5 years ago'
+
+[2811] StaticText ' by '
+
+[2812] link 'Administrator'
+
+[3663] link 'Pipeline: failed'
+
+[3664] link ' 0'
+
+[2816] StaticText 'updated '
+
+[2386] time 'Mar 19, 2023 2:59pm EDT'
+
+[3665] StaticText '5 months ago'
+
+[2819] link 'Versal case fixes and spelling'
+
+[2821] StaticText '!950 '
+
+[2822] StaticText '· created '
+
+[2392] time 'Jan 29, 2018 8:25pm EST'
+
+[3667] StaticText '5 years ago'
+
+[2823] StaticText ' by '
+
+[2824] link 'Allan Nordhøy'
+
+[3670] link 'Pipeline: failed'
+
+[3671] link ' 0'
+
+[2828] StaticText 'updated '
+
+[2396] time 'Mar 19, 2023 2:59pm EDT'
+
+[3672] StaticText '5 months ago'
+
+[2831] link 'Fix #849 by caching previous states'
+
+[2833] StaticText '\xa0 3 of 6 checklist items completed'
+
+[2835] StaticText '!880 '
+
+[2836] StaticText '· created '
+
+[2402] time 'Jun 3, 2016 6:24pm EDT'
+
+[3674] StaticText '7 years ago'
+
+[2837] StaticText ' by '
+
+[2838] link 'Kai'
+
+[3677] link 'Pipeline: failed'
+
+[3678] link ' 4'
+
+[2842] StaticText 'updated '
+
+[2406] time 'Mar 19, 2023 2:59pm EDT'
+
+[3679] StaticText '5 months ago'
+
+[3844] tooltip 'Merge requests'</pre><div>
+
+[2327] RootWebArea 'Merge requests · CellularPrivacy / Android-IMSI-Catcher-Detector · GitLab' focused: True
+
+[2442] link 'Skip to content'
+
+[2582] link 'Dashboard'
+
+[2666] button '' hasPopup: menu expanded: False
+
+[2339] textbox 'Search GitLab' required: False
+
+[3689] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2672] link 'Create new...'
+
+[2674] link 'Issues'
+
+[2946] generic '13 assigned issues'
+
+[2675] link 'Merge requests' focused: True expanded: True describedby: gl-tooltip4
+
+[2948] generic '8 merge requests'
+
+[3835] link 'Assigned to you 3'
+
+[3843] link 'Review requests for you 5'
+
+[2677] link 'To-Do List'
+
+[2964] generic 'Todos count'
+
+[2678] link 'Help'
+
+[2680] link 'Byte Blaze'
+
+[2998] img 'Byte Blaze'
+
+[2443] complementary 'Project navigation'
+
+[2615] listitem 'Android-IMSI-Catcher-Detector'
+
+[2682] link 'Android-IMSI-Catcher-Detector'
+
+[2683] link 'Project information'
+
+[2685] link 'Repository'
+
+[2687] link 'Issues'
+
+[3104] StaticText '162'
+
+[2689] link 'Merge requests'
+
+[3133] StaticText '5'
+
+[2691] link 'CI/CD'
+
+[2693] link 'Deployments'
+
+[2695] link 'Packages and registries'
+
+[2697] link 'Monitor'
+
+[2699] link 'Analytics'
+
+[2701] link 'Wiki'
+
+[2703] link 'Snippets'
+
+[2560] button 'Collapse sidebar'
+
+[2447] navigation 'Breadcrumbs'
+
+[2720] link 'CellularPrivacy'
+
+[2722] link 'Android-IMSI-Catcher-Detector'
+
+[2724] link 'Merge requests'
+
+[2343] main ''
+
+[2652] link 'Open 5'
+
+[2653] link 'Merged 291'
+
+[2654] link 'Closed 49'
+
+[2655] link 'All 345'
+
+[2570] link 'Subscribe to RSS feed'
+
+[2575] group ''
+
+[2659] button 'Export as CSV'
+
+[2742] button 'Recent searches'
+
+[2354] textbox 'Search or filter results...' required: False
+
+[2578] group ''
+
+[2773] button 'Created date' hasPopup: listbox
+
+[2663] link 'Sort direction'
+
+[2778] link 'Refactor Member Ignoring Method smell in Device class'
+
+[2780] StaticText '!968 '
+
+[2781] StaticText '· created '
+
+[2362] time 'Jan 11, 2020 12:18pm EST'
+
+[3644] StaticText '3 years ago'
+
+[2782] StaticText ' by '
+
+[2783] link 'Emanuele Iannone'
+
+[3647] link 'Pipeline: failed'
+
+[3648] link ' 0'
+
+[2787] StaticText 'updated '
+
+[2366] time 'Mar 19, 2023 2:59pm EDT'
+
+[3649] StaticText '5 months ago'
+
+[2790] link 'Privacy '
+
+[2792] StaticText '\xa0 6 of 6 checklist items completed'
+
+[2794] StaticText '!953 '
+
+[2795] StaticText '· created '
+
+[2372] time 'Mar 25, 2018 1:39am EDT'
+
+[3651] StaticText '5 years ago'
+
+[2796] StaticText ' by '
+
+[2797] link 'iamnew70284'
+
+[2798] generic 'Target branch'
+
+[3654] StaticText '\xa0 '
+
+[3655] link ' master'
+
+[3656] link 'Pipeline: failed'
+
+[3657] link ' 1'
+
+[2802] StaticText 'updated '
+
+[2376] time 'Mar 19, 2023 2:59pm EDT'
+
+[3658] StaticText '5 months ago'
+
+[2805] link 'Petites corrections aux fautes et incohérences.'
+
+[2807] StaticText '\xa0 0 of 3 checklist items completed'
+
+[2809] StaticText '!951 '
+
+[2810] StaticText '· created '
+
+[2382] time 'Feb 5, 2018 11:38pm EST'
+
+[3660] StaticText '5 years ago'
+
+[2811] StaticText ' by '
+
+[2812] link 'Administrator'
+
+[3663] link 'Pipeline: failed'
+
+[3664] link ' 0'
+
+[2816] StaticText 'updated '
+
+[2386] time 'Mar 19, 2023 2:59pm EDT'
+
+[3665] StaticText '5 months ago'
+
+[2819] link 'Versal case fixes and spelling'
+
+[2821] StaticText '!950 '
+
+[2822] StaticText '· created '
+
+[2392] time 'Jan 29, 2018 8:25pm EST'
+
+[3667] StaticText '5 years ago'
+
+[2823] StaticText ' by '
+
+[2824] link 'Allan Nordhøy'
+
+[3670] link 'Pipeline: failed'
+
+[3671] link ' 0'
+
+[2828] StaticText 'updated '
+
+[2396] time 'Mar 19, 2023 2:59pm EDT'
+
+[3672] StaticText '5 months ago'
+
+[2831] link 'Fix #849 by caching previous states'
+
+[2833] StaticText '\xa0 3 of 6 checklist items completed'
+
+[2835] StaticText '!880 '
+
+[2836] StaticText '· created '
+
+[2402] time 'Jun 3, 2016 6:24pm EDT'
+
+[3674] StaticText '7 years ago'
+
+[2837] StaticText ' by '
+
+[2838] link 'Kai'
+
+[3677] link 'Pipeline: failed'
+
+[3678] link ' 4'
+
+[2842] StaticText 'updated '
+
+[2406] time 'Mar 19, 2023 2:59pm EDT'
+
+[3679] StaticText '5 months ago'
+
+[3844] tooltip 'Merge requests'</pre><div>
+
+[2327] RootWebArea 'Merge requests · CellularPrivacy / Android-IMSI-Catcher-Detector · GitLab' focused: True
+
+[2442] link 'Skip to content'
+
+[2582] link 'Dashboard'
+
+[2666] button '' hasPopup: menu expanded: False
+
+[2339] textbox 'Search GitLab' required: False
+
+[3689] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2672] link 'Create new...'
+
+[2674] link 'Issues'
+
+[2946] generic '13 assigned issues'
+
+[2675] link 'Merge requests' focused: True expanded: True describedby: gl-tooltip4
+
+[2948] generic '8 merge requests'
+
+[3835] link 'Assigned to you 3'
+
+[3843] link 'Review requests for you 5'
+
+[2677] link 'To-Do List'
+
+[2964] generic 'Todos count'
+
+[2678] link 'Help'
+
+[2680] link 'Byte Blaze'
+
+[2998] img 'Byte Blaze'
+
+[2443] complementary 'Project navigation'
+
+[2615] listitem 'Android-IMSI-Catcher-Detector'
+
+[2682] link 'Android-IMSI-Catcher-Detector'
+
+[2683] link 'Project information'
+
+[2685] link 'Repository'
+
+[2687] link 'Issues'
+
+[3104] StaticText '162'
+
+[2689] link 'Merge requests'
+
+[3133] StaticText '5'
+
+[2691] link 'CI/CD'
+
+[2693] link 'Deployments'
+
+[2695] link 'Packages and registries'
+
+[2697] link 'Monitor'
+
+[2699] link 'Analytics'
+
+[2701] link 'Wiki'
+
+[2703] link 'Snippets'
+
+[2560] button 'Collapse sidebar'
+
+[2447] navigation 'Breadcrumbs'
+
+[2720] link 'CellularPrivacy'
+
+[2722] link 'Android-IMSI-Catcher-Detector'
+
+[2724] link 'Merge requests'
+
+[2343] main ''
+
+[2652] link 'Open 5'
+
+[2653] link 'Merged 291'
+
+[2654] link 'Closed 49'
+
+[2655] link 'All 345'
+
+[2570] link 'Subscribe to RSS feed'
+
+[2575] group ''
+
+[2659] button 'Export as CSV'
+
+[2742] button 'Recent searches'
+
+[2354] textbox 'Search or filter results...' required: False
+
+[2578] group ''
+
+[2773] button 'Created date' hasPopup: listbox
+
+[2663] link 'Sort direction'
+
+[2778] link 'Refactor Member Ignoring Method smell in Device class'
+
+[2780] StaticText '!968 '
+
+[2781] StaticText '· created '
+
+[2362] time 'Jan 11, 2020 12:18pm EST'
+
+[3644] StaticText '3 years ago'
+
+[2782] StaticText ' by '
+
+[2783] link 'Emanuele Iannone'
+
+[3647] link 'Pipeline: failed'
+
+[3648] link ' 0'
+
+[2787] StaticText 'updated '
+
+[2366] time 'Mar 19, 2023 2:59pm EDT'
+
+[3649] StaticText '5 months ago'
+
+[2790] link 'Privacy '
+
+[2792] StaticText '\xa0 6 of 6 checklist items completed'
+
+[2794] StaticText '!953 '
+
+[2795] StaticText '· created '
+
+[2372] time 'Mar 25, 2018 1:39am EDT'
+
+[3651] StaticText '5 years ago'
+
+[2796] StaticText ' by '
+
+[2797] link 'iamnew70284'
+
+[2798] generic 'Target branch'
+
+[3654] StaticText '\xa0 '
+
+[3655] link ' master'
+
+[3656] link 'Pipeline: failed'
+
+[3657] link ' 1'
+
+[2802] StaticText 'updated '
+
+[2376] time 'Mar 19, 2023 2:59pm EDT'
+
+[3658] StaticText '5 months ago'
+
+[2805] link 'Petites corrections aux fautes et incohérences.'
+
+[2807] StaticText '\xa0 0 of 3 checklist items completed'
+
+[2809] StaticText '!951 '
+
+[2810] StaticText '· created '
+
+[2382] time 'Feb 5, 2018 11:38pm EST'
+
+[3660] StaticText '5 years ago'
+
+[2811] StaticText ' by '
+
+[2812] link 'Administrator'
+
+[3663] link 'Pipeline: failed'
+
+[3664] link ' 0'
+
+[2816] StaticText 'updated '
+
+[2386] time 'Mar 19, 2023 2:59pm EDT'
+
+[3665] StaticText '5 months ago'
+
+[2819] link 'Versal case fixes and spelling'
+
+[2821] StaticText '!950 '
+
+[2822] StaticText '· created '
+
+[2392] time 'Jan 29, 2018 8:25pm EST'
+
+[3667] StaticText '5 years ago'
+
+[2823] StaticText ' by '
+
+[2824] link 'Allan Nordhøy'
+
+[3670] link 'Pipeline: failed'
+
+[3671] link ' 0'
+
+[2828] StaticText 'updated '
+
+[2396] time 'Mar 19, 2023 2:59pm EDT'
+
+[3672] StaticText '5 months ago'
+
+[2831] link 'Fix #849 by caching previous states'
+
+[2833] StaticText '\xa0 3 of 6 checklist items completed'
+
+[2835] StaticText '!880 '
+
+[2836] StaticText '· created '
+
+[2402] time 'Jun 3, 2016 6:24pm EDT'
+
+[3674] StaticText '7 years ago'
+
+[2837] StaticText ' by '
+
+[2838] link 'Kai'
+
+[3677] link 'Pipeline: failed'
+
+[3678] link ' 4'
+
+[2842] StaticText 'updated '
+
+[2406] time 'Mar 19, 2023 2:59pm EDT'
+
+[3679] StaticText '5 months ago'
+
+[3844] tooltip 'Merge requests'</pre><div>
+
+[2327] RootWebArea 'Merge requests · CellularPrivacy / Android-IMSI-Catcher-Detector · GitLab' focused: True
+
+[2442] link 'Skip to content'
+
+[2582] link 'Dashboard'
+
+[2666] button '' hasPopup: menu expanded: False
+
+[2339] textbox 'Search GitLab' required: False
+
+[3689] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2672] link 'Create new...'
+
+[2674] link 'Issues'
+
+[2946] generic '13 assigned issues'
+
+[2675] link 'Merge requests' focused: True expanded: True describedby: gl-tooltip4
+
+[2948] generic '8 merge requests'
+
+[3835] link 'Assigned to you 3'
+
+[3843] link 'Review requests for you 5'
+
+[2677] link 'To-Do List'
+
+[2964] generic 'Todos count'
+
+[2678] link 'Help'
+
+[2680] link 'Byte Blaze'
+
+[2998] img 'Byte Blaze'
+
+[2443] complementary 'Project navigation'
+
+[2615] listitem 'Android-IMSI-Catcher-Detector'
+
+[2682] link 'Android-IMSI-Catcher-Detector'
+
+[2683] link 'Project information'
+
+[2685] link 'Repository'
+
+[2687] link 'Issues'
+
+[3104] StaticText '162'
+
+[2689] link 'Merge requests'
+
+[3133] StaticText '5'
+
+[2691] link 'CI/CD'
+
+[2693] link 'Deployments'
+
+[2695] link 'Packages and registries'
+
+[2697] link 'Monitor'
+
+[2699] link 'Analytics'
+
+[2701] link 'Wiki'
+
+[2703] link 'Snippets'
+
+[2560] button 'Collapse sidebar'
+
+[2447] navigation 'Breadcrumbs'
+
+[2720] link 'CellularPrivacy'
+
+[2722] link 'Android-IMSI-Catcher-Detector'
+
+[2724] link 'Merge requests'
+
+[2343] main ''
+
+[2652] link 'Open 5'
+
+[2653] link 'Merged 291'
+
+[2654] link 'Closed 49'
+
+[2655] link 'All 345'
+
+[2570] link 'Subscribe to RSS feed'
+
+[2575] group ''
+
+[2659] button 'Export as CSV'
+
+[2742] button 'Recent searches'
+
+[2354] textbox 'Search or filter results...' required: False
+
+[2578] group ''
+
+[2773] button 'Created date' hasPopup: listbox
+
+[2663] link 'Sort direction'
+
+[2778] link 'Refactor Member Ignoring Method smell in Device class'
+
+[2780] StaticText '!968 '
+
+[2781] StaticText '· created '
+
+[2362] time 'Jan 11, 2020 12:18pm EST'
+
+[3644] StaticText '3 years ago'
+
+[2782] StaticText ' by '
+
+[2783] link 'Emanuele Iannone'
+
+[3647] link 'Pipeline: failed'
+
+[3648] link ' 0'
+
+[2787] StaticText 'updated '
+
+[2366] time 'Mar 19, 2023 2:59pm EDT'
+
+[3649] StaticText '5 months ago'
+
+[2790] link 'Privacy '
+
+[2792] StaticText '\xa0 6 of 6 checklist items completed'
+
+[2794] StaticText '!953 '
+
+[2795] StaticText '· created '
+
+[2372] time 'Mar 25, 2018 1:39am EDT'
+
+[3651] StaticText '5 years ago'
+
+[2796] StaticText ' by '
+
+[2797] link 'iamnew70284'
+
+[2798] generic 'Target branch'
+
+[3654] StaticText '\xa0 '
+
+[3655] link ' master'
+
+[3656] link 'Pipeline: failed'
+
+[3657] link ' 1'
+
+[2802] StaticText 'updated '
+
+[2376] time 'Mar 19, 2023 2:59pm EDT'
+
+[3658] StaticText '5 months ago'
+
+[2805] link 'Petites corrections aux fautes et incohérences.'
+
+[2807] StaticText '\xa0 0 of 3 checklist items completed'
+
+[2809] StaticText '!951 '
+
+[2810] StaticText '· created '
+
+[2382] time 'Feb 5, 2018 11:38pm EST'
+
+[3660] StaticText '5 years ago'
+
+[2811] StaticText ' by '
+
+[2812] link 'Administrator'
+
+[3663] link 'Pipeline: failed'
+
+[3664] link ' 0'
+
+[2816] StaticText 'updated '
+
+[2386] time 'Mar 19, 2023 2:59pm EDT'
+
+[3665] StaticText '5 months ago'
+
+[2819] link 'Versal case fixes and spelling'
+
+[2821] StaticText '!950 '
+
+[2822] StaticText '· created '
+
+[2392] time 'Jan 29, 2018 8:25pm EST'
+
+[3667] StaticText '5 years ago'
+
+[2823] StaticText ' by '
+
+[2824] link 'Allan Nordhøy'
+
+[3670] link 'Pipeline: failed'
+
+[3671] link ' 0'
+
+[2828] StaticText 'updated '
+
+[2396] time 'Mar 19, 2023 2:59pm EDT'
+
+[3672] StaticText '5 months ago'
+
+[2831] link 'Fix #849 by caching previous states'
+
+[2833] StaticText '\xa0 3 of 6 checklist items completed'
+
+[2835] StaticText '!880 '
+
+[2836] StaticText '· created '
+
+[2402] time 'Jun 3, 2016 6:24pm EDT'
+
+[3674] StaticText '7 years ago'
+
+[2837] StaticText ' by '
+
+[2838] link 'Kai'
+
+[3677] link 'Pipeline: failed'
+
+[3678] link ' 4'
+
+[2842] StaticText 'updated '
+
+[2406] time 'Mar 19, 2023 2:59pm EDT'
+
+[3679] StaticText '5 months ago'
+
+[3844] tooltip 'Merge requests'</pre><div>
+
+[2327] RootWebArea 'Merge requests · CellularPrivacy / Android-IMSI-Catcher-Detector · GitLab' focused: True
+
+[2442] link 'Skip to content'
+
+[2582] link 'Dashboard'
+
+[2666] button '' hasPopup: menu expanded: False
+
+[2339] textbox 'Search GitLab' required: False
+
+[3689] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2672] link 'Create new...'
+
+[2674] link 'Issues'
+
+[2946] generic '13 assigned issues'
+
+[2675] link 'Merge requests' focused: True expanded: True describedby: gl-tooltip4
+
+[2948] generic '8 merge requests'
+
+[3835] link 'Assigned to you 3'
+
+[3843] link 'Review requests for you 5'
+
+[2677] link 'To-Do List'
+
+[2964] generic 'Todos count'
+
+[2678] link 'Help'
+
+[2680] link 'Byte Blaze'
+
+[2998] img 'Byte Blaze'
+
+[2443] complementary 'Project navigation'
+
+[2615] listitem 'Android-IMSI-Catcher-Detector'
+
+[2682] link 'Android-IMSI-Catcher-Detector'
+
+[2683] link 'Project information'
+
+[2685] link 'Repository'
+
+[2687] link 'Issues'
+
+[3104] StaticText '162'
+
+[2689] link 'Merge requests'
+
+[3133] StaticText '5'
+
+[2691] link 'CI/CD'
+
+[2693] link 'Deployments'
+
+[2695] link 'Packages and registries'
+
+[2697] link 'Monitor'
+
+[2699] link 'Analytics'
+
+[2701] link 'Wiki'
+
+[2703] link 'Snippets'
+
+[2560] button 'Collapse sidebar'
+
+[2447] navigation 'Breadcrumbs'
+
+[2720] link 'CellularPrivacy'
+
+[2722] link 'Android-IMSI-Catcher-Detector'
+
+[2724] link 'Merge requests'
+
+[2343] main ''
+
+[2652] link 'Open 5'
+
+[2653] link 'Merged 291'
+
+[2654] link 'Closed 49'
+
+[2655] link 'All 345'
+
+[2570] link 'Subscribe to RSS feed'
+
+[2575] group ''
+
+[2659] button 'Export as CSV'
+
+[2742] button 'Recent searches'
+
+[2354] textbox 'Search or filter results...' required: False
+
+[2578] group ''
+
+[2773] button 'Created date' hasPopup: listbox
+
+[2663] link 'Sort direction'
+
+[2778] link 'Refactor Member Ignoring Method smell in Device class'
+
+[2780] StaticText '!968 '
+
+[2781] StaticText '· created '
+
+[2362] time 'Jan 11, 2020 12:18pm EST'
+
+[3644] StaticText '3 years ago'
+
+[2782] StaticText ' by '
+
+[2783] link 'Emanuele Iannone'
+
+[3647] link 'Pipeline: failed'
+
+[3648] link ' 0'
+
+[2787] StaticText 'updated '
+
+[2366] time 'Mar 19, 2023 2:59pm EDT'
+
+[3649] StaticText '5 months ago'
+
+[2790] link 'Privacy '
+
+[2792] StaticText '\xa0 6 of 6 checklist items completed'
+
+[2794] StaticText '!953 '
+
+[2795] StaticText '· created '
+
+[2372] time 'Mar 25, 2018 1:39am EDT'
+
+[3651] StaticText '5 years ago'
+
+[2796] StaticText ' by '
+
+[2797] link 'iamnew70284'
+
+[2798] generic 'Target branch'
+
+[3654] StaticText '\xa0 '
+
+[3655] link ' master'
+
+[3656] link 'Pipeline: failed'
+
+[3657] link ' 1'
+
+[2802] StaticText 'updated '
+
+[2376] time 'Mar 19, 2023 2:59pm EDT'
+
+[3658] StaticText '5 months ago'
+
+[2805] link 'Petites corrections aux fautes et incohérences.'
+
+[2807] StaticText '\xa0 0 of 3 checklist items completed'
+
+[2809] StaticText '!951 '
+
+[2810] StaticText '· created '
+
+[2382] time 'Feb 5, 2018 11:38pm EST'
+
+[3660] StaticText '5 years ago'
+
+[2811] StaticText ' by '
+
+[2812] link 'Administrator'
+
+[3663] link 'Pipeline: failed'
+
+[3664] link ' 0'
+
+[2816] StaticText 'updated '
+
+[2386] time 'Mar 19, 2023 2:59pm EDT'
+
+[3665] StaticText '5 months ago'
+
+[2819] link 'Versal case fixes and spelling'
+
+[2821] StaticText '!950 '
+
+[2822] StaticText '· created '
+
+[2392] time 'Jan 29, 2018 8:25pm EST'
+
+[3667] StaticText '5 years ago'
+
+[2823] StaticText ' by '
+
+[2824] link 'Allan Nordhøy'
+
+[3670] link 'Pipeline: failed'
+
+[3671] link ' 0'
+
+[2828] StaticText 'updated '
+
+[2396] time 'Mar 19, 2023 2:59pm EDT'
+
+[3672] StaticText '5 months ago'
+
+[2831] link 'Fix #849 by caching previous states'
+
+[2833] StaticText '\xa0 3 of 6 checklist items completed'
+
+[2835] StaticText '!880 '
+
+[2836] StaticText '· created '
+
+[2402] time 'Jun 3, 2016 6:24pm EDT'
+
+[3674] StaticText '7 years ago'
+
+[2837] StaticText ' by '
+
+[2838] link 'Kai'
+
+[3677] link 'Pipeline: failed'
+
+[3678] link ' 4'
+
+[2842] StaticText 'updated '
+
+[2406] time 'Mar 19, 2023 2:59pm EDT'
+
+[3679] StaticText '5 months ago'
+
+[3844] tooltip 'Merge requests'</pre><div>
+

@@ -1,0 +1,47 @@
+Tab 0 (current): Nike Victori One Mens Comfort Slide Cn9675-003 (Midnight Navy/Midnight Navy/White, Numeric_10)
+
+[5421] RootWebArea 'Nike Victori One Mens Comfort Slide Cn9675-003 (Midnight Navy/Midnight Navy/White, Numeric_10)' focused: True busy: 1
+	[6758] link 'My Account'
+	[6756] link 'My Wish List'
+	[6760] link 'Sign Out'
+	[6673] link 'Skip to Content'
+	[6682] link 'store logo'
+		[6766] img 'one_stop_market_logo'
+	[6767] link '\ue611 My Cart'
+	[7615] StaticText 'Search'
+	[5462] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+	[7618] link 'Advanced Search'
+	[6898] button 'Search' disabled: True
+	[6564] tablist '' multiselectable: False orientation: horizontal
+		[6566] tabpanel ''
+			[5508] menu '' orientation: vertical
+				[6259] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+				[6324] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+				[6334] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+				[6348] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+				[6385] menuitem '\ue622 Office Products' hasPopup: menu
+				[6393] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+				[6398] menuitem '\ue622 Health & Household' hasPopup: menu
+				[6404] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+				[6409] menuitem '\ue622 Electronics' hasPopup: menu
+				[6470] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+				[6485] menuitem '\ue622 Video Games' hasPopup: menu
+				[6498] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+	[5425] main ''
+		[6708] heading 'Nike Victori One Mens Comfort Slide Cn9675-003 (Midnight Navy/Midnight Navy/White, Numeric_10)'
+		[5431] generic 'Availability'
+			[5433] StaticText 'IN STOCK'
+		[6774] StaticText 'SKU'
+		[6868] StaticText 'B08QBDYN14'
+		[6715] LayoutTable ''
+			[6776] link 'Be the first to review this product'
+		[6778] StaticText '$36.86'
+		[5465] LayoutTable ''
+			[6873] StaticText 'Qty'
+			[5469] spinbutton 'Qty' required: False valuemin: 0 valuemax: 0 valuetext: 
+				[7619] StaticText '1'
+			[6874] button 'Add to Cart'
+		[6729] link 'Add to Wish List'
+		[6730] link 'Add to Compare'
+		[6736] link 'Skip to the end of the images gallery'
+		[6737] img 'main product photo'</pre><div>

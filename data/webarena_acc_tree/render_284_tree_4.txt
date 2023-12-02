@@ -1,0 +1,63 @@
+Tab 0 (current): Advanced Search Results
+
+[4707] RootWebArea 'Advanced Search Results' focused: True
+	[5969] link 'My Account'
+	[5967] link 'My Wish List'
+	[5971] link 'Sign Out'
+	[5974] StaticText 'Welcome to One Stop Market'
+	[5910] link 'Skip to Content'
+	[5919] link 'store logo'
+		[5977] img 'one_stop_market_logo'
+	[5978] link '\ue611 My Cart'
+	[6893] StaticText 'Search'
+	[4718] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+	[6896] link 'Advanced Search'
+	[6152] button 'Search' disabled: True
+	[5809] tablist '' multiselectable: False orientation: horizontal
+		[5811] tabpanel ''
+			[4753] menu '' orientation: vertical
+				[5504] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+				[5569] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+				[5579] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+				[5593] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+				[5630] menuitem '\ue622 Office Products' hasPopup: menu
+				[5638] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+				[5643] menuitem '\ue622 Health & Household' hasPopup: menu
+				[5649] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+				[5654] menuitem '\ue622 Electronics' hasPopup: menu
+				[5715] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+				[5730] menuitem '\ue622 Video Games' hasPopup: menu
+				[5743] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+	[5941] link 'Home '
+	[5943] link 'Catalog Advanced Search '
+	[5946] StaticText 'Results'
+	[4719] main ''
+		[5947] heading 'Catalog Advanced Search'
+		[5992] StaticText '87 items'
+		[5993] StaticText ' were found using the following search criteria'
+		[6095] StaticText 'Product Name:'
+		[6096] StaticText ' shoe storage'
+		[6099] link 'Modify your search.'
+		[6003] StaticText 'View as'
+		[6001] strong 'Grid'
+		[6002] link 'View as \ue60b List'
+		[6010] StaticText 'Items '
+		[6013] StaticText '-'
+		[6015] StaticText '12'
+		[6016] StaticText ' of '
+		[6018] StaticText '87'
+		[6102] StaticText 'Sort By'
+		[4743] combobox 'Sort By' hasPopup: menu expanded: False
+		[6020] link '\ue613 Set Descending Direction'
+		[6859] link 'Image'
+			[6899] img 'Image'
+		[6861] link 'Image'
+			[6912] img 'Image'
+		[6863] link 'Image'
+			[6928] img 'Image'
+		[6865] link 'Image'
+			[6941] img 'Image'
+		[6044] heading 'Compare Products'
+		[6046] StaticText 'You have no items to compare.'
+		[6064] heading 'My Wish List'
+		[6068] StaticText 'You have no items in your wish list.'</pre><div>

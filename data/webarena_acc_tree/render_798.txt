@@ -1,0 +1,1144 @@
+[1] RootWebArea 'One Stop Market' focused: True
+
+[1264] link 'My Account'
+
+[1262] link 'My Wish List'
+
+[1266] link 'Sign Out'
+
+[1269] StaticText 'Welcome to One Stop Market'
+
+[1181] link 'Skip to Content'
+
+[1190] link 'store logo'
+
+[1272] img 'one_stop_market_logo'
+
+[1273] link '\ue611 My Cart'
+
+[2427] StaticText 'Search'
+
+[12] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+
+[2430] link 'Advanced Search'
+
+[1588] button 'Search' disabled: True
+
+[1083] tablist '' multiselectable: False orientation: horizontal
+
+[1085] tabpanel ''
+
+[27] menu '' orientation: vertical
+
+[778] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+
+[843] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+
+[853] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+
+[867] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+
+[904] menuitem '\ue622 Office Products' hasPopup: menu
+
+[912] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+
+[917] menuitem '\ue622 Health & Household' hasPopup: menu
+
+[923] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+
+[928] menuitem '\ue622 Electronics' hasPopup: menu
+
+[989] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+
+[1004] menuitem '\ue622 Video Games' hasPopup: menu
+
+[1017] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+
+[1118] main ''
+
+[1212] heading 'One Stop Market'
+
+[1223] StaticText 'Product Showcases'
+
+[1290] link 'Image'
+
+[1485] img 'Image'
+
+[1486] link 'Pre-baked Gingerbread House Kit Value Pack, 17 oz., Pack of 2, Total 34 oz.'
+
+[1278] link 'Image'
+
+[1282] img 'Image'
+
+[1491] link 'V8 +Energy, Healthy Energy Drink, Steady Energy from Black and Green Tea, Pomegranate Blueberry, 8 Ounce Can ,Pack of 24'
+
+[1285] link 'Image'
+
+[1289] img 'Image'
+
+[1496] link 'Elmwood Inn Fine Teas, Orange Vanilla Caffeine-free Fruit Infusion, 16-Ounce Pouch'
+
+[1306] link 'Image'
+
+[1310] img 'Image'
+
+[1501] link 'Belle Of The Ball Princess Sprinkle Mix| Wedding Colorful Sprinkles| Cake Cupcake Cookie Sprinkles| Ice cream Candy Sprinkles| Yellow Gold Red Royal Red Rose Icing Flowers Decorating Sprinkles, 8OZ'
+
+[1325] link 'Image'
+
+[1329] img 'Image'
+
+[1510] link 'So Delicious Dairy Free CocoWhip Light, Vegan, Non-GMO Project Verified, 9 oz. Tub'</pre><div>
+
+[1264] to proceed. In summary, the next action I will perform is `click [1264]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the homepage of One Stop Market. The objective is to change the delivery address for the most recent order. To do that, I need to log in to the account. I can click on the "My Account" link with ID [1264] to proceed. In summary, the next action I will perform is `click [1264]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'One Stop Market' focused: True
+
+[1264] link 'My Account'
+
+[1262] link 'My Wish List'
+
+[1266] link 'Sign Out'
+
+[1269] StaticText 'Welcome to One Stop Market'
+
+[1181] link 'Skip to Content'
+
+[1190] link 'store logo'
+
+[1272] img 'one_stop_market_logo'
+
+[1273] link '\ue611 My Cart'
+
+[2427] StaticText 'Search'
+
+[12] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+
+[2430] link 'Advanced Search'
+
+[1588] button 'Search' disabled: True
+
+[1083] tablist '' multiselectable: False orientation: horizontal
+
+[1085] tabpanel ''
+
+[27] menu '' orientation: vertical
+
+[778] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+
+[843] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+
+[853] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+
+[867] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+
+[904] menuitem '\ue622 Office Products' hasPopup: menu
+
+[912] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+
+[917] menuitem '\ue622 Health & Household' hasPopup: menu
+
+[923] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+
+[928] menuitem '\ue622 Electronics' hasPopup: menu
+
+[989] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+
+[1004] menuitem '\ue622 Video Games' hasPopup: menu
+
+[1017] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+
+[1118] main ''
+
+[1212] heading 'One Stop Market'
+
+[1223] StaticText 'Product Showcases'
+
+[1290] link 'Image'
+
+[1485] img 'Image'
+
+[1486] link 'Pre-baked Gingerbread House Kit Value Pack, 17 oz., Pack of 2, Total 34 oz.'
+
+[1278] link 'Image'
+
+[1282] img 'Image'
+
+[1491] link 'V8 +Energy, Healthy Energy Drink, Steady Energy from Black and Green Tea, Pomegranate Blueberry, 8 Ounce Can ,Pack of 24'
+
+[1285] link 'Image'
+
+[1289] img 'Image'
+
+[1496] link 'Elmwood Inn Fine Teas, Orange Vanilla Caffeine-free Fruit Infusion, 16-Ounce Pouch'
+
+[1306] link 'Image'
+
+[1310] img 'Image'
+
+[1501] link 'Belle Of The Ball Princess Sprinkle Mix| Wedding Colorful Sprinkles| Cake Cupcake Cookie Sprinkles| Ice cream Candy Sprinkles| Yellow Gold Red Royal Red Rose Icing Flowers Decorating Sprinkles, 8OZ'
+
+[1325] link 'Image'
+
+[1329] img 'Image'
+
+[1510] link 'So Delicious Dairy Free CocoWhip Light, Vegan, Non-GMO Project Verified, 9 oz. Tub'</pre><div>
+
+[1264] to proceed. In summary, the next action I will perform is `click [1264]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[1264] to proceed. In summary, the next action I will perform is ```click [1264]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '1264', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the homepage of One Stop Market. The objective is to change the delivery address for the most recent order. To do that, I need to log in to the account. I can click on the "My Account" link with ID [1264] to proceed. In summary, the next action I will perform is ```click [1264]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [1264] where [1264] is [1264] link 'My Account'</pre></div></div>
+
+[2634] RootWebArea 'My Account' focused: True
+
+[3999] link 'My Account'
+
+[3997] link 'My Wish List'
+
+[4001] link 'Sign Out'
+
+[4004] StaticText 'Welcome to One Stop Market'
+
+[3822] link 'Skip to Content'
+
+[3831] link 'store logo'
+
+[4007] img 'one_stop_market_logo'
+
+[4008] link '\ue611 My Cart'
+
+[4915] StaticText 'Search'
+
+[2645] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+
+[4918] link 'Advanced Search'
+
+[4197] button 'Search' disabled: True
+
+[3727] tablist '' multiselectable: False orientation: horizontal
+
+[3729] tabpanel ''
+
+[2671] menu '' orientation: vertical
+
+[3422] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+
+[3487] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+
+[3497] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+
+[3511] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+
+[3548] menuitem '\ue622 Office Products' hasPopup: menu
+
+[3556] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+
+[3561] menuitem '\ue622 Health & Household' hasPopup: menu
+
+[3567] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+
+[3572] menuitem '\ue622 Electronics' hasPopup: menu
+
+[3633] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+
+[3648] menuitem '\ue622 Video Games' hasPopup: menu
+
+[3661] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+
+[2646] main ''
+
+[3863] heading 'My Account'
+
+[3869] StaticText 'Account Information'
+
+[3876] StaticText 'Contact Information'
+
+[3878] StaticText 'Emma231 Willow Way, Suite 100, Chicago, IL, 606012EmmaEmmaEmmaEmma231231 Willow Way, Suite 100, Chicago, IL, 60601231 Willow Way, Suite 100, Chicago, IL, 60601Emma231 Willow Way, Suite 100, Chicago, IL, 6060131 Willow Way, Suite 100, Chicago, IL, 60601 LopezLopezLopez'
+
+[3879] LineBreak '\n'
+
+[3880] StaticText 'emma.lopez@gmail.com'
+
+[3881] LineBreak '\n'
+
+[3882] link 'Edit'
+
+[3883] link 'Change Password'
+
+[3888] StaticText 'Newsletters'
+
+[3891] link 'Edit'
+
+[3895] StaticText 'Address Book'
+
+[3897] link 'Manage Addresses'
+
+[3904] StaticText 'Default Billing Address'
+
+[3905] group ''
+
+[3906] StaticText 'EmmaEmma Lopez654 Aspen Road'
+
+[3907] LineBreak '\n'
+
+[3909] LineBreak '\n'
+
+[3911] LineBreak '\n'
+
+[3913] LineBreak '\n'
+
+[3921] StaticText 'Default Shipping Address'
+
+[3922] group ''
+
+[3923] StaticText 'EmmaEmma Lopez654 Aspen Road'
+
+[3924] LineBreak '\n'
+
+[3926] LineBreak '\n'
+
+[3928] LineBreak '\n'
+
+[3930] LineBreak '\n'
+
+[3949] StaticText 'My Account'
+
+[4172] link 'My Orders'
+
+[4173] link 'My Downloadable Products'
+
+[4174] link 'My Wish List'
+
+[4176] link 'Address Book'
+
+[4177] link 'Account Information'
+
+[4178] link 'Stored Payment Methods'
+
+[4180] link 'My Product Reviews'
+
+[4181] link 'Newsletter Subscriptions'
+
+[3955] heading 'Compare Products'</pre><div>
+
+[1264] where [1264] is link 'My Account'</div>
+
+[3897]``` to go to the address book page.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3897', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We need to change the delivery address for the most recent order. The delivery address can be found under "Address Book" section. We can click on the "Manage Addresses" link to access the address book. Once we are on the address book page, we can edit the address and change it to "77 Massachusetts Ave, Cambridge, MA". In summary, the next action I will perform is ```click [3897]``` to go to the address book page.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3897] where [3897] is [3897] link 'Manage Addresses'</pre></div></div>
+
+[4920] RootWebArea 'Address Book' focused: True
+
+[6260] link 'My Account'
+
+[6258] link 'My Wish List'
+
+[6262] link 'Sign Out'
+
+[6265] StaticText 'Welcome to One Stop Market'
+
+[6108] link 'Skip to Content'
+
+[6117] link 'store logo'
+
+[6268] img 'one_stop_market_logo'
+
+[6269] link '\ue611 My Cart'
+
+[7059] StaticText 'Search'
+
+[4931] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+
+[7062] link 'Advanced Search'
+
+[6341] button 'Search' disabled: True
+
+[6013] tablist '' multiselectable: False orientation: horizontal
+
+[6015] tabpanel ''
+
+[4957] menu '' orientation: vertical
+
+[5708] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+
+[5773] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+
+[5783] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+
+[5797] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+
+[5834] menuitem '\ue622 Office Products' hasPopup: menu
+
+[5842] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+
+[5847] menuitem '\ue622 Health & Household' hasPopup: menu
+
+[5853] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+
+[5858] menuitem '\ue622 Electronics' hasPopup: menu
+
+[5919] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+
+[5934] menuitem '\ue622 Video Games' hasPopup: menu
+
+[5947] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+
+[4932] main ''
+
+[6149] heading 'Address Book'
+
+[6155] StaticText 'Default Addresses'
+
+[6162] StaticText 'Default Billing Address'
+
+[6163] group ''
+
+[6164] StaticText 'EmmaEmma Lopez654 Aspen Road'
+
+[6165] LineBreak '\n'
+
+[6166] StaticText '101 S San Mateo Dr654 Aspen Road, House #3, Bost3 Oxford St, Cambridge, MA3 Oxford St, Cambridge, MA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA111 Magnolia Path, Atlanta, GA, 30303987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110on, MA, 02110'
+
+[6167] LineBreak '\n'
+
+[6168] StaticText 'San Mateo, California, 94010'
+
+[6169] LineBreak '\n'
+
+[6170] StaticText 'United States'
+
+[6171] LineBreak '\n'
+
+[6172] StaticText 'T: '
+
+[6173] link '6505551212'
+
+[6179] StaticText 'Default Shipping Address'
+
+[6180] group ''
+
+[6181] StaticText 'EmmaEmma Lopez654 Aspen Road'
+
+[6182] LineBreak '\n'
+
+[6183] StaticText '101 S San Mateo Dr654 Aspen Road, House #3, Bost3 Oxford St, Cambridge, MA3 Oxford St, Cambridge, MA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA111 Magnolia Path, Atlanta, GA, 30303987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110on, MA, 02110'
+
+[6184] LineBreak '\n'
+
+[6185] StaticText 'San Mateo, California, 94010'
+
+[6186] LineBreak '\n'
+
+[6187] StaticText 'United States'
+
+[6188] LineBreak '\n'
+
+[6189] StaticText 'T: '
+
+[6190] link '6505551212'
+
+[6210] StaticText 'My Account'
+
+[6315] link 'My Account'
+
+[6316] link 'My Orders'
+
+[6317] link 'My Downloadable Products'
+
+[6318] link 'My Wish List'
+
+[7050] StaticText 'Address Book'
+
+[6321] link 'Account Information'
+
+[6322] link 'Stored Payment Methods'
+
+[6324] link 'My Product Reviews'
+
+[6325] link 'Newsletter Subscriptions'
+
+[6216] heading 'Compare Products'</pre><div>
+
+[3897] where [3897] is link 'Manage Addresses'</div>
+
+[3897]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3897', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the address book page. The objective is to change the delivery address for the most recent order. To do that, we need to click on the "Manage Addresses" link. In summary, the next action I will perform is ```click [3897]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3897] where [3897] is No match found</pre></div></div>
+
+[4920] RootWebArea 'Address Book' focused: True
+
+[6260] link 'My Account'
+
+[6258] link 'My Wish List'
+
+[6262] link 'Sign Out'
+
+[6265] StaticText 'Welcome to One Stop Market'
+
+[6108] link 'Skip to Content'
+
+[6117] link 'store logo'
+
+[6268] img 'one_stop_market_logo'
+
+[6269] link '\ue611 My Cart'
+
+[7059] StaticText 'Search'
+
+[4931] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+
+[7062] link 'Advanced Search'
+
+[6341] button 'Search' disabled: True
+
+[6013] tablist '' multiselectable: False orientation: horizontal
+
+[6015] tabpanel ''
+
+[4957] menu '' orientation: vertical
+
+[5708] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+
+[5773] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+
+[5783] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+
+[5797] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+
+[5834] menuitem '\ue622 Office Products' hasPopup: menu
+
+[5842] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+
+[5847] menuitem '\ue622 Health & Household' hasPopup: menu
+
+[5853] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+
+[5858] menuitem '\ue622 Electronics' hasPopup: menu
+
+[5919] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+
+[5934] menuitem '\ue622 Video Games' hasPopup: menu
+
+[5947] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+
+[4932] main ''
+
+[6149] heading 'Address Book'
+
+[6155] StaticText 'Default Addresses'
+
+[6162] StaticText 'Default Billing Address'
+
+[6163] group ''
+
+[6164] StaticText 'EmmaEmma Lopez654 Aspen Road'
+
+[6165] LineBreak '\n'
+
+[6166] StaticText '101 S San Mateo Dr654 Aspen Road, House #3, Bost3 Oxford St, Cambridge, MA3 Oxford St, Cambridge, MA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA111 Magnolia Path, Atlanta, GA, 30303987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110on, MA, 02110'
+
+[6167] LineBreak '\n'
+
+[6168] StaticText 'San Mateo, California, 94010'
+
+[6169] LineBreak '\n'
+
+[6170] StaticText 'United States'
+
+[6171] LineBreak '\n'
+
+[6172] StaticText 'T: '
+
+[6173] link '6505551212'
+
+[6179] StaticText 'Default Shipping Address'
+
+[6180] group ''
+
+[6181] StaticText 'EmmaEmma Lopez654 Aspen Road'
+
+[6182] LineBreak '\n'
+
+[6183] StaticText '101 S San Mateo Dr654 Aspen Road, House #3, Bost3 Oxford St, Cambridge, MA3 Oxford St, Cambridge, MA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA111 Magnolia Path, Atlanta, GA, 30303987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110on, MA, 02110'
+
+[6184] LineBreak '\n'
+
+[6185] StaticText 'San Mateo, California, 94010'
+
+[6186] LineBreak '\n'
+
+[6187] StaticText 'United States'
+
+[6188] LineBreak '\n'
+
+[6189] StaticText 'T: '
+
+[6190] link '6505551212'
+
+[6210] StaticText 'My Account'
+
+[6315] link 'My Account'
+
+[6316] link 'My Orders'
+
+[6317] link 'My Downloadable Products'
+
+[6318] link 'My Wish List'
+
+[7050] StaticText 'Address Book'
+
+[6321] link 'Account Information'
+
+[6322] link 'Stored Payment Methods'
+
+[6324] link 'My Product Reviews'
+
+[6325] link 'Newsletter Subscriptions'
+
+[6216] heading 'Compare Products'</pre><div>
+
+[3897]" but no matching element found. Please check the observation more carefully.</div>
+
+[6190] to edit the address. Then, I can update the address to "77 Massachusetts Ave, Cambridge, MA". In summary, the next action I will perform is `click [6190]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to change the delivery address for the most recent order. Based on the observation, I can see that the page has a section called "Default Shipping Address" that lists the current shipping address. I can click on the link with id [6190] to edit the address. Then, I can update the address to "77 Massachusetts Ave, Cambridge, MA". In summary, the next action I will perform is `click [6190]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[4920] RootWebArea 'Address Book' focused: True
+
+[6260] link 'My Account'
+
+[6258] link 'My Wish List'
+
+[6262] link 'Sign Out'
+
+[6265] StaticText 'Welcome to One Stop Market'
+
+[6108] link 'Skip to Content'
+
+[6117] link 'store logo'
+
+[6268] img 'one_stop_market_logo'
+
+[6269] link '\ue611 My Cart'
+
+[7059] StaticText 'Search'
+
+[4931] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+
+[7062] link 'Advanced Search'
+
+[6341] button 'Search' disabled: True
+
+[6013] tablist '' multiselectable: False orientation: horizontal
+
+[6015] tabpanel ''
+
+[4957] menu '' orientation: vertical
+
+[5708] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+
+[5773] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+
+[5783] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+
+[5797] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+
+[5834] menuitem '\ue622 Office Products' hasPopup: menu
+
+[5842] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+
+[5847] menuitem '\ue622 Health & Household' hasPopup: menu
+
+[5853] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+
+[5858] menuitem '\ue622 Electronics' hasPopup: menu
+
+[5919] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+
+[5934] menuitem '\ue622 Video Games' hasPopup: menu
+
+[5947] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+
+[4932] main ''
+
+[6149] heading 'Address Book'
+
+[6155] StaticText 'Default Addresses'
+
+[6162] StaticText 'Default Billing Address'
+
+[6163] group ''
+
+[6164] StaticText 'EmmaEmma Lopez654 Aspen Road'
+
+[6165] LineBreak '\n'
+
+[6166] StaticText '101 S San Mateo Dr654 Aspen Road, House #3, Bost3 Oxford St, Cambridge, MA3 Oxford St, Cambridge, MA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA111 Magnolia Path, Atlanta, GA, 30303987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110on, MA, 02110'
+
+[6167] LineBreak '\n'
+
+[6168] StaticText 'San Mateo, California, 94010'
+
+[6169] LineBreak '\n'
+
+[6170] StaticText 'United States'
+
+[6171] LineBreak '\n'
+
+[6172] StaticText 'T: '
+
+[6173] link '6505551212'
+
+[6179] StaticText 'Default Shipping Address'
+
+[6180] group ''
+
+[6181] StaticText 'EmmaEmma Lopez654 Aspen Road'
+
+[6182] LineBreak '\n'
+
+[6183] StaticText '101 S San Mateo Dr654 Aspen Road, House #3, Bost3 Oxford St, Cambridge, MA3 Oxford St, Cambridge, MA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA111 Magnolia Path, Atlanta, GA, 30303987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110on, MA, 02110'
+
+[6184] LineBreak '\n'
+
+[6185] StaticText 'San Mateo, California, 94010'
+
+[6186] LineBreak '\n'
+
+[6187] StaticText 'United States'
+
+[6188] LineBreak '\n'
+
+[6189] StaticText 'T: '
+
+[6190] link '6505551212'
+
+[6210] StaticText 'My Account'
+
+[6315] link 'My Account'
+
+[6316] link 'My Orders'
+
+[6317] link 'My Downloadable Products'
+
+[6318] link 'My Wish List'
+
+[7050] StaticText 'Address Book'
+
+[6321] link 'Account Information'
+
+[6322] link 'Stored Payment Methods'
+
+[6324] link 'My Product Reviews'
+
+[6325] link 'Newsletter Subscriptions'
+
+[6216] heading 'Compare Products'</pre><div>
+
+[6190] to edit the address. Then, I can update the address to "77 Massachusetts Ave, Cambridge, MA". In summary, the next action I will perform is `click [6190]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[6190] to edit the address. Then, I can update the address to "77 Massachusetts Ave, Cambridge, MA". In summary, the next action I will perform is ```click [6190]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '6190', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to change the delivery address for the most recent order. Based on the observation, I can see that the page has a section called "Default Shipping Address" that lists the current shipping address. I can click on the link with id [6190] to edit the address. Then, I can update the address to "77 Massachusetts Ave, Cambridge, MA". In summary, the next action I will perform is ```click [6190]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [6190] where [6190] is [6190] link '6505551212'</pre></div></div>
+
+[4920] RootWebArea 'Address Book' focused: True
+
+[6260] link 'My Account'
+
+[6258] link 'My Wish List'
+
+[6262] link 'Sign Out'
+
+[6265] StaticText 'Welcome to One Stop Market'
+
+[6108] link 'Skip to Content'
+
+[6117] link 'store logo'
+
+[6268] img 'one_stop_market_logo'
+
+[6269] link '\ue611 My Cart'
+
+[7059] StaticText 'Search'
+
+[4931] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+
+[7062] link 'Advanced Search'
+
+[6341] button 'Search' disabled: True
+
+[6013] tablist '' multiselectable: False orientation: horizontal
+
+[6015] tabpanel ''
+
+[4957] menu '' orientation: vertical
+
+[5708] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+
+[5773] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+
+[5783] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+
+[5797] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+
+[5834] menuitem '\ue622 Office Products' hasPopup: menu
+
+[5842] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+
+[5847] menuitem '\ue622 Health & Household' hasPopup: menu
+
+[5853] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+
+[5858] menuitem '\ue622 Electronics' hasPopup: menu
+
+[5919] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+
+[5934] menuitem '\ue622 Video Games' hasPopup: menu
+
+[5947] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+
+[4932] main ''
+
+[6149] heading 'Address Book'
+
+[6155] StaticText 'Default Addresses'
+
+[6162] StaticText 'Default Billing Address'
+
+[6163] group ''
+
+[6164] StaticText 'EmmaEmma Lopez654 Aspen Road'
+
+[6165] LineBreak '\n'
+
+[6166] StaticText '101 S San Mateo Dr654 Aspen Road, House #3, Bost3 Oxford St, Cambridge, MA3 Oxford St, Cambridge, MA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA111 Magnolia Path, Atlanta, GA, 30303987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110on, MA, 02110'
+
+[6167] LineBreak '\n'
+
+[6168] StaticText 'San Mateo, California, 94010'
+
+[6169] LineBreak '\n'
+
+[6170] StaticText 'United States'
+
+[6171] LineBreak '\n'
+
+[6172] StaticText 'T: '
+
+[6173] link '6505551212'
+
+[6179] StaticText 'Default Shipping Address'
+
+[6180] group ''
+
+[6181] StaticText 'EmmaEmma Lopez654 Aspen Road'
+
+[6182] LineBreak '\n'
+
+[6183] StaticText '101 S San Mateo Dr654 Aspen Road, House #3, Bost3 Oxford St, Cambridge, MA3 Oxford St, Cambridge, MA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA111 Magnolia Path, Atlanta, GA, 30303987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110on, MA, 02110'
+
+[6184] LineBreak '\n'
+
+[6185] StaticText 'San Mateo, California, 94010'
+
+[6186] LineBreak '\n'
+
+[6187] StaticText 'United States'
+
+[6188] LineBreak '\n'
+
+[6189] StaticText 'T: '
+
+[6190] link '6505551212' focused: True
+
+[6210] StaticText 'My Account'
+
+[6315] link 'My Account'
+
+[6316] link 'My Orders'
+
+[6317] link 'My Downloadable Products'
+
+[6318] link 'My Wish List'
+
+[7050] StaticText 'Address Book'
+
+[6321] link 'Account Information'
+
+[6322] link 'Stored Payment Methods'
+
+[6324] link 'My Product Reviews'
+
+[6325] link 'Newsletter Subscriptions'
+
+[6216] heading 'Compare Products'</pre><div>
+
+[6190] where [6190] is link '6505551212'</div>
+
+[6190]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '6190', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. We need to change the delivery address for the most recent order to 77 Massachusetts Ave, Cambridge, MA. The current page displays the address book with the default addresses for billing and shipping. We need to edit the shipping address. The shipping address is currently set to 'EmmaEmma Lopez, 654 Aspen Road, San Mateo, California, 94010, United States'. \n\nTo change the shipping address, we can click on the link '6505551212' next to the shipping address. This link represents the phone number associated with the address. Clicking on it will allow us to edit the address details.\n\nIn summary, the next action I will perform is ```click [6190]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [6190] where [6190] is [6190] link '6505551212' focused: True</pre></div></div>
+
+[4920] RootWebArea 'Address Book' focused: True
+
+[6260] link 'My Account'
+
+[6258] link 'My Wish List'
+
+[6262] link 'Sign Out'
+
+[6265] StaticText 'Welcome to One Stop Market'
+
+[6108] link 'Skip to Content'
+
+[6117] link 'store logo'
+
+[6268] img 'one_stop_market_logo'
+
+[6269] link '\ue611 My Cart'
+
+[7059] StaticText 'Search'
+
+[4931] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+
+[7062] link 'Advanced Search'
+
+[6341] button 'Search' disabled: True
+
+[6013] tablist '' multiselectable: False orientation: horizontal
+
+[6015] tabpanel ''
+
+[4957] menu '' orientation: vertical
+
+[5708] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+
+[5773] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+
+[5783] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+
+[5797] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+
+[5834] menuitem '\ue622 Office Products' hasPopup: menu
+
+[5842] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+
+[5847] menuitem '\ue622 Health & Household' hasPopup: menu
+
+[5853] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+
+[5858] menuitem '\ue622 Electronics' hasPopup: menu
+
+[5919] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+
+[5934] menuitem '\ue622 Video Games' hasPopup: menu
+
+[5947] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+
+[4932] main ''
+
+[6149] heading 'Address Book'
+
+[6155] StaticText 'Default Addresses'
+
+[6162] StaticText 'Default Billing Address'
+
+[6163] group ''
+
+[6164] StaticText 'EmmaEmma Lopez654 Aspen Road'
+
+[6165] LineBreak '\n'
+
+[6166] StaticText '101 S San Mateo Dr654 Aspen Road, House #3, Bost3 Oxford St, Cambridge, MA3 Oxford St, Cambridge, MA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA111 Magnolia Path, Atlanta, GA, 30303987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110on, MA, 02110'
+
+[6167] LineBreak '\n'
+
+[6168] StaticText 'San Mateo, California, 94010'
+
+[6169] LineBreak '\n'
+
+[6170] StaticText 'United States'
+
+[6171] LineBreak '\n'
+
+[6172] StaticText 'T: '
+
+[6173] link '6505551212'
+
+[6179] StaticText 'Default Shipping Address'
+
+[6180] group ''
+
+[6181] StaticText 'EmmaEmma Lopez654 Aspen Road'
+
+[6182] LineBreak '\n'
+
+[6183] StaticText '101 S San Mateo Dr654 Aspen Road, House #3, Bost3 Oxford St, Cambridge, MA3 Oxford St, Cambridge, MA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA111 Magnolia Path, Atlanta, GA, 30303987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110on, MA, 02110'
+
+[6184] LineBreak '\n'
+
+[6185] StaticText 'San Mateo, California, 94010'
+
+[6186] LineBreak '\n'
+
+[6187] StaticText 'United States'
+
+[6188] LineBreak '\n'
+
+[6189] StaticText 'T: '
+
+[6190] link '6505551212' focused: True
+
+[6210] StaticText 'My Account'
+
+[6315] link 'My Account'
+
+[6316] link 'My Orders'
+
+[6317] link 'My Downloadable Products'
+
+[6318] link 'My Wish List'
+
+[7050] StaticText 'Address Book'
+
+[6321] link 'Account Information'
+
+[6322] link 'Stored Payment Methods'
+
+[6324] link 'My Product Reviews'
+
+[6325] link 'Newsletter Subscriptions'
+
+[6216] heading 'Compare Products'</pre><div>
+
+[6190] where [6190] is link '6505551212' focused: True</div>
+
+[6190]. I have already performed the click action on it. Now, I need to update the address to "77 Massachusetts Ave, Cambridge, MA". I will update the address by typing it into the corresponding field and press Enter to save the changes. In summary, the next action I will perform is ```type [6190] [77 Massachusetts Ave, Cambridge, MA] [1]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [38, 38, 15, 60, 80, 98, 98, 80, 82, 87, 100, 98, 84, 99, 99, 98, 15, 48, 101, 84, 27, 15, 50, 80, 92, 81, 97, 88, 83, 86, 84, 27, 15, 60, 48, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '6190', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page shows the address book, where we can manage the addresses. The most recent order\'s delivery address can be changed by clicking on the corresponding link. The link for the most recent order\'s delivery address is [6190]. I have already performed the click action on it. Now, I need to update the address to "77 Massachusetts Ave, Cambridge, MA". I will update the address by typing it into the corresponding field and press Enter to save the changes. In summary, the next action I will perform is ```type [6190] [77 Massachusetts Ave, Cambridge, MA] [1]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [6190] [77 Massachusetts Ave, Cambridge, MA
+
+[6190] is [6190] link '6505551212' focused: True</pre></div></div>
+
+[4920] RootWebArea 'Address Book' focused: True
+
+[6260] link 'My Account'
+
+[6258] link 'My Wish List'
+
+[6262] link 'Sign Out'
+
+[6265] StaticText 'Welcome to One Stop Market'
+
+[6108] link 'Skip to Content'
+
+[6117] link 'store logo'
+
+[6268] img 'one_stop_market_logo'
+
+[6269] link '\ue611 My Cart'
+
+[7059] StaticText 'Search'
+
+[4931] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+
+[7062] link 'Advanced Search'
+
+[6341] button 'Search' disabled: True
+
+[6013] tablist '' multiselectable: False orientation: horizontal
+
+[6015] tabpanel ''
+
+[4957] menu '' orientation: vertical
+
+[5708] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+
+[5773] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+
+[5783] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+
+[5797] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+
+[5834] menuitem '\ue622 Office Products' hasPopup: menu
+
+[5842] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+
+[5847] menuitem '\ue622 Health & Household' hasPopup: menu
+
+[5853] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+
+[5858] menuitem '\ue622 Electronics' hasPopup: menu
+
+[5919] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+
+[5934] menuitem '\ue622 Video Games' hasPopup: menu
+
+[5947] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+
+[4932] main ''
+
+[6149] heading 'Address Book'
+
+[6155] StaticText 'Default Addresses'
+
+[6162] StaticText 'Default Billing Address'
+
+[6163] group ''
+
+[6164] StaticText 'EmmaEmma Lopez654 Aspen Road'
+
+[6165] LineBreak '\n'
+
+[6166] StaticText '101 S San Mateo Dr654 Aspen Road, House #3, Bost3 Oxford St, Cambridge, MA3 Oxford St, Cambridge, MA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA111 Magnolia Path, Atlanta, GA, 30303987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110on, MA, 02110'
+
+[6167] LineBreak '\n'
+
+[6168] StaticText 'San Mateo, California, 94010'
+
+[6169] LineBreak '\n'
+
+[6170] StaticText 'United States'
+
+[6171] LineBreak '\n'
+
+[6172] StaticText 'T: '
+
+[6173] link '6505551212'
+
+[6179] StaticText 'Default Shipping Address'
+
+[6180] group ''
+
+[6181] StaticText 'EmmaEmma Lopez654 Aspen Road'
+
+[6182] LineBreak '\n'
+
+[6183] StaticText '101 S San Mateo Dr654 Aspen Road, House #3, Bost3 Oxford St, Cambridge, MA3 Oxford St, Cambridge, MA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA4000 Forbes Ave, Pittsburgh, PA111 Magnolia Path, Atlanta, GA, 30303987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102987 Sycamore Circle, Philadelphia, PA, 19102654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110654 Aspen Road, House #3, Boston, MA, 02110on, MA, 02110'
+
+[6184] LineBreak '\n'
+
+[6185] StaticText 'San Mateo, California, 94010'
+
+[6186] LineBreak '\n'
+
+[6187] StaticText 'United States'
+
+[6188] LineBreak '\n'
+
+[6189] StaticText 'T: '
+
+[6190] link '6505551212' focused: True
+
+[6210] StaticText 'My Account'
+
+[6315] link 'My Account'
+
+[6316] link 'My Orders'
+
+[6317] link 'My Downloadable Products'
+
+[6318] link 'My Wish List'
+
+[7050] StaticText 'Address Book'
+
+[6321] link 'Account Information'
+
+[6322] link 'Stored Payment Methods'
+
+[6324] link 'My Product Reviews'
+
+[6325] link 'Newsletter Subscriptions'
+
+[6216] heading 'Compare Products'</pre><div>
+
+[6190] [77 Massachusetts Ave, Cambridge, MA
+
+[6190] is link '6505551212' focused: True</div>
+

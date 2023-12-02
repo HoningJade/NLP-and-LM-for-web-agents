@@ -1,0 +1,2750 @@
+[1] RootWebArea 'OpenStreetMap' focused: True
+
+[104] heading 'OpenStreetMap logo OpenStreetMap'
+
+[109] link 'OpenStreetMap logo OpenStreetMap'
+
+[112] img 'OpenStreetMap logo'
+
+[390] link 'Edit'
+
+[391] button ''
+
+[362] link 'History'
+
+[363] link 'Export'
+
+[395] link 'GPS Traces'
+
+[396] link 'User Diaries'
+
+[397] link 'Communities'
+
+[398] link 'Copyright'
+
+[399] link 'Help'
+
+[400] link 'About'
+
+[371] link 'Log In'
+
+[372] link 'Sign Up'
+
+[494] link 'Where is this?'
+
+[12] textbox 'Search' focused: True required: False
+
+[495] button 'Go'
+
+[482] link 'Find directions between two points'
+
+[445] heading 'Welcome to OpenStreetMap!'
+
+[448] button 'Close'
+
+[452] StaticText 'OpenStreetMap is a map of the world, created by people like you and free to use under an open license.'
+
+[453] StaticText 'Hosting is supported by '
+
+[454] link 'UCL'
+
+[456] link 'Fastly'
+
+[457] StaticText ', '
+
+[458] link 'Bytemark Hosting'
+
+[459] StaticText ', and other '
+
+[460] link 'partners'
+
+[461] StaticText '.'
+
+[464] link 'Learn More'
+
+[465] link 'Start Mapping'
+
+[50] generic 'Zoom In Zoom Out Show My Location Layers Share 50 km 50 mi © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[54] link 'Zoom In'
+
+[55] link 'Zoom Out'
+
+[57] button 'Show My Location'
+
+[59] link 'Layers'
+
+[301] link ''
+
+[61] link 'Share'
+
+[303] link ''
+
+[305] link ''
+
+[310] StaticText '50 km'
+
+[311] StaticText '50 mi'
+
+[313] StaticText '© '
+
+[314] link 'OpenStreetMap contributors'
+
+[315] StaticText ' ♥ '
+
+[316] link 'Make a Donation'
+
+[317] StaticText '. '
+
+[318] link 'Website and API terms'</pre><div>
+
+[12]. I can type the name of the university that I'm looking for and press Enter to search for it. Then I can see the search results on the map. In summary, the next action I will perform is `type [12] [Carnegie Mellon University] [1]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page has a search box whose ID is [12]. I can type the name of the university that I'm looking for and press Enter to search for it. Then I can see the search results on the map. In summary, the next action I will perform is `type [12] [Carnegie Mellon University] [1]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'OpenStreetMap' focused: True
+
+[104] heading 'OpenStreetMap logo OpenStreetMap'
+
+[109] link 'OpenStreetMap logo OpenStreetMap'
+
+[112] img 'OpenStreetMap logo'
+
+[390] link 'Edit'
+
+[391] button ''
+
+[362] link 'History'
+
+[363] link 'Export'
+
+[395] link 'GPS Traces'
+
+[396] link 'User Diaries'
+
+[397] link 'Communities'
+
+[398] link 'Copyright'
+
+[399] link 'Help'
+
+[400] link 'About'
+
+[371] link 'Log In'
+
+[372] link 'Sign Up'
+
+[494] link 'Where is this?'
+
+[12] textbox 'Search' focused: True required: False
+
+[495] button 'Go'
+
+[482] link 'Find directions between two points'
+
+[445] heading 'Welcome to OpenStreetMap!'
+
+[448] button 'Close'
+
+[452] StaticText 'OpenStreetMap is a map of the world, created by people like you and free to use under an open license.'
+
+[453] StaticText 'Hosting is supported by '
+
+[454] link 'UCL'
+
+[456] link 'Fastly'
+
+[457] StaticText ', '
+
+[458] link 'Bytemark Hosting'
+
+[459] StaticText ', and other '
+
+[460] link 'partners'
+
+[461] StaticText '.'
+
+[464] link 'Learn More'
+
+[465] link 'Start Mapping'
+
+[50] generic 'Zoom In Zoom Out Show My Location Layers Share 50 km 50 mi © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[54] link 'Zoom In'
+
+[55] link 'Zoom Out'
+
+[57] button 'Show My Location'
+
+[59] link 'Layers'
+
+[301] link ''
+
+[61] link 'Share'
+
+[303] link ''
+
+[305] link ''
+
+[310] StaticText '50 km'
+
+[311] StaticText '50 mi'
+
+[313] StaticText '© '
+
+[314] link 'OpenStreetMap contributors'
+
+[315] StaticText ' ♥ '
+
+[316] link 'Make a Donation'
+
+[317] StaticText '. '
+
+[318] link 'Website and API terms'</pre><div>
+
+[12]. I can type the name of the university that I'm looking for and press Enter to search for it. Then I can see the search results on the map. In summary, the next action I will perform is `type [12] [Carnegie Mellon University] [1]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[12]. I can type the name of the university that I'm looking for and press Enter to search for it. Then I can see the search results on the map. In summary, the next action I will perform is ```type [12] [Carnegie Mellon University] [1]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [50, 80, 97, 93, 84, 86, 88, 84, 15, 60, 84, 91, 91, 94, 93, 15, 68, 93, 88, 101, 84, 97, 98, 88, 99, 104, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '12', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "I apologize for the incorrect format. Let's try again. This page has a search box whose ID is [12]. I can type the name of the university that I'm looking for and press Enter to search for it. Then I can see the search results on the map. In summary, the next action I will perform is ```type [12] [Carnegie Mellon University] [1]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [12] [Carnegie Mellon University
+
+[12] is [12] textbox 'Search' focused: True required: False</pre></div></div>
+
+[1] RootWebArea 'Carnegie Mellon University | OpenStreetMap' focused: True
+
+[104] heading 'OpenStreetMap logo OpenStreetMap'
+
+[109] link 'OpenStreetMap logo OpenStreetMap'
+
+[112] img 'OpenStreetMap logo'
+
+[390] link 'Edit'
+
+[391] button ''
+
+[362] link 'History'
+
+[363] link 'Export'
+
+[395] link 'GPS Traces'
+
+[396] link 'User Diaries'
+
+[397] link 'Communities'
+
+[398] link 'Copyright'
+
+[399] link 'Help'
+
+[400] link 'About'
+
+[371] link 'Log In'
+
+[372] link 'Sign Up'
+
+[12] textbox 'Search' focused: True required: False
+
+[501] StaticText 'Carnegie Mellon University'
+
+[495] button 'Go'
+
+[482] link 'Find directions between two points'
+
+[562] heading 'Search Results'
+
+[565] button 'Close'
+
+[531] heading 'Results from OpenStreetMap Nominatim'
+
+[567] link 'OpenStreetMap Nominatim'
+
+[576] StaticText 'University '
+
+[577] link 'Carnegie Mellon University, Schenley Drive Extension, North Oakland, Pittsburgh, Allegheny County, 15213, United States'
+
+[579] link 'Carnegie Mellon University, Pittsburgh, Allegheny County, 15213, United States'
+
+[580] StaticText 'University Building '
+
+[581] link 'Carnegie Mellon University, 407, South Craig Street, Bellefield, Pittsburgh, Allegheny County, 15213, United States'
+
+[574] link 'More results'
+
+[50] generic 'Zoom In Zoom Out Show My Location Layers Share 100 m 500 ft © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[54] link 'Zoom In'
+
+[55] link 'Zoom Out'
+
+[57] button 'Show My Location'
+
+[59] link 'Layers'
+
+[301] link ''
+
+[61] link 'Share'
+
+[303] link ''
+
+[305] link ''
+
+[527] StaticText '100 m'
+
+[528] StaticText '500 ft'
+
+[313] StaticText '© '
+
+[314] link 'OpenStreetMap contributors'
+
+[315] StaticText ' ♥ '
+
+[316] link 'Make a Donation'
+
+[317] StaticText '. '
+
+[318] link 'Website and API terms'</pre><div>
+
+[12] [Carnegie Mellon University
+
+[12] is textbox 'Search' focused: True required: False</div>
+
+[577]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The search result page shows a list of links related to the search query "Carnegie Mellon University". One of the links could lead us to the page of the university. I should click on the link that mentions the university\'s name and explore the information on the page to find the Turning Award winners. In summary, the next action I will perform is `click [577]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Carnegie Mellon University | OpenStreetMap' focused: True
+
+[104] heading 'OpenStreetMap logo OpenStreetMap'
+
+[109] link 'OpenStreetMap logo OpenStreetMap'
+
+[112] img 'OpenStreetMap logo'
+
+[390] link 'Edit'
+
+[391] button ''
+
+[362] link 'History'
+
+[363] link 'Export'
+
+[395] link 'GPS Traces'
+
+[396] link 'User Diaries'
+
+[397] link 'Communities'
+
+[398] link 'Copyright'
+
+[399] link 'Help'
+
+[400] link 'About'
+
+[371] link 'Log In'
+
+[372] link 'Sign Up'
+
+[12] textbox 'Search' focused: True required: False
+
+[501] StaticText 'Carnegie Mellon University'
+
+[495] button 'Go'
+
+[482] link 'Find directions between two points'
+
+[562] heading 'Search Results'
+
+[565] button 'Close'
+
+[531] heading 'Results from OpenStreetMap Nominatim'
+
+[567] link 'OpenStreetMap Nominatim'
+
+[576] StaticText 'University '
+
+[577] link 'Carnegie Mellon University, Schenley Drive Extension, North Oakland, Pittsburgh, Allegheny County, 15213, United States'
+
+[579] link 'Carnegie Mellon University, Pittsburgh, Allegheny County, 15213, United States'
+
+[580] StaticText 'University Building '
+
+[581] link 'Carnegie Mellon University, 407, South Craig Street, Bellefield, Pittsburgh, Allegheny County, 15213, United States'
+
+[574] link 'More results'
+
+[50] generic 'Zoom In Zoom Out Show My Location Layers Share 100 m 500 ft © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[54] link 'Zoom In'
+
+[55] link 'Zoom Out'
+
+[57] button 'Show My Location'
+
+[59] link 'Layers'
+
+[301] link ''
+
+[61] link 'Share'
+
+[303] link ''
+
+[305] link ''
+
+[527] StaticText '100 m'
+
+[528] StaticText '500 ft'
+
+[313] StaticText '© '
+
+[314] link 'OpenStreetMap contributors'
+
+[315] StaticText ' ♥ '
+
+[316] link 'Make a Donation'
+
+[317] StaticText '. '
+
+[318] link 'Website and API terms'</pre><div>
+
+[577]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[577]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '577', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The search result page shows a list of links related to the search query "Carnegie Mellon University". One of the links could lead us to the page of the university. I should click on the link that mentions the university\'s name and explore the information on the page to find the Turning Award winners. In summary, the next action I will perform is ```click [577]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [577] where [577] is [577] link 'Carnegie Mellon University, Schenley Drive Extension, North Oakland, Pittsburgh, Allegheny County, 15213, United States'</pre></div></div>
+
+[1] RootWebArea 'Relation: \u202aCarnegie Mellon University\u202c (\u202a2279034\u202c) | OpenStreetMap' focused: True
+
+[104] heading 'OpenStreetMap logo OpenStreetMap'
+
+[109] link 'OpenStreetMap logo OpenStreetMap'
+
+[112] img 'OpenStreetMap logo'
+
+[390] link 'Edit'
+
+[391] button ''
+
+[362] link 'History'
+
+[363] link 'Export'
+
+[395] link 'GPS Traces'
+
+[396] link 'User Diaries'
+
+[397] link 'Communities'
+
+[398] link 'Copyright'
+
+[399] link 'Help'
+
+[400] link 'About'
+
+[371] link 'Log In'
+
+[372] link 'Sign Up'
+
+[594] link 'Where is this?'
+
+[12] textbox 'Search' required: False
+
+[495] button 'Go'
+
+[482] link 'Find directions between two points'
+
+[615] heading 'Relation: Carnegie Mellon University (2279034)'
+
+[624] button 'Close'
+
+[625] heading 'Version #12'
+
+[632] StaticText '(no comment)'
+
+[642] StaticText 'Edited '
+
+[643] Abbr 'Tue, 16 Nov 2021 01:24:51 +0000'
+
+[696] StaticText 'almost 2 years ago'
+
+[644] StaticText ' by anonymous'
+
+[645] StaticText 'Changeset #'
+
+[646] link '0'
+
+[628] heading 'Tags'
+
+[629] table ''
+
+[647] row ''
+
+[657] rowheader 'amenity' required: False
+
+[698] link 'amenity'
+
+[658] gridcell 'university' required: False
+
+[700] link 'university'
+
+[648] row ''
+
+[659] rowheader 'gnis:county_id' required: False
+
+[660] gridcell '003' required: False
+
+[649] row ''
+
+[661] rowheader 'gnis:created' required: False
+
+[662] gridcell '08/30/1990' required: False
+
+[650] row ''
+
+[663] rowheader 'gnis:feature_id' required: False
+
+[706] link 'gnis:feature_id'
+
+[664] gridcell '1217343' required: False
+
+[651] row ''
+
+[665] rowheader 'gnis:state_id' required: False
+
+[666] gridcell '42' required: False
+
+[652] row ''
+
+[667] rowheader 'name' required: False
+
+[711] link 'name'
+
+[668] gridcell 'Carnegie Mellon University' required: False
+
+[653] row ''
+
+[669] rowheader 'name:ko' required: False
+
+[714] link 'name:ko'
+
+[670] gridcell '카네기 멜론 대학' required: False
+
+[654] row ''
+
+[671] rowheader 'short_name' required: False
+
+[717] link 'short_name'
+
+[672] gridcell 'CMU' required: False
+
+[655] row ''
+
+[673] rowheader 'type' required: False
+
+[720] link 'type'
+
+[674] gridcell 'multipolygon' required: False
+
+[722] link 'multipolygon'
+
+[50] generic 'Zoom In Zoom Out Show My Location Layers Share 100 m 500 ft © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[54] link 'Zoom In'
+
+[55] link 'Zoom Out'
+
+[57] button 'Show My Location'
+
+[59] link 'Layers'
+
+[301] link ''
+
+[61] link 'Share'
+
+[303] link ''
+
+[305] link ''
+
+[527] StaticText '100 m'
+
+[528] StaticText '500 ft'
+
+[313] StaticText '© '
+
+[314] link 'OpenStreetMap contributors'
+
+[315] StaticText ' ♥ '
+
+[316] link 'Make a Donation'
+
+[317] StaticText '. '
+
+[318] link 'Website and API terms'</pre><div>
+
+[577] where [577] is link 'Carnegie Mellon University, Schenley Drive Extension, North Oakland, Pittsburgh, Allegheny County, 15213, United States'</div>
+
+[12] [Carnegie Mellon University] [1]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. I clicked on the link to Carnegie Mellon University on the map, but it seems that it didn\'t provide the information we need. We should try a different approach. \n\nWe can search for the university directly using the search box. We need to enter "Carnegie Mellon University" and submit the search. In summary, the next action I will perform is `type [12] [Carnegie Mellon University] [1]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Relation: \u202aCarnegie Mellon University\u202c (\u202a2279034\u202c) | OpenStreetMap' focused: True
+
+[104] heading 'OpenStreetMap logo OpenStreetMap'
+
+[109] link 'OpenStreetMap logo OpenStreetMap'
+
+[112] img 'OpenStreetMap logo'
+
+[390] link 'Edit'
+
+[391] button ''
+
+[362] link 'History'
+
+[363] link 'Export'
+
+[395] link 'GPS Traces'
+
+[396] link 'User Diaries'
+
+[397] link 'Communities'
+
+[398] link 'Copyright'
+
+[399] link 'Help'
+
+[400] link 'About'
+
+[371] link 'Log In'
+
+[372] link 'Sign Up'
+
+[594] link 'Where is this?'
+
+[12] textbox 'Search' required: False
+
+[495] button 'Go'
+
+[482] link 'Find directions between two points'
+
+[615] heading 'Relation: Carnegie Mellon University (2279034)'
+
+[624] button 'Close'
+
+[625] heading 'Version #12'
+
+[632] StaticText '(no comment)'
+
+[642] StaticText 'Edited '
+
+[643] Abbr 'Tue, 16 Nov 2021 01:24:51 +0000'
+
+[696] StaticText 'almost 2 years ago'
+
+[644] StaticText ' by anonymous'
+
+[645] StaticText 'Changeset #'
+
+[646] link '0'
+
+[628] heading 'Tags'
+
+[629] table ''
+
+[647] row ''
+
+[657] rowheader 'amenity' required: False
+
+[698] link 'amenity'
+
+[658] gridcell 'university' required: False
+
+[700] link 'university'
+
+[648] row ''
+
+[659] rowheader 'gnis:county_id' required: False
+
+[660] gridcell '003' required: False
+
+[649] row ''
+
+[661] rowheader 'gnis:created' required: False
+
+[662] gridcell '08/30/1990' required: False
+
+[650] row ''
+
+[663] rowheader 'gnis:feature_id' required: False
+
+[706] link 'gnis:feature_id'
+
+[664] gridcell '1217343' required: False
+
+[651] row ''
+
+[665] rowheader 'gnis:state_id' required: False
+
+[666] gridcell '42' required: False
+
+[652] row ''
+
+[667] rowheader 'name' required: False
+
+[711] link 'name'
+
+[668] gridcell 'Carnegie Mellon University' required: False
+
+[653] row ''
+
+[669] rowheader 'name:ko' required: False
+
+[714] link 'name:ko'
+
+[670] gridcell '카네기 멜론 대학' required: False
+
+[654] row ''
+
+[671] rowheader 'short_name' required: False
+
+[717] link 'short_name'
+
+[672] gridcell 'CMU' required: False
+
+[655] row ''
+
+[673] rowheader 'type' required: False
+
+[720] link 'type'
+
+[674] gridcell 'multipolygon' required: False
+
+[722] link 'multipolygon'
+
+[50] generic 'Zoom In Zoom Out Show My Location Layers Share 100 m 500 ft © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[54] link 'Zoom In'
+
+[55] link 'Zoom Out'
+
+[57] button 'Show My Location'
+
+[59] link 'Layers'
+
+[301] link ''
+
+[61] link 'Share'
+
+[303] link ''
+
+[305] link ''
+
+[527] StaticText '100 m'
+
+[528] StaticText '500 ft'
+
+[313] StaticText '© '
+
+[314] link 'OpenStreetMap contributors'
+
+[315] StaticText ' ♥ '
+
+[316] link 'Make a Donation'
+
+[317] StaticText '. '
+
+[318] link 'Website and API terms'</pre><div>
+
+[12] [Carnegie Mellon University] [1]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[12] [Carnegie Mellon University] [1]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [50, 80, 97, 93, 84, 86, 88, 84, 15, 60, 84, 91, 91, 94, 93, 15, 68, 93, 88, 101, 84, 97, 98, 88, 99, 104, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '12', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```type [12] [Carnegie Mellon University] [1]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [12] [Carnegie Mellon University
+
+[12] is [12] textbox 'Search' required: False</pre></div></div>
+
+[1] RootWebArea 'Carnegie Mellon University | OpenStreetMap' focused: True
+
+[104] heading 'OpenStreetMap logo OpenStreetMap'
+
+[109] link 'OpenStreetMap logo OpenStreetMap'
+
+[112] img 'OpenStreetMap logo'
+
+[390] link 'Edit'
+
+[391] button ''
+
+[362] link 'History'
+
+[363] link 'Export'
+
+[395] link 'GPS Traces'
+
+[396] link 'User Diaries'
+
+[397] link 'Communities'
+
+[398] link 'Copyright'
+
+[399] link 'Help'
+
+[400] link 'About'
+
+[371] link 'Log In'
+
+[372] link 'Sign Up'
+
+[12] textbox 'Search' focused: True required: False
+
+[769] StaticText 'Carnegie Mellon University'
+
+[495] button 'Go'
+
+[482] link 'Find directions between two points'
+
+[782] heading 'Search Results'
+
+[785] button 'Close'
+
+[780] heading 'Results from OpenStreetMap Nominatim'
+
+[787] link 'OpenStreetMap Nominatim'
+
+[796] StaticText 'University '
+
+[797] link 'Carnegie Mellon University, Schenley Drive Extension, North Oakland, Pittsburgh, Allegheny County, 15213, United States'
+
+[799] link 'Carnegie Mellon University, Pittsburgh, Allegheny County, 15213, United States'
+
+[800] StaticText 'University Building '
+
+[801] link 'Carnegie Mellon University, 407, South Craig Street, Bellefield, Pittsburgh, Allegheny County, 15213, United States'
+
+[794] link 'More results'
+
+[50] generic 'Zoom In Zoom Out Show My Location Layers Share 100 m 500 ft © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[54] link 'Zoom In'
+
+[55] link 'Zoom Out'
+
+[57] button 'Show My Location'
+
+[59] link 'Layers'
+
+[301] link ''
+
+[61] link 'Share'
+
+[303] link ''
+
+[305] link ''
+
+[776] StaticText '100 m'
+
+[777] StaticText '500 ft'
+
+[313] StaticText '© '
+
+[314] link 'OpenStreetMap contributors'
+
+[315] StaticText ' ♥ '
+
+[316] link 'Make a Donation'
+
+[317] StaticText '. '
+
+[318] link 'Website and API terms'</pre><div>
+
+[12] [Carnegie Mellon University
+
+[12] is textbox 'Search' required: False</div>
+
+[797]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '797', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the search result for the query "Carnegie Mellon University". It shows various results related to the university. I need to find the page of the university that has the most Turing Award winners. To do this, I need to click on the link that corresponds to the university. In summary, the next action I will perform is ```click [797]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [797] where [797] is [797] link 'Carnegie Mellon University, Schenley Drive Extension, North Oakland, Pittsburgh, Allegheny County, 15213, United States'</pre></div></div>
+
+[1] RootWebArea 'Relation: \u202aCarnegie Mellon University\u202c (\u202a2279034\u202c) | OpenStreetMap' focused: True
+
+[104] heading 'OpenStreetMap logo OpenStreetMap'
+
+[109] link 'OpenStreetMap logo OpenStreetMap'
+
+[112] img 'OpenStreetMap logo'
+
+[390] link 'Edit'
+
+[391] button ''
+
+[362] link 'History'
+
+[363] link 'Export'
+
+[395] link 'GPS Traces'
+
+[396] link 'User Diaries'
+
+[397] link 'Communities'
+
+[398] link 'Copyright'
+
+[399] link 'Help'
+
+[400] link 'About'
+
+[371] link 'Log In'
+
+[372] link 'Sign Up'
+
+[812] link 'Where is this?'
+
+[12] textbox 'Search' required: False
+
+[495] button 'Go'
+
+[482] link 'Find directions between two points'
+
+[826] heading 'Relation: Carnegie Mellon University (2279034)'
+
+[835] button 'Close'
+
+[836] heading 'Version #12'
+
+[843] StaticText '(no comment)'
+
+[853] StaticText 'Edited '
+
+[854] Abbr 'Tue, 16 Nov 2021 01:24:51 +0000'
+
+[906] StaticText 'almost 2 years ago'
+
+[855] StaticText ' by anonymous'
+
+[856] StaticText 'Changeset #'
+
+[857] link '0'
+
+[839] heading 'Tags'
+
+[840] table ''
+
+[858] row ''
+
+[868] rowheader 'amenity' required: False
+
+[908] link 'amenity'
+
+[869] gridcell 'university' required: False
+
+[910] link 'university'
+
+[859] row ''
+
+[870] rowheader 'gnis:county_id' required: False
+
+[871] gridcell '003' required: False
+
+[860] row ''
+
+[872] rowheader 'gnis:created' required: False
+
+[873] gridcell '08/30/1990' required: False
+
+[861] row ''
+
+[874] rowheader 'gnis:feature_id' required: False
+
+[916] link 'gnis:feature_id'
+
+[875] gridcell '1217343' required: False
+
+[862] row ''
+
+[876] rowheader 'gnis:state_id' required: False
+
+[877] gridcell '42' required: False
+
+[863] row ''
+
+[878] rowheader 'name' required: False
+
+[921] link 'name'
+
+[879] gridcell 'Carnegie Mellon University' required: False
+
+[864] row ''
+
+[880] rowheader 'name:ko' required: False
+
+[924] link 'name:ko'
+
+[881] gridcell '카네기 멜론 대학' required: False
+
+[865] row ''
+
+[882] rowheader 'short_name' required: False
+
+[927] link 'short_name'
+
+[883] gridcell 'CMU' required: False
+
+[866] row ''
+
+[884] rowheader 'type' required: False
+
+[930] link 'type'
+
+[885] gridcell 'multipolygon' required: False
+
+[932] link 'multipolygon'
+
+[50] generic 'Zoom In Zoom Out Show My Location Layers Share 100 m 500 ft © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[54] link 'Zoom In'
+
+[55] link 'Zoom Out'
+
+[57] button 'Show My Location'
+
+[59] link 'Layers'
+
+[301] link ''
+
+[61] link 'Share'
+
+[303] link ''
+
+[305] link ''
+
+[776] StaticText '100 m'
+
+[777] StaticText '500 ft'
+
+[313] StaticText '© '
+
+[314] link 'OpenStreetMap contributors'
+
+[315] StaticText ' ♥ '
+
+[316] link 'Make a Donation'
+
+[317] StaticText '. '
+
+[318] link 'Website and API terms'</pre><div>
+
+[797] where [797] is link 'Carnegie Mellon University, Schenley Drive Extension, North Oakland, Pittsburgh, Allegheny County, 15213, United States'</div>
+
+[908]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '908', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. After clicking on the link for Carnegie Mellon University, we are now on the page for the university on the map. We need to find the page that has the most Turning Award winners. To do this, we can look for the "Tags" section which provides additional information about the university. In this section, we can find the "amenity" tag which indicates the type of facility or amenity represented by the feature. We can click on the link for "amenity" to get more information. In summary, the next action I will perform is ```click [908]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [908] where [908] is [908] link 'amenity'</pre></div></div>
+
+[1] RootWebArea 'Key:amenity - OpenStreetMap Wiki' focused: True
+
+[12] main ''
+
+[69] heading 'Key:amenity'
+
+[79] link 'Jump to navigation'
+
+[80] link 'Jump to search'
+
+[263] link 'Purge'
+
+[1461] generic 'Purge this page'
+
+[260] link 'Help'
+
+[152] StaticText 'Key:amenity'
+
+[153] StaticText ' - Other languages'
+
+[1467] link '\xa0català\xa0'
+
+[1477] link '\xa0čeština\xa0'
+
+[1480] link '\xa0dansk\xa0'
+
+[1483] link '\xa0Deutsch\xa0'
+
+[1486] link '\xa0eesti\xa0'
+
+[1490] StaticText '\xa0English\xa0'
+
+[1492] link '\xa0español\xa0'
+
+[1495] link '\xa0français\xa0'
+
+[1500] link '\xa0hrvatski\xa0'
+
+[1506] link '\xa0italiano\xa0'
+
+[1511] link '\xa0magyar\xa0'
+
+[1520] link '\xa0Nederlands\xa0'
+
+[1523] link '\xa0norsk\xa0'
+
+[1526] link '\xa0polski\xa0'
+
+[1531] link '\xa0português\xa0'
+
+[1534] link '\xa0română\xa0'
+
+[1537] link '\xa0suomi\xa0'
+
+[1545] link '\xa0Türkçe\xa0'
+
+[1551] link '\xa0Ελληνικά\xa0'
+
+[4563] link '\xa0русский\xa0'
+
+[1560] link '\xa0українська\xa0'
+
+[1564] link '\xa0한국어\xa0'
+
+[1583] link '\xa0中文（简体）\xa0'
+
+[1588] link '\xa0中文（繁體）\xa0'
+
+[1591] link '\xa0日本語\xa0'
+
+[1594] link 'Other languages...'
+
+[128] table ''
+
+[358] row ''
+
+[372] gridcell 'v\xa0· d\xa0· e Public-images-osm logo.svg amenity' required: False
+
+[1601] link 'v'
+
+[1612] generic 'View this template.'
+
+[1613] Abbr ''
+
+[1602] StaticText '\xa0'
+
+[1604] StaticText '·'
+
+[1606] link 'd'
+
+[1615] generic 'Discuss this template.'
+
+[1616] Abbr ''
+
+[1607] StaticText '\xa0'
+
+[1609] StaticText '·'
+
+[1611] link 'e'
+
+[1618] generic 'Edit this template.'
+
+[1619] Abbr ''
+
+[1596] img 'Public-images-osm logo.svg'
+
+[1600] StaticText 'amenity'
+
+[359] row ''
+
+[373] gridcell 'Mapping-Features-Parking-Lot.png' required: False
+
+[1623] link 'Mapping-Features-Parking-Lot.png'
+
+[1624] img 'Mapping-Features-Parking-Lot.png'
+
+[360] row ''
+
+[374] columnheader 'Description' required: False
+
+[361] row ''
+
+[375] gridcell 'For describing useful and important facilities for visitors and residents.\xa0Show/edit corresponding data item.' required: False
+
+[1628] link 'Show/edit corresponding data item.'
+
+[1629] img 'Show/edit corresponding data item.'
+
+[362] row ''
+
+[376] gridcell 'Group: amenities' required: False
+
+[1633] link 'amenities'
+
+[363] row ''
+
+[377] columnheader 'Used on these elements' required: False
+
+[1636] link 'elements'
+
+[364] row ''
+
+[378] gridcell 'may be used on nodesshould not be used on waysmay be used on areas (and multipolygon relations)may be used on relations' required: False
+
+[1640] link 'may be used on nodes'
+
+[1647] img 'may be used on nodes'
+
+[1642] link 'should not be used on ways'
+
+[1648] img 'should not be used on ways'
+
+[1644] link 'may be used on areas (and multipolygon relations)'
+
+[1649] img 'may be used on areas (and multipolygon relations)'
+
+[1646] link 'may be used on relations'
+
+[1650] img 'may be used on relations'
+
+[365] row ''
+
+[379] gridcell 'Documented values: 300' required: False
+
+[1654] link '300'
+
+[366] row ''
+
+[380] columnheader 'Useful combination' required: False
+
+[367] row ''
+
+[381] gridcell 'name=*' required: False
+
+[1659] ListMarker '  '
+
+[161] StaticText 'amenity'
+
+[163] StaticText ' is the top-level tag describing useful and important facilities for visitors and residents, such as toilets, telephones, banks, pharmacies, prisons and schools.'
+
+[16] navigation 'Contents'
+
+[17] button 'hide'
+
+[165] heading 'Contents'
+
+[1789] link '1 How to map'
+
+[1790] link '2 Values'
+
+[4691] link '2.1 Sustenance'
+
+[4692] link '2.2 Education'
+
+[4693] link '2.3 Transportation'
+
+[4694] link '2.4 Financial'
+
+[4695] link '2.5 Healthcare'
+
+[4696] link '2.6 Entertainment, Arts & Culture'
+
+[4697] link '2.7 Public Service'
+
+[4698] link '2.8 Facilities'
+
+[4699] link '2.9 Waste Management'
+
+[4700] link '2.10 Others'
+
+[1792] link '3 Tag history and naming'
+
+[1793] link '4 Tags that need improvement'
+
+[130] heading 'How to map'
+
+[170] StaticText 'Mapping varies widely depending on feature:'
+
+[23] navigation 'Personal tools'
+
+[1444] link 'English'
+
+[1445] link 'Create account'
+
+[27] link 'Log in' keyshortcuts: Ctrl+Alt+o
+
+[28] navigation 'Namespaces'
+
+[32] link 'Page' keyshortcuts: Ctrl+Alt+c
+
+[34] link 'Discussion' keyshortcuts: Ctrl+Alt+t
+
+[35] navigation 'Views'
+
+[4453] link 'Read'
+
+[39] link 'View source' keyshortcuts: Ctrl+Alt+e
+
+[41] link 'View history' keyshortcuts: Ctrl+Alt+h
+
+[7] search ''
+
+[1447] heading 'Search'
+
+[11] searchbox 'Search OpenStreetMap Wiki' keyshortcuts: Ctrl+Alt+f
+
+[4455] button 'Search'
+
+[4456] button 'Go'
+
+[101] link 'Visit the main page'
+
+[43] navigation 'Site'
+
+[47] link 'Main Page' keyshortcuts: Ctrl+Alt+z
+
+[1450] link 'The map'
+
+[1451] link 'Map Features'
+
+[1452] link 'Contributors'
+
+[1453] link 'Help'
+
+[1454] link 'Blogs'
+
+[1455] link 'Shop'
+
+[1456] link 'Donations'
+
+[1457] link 'Wiki discussion'
+
+[49] link 'Recent changes' keyshortcuts: Ctrl+Alt+r
+
+[50] navigation 'Tools'
+
+[105] heading 'Tools'
+
+[54] link 'What links here' keyshortcuts: Ctrl+Alt+j
+
+[56] link 'Related changes' keyshortcuts: Ctrl+Alt+k
+
+[58] link 'Special pages' keyshortcuts: Ctrl+Alt+q
+
+[60] link 'Printable version' keyshortcuts: Ctrl+Alt+p
+
+[1458] link 'Permanent link'
+
+[1459] link 'Page information'
+
+[1460] link 'Cite this page'
+
+[62] link 'Data item' keyshortcuts: Ctrl+Alt+g</pre><div>
+
+[908] where [908] is link 'amenity'</div>
+
+[4698]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '4698', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page is the Key:amenity page on the OpenStreetMap Wiki. We need to find the page of the university that has the most Turing Award winners on the map. To do that, we can click on the link '2.8 Facilities' to see if it contains information about universities. In summary, the next action I will perform is ```click [4698]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [4698] where [4698] is [4698] link '2.8 Facilities'</pre></div></div>
+
+[1] RootWebArea 'Key:amenity - OpenStreetMap Wiki' focused: True
+
+[12] main ''
+
+[135] table ''
+
+[544] row ''
+
+[1097] columnheader 'Facilities' required: False
+
+[3534] heading 'Facilities'
+
+[545] row ''
+
+[1098] gridcell 'amenity' required: False
+
+[1099] gridcell 'bbq' required: False
+
+[3539] link 'bbq'
+
+[1100] gridcell 'node' required: False
+
+[3541] link 'node'
+
+[3542] img 'node'
+
+[1101] gridcell 'BBQ or Barbecue is a permanently built grill for cooking food, which is most typically used outdoors by the public. For example these may be found in city parks or at beaches. Use the tag fuel=* to specify the source of heating, such as fuel=wood;electric;charcoal. For mapping nearby table and chairs, see also the tag tourism=picnic_site. For mapping campfires and firepits, instead use the tag leisure=firepit.' required: False
+
+[3551] link 'fuel'
+
+[3556] link 'fuel'
+
+[3558] link 'wood'
+
+[3559] StaticText ';'
+
+[3560] link 'electric'
+
+[3562] link 'charcoal'
+
+[3563] StaticText '. For mapping nearby table and chairs, see also the tag '
+
+[3566] link 'tourism'
+
+[3567] StaticText '='
+
+[3568] link 'picnic_site'
+
+[3569] StaticText '. For mapping '
+
+[3571] StaticText 'campfires'
+
+[3572] StaticText ' and '
+
+[3574] StaticText 'firepits'
+
+[3575] StaticText ', instead use the tag '
+
+[3578] link 'leisure'
+
+[3579] StaticText '='
+
+[3580] link 'firepit'
+
+[3581] StaticText '.'
+
+[1102] gridcell 'Bbq-14.svg' required: False
+
+[3598] link 'Bbq-14.svg'
+
+[3599] img 'Bbq-14.svg'
+
+[1103] gridcell 'Grillplatzusa.jpg' required: False
+
+[3602] link 'Grillplatzusa.jpg'
+
+[3603] img 'Grillplatzusa.jpg'
+
+[546] row ''
+
+[1104] gridcell 'amenity' required: False
+
+[1105] gridcell 'bench' required: False
+
+[3606] link 'bench'
+
+[1106] gridcell 'node' required: False
+
+[3608] link 'node'
+
+[3609] img 'node'
+
+[1107] gridcell 'A bench to sit down and relax a bit' required: False
+
+[1108] gridcell 'Bench-16.svg' required: False
+
+[3613] link 'Bench-16.svg'
+
+[3614] img 'Bench-16.svg'
+
+[1109] gridcell 'Bench.jpg' required: False
+
+[3617] link 'Bench.jpg'
+
+[3618] img 'Bench.jpg'
+
+[547] row ''
+
+[1110] gridcell 'amenity' required: False
+
+[1111] gridcell 'dog_toilet' required: False
+
+[3621] link 'dog_toilet'
+
+[1112] gridcell 'node area' required: False
+
+[3623] link 'node'
+
+[3626] img 'node'
+
+[3625] link 'area'
+
+[3627] img 'area'
+
+[1113] gridcell 'Area designated for dogs to urinate and excrete.' required: False
+
+[1114] gridcell '' required: False
+
+[1115] gridcell 'Dog-toilet.jpg' required: False
+
+[3631] link 'Dog-toilet.jpg'
+
+[3632] img 'Dog-toilet.jpg'
+
+[548] row ''
+
+[1116] gridcell 'amenity' required: False
+
+[1117] gridcell 'dressing_room' required: False
+
+[3635] link 'dressing_room'
+
+[1118] gridcell 'node area' required: False
+
+[3637] link 'node'
+
+[3640] img 'node'
+
+[3639] link 'area'
+
+[3641] img 'area'
+
+[1119] gridcell 'Area designated for changing clothes.' required: False
+
+[1120] gridcell '' required: False
+
+[1121] gridcell 'Korpilahti beach - changing room.jpg' required: False
+
+[3645] link 'Korpilahti beach - changing room.jpg'
+
+[3646] img 'Korpilahti beach - changing room.jpg'
+
+[549] row ''
+
+[1122] gridcell 'amenity' required: False
+
+[1123] gridcell 'drinking_water' required: False
+
+[3649] link 'drinking_water'
+
+[1124] gridcell 'node' required: False
+
+[3651] link 'node'
+
+[3652] img 'node'
+
+[1125] gridcell 'Drinking water is a place where humans can obtain potable water for consumption. Typically, the water is used for only drinking. Also known as a drinking fountain or bubbler.' required: False
+
+[1126] gridcell 'Drinking-water-16.svg' required: False
+
+[3664] link 'Drinking-water-16.svg'
+
+[3665] img 'Drinking-water-16.svg'
+
+[1127] gridcell 'Basler Trinkwasser 1341.jpg' required: False
+
+[3668] link 'Basler Trinkwasser 1341.jpg'
+
+[3669] img 'Basler Trinkwasser 1341.jpg'
+
+[550] row ''
+
+[1128] gridcell 'amenity' required: False
+
+[1129] gridcell 'give_box' required: False
+
+[3672] link 'give_box'
+
+[1130] gridcell 'node area' required: False
+
+[3674] link 'node'
+
+[3677] img 'node'
+
+[3676] link 'area'
+
+[3678] img 'area'
+
+[1131] gridcell 'A small facility where people drop off and pick up various types of items in the sense of free sharing and reuse.' required: False
+
+[1132] gridcell '' required: False
+
+[1133] gridcell 'GiveBox an der Schwarztorstrasse 96 im Januar 2020.jpg' required: False
+
+[3682] link 'GiveBox an der Schwarztorstrasse 96 im Januar 2020.jpg'
+
+[3683] img 'GiveBox an der Schwarztorstrasse 96 im Januar 2020.jpg'</pre><div>
+
+[4698] where [4698] is link '2.8 Facilities'</div>
+
+[1] RootWebArea 'Key:amenity - OpenStreetMap Wiki' focused: True
+
+[12] main ''
+
+[69] heading 'Key:amenity'
+
+[79] link 'Jump to navigation'
+
+[80] link 'Jump to search'
+
+[263] link 'Purge'
+
+[1461] generic 'Purge this page'
+
+[260] link 'Help'
+
+[152] StaticText 'Key:amenity'
+
+[153] StaticText ' - Other languages'
+
+[1467] link '\xa0català\xa0'
+
+[1477] link '\xa0čeština\xa0'
+
+[1480] link '\xa0dansk\xa0'
+
+[1483] link '\xa0Deutsch\xa0'
+
+[1486] link '\xa0eesti\xa0'
+
+[1490] StaticText '\xa0English\xa0'
+
+[1492] link '\xa0español\xa0'
+
+[1495] link '\xa0français\xa0'
+
+[1500] link '\xa0hrvatski\xa0'
+
+[1506] link '\xa0italiano\xa0'
+
+[1511] link '\xa0magyar\xa0'
+
+[1520] link '\xa0Nederlands\xa0'
+
+[1523] link '\xa0norsk\xa0'
+
+[1526] link '\xa0polski\xa0'
+
+[1531] link '\xa0português\xa0'
+
+[1534] link '\xa0română\xa0'
+
+[1537] link '\xa0suomi\xa0'
+
+[1545] link '\xa0Türkçe\xa0'
+
+[1551] link '\xa0Ελληνικά\xa0'
+
+[4563] link '\xa0русский\xa0'
+
+[1560] link '\xa0українська\xa0'
+
+[1564] link '\xa0한국어\xa0'
+
+[1583] link '\xa0中文（简体）\xa0'
+
+[1588] link '\xa0中文（繁體）\xa0'
+
+[1591] link '\xa0日本語\xa0'
+
+[1594] link 'Other languages...'
+
+[128] table ''
+
+[358] row ''
+
+[372] gridcell 'v\xa0· d\xa0· e Public-images-osm logo.svg amenity' required: False
+
+[1601] link 'v'
+
+[1612] generic 'View this template.'
+
+[1613] Abbr ''
+
+[1602] StaticText '\xa0'
+
+[1604] StaticText '·'
+
+[1606] link 'd'
+
+[1615] generic 'Discuss this template.'
+
+[1616] Abbr ''
+
+[1607] StaticText '\xa0'
+
+[1609] StaticText '·'
+
+[1611] link 'e'
+
+[1618] generic 'Edit this template.'
+
+[1619] Abbr ''
+
+[1596] img 'Public-images-osm logo.svg'
+
+[1600] StaticText 'amenity'
+
+[359] row ''
+
+[373] gridcell 'Mapping-Features-Parking-Lot.png' required: False
+
+[1623] link 'Mapping-Features-Parking-Lot.png'
+
+[1624] img 'Mapping-Features-Parking-Lot.png'
+
+[360] row ''
+
+[374] columnheader 'Description' required: False
+
+[361] row ''
+
+[375] gridcell 'For describing useful and important facilities for visitors and residents.\xa0Show/edit corresponding data item.' required: False
+
+[1628] link 'Show/edit corresponding data item.'
+
+[1629] img 'Show/edit corresponding data item.'
+
+[362] row ''
+
+[376] gridcell 'Group: amenities' required: False
+
+[1633] link 'amenities'
+
+[363] row ''
+
+[377] columnheader 'Used on these elements' required: False
+
+[1636] link 'elements'
+
+[364] row ''
+
+[378] gridcell 'may be used on nodesshould not be used on waysmay be used on areas (and multipolygon relations)may be used on relations' required: False
+
+[1640] link 'may be used on nodes'
+
+[1647] img 'may be used on nodes'
+
+[1642] link 'should not be used on ways'
+
+[1648] img 'should not be used on ways'
+
+[1644] link 'may be used on areas (and multipolygon relations)'
+
+[1649] img 'may be used on areas (and multipolygon relations)'
+
+[1646] link 'may be used on relations'
+
+[1650] img 'may be used on relations'
+
+[365] row ''
+
+[379] gridcell 'Documented values: 300' required: False
+
+[1654] link '300'
+
+[366] row ''
+
+[380] columnheader 'Useful combination' required: False
+
+[367] row ''
+
+[381] gridcell 'name=*' required: False
+
+[1659] ListMarker '  '
+
+[161] StaticText 'amenity'
+
+[163] StaticText ' is the top-level tag describing useful and important facilities for visitors and residents, such as toilets, telephones, banks, pharmacies, prisons and schools.'
+
+[16] navigation 'Contents'
+
+[17] button 'hide'
+
+[165] heading 'Contents'
+
+[1789] link '1 How to map'
+
+[1790] link '2 Values'
+
+[4691] link '2.1 Sustenance'
+
+[4692] link '2.2 Education'
+
+[4693] link '2.3 Transportation'
+
+[4694] link '2.4 Financial'
+
+[4695] link '2.5 Healthcare'
+
+[4696] link '2.6 Entertainment, Arts & Culture'
+
+[4697] link '2.7 Public Service'
+
+[4698] link '2.8 Facilities'
+
+[4699] link '2.9 Waste Management'
+
+[4700] link '2.10 Others'
+
+[1792] link '3 Tag history and naming'
+
+[1793] link '4 Tags that need improvement'
+
+[130] heading 'How to map'
+
+[170] StaticText 'Mapping varies widely depending on feature:'
+
+[23] navigation 'Personal tools'
+
+[1444] link 'English'
+
+[1445] link 'Create account'
+
+[27] link 'Log in' keyshortcuts: Ctrl+Alt+o
+
+[28] navigation 'Namespaces'
+
+[32] link 'Page' keyshortcuts: Ctrl+Alt+c
+
+[34] link 'Discussion' keyshortcuts: Ctrl+Alt+t
+
+[35] navigation 'Views'
+
+[4453] link 'Read'
+
+[39] link 'View source' keyshortcuts: Ctrl+Alt+e
+
+[41] link 'View history' keyshortcuts: Ctrl+Alt+h
+
+[7] search ''
+
+[1447] heading 'Search'
+
+[11] searchbox 'Search OpenStreetMap Wiki' keyshortcuts: Ctrl+Alt+f
+
+[4455] button 'Search'
+
+[4456] button 'Go'
+
+[101] link 'Visit the main page'
+
+[43] navigation 'Site'
+
+[47] link 'Main Page' keyshortcuts: Ctrl+Alt+z
+
+[1450] link 'The map'
+
+[1451] link 'Map Features'
+
+[1452] link 'Contributors'
+
+[1453] link 'Help'
+
+[1454] link 'Blogs'
+
+[1455] link 'Shop'
+
+[1456] link 'Donations'
+
+[1457] link 'Wiki discussion'
+
+[49] link 'Recent changes' keyshortcuts: Ctrl+Alt+r
+
+[50] navigation 'Tools'
+
+[105] heading 'Tools'
+
+[54] link 'What links here' keyshortcuts: Ctrl+Alt+j
+
+[56] link 'Related changes' keyshortcuts: Ctrl+Alt+k
+
+[58] link 'Special pages' keyshortcuts: Ctrl+Alt+q
+
+[60] link 'Printable version' keyshortcuts: Ctrl+Alt+p
+
+[1458] link 'Permanent link'
+
+[1459] link 'Page information'
+
+[1460] link 'Cite this page'
+
+[62] link 'Data item' keyshortcuts: Ctrl+Alt+g</pre><div>
+
+[1] RootWebArea 'Key:amenity - OpenStreetMap Wiki' focused: True
+
+[12] main ''
+
+[69] heading 'Key:amenity'
+
+[79] link 'Jump to navigation'
+
+[80] link 'Jump to search'
+
+[263] link 'Purge'
+
+[1461] generic 'Purge this page'
+
+[260] link 'Help'
+
+[152] StaticText 'Key:amenity'
+
+[153] StaticText ' - Other languages'
+
+[1467] link '\xa0català\xa0'
+
+[1477] link '\xa0čeština\xa0'
+
+[1480] link '\xa0dansk\xa0'
+
+[1483] link '\xa0Deutsch\xa0'
+
+[1486] link '\xa0eesti\xa0'
+
+[1490] StaticText '\xa0English\xa0'
+
+[1492] link '\xa0español\xa0'
+
+[1495] link '\xa0français\xa0'
+
+[1500] link '\xa0hrvatski\xa0'
+
+[1506] link '\xa0italiano\xa0'
+
+[1511] link '\xa0magyar\xa0'
+
+[1520] link '\xa0Nederlands\xa0'
+
+[1523] link '\xa0norsk\xa0'
+
+[1526] link '\xa0polski\xa0'
+
+[1531] link '\xa0português\xa0'
+
+[1534] link '\xa0română\xa0'
+
+[1537] link '\xa0suomi\xa0'
+
+[1545] link '\xa0Türkçe\xa0'
+
+[1551] link '\xa0Ελληνικά\xa0'
+
+[4563] link '\xa0русский\xa0'
+
+[1560] link '\xa0українська\xa0'
+
+[1564] link '\xa0한국어\xa0'
+
+[1583] link '\xa0中文（简体）\xa0'
+
+[1588] link '\xa0中文（繁體）\xa0'
+
+[1591] link '\xa0日本語\xa0'
+
+[1594] link 'Other languages...'
+
+[128] table ''
+
+[358] row ''
+
+[372] gridcell 'v\xa0· d\xa0· e Public-images-osm logo.svg amenity' required: False
+
+[1601] link 'v'
+
+[1612] generic 'View this template.'
+
+[1613] Abbr ''
+
+[1602] StaticText '\xa0'
+
+[1604] StaticText '·'
+
+[1606] link 'd'
+
+[1615] generic 'Discuss this template.'
+
+[1616] Abbr ''
+
+[1607] StaticText '\xa0'
+
+[1609] StaticText '·'
+
+[1611] link 'e'
+
+[1618] generic 'Edit this template.'
+
+[1619] Abbr ''
+
+[1596] img 'Public-images-osm logo.svg'
+
+[1600] StaticText 'amenity'
+
+[359] row ''
+
+[373] gridcell 'Mapping-Features-Parking-Lot.png' required: False
+
+[1623] link 'Mapping-Features-Parking-Lot.png'
+
+[1624] img 'Mapping-Features-Parking-Lot.png'
+
+[360] row ''
+
+[374] columnheader 'Description' required: False
+
+[361] row ''
+
+[375] gridcell 'For describing useful and important facilities for visitors and residents.\xa0Show/edit corresponding data item.' required: False
+
+[1628] link 'Show/edit corresponding data item.'
+
+[1629] img 'Show/edit corresponding data item.'
+
+[362] row ''
+
+[376] gridcell 'Group: amenities' required: False
+
+[1633] link 'amenities'
+
+[363] row ''
+
+[377] columnheader 'Used on these elements' required: False
+
+[1636] link 'elements'
+
+[364] row ''
+
+[378] gridcell 'may be used on nodesshould not be used on waysmay be used on areas (and multipolygon relations)may be used on relations' required: False
+
+[1640] link 'may be used on nodes'
+
+[1647] img 'may be used on nodes'
+
+[1642] link 'should not be used on ways'
+
+[1648] img 'should not be used on ways'
+
+[1644] link 'may be used on areas (and multipolygon relations)'
+
+[1649] img 'may be used on areas (and multipolygon relations)'
+
+[1646] link 'may be used on relations'
+
+[1650] img 'may be used on relations'
+
+[365] row ''
+
+[379] gridcell 'Documented values: 300' required: False
+
+[1654] link '300'
+
+[366] row ''
+
+[380] columnheader 'Useful combination' required: False
+
+[367] row ''
+
+[381] gridcell 'name=*' required: False
+
+[1659] ListMarker '  '
+
+[161] StaticText 'amenity'
+
+[163] StaticText ' is the top-level tag describing useful and important facilities for visitors and residents, such as toilets, telephones, banks, pharmacies, prisons and schools.'
+
+[16] navigation 'Contents'
+
+[17] button 'hide'
+
+[165] heading 'Contents'
+
+[1789] link '1 How to map'
+
+[1790] link '2 Values'
+
+[4691] link '2.1 Sustenance'
+
+[4692] link '2.2 Education'
+
+[4693] link '2.3 Transportation'
+
+[4694] link '2.4 Financial'
+
+[4695] link '2.5 Healthcare'
+
+[4696] link '2.6 Entertainment, Arts & Culture'
+
+[4697] link '2.7 Public Service'
+
+[4698] link '2.8 Facilities'
+
+[4699] link '2.9 Waste Management'
+
+[4700] link '2.10 Others'
+
+[1792] link '3 Tag history and naming'
+
+[1793] link '4 Tags that need improvement'
+
+[130] heading 'How to map'
+
+[170] StaticText 'Mapping varies widely depending on feature:'
+
+[23] navigation 'Personal tools'
+
+[1444] link 'English'
+
+[1445] link 'Create account'
+
+[27] link 'Log in' keyshortcuts: Ctrl+Alt+o
+
+[28] navigation 'Namespaces'
+
+[32] link 'Page' keyshortcuts: Ctrl+Alt+c
+
+[34] link 'Discussion' keyshortcuts: Ctrl+Alt+t
+
+[35] navigation 'Views'
+
+[4453] link 'Read'
+
+[39] link 'View source' keyshortcuts: Ctrl+Alt+e
+
+[41] link 'View history' keyshortcuts: Ctrl+Alt+h
+
+[7] search ''
+
+[1447] heading 'Search'
+
+[11] searchbox 'Search OpenStreetMap Wiki' keyshortcuts: Ctrl+Alt+f
+
+[4455] button 'Search'
+
+[4456] button 'Go'
+
+[101] link 'Visit the main page'
+
+[43] navigation 'Site'
+
+[47] link 'Main Page' keyshortcuts: Ctrl+Alt+z
+
+[1450] link 'The map'
+
+[1451] link 'Map Features'
+
+[1452] link 'Contributors'
+
+[1453] link 'Help'
+
+[1454] link 'Blogs'
+
+[1455] link 'Shop'
+
+[1456] link 'Donations'
+
+[1457] link 'Wiki discussion'
+
+[49] link 'Recent changes' keyshortcuts: Ctrl+Alt+r
+
+[50] navigation 'Tools'
+
+[105] heading 'Tools'
+
+[54] link 'What links here' keyshortcuts: Ctrl+Alt+j
+
+[56] link 'Related changes' keyshortcuts: Ctrl+Alt+k
+
+[58] link 'Special pages' keyshortcuts: Ctrl+Alt+q
+
+[60] link 'Printable version' keyshortcuts: Ctrl+Alt+p
+
+[1458] link 'Permanent link'
+
+[1459] link 'Page information'
+
+[1460] link 'Cite this page'
+
+[62] link 'Data item' keyshortcuts: Ctrl+Alt+g</pre><div>
+
+[1] RootWebArea 'Relation: \u202aCarnegie Mellon University\u202c (\u202a2279034\u202c) | OpenStreetMap' focused: True
+
+[110] heading 'OpenStreetMap logo OpenStreetMap'
+
+[115] link 'OpenStreetMap logo OpenStreetMap'
+
+[118] img 'OpenStreetMap logo'
+
+[416] link 'Edit'
+
+[417] button ''
+
+[359] link 'History'
+
+[360] link 'Export'
+
+[421] link 'GPS Traces'
+
+[422] link 'User Diaries'
+
+[423] link 'Communities'
+
+[424] link 'Copyright'
+
+[425] link 'Help'
+
+[426] link 'About'
+
+[368] link 'Log In'
+
+[369] link 'Sign Up'
+
+[574] link 'Where is this?'
+
+[12] textbox 'Search' focused: True required: False
+
+[575] button 'Go'
+
+[514] link 'Find directions between two points'
+
+[471] heading 'Relation: Carnegie Mellon University (2279034)'
+
+[480] button 'Close'
+
+[481] heading 'Version #12'
+
+[488] StaticText '(no comment)'
+
+[515] StaticText 'Edited '
+
+[516] Abbr 'Tue, 16 Nov 2021 01:24:51 +0000'
+
+[577] StaticText 'almost 2 years ago'
+
+[517] StaticText ' by anonymous'
+
+[518] StaticText 'Changeset #'
+
+[519] link '0'
+
+[484] heading 'Tags'
+
+[485] table ''
+
+[520] row ''
+
+[530] rowheader 'amenity' required: False
+
+[579] link 'amenity'
+
+[531] gridcell 'university' required: False
+
+[581] link 'university'
+
+[521] row ''
+
+[532] rowheader 'gnis:county_id' required: False
+
+[533] gridcell '003' required: False
+
+[522] row ''
+
+[534] rowheader 'gnis:created' required: False
+
+[535] gridcell '08/30/1990' required: False
+
+[523] row ''
+
+[536] rowheader 'gnis:feature_id' required: False
+
+[587] link 'gnis:feature_id'
+
+[537] gridcell '1217343' required: False
+
+[524] row ''
+
+[538] rowheader 'gnis:state_id' required: False
+
+[539] gridcell '42' required: False
+
+[525] row ''
+
+[540] rowheader 'name' required: False
+
+[592] link 'name'
+
+[541] gridcell 'Carnegie Mellon University' required: False
+
+[526] row ''
+
+[542] rowheader 'name:ko' required: False
+
+[595] link 'name:ko'
+
+[543] gridcell '카네기 멜론 대학' required: False
+
+[527] row ''
+
+[544] rowheader 'short_name' required: False
+
+[598] link 'short_name'
+
+[545] gridcell 'CMU' required: False
+
+[528] row ''
+
+[546] rowheader 'type' required: False
+
+[601] link 'type'
+
+[547] gridcell 'multipolygon' required: False
+
+[603] link 'multipolygon'
+
+[56] generic 'Zoom In Zoom Out Show My Location Layers Share 100 m 500 ft © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[60] link 'Zoom In'
+
+[61] link 'Zoom Out'
+
+[63] button 'Show My Location'
+
+[65] link 'Layers'
+
+[298] link ''
+
+[67] link 'Share'
+
+[300] link ''
+
+[302] link ''
+
+[307] StaticText '100 m'
+
+[308] StaticText '500 ft'
+
+[310] StaticText '© '
+
+[311] link 'OpenStreetMap contributors'
+
+[312] StaticText ' ♥ '
+
+[313] link 'Make a Donation'
+
+[314] StaticText '. '
+
+[315] link 'Website and API terms'</pre><div>
+
+[1] RootWebArea 'Relation: \u202aCarnegie Mellon University\u202c (\u202a2279034\u202c) | OpenStreetMap' focused: True
+
+[110] heading 'OpenStreetMap logo OpenStreetMap'
+
+[115] link 'OpenStreetMap logo OpenStreetMap'
+
+[118] img 'OpenStreetMap logo'
+
+[416] link 'Edit'
+
+[417] button ''
+
+[359] link 'History'
+
+[360] link 'Export'
+
+[421] link 'GPS Traces'
+
+[422] link 'User Diaries'
+
+[423] link 'Communities'
+
+[424] link 'Copyright'
+
+[425] link 'Help'
+
+[426] link 'About'
+
+[368] link 'Log In'
+
+[369] link 'Sign Up'
+
+[574] link 'Where is this?'
+
+[12] textbox 'Search' focused: True required: False
+
+[575] button 'Go'
+
+[514] link 'Find directions between two points'
+
+[471] heading 'Relation: Carnegie Mellon University (2279034)'
+
+[480] button 'Close'
+
+[481] heading 'Version #12'
+
+[488] StaticText '(no comment)'
+
+[515] StaticText 'Edited '
+
+[516] Abbr 'Tue, 16 Nov 2021 01:24:51 +0000'
+
+[577] StaticText 'almost 2 years ago'
+
+[517] StaticText ' by anonymous'
+
+[518] StaticText 'Changeset #'
+
+[519] link '0'
+
+[484] heading 'Tags'
+
+[485] table ''
+
+[520] row ''
+
+[530] rowheader 'amenity' required: False
+
+[579] link 'amenity'
+
+[531] gridcell 'university' required: False
+
+[581] link 'university'
+
+[521] row ''
+
+[532] rowheader 'gnis:county_id' required: False
+
+[533] gridcell '003' required: False
+
+[522] row ''
+
+[534] rowheader 'gnis:created' required: False
+
+[535] gridcell '08/30/1990' required: False
+
+[523] row ''
+
+[536] rowheader 'gnis:feature_id' required: False
+
+[587] link 'gnis:feature_id'
+
+[537] gridcell '1217343' required: False
+
+[524] row ''
+
+[538] rowheader 'gnis:state_id' required: False
+
+[539] gridcell '42' required: False
+
+[525] row ''
+
+[540] rowheader 'name' required: False
+
+[592] link 'name'
+
+[541] gridcell 'Carnegie Mellon University' required: False
+
+[526] row ''
+
+[542] rowheader 'name:ko' required: False
+
+[595] link 'name:ko'
+
+[543] gridcell '카네기 멜론 대학' required: False
+
+[527] row ''
+
+[544] rowheader 'short_name' required: False
+
+[598] link 'short_name'
+
+[545] gridcell 'CMU' required: False
+
+[528] row ''
+
+[546] rowheader 'type' required: False
+
+[601] link 'type'
+
+[547] gridcell 'multipolygon' required: False
+
+[603] link 'multipolygon'
+
+[56] generic 'Zoom In Zoom Out Show My Location Layers Share 100 m 500 ft © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[60] link 'Zoom In'
+
+[61] link 'Zoom Out'
+
+[63] button 'Show My Location'
+
+[65] link 'Layers'
+
+[298] link ''
+
+[67] link 'Share'
+
+[300] link ''
+
+[302] link ''
+
+[307] StaticText '100 m'
+
+[308] StaticText '500 ft'
+
+[310] StaticText '© '
+
+[311] link 'OpenStreetMap contributors'
+
+[312] StaticText ' ♥ '
+
+[313] link 'Make a Donation'
+
+[314] StaticText '. '
+
+[315] link 'Website and API terms'</pre><div>
+
+[1] RootWebArea 'Carnegie Mellon University | OpenStreetMap' focused: True
+
+[110] heading 'OpenStreetMap logo OpenStreetMap'
+
+[115] link 'OpenStreetMap logo OpenStreetMap'
+
+[118] img 'OpenStreetMap logo'
+
+[416] link 'Edit'
+
+[417] button ''
+
+[359] link 'History'
+
+[360] link 'Export'
+
+[421] link 'GPS Traces'
+
+[422] link 'User Diaries'
+
+[423] link 'Communities'
+
+[424] link 'Copyright'
+
+[425] link 'Help'
+
+[426] link 'About'
+
+[368] link 'Log In'
+
+[369] link 'Sign Up'
+
+[12] textbox 'Search' focused: True required: False
+
+[695] StaticText 'Carnegie Mellon University'
+
+[575] button 'Go'
+
+[514] link 'Find directions between two points'
+
+[665] heading 'Search Results'
+
+[668] button 'Close'
+
+[663] heading 'Results from OpenStreetMap Nominatim'
+
+[670] link 'OpenStreetMap Nominatim'
+
+[679] StaticText 'University '
+
+[680] link 'Carnegie Mellon University, Schenley Drive Extension, North Oakland, Pittsburgh, Allegheny County, 15213, United States'
+
+[682] link 'Carnegie Mellon University, Pittsburgh, Allegheny County, 15213, United States'
+
+[683] StaticText 'University Building '
+
+[684] link 'Carnegie Mellon University, 407, South Craig Street, Bellefield, Pittsburgh, Allegheny County, 15213, United States'
+
+[677] link 'More results'
+
+[56] generic 'Zoom In Zoom Out Show My Location Layers Share 100 m 500 ft © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[60] link 'Zoom In'
+
+[61] link 'Zoom Out'
+
+[63] button 'Show My Location'
+
+[65] link 'Layers'
+
+[298] link ''
+
+[67] link 'Share'
+
+[300] link ''
+
+[302] link ''
+
+[659] StaticText '100 m'
+
+[660] StaticText '500 ft'
+
+[310] StaticText '© '
+
+[311] link 'OpenStreetMap contributors'
+
+[312] StaticText ' ♥ '
+
+[313] link 'Make a Donation'
+
+[314] StaticText '. '
+
+[315] link 'Website and API terms'</pre><div>
+
+[12] and press Enter. In summary, the next action I will perform is `type [12] [restaurants near CMU] [1]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to find the page of the university that has the most Turing Award winners on the map. I performed a "go_back" action, which means I went back to the previous page. I need to perform the search again. I will type "restaurants near CMU" in the search box with ID [12] and press Enter. In summary, the next action I will perform is `type [12] [restaurants near CMU] [1]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Carnegie Mellon University | OpenStreetMap' focused: True
+
+[110] heading 'OpenStreetMap logo OpenStreetMap'
+
+[115] link 'OpenStreetMap logo OpenStreetMap'
+
+[118] img 'OpenStreetMap logo'
+
+[416] link 'Edit'
+
+[417] button ''
+
+[359] link 'History'
+
+[360] link 'Export'
+
+[421] link 'GPS Traces'
+
+[422] link 'User Diaries'
+
+[423] link 'Communities'
+
+[424] link 'Copyright'
+
+[425] link 'Help'
+
+[426] link 'About'
+
+[368] link 'Log In'
+
+[369] link 'Sign Up'
+
+[12] textbox 'Search' focused: True required: False
+
+[695] StaticText 'Carnegie Mellon University'
+
+[575] button 'Go'
+
+[514] link 'Find directions between two points'
+
+[665] heading 'Search Results'
+
+[668] button 'Close'
+
+[663] heading 'Results from OpenStreetMap Nominatim'
+
+[670] link 'OpenStreetMap Nominatim'
+
+[679] StaticText 'University '
+
+[680] link 'Carnegie Mellon University, Schenley Drive Extension, North Oakland, Pittsburgh, Allegheny County, 15213, United States'
+
+[682] link 'Carnegie Mellon University, Pittsburgh, Allegheny County, 15213, United States'
+
+[683] StaticText 'University Building '
+
+[684] link 'Carnegie Mellon University, 407, South Craig Street, Bellefield, Pittsburgh, Allegheny County, 15213, United States'
+
+[677] link 'More results'
+
+[56] generic 'Zoom In Zoom Out Show My Location Layers Share 100 m 500 ft © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[60] link 'Zoom In'
+
+[61] link 'Zoom Out'
+
+[63] button 'Show My Location'
+
+[65] link 'Layers'
+
+[298] link ''
+
+[67] link 'Share'
+
+[300] link ''
+
+[302] link ''
+
+[659] StaticText '100 m'
+
+[660] StaticText '500 ft'
+
+[310] StaticText '© '
+
+[311] link 'OpenStreetMap contributors'
+
+[312] StaticText ' ♥ '
+
+[313] link 'Make a Donation'
+
+[314] StaticText '. '
+
+[315] link 'Website and API terms'</pre><div>
+
+[12] and press Enter. In summary, the next action I will perform is `type [12] [restaurants near CMU] [1]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[12] and press Enter. In summary, the next action I will perform is ```type [12] [restaurants near CMU] [1]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [97, 84, 98, 99, 80, 100, 97, 80, 93, 99, 98, 15, 93, 84, 80, 97, 15, 50, 60, 68, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '12', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'I apologize for the incorrect format. Let\'s think step-by-step. The objective is to find the page of the university that has the most Turing Award winners on the map. I performed a "go_back" action, which means I went back to the previous page. I need to perform the search again. I will type "restaurants near CMU" in the search box with ID [12] and press Enter. In summary, the next action I will perform is ```type [12] [restaurants near CMU] [1]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [12] [restaurants near CMU
+
+[12] is [12] textbox 'Search' focused: True required: False</pre></div></div>
+
+[1] RootWebArea 'Carnegie Mellon Urestaurants near CMUniversity | OpenStreetMap' focused: True
+
+[110] heading 'OpenStreetMap logo OpenStreetMap'
+
+[115] link 'OpenStreetMap logo OpenStreetMap'
+
+[118] img 'OpenStreetMap logo'
+
+[416] link 'Edit'
+
+[417] button ''
+
+[359] link 'History'
+
+[360] link 'Export'
+
+[421] link 'GPS Traces'
+
+[422] link 'User Diaries'
+
+[423] link 'Communities'
+
+[424] link 'Copyright'
+
+[425] link 'Help'
+
+[426] link 'About'
+
+[368] link 'Log In'
+
+[369] link 'Sign Up'
+
+[12] textbox 'Search' focused: True required: False
+
+[720] StaticText 'Carnegie Mellon Urestaurants near CMUniversity'
+
+[575] button 'Go'
+
+[514] link 'Find directions between two points'
+
+[707] heading 'Search Results'
+
+[710] button 'Close'
+
+[705] heading 'Results from OpenStreetMap Nominatim'
+
+[712] link 'OpenStreetMap Nominatim'
+
+[716] StaticText 'No results found'
+
+[56] generic 'Zoom In Zoom Out Show My Location Layers Share 100 m 500 ft © OpenStreetMap contributors ♥ Make a Donation. Website and API terms'
+
+[60] link 'Zoom In'
+
+[61] link 'Zoom Out'
+
+[63] button 'Show My Location'
+
+[65] link 'Layers'
+
+[298] link ''
+
+[67] link 'Share'
+
+[300] link ''
+
+[302] link ''
+
+[701] StaticText '100 m'
+
+[702] StaticText '500 ft'
+
+[310] StaticText '© '
+
+[311] link 'OpenStreetMap contributors'
+
+[312] StaticText ' ♥ '
+
+[313] link 'Make a Donation'
+
+[314] StaticText '. '
+
+[315] link 'Website and API terms'</pre><div>
+
+[12] [restaurants near CMU
+
+[12] is textbox 'Search' focused: True required: False</div>
+

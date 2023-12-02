@@ -1,0 +1,35 @@
+Tab 0 (current): crew · Search · GitLab
+
+[5567] RootWebArea 'crew · Search · GitLab' focused: True
+	[5617] link 'Skip to content'
+	[5729] link 'Dashboard'
+	[5785] button '' hasPopup: menu expanded: False
+	[5791] link 'Create new...'
+	[5793] link 'Issues'
+		[5948] generic '13 assigned issues'
+	[5794] link 'Merge requests'
+		[5950] generic '8 merge requests'
+	[5796] link 'To-Do List'
+		[5966] generic 'Todos count'
+	[5797] link 'Help'
+	[5799] link 'Byte Blaze'
+		[6000] img 'Byte Blaze'
+	[5573] main ''
+		[5719] heading 'Search'
+		[5766] StaticText 'What are you searching for?'
+		[5578] group ''
+			[5579] searchbox 'Search for projects, issues, etc.'
+				[6038] StaticText 'crew'
+			[5767] button 'Clear'
+			[5807] button 'Search'
+		[5770] StaticText 'Group'
+		[5771] button 'Any' hasPopup: menu expanded: False
+		[5773] StaticText 'Project'
+		[5774] button 'Any' hasPopup: menu expanded: False
+		[5721] separator '' orientation: horizontal
+		[6051] link 'Projects 0'
+		[6052] link 'Issues 2'
+		[6053] link 'Merge requests 31'
+		[6054] link 'Milestones 0'
+		[6055] link 'Users 0'
+		[5778] heading " We couldn't find any projects matching crew"</pre><div>

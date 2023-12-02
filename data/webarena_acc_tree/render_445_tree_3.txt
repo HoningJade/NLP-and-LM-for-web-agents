@@ -1,0 +1,76 @@
+Tab 0 (current): Find File · main · Byte Blaze / gimmiethat.space · GitLab
+
+[2000] RootWebArea 'Find File · main · Byte Blaze / gimmiethat.space · GitLab' focused: True
+	[2059] link 'Skip to content'
+	[2203] link 'Dashboard'
+	[2290] button '' hasPopup: menu expanded: False
+	[2021] textbox 'Search GitLab' required: False
+	[2949] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[2296] link 'Create new...'
+	[2298] link 'Issues'
+		[2488] generic '13 assigned issues'
+	[2299] link 'Merge requests'
+		[2490] generic '8 merge requests'
+	[2301] link 'To-Do List'
+		[2506] generic 'Todos count'
+	[2302] link 'Help'
+	[2304] link 'Byte Blaze'
+		[2540] img 'Byte Blaze'
+	[2060] complementary 'Project navigation'
+		[2236] listitem 'gimmiethat.space'
+			[2306] link 'gimmiethat.space'
+				[2581] StaticText 'G'
+		[2307] link 'Project information'
+		[2309] link 'Repository'
+		[2989] link 'Files'
+		[2990] link 'Commits'
+		[2991] link 'Branches'
+		[2992] link 'Tags'
+		[2993] link 'Contributors'
+		[2994] link 'Graph'
+		[2995] link 'Compare'
+		[2311] link 'Issues'
+			[2622] StaticText '0'
+		[2313] link 'Merge requests'
+		[2315] link 'CI/CD'
+		[2317] link 'Security & Compliance'
+		[2319] link 'Deployments'
+		[2321] link 'Packages and registries'
+		[2323] link 'Infrastructure'
+		[2325] link 'Monitor'
+		[2327] link 'Analytics'
+		[2329] link 'Wiki'
+		[2191] button 'Collapse sidebar'
+	[2064] navigation 'Breadcrumbs'
+		[2350] link 'Byte Blaze'
+		[2352] link 'gimmiethat.space'
+		[2354] link 'main'
+	[2006] main ''
+		[2355] button 'main'
+		[2356] link 'gimmiethat.space'
+		[2011] textbox 'Find by path' focused: True required: False
+		[2198] table ''
+			[2358] row ''
+				[2366] gridcell '.editorconfig' required: False
+					[2908] link '.editorconfig'
+			[2359] row ''
+				[2367] gridcell '.gitignore' required: False
+					[2912] link '.gitignore'
+			[2360] row ''
+				[2368] gridcell '.htmlhintrc' required: False
+					[2916] link '.htmlhintrc'
+			[2361] row ''
+				[2369] gridcell '.stylelintrc' required: False
+					[2920] link '.stylelintrc'
+			[2362] row ''
+				[2370] gridcell 'AUTHORS' required: False
+					[2924] link 'AUTHORS'
+			[2363] row ''
+				[2371] gridcell 'LICENSE' required: False
+					[2928] link 'LICENSE'
+			[2364] row ''
+				[2372] gridcell 'index.html' required: False
+					[2932] link 'index.html'
+			[2365] row ''
+				[2373] gridcell 'package.json' required: False
+					[2936] link 'package.json'</pre><div>

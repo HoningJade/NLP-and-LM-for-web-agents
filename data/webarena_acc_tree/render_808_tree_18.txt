@@ -1,0 +1,14 @@
+Tab 1 (current): Just a moment...
+
+[1] RootWebArea 'Just a moment...'
+	[4] main ''
+		[8] heading 'Icon for gitlab.com gitlab.com'
+			[15] img 'Icon for gitlab.com'
+		[9] heading 'Checking if the site connection is secure'
+		[42] Iframe 'Widget containing a Cloudflare security challenge'
+		[24] StaticText 'gitlab.com needs to review the security of your connection before proceeding.'
+	[5] contentinfo ''
+		[35] StaticText 'Ray ID: '
+		[37] StaticText '80455f15df7c0a13'
+		[38] StaticText 'Performance & security by '
+		[39] link 'Cloudflare'</pre><div>

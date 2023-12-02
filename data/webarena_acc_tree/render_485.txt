@@ -1,0 +1,714 @@
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[270] link 'Skip to content'
+
+[386] link 'Dashboard'
+
+[462] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1733] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[468] link 'Create new...'
+
+[470] link 'Issues'
+
+[1298] generic '13 assigned issues'
+
+[471] link 'Merge requests'
+
+[1300] generic '8 merge requests'
+
+[473] link 'To-Do List'
+
+[1316] generic 'Todos count'
+
+[1754] StaticText '5'
+
+[474] link 'Help'
+
+[476] link 'Byte Blaze'
+
+[1350] img 'Byte Blaze'
+
+[17] main ''
+
+[371] heading 'Projects'
+
+[374] link 'New project'
+
+[478] link 'Yours 18'
+
+[479] link 'Starred 3'
+
+[480] link 'Explore'
+
+[481] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[438] button 'Name'
+
+[525] link 'All'
+
+[526] link 'Personal'
+
+[527] link 'A'
+
+[530] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[533] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[531] generic 'Public - The project can be accessed without any authentication.'
+
+[539] StaticText 'Owner'
+
+[1406] generic 'lipstick'
+
+[1764] StaticText '💄'
+
+[1407] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[551] link '1'
+
+[552] link '0'
+
+[553] link '0'
+
+[554] link '1'
+
+[563] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[564] StaticText '5 months ago'
+
+[565] link 'A'
+
+[568] heading 'Byte Blaze / a11y-webring.club'
+
+[571] link 'Byte Blaze / a11y-webring.club'
+
+[569] generic 'Public - The project can be accessed without any authentication.'
+
+[577] StaticText 'Owner'
+
+[1425] generic 'globe with meridians'
+
+[1765] StaticText '🌐'
+
+[1426] StaticText ' A webring for digital accessibility practitioners.'
+
+[589] link '2'
+
+[590] link '0'
+
+[591] link '1'
+
+[592] link '4'
+
+[601] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[602] StaticText '5 months ago'
+
+[603] link 'A'
+
+[606] heading 'The A11Y Project / a11yproject.com'
+
+[609] link 'The A11Y Project / a11yproject.com'
+
+[607] generic 'Public - The project can be accessed without any authentication.'
+
+[615] StaticText 'Maintainer'
+
+[1444] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[627] link '21'
+
+[628] link '0'
+
+[629] link '10'
+
+[630] link '40'
+
+[639] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[640] StaticText '5 months ago'
+
+[641] link 'A'
+
+[644] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[647] link 'Byte Blaze / accessible-html-content-patterns'
+
+[645] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[653] StaticText 'Owner'
+
+[1462] generic 'wheelchair symbol'
+
+[1766] StaticText '♿'
+
+[1463] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[665] link '1'
+
+[666] link '0'
+
+[667] link '0'
+
+[668] link '0'
+
+[677] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[678] StaticText '5 months ago'
+
+[679] link ''
+
+[682] heading 'Byte Blaze / cloud-to-butt'
+
+[685] link 'Byte Blaze / cloud-to-butt'
+
+[683] generic 'Public - The project can be accessed without any authentication.'
+
+[691] StaticText 'Owner'
+
+[703] link '0'
+
+[704] link '0'
+
+[705] link '0'
+
+[706] link '0'
+
+[715] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[716] StaticText '5 months ago'
+
+[717] link 'D'
+
+[720] heading 'Primer / design'
+
+[723] link 'Primer / design'
+
+[721] generic 'Public - The project can be accessed without any authentication.'
+
+[729] StaticText 'Developer'
+
+[1498] StaticText 'Primer Design Guidelines'
+
+[741] link '21'
+
+[742] link '0'
+
+[743] link '16'
+
+[744] link '21'
+
+[753] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[754] StaticText '5 months ago'
+
+[755] link 'D'
+
+[757] heading 'Byte Blaze / Do it myself'
+
+[760] link 'Byte Blaze / Do it myself'
+
+[758] generic 'Public - The project can be accessed without any authentication.'
+
+[766] StaticText 'Owner'
+
+[777] link '0'
+
+[778] link '0'
+
+[779] link '0'
+
+[780] link '0'
+
+[789] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[790] StaticText '1 day ago'</pre><div>
+
+[13]. I will start by typing the name of the repo and then press Enter to search. In summary, the next action I will perform is `type [13] [dotfile configurations] [1]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page is the GitLab dashboard. To invite Vinta as a guest to the repo, I need to navigate to the repo and invite him. The repo we're looking for is likely not visible on the current page, so we need to filter the projects by name. The search box has an ID of [13]. I will start by typing the name of the repo and then press Enter to search. In summary, the next action I will perform is `type [13] [dotfile configurations] [1]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[270] link 'Skip to content'
+
+[386] link 'Dashboard'
+
+[462] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1733] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[468] link 'Create new...'
+
+[470] link 'Issues'
+
+[1298] generic '13 assigned issues'
+
+[471] link 'Merge requests'
+
+[1300] generic '8 merge requests'
+
+[473] link 'To-Do List'
+
+[1316] generic 'Todos count'
+
+[1754] StaticText '5'
+
+[474] link 'Help'
+
+[476] link 'Byte Blaze'
+
+[1350] img 'Byte Blaze'
+
+[17] main ''
+
+[371] heading 'Projects'
+
+[374] link 'New project'
+
+[478] link 'Yours 18'
+
+[479] link 'Starred 3'
+
+[480] link 'Explore'
+
+[481] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[438] button 'Name'
+
+[525] link 'All'
+
+[526] link 'Personal'
+
+[527] link 'A'
+
+[530] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[533] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[531] generic 'Public - The project can be accessed without any authentication.'
+
+[539] StaticText 'Owner'
+
+[1406] generic 'lipstick'
+
+[1764] StaticText '💄'
+
+[1407] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[551] link '1'
+
+[552] link '0'
+
+[553] link '0'
+
+[554] link '1'
+
+[563] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[564] StaticText '5 months ago'
+
+[565] link 'A'
+
+[568] heading 'Byte Blaze / a11y-webring.club'
+
+[571] link 'Byte Blaze / a11y-webring.club'
+
+[569] generic 'Public - The project can be accessed without any authentication.'
+
+[577] StaticText 'Owner'
+
+[1425] generic 'globe with meridians'
+
+[1765] StaticText '🌐'
+
+[1426] StaticText ' A webring for digital accessibility practitioners.'
+
+[589] link '2'
+
+[590] link '0'
+
+[591] link '1'
+
+[592] link '4'
+
+[601] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[602] StaticText '5 months ago'
+
+[603] link 'A'
+
+[606] heading 'The A11Y Project / a11yproject.com'
+
+[609] link 'The A11Y Project / a11yproject.com'
+
+[607] generic 'Public - The project can be accessed without any authentication.'
+
+[615] StaticText 'Maintainer'
+
+[1444] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[627] link '21'
+
+[628] link '0'
+
+[629] link '10'
+
+[630] link '40'
+
+[639] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[640] StaticText '5 months ago'
+
+[641] link 'A'
+
+[644] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[647] link 'Byte Blaze / accessible-html-content-patterns'
+
+[645] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[653] StaticText 'Owner'
+
+[1462] generic 'wheelchair symbol'
+
+[1766] StaticText '♿'
+
+[1463] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[665] link '1'
+
+[666] link '0'
+
+[667] link '0'
+
+[668] link '0'
+
+[677] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[678] StaticText '5 months ago'
+
+[679] link ''
+
+[682] heading 'Byte Blaze / cloud-to-butt'
+
+[685] link 'Byte Blaze / cloud-to-butt'
+
+[683] generic 'Public - The project can be accessed without any authentication.'
+
+[691] StaticText 'Owner'
+
+[703] link '0'
+
+[704] link '0'
+
+[705] link '0'
+
+[706] link '0'
+
+[715] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[716] StaticText '5 months ago'
+
+[717] link 'D'
+
+[720] heading 'Primer / design'
+
+[723] link 'Primer / design'
+
+[721] generic 'Public - The project can be accessed without any authentication.'
+
+[729] StaticText 'Developer'
+
+[1498] StaticText 'Primer Design Guidelines'
+
+[741] link '21'
+
+[742] link '0'
+
+[743] link '16'
+
+[744] link '21'
+
+[753] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[754] StaticText '5 months ago'
+
+[755] link 'D'
+
+[757] heading 'Byte Blaze / Do it myself'
+
+[760] link 'Byte Blaze / Do it myself'
+
+[758] generic 'Public - The project can be accessed without any authentication.'
+
+[766] StaticText 'Owner'
+
+[777] link '0'
+
+[778] link '0'
+
+[779] link '0'
+
+[780] link '0'
+
+[789] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[790] StaticText '1 day ago'</pre><div>
+
+[13]. I will start by typing the name of the repo and then press Enter to search. In summary, the next action I will perform is `type [13] [dotfile configurations] [1]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[13] [dotfile configurations] [1]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [83, 94, 99, 85, 88, 91, 84, 15, 82, 94, 93, 85, 88, 86, 100, 97, 80, 99, 88, 94, 93, 98, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '13', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```type [13] [dotfile configurations] [1]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [13] [dotfile configurations
+
+[13] is [13] textbox 'Search GitLab' required: False</pre></div></div>
+
+[1798] RootWebArea 'dotfile configurations · Search · GitLab' focused: True
+
+[1848] link 'Skip to content'
+
+[1960] link 'Dashboard'
+
+[2016] button '' hasPopup: menu expanded: False
+
+[2022] link 'Create new...'
+
+[2024] link 'Issues'
+
+[2179] generic '13 assigned issues'
+
+[2025] link 'Merge requests'
+
+[2181] generic '8 merge requests'
+
+[2027] link 'To-Do List'
+
+[2197] generic 'Todos count'
+
+[2310] StaticText '5'
+
+[2028] link 'Help'
+
+[2030] link 'Byte Blaze'
+
+[2231] img 'Byte Blaze'
+
+[1804] main ''
+
+[1950] heading 'Search'
+
+[1997] StaticText 'What are you searching for?'
+
+[1809] group ''
+
+[1810] searchbox 'Search for projects, issues, etc.'
+
+[2269] StaticText 'dotfile configurations'
+
+[1998] button 'Clear'
+
+[2038] button 'Search'
+
+[2001] StaticText 'Group'
+
+[2002] button 'Any' hasPopup: menu expanded: False
+
+[2004] StaticText 'Project'
+
+[2005] button 'Any' hasPopup: menu expanded: False
+
+[1952] separator '' orientation: horizontal
+
+[2282] link 'Projects 0'
+
+[2283] link 'Issues 3'
+
+[2284] link 'Merge requests 0'
+
+[2285] link 'Milestones 0'
+
+[2286] link 'Users 0'
+
+[2009] heading " We couldn't find any projects matching dotfile configurations"</pre><div>
+
+[13] [dotfile configurations
+
+[13] is textbox 'Search GitLab' required: False</div>
+
+[2282]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to invite Vinta to the repo as a guest. We are currently on the GitLab search page, and we have already typed "dotfile configurations" in the search box. Now we need to click on the "Projects" link to see the search results and find the repo we want. In summary, the next action I will perform is `click [2282]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1798] RootWebArea 'dotfile configurations · Search · GitLab' focused: True
+
+[1848] link 'Skip to content'
+
+[1960] link 'Dashboard'
+
+[2016] button '' hasPopup: menu expanded: False
+
+[2022] link 'Create new...'
+
+[2024] link 'Issues'
+
+[2179] generic '13 assigned issues'
+
+[2025] link 'Merge requests'
+
+[2181] generic '8 merge requests'
+
+[2027] link 'To-Do List'
+
+[2197] generic 'Todos count'
+
+[2310] StaticText '5'
+
+[2028] link 'Help'
+
+[2030] link 'Byte Blaze'
+
+[2231] img 'Byte Blaze'
+
+[1804] main ''
+
+[1950] heading 'Search'
+
+[1997] StaticText 'What are you searching for?'
+
+[1809] group ''
+
+[1810] searchbox 'Search for projects, issues, etc.'
+
+[2269] StaticText 'dotfile configurations'
+
+[1998] button 'Clear'
+
+[2038] button 'Search'
+
+[2001] StaticText 'Group'
+
+[2002] button 'Any' hasPopup: menu expanded: False
+
+[2004] StaticText 'Project'
+
+[2005] button 'Any' hasPopup: menu expanded: False
+
+[1952] separator '' orientation: horizontal
+
+[2282] link 'Projects 0'
+
+[2283] link 'Issues 3'
+
+[2284] link 'Merge requests 0'
+
+[2285] link 'Milestones 0'
+
+[2286] link 'Users 0'
+
+[2009] heading " We couldn't find any projects matching dotfile configurations"</pre><div>
+
+[2282]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[2282]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2282', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to invite Vinta to the repo as a guest. We are currently on the GitLab search page, and we have already typed "dotfile configurations" in the search box. Now we need to click on the "Projects" link to see the search results and find the repo we want. In summary, the next action I will perform is ```click [2282]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2282] where [2282] is [2282] link 'Projects 0'</pre></div></div>
+
+[2340] RootWebArea 'dotfile configurations · Search · GitLab' focused: True
+
+[2390] link 'Skip to content'
+
+[2502] link 'Dashboard'
+
+[2558] button '' hasPopup: menu expanded: False
+
+[2564] link 'Create new...'
+
+[2566] link 'Issues'
+
+[2721] generic '13 assigned issues'
+
+[2567] link 'Merge requests'
+
+[2723] generic '8 merge requests'
+
+[2569] link 'To-Do List'
+
+[2739] generic 'Todos count'
+
+[2570] link 'Help'
+
+[2572] link 'Byte Blaze'
+
+[2773] img 'Byte Blaze'
+
+[2346] main ''
+
+[2492] heading 'Search'
+
+[2539] StaticText 'What are you searching for?'
+
+[2351] group ''
+
+[2352] searchbox 'Search for projects, issues, etc.'
+
+[2811] StaticText 'dotfile configurations'
+
+[2540] button 'Clear'
+
+[2580] button 'Search'
+
+[2543] StaticText 'Group'
+
+[2544] button 'Any' hasPopup: menu expanded: False
+
+[2546] StaticText 'Project'
+
+[2547] button 'Any' hasPopup: menu expanded: False
+
+[2494] separator '' orientation: horizontal
+
+[2824] link 'Projects 0'
+
+[2825] link 'Issues 3'
+
+[2826] link 'Merge requests 0'
+
+[2827] link 'Milestones 0'
+
+[2828] link 'Users 0'
+
+[2551] heading " We couldn't find any projects matching dotfile configurations"</pre><div>
+
+[2282] where [2282] is link 'Projects 0'</div>
+

@@ -1,0 +1,7 @@
+Tab 1 (current): groups.example.com
+
+[68] RootWebArea 'groups.example.com' focused: True
+	[93] heading 'This site can’t be reached'
+	[95] StaticText 'Check if there is a typo in '
+	[132] StaticText 'DNS_PROBE_FINISHED_NXDOMAIN'
+	[104] button 'Reload'</pre><div>

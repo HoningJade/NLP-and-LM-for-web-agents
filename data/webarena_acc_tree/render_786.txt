@@ -1,0 +1,216 @@
+[1] RootWebArea 'Vinta Chen / awesome-python · GitLab' focused: True
+
+[91] link 'Skip to content'
+
+[260] link 'Dashboard'
+
+[384] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1155] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[390] link 'Create new...'
+
+[392] link 'Issues'
+
+[690] generic '13 assigned issues'
+
+[393] link 'Merge requests'
+
+[692] generic '8 merge requests'
+
+[395] link 'To-Do List'
+
+[708] generic 'Todos count'
+
+[396] link 'Help'
+
+[398] link 'Byte Blaze'
+
+[742] img 'Byte Blaze'
+
+[92] complementary 'Project navigation'
+
+[293] listitem 'awesome-python'
+
+[400] link 'awesome-python'
+
+[783] StaticText 'A'
+
+[401] link 'Project information'
+
+[403] link 'Repository'
+
+[405] link 'Issues'
+
+[848] StaticText '13'
+
+[407] link 'Merge requests'
+
+[877] StaticText '317'
+
+[409] link 'CI/CD'
+
+[411] link 'Deployments'
+
+[413] link 'Packages and registries'
+
+[415] link 'Monitor'
+
+[417] link 'Analytics'
+
+[419] link 'Wiki'
+
+[421] link 'Snippets'
+
+[213] button 'Collapse sidebar'
+
+[96] alert '' live: assertive atomic: True relevant: additions text
+
+[99] button 'Dismiss'
+
+[100] alert '' live: assertive atomic: True relevant: additions text
+
+[324] link 'Add SSH key'
+
+[325] button "Don't show again"
+
+[97] navigation 'Breadcrumbs'
+
+[438] link 'Vinta Chen'
+
+[440] link 'awesome-python'
+
+[17] main ''
+
+[337] StaticText 'A'
+
+[230] heading 'awesome-python Public - The project can be accessed without any authentication.'
+
+[233] generic 'Public - The project can be accessed without any authentication.'
+
+[236] StaticText 'Project ID: 84 '
+
+[237] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[239] link 'Request Access'
+
+[343] button '' hasPopup: menu expanded: False
+
+[242] button 'Star'
+
+[243] link '29'
+
+[348] link 'Fork'
+
+[245] link '0'
+
+[536] link '1,632 Commits'
+
+[537] link '318 Branches'
+
+[538] link '0 Tags'
+
+[1022] StaticText '37.6 MB'
+
+[1018] StaticText ' Project Storage'
+
+[251] StaticText 'A curated list of awesome Python frameworks, libraries, software and resources'
+
+[253] generic '<span class="repository-language-bar-tooltip-language">Python</span>&nbsp;<span class="repository-language-bar-tooltip-share">92.6%</span>'
+
+[254] generic '<span class="repository-language-bar-tooltip-language">Makefile</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.4%</span>'
+
+[361] img 'user avatar'
+
+[365] link 'Merge pull request #2297 from hofrob/remove-abandoned-project-pyannotate'
+
+[368] StaticText 'Vinta Chen authored '
+
+[369] time 'Jan 5, 2023 7:29am EST'
+
+[540] StaticText '8 months ago'
+
+[372] button 'Unverified'
+
+[371] group ''
+
+[543] StaticText '091e9e6c'
+
+[374] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[1026] button 'master' hasPopup: menu expanded: False
+
+[77] navigation 'Files breadcrumb'
+
+[1512] link 'awesome-python'
+
+[1665] button 'Add to tree' hasPopup: menu expanded: False
+
+[546] link 'Find file'
+
+[551] link 'Web IDE'
+
+[552] button 'Download'
+
+[1033] StaticText 'Select Archive Format'
+
+[554] link 'Clone'
+
+[577] link 'README'
+
+[578] link 'LICENSE'
+
+[579] link 'CONTRIBUTING'
+
+[46] table 'Files, directories, and submodules in the path / for commit reference master' live: polite atomic: False relevant: additions text
+
+[1093] row ''
+
+[1094] columnheader 'Name' required: False
+
+[1095] columnheader 'Last commit' required: False
+
+[1096] columnheader 'Last update' required: False
+
+[1097] row ''
+
+[1108] gridcell '.github' required: False
+
+[1535] link '.github'
+
+[1109] gridcell 'cleanup' required: False
+
+[1541] link 'cleanup'
+
+[1110] gridcell '2 years ago' required: False
+
+[1544] time 'Oct 30, 2020 4:50pm EDT'
+
+[1098] row ''
+
+[1111] gridcell 'docs' required: False
+
+[1546] link 'docs'
+
+[1112] gridcell 'Removed dead css' required: False
+
+[1552] link 'Removed dead css'
+
+[1113] gridcell '4 years ago' required: False
+
+[1555] time 'Mar 3, 2019 3:30am EST'
+
+[1099] row ''
+
+[1114] gridcell '.gitignore' required: False
+
+[1557] link '.gitignore'
+
+[1115] gridcell 'Sort readme and add to docs build' required: False
+
+[1563] link 'Sort readme and add to docs build'
+
+[1116] gridcell '3 years ago' required: False</pre><div>
+

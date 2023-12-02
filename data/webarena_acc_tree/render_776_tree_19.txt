@@ -1,0 +1,92 @@
+Tab 0 (current): Dashboard / Magento Admin
+
+[5589] RootWebArea 'Dashboard / Magento Admin' focused: True
+	[5774] link 'Magento Admin Panel'
+		[5796] img 'Magento Admin Panel'
+	[5679] menubar '' orientation: horizontal
+		[5681] link '\ue604 DASHBOARD'
+		[5684] link '\ue60b SALES'
+		[5690] link '\ue608 CATALOG'
+		[5696] link '\ue603 CUSTOMERS'
+		[5702] link '\ue609 MARKETING'
+		[5708] link '\ue602 CONTENT'
+		[5714] link '\ue60a REPORTS'
+		[5732] link '\ue60d STORES'
+		[5738] link '\ue610 SYSTEM'
+		[5744] link '\ue612 FIND PARTNERS & EXTENSIONS'
+	[6414] button 'System Messages: 2'
+	[6497] StaticText 'One or more of the Cache Types are invalidated: Page Cache, Layouts. Please go to '
+	[6498] link 'Cache Management'
+	[6499] StaticText ' and refresh cache types.'
+	[5834] heading 'Dashboard'
+	[5836] link '\ue600 admin'
+	[5838] link '\ue607'
+	[5768] textbox '\ue60c' required: False
+	[5642] main ''
+		[5813] StaticText 'Scope:'
+		[5843] button 'All Store Views' hasPopup: menu
+		[5846] link '\ue633 What is this?'
+		[5820] button 'Reload Data'
+		[6507] HeaderAsNonLandmark ''
+			[6509] StaticText 'Advanced Reporting'
+		[6511] link 'Go to Advanced Reporting \ue644'
+		[6514] StaticText 'Chart is disabled. To enable the chart, click '
+		[6515] link 'here'
+		[6743] StaticText 'Revenue'
+		[6643] StaticText '$0.00'
+		[6744] StaticText 'Tax'
+		[6745] StaticText 'Shipping'
+		[6746] StaticText 'Quantity'
+		[6657] StaticText '0'
+		[5651] tablist '' multiselectable: False orientation: horizontal
+			[5653] tab 'The information in this tab has been changed. This tab contains invalid data. Please resolve this before saving. Loading... Bestsellers' expanded: True selected: True controls: grid_tab_ordered_products_content
+				[5661] link 'The information in this tab has been changed. This tab contains invalid data. Please resolve this before saving. Loading... Bestsellers'
+					[6563] generic 'The information in this tab has been changed.'
+					[6564] generic 'This tab contains invalid data. Please resolve this before saving.'
+					[6565] generic 'Loading...'
+					[6566] StaticText 'Bestsellers'
+			[5655] tab 'The information in this tab has been changed. This tab contains invalid data. Please resolve this before saving. Loading... Most Viewed Products' expanded: False selected: False controls: ui-id-1
+				[5663] link 'The information in this tab has been changed. This tab contains invalid data. Please resolve this before saving. Loading... Most Viewed Products'
+					[6660] generic 'The information in this tab has been changed.'
+					[6661] generic 'This tab contains invalid data. Please resolve this before saving.'
+					[6662] generic 'Loading...'
+					[6663] StaticText 'Most Viewed Products'
+			[5657] tab 'The information in this tab has been changed. This tab contains invalid data. Please resolve this before saving. Loading... New Customers' expanded: False selected: False controls: ui-id-2
+				[5665] link 'The information in this tab has been changed. This tab contains invalid data. Please resolve this before saving. Loading... New Customers'
+					[6666] generic 'The information in this tab has been changed.'
+					[6667] generic 'This tab contains invalid data. Please resolve this before saving.'
+					[6668] generic 'Loading...'
+					[6669] StaticText 'New Customers'
+			[5659] tab 'The information in this tab has been changed. This tab contains invalid data. Please resolve this before saving. Loading... Customers' expanded: False selected: False controls: ui-id-3
+				[5667] link 'The information in this tab has been changed. This tab contains invalid data. Please resolve this before saving. Loading... Customers'
+					[6672] generic 'The information in this tab has been changed.'
+					[6673] generic 'This tab contains invalid data. Please resolve this before saving.'
+					[6674] generic 'Loading...'
+					[6675] StaticText 'Customers'
+		[5673] tabpanel 'The information in this tab has been changed. This tab contains invalid data. Please resolve this before saving. Loading... Bestsellers'
+			[6677] table ''
+				[6747] row ''
+					[6748] columnheader 'Product' required: False
+					[6749] columnheader 'Price' required: False
+					[6750] columnheader 'Quantity' required: False
+				[6751] row 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:7780/admin/catalog/product/edit/id/20/'
+					[6756] gridcell 'Quest Lumaflex™ Band' required: False
+					[6757] gridcell '$19.00' required: False
+					[6758] gridcell '6' required: False
+		[6520] StaticText 'Lifetime Sales'
+		[6523] StaticText '$0.00'
+		[6527] StaticText 'Average Order'
+		[6534] StaticText 'Last Orders'
+		[6535] table ''
+			[6568] row ''
+				[6569] columnheader 'Customer' required: False
+				[6570] columnheader 'Items' required: False
+				[6571] columnheader 'Total' required: False
+			[6572] row 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:7780/admin/sales/order/view/order_id/299/'
+				[6577] gridcell 'Sarah Miller' required: False
+				[6578] gridcell '5' required: False
+				[6579] gridcell '$194.40' required: False
+			[6573] row 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:7780/admin/sales/order/view/order_id/65/'
+				[6580] gridcell 'Grace Nguyen' required: False
+				[6581] gridcell '4' required: False
+				[6582] gridcell '$190.00' required: False</pre><div>

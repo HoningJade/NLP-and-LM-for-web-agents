@@ -1,0 +1,76 @@
+Tab 0 (current): Edit Profile · User Settings · GitLab
+
+[4919] RootWebArea 'Edit Profile · User Settings · GitLab' focused: True
+	[5027] link 'Skip to content'
+	[5175] link 'Dashboard'
+	[5279] button '' hasPopup: menu expanded: False
+	[4931] textbox 'Search GitLab' required: False
+	[5781] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[5285] link 'Create new...'
+	[5287] link 'Issues'
+		[5533] generic '13 assigned issues'
+	[5288] link 'Merge requests'
+		[5535] generic '8 merge requests'
+	[5290] link 'To-Do List'
+		[5551] generic 'Todos count'
+	[5291] link 'Help'
+	[5293] link 'Byte Blazea11yproject.contributor.me'
+		[5585] img 'Byte Blazea11yproject.contributor.me'
+	[5028] complementary 'User settings'
+		[5208] link 'Byte Blazea11yproject.contributor.me User Settings'
+			[5295] img 'Byte Blazea11yproject.contributor.me'
+		[5298] link 'Profile'
+		[5300] link 'Account'
+		[5302] link 'Applications'
+		[5304] link 'Chat'
+		[5306] link 'Access Tokens'
+		[5308] link 'Emails'
+		[5310] link 'Password'
+		[5312] link 'Notifications'
+		[5314] link 'SSH Keys'
+		[5316] link 'GPG Keys'
+		[5318] link 'Preferences'
+		[5320] link 'Active Sessions'
+		[5322] link 'Authentication log'
+		[5133] button 'Collapse sidebar'
+	[5032] navigation 'Breadcrumbs'
+		[5327] link 'User Settings'
+		[5329] link 'Edit Profile'
+	[4935] main ''
+		[5000] searchbox 'Search page'
+		[5251] heading 'Public avatar'
+		[5331] StaticText 'You can upload your avatar here or change it at '
+		[5332] link 'gravatar.com'
+		[5333] link ''
+		[5254] heading 'Upload new avatar'
+		[5335] button 'Choose file...'
+		[5340] StaticText 'No file chosen.'
+		[5344] StaticText 'The maximum file size allowed is 200KB.'
+		[5257] separator '' orientation: horizontal
+		[5260] heading 'Current status'
+		[5346] StaticText 'This emoji and message will appear on your profile and throughout the interface.'
+		[4941] group ''
+			[5004] button '💬' hasPopup: menu expanded: False
+				[5007] generic 'speech balloon'
+			[4942] textbox "What's your status?" required: False
+				[5851] StaticText 'https://egg.tart.com/https://egg.tart.com/https://egg.tart.com/'
+			[5742] button 'Clear status'
+		[4944] checkbox 'Set yourself as busy Displays that you are busy or not able to respond' checked: false
+		[4994] group 'Clear status after'
+			[4995] group 'Clear status after'
+				[5855] button 'Never' hasPopup: menu expanded: False
+		[5262] separator '' orientation: horizontal
+		[5265] heading 'Time settings'
+		[5356] StaticText 'Set your local time zone.'
+		[5357] StaticText 'Time zone'
+		[5359] button 'Select timezone' hasPopup: menu expanded: False
+		[5268] separator '' orientation: horizontal
+		[5270] heading 'Main settings'
+		[5361] StaticText 'This information will appear on your profile.'
+		[5752] StaticText 'Full name'
+		[4949] textbox 'Full name' required: True
+			[5859] StaticText 'Byte Blazea11yproject.contributor.me'
+		[5755] StaticText 'Enter your name, so people you know can recognize you.'
+		[5756] StaticText 'User ID'
+		[4951] textbox 'User ID' required: False
+			[5860] StaticText '2330'</pre><div>

@@ -1,0 +1,68 @@
+Tab 0 (current): Clothing, Shoes & Jewelry
+
+[18752] RootWebArea 'Clothing, Shoes & Jewelry' focused: True
+	[20011] link 'My Account'
+	[20009] link 'My Wish List'
+	[20013] link 'Sign Out'
+	[20016] StaticText 'Welcome to One Stop Market'
+	[19953] link 'Skip to Content'
+	[19962] link 'store logo'
+		[20019] img 'one_stop_market_logo'
+	[20020] link '\ue611 My Cart'
+	[20947] StaticText 'Search'
+	[18763] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+	[20950] link 'Advanced Search'
+	[20194] button 'Search' disabled: True
+	[19853] tablist '' multiselectable: False orientation: horizontal
+		[19855] tabpanel ''
+			[18797] menu '' orientation: vertical
+				[19548] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+				[19613] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+				[19623] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+				[19637] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+				[19674] menuitem '\ue622 Office Products' hasPopup: menu
+				[19682] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+				[19687] menuitem '\ue622 Health & Household' hasPopup: menu
+				[19693] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+				[19698] menuitem '\ue622 Electronics' hasPopup: menu
+				[19759] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+				[19774] menuitem '\ue622 Video Games' hasPopup: menu
+				[19787] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+	[19984] link 'Home '
+	[19987] StaticText 'Clothing, Shoes & Jewelry'
+	[18764] main ''
+		[19988] heading 'Clothing, Shoes & Jewelry Items 1-12 of 20923'
+		[20043] StaticText 'View as'
+		[20041] strong 'Grid'
+		[20042] link 'View as \ue60b List'
+		[20027] StaticText 'Items '
+		[20030] StaticText '-'
+		[20032] StaticText '12'
+		[20033] StaticText ' of '
+		[20035] StaticText '20923'
+		[20139] StaticText 'Sort By'
+		[18787] combobox 'Sort By' hasPopup: menu expanded: False
+		[20051] link '\ue613 Set Descending Direction'
+		[20899] link 'Image'
+			[20953] img 'Image'
+		[20901] link 'Image'
+			[20966] img 'Image'
+		[20903] link 'Image'
+			[20979] img 'Image'
+		[20905] link 'Image'
+			[20995] img 'Image'
+		[20075] StaticText 'Shop By'
+		[20076] heading 'Shopping Options'
+		[20077] DescriptionList ''
+			[20079] heading 'Category'
+			[20080] DescriptionListDetail ''
+				[21135] link 'Men( 7648 item )'
+				[21136] link 'Women( 9769 item )'
+				[21137] link 'Novelty & More( 3143 item )'
+				[21138] link 'Sport Specific Clothing( 265 item )'
+			[20081] heading 'Price'
+			[20082] DescriptionListDetail ''
+				[21139] link '$0.00 - $99.99( 19559 item )'
+				[21140] link '$100.00 - $199.99( 1080 item )'
+				[21141] link '$200.00 - $299.99( 183 item )'
+				[21142] link '$300.00 - $399.99( 53 item )'</pre><div>

@@ -1,0 +1,35 @@
+Tab 0 (current): GAN python implementation · Search · GitLab
+
+[1796] RootWebArea 'GAN python implementation · Search · GitLab' focused: True
+	[1846] link 'Skip to content'
+	[1958] link 'Dashboard'
+	[2014] button '' hasPopup: menu expanded: False
+	[2020] link 'Create new...'
+	[2022] link 'Issues'
+		[2177] generic '13 assigned issues'
+	[2023] link 'Merge requests'
+		[2179] generic '8 merge requests'
+	[2025] link 'To-Do List'
+		[2195] generic 'Todos count'
+	[2026] link 'Help'
+	[2028] link 'Byte Blaze'
+		[2229] img 'Byte Blaze'
+	[1802] main ''
+		[1948] heading 'Search'
+		[1995] StaticText 'What are you searching for?'
+		[1807] group ''
+			[1808] searchbox 'Search for projects, issues, etc.'
+				[2267] StaticText 'GAN python implementation'
+			[1996] button 'Clear'
+			[2036] button 'Search'
+		[1999] StaticText 'Group'
+		[2000] button 'Any' hasPopup: menu expanded: False
+		[2002] StaticText 'Project'
+		[2003] button 'Any' hasPopup: menu expanded: False
+		[1950] separator '' orientation: horizontal
+		[2280] link 'Projects 0'
+		[2281] link 'Issues 4'
+		[2282] link 'Merge requests 10'
+		[2283] link 'Milestones 0'
+		[2284] link 'Users 0'
+		[2007] heading " We couldn't find any projects matching GAN python implementation"</pre><div>

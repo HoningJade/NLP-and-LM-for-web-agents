@@ -1,0 +1,8326 @@
+[1] RootWebArea 'Postmill' focused: True
+
+[209] HeaderAsNonLandmark ''
+
+[210] link 'Home'
+
+[233] link 'Forums'
+
+[234] link 'Wiki'
+
+[197] searchbox 'Search query'
+
+[242] link 'Notifications (0)'
+
+[243] link 'Submit'
+
+[12] button 'MarvelsGrantMan136' hasPopup: menu expanded: False
+
+[14] main ''
+
+[556] link 'Submissions'
+
+[557] link 'Comments'
+
+[18] button 'Filter on: Subscribed' hasPopup: menu expanded: False
+
+[20] button 'Sort by: Hot' hasPopup: menu expanded: False
+
+[21] article ''
+
+[24] HeaderAsNonLandmark ''
+
+[250] heading 'What is the recommended console to buy these days what is the recommended console to buy these days'
+
+[560] link 'What is the recommended console to buy these days what is the recommended console to buy these days'
+
+[562] StaticText 'Submitted by '
+
+[27] link 'MarvelsGrantMan136' expanded: False
+
+[564] time 'September 7, 2023 at 2:01:09 PM EDT'
+
+[937] StaticText '4 days ago'
+
+[565] StaticText ' in '
+
+[566] link 'consoles'
+
+[940] link 'No comments'
+
+[942] link 'Edit'
+
+[1521] button 'Delete'
+
+[254] button 'Upvote'
+
+[571] StaticText '−1'
+
+[257] button 'Retract downvote'
+
+[28] article ''
+
+[31] HeaderAsNonLandmark ''
+
+[582] heading 'Mario anyone....'
+
+[956] link 'Mario anyone....'
+
+[959] StaticText 'Submitted by '
+
+[34] link 'big-brummie777_77' expanded: False
+
+[1525] StaticText 't3_11g00cp'
+
+[963] time 'March 2, 2023 at 6:01:33 AM EST'
+
+[1529] StaticText '6 months ago'
+
+[964] StaticText ' in '
+
+[965] link 'consoles'
+
+[1532] link '11 comments'
+
+[262] button 'Upvote'
+
+[585] StaticText '0'
+
+[265] button 'Downvote'
+
+[35] article ''
+
+[38] HeaderAsNonLandmark ''
+
+[594] heading '🤷'
+
+[979] link '🤷'
+
+[982] StaticText 'Submitted by '
+
+[41] link 'QuatronXD' expanded: False
+
+[1537] StaticText 't3_11f7o8x'
+
+[986] time 'March 1, 2023 at 11:09:25 AM EST'
+
+[1541] StaticText '6 months ago'
+
+[987] StaticText ' in '
+
+[988] link 'consoles'
+
+[1544] link '78 comments'
+
+[270] button 'Upvote'
+
+[597] StaticText '−1'
+
+[273] button 'Retract downvote'
+
+[42] article ''
+
+[45] HeaderAsNonLandmark ''
+
+[608] heading 'What’s a good price to sell this for? I don’t want to get screwed over:/'
+
+[1002] link 'What’s a good price to sell this for? I don’t want to get screwed over:/'
+
+[1005] StaticText 'Submitted by '
+
+[48] link 'Pale-Department-7898' expanded: False
+
+[1549] StaticText 't3_11f1s9z'
+
+[1009] time 'March 1, 2023 at 6:50:55 AM EST'
+
+[1553] StaticText '6 months ago'
+
+[1010] StaticText ' in '
+
+[1011] link 'consoles'
+
+[1556] link '45 comments'
+
+[278] button 'Upvote'
+
+[281] button 'Downvote'
+
+[49] article ''
+
+[52] HeaderAsNonLandmark ''
+
+[620] heading 'My PlayStation. Owned since new!'
+
+[1025] link 'My PlayStation. Owned since new!'
+
+[1028] StaticText 'Submitted by '
+
+[55] link 'Dedward5' expanded: False
+
+[1561] StaticText 't3_10gd8nl'
+
+[1032] time 'January 19, 2023 at 4:05:55 PM EST'
+
+[1565] StaticText '8 months ago'
+
+[1033] StaticText ' in '
+
+[1034] link 'consoles'
+
+[1568] link '15 comments'
+
+[286] button 'Upvote'
+
+[623] StaticText '−1'
+
+[289] button 'Retract downvote'
+
+[56] article ''
+
+[59] HeaderAsNonLandmark ''
+
+[293] heading 'Will video game consoles in the future just be in the form of a controller that will use a small video game cartridge and will automatically sync to your television?'
+
+[633] link 'Will video game consoles in the future just be in the form of a controller that will use a small video game cartridge and will automatically sync to your television?'
+
+[635] StaticText 'Submitted by '
+
+[62] link '[deleted]' expanded: False
+
+[1051] StaticText 't3_ym96df'
+
+[639] time 'November 4, 2022 at 4:16:24 PM EDT'
+
+[1055] StaticText '10 months ago'
+
+[640] StaticText ' in '
+
+[641] link 'consoles'
+
+[1058] link '13 comments'
+
+[297] button 'Upvote'
+
+[644] StaticText '−1'
+
+[300] button 'Retract downvote'
+
+[63] article ''
+
+[66] HeaderAsNonLandmark ''
+
+[655] heading 'Stupid guy on facebook marketplace sold me all of this for just $298.09🤣'
+
+[1072] link 'Stupid guy on facebook marketplace sold me all of this for just $298.09🤣'
+
+[305] button 'Upvote'
+
+[658] StaticText '246'
+
+[203] complementary ''
+
+[224] heading 'Subscribed forums'
+
+[883] link 'consoles'</pre><div>
+
+[197]. I will type "Pittsburgh" in the search box and press Enter to submit the search. After that, I can check the search results to see if there is a subreddit that matches my criteria. In summary, the next action I will perform is `type [197] [Pittsburgh] [1]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To find a subreddit focused on topics related to the city of Pittsburgh, I will use the search box on this page. The search box has an ID of [197]. I will type "Pittsburgh" in the search box and press Enter to submit the search. After that, I can check the search results to see if there is a subreddit that matches my criteria. In summary, the next action I will perform is `type [197] [Pittsburgh] [1]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Postmill' focused: True
+
+[209] HeaderAsNonLandmark ''
+
+[210] link 'Home'
+
+[233] link 'Forums'
+
+[234] link 'Wiki'
+
+[197] searchbox 'Search query'
+
+[242] link 'Notifications (0)'
+
+[243] link 'Submit'
+
+[12] button 'MarvelsGrantMan136' hasPopup: menu expanded: False
+
+[14] main ''
+
+[556] link 'Submissions'
+
+[557] link 'Comments'
+
+[18] button 'Filter on: Subscribed' hasPopup: menu expanded: False
+
+[20] button 'Sort by: Hot' hasPopup: menu expanded: False
+
+[21] article ''
+
+[24] HeaderAsNonLandmark ''
+
+[250] heading 'What is the recommended console to buy these days what is the recommended console to buy these days'
+
+[560] link 'What is the recommended console to buy these days what is the recommended console to buy these days'
+
+[562] StaticText 'Submitted by '
+
+[27] link 'MarvelsGrantMan136' expanded: False
+
+[564] time 'September 7, 2023 at 2:01:09 PM EDT'
+
+[937] StaticText '4 days ago'
+
+[565] StaticText ' in '
+
+[566] link 'consoles'
+
+[940] link 'No comments'
+
+[942] link 'Edit'
+
+[1521] button 'Delete'
+
+[254] button 'Upvote'
+
+[571] StaticText '−1'
+
+[257] button 'Retract downvote'
+
+[28] article ''
+
+[31] HeaderAsNonLandmark ''
+
+[582] heading 'Mario anyone....'
+
+[956] link 'Mario anyone....'
+
+[959] StaticText 'Submitted by '
+
+[34] link 'big-brummie777_77' expanded: False
+
+[1525] StaticText 't3_11g00cp'
+
+[963] time 'March 2, 2023 at 6:01:33 AM EST'
+
+[1529] StaticText '6 months ago'
+
+[964] StaticText ' in '
+
+[965] link 'consoles'
+
+[1532] link '11 comments'
+
+[262] button 'Upvote'
+
+[585] StaticText '0'
+
+[265] button 'Downvote'
+
+[35] article ''
+
+[38] HeaderAsNonLandmark ''
+
+[594] heading '🤷'
+
+[979] link '🤷'
+
+[982] StaticText 'Submitted by '
+
+[41] link 'QuatronXD' expanded: False
+
+[1537] StaticText 't3_11f7o8x'
+
+[986] time 'March 1, 2023 at 11:09:25 AM EST'
+
+[1541] StaticText '6 months ago'
+
+[987] StaticText ' in '
+
+[988] link 'consoles'
+
+[1544] link '78 comments'
+
+[270] button 'Upvote'
+
+[597] StaticText '−1'
+
+[273] button 'Retract downvote'
+
+[42] article ''
+
+[45] HeaderAsNonLandmark ''
+
+[608] heading 'What’s a good price to sell this for? I don’t want to get screwed over:/'
+
+[1002] link 'What’s a good price to sell this for? I don’t want to get screwed over:/'
+
+[1005] StaticText 'Submitted by '
+
+[48] link 'Pale-Department-7898' expanded: False
+
+[1549] StaticText 't3_11f1s9z'
+
+[1009] time 'March 1, 2023 at 6:50:55 AM EST'
+
+[1553] StaticText '6 months ago'
+
+[1010] StaticText ' in '
+
+[1011] link 'consoles'
+
+[1556] link '45 comments'
+
+[278] button 'Upvote'
+
+[281] button 'Downvote'
+
+[49] article ''
+
+[52] HeaderAsNonLandmark ''
+
+[620] heading 'My PlayStation. Owned since new!'
+
+[1025] link 'My PlayStation. Owned since new!'
+
+[1028] StaticText 'Submitted by '
+
+[55] link 'Dedward5' expanded: False
+
+[1561] StaticText 't3_10gd8nl'
+
+[1032] time 'January 19, 2023 at 4:05:55 PM EST'
+
+[1565] StaticText '8 months ago'
+
+[1033] StaticText ' in '
+
+[1034] link 'consoles'
+
+[1568] link '15 comments'
+
+[286] button 'Upvote'
+
+[623] StaticText '−1'
+
+[289] button 'Retract downvote'
+
+[56] article ''
+
+[59] HeaderAsNonLandmark ''
+
+[293] heading 'Will video game consoles in the future just be in the form of a controller that will use a small video game cartridge and will automatically sync to your television?'
+
+[633] link 'Will video game consoles in the future just be in the form of a controller that will use a small video game cartridge and will automatically sync to your television?'
+
+[635] StaticText 'Submitted by '
+
+[62] link '[deleted]' expanded: False
+
+[1051] StaticText 't3_ym96df'
+
+[639] time 'November 4, 2022 at 4:16:24 PM EDT'
+
+[1055] StaticText '10 months ago'
+
+[640] StaticText ' in '
+
+[641] link 'consoles'
+
+[1058] link '13 comments'
+
+[297] button 'Upvote'
+
+[644] StaticText '−1'
+
+[300] button 'Retract downvote'
+
+[63] article ''
+
+[66] HeaderAsNonLandmark ''
+
+[655] heading 'Stupid guy on facebook marketplace sold me all of this for just $298.09🤣'
+
+[1072] link 'Stupid guy on facebook marketplace sold me all of this for just $298.09🤣'
+
+[305] button 'Upvote'
+
+[658] StaticText '246'
+
+[203] complementary ''
+
+[224] heading 'Subscribed forums'
+
+[883] link 'consoles'</pre><div>
+
+[197]. I will type "Pittsburgh" in the search box and press Enter to submit the search. After that, I can check the search results to see if there is a subreddit that matches my criteria. In summary, the next action I will perform is `type [197] [Pittsburgh] [1]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[197] [Pittsburgh] [1]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is `type [197] [Pittsburgh] [1]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Postmill' focused: True
+
+[209] HeaderAsNonLandmark ''
+
+[210] link 'Home'
+
+[233] link 'Forums'
+
+[234] link 'Wiki'
+
+[197] searchbox 'Search query'
+
+[242] link 'Notifications (0)'
+
+[243] link 'Submit'
+
+[12] button 'MarvelsGrantMan136' hasPopup: menu expanded: False
+
+[14] main ''
+
+[556] link 'Submissions'
+
+[557] link 'Comments'
+
+[18] button 'Filter on: Subscribed' hasPopup: menu expanded: False
+
+[20] button 'Sort by: Hot' hasPopup: menu expanded: False
+
+[21] article ''
+
+[24] HeaderAsNonLandmark ''
+
+[250] heading 'What is the recommended console to buy these days what is the recommended console to buy these days'
+
+[560] link 'What is the recommended console to buy these days what is the recommended console to buy these days'
+
+[562] StaticText 'Submitted by '
+
+[27] link 'MarvelsGrantMan136' expanded: False
+
+[564] time 'September 7, 2023 at 2:01:09 PM EDT'
+
+[937] StaticText '4 days ago'
+
+[565] StaticText ' in '
+
+[566] link 'consoles'
+
+[940] link 'No comments'
+
+[942] link 'Edit'
+
+[1521] button 'Delete'
+
+[254] button 'Upvote'
+
+[571] StaticText '−1'
+
+[257] button 'Retract downvote'
+
+[28] article ''
+
+[31] HeaderAsNonLandmark ''
+
+[582] heading 'Mario anyone....'
+
+[956] link 'Mario anyone....'
+
+[959] StaticText 'Submitted by '
+
+[34] link 'big-brummie777_77' expanded: False
+
+[1525] StaticText 't3_11g00cp'
+
+[963] time 'March 2, 2023 at 6:01:33 AM EST'
+
+[1529] StaticText '6 months ago'
+
+[964] StaticText ' in '
+
+[965] link 'consoles'
+
+[1532] link '11 comments'
+
+[262] button 'Upvote'
+
+[585] StaticText '0'
+
+[265] button 'Downvote'
+
+[35] article ''
+
+[38] HeaderAsNonLandmark ''
+
+[594] heading '🤷'
+
+[979] link '🤷'
+
+[982] StaticText 'Submitted by '
+
+[41] link 'QuatronXD' expanded: False
+
+[1537] StaticText 't3_11f7o8x'
+
+[986] time 'March 1, 2023 at 11:09:25 AM EST'
+
+[1541] StaticText '6 months ago'
+
+[987] StaticText ' in '
+
+[988] link 'consoles'
+
+[1544] link '78 comments'
+
+[270] button 'Upvote'
+
+[597] StaticText '−1'
+
+[273] button 'Retract downvote'
+
+[42] article ''
+
+[45] HeaderAsNonLandmark ''
+
+[608] heading 'What’s a good price to sell this for? I don’t want to get screwed over:/'
+
+[1002] link 'What’s a good price to sell this for? I don’t want to get screwed over:/'
+
+[1005] StaticText 'Submitted by '
+
+[48] link 'Pale-Department-7898' expanded: False
+
+[1549] StaticText 't3_11f1s9z'
+
+[1009] time 'March 1, 2023 at 6:50:55 AM EST'
+
+[1553] StaticText '6 months ago'
+
+[1010] StaticText ' in '
+
+[1011] link 'consoles'
+
+[1556] link '45 comments'
+
+[278] button 'Upvote'
+
+[281] button 'Downvote'
+
+[49] article ''
+
+[52] HeaderAsNonLandmark ''
+
+[620] heading 'My PlayStation. Owned since new!'
+
+[1025] link 'My PlayStation. Owned since new!'
+
+[1028] StaticText 'Submitted by '
+
+[55] link 'Dedward5' expanded: False
+
+[1561] StaticText 't3_10gd8nl'
+
+[1032] time 'January 19, 2023 at 4:05:55 PM EST'
+
+[1565] StaticText '8 months ago'
+
+[1033] StaticText ' in '
+
+[1034] link 'consoles'
+
+[1568] link '15 comments'
+
+[286] button 'Upvote'
+
+[623] StaticText '−1'
+
+[289] button 'Retract downvote'
+
+[56] article ''
+
+[59] HeaderAsNonLandmark ''
+
+[293] heading 'Will video game consoles in the future just be in the form of a controller that will use a small video game cartridge and will automatically sync to your television?'
+
+[633] link 'Will video game consoles in the future just be in the form of a controller that will use a small video game cartridge and will automatically sync to your television?'
+
+[635] StaticText 'Submitted by '
+
+[62] link '[deleted]' expanded: False
+
+[1051] StaticText 't3_ym96df'
+
+[639] time 'November 4, 2022 at 4:16:24 PM EDT'
+
+[1055] StaticText '10 months ago'
+
+[640] StaticText ' in '
+
+[641] link 'consoles'
+
+[1058] link '13 comments'
+
+[297] button 'Upvote'
+
+[644] StaticText '−1'
+
+[300] button 'Retract downvote'
+
+[63] article ''
+
+[66] HeaderAsNonLandmark ''
+
+[655] heading 'Stupid guy on facebook marketplace sold me all of this for just $298.09🤣'
+
+[1072] link 'Stupid guy on facebook marketplace sold me all of this for just $298.09🤣'
+
+[305] button 'Upvote'
+
+[658] StaticText '246'
+
+[203] complementary ''
+
+[224] heading 'Subscribed forums'
+
+[883] link 'consoles'</pre><div>
+
+[197] [Pittsburgh] [1]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[197]. I will type "Pittsburgh" into the search box and press Enter. In summary, the next action I will perform is ```type [197] [Pittsburgh] [1]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [63, 88, 99, 99, 98, 81, 100, 97, 86, 87, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '197', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To find a subreddit focused on topics related to the city of Pittsburgh, I can use the search box with the ID [197]. I will type "Pittsburgh" into the search box and press Enter. In summary, the next action I will perform is ```type [197] [Pittsburgh] [1]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [197] [Pittsburgh
+
+[197] is [197] searchbox 'Search query'</pre></div></div>
+
+[1848] RootWebArea 'Search' focused: True
+
+[2228] HeaderAsNonLandmark ''
+
+[2229] link 'Home'
+
+[2252] StaticText 'Postmill'
+
+[2253] link 'Forums'
+
+[2254] link 'Wiki'
+
+[2213] searchbox 'Search query'
+
+[4460] StaticText 'Pittsburgh'
+
+[2262] link 'Notifications (0)'
+
+[2263] link 'Submit'
+
+[1859] button 'MarvelsGrantMan136' hasPopup: menu expanded: False
+
+[1861] main ''
+
+[2223] heading 'Search'
+
+[2266] StaticText 'Search query'
+
+[2216] searchbox 'Search query'
+
+[3266] StaticText 'Pittsburgh'
+
+[2272] button 'Search'
+
+[2224] heading '50 results for Pittsburgh:'
+
+[1862] article ''
+
+[1865] HeaderAsNonLandmark ''
+
+[2278] heading 'From Florida to Pittsburgh : Is $100,000 home budget in Pittsburgh on disability income feasible?'
+
+[3267] link 'From Florida to Pittsburgh : Is $100,000 home budget in Pittsburgh on disability income feasible?'
+
+[3269] mark ''
+
+[3271] mark ''
+
+[3275] StaticText 'Submitted by '
+
+[1868] link '[deleted]' expanded: False
+
+[4474] StaticText 't3_10969ac'
+
+[3279] time 'January 11, 2023 at 9:38:08 AM EST'
+
+[4478] StaticText '8 months ago'
+
+[3280] StaticText ' in '
+
+[3281] link 'pittsburgh'
+
+[2281] StaticText '[deleted]'
+
+[4481] link '39 comments'
+
+[2285] button 'Upvote'
+
+[3284] StaticText '0'
+
+[2288] button 'Downvote'
+
+[1869] article ''
+
+[1872] HeaderAsNonLandmark ''
+
+[2293] heading 'Perceptions on Short-Term Rentals in Pittsburgh. How do Short-Term Rentals like AirBnb impact your community? Inspired by recent discussion at a community meeting, interested in hearing your thoughts from across Greater Pittsburgh. Responses anonymous, not affiliated with AirBnb, etc. Thanks!'
+
+[3292] link 'Perceptions on Short-Term Rentals in Pittsburgh. How do Short-Term Rentals like AirBnb impact your community? Inspired by recent discussion at a community meeting, interested in hearing your thoughts from across Greater Pittsburgh. Responses anonymous, not affiliated with AirBnb, etc. Thanks!'
+
+[3294] mark ''
+
+[3296] mark ''
+
+[2295] link 'forms.gle'
+
+[3301] StaticText 'Submitted by '
+
+[1875] link 'unenlightenedgoblin' expanded: False
+
+[4497] StaticText 't3_11ef5gc'
+
+[3305] time 'February 28, 2023 at 12:57:08 PM EST'
+
+[4501] StaticText '7 months ago'
+
+[3306] StaticText ' in '
+
+[3307] link 'pittsburgh'
+
+[4504] link '23 comments'
+
+[2300] button 'Upvote'
+
+[3310] StaticText '1'
+
+[2303] button 'Downvote'
+
+[1876] article ''
+
+[1879] HeaderAsNonLandmark ''
+
+[2308] heading 'Pittsburgh-based MacTavish Pubs files Chapter 11 - Pittsburgh Business Times'
+
+[3318] link 'Pittsburgh-based MacTavish Pubs files Chapter 11 - Pittsburgh Business Times'
+
+[3319] mark ''
+
+[3321] mark ''
+
+[3325] StaticText 'Submitted by '
+
+[1882] link 'immargarita' expanded: False
+
+[4520] StaticText 't3_z43lrw'
+
+[3329] time 'November 24, 2022 at 11:16:11 PM EST'
+
+[4524] StaticText '10 months ago'
+
+[3330] StaticText ' in '
+
+[3331] link 'pittsburgh'
+
+[4527] link '8 comments'
+
+[2315] button 'Upvote'
+
+[3334] StaticText '0'
+
+[2318] button 'Downvote'
+
+[1883] article ''
+
+[1886] HeaderAsNonLandmark ''
+
+[2323] heading 'What “Pittsburgh thing” is not just found in Pittsburgh but found all throughout the US?'
+
+[3342] link 'What “Pittsburgh thing” is not just found in Pittsburgh but found all throughout the US?'
+
+[3344] mark ''
+
+[3346] mark ''
+
+[3350] StaticText 'Submitted by '
+
+[1889] link '1029Dash' expanded: False
+
+[4543] StaticText 't3_zp0owb'
+
+[3354] time 'December 18, 2022 at 10:09:37 AM EST'
+
+[4547] StaticText '9 months ago'
+
+[3355] StaticText ' in '
+
+[3356] link 'pittsburgh'
+
+[2328] button 'Upvote'
+
+[2331] button 'Downvote'
+
+[1911] article ''
+
+[1914] HeaderAsNonLandmark ''
+
+[2381] heading 'Tell me you’re from Pittsburgh without telling me you’re from Pittsburgh, this should be fun'
+
+[3442] link 'Tell me you’re from Pittsburgh without telling me you’re from Pittsburgh, this should be fun'
+
+[3444] mark ''
+
+[3446] mark ''
+
+[3450] StaticText 'Submitted by '
+
+[1917] link 'Themayorofawesome' expanded: False
+
+[4635] StaticText 't3_zhqbcp'
+
+[3454] time 'December 10, 2022 at 6:29:32 AM EST'
+
+[4639] StaticText '9 months ago'
+
+[3455] StaticText ' in '
+
+[3456] link 'pittsburgh'
+
+[4642] link '164 comments'
+
+[2386] button 'Upvote'
+
+[3459] StaticText '14'
+
+[2389] button 'Downvote'
+
+[1918] article ''
+
+[1921] HeaderAsNonLandmark ''
+
+[2394] heading 'I asked Chat GPT to generate 10 headlines about Pittsburgh in the style of The Onion.'
+
+[3467] link 'I asked Chat GPT to generate 10 headlines about Pittsburgh in the style of The Onion.'
+
+[3469] mark ''
+
+[3472] StaticText 'Submitted by '
+
+[1924] link 'solarbot88' expanded: False
+
+[4658] StaticText 't3_10oncl0'
+
+[3476] time 'January 29, 2023 at 7:19:08 PM EST'
+
+[4662] StaticText '8 months ago'
+
+[3477] StaticText ' in '
+
+[3478] link 'pittsburgh'
+
+[2397] mark ''
+
+[3479] StaticText 'Pittsburgh'
+
+[2398] StaticText ' Named Most Liveable City...Again, Residents Ask What\'s the Catch?" 2. "Study Finds 90% of '
+
+[2399] mark ''
+
+[2400] StaticText ' Drivers Actually Just Follow the Car in Front of Them" 3. "City of '
+
+[2401] mark ''
+
+[3481] StaticText 'Pittsburgh'
+
+[2402] StaticText ' Announces Plan ... Turn Every River into Primitive Water Slide Park" 4. "'
+
+[2403] mark ''
+
+[2404] StaticText ' Man Shocked to Discover Primanti Bros. Sandwich Not Actually a Health Food" 5. "Local Steeler\'s Fan Forced to Admit He\'s Only Watched ... Hard" 6. "City Council Debates Whether to Rename Mount Washington to \'Mount Burrito Hill" 7. "Report Finds '
+
+[2405] mark ''
+
+[3483] StaticText 'Pittsburgh'
+
+[2406] StaticText ' Snow Plows Mostly Just Push Snow to Other Neighborhoods" 8. "Local Man Insists on Wearing Terrible Towel'
+
+[4665] link '72 comments'
+
+[2410] button 'Upvote'
+
+[3486] StaticText '784'
+
+[2413] button 'Downvote'
+
+[1925] article ''
+
+[1928] HeaderAsNonLandmark ''
+
+[2418] heading 'WPXI: Pittsburgh police release details about sexual assault allegations against high school students'
+
+[3494] link 'WPXI: Pittsburgh police release details about sexual assault allegations against high school students'
+
+[3496] mark ''
+
+[3499] StaticText 'Submitted by '
+
+[1931] link 'DanielAlman' expanded: False
+
+[4681] StaticText 't3_yfafh7'
+
+[3503] time 'October 27, 2022 at 9:54:11 PM EDT'
+
+[4685] StaticText '11 months ago'
+
+[3504] StaticText ' in '
+
+[3505] link 'pittsburgh'
+
+[2421] StaticText 'people who actually live here tend to be very well behaved and law abiding. [https://www.wpxi.com/news/local/pittsburgh-police-release-details-about-sexual-assault-allegations-against-high-school-students/PLPP425R4RCPTOGWK43GM5TQJM/](https://www.wpxi.com/news/local/pittsburgh-police-release-details-about-sexual-assault-allegations-against-high-school-students/PLPP425R4RCPTOGWK43GM5TQJM/) '
+
+[2422] mark ''
+
+[3506] StaticText 'Pittsburgh'
+
+[2423] StaticText ' police release details about sexual assault allegations against high school students October 27, 2022 '
+
+[2424] mark ''
+
+[3507] StaticText 'PITTSBURGH'
+
+[2425] StaticText ' — '
+
+[2426] mark ''
+
+[3508] StaticText 'Pittsburgh'
+
+[2427] StaticText '\xa0police ... that we are aware of the incident and we are actively investigating at this time,” said '
+
+[2428] mark ''
+
+[2429] StaticText ' Police Commander Richard Ford, who heads the\xa0Major Crimes division. Police have declined to release further details. Target ... learned that the alleged assault happened on Friday, Oct. 14, and that\xa0detectives from the\xa0'
+
+[2430] mark ''
+
+[3510] StaticText 'Pittsburgh'
+
+[2431] StaticText ' Police Bureau Special Victims Unit canvassed the area near Forward and Murray\xa0and they’ve\xa0also visited the high'
+
+[4688] link '32 comments'
+
+[2435] button 'Upvote'
+
+[2438] button 'Downvote'
+
+[1932] article ''
+
+[1935] HeaderAsNonLandmark ''
+
+[2443] heading 'The fall of Pittsburgh Bodegas'
+
+[3521] link 'The fall of Pittsburgh Bodegas'
+
+[3523] mark ''
+
+[3526] StaticText 'Submitted by '
+
+[1938] link 'HarpPgh' expanded: False
+
+[4704] StaticText 't3_11aiqge'
+
+[3530] time 'February 23, 2023 at 11:45:03 PM EST'
+
+[4708] StaticText '7 months ago'
+
+[3531] StaticText ' in '
+
+[3532] link 'pittsburgh'
+
+[2446] StaticText 'wondering what sort of negative impact this has had on convenience as well; specifically local stores/bodegas in '
+
+[2447] mark ''
+
+[3533] StaticText 'Pittsburgh'
+
+[2448] StaticText ' metropolitan area. Being ignorant and only citing what I grew up with in the 90s, Schwartz ... especially the little one on mission street🥲. I’m imagining there were other awesome neighborhood markets in '
+
+[2449] mark ''
+
+[2450] StaticText ' just like this that also unfortunately failed to stand the test of time, probably also losing ... still have these thriving corner stores. A lot of them have essentials like produce, eggs, and milk. '
+
+[2451] mark ''
+
+[3535] StaticText 'Pittsburgh'
+
+[2452] StaticText ' has seemingly dropped the ball here. Most recently we watched Shadyside and Bloomfield, two of our densest'
+
+[4711] link '62 comments'
+
+[2456] button 'Upvote'
+
+[3538] StaticText '41'
+
+[2459] button 'Downvote'
+
+[1939] article ''
+
+[1942] HeaderAsNonLandmark ''
+
+[2464] heading 'We are considering a move from the Bay Area to Pittsburgh area. Mistake? Alternatives?'
+
+[3546] link 'We are considering a move from the Bay Area to Pittsburgh area. Mistake? Alternatives?'
+
+[3548] mark ''
+
+[3551] StaticText 'Submitted by '
+
+[1945] link 'No-Camp9363' expanded: False
+
+[4727] StaticText 't3_yzkg6m'
+
+[3555] time 'November 19, 2022 at 2:51:42 PM EST'
+
+[4731] StaticText '10 months ago'
+
+[3556] StaticText ' in '
+
+[3557] link 'pittsburgh'
+
+[2467] StaticText 'were looking to move back east and looking at the suburbs of '
+
+[2468] mark ''
+
+[3558] StaticText 'Pittsburgh'
+
+[2470] mark ''
+
+[2471] StaticText ' on paper seems to fit the bill. I watched a video on youtube dissing PA and '
+
+[2472] mark ''
+
+[3560] StaticText 'Pittsburgh'
+
+[2473] StaticText ' ... Seattle. Cost of living is still high and they still deal with wildfire smoke and earthquakes. However, '
+
+[2474] mark ''
+
+[2475] StaticText ' air quality is a very big concern especially with little ones with sensitive lungs. &amp;#x200B'
+
+[4734] link '55 comments'
+
+[2479] button 'Upvote'
+
+[2482] button 'Downvote'
+
+[1946] article ''
+
+[1949] HeaderAsNonLandmark ''
+
+[2487] heading 'Armored MMA in Pittsburgh'
+
+[3572] link 'Armored MMA in Pittsburgh'
+
+[3574] mark ''
+
+[3576] StaticText 'Submitted by '
+
+[1952] link 'Wixard00' expanded: False
+
+[4750] StaticText 't3_1262ycc'
+
+[3580] time 'March 29, 2023 at 6:31:06 PM EDT'
+
+[4754] StaticText '6 months ago'
+
+[3581] StaticText ' in '
+
+[3582] link 'pittsburgh'
+
+[2490] StaticText 'like to meet us and get started. We compete locally in our own events here in '
+
+[2491] mark ''
+
+[3583] StaticText 'Pittsburgh'
+
+[2493] mark ''
+
+[2495] mark ''
+
+[4757] link '14 comments'
+
+[2500] button 'Upvote'
+
+[3588] StaticText '17'
+
+[2503] button 'Downvote'
+
+[1953] article ''
+
+[1956] HeaderAsNonLandmark ''
+
+[2508] heading 'General awareness of Pittsburgh location'
+
+[3596] link 'General awareness of Pittsburgh location'
+
+[3598] mark ''
+
+[3601] StaticText 'Submitted by '
+
+[1959] link '[deleted]' expanded: False
+
+[4773] StaticText 't3_yk2r1m'
+
+[3605] time 'November 2, 2022 at 7:32:41 AM EDT'
+
+[4777] StaticText '10 months ago'
+
+[3606] StaticText ' in '
+
+[3607] link 'pittsburgh'
+
+[2511] StaticText 'classic scenario: you tell someone you live in '
+
+[2512] mark ''
+
+[3608] StaticText 'Pittsburgh'
+
+[2513] StaticText ' and they reply, “I’ve been to Philadelphia but never '
+
+[2514] mark ''
+
+[2515] StaticText '.” Then, when you tell them Philadelphia is 5 hours away, and '
+
+[2516] mark ''
+
+[3610] StaticText 'Pittsburgh'
+
+[2517] StaticText ' is closest'
+
+[4780] link 'No comments'
+
+[2521] button 'Upvote'
+
+[3613] StaticText '3'
+
+[2524] button 'Downvote'
+
+[1960] article ''
+
+[1963] HeaderAsNonLandmark ''
+
+[2529] heading 'Looking for Experience gifts in Pittsburgh'
+
+[3621] link 'Looking for Experience gifts in Pittsburgh'
+
+[3623] mark ''
+
+[3625] StaticText 'Submitted by '
+
+[1966] link 'Local_Penalty2078' expanded: False
+
+[4796] StaticText 't3_z97her'
+
+[3629] time 'November 30, 2022 at 6:44:33 PM EST'
+
+[4800] StaticText '10 months ago'
+
+[3630] StaticText ' in '
+
+[3631] link 'pittsburgh'
+
+[2532] StaticText 'Hello '
+
+[2533] mark ''
+
+[3632] StaticText 'Pittsburgh'
+
+[2534] StaticText ' redditors! I\'m looking for an experience -type gift for my SO and I was wondering what kind of ideas you all might have? I am looking possibly into cooking classes ... things to do! I feel like this thread has become "How to properly plan a date in '
+
+[2535] mark ''
+
+[2536] StaticText '". There are so many things to pick from that I\'ll be finding things ... many of these as I can! Everyone who responded, thank you - this demonstrates how awesome a place '
+
+[2537] mark ''
+
+[3634] StaticText 'Pittsburgh'
+
+[4803] link '3 comments'
+
+[2541] button 'Upvote'
+
+[3637] StaticText '114'
+
+[2544] button 'Downvote'
+
+[1967] article ''
+
+[1970] HeaderAsNonLandmark ''
+
+[2549] heading 'Is Pittsburgh a chain restaurant city?'
+
+[3645] link 'Is Pittsburgh a chain restaurant city?'
+
+[3647] mark ''
+
+[3650] StaticText 'Submitted by '
+
+[1973] link 'thehofstetter' expanded: False
+
+[4819] StaticText 't3_118c9hd'
+
+[3654] time 'February 21, 2023 at 1:24:36 PM EST'
+
+[4823] StaticText '7 months ago'
+
+[3655] StaticText ' in '
+
+[3656] link 'pittsburgh'
+
+[2552] StaticText 'friendly argument with a buddy about whether or not '
+
+[2553] mark ''
+
+[3657] StaticText 'Pittsburgh'
+
+[2554] StaticText ' is a chain restaurant/bar town. While we have a bunch of them, I think the independent places are doing better. I read that '
+
+[2555] mark ''
+
+[4826] link '138 comments'
+
+[2559] button 'Upvote'
+
+[3661] StaticText '63'
+
+[2562] button 'Downvote'
+
+[1974] article ''
+
+[1977] HeaderAsNonLandmark ''
+
+[2567] heading 'Pittsburgh: the "just-right" porridge of American communication styles'
+
+[3669] link 'Pittsburgh: the "just-right" porridge of American communication styles'
+
+[3670] mark ''
+
+[3673] StaticText 'Submitted by '
+
+[1980] link 'LockedOutOfElfland' expanded: False
+
+[4842] StaticText 't3_zzzs3y'
+
+[3677] time 'December 31, 2022 at 1:00:21 PM EST'
+
+[4846] StaticText '8 months ago'
+
+[3678] StaticText ' in '
+
+[3679] link 'pittsburgh'
+
+[2570] StaticText 'honey..." In the west coast culture (and this seems to be a habit picked up by '
+
+[2571] mark ''
+
+[3680] StaticText 'Pittsburghers'
+
+[2573] mark ''
+
+[2574] StaticText ', now. Being here is like Goldilocks entering the house of the three bears and finding Mama Bear'
+
+[4849] link '1 comment'
+
+[2578] button 'Upvote'
+
+[3684] StaticText '38'
+
+[2581] button 'Downvote'
+
+[1981] article ''
+
+[1984] HeaderAsNonLandmark ''
+
+[2586] heading 'Upcoming trip to Pittsburgh. Question about masks.'
+
+[3692] link 'Upcoming trip to Pittsburgh. Question about masks.'
+
+[3694] mark ''
+
+[3697] StaticText 'Submitted by '
+
+[1987] link 'zimmbo' expanded: False
+
+[4865] StaticText 't3_11kktnd'
+
+[3701] time 'March 6, 2023 at 8:23:53 PM EST'
+
+[4869] StaticText '6 months ago'
+
+[3702] StaticText ' in '
+
+[3703] link 'pittsburgh'
+
+[2589] StaticText 'Hello! Excited to visit '
+
+[2590] mark ''
+
+[3704] StaticText 'Pittsburgh'
+
+[2591] StaticText ' for the first time. Just curious- we know masks aren’t required but we still choose to wear them inside. Are many people (or any) in shops, museums etc… still ... wearing masks in '
+
+[2592] mark ''
+
+[4872] link 'No comments'
+
+[2596] button 'Upvote'
+
+[3708] StaticText '0'
+
+[2599] button 'Downvote'
+
+[1988] article ''
+
+[1991] HeaderAsNonLandmark ''
+
+[2604] heading 'How’s the local music scene in Pittsburgh- really?'
+
+[3716] link 'How’s the local music scene in Pittsburgh- really?'
+
+[3718] mark ''
+
+[3721] StaticText 'Submitted by '
+
+[1994] link 'meatsweats77' expanded: False
+
+[4888] StaticText 't3_10oc3do'
+
+[3725] time 'January 29, 2023 at 11:47:04 AM EST'
+
+[4892] StaticText '8 months ago'
+
+[3726] StaticText ' in '
+
+[3727] link 'pittsburgh'
+
+[2607] StaticText 'that play at little dive bars and clubs. Punk, hardcore, jazz, country, what’s going on in '
+
+[2608] mark ''
+
+[3728] StaticText 'Pittsburgh'
+
+[2609] StaticText '? My partner and I are considering moving to '
+
+[2610] mark ''
+
+[2611] StaticText ' from Austin and we’r curious about what'
+
+[4895] link '73 comments'
+
+[2615] button 'Upvote'
+
+[3732] StaticText '36'
+
+[2618] button 'Downvote'
+
+[1995] article ''
+
+[1998] HeaderAsNonLandmark ''
+
+[2623] heading 'Will Pittsburgh see light rail expansion in the next 30 years?'
+
+[3740] link 'Will Pittsburgh see light rail expansion in the next 30 years?'
+
+[3742] mark ''
+
+[3745] StaticText 'Submitted by '
+
+[2001] link 'metracta' expanded: False
+
+[4911] StaticText 't3_11h1kx7'
+
+[3749] time 'March 3, 2023 at 9:04:00 AM EST'
+
+[4915] StaticText '6 months ago'
+
+[3750] StaticText ' in '
+
+[3751] link 'pittsburgh'
+
+[2626] mark ''
+
+[3752] StaticText 'Pittsburgh'
+
+[2627] StaticText '’s east end seems like an area absolutely ripe for a light rail system expansion. It is densely populated, serves many commuters from other parts of the city, is relatively flat, and gets frequent ... stops frequently to connect to many neighborhoods. Wondering what the thoughts are from locals, from a '
+
+[2628] mark ''
+
+[2629] StaticText ' ex-pat who enjoys taking transit in Chicago every'
+
+[4918] link 'No comments'
+
+[2633] button 'Upvote'
+
+[2636] button 'Downvote'
+
+[2002] article ''
+
+[2005] HeaderAsNonLandmark ''
+
+[2641] heading 'Questions about moving to/living in Munhall vs Pittsburgh'
+
+[3764] link 'Questions about moving to/living in Munhall vs Pittsburgh'
+
+[3766] mark ''
+
+[3768] StaticText 'Submitted by '
+
+[2008] link 'lalune13' expanded: False
+
+[4934] StaticText 't3_1015j5z'
+
+[3772] time 'January 2, 2023 at 1:31:18 AM EST'
+
+[4938] StaticText '8 months ago'
+
+[3773] StaticText ' in '
+
+[3774] link 'Pennsylvania'
+
+[2644] StaticText '32/F) am from Phoenix, AZ and have been considering moving to PA. I was attracted to '
+
+[2645] mark ''
+
+[3775] StaticText 'Pittsburgh'
+
+[2646] StaticText ' at first but recently came across Munhall in my search (it was listed as being ... lived in Munhall that can give me any insight into living in this borough? Between Munhall and '
+
+[2647] mark ''
+
+[2648] StaticText ', which would you suggest for someone like myself? Thank'
+
+[4941] link '14 comments'
+
+[2652] button 'Upvote'
+
+[2655] button 'Downvote'
+
+[2009] article ''
+
+[2012] HeaderAsNonLandmark ''
+
+[2660] heading 'The must try desserts of Pittsburgh’s bakeries'
+
+[3787] link 'The must try desserts of Pittsburgh’s bakeries'
+
+[3789] mark ''
+
+[3792] StaticText 'Submitted by '
+
+[2015] link 'SassyButtDragon' expanded: False
+
+[4957] StaticText 't3_11luafw'
+
+[3796] time 'March 8, 2023 at 6:46:49 AM EST'
+
+[4961] StaticText '6 months ago'
+
+[3797] StaticText ' in '
+
+[3798] link 'pittsburgh'
+
+[2663] StaticText 'traveling to '
+
+[2664] mark ''
+
+[3799] StaticText 'Pittsburgh'
+
+[2665] StaticText ' this weekend to celebrate my birthday and my goal is to collect the best, must try dessert item from all '
+
+[2666] mark ''
+
+[2667] StaticText '’s best bakeries to take home for my family to sample'
+
+[4964] link 'No comments'
+
+[2671] button 'Upvote'
+
+[2674] button 'Downvote'
+
+[2016] article ''
+
+[2019] HeaderAsNonLandmark ''
+
+[2679] heading 'Actor seeking guidance on a Pittsburgh accent'
+
+[3811] link 'Actor seeking guidance on a Pittsburgh accent'
+
+[3813] mark ''
+
+[3816] StaticText 'Submitted by '
+
+[2022] link 'Darth_Batman89' expanded: False
+
+[4980] StaticText 't3_zzwlah'
+
+[3820] time 'December 31, 2022 at 10:33:10 AM EST'
+
+[4984] StaticText '8 months ago'
+
+[3821] StaticText ' in '
+
+[3822] link 'pittsburgh'
+
+[2682] StaticText 'working on a feature film next month and the director and I are wanting to use a '
+
+[2683] mark ''
+
+[3823] StaticText 'Pittsburgh'
+
+[2684] StaticText ' accent for this character. I am reaching out here to see if anyone would be willing ... late 20’s working class Caucasian male. Early 1940’s period. I’ve never been to '
+
+[2685] mark ''
+
+[2686] StaticText ' but reading through the community makes we want to go visit. I never knew it was such'
+
+[4987] link 'No comments'
+
+[2690] button 'Upvote'
+
+[3827] StaticText '1'
+
+[2693] button 'Downvote'
+
+[2023] article ''
+
+[2026] HeaderAsNonLandmark ''
+
+[2698] heading 'I miss Pittsburgh.'
+
+[3835] link 'I miss Pittsburgh.'
+
+[3837] mark ''
+
+[3840] StaticText 'Submitted by '
+
+[2029] link 'Informal_Phrase4589' expanded: False
+
+[5003] StaticText 't3_121cxxb'
+
+[3844] time 'March 25, 2023 at 2:17:43 AM EDT'
+
+[5007] StaticText '6 months ago'
+
+[3845] StaticText ' in '
+
+[3846] link 'pittsburgh'
+
+[2701] StaticText 'grown so much lately- I should have moved back home. When I compare anything Portland to anything '
+
+[2702] mark ''
+
+[3847] StaticText 'Pittsburgh'
+
+[2703] StaticText '- I come up short. Just feeling sad and missing what a great town '
+
+[2704] mark ''
+
+[5010] link 'No comments'
+
+[2708] button 'Upvote'
+
+[2711] button 'Downvote'
+
+[2030] article ''
+
+[2033] HeaderAsNonLandmark ''
+
+[2716] heading 'Looking for a "Welcome To Pittsburgh" mural or sign for photo op'
+
+[3859] link 'Looking for a "Welcome To Pittsburgh" mural or sign for photo op'
+
+[3861] mark ''
+
+[3864] StaticText 'Submitted by '
+
+[2036] link 'spacemonkeydaniel' expanded: False
+
+[5026] StaticText 't3_1274are'
+
+[3868] time 'March 30, 2023 at 8:22:03 PM EDT'
+
+[5030] StaticText '6 months ago'
+
+[3869] StaticText ' in '
+
+[3870] link 'pittsburgh'
+
+[2719] StaticText 'driving through '
+
+[2720] mark ''
+
+[3871] StaticText 'Pittsburgh'
+
+[2721] StaticText ' next year and was hoping for a "Welcome to '
+
+[2722] mark ''
+
+[2723] StaticText '" sign for a quick photo. It looks like you\'ve all got a ton of amazing street'
+
+[5033] link '14 comments'
+
+[2727] button 'Upvote'
+
+[2730] button 'Downvote'
+
+[2037] article ''
+
+[2040] HeaderAsNonLandmark ''
+
+[2735] heading 'Pittsburgh Conspiracy Theories'
+
+[3883] link 'Pittsburgh Conspiracy Theories'
+
+[3884] mark ''
+
+[3887] StaticText 'Submitted by '
+
+[2043] link 'punkie23' expanded: False
+
+[5049] StaticText 't3_y2o2m8'
+
+[3891] time 'October 12, 2022 at 11:24:43 PM EDT'
+
+[5053] StaticText '11 months ago'
+
+[3892] StaticText ' in '
+
+[3893] link 'pittsburgh'
+
+[2738] StaticText 'Please let me know if there is a more appropriate place for this. I have lived in '
+
+[2739] mark ''
+
+[3894] StaticText 'Pittsburgh'
+
+[2740] StaticText ' my entire life and had recently learned of the bomber plane that crashed in the Monongahela. What ... some of the other stories or theories surrounding '
+
+[2741] mark ''
+
+[5056] link '123 comments'
+
+[2745] button 'Upvote'
+
+[3898] StaticText '84'
+
+[2748] button 'Downvote'
+
+[2044] article ''
+
+[2047] HeaderAsNonLandmark ''
+
+[2753] heading "You wake up in a Pittsburgh hospital. Which hospital do you hope it is? Which one do you hope it isn't?"
+
+[3906] link "You wake up in a Pittsburgh hospital. Which hospital do you hope it is? Which one do you hope it isn't?"
+
+[3908] mark ''
+
+[3911] StaticText 'Submitted by '
+
+[2050] link 'ExtremelyQualified' expanded: False
+
+[5072] StaticText 't3_123vx98'
+
+[3915] time 'March 27, 2023 at 2:34:11 PM EDT'
+
+[5076] StaticText '6 months ago'
+
+[3916] StaticText ' in '
+
+[3917] link 'pittsburgh'
+
+[2756] StaticText 'everyone, but especially curious to hear from the healthcare workers out there: You wake up in a '
+
+[2757] mark ''
+
+[3918] StaticText 'Pittsburgh'
+
+[2759] mark ''
+
+[2760] StaticText ' hospital do you feel is the best at patient care vs which one is the worst at patient care'
+
+[5079] link '93 comments'
+
+[2764] button 'Upvote'
+
+[2767] button 'Downvote'
+
+[2051] article ''
+
+[2054] HeaderAsNonLandmark ''
+
+[2772] heading "My wife and I both got relocated to Pittsburgh and we'll be there in 3 weeks. Sweet god someone please give me a crash course on our area."
+
+[3930] link "My wife and I both got relocated to Pittsburgh and we'll be there in 3 weeks. Sweet god someone please give me a crash course on our area."
+
+[3932] mark ''
+
+[3935] StaticText 'Submitted by '
+
+[2057] link 'Ghost0fBanquo' expanded: False
+
+[5095] StaticText 't3_119jbxu'
+
+[3939] time 'February 22, 2023 at 7:40:48 PM EST'
+
+[5099] StaticText '7 months ago'
+
+[3940] StaticText ' in '
+
+[3941] link 'pittsburgh'
+
+[2775] StaticText 'High Schools in PA recently and we very much lucked into a unbeatable situation for us in '
+
+[2776] mark ''
+
+[3942] StaticText 'Pittsburgh'
+
+[2778] mark ''
+
+[5102] link 'No comments'
+
+[2783] button 'Upvote'
+
+[2786] button 'Downvote'
+
+[2058] article ''
+
+[2061] HeaderAsNonLandmark ''
+
+[2791] heading "Pittsburgh's Just Ducky Tours"
+
+[3954] link "Pittsburgh's Just Ducky Tours"
+
+[3955] mark ''
+
+[3958] StaticText 'Submitted by '
+
+[2064] link 'SabotUp007' expanded: False
+
+[5118] StaticText 't3_z12qdd'
+
+[3962] time 'November 21, 2022 at 11:09:08 AM EST'
+
+[5122] StaticText '10 months ago'
+
+[3963] StaticText ' in '
+
+[3964] link 'pittsburgh'
+
+[2794] StaticText 'people died. The YouTube channel Brick Immortar recently posted an in-depth video about that tragedy. While '
+
+[2795] mark ''
+
+[3965] StaticText 'Pittsburgh'
+
+[2797] mark ''
+
+[5125] link '55 comments'
+
+[2802] button 'Upvote'
+
+[3969] StaticText '155'
+
+[2805] button 'Downvote'
+
+[2065] article ''
+
+[2068] HeaderAsNonLandmark ''
+
+[2810] heading "Relocating from Pittsburgh to Ocean/Monmouth County for work. Where's a reasonable place to live?"
+
+[3977] link "Relocating from Pittsburgh to Ocean/Monmouth County for work. Where's a reasonable place to live?"
+
+[3979] mark ''
+
+[3982] StaticText 'Submitted by '
+
+[2071] link 'RunsOnColdBrew' expanded: False
+
+[5141] StaticText 't3_11o6kaz'
+
+[3986] time 'March 10, 2023 at 8:03:55 PM EST'
+
+[5145] StaticText '6 months ago'
+
+[3987] StaticText ' in '
+
+[3988] link 'newjersey'
+
+[2814] mark ''
+
+[3989] StaticText 'Pittsburgh'
+
+[2816] mark ''
+
+[5148] link '16 comments'
+
+[2821] button 'Upvote'
+
+[3993] StaticText '0'
+
+[2824] button 'Downvote'
+
+[2072] article ''
+
+[2075] HeaderAsNonLandmark ''
+
+[2829] heading 'Which month is Pittsburghs absolute worst?'
+
+[4001] link 'Which month is Pittsburghs absolute worst?'
+
+[4003] mark ''
+
+[4006] StaticText 'Submitted by '
+
+[2078] link 'ANewDinosaur' expanded: False
+
+[5164] StaticText 't3_xuu9ha'
+
+[4010] time 'October 3, 2022 at 4:19:13 PM EDT'
+
+[5168] StaticText '11 months ago'
+
+[4011] StaticText ' in '
+
+[4012] link 'pittsburgh'
+
+[2832] StaticText 'looking to move out of Texas, and all my research is pointing us towards '
+
+[2833] mark ''
+
+[4013] StaticText 'Pittsburgh'
+
+[2834] StaticText '. But we are both born and raised in the Deep South. One of our biggest reasons to move, aside from ... move for a very very long time. Possibly forever. So if we’re gonna settle down in '
+
+[2835] mark ''
+
+[2836] StaticText ', we gotta be able to handle the weather. I think we’ll be fine, but I also'
+
+[5171] link 'No comments'
+
+[2840] button 'Upvote'
+
+[2843] button 'Downvote'
+
+[2079] article ''
+
+[2082] HeaderAsNonLandmark ''
+
+[2848] heading 'Are there any Baltimore or Pittsburgh area transplants living in the Providence area? We are considering moving and I have some questions!'
+
+[4025] link 'Are there any Baltimore or Pittsburgh area transplants living in the Providence area? We are considering moving and I have some questions!'
+
+[4027] mark ''
+
+[4030] StaticText 'Submitted by '
+
+[2085] link 'marissarae' expanded: False
+
+[5187] StaticText 't3_115gjoh'
+
+[4034] time 'February 18, 2023 at 9:29:49 AM EST'
+
+[5191] StaticText '7 months ago'
+
+[4035] StaticText ' in '
+
+[4036] link 'providence'
+
+[2851] StaticText 'city but not overall.) 1.5 years ago, my husband and I moved to the northern suburbs of '
+
+[2852] mark ''
+
+[4037] StaticText 'Pittsburgh'
+
+[2853] StaticText ' to be near my family, but we are about 25 miles from the horrific East Palestine train ... there is on our short list of options for moving. If there are any Baltimore or '
+
+[2854] mark ''
+
+[2855] StaticText ' transplants, maybe you could tell me how Providence, Bristol, Cranston compare in terms of traffic, available jobs, weather'
+
+[5194] link '24 comments'
+
+[2859] button 'Upvote'
+
+[4041] StaticText '3'
+
+[2862] button 'Downvote'
+
+[2086] article ''
+
+[2089] HeaderAsNonLandmark ''
+
+[2867] heading 'Easter weekend - is Pittsburgh open?'
+
+[4049] link 'Easter weekend - is Pittsburgh open?'
+
+[4051] mark ''
+
+[4054] StaticText 'Submitted by '
+
+[2092] link 'One_Coffee1618' expanded: False
+
+[5210] StaticText 't3_12232ov'
+
+[4058] time 'March 25, 2023 at 7:23:10 PM EDT'
+
+[5214] StaticText '6 months ago'
+
+[4059] StaticText ' in '
+
+[4060] link 'pittsburgh'
+
+[2870] StaticText 'everyone, My husband and I are moving to '
+
+[2871] mark ''
+
+[4061] StaticText 'Pittsburgh'
+
+[2872] StaticText ' in a little while and are planning a weekend trip to check out some apartments - we were thinking of April 7th-9th but recognise that this ... coincides with Easter... is '
+
+[2873] mark ''
+
+[2874] StaticText ' somewhere that tends to close down at Easter or will most stuff still be open? Cheers'
+
+[5217] link '11 comments'
+
+[2878] button 'Upvote'
+
+[4065] StaticText '0'
+
+[2881] button 'Downvote'
+
+[2093] article ''
+
+[2096] HeaderAsNonLandmark ''
+
+[2886] heading 'Is living in Pittsburgh expensive?'
+
+[4073] link 'Is living in Pittsburgh expensive?'
+
+[4075] mark ''
+
+[4078] StaticText 'Submitted by '
+
+[2099] link 'Ordinary_Promise7748' expanded: False
+
+[5233] StaticText 't3_116if6g'
+
+[4082] time 'February 19, 2023 at 12:20:08 PM EST'
+
+[5237] StaticText '7 months ago'
+
+[4083] StaticText ' in '
+
+[4084] link 'pittsburgh'
+
+[2889] StaticText 'never lived in PA but Im planning to move to '
+
+[2890] mark ''
+
+[4085] StaticText 'Pittsburgh'
+
+[2891] StaticText ' in a few months so any advice would be appreciated'
+
+[5240] link '144 comments'
+
+[2895] button 'Upvote'
+
+[4088] StaticText '22'
+
+[2898] button 'Downvote'
+
+[2100] article ''
+
+[2103] HeaderAsNonLandmark ''
+
+[2903] heading 'Activism in Pittsburgh, anti war and Norfolk Southern caused chemical disaster'
+
+[4096] link 'Activism in Pittsburgh, anti war and Norfolk Southern caused chemical disaster'
+
+[4098] mark ''
+
+[4101] StaticText 'Submitted by '
+
+[2106] link 'vulpesgato' expanded: False
+
+[5256] StaticText 't3_11agq8z'
+
+[4105] time 'February 23, 2023 at 10:00:32 PM EST'
+
+[5260] StaticText '7 months ago'
+
+[4106] StaticText ' in '
+
+[4107] link 'pittsburgh'
+
+[2907] mark ''
+
+[4108] StaticText 'Pittsburgh'
+
+[2908] StaticText ' area citizens interested in: 1) anti-war movement and /or 2) also visit with those who want to step up pressure'
+
+[5263] link '39 comments'
+
+[2912] button 'Upvote'
+
+[2915] button 'Downvote'
+
+[2107] article ''
+
+[2110] HeaderAsNonLandmark ''
+
+[2920] heading 'What is a must see in Pittsburgh?'
+
+[4119] link 'What is a must see in Pittsburgh?'
+
+[4121] mark ''
+
+[4124] StaticText 'Submitted by '
+
+[2113] link 'unknownvariable19' expanded: False
+
+[5279] StaticText 't3_yc3mej'
+
+[4128] time 'October 24, 2022 at 2:05:06 AM EDT'
+
+[5283] StaticText '11 months ago'
+
+[4129] StaticText ' in '
+
+[4130] link 'pittsburgh'
+
+[2924] mark ''
+
+[2925] StaticText '? Not too pricey (under 30$ per person'
+
+[5286] link '14 comments'
+
+[2929] button 'Upvote'
+
+[2932] button 'Downvote'
+
+[2114] article ''
+
+[2117] HeaderAsNonLandmark ''
+
+[2937] heading 'Driving to Pittsburgh from Columbus today'
+
+[4142] link 'Driving to Pittsburgh from Columbus today'
+
+[4144] mark ''
+
+[4147] StaticText 'Submitted by '
+
+[2120] link 'AlwaysSunnyInCBUS' expanded: False
+
+[5302] StaticText 't3_113os5v'
+
+[4151] time 'February 16, 2023 at 6:49:46 AM EST'
+
+[5306] StaticText '7 months ago'
+
+[4152] StaticText ' in '
+
+[4153] link 'pittsburgh'
+
+[2941] mark ''
+
+[4154] StaticText 'Pittsburgh'
+
+[2942] StaticText ' before'
+
+[5309] link '72 comments'
+
+[2946] button 'Upvote'
+
+[2949] button 'Downvote'
+
+[2121] article ''
+
+[2124] HeaderAsNonLandmark ''
+
+[2954] heading 'What date is the downtown Pittsburgh St. Patty’s Day parade?'
+
+[4165] link 'What date is the downtown Pittsburgh St. Patty’s Day parade?'
+
+[4167] mark ''
+
+[4170] StaticText 'Submitted by '
+
+[2127] link 'EllesAway' expanded: False
+
+[5325] StaticText 't3_117nb9b'
+
+[4174] time 'February 20, 2023 at 5:56:50 PM EST'
+
+[5329] StaticText '7 months ago'
+
+[4175] StaticText ' in '
+
+[4176] link 'Pennsylvania'
+
+[2957] StaticText 'What date is the downtown '
+
+[2958] mark ''
+
+[4177] StaticText 'Pittsburgh'
+
+[2959] StaticText ' St. Patty’s Day parade'
+
+[5332] link '13 comments'
+
+[2963] button 'Upvote'
+
+[2966] button 'Downvote'
+
+[2128] article ''
+
+[2131] HeaderAsNonLandmark ''
+
+[2971] heading 'Why does the City of Pittsburgh not try to absorb/annex some of municipalities surrounding the city?'
+
+[4188] link 'Why does the City of Pittsburgh not try to absorb/annex some of municipalities surrounding the city?'
+
+[4190] mark ''
+
+[4193] StaticText 'Submitted by '
+
+[2134] link 'PGHthrowaway393' expanded: False
+
+[5348] StaticText 't3_103gb7u'
+
+[4197] time 'January 4, 2023 at 4:55:14 PM EST'
+
+[5352] StaticText '8 months ago'
+
+[4198] StaticText ' in '
+
+[4199] link 'pittsburgh'
+
+[2974] mark ''
+
+[4200] StaticText 'Pittsburgh'
+
+[2975] StaticText ' is currently ranked the 71st largest city in the US with a population of of 302,152 and a county population of 1.238 million. Wouldn’t annexing a majority of the smaller municipalities that'
+
+[5355] link 'No comments'
+
+[2979] button 'Upvote'
+
+[2982] button 'Downvote'
+
+[2135] article ''
+
+[2138] HeaderAsNonLandmark ''
+
+[2987] heading 'Whataburger clone in Pittsburgh'
+
+[4211] link 'Whataburger clone in Pittsburgh'
+
+[4213] mark ''
+
+[4215] StaticText 'Submitted by '
+
+[2141] link 'bkvagnini' expanded: False
+
+[5371] StaticText 't3_10a6arl'
+
+[4219] time 'January 12, 2023 at 1:10:23 PM EST'
+
+[5375] StaticText '8 months ago'
+
+[4220] StaticText ' in '
+
+[4221] link 'pittsburgh'
+
+[2991] mark ''
+
+[4222] StaticText 'Pittsburgh'
+
+[2992] StaticText ' area. Is there anything similar or is there the same thing but with a different name (like'
+
+[5378] link '94 comments'
+
+[2996] button 'Upvote'
+
+[2999] button 'Downvote'
+
+[2142] article ''
+
+[2145] HeaderAsNonLandmark ''
+
+[3004] heading 'What’s a VERY Pittsburgh thing that you’ve never done?'
+
+[4233] link 'What’s a VERY Pittsburgh thing that you’ve never done?'
+
+[4235] mark ''
+
+[4238] StaticText 'Submitted by '
+
+[2148] link 'panzan' expanded: False
+
+[5394] StaticText 't3_10i0rd0'
+
+[4242] time 'January 21, 2023 at 3:27:41 PM EST'
+
+[5398] StaticText '8 months ago'
+
+[4243] StaticText ' in '
+
+[4244] link 'pittsburgh'
+
+[3007] StaticText 'couple things I’ve never done despite living every day of my 51+ years in the greater '
+
+[3008] mark ''
+
+[4245] StaticText 'Pittsburgh'
+
+[3009] StaticText ' area. Parking at the mon wharf Brunch at the grand concourse How about yinz'
+
+[5401] link 'No comments'
+
+[3013] button 'Upvote'
+
+[3016] button 'Downvote'
+
+[2149] article ''
+
+[2152] HeaderAsNonLandmark ''
+
+[3021] heading 'Half day trip to Pittsburgh'
+
+[4256] link 'Half day trip to Pittsburgh'
+
+[4258] mark ''
+
+[4260] StaticText 'Submitted by '
+
+[2155] link 'RunnerInChicago' expanded: False
+
+[5417] StaticText 't3_119zn11'
+
+[4264] time 'February 23, 2023 at 9:56:51 AM EST'
+
+[5421] StaticText '7 months ago'
+
+[4265] StaticText ' in '
+
+[4266] link 'pittsburgh'
+
+[3024] StaticText 'Driving to NYC and may drop by '
+
+[3025] mark ''
+
+[4267] StaticText 'Pittsburgh'
+
+[5424] link '14 comments'
+
+[3030] button 'Upvote'
+
+[3033] button 'Downvote'
+
+[2156] article ''
+
+[2159] HeaderAsNonLandmark ''
+
+[3038] heading 'Looking for a climbing buddy in Pittsburgh!'
+
+[4278] link 'Looking for a climbing buddy in Pittsburgh!'
+
+[4280] mark ''
+
+[4283] StaticText 'Submitted by '
+
+[2162] link 'Certain_Cat1758' expanded: False
+
+[5440] StaticText 't3_10fdhqu'
+
+[4287] time 'January 18, 2023 at 12:41:40 PM EST'
+
+[5444] StaticText '8 months ago'
+
+[4288] StaticText ' in '
+
+[4289] link 'pittsburgh'
+
+[3041] mark ''
+
+[4290] StaticText 'Pittsburgh'
+
+[5447] link '11 comments'
+
+[3046] button 'Upvote'
+
+[3049] button 'Downvote'
+
+[2163] article ''
+
+[2166] HeaderAsNonLandmark ''
+
+[3054] heading 'Pittsburgh Weather'
+
+[4301] link 'Pittsburgh Weather'
+
+[4302] mark ''
+
+[4305] StaticText 'Submitted by '
+
+[2169] link 'Friendly-Bug9305' expanded: False
+
+[5463] StaticText 't3_10o8oha'
+
+[4309] time 'January 29, 2023 at 9:19:03 AM EST'
+
+[5467] StaticText '8 months ago'
+
+[4310] StaticText ' in '
+
+[4311] link 'pittsburgh'
+
+[3057] StaticText 'Just out of pure curiosity, do any meteorology/climatology buffs know the scientific reasoning behind '
+
+[3058] mark ''
+
+[4312] StaticText 'Pittsburgh'
+
+[3059] StaticText '’s constant overcast skies/rainy days'
+
+[5470] link '21 comments'
+
+[3063] button 'Upvote'
+
+[3066] button 'Downvote'
+
+[2170] article ''
+
+[2173] HeaderAsNonLandmark ''
+
+[3071] heading 'Andrew McCutchen Is Returning To Pittsburgh Pirates!'
+
+[4323] link 'Andrew McCutchen Is Returning To Pittsburgh Pirates!'
+
+[4325] mark ''
+
+[4328] StaticText 'Submitted by '
+
+[2176] link 'FlamingoGram' expanded: False
+
+[5486] StaticText 't3_10bqm4u'
+
+[4332] time 'January 14, 2023 at 10:07:25 AM EST'
+
+[5490] StaticText '8 months ago'
+
+[4333] StaticText ' in '
+
+[4334] link 'Pennsylvania'
+
+[3074] StaticText 'Beloved former '
+
+[3075] mark ''
+
+[4335] StaticText 'Pittsburgh'
+
+[3076] StaticText ' Pirate has agreed to a one-year deal with the team. McCutchen is the fourth-highest home run hitter in Pirates history. With 203, he ranks behind only three Hall-of-Famers'
+
+[5493] link '14 comments'
+
+[3080] button 'Upvote'
+
+[4338] StaticText '55'
+
+[3083] button 'Downvote'
+
+[2177] article ''
+
+[2180] HeaderAsNonLandmark ''
+
+[3088] heading 'Where can you get rid of bad fuel in Pittsburgh?'
+
+[4346] link 'Where can you get rid of bad fuel in Pittsburgh?'
+
+[4348] mark ''
+
+[4351] StaticText 'Submitted by '
+
+[2183] link 'fobreezee' expanded: False
+
+[5509] StaticText 't3_10hsnpw'
+
+[4355] time 'January 21, 2023 at 9:38:38 AM EST'
+
+[5513] StaticText '8 months ago'
+
+[4356] StaticText ' in '
+
+[4357] link 'pittsburgh'
+
+[3091] StaticText 'have some old gas that needs disposed of. Anyone know where can you take it in '
+
+[3092] mark ''
+
+[4358] StaticText 'Pittsburgh'
+
+[5516] link '20 comments'
+
+[3096] button 'Upvote'
+
+[4361] StaticText '10'
+
+[3099] button 'Downvote'
+
+[2184] article ''
+
+[2187] HeaderAsNonLandmark ''
+
+[3104] heading 'Worst Of Pittsburgh thread'
+
+[4369] link 'Worst Of Pittsburgh thread'
+
+[4371] mark ''
+
+[4374] StaticText 'Submitted by '
+
+[2190] link 'livefast_dieawesome' expanded: False
+
+[5532] StaticText 't3_xxyjsg'
+
+[4378] time 'October 7, 2022 at 9:00:51 AM EDT'
+
+[5536] StaticText '11 months ago'
+
+[4379] StaticText ' in '
+
+[4380] link 'pittsburgh'
+
+[3107] StaticText 'with a topic. The sub comments under those are nominations. Example: “Topic: Worst fast food place in '
+
+[3108] mark ''
+
+[4381] StaticText 'Pittsburgh'
+
+[3109] StaticText '” Nomination comments under that thread could be “40th street Wendy’s” or “Arby’s on McKnight Road'
+
+[5539] link 'No comments'
+
+[3113] button 'Upvote'
+
+[3116] button 'Downvote'
+
+[2191] article ''
+
+[2194] HeaderAsNonLandmark ''
+
+[3121] heading 'Cookie Table at Pittsburgh Wedding?'
+
+[4392] link 'Cookie Table at Pittsburgh Wedding?'
+
+[4394] mark ''
+
+[4397] StaticText 'Submitted by '
+
+[2197] link 'Elphaba15212' expanded: False
+
+[5555] StaticText 't3_zpxx85'
+
+[4401] time 'December 19, 2022 at 12:34:13 PM EST'
+
+[5559] StaticText '9 months ago'
+
+[4402] StaticText ' in '
+
+[4403] link 'pittsburgh'
+
+[3124] StaticText 'website Burgh Brides, which is a '
+
+[3125] mark ''
+
+[4404] StaticText 'Pittsburgh'
+
+[3126] StaticText ' Wedding Blog, lists the cookie table as a tradition that can be skipped. What do you think? https://burghbrides.com/blog/7-wedding-traditions-you-shouldnt-feel-badly-about-skipping/'
+
+[5562] link 'No comments'
+
+[3130] button 'Upvote'
+
+[4407] StaticText '4'
+
+[3133] button 'Downvote'
+
+[2198] article ''
+
+[2201] HeaderAsNonLandmark ''
+
+[3138] heading 'Pittsburgh Neighborhood/Suburbs for LGBTQ+ Couple'
+
+[4415] link 'Pittsburgh Neighborhood/Suburbs for LGBTQ+ Couple'
+
+[4416] mark ''
+
+[4419] StaticText 'Submitted by '
+
+[2204] link 'Nickwitted' expanded: False
+
+[5578] StaticText 't3_yeyx3r'
+
+[4423] time 'October 27, 2022 at 2:06:15 PM EDT'
+
+[5582] StaticText '11 months ago'
+
+[4424] StaticText ' in '
+
+[4425] link 'pittsburgh'
+
+[3141] StaticText 'husband and I are looking to relocate to the '
+
+[3142] mark ''
+
+[4426] StaticText 'Pittsburgh'
+
+[3143] StaticText ' area from Texas in the next few months and are trying to figure out which neighborhoods or suburbs might be a good'
+
+[5585] link 'No comments'
+
+[3147] button 'Upvote'
+
+[3150] button 'Downvote'
+
+[2205] article ''
+
+[2208] HeaderAsNonLandmark ''
+
+[3155] heading 'Why is gas in Pittsburgh the 5th most expensive in the US right now?'
+
+[4437] link 'Why is gas in Pittsburgh the 5th most expensive in the US right now?'
+
+[4439] mark ''
+
+[4442] StaticText 'Submitted by '
+
+[2211] link 'babyyodaisamazing98' expanded: False
+
+[5601] StaticText 't3_zqy4lj'
+
+[4446] time 'December 20, 2022 at 3:03:54 PM EST'
+
+[5605] StaticText '9 months ago'
+
+[4447] StaticText ' in '
+
+[4448] link 'pittsburgh'
+
+[3158] StaticText 'prices in '
+
+[3159] mark ''
+
+[4449] StaticText 'Pittsburgh'
+
+[3160] StaticText ' Stuck at $3.89 while they state average is $3.50 and the national Average is $3.10. The only states with higher gas prices are Alaska, Hawaii, CA, and Washington. I feel like'
+
+[5608] link 'No comments'
+
+[3164] button 'Upvote'
+
+[3167] button 'Downvote'
+
+[2219] contentinfo ''
+
+[2248] StaticText 'Running '
+
+[2249] link 'Postmill'</pre><div>
+
+[197] [Pittsburgh
+
+[197] is searchbox 'Search query'</div>
+
+[1848] RootWebArea 'Search' focused: True
+
+[2228] HeaderAsNonLandmark ''
+
+[2229] link 'Home'
+
+[2252] StaticText 'Postmill'
+
+[2253] link 'Forums'
+
+[2254] link 'Wiki'
+
+[2213] searchbox 'Search query'
+
+[4460] StaticText 'Pittsburgh'
+
+[2262] link 'Notifications (0)'
+
+[2263] link 'Submit'
+
+[1859] button 'MarvelsGrantMan136' hasPopup: menu expanded: False
+
+[1861] main ''
+
+[2223] heading 'Search'
+
+[2266] StaticText 'Search query'
+
+[2216] searchbox 'Search query'
+
+[3266] StaticText 'Pittsburgh'
+
+[2272] button 'Search'
+
+[2224] heading '50 results for Pittsburgh:'
+
+[1862] article ''
+
+[1865] HeaderAsNonLandmark ''
+
+[2278] heading 'From Florida to Pittsburgh : Is $100,000 home budget in Pittsburgh on disability income feasible?'
+
+[3267] link 'From Florida to Pittsburgh : Is $100,000 home budget in Pittsburgh on disability income feasible?'
+
+[3269] mark ''
+
+[3271] mark ''
+
+[3275] StaticText 'Submitted by '
+
+[1868] link '[deleted]' expanded: False
+
+[4474] StaticText 't3_10969ac'
+
+[3279] time 'January 11, 2023 at 9:38:08 AM EST'
+
+[4478] StaticText '8 months ago'
+
+[3280] StaticText ' in '
+
+[3281] link 'pittsburgh'
+
+[2281] StaticText '[deleted]'
+
+[4481] link '39 comments'
+
+[2285] button 'Upvote'
+
+[3284] StaticText '0'
+
+[2288] button 'Downvote'
+
+[1869] article ''
+
+[1872] HeaderAsNonLandmark ''
+
+[2293] heading 'Perceptions on Short-Term Rentals in Pittsburgh. How do Short-Term Rentals like AirBnb impact your community? Inspired by recent discussion at a community meeting, interested in hearing your thoughts from across Greater Pittsburgh. Responses anonymous, not affiliated with AirBnb, etc. Thanks!'
+
+[3292] link 'Perceptions on Short-Term Rentals in Pittsburgh. How do Short-Term Rentals like AirBnb impact your community? Inspired by recent discussion at a community meeting, interested in hearing your thoughts from across Greater Pittsburgh. Responses anonymous, not affiliated with AirBnb, etc. Thanks!'
+
+[3294] mark ''
+
+[3296] mark ''
+
+[2295] link 'forms.gle'
+
+[3301] StaticText 'Submitted by '
+
+[1875] link 'unenlightenedgoblin' expanded: False
+
+[4497] StaticText 't3_11ef5gc'
+
+[3305] time 'February 28, 2023 at 12:57:08 PM EST'
+
+[4501] StaticText '7 months ago'
+
+[3306] StaticText ' in '
+
+[3307] link 'pittsburgh'
+
+[4504] link '23 comments'
+
+[2300] button 'Upvote'
+
+[3310] StaticText '1'
+
+[2303] button 'Downvote'
+
+[1876] article ''
+
+[1879] HeaderAsNonLandmark ''
+
+[2308] heading 'Pittsburgh-based MacTavish Pubs files Chapter 11 - Pittsburgh Business Times'
+
+[3318] link 'Pittsburgh-based MacTavish Pubs files Chapter 11 - Pittsburgh Business Times'
+
+[3319] mark ''
+
+[3321] mark ''
+
+[3325] StaticText 'Submitted by '
+
+[1882] link 'immargarita' expanded: False
+
+[4520] StaticText 't3_z43lrw'
+
+[3329] time 'November 24, 2022 at 11:16:11 PM EST'
+
+[4524] StaticText '10 months ago'
+
+[3330] StaticText ' in '
+
+[3331] link 'pittsburgh'
+
+[4527] link '8 comments'
+
+[2315] button 'Upvote'
+
+[3334] StaticText '0'
+
+[2318] button 'Downvote'
+
+[1883] article ''
+
+[1886] HeaderAsNonLandmark ''
+
+[2323] heading 'What “Pittsburgh thing” is not just found in Pittsburgh but found all throughout the US?'
+
+[3342] link 'What “Pittsburgh thing” is not just found in Pittsburgh but found all throughout the US?'
+
+[3344] mark ''
+
+[3346] mark ''
+
+[3350] StaticText 'Submitted by '
+
+[1889] link '1029Dash' expanded: False
+
+[4543] StaticText 't3_zp0owb'
+
+[3354] time 'December 18, 2022 at 10:09:37 AM EST'
+
+[4547] StaticText '9 months ago'
+
+[3355] StaticText ' in '
+
+[3356] link 'pittsburgh'
+
+[2328] button 'Upvote'
+
+[2331] button 'Downvote'</pre><div>
+
+[1848] RootWebArea 'Search' focused: True
+
+[1861] main ''
+
+[1883] article ''
+
+[4550] link 'No comments'
+
+[2331] button 'Downvote'
+
+[1890] article ''
+
+[1893] HeaderAsNonLandmark ''
+
+[2336] heading 'Thank you Pittsburghers for the substantial response to my earlier post about cool stuff to do in Pittsburgh for older teens.'
+
+[3367] link 'Thank you Pittsburghers for the substantial response to my earlier post about cool stuff to do in Pittsburgh for older teens.'
+
+[3369] mark ''
+
+[3371] mark ''
+
+[3375] StaticText 'Submitted by '
+
+[1896] link 'linguinykidneybeany' expanded: False
+
+[4566] StaticText 't3_ysojky'
+
+[3379] time 'November 11, 2022 at 5:02:25 PM EST'
+
+[4570] StaticText '10 months ago'
+
+[3380] StaticText ' in '
+
+[3381] link 'pittsburgh'
+
+[2339] StaticText 'I’m afraid I’m still requiring more activities in your awesome city. Me and'
+
+[4573] link '11 comments'
+
+[2343] button 'Upvote'
+
+[3384] StaticText '30'
+
+[2346] button 'Downvote'
+
+[1897] article ''
+
+[1900] HeaderAsNonLandmark ''
+
+[2351] heading "3 people dead, another hospitalized after shooting on Pittsburgh's North Side - CBS Pittsburgh"
+
+[3392] link "3 people dead, another hospitalized after shooting on Pittsburgh's North Side - CBS Pittsburgh"
+
+[3394] mark ''
+
+[3396] mark ''
+
+[2353] link 'cbsnews.com'
+
+[3400] StaticText 'Submitted by '
+
+[1903] link 'oldschoolskater' expanded: False
+
+[4589] StaticText 't3_y57li4'
+
+[3404] time 'October 16, 2022 at 12:30:16 AM EDT'
+
+[4593] StaticText '11 months ago'
+
+[3405] StaticText ' in '
+
+[3406] link 'pittsburgh'
+
+[4596] link 'No comments'
+
+[2358] button 'Upvote'
+
+[2361] button 'Downvote'
+
+[1904] article ''
+
+[1907] HeaderAsNonLandmark ''
+
+[2366] heading 'Constantly seeing “Pittsburgh doesn’t have this, Pittsburgh doesn’t have that”. What do we have?'
+
+[3417] link 'Constantly seeing “Pittsburgh doesn’t have this, Pittsburgh doesn’t have that”. What do we have?'
+
+[3419] mark ''
+
+[3421] mark ''
+
+[3425] StaticText 'Submitted by '
+
+[1910] link 'SnooMarzipans3516' expanded: False
+
+[4612] StaticText 't3_10pzw5x'
+
+[3429] time 'January 31, 2023 at 9:05:12 AM EST'
+
+[4616] StaticText '7 months ago'
+
+[3430] StaticText ' in '
+
+[3431] link 'pittsburgh'
+
+[2369] StaticText 'I’ve seen a few posts lately of people looking to relo to the area'
+
+[4619] link 'No comments'
+
+[2373] button 'Upvote'
+
+[2376] button 'Downvote'
+
+[1911] article ''
+
+[1914] HeaderAsNonLandmark ''
+
+[2381] heading 'Tell me you’re from Pittsburgh without telling me you’re from Pittsburgh, this should be fun'
+
+[3442] link 'Tell me you’re from Pittsburgh without telling me you’re from Pittsburgh, this should be fun'
+
+[3444] mark ''
+
+[3446] mark ''
+
+[3450] StaticText 'Submitted by '
+
+[1917] link 'Themayorofawesome' expanded: False
+
+[4635] StaticText 't3_zhqbcp'
+
+[3454] time 'December 10, 2022 at 6:29:32 AM EST'
+
+[4639] StaticText '9 months ago'
+
+[3455] StaticText ' in '
+
+[3456] link 'pittsburgh'
+
+[4642] link '164 comments'
+
+[2386] button 'Upvote'
+
+[3459] StaticText '14'
+
+[2389] button 'Downvote'
+
+[1918] article ''
+
+[1921] HeaderAsNonLandmark ''
+
+[2394] heading 'I asked Chat GPT to generate 10 headlines about Pittsburgh in the style of The Onion.'
+
+[3467] link 'I asked Chat GPT to generate 10 headlines about Pittsburgh in the style of The Onion.'
+
+[3469] mark ''
+
+[3472] StaticText 'Submitted by '
+
+[1924] link 'solarbot88' expanded: False
+
+[4658] StaticText 't3_10oncl0'
+
+[3476] time 'January 29, 2023 at 7:19:08 PM EST'
+
+[4662] StaticText '8 months ago'
+
+[3477] StaticText ' in '
+
+[3478] link 'pittsburgh'
+
+[2397] mark ''
+
+[3479] StaticText 'Pittsburgh'
+
+[2398] StaticText ' Named Most Liveable City...Again, Residents Ask What\'s the Catch?" 2. "Study Finds 90% of '
+
+[2399] mark ''
+
+[2400] StaticText ' Drivers Actually Just Follow the Car in Front of Them" 3. "City of '
+
+[2401] mark ''
+
+[3481] StaticText 'Pittsburgh'
+
+[2402] StaticText ' Announces Plan ... Turn Every River into Primitive Water Slide Park" 4. "'
+
+[2403] mark ''
+
+[2404] StaticText ' Man Shocked to Discover Primanti Bros. Sandwich Not Actually a Health Food" 5. "Local Steeler\'s Fan Forced to Admit He\'s Only Watched ... Hard" 6. "City Council Debates Whether to Rename Mount Washington to \'Mount Burrito Hill" 7. "Report Finds '
+
+[2405] mark ''
+
+[3483] StaticText 'Pittsburgh'
+
+[2406] StaticText ' Snow Plows Mostly Just Push Snow to Other Neighborhoods" 8. "Local Man Insists on Wearing Terrible Towel'
+
+[4665] link '72 comments'
+
+[2410] button 'Upvote'
+
+[3486] StaticText '784'
+
+[2413] button 'Downvote'
+
+[1925] article ''
+
+[1928] HeaderAsNonLandmark ''
+
+[2418] heading 'WPXI: Pittsburgh police release details about sexual assault allegations against high school students'
+
+[3494] link 'WPXI: Pittsburgh police release details about sexual assault allegations against high school students'
+
+[3496] mark ''
+
+[3499] StaticText 'Submitted by '
+
+[1931] link 'DanielAlman' expanded: False
+
+[4681] StaticText 't3_yfafh7'
+
+[3503] time 'October 27, 2022 at 9:54:11 PM EDT'
+
+[4685] StaticText '11 months ago'
+
+[3504] StaticText ' in '
+
+[3505] link 'pittsburgh'
+
+[2421] StaticText 'people who actually live here tend to be very well behaved and law abiding. [https://www.wpxi.com/news/local/pittsburgh-police-release-details-about-sexual-assault-allegations-against-high-school-students/PLPP425R4RCPTOGWK43GM5TQJM/](https://www.wpxi.com/news/local/pittsburgh-police-release-details-about-sexual-assault-allegations-against-high-school-students/PLPP425R4RCPTOGWK43GM5TQJM/) '
+
+[2435] button 'Upvote'
+
+[2438] button 'Downvote'</pre><div>
+
+[1848] RootWebArea 'Search' focused: True
+
+[1861] main ''
+
+[1883] article ''
+
+[4550] link 'No comments'
+
+[2331] button 'Downvote'
+
+[1890] article ''
+
+[1893] HeaderAsNonLandmark ''
+
+[2336] heading 'Thank you Pittsburghers for the substantial response to my earlier post about cool stuff to do in Pittsburgh for older teens.'
+
+[3367] link 'Thank you Pittsburghers for the substantial response to my earlier post about cool stuff to do in Pittsburgh for older teens.'
+
+[3369] mark ''
+
+[3371] mark ''
+
+[3375] StaticText 'Submitted by '
+
+[1896] link 'linguinykidneybeany' expanded: False
+
+[4566] StaticText 't3_ysojky'
+
+[3379] time 'November 11, 2022 at 5:02:25 PM EST'
+
+[4570] StaticText '10 months ago'
+
+[3380] StaticText ' in '
+
+[3381] link 'pittsburgh'
+
+[2339] StaticText 'I’m afraid I’m still requiring more activities in your awesome city. Me and'
+
+[4573] link '11 comments'
+
+[2343] button 'Upvote'
+
+[3384] StaticText '30'
+
+[2346] button 'Downvote'
+
+[1897] article ''
+
+[1900] HeaderAsNonLandmark ''
+
+[2351] heading "3 people dead, another hospitalized after shooting on Pittsburgh's North Side - CBS Pittsburgh"
+
+[3392] link "3 people dead, another hospitalized after shooting on Pittsburgh's North Side - CBS Pittsburgh"
+
+[3394] mark ''
+
+[3396] mark ''
+
+[2353] link 'cbsnews.com'
+
+[3400] StaticText 'Submitted by '
+
+[1903] link 'oldschoolskater' expanded: False
+
+[4589] StaticText 't3_y57li4'
+
+[3404] time 'October 16, 2022 at 12:30:16 AM EDT'
+
+[4593] StaticText '11 months ago'
+
+[3405] StaticText ' in '
+
+[3406] link 'pittsburgh'
+
+[4596] link 'No comments'
+
+[2358] button 'Upvote'
+
+[2361] button 'Downvote'
+
+[1904] article ''
+
+[1907] HeaderAsNonLandmark ''
+
+[2366] heading 'Constantly seeing “Pittsburgh doesn’t have this, Pittsburgh doesn’t have that”. What do we have?'
+
+[3417] link 'Constantly seeing “Pittsburgh doesn’t have this, Pittsburgh doesn’t have that”. What do we have?'
+
+[3419] mark ''
+
+[3421] mark ''
+
+[3425] StaticText 'Submitted by '
+
+[1910] link 'SnooMarzipans3516' expanded: False
+
+[4612] StaticText 't3_10pzw5x'
+
+[3429] time 'January 31, 2023 at 9:05:12 AM EST'
+
+[4616] StaticText '7 months ago'
+
+[3430] StaticText ' in '
+
+[3431] link 'pittsburgh'
+
+[2369] StaticText 'I’ve seen a few posts lately of people looking to relo to the area'
+
+[4619] link 'No comments'
+
+[2373] button 'Upvote'
+
+[2376] button 'Downvote'
+
+[1911] article ''
+
+[1914] HeaderAsNonLandmark ''
+
+[2381] heading 'Tell me you’re from Pittsburgh without telling me you’re from Pittsburgh, this should be fun'
+
+[3442] link 'Tell me you’re from Pittsburgh without telling me you’re from Pittsburgh, this should be fun'
+
+[3444] mark ''
+
+[3446] mark ''
+
+[3450] StaticText 'Submitted by '
+
+[1917] link 'Themayorofawesome' expanded: False
+
+[4635] StaticText 't3_zhqbcp'
+
+[3454] time 'December 10, 2022 at 6:29:32 AM EST'
+
+[4639] StaticText '9 months ago'
+
+[3455] StaticText ' in '
+
+[3456] link 'pittsburgh'
+
+[4642] link '164 comments'
+
+[2386] button 'Upvote'
+
+[3459] StaticText '14'
+
+[2389] button 'Downvote'
+
+[1918] article ''
+
+[1921] HeaderAsNonLandmark ''
+
+[2394] heading 'I asked Chat GPT to generate 10 headlines about Pittsburgh in the style of The Onion.'
+
+[3467] link 'I asked Chat GPT to generate 10 headlines about Pittsburgh in the style of The Onion.'
+
+[3469] mark ''
+
+[3472] StaticText 'Submitted by '
+
+[1924] link 'solarbot88' expanded: False
+
+[4658] StaticText 't3_10oncl0'
+
+[3476] time 'January 29, 2023 at 7:19:08 PM EST'
+
+[4662] StaticText '8 months ago'
+
+[3477] StaticText ' in '
+
+[3478] link 'pittsburgh'
+
+[2397] mark ''
+
+[3479] StaticText 'Pittsburgh'
+
+[2398] StaticText ' Named Most Liveable City...Again, Residents Ask What\'s the Catch?" 2. "Study Finds 90% of '
+
+[2399] mark ''
+
+[2400] StaticText ' Drivers Actually Just Follow the Car in Front of Them" 3. "City of '
+
+[2401] mark ''
+
+[3481] StaticText 'Pittsburgh'
+
+[2402] StaticText ' Announces Plan ... Turn Every River into Primitive Water Slide Park" 4. "'
+
+[2403] mark ''
+
+[2404] StaticText ' Man Shocked to Discover Primanti Bros. Sandwich Not Actually a Health Food" 5. "Local Steeler\'s Fan Forced to Admit He\'s Only Watched ... Hard" 6. "City Council Debates Whether to Rename Mount Washington to \'Mount Burrito Hill" 7. "Report Finds '
+
+[2405] mark ''
+
+[3483] StaticText 'Pittsburgh'
+
+[2406] StaticText ' Snow Plows Mostly Just Push Snow to Other Neighborhoods" 8. "Local Man Insists on Wearing Terrible Towel'
+
+[4665] link '72 comments'
+
+[2410] button 'Upvote'
+
+[3486] StaticText '784'
+
+[2413] button 'Downvote'
+
+[1925] article ''
+
+[1928] HeaderAsNonLandmark ''
+
+[2418] heading 'WPXI: Pittsburgh police release details about sexual assault allegations against high school students'
+
+[3494] link 'WPXI: Pittsburgh police release details about sexual assault allegations against high school students'
+
+[3496] mark ''
+
+[3499] StaticText 'Submitted by '
+
+[1931] link 'DanielAlman' expanded: False
+
+[4681] StaticText 't3_yfafh7'
+
+[3503] time 'October 27, 2022 at 9:54:11 PM EDT'
+
+[4685] StaticText '11 months ago'
+
+[3504] StaticText ' in '
+
+[3505] link 'pittsburgh'
+
+[2421] StaticText 'people who actually live here tend to be very well behaved and law abiding. [https://www.wpxi.com/news/local/pittsburgh-police-release-details-about-sexual-assault-allegations-against-high-school-students/PLPP425R4RCPTOGWK43GM5TQJM/](https://www.wpxi.com/news/local/pittsburgh-police-release-details-about-sexual-assault-allegations-against-high-school-students/PLPP425R4RCPTOGWK43GM5TQJM/) '
+
+[2435] button 'Upvote'
+
+[2438] button 'Downvote'</pre><div>
+
+[1848] RootWebArea 'Search' focused: True
+
+[1861] main ''
+
+[1925] article ''
+
+[2421] StaticText 'people who actually live here tend to be very well behaved and law abiding. [https://www.wpxi.com/news/local/pittsburgh-police-release-details-about-sexual-assault-allegations-against-high-school-students/PLPP425R4RCPTOGWK43GM5TQJM/](https://www.wpxi.com/news/local/pittsburgh-police-release-details-about-sexual-assault-allegations-against-high-school-students/PLPP425R4RCPTOGWK43GM5TQJM/) '
+
+[2422] mark ''
+
+[3506] StaticText 'Pittsburgh'
+
+[2423] StaticText ' police release details about sexual assault allegations against high school students October 27, 2022 '
+
+[2424] mark ''
+
+[3507] StaticText 'PITTSBURGH'
+
+[2425] StaticText ' — '
+
+[2426] mark ''
+
+[3508] StaticText 'Pittsburgh'
+
+[2427] StaticText '\xa0police ... that we are aware of the incident and we are actively investigating at this time,” said '
+
+[2428] mark ''
+
+[2429] StaticText ' Police Commander Richard Ford, who heads the\xa0Major Crimes division. Police have declined to release further details. Target ... learned that the alleged assault happened on Friday, Oct. 14, and that\xa0detectives from the\xa0'
+
+[2430] mark ''
+
+[3510] StaticText 'Pittsburgh'
+
+[2431] StaticText ' Police Bureau Special Victims Unit canvassed the area near Forward and Murray\xa0and they’ve\xa0also visited the high'
+
+[4688] link '32 comments'
+
+[1932] article ''
+
+[1935] HeaderAsNonLandmark ''
+
+[2443] heading 'The fall of Pittsburgh Bodegas'
+
+[3521] link 'The fall of Pittsburgh Bodegas'
+
+[3523] mark ''
+
+[3526] StaticText 'Submitted by '
+
+[1938] link 'HarpPgh' expanded: False
+
+[4704] StaticText 't3_11aiqge'
+
+[3530] time 'February 23, 2023 at 11:45:03 PM EST'
+
+[4708] StaticText '7 months ago'
+
+[3531] StaticText ' in '
+
+[3532] link 'pittsburgh'
+
+[2446] StaticText 'wondering what sort of negative impact this has had on convenience as well; specifically local stores/bodegas in '
+
+[2447] mark ''
+
+[3533] StaticText 'Pittsburgh'
+
+[2448] StaticText ' metropolitan area. Being ignorant and only citing what I grew up with in the 90s, Schwartz ... especially the little one on mission street🥲. I’m imagining there were other awesome neighborhood markets in '
+
+[2449] mark ''
+
+[2450] StaticText ' just like this that also unfortunately failed to stand the test of time, probably also losing ... still have these thriving corner stores. A lot of them have essentials like produce, eggs, and milk. '
+
+[2451] mark ''
+
+[3535] StaticText 'Pittsburgh'
+
+[2452] StaticText ' has seemingly dropped the ball here. Most recently we watched Shadyside and Bloomfield, two of our densest'
+
+[4711] link '62 comments'
+
+[2456] button 'Upvote'
+
+[3538] StaticText '41'
+
+[2459] button 'Downvote'
+
+[1939] article ''
+
+[1942] HeaderAsNonLandmark ''
+
+[2464] heading 'We are considering a move from the Bay Area to Pittsburgh area. Mistake? Alternatives?'
+
+[3546] link 'We are considering a move from the Bay Area to Pittsburgh area. Mistake? Alternatives?'
+
+[3548] mark ''
+
+[3551] StaticText 'Submitted by '
+
+[1945] link 'No-Camp9363' expanded: False
+
+[4727] StaticText 't3_yzkg6m'
+
+[3555] time 'November 19, 2022 at 2:51:42 PM EST'
+
+[4731] StaticText '10 months ago'
+
+[3556] StaticText ' in '
+
+[3557] link 'pittsburgh'
+
+[2467] StaticText 'were looking to move back east and looking at the suburbs of '
+
+[2468] mark ''
+
+[3558] StaticText 'Pittsburgh'
+
+[2470] mark ''
+
+[2471] StaticText ' on paper seems to fit the bill. I watched a video on youtube dissing PA and '
+
+[2472] mark ''
+
+[3560] StaticText 'Pittsburgh'
+
+[2473] StaticText ' ... Seattle. Cost of living is still high and they still deal with wildfire smoke and earthquakes. However, '
+
+[2474] mark ''
+
+[2475] StaticText ' air quality is a very big concern especially with little ones with sensitive lungs. &amp;#x200B'
+
+[4734] link '55 comments'
+
+[2479] button 'Upvote'
+
+[2482] button 'Downvote'
+
+[1946] article ''
+
+[1949] HeaderAsNonLandmark ''
+
+[2487] heading 'Armored MMA in Pittsburgh'
+
+[3572] link 'Armored MMA in Pittsburgh'
+
+[3574] mark ''
+
+[3576] StaticText 'Submitted by '
+
+[1952] link 'Wixard00' expanded: False
+
+[4750] StaticText 't3_1262ycc'
+
+[3580] time 'March 29, 2023 at 6:31:06 PM EDT'
+
+[4754] StaticText '6 months ago'
+
+[3581] StaticText ' in '
+
+[3582] link 'pittsburgh'
+
+[2490] StaticText 'like to meet us and get started. We compete locally in our own events here in '
+
+[2491] mark ''
+
+[3583] StaticText 'Pittsburgh'
+
+[2493] mark ''
+
+[2495] mark ''
+
+[4757] link '14 comments'
+
+[2500] button 'Upvote'
+
+[3588] StaticText '17'
+
+[2503] button 'Downvote'
+
+[1953] article ''
+
+[1956] HeaderAsNonLandmark ''
+
+[2508] heading 'General awareness of Pittsburgh location'
+
+[3596] link 'General awareness of Pittsburgh location'
+
+[3598] mark ''
+
+[2521] button 'Upvote'</pre><div>
+
+[1848] RootWebArea 'Search' focused: True
+
+[1861] main ''
+
+[1925] article ''
+
+[2421] StaticText 'people who actually live here tend to be very well behaved and law abiding. [https://www.wpxi.com/news/local/pittsburgh-police-release-details-about-sexual-assault-allegations-against-high-school-students/PLPP425R4RCPTOGWK43GM5TQJM/](https://www.wpxi.com/news/local/pittsburgh-police-release-details-about-sexual-assault-allegations-against-high-school-students/PLPP425R4RCPTOGWK43GM5TQJM/) '
+
+[2422] mark ''
+
+[3506] StaticText 'Pittsburgh'
+
+[2423] StaticText ' police release details about sexual assault allegations against high school students October 27, 2022 '
+
+[2424] mark ''
+
+[3507] StaticText 'PITTSBURGH'
+
+[2425] StaticText ' — '
+
+[2426] mark ''
+
+[3508] StaticText 'Pittsburgh'
+
+[2427] StaticText '\xa0police ... that we are aware of the incident and we are actively investigating at this time,” said '
+
+[2428] mark ''
+
+[2429] StaticText ' Police Commander Richard Ford, who heads the\xa0Major Crimes division. Police have declined to release further details. Target ... learned that the alleged assault happened on Friday, Oct. 14, and that\xa0detectives from the\xa0'
+
+[2430] mark ''
+
+[3510] StaticText 'Pittsburgh'
+
+[2431] StaticText ' Police Bureau Special Victims Unit canvassed the area near Forward and Murray\xa0and they’ve\xa0also visited the high'
+
+[4688] link '32 comments'
+
+[1932] article ''
+
+[1935] HeaderAsNonLandmark ''
+
+[2443] heading 'The fall of Pittsburgh Bodegas'
+
+[3521] link 'The fall of Pittsburgh Bodegas'
+
+[3523] mark ''
+
+[3526] StaticText 'Submitted by '
+
+[1938] link 'HarpPgh' expanded: False
+
+[4704] StaticText 't3_11aiqge'
+
+[3530] time 'February 23, 2023 at 11:45:03 PM EST'
+
+[4708] StaticText '7 months ago'
+
+[3531] StaticText ' in '
+
+[3532] link 'pittsburgh'
+
+[2446] StaticText 'wondering what sort of negative impact this has had on convenience as well; specifically local stores/bodegas in '
+
+[2447] mark ''
+
+[3533] StaticText 'Pittsburgh'
+
+[2448] StaticText ' metropolitan area. Being ignorant and only citing what I grew up with in the 90s, Schwartz ... especially the little one on mission street🥲. I’m imagining there were other awesome neighborhood markets in '
+
+[2449] mark ''
+
+[2450] StaticText ' just like this that also unfortunately failed to stand the test of time, probably also losing ... still have these thriving corner stores. A lot of them have essentials like produce, eggs, and milk. '
+
+[2451] mark ''
+
+[3535] StaticText 'Pittsburgh'
+
+[2452] StaticText ' has seemingly dropped the ball here. Most recently we watched Shadyside and Bloomfield, two of our densest'
+
+[4711] link '62 comments'
+
+[2456] button 'Upvote'
+
+[3538] StaticText '41'
+
+[2459] button 'Downvote'
+
+[1939] article ''
+
+[1942] HeaderAsNonLandmark ''
+
+[2464] heading 'We are considering a move from the Bay Area to Pittsburgh area. Mistake? Alternatives?'
+
+[3546] link 'We are considering a move from the Bay Area to Pittsburgh area. Mistake? Alternatives?'
+
+[3548] mark ''
+
+[3551] StaticText 'Submitted by '
+
+[1945] link 'No-Camp9363' expanded: False
+
+[4727] StaticText 't3_yzkg6m'
+
+[3555] time 'November 19, 2022 at 2:51:42 PM EST'
+
+[4731] StaticText '10 months ago'
+
+[3556] StaticText ' in '
+
+[3557] link 'pittsburgh'
+
+[2467] StaticText 'were looking to move back east and looking at the suburbs of '
+
+[2468] mark ''
+
+[3558] StaticText 'Pittsburgh'
+
+[2470] mark ''
+
+[2471] StaticText ' on paper seems to fit the bill. I watched a video on youtube dissing PA and '
+
+[2472] mark ''
+
+[3560] StaticText 'Pittsburgh'
+
+[2473] StaticText ' ... Seattle. Cost of living is still high and they still deal with wildfire smoke and earthquakes. However, '
+
+[2474] mark ''
+
+[2475] StaticText ' air quality is a very big concern especially with little ones with sensitive lungs. &amp;#x200B'
+
+[4734] link '55 comments'
+
+[2479] button 'Upvote'
+
+[2482] button 'Downvote'
+
+[1946] article ''
+
+[1949] HeaderAsNonLandmark ''
+
+[2487] heading 'Armored MMA in Pittsburgh'
+
+[3572] link 'Armored MMA in Pittsburgh'
+
+[3574] mark ''
+
+[3576] StaticText 'Submitted by '
+
+[1952] link 'Wixard00' expanded: False
+
+[4750] StaticText 't3_1262ycc'
+
+[3580] time 'March 29, 2023 at 6:31:06 PM EDT'
+
+[4754] StaticText '6 months ago'
+
+[3581] StaticText ' in '
+
+[3582] link 'pittsburgh'
+
+[2490] StaticText 'like to meet us and get started. We compete locally in our own events here in '
+
+[2491] mark ''
+
+[3583] StaticText 'Pittsburgh'
+
+[2493] mark ''
+
+[2495] mark ''
+
+[4757] link '14 comments'
+
+[2500] button 'Upvote'
+
+[3588] StaticText '17'
+
+[2503] button 'Downvote'
+
+[1953] article ''
+
+[1956] HeaderAsNonLandmark ''
+
+[2508] heading 'General awareness of Pittsburgh location'
+
+[3596] link 'General awareness of Pittsburgh location'
+
+[3598] mark ''
+
+[2521] button 'Upvote'</pre><div>
+
+[1848] RootWebArea 'Search' focused: True
+
+[1861] main ''
+
+[1953] article ''
+
+[1956] HeaderAsNonLandmark ''
+
+[3601] StaticText 'Submitted by '
+
+[1959] link '[deleted]' expanded: False
+
+[4773] StaticText 't3_yk2r1m'
+
+[3605] time 'November 2, 2022 at 7:32:41 AM EDT'
+
+[4777] StaticText '10 months ago'
+
+[3606] StaticText ' in '
+
+[3607] link 'pittsburgh'
+
+[2511] StaticText 'classic scenario: you tell someone you live in '
+
+[2512] mark ''
+
+[3608] StaticText 'Pittsburgh'
+
+[2513] StaticText ' and they reply, “I’ve been to Philadelphia but never '
+
+[2514] mark ''
+
+[2515] StaticText '.” Then, when you tell them Philadelphia is 5 hours away, and '
+
+[2516] mark ''
+
+[3610] StaticText 'Pittsburgh'
+
+[2517] StaticText ' is closest'
+
+[4780] link 'No comments'
+
+[2524] button 'Downvote'
+
+[1960] article ''
+
+[1963] HeaderAsNonLandmark ''
+
+[2529] heading 'Looking for Experience gifts in Pittsburgh'
+
+[3621] link 'Looking for Experience gifts in Pittsburgh'
+
+[3623] mark ''
+
+[3625] StaticText 'Submitted by '
+
+[1966] link 'Local_Penalty2078' expanded: False
+
+[4796] StaticText 't3_z97her'
+
+[3629] time 'November 30, 2022 at 6:44:33 PM EST'
+
+[4800] StaticText '10 months ago'
+
+[3630] StaticText ' in '
+
+[3631] link 'pittsburgh'
+
+[2532] StaticText 'Hello '
+
+[2533] mark ''
+
+[3632] StaticText 'Pittsburgh'
+
+[2534] StaticText ' redditors! I\'m looking for an experience -type gift for my SO and I was wondering what kind of ideas you all might have? I am looking possibly into cooking classes ... things to do! I feel like this thread has become "How to properly plan a date in '
+
+[2535] mark ''
+
+[2536] StaticText '". There are so many things to pick from that I\'ll be finding things ... many of these as I can! Everyone who responded, thank you - this demonstrates how awesome a place '
+
+[2537] mark ''
+
+[3634] StaticText 'Pittsburgh'
+
+[4803] link '3 comments'
+
+[2541] button 'Upvote'
+
+[3637] StaticText '114'
+
+[2544] button 'Downvote'
+
+[1967] article ''
+
+[1970] HeaderAsNonLandmark ''
+
+[2549] heading 'Is Pittsburgh a chain restaurant city?'
+
+[3645] link 'Is Pittsburgh a chain restaurant city?'
+
+[3647] mark ''
+
+[3650] StaticText 'Submitted by '
+
+[1973] link 'thehofstetter' expanded: False
+
+[4819] StaticText 't3_118c9hd'
+
+[3654] time 'February 21, 2023 at 1:24:36 PM EST'
+
+[4823] StaticText '7 months ago'
+
+[3655] StaticText ' in '
+
+[3656] link 'pittsburgh'
+
+[2552] StaticText 'friendly argument with a buddy about whether or not '
+
+[2553] mark ''
+
+[3657] StaticText 'Pittsburgh'
+
+[2554] StaticText ' is a chain restaurant/bar town. While we have a bunch of them, I think the independent places are doing better. I read that '
+
+[2555] mark ''
+
+[4826] link '138 comments'
+
+[2559] button 'Upvote'
+
+[3661] StaticText '63'
+
+[2562] button 'Downvote'
+
+[1974] article ''
+
+[1977] HeaderAsNonLandmark ''
+
+[2567] heading 'Pittsburgh: the "just-right" porridge of American communication styles'
+
+[3669] link 'Pittsburgh: the "just-right" porridge of American communication styles'
+
+[3670] mark ''
+
+[3673] StaticText 'Submitted by '
+
+[1980] link 'LockedOutOfElfland' expanded: False
+
+[4842] StaticText 't3_zzzs3y'
+
+[3677] time 'December 31, 2022 at 1:00:21 PM EST'
+
+[4846] StaticText '8 months ago'
+
+[3678] StaticText ' in '
+
+[3679] link 'pittsburgh'
+
+[2570] StaticText 'honey..." In the west coast culture (and this seems to be a habit picked up by '
+
+[2571] mark ''
+
+[3680] StaticText 'Pittsburghers'
+
+[2573] mark ''
+
+[2574] StaticText ', now. Being here is like Goldilocks entering the house of the three bears and finding Mama Bear'
+
+[4849] link '1 comment'
+
+[2578] button 'Upvote'
+
+[3684] StaticText '38'
+
+[2581] button 'Downvote'
+
+[1981] article ''
+
+[1984] HeaderAsNonLandmark ''
+
+[2586] heading 'Upcoming trip to Pittsburgh. Question about masks.'
+
+[3692] link 'Upcoming trip to Pittsburgh. Question about masks.'
+
+[3694] mark ''
+
+[3697] StaticText 'Submitted by '
+
+[1987] link 'zimmbo' expanded: False
+
+[4865] StaticText 't3_11kktnd'
+
+[3701] time 'March 6, 2023 at 8:23:53 PM EST'
+
+[4869] StaticText '6 months ago'
+
+[3702] StaticText ' in '
+
+[3703] link 'pittsburgh'
+
+[2589] StaticText 'Hello! Excited to visit '
+
+[2590] mark ''
+
+[3704] StaticText 'Pittsburgh'
+
+[2591] StaticText ' for the first time. Just curious- we know masks aren’t required but we still choose to wear them inside. Are many people (or any) in shops, museums etc… still ... wearing masks in '
+
+[2592] mark ''
+
+[4872] link 'No comments'
+
+[2596] button 'Upvote'
+
+[3708] StaticText '0'
+
+[2599] button 'Downvote'
+
+[1988] article ''
+
+[1991] HeaderAsNonLandmark ''
+
+[2604] heading 'How’s the local music scene in Pittsburgh- really?'
+
+[3716] link 'How’s the local music scene in Pittsburgh- really?'
+
+[3718] mark ''
+
+[2615] button 'Upvote'</pre><div>
+
+[1848] RootWebArea 'Search' focused: True
+
+[1861] main ''
+
+[1953] article ''
+
+[1956] HeaderAsNonLandmark ''
+
+[3601] StaticText 'Submitted by '
+
+[1959] link '[deleted]' expanded: False
+
+[4773] StaticText 't3_yk2r1m'
+
+[3605] time 'November 2, 2022 at 7:32:41 AM EDT'
+
+[4777] StaticText '10 months ago'
+
+[3606] StaticText ' in '
+
+[3607] link 'pittsburgh'
+
+[2511] StaticText 'classic scenario: you tell someone you live in '
+
+[2512] mark ''
+
+[3608] StaticText 'Pittsburgh'
+
+[2513] StaticText ' and they reply, “I’ve been to Philadelphia but never '
+
+[2514] mark ''
+
+[2515] StaticText '.” Then, when you tell them Philadelphia is 5 hours away, and '
+
+[2516] mark ''
+
+[3610] StaticText 'Pittsburgh'
+
+[2517] StaticText ' is closest'
+
+[4780] link 'No comments'
+
+[2524] button 'Downvote'
+
+[1960] article ''
+
+[1963] HeaderAsNonLandmark ''
+
+[2529] heading 'Looking for Experience gifts in Pittsburgh'
+
+[3621] link 'Looking for Experience gifts in Pittsburgh'
+
+[3623] mark ''
+
+[3625] StaticText 'Submitted by '
+
+[1966] link 'Local_Penalty2078' expanded: False
+
+[4796] StaticText 't3_z97her'
+
+[3629] time 'November 30, 2022 at 6:44:33 PM EST'
+
+[4800] StaticText '10 months ago'
+
+[3630] StaticText ' in '
+
+[3631] link 'pittsburgh'
+
+[2532] StaticText 'Hello '
+
+[2533] mark ''
+
+[3632] StaticText 'Pittsburgh'
+
+[2534] StaticText ' redditors! I\'m looking for an experience -type gift for my SO and I was wondering what kind of ideas you all might have? I am looking possibly into cooking classes ... things to do! I feel like this thread has become "How to properly plan a date in '
+
+[2535] mark ''
+
+[2536] StaticText '". There are so many things to pick from that I\'ll be finding things ... many of these as I can! Everyone who responded, thank you - this demonstrates how awesome a place '
+
+[2537] mark ''
+
+[3634] StaticText 'Pittsburgh'
+
+[4803] link '3 comments'
+
+[2541] button 'Upvote'
+
+[3637] StaticText '114'
+
+[2544] button 'Downvote'
+
+[1967] article ''
+
+[1970] HeaderAsNonLandmark ''
+
+[2549] heading 'Is Pittsburgh a chain restaurant city?'
+
+[3645] link 'Is Pittsburgh a chain restaurant city?'
+
+[3647] mark ''
+
+[3650] StaticText 'Submitted by '
+
+[1973] link 'thehofstetter' expanded: False
+
+[4819] StaticText 't3_118c9hd'
+
+[3654] time 'February 21, 2023 at 1:24:36 PM EST'
+
+[4823] StaticText '7 months ago'
+
+[3655] StaticText ' in '
+
+[3656] link 'pittsburgh'
+
+[2552] StaticText 'friendly argument with a buddy about whether or not '
+
+[2553] mark ''
+
+[3657] StaticText 'Pittsburgh'
+
+[2554] StaticText ' is a chain restaurant/bar town. While we have a bunch of them, I think the independent places are doing better. I read that '
+
+[2555] mark ''
+
+[4826] link '138 comments'
+
+[2559] button 'Upvote'
+
+[3661] StaticText '63'
+
+[2562] button 'Downvote'
+
+[1974] article ''
+
+[1977] HeaderAsNonLandmark ''
+
+[2567] heading 'Pittsburgh: the "just-right" porridge of American communication styles'
+
+[3669] link 'Pittsburgh: the "just-right" porridge of American communication styles'
+
+[3670] mark ''
+
+[3673] StaticText 'Submitted by '
+
+[1980] link 'LockedOutOfElfland' expanded: False
+
+[4842] StaticText 't3_zzzs3y'
+
+[3677] time 'December 31, 2022 at 1:00:21 PM EST'
+
+[4846] StaticText '8 months ago'
+
+[3678] StaticText ' in '
+
+[3679] link 'pittsburgh'
+
+[2570] StaticText 'honey..." In the west coast culture (and this seems to be a habit picked up by '
+
+[2571] mark ''
+
+[3680] StaticText 'Pittsburghers'
+
+[2573] mark ''
+
+[2574] StaticText ', now. Being here is like Goldilocks entering the house of the three bears and finding Mama Bear'
+
+[4849] link '1 comment'
+
+[2578] button 'Upvote'
+
+[3684] StaticText '38'
+
+[2581] button 'Downvote'
+
+[1981] article ''
+
+[1984] HeaderAsNonLandmark ''
+
+[2586] heading 'Upcoming trip to Pittsburgh. Question about masks.'
+
+[3692] link 'Upcoming trip to Pittsburgh. Question about masks.'
+
+[3694] mark ''
+
+[3697] StaticText 'Submitted by '
+
+[1987] link 'zimmbo' expanded: False
+
+[4865] StaticText 't3_11kktnd'
+
+[3701] time 'March 6, 2023 at 8:23:53 PM EST'
+
+[4869] StaticText '6 months ago'
+
+[3702] StaticText ' in '
+
+[3703] link 'pittsburgh'
+
+[2589] StaticText 'Hello! Excited to visit '
+
+[2590] mark ''
+
+[3704] StaticText 'Pittsburgh'
+
+[2591] StaticText ' for the first time. Just curious- we know masks aren’t required but we still choose to wear them inside. Are many people (or any) in shops, museums etc… still ... wearing masks in '
+
+[2592] mark ''
+
+[4872] link 'No comments'
+
+[2596] button 'Upvote'
+
+[3708] StaticText '0'
+
+[2599] button 'Downvote'
+
+[1988] article ''
+
+[1991] HeaderAsNonLandmark ''
+
+[2604] heading 'How’s the local music scene in Pittsburgh- really?'
+
+[3716] link 'How’s the local music scene in Pittsburgh- really?'
+
+[3718] mark ''
+
+[2615] button 'Upvote'</pre><div>
+
+[1848] RootWebArea 'Search' focused: True
+
+[1861] main ''
+
+[1988] article ''
+
+[1991] HeaderAsNonLandmark ''
+
+[2604] heading 'How’s the local music scene in Pittsburgh- really?'
+
+[3716] link 'How’s the local music scene in Pittsburgh- really?'
+
+[3718] mark ''
+
+[3721] StaticText 'Submitted by '
+
+[1994] link 'meatsweats77' expanded: False
+
+[4888] StaticText 't3_10oc3do'
+
+[3725] time 'January 29, 2023 at 11:47:04 AM EST'
+
+[4892] StaticText '8 months ago'
+
+[3726] StaticText ' in '
+
+[3727] link 'pittsburgh'
+
+[2607] StaticText 'that play at little dive bars and clubs. Punk, hardcore, jazz, country, what’s going on in '
+
+[2608] mark ''
+
+[3728] StaticText 'Pittsburgh'
+
+[2609] StaticText '? My partner and I are considering moving to '
+
+[2610] mark ''
+
+[2611] StaticText ' from Austin and we’r curious about what'
+
+[4895] link '73 comments'
+
+[2615] button 'Upvote'
+
+[3732] StaticText '36'
+
+[2618] button 'Downvote'
+
+[1995] article ''
+
+[1998] HeaderAsNonLandmark ''
+
+[2623] heading 'Will Pittsburgh see light rail expansion in the next 30 years?'
+
+[3740] link 'Will Pittsburgh see light rail expansion in the next 30 years?'
+
+[3742] mark ''
+
+[3745] StaticText 'Submitted by '
+
+[2001] link 'metracta' expanded: False
+
+[4911] StaticText 't3_11h1kx7'
+
+[3749] time 'March 3, 2023 at 9:04:00 AM EST'
+
+[4915] StaticText '6 months ago'
+
+[3750] StaticText ' in '
+
+[3751] link 'pittsburgh'
+
+[2626] mark ''
+
+[3752] StaticText 'Pittsburgh'
+
+[2627] StaticText '’s east end seems like an area absolutely ripe for a light rail system expansion. It is densely populated, serves many commuters from other parts of the city, is relatively flat, and gets frequent ... stops frequently to connect to many neighborhoods. Wondering what the thoughts are from locals, from a '
+
+[2628] mark ''
+
+[2629] StaticText ' ex-pat who enjoys taking transit in Chicago every'
+
+[4918] link 'No comments'
+
+[2633] button 'Upvote'
+
+[2636] button 'Downvote'
+
+[2002] article ''
+
+[2005] HeaderAsNonLandmark ''
+
+[2641] heading 'Questions about moving to/living in Munhall vs Pittsburgh'
+
+[3764] link 'Questions about moving to/living in Munhall vs Pittsburgh'
+
+[3766] mark ''
+
+[3768] StaticText 'Submitted by '
+
+[2008] link 'lalune13' expanded: False
+
+[4934] StaticText 't3_1015j5z'
+
+[3772] time 'January 2, 2023 at 1:31:18 AM EST'
+
+[4938] StaticText '8 months ago'
+
+[3773] StaticText ' in '
+
+[3774] link 'Pennsylvania'
+
+[2644] StaticText '32/F) am from Phoenix, AZ and have been considering moving to PA. I was attracted to '
+
+[2645] mark ''
+
+[3775] StaticText 'Pittsburgh'
+
+[2646] StaticText ' at first but recently came across Munhall in my search (it was listed as being ... lived in Munhall that can give me any insight into living in this borough? Between Munhall and '
+
+[2647] mark ''
+
+[2648] StaticText ', which would you suggest for someone like myself? Thank'
+
+[4941] link '14 comments'
+
+[2652] button 'Upvote'
+
+[2655] button 'Downvote'
+
+[2009] article ''
+
+[2012] HeaderAsNonLandmark ''
+
+[2660] heading 'The must try desserts of Pittsburgh’s bakeries'
+
+[3787] link 'The must try desserts of Pittsburgh’s bakeries'
+
+[3789] mark ''
+
+[3792] StaticText 'Submitted by '
+
+[2015] link 'SassyButtDragon' expanded: False
+
+[4957] StaticText 't3_11luafw'
+
+[3796] time 'March 8, 2023 at 6:46:49 AM EST'
+
+[4961] StaticText '6 months ago'
+
+[3797] StaticText ' in '
+
+[3798] link 'pittsburgh'
+
+[2663] StaticText 'traveling to '
+
+[2664] mark ''
+
+[3799] StaticText 'Pittsburgh'
+
+[2665] StaticText ' this weekend to celebrate my birthday and my goal is to collect the best, must try dessert item from all '
+
+[2666] mark ''
+
+[2667] StaticText '’s best bakeries to take home for my family to sample'
+
+[4964] link 'No comments'
+
+[2671] button 'Upvote'
+
+[2674] button 'Downvote'
+
+[2016] article ''
+
+[2019] HeaderAsNonLandmark ''
+
+[2679] heading 'Actor seeking guidance on a Pittsburgh accent'
+
+[3811] link 'Actor seeking guidance on a Pittsburgh accent'
+
+[3813] mark ''
+
+[3816] StaticText 'Submitted by '
+
+[2022] link 'Darth_Batman89' expanded: False
+
+[4980] StaticText 't3_zzwlah'
+
+[3820] time 'December 31, 2022 at 10:33:10 AM EST'
+
+[4984] StaticText '8 months ago'
+
+[3821] StaticText ' in '
+
+[3822] link 'pittsburgh'
+
+[2682] StaticText 'working on a feature film next month and the director and I are wanting to use a '
+
+[2683] mark ''
+
+[3823] StaticText 'Pittsburgh'
+
+[2684] StaticText ' accent for this character. I am reaching out here to see if anyone would be willing ... late 20’s working class Caucasian male. Early 1940’s period. I’ve never been to '
+
+[2685] mark ''
+
+[2686] StaticText ' but reading through the community makes we want to go visit. I never knew it was such'
+
+[2690] button 'Upvote'
+
+[3827] StaticText '1'
+
+[2693] button 'Downvote'</pre><div>
+
+[1848] RootWebArea 'Search' focused: True
+
+[1861] main ''
+
+[1988] article ''
+
+[1991] HeaderAsNonLandmark ''
+
+[2604] heading 'How’s the local music scene in Pittsburgh- really?'
+
+[3716] link 'How’s the local music scene in Pittsburgh- really?'
+
+[3718] mark ''
+
+[3721] StaticText 'Submitted by '
+
+[1994] link 'meatsweats77' expanded: False
+
+[4888] StaticText 't3_10oc3do'
+
+[3725] time 'January 29, 2023 at 11:47:04 AM EST'
+
+[4892] StaticText '8 months ago'
+
+[3726] StaticText ' in '
+
+[3727] link 'pittsburgh'
+
+[2607] StaticText 'that play at little dive bars and clubs. Punk, hardcore, jazz, country, what’s going on in '
+
+[2608] mark ''
+
+[3728] StaticText 'Pittsburgh'
+
+[2609] StaticText '? My partner and I are considering moving to '
+
+[2610] mark ''
+
+[2611] StaticText ' from Austin and we’r curious about what'
+
+[4895] link '73 comments'
+
+[2615] button 'Upvote'
+
+[3732] StaticText '36'
+
+[2618] button 'Downvote'
+
+[1995] article ''
+
+[1998] HeaderAsNonLandmark ''
+
+[2623] heading 'Will Pittsburgh see light rail expansion in the next 30 years?'
+
+[3740] link 'Will Pittsburgh see light rail expansion in the next 30 years?'
+
+[3742] mark ''
+
+[3745] StaticText 'Submitted by '
+
+[2001] link 'metracta' expanded: False
+
+[4911] StaticText 't3_11h1kx7'
+
+[3749] time 'March 3, 2023 at 9:04:00 AM EST'
+
+[4915] StaticText '6 months ago'
+
+[3750] StaticText ' in '
+
+[3751] link 'pittsburgh'
+
+[2626] mark ''
+
+[3752] StaticText 'Pittsburgh'
+
+[2627] StaticText '’s east end seems like an area absolutely ripe for a light rail system expansion. It is densely populated, serves many commuters from other parts of the city, is relatively flat, and gets frequent ... stops frequently to connect to many neighborhoods. Wondering what the thoughts are from locals, from a '
+
+[2628] mark ''
+
+[2629] StaticText ' ex-pat who enjoys taking transit in Chicago every'
+
+[4918] link 'No comments'
+
+[2633] button 'Upvote'
+
+[2636] button 'Downvote'
+
+[2002] article ''
+
+[2005] HeaderAsNonLandmark ''
+
+[2641] heading 'Questions about moving to/living in Munhall vs Pittsburgh'
+
+[3764] link 'Questions about moving to/living in Munhall vs Pittsburgh'
+
+[3766] mark ''
+
+[3768] StaticText 'Submitted by '
+
+[2008] link 'lalune13' expanded: False
+
+[4934] StaticText 't3_1015j5z'
+
+[3772] time 'January 2, 2023 at 1:31:18 AM EST'
+
+[4938] StaticText '8 months ago'
+
+[3773] StaticText ' in '
+
+[3774] link 'Pennsylvania'
+
+[2644] StaticText '32/F) am from Phoenix, AZ and have been considering moving to PA. I was attracted to '
+
+[2645] mark ''
+
+[3775] StaticText 'Pittsburgh'
+
+[2646] StaticText ' at first but recently came across Munhall in my search (it was listed as being ... lived in Munhall that can give me any insight into living in this borough? Between Munhall and '
+
+[2647] mark ''
+
+[2648] StaticText ', which would you suggest for someone like myself? Thank'
+
+[4941] link '14 comments'
+
+[2652] button 'Upvote'
+
+[2655] button 'Downvote'
+
+[2009] article ''
+
+[2012] HeaderAsNonLandmark ''
+
+[2660] heading 'The must try desserts of Pittsburgh’s bakeries'
+
+[3787] link 'The must try desserts of Pittsburgh’s bakeries'
+
+[3789] mark ''
+
+[3792] StaticText 'Submitted by '
+
+[2015] link 'SassyButtDragon' expanded: False
+
+[4957] StaticText 't3_11luafw'
+
+[3796] time 'March 8, 2023 at 6:46:49 AM EST'
+
+[4961] StaticText '6 months ago'
+
+[3797] StaticText ' in '
+
+[3798] link 'pittsburgh'
+
+[2663] StaticText 'traveling to '
+
+[2664] mark ''
+
+[3799] StaticText 'Pittsburgh'
+
+[2665] StaticText ' this weekend to celebrate my birthday and my goal is to collect the best, must try dessert item from all '
+
+[2666] mark ''
+
+[2667] StaticText '’s best bakeries to take home for my family to sample'
+
+[4964] link 'No comments'
+
+[2671] button 'Upvote'
+
+[2674] button 'Downvote'
+
+[2016] article ''
+
+[2019] HeaderAsNonLandmark ''
+
+[2679] heading 'Actor seeking guidance on a Pittsburgh accent'
+
+[3811] link 'Actor seeking guidance on a Pittsburgh accent'
+
+[3813] mark ''
+
+[3816] StaticText 'Submitted by '
+
+[2022] link 'Darth_Batman89' expanded: False
+
+[4980] StaticText 't3_zzwlah'
+
+[3820] time 'December 31, 2022 at 10:33:10 AM EST'
+
+[4984] StaticText '8 months ago'
+
+[3821] StaticText ' in '
+
+[3822] link 'pittsburgh'
+
+[2682] StaticText 'working on a feature film next month and the director and I are wanting to use a '
+
+[2683] mark ''
+
+[3823] StaticText 'Pittsburgh'
+
+[2684] StaticText ' accent for this character. I am reaching out here to see if anyone would be willing ... late 20’s working class Caucasian male. Early 1940’s period. I’ve never been to '
+
+[2685] mark ''
+
+[2686] StaticText ' but reading through the community makes we want to go visit. I never knew it was such'
+
+[2690] button 'Upvote'
+
+[3827] StaticText '1'
+
+[2693] button 'Downvote'</pre><div>
+
+[1848] RootWebArea 'Search' focused: True
+
+[1861] main ''
+
+[2016] article ''
+
+[4987] link 'No comments'
+
+[2023] article ''
+
+[2026] HeaderAsNonLandmark ''
+
+[2698] heading 'I miss Pittsburgh.'
+
+[3835] link 'I miss Pittsburgh.'
+
+[3837] mark ''
+
+[3840] StaticText 'Submitted by '
+
+[2029] link 'Informal_Phrase4589' expanded: False
+
+[5003] StaticText 't3_121cxxb'
+
+[3844] time 'March 25, 2023 at 2:17:43 AM EDT'
+
+[5007] StaticText '6 months ago'
+
+[3845] StaticText ' in '
+
+[3846] link 'pittsburgh'
+
+[2701] StaticText 'grown so much lately- I should have moved back home. When I compare anything Portland to anything '
+
+[2702] mark ''
+
+[3847] StaticText 'Pittsburgh'
+
+[2703] StaticText '- I come up short. Just feeling sad and missing what a great town '
+
+[2704] mark ''
+
+[5010] link 'No comments'
+
+[2708] button 'Upvote'
+
+[2711] button 'Downvote'
+
+[2030] article ''
+
+[2033] HeaderAsNonLandmark ''
+
+[2716] heading 'Looking for a "Welcome To Pittsburgh" mural or sign for photo op'
+
+[3859] link 'Looking for a "Welcome To Pittsburgh" mural or sign for photo op'
+
+[3861] mark ''
+
+[3864] StaticText 'Submitted by '
+
+[2036] link 'spacemonkeydaniel' expanded: False
+
+[5026] StaticText 't3_1274are'
+
+[3868] time 'March 30, 2023 at 8:22:03 PM EDT'
+
+[5030] StaticText '6 months ago'
+
+[3869] StaticText ' in '
+
+[3870] link 'pittsburgh'
+
+[2719] StaticText 'driving through '
+
+[2720] mark ''
+
+[3871] StaticText 'Pittsburgh'
+
+[2721] StaticText ' next year and was hoping for a "Welcome to '
+
+[2722] mark ''
+
+[2723] StaticText '" sign for a quick photo. It looks like you\'ve all got a ton of amazing street'
+
+[5033] link '14 comments'
+
+[2727] button 'Upvote'
+
+[2730] button 'Downvote'
+
+[2037] article ''
+
+[2040] HeaderAsNonLandmark ''
+
+[2735] heading 'Pittsburgh Conspiracy Theories'
+
+[3883] link 'Pittsburgh Conspiracy Theories'
+
+[3884] mark ''
+
+[3887] StaticText 'Submitted by '
+
+[2043] link 'punkie23' expanded: False
+
+[5049] StaticText 't3_y2o2m8'
+
+[3891] time 'October 12, 2022 at 11:24:43 PM EDT'
+
+[5053] StaticText '11 months ago'
+
+[3892] StaticText ' in '
+
+[3893] link 'pittsburgh'
+
+[2738] StaticText 'Please let me know if there is a more appropriate place for this. I have lived in '
+
+[2739] mark ''
+
+[3894] StaticText 'Pittsburgh'
+
+[2740] StaticText ' my entire life and had recently learned of the bomber plane that crashed in the Monongahela. What ... some of the other stories or theories surrounding '
+
+[2741] mark ''
+
+[5056] link '123 comments'
+
+[2745] button 'Upvote'
+
+[3898] StaticText '84'
+
+[2748] button 'Downvote'
+
+[2044] article ''
+
+[2047] HeaderAsNonLandmark ''
+
+[2753] heading "You wake up in a Pittsburgh hospital. Which hospital do you hope it is? Which one do you hope it isn't?"
+
+[3906] link "You wake up in a Pittsburgh hospital. Which hospital do you hope it is? Which one do you hope it isn't?"
+
+[3908] mark ''
+
+[3911] StaticText 'Submitted by '
+
+[2050] link 'ExtremelyQualified' expanded: False
+
+[5072] StaticText 't3_123vx98'
+
+[3915] time 'March 27, 2023 at 2:34:11 PM EDT'
+
+[5076] StaticText '6 months ago'
+
+[3916] StaticText ' in '
+
+[3917] link 'pittsburgh'
+
+[2756] StaticText 'everyone, but especially curious to hear from the healthcare workers out there: You wake up in a '
+
+[2757] mark ''
+
+[3918] StaticText 'Pittsburgh'
+
+[2759] mark ''
+
+[2760] StaticText ' hospital do you feel is the best at patient care vs which one is the worst at patient care'
+
+[5079] link '93 comments'
+
+[2764] button 'Upvote'
+
+[2767] button 'Downvote'
+
+[2051] article ''
+
+[2054] HeaderAsNonLandmark ''
+
+[2772] heading "My wife and I both got relocated to Pittsburgh and we'll be there in 3 weeks. Sweet god someone please give me a crash course on our area."
+
+[3930] link "My wife and I both got relocated to Pittsburgh and we'll be there in 3 weeks. Sweet god someone please give me a crash course on our area."
+
+[3932] mark ''
+
+[3935] StaticText 'Submitted by '
+
+[2057] link 'Ghost0fBanquo' expanded: False
+
+[5095] StaticText 't3_119jbxu'
+
+[3939] time 'February 22, 2023 at 7:40:48 PM EST'
+
+[5099] StaticText '7 months ago'
+
+[3940] StaticText ' in '
+
+[3941] link 'pittsburgh'
+
+[2775] StaticText 'High Schools in PA recently and we very much lucked into a unbeatable situation for us in '
+
+[2776] mark ''
+
+[3942] StaticText 'Pittsburgh'
+
+[2778] mark ''
+
+[2783] button 'Upvote'
+
+[3946] StaticText '1'
+
+[2786] button 'Downvote'</pre><div>
+
+[1848] RootWebArea 'Search' focused: True
+
+[1861] main ''
+
+[2051] article ''
+
+[5102] link 'No comments'
+
+[2058] article ''
+
+[2061] HeaderAsNonLandmark ''
+
+[2791] heading "Pittsburgh's Just Ducky Tours"
+
+[3954] link "Pittsburgh's Just Ducky Tours"
+
+[3955] mark ''
+
+[3958] StaticText 'Submitted by '
+
+[2064] link 'SabotUp007' expanded: False
+
+[5118] StaticText 't3_z12qdd'
+
+[3962] time 'November 21, 2022 at 11:09:08 AM EST'
+
+[5122] StaticText '10 months ago'
+
+[3963] StaticText ' in '
+
+[3964] link 'pittsburgh'
+
+[2794] StaticText 'people died. The YouTube channel Brick Immortar recently posted an in-depth video about that tragedy. While '
+
+[2795] mark ''
+
+[3965] StaticText 'Pittsburgh'
+
+[2797] mark ''
+
+[5125] link '55 comments'
+
+[2802] button 'Upvote'
+
+[3969] StaticText '155'
+
+[2805] button 'Downvote'
+
+[2065] article ''
+
+[2068] HeaderAsNonLandmark ''
+
+[2810] heading "Relocating from Pittsburgh to Ocean/Monmouth County for work. Where's a reasonable place to live?"
+
+[3977] link "Relocating from Pittsburgh to Ocean/Monmouth County for work. Where's a reasonable place to live?"
+
+[3979] mark ''
+
+[3982] StaticText 'Submitted by '
+
+[2071] link 'RunsOnColdBrew' expanded: False
+
+[5141] StaticText 't3_11o6kaz'
+
+[3986] time 'March 10, 2023 at 8:03:55 PM EST'
+
+[5145] StaticText '6 months ago'
+
+[3987] StaticText ' in '
+
+[3988] link 'newjersey'
+
+[2814] mark ''
+
+[3989] StaticText 'Pittsburgh'
+
+[2816] mark ''
+
+[5148] link '16 comments'
+
+[2821] button 'Upvote'
+
+[3993] StaticText '0'
+
+[2824] button 'Downvote'
+
+[2072] article ''
+
+[2075] HeaderAsNonLandmark ''
+
+[2829] heading 'Which month is Pittsburghs absolute worst?'
+
+[4001] link 'Which month is Pittsburghs absolute worst?'
+
+[4003] mark ''
+
+[4006] StaticText 'Submitted by '
+
+[2078] link 'ANewDinosaur' expanded: False
+
+[5164] StaticText 't3_xuu9ha'
+
+[4010] time 'October 3, 2022 at 4:19:13 PM EDT'
+
+[5168] StaticText '11 months ago'
+
+[4011] StaticText ' in '
+
+[4012] link 'pittsburgh'
+
+[2832] StaticText 'looking to move out of Texas, and all my research is pointing us towards '
+
+[2833] mark ''
+
+[4013] StaticText 'Pittsburgh'
+
+[2834] StaticText '. But we are both born and raised in the Deep South. One of our biggest reasons to move, aside from ... move for a very very long time. Possibly forever. So if we’re gonna settle down in '
+
+[2835] mark ''
+
+[2836] StaticText ', we gotta be able to handle the weather. I think we’ll be fine, but I also'
+
+[5171] link 'No comments'
+
+[2840] button 'Upvote'
+
+[2843] button 'Downvote'
+
+[2079] article ''
+
+[2082] HeaderAsNonLandmark ''
+
+[2848] heading 'Are there any Baltimore or Pittsburgh area transplants living in the Providence area? We are considering moving and I have some questions!'
+
+[4025] link 'Are there any Baltimore or Pittsburgh area transplants living in the Providence area? We are considering moving and I have some questions!'
+
+[4027] mark ''
+
+[4030] StaticText 'Submitted by '
+
+[2085] link 'marissarae' expanded: False
+
+[5187] StaticText 't3_115gjoh'
+
+[4034] time 'February 18, 2023 at 9:29:49 AM EST'
+
+[5191] StaticText '7 months ago'
+
+[4035] StaticText ' in '
+
+[4036] link 'providence'
+
+[2851] StaticText 'city but not overall.) 1.5 years ago, my husband and I moved to the northern suburbs of '
+
+[2852] mark ''
+
+[4037] StaticText 'Pittsburgh'
+
+[2853] StaticText ' to be near my family, but we are about 25 miles from the horrific East Palestine train ... there is on our short list of options for moving. If there are any Baltimore or '
+
+[2854] mark ''
+
+[2855] StaticText ' transplants, maybe you could tell me how Providence, Bristol, Cranston compare in terms of traffic, available jobs, weather'
+
+[5194] link '24 comments'
+
+[2859] button 'Upvote'
+
+[4041] StaticText '3'
+
+[2862] button 'Downvote'</pre><div>
+
+[1848] RootWebArea 'Search' focused: True
+
+[1861] main ''
+
+[2051] article ''
+
+[5102] link 'No comments'
+
+[2058] article ''
+
+[2061] HeaderAsNonLandmark ''
+
+[2791] heading "Pittsburgh's Just Ducky Tours"
+
+[3954] link "Pittsburgh's Just Ducky Tours"
+
+[3955] mark ''
+
+[3958] StaticText 'Submitted by '
+
+[2064] link 'SabotUp007' expanded: False
+
+[5118] StaticText 't3_z12qdd'
+
+[3962] time 'November 21, 2022 at 11:09:08 AM EST'
+
+[5122] StaticText '10 months ago'
+
+[3963] StaticText ' in '
+
+[3964] link 'pittsburgh'
+
+[2794] StaticText 'people died. The YouTube channel Brick Immortar recently posted an in-depth video about that tragedy. While '
+
+[2795] mark ''
+
+[3965] StaticText 'Pittsburgh'
+
+[2797] mark ''
+
+[5125] link '55 comments'
+
+[2802] button 'Upvote'
+
+[3969] StaticText '155'
+
+[2805] button 'Downvote'
+
+[2065] article ''
+
+[2068] HeaderAsNonLandmark ''
+
+[2810] heading "Relocating from Pittsburgh to Ocean/Monmouth County for work. Where's a reasonable place to live?"
+
+[3977] link "Relocating from Pittsburgh to Ocean/Monmouth County for work. Where's a reasonable place to live?"
+
+[3979] mark ''
+
+[3982] StaticText 'Submitted by '
+
+[2071] link 'RunsOnColdBrew' expanded: False
+
+[5141] StaticText 't3_11o6kaz'
+
+[3986] time 'March 10, 2023 at 8:03:55 PM EST'
+
+[5145] StaticText '6 months ago'
+
+[3987] StaticText ' in '
+
+[3988] link 'newjersey'
+
+[2814] mark ''
+
+[3989] StaticText 'Pittsburgh'
+
+[2816] mark ''
+
+[5148] link '16 comments'
+
+[2821] button 'Upvote'
+
+[3993] StaticText '0'
+
+[2824] button 'Downvote'
+
+[2072] article ''
+
+[2075] HeaderAsNonLandmark ''
+
+[2829] heading 'Which month is Pittsburghs absolute worst?'
+
+[4001] link 'Which month is Pittsburghs absolute worst?'
+
+[4003] mark ''
+
+[4006] StaticText 'Submitted by '
+
+[2078] link 'ANewDinosaur' expanded: False
+
+[5164] StaticText 't3_xuu9ha'
+
+[4010] time 'October 3, 2022 at 4:19:13 PM EDT'
+
+[5168] StaticText '11 months ago'
+
+[4011] StaticText ' in '
+
+[4012] link 'pittsburgh'
+
+[2832] StaticText 'looking to move out of Texas, and all my research is pointing us towards '
+
+[2833] mark ''
+
+[4013] StaticText 'Pittsburgh'
+
+[2834] StaticText '. But we are both born and raised in the Deep South. One of our biggest reasons to move, aside from ... move for a very very long time. Possibly forever. So if we’re gonna settle down in '
+
+[2835] mark ''
+
+[2836] StaticText ', we gotta be able to handle the weather. I think we’ll be fine, but I also'
+
+[5171] link 'No comments'
+
+[2840] button 'Upvote'
+
+[2843] button 'Downvote'
+
+[2079] article ''
+
+[2082] HeaderAsNonLandmark ''
+
+[2848] heading 'Are there any Baltimore or Pittsburgh area transplants living in the Providence area? We are considering moving and I have some questions!'
+
+[4025] link 'Are there any Baltimore or Pittsburgh area transplants living in the Providence area? We are considering moving and I have some questions!'
+
+[4027] mark ''
+
+[4030] StaticText 'Submitted by '
+
+[2085] link 'marissarae' expanded: False
+
+[5187] StaticText 't3_115gjoh'
+
+[4034] time 'February 18, 2023 at 9:29:49 AM EST'
+
+[5191] StaticText '7 months ago'
+
+[4035] StaticText ' in '
+
+[4036] link 'providence'
+
+[2851] StaticText 'city but not overall.) 1.5 years ago, my husband and I moved to the northern suburbs of '
+
+[2852] mark ''
+
+[4037] StaticText 'Pittsburgh'
+
+[2853] StaticText ' to be near my family, but we are about 25 miles from the horrific East Palestine train ... there is on our short list of options for moving. If there are any Baltimore or '
+
+[2854] mark ''
+
+[2855] StaticText ' transplants, maybe you could tell me how Providence, Bristol, Cranston compare in terms of traffic, available jobs, weather'
+
+[5194] link '24 comments'
+
+[2859] button 'Upvote'
+
+[4041] StaticText '3'
+
+[2862] button 'Downvote'</pre><div>
+
+[1848] RootWebArea 'Search' focused: True
+
+[1861] main ''
+
+[2079] article ''
+
+[2086] article ''
+
+[2089] HeaderAsNonLandmark ''
+
+[2867] heading 'Easter weekend - is Pittsburgh open?'
+
+[4049] link 'Easter weekend - is Pittsburgh open?'
+
+[4051] mark ''
+
+[4054] StaticText 'Submitted by '
+
+[2092] link 'One_Coffee1618' expanded: False
+
+[5210] StaticText 't3_12232ov'
+
+[4058] time 'March 25, 2023 at 7:23:10 PM EDT'
+
+[5214] StaticText '6 months ago'
+
+[4059] StaticText ' in '
+
+[4060] link 'pittsburgh'
+
+[2870] StaticText 'everyone, My husband and I are moving to '
+
+[2871] mark ''
+
+[4061] StaticText 'Pittsburgh'
+
+[2872] StaticText ' in a little while and are planning a weekend trip to check out some apartments - we were thinking of April 7th-9th but recognise that this ... coincides with Easter... is '
+
+[2873] mark ''
+
+[2874] StaticText ' somewhere that tends to close down at Easter or will most stuff still be open? Cheers'
+
+[5217] link '11 comments'
+
+[2878] button 'Upvote'
+
+[4065] StaticText '0'
+
+[2881] button 'Downvote'
+
+[2093] article ''
+
+[2096] HeaderAsNonLandmark ''
+
+[2886] heading 'Is living in Pittsburgh expensive?'
+
+[4073] link 'Is living in Pittsburgh expensive?'
+
+[4075] mark ''
+
+[4078] StaticText 'Submitted by '
+
+[2099] link 'Ordinary_Promise7748' expanded: False
+
+[5233] StaticText 't3_116if6g'
+
+[4082] time 'February 19, 2023 at 12:20:08 PM EST'
+
+[5237] StaticText '7 months ago'
+
+[4083] StaticText ' in '
+
+[4084] link 'pittsburgh'
+
+[2889] StaticText 'never lived in PA but Im planning to move to '
+
+[2890] mark ''
+
+[4085] StaticText 'Pittsburgh'
+
+[2891] StaticText ' in a few months so any advice would be appreciated'
+
+[5240] link '144 comments'
+
+[2895] button 'Upvote'
+
+[4088] StaticText '22'
+
+[2898] button 'Downvote'
+
+[2100] article ''
+
+[2103] HeaderAsNonLandmark ''
+
+[2903] heading 'Activism in Pittsburgh, anti war and Norfolk Southern caused chemical disaster'
+
+[4096] link 'Activism in Pittsburgh, anti war and Norfolk Southern caused chemical disaster'
+
+[4098] mark ''
+
+[4101] StaticText 'Submitted by '
+
+[2106] link 'vulpesgato' expanded: False
+
+[5256] StaticText 't3_11agq8z'
+
+[4105] time 'February 23, 2023 at 10:00:32 PM EST'
+
+[5260] StaticText '7 months ago'
+
+[4106] StaticText ' in '
+
+[4107] link 'pittsburgh'
+
+[2907] mark ''
+
+[4108] StaticText 'Pittsburgh'
+
+[2908] StaticText ' area citizens interested in: 1) anti-war movement and /or 2) also visit with those who want to step up pressure'
+
+[5263] link '39 comments'
+
+[2912] button 'Upvote'
+
+[2915] button 'Downvote'
+
+[2107] article ''
+
+[2110] HeaderAsNonLandmark ''
+
+[2920] heading 'What is a must see in Pittsburgh?'
+
+[4119] link 'What is a must see in Pittsburgh?'
+
+[4121] mark ''
+
+[4124] StaticText 'Submitted by '
+
+[2113] link 'unknownvariable19' expanded: False
+
+[5279] StaticText 't3_yc3mej'
+
+[4128] time 'October 24, 2022 at 2:05:06 AM EDT'
+
+[5283] StaticText '11 months ago'
+
+[4129] StaticText ' in '
+
+[4130] link 'pittsburgh'
+
+[2924] mark ''
+
+[2925] StaticText '? Not too pricey (under 30$ per person'
+
+[5286] link '14 comments'
+
+[2929] button 'Upvote'
+
+[2932] button 'Downvote'
+
+[2114] article ''
+
+[2117] HeaderAsNonLandmark ''
+
+[2937] heading 'Driving to Pittsburgh from Columbus today'
+
+[4142] link 'Driving to Pittsburgh from Columbus today'
+
+[4144] mark ''
+
+[4147] StaticText 'Submitted by '
+
+[2120] link 'AlwaysSunnyInCBUS' expanded: False
+
+[5302] StaticText 't3_113os5v'
+
+[4151] time 'February 16, 2023 at 6:49:46 AM EST'
+
+[5306] StaticText '7 months ago'
+
+[4152] StaticText ' in '
+
+[4153] link 'pittsburgh'
+
+[2941] mark ''
+
+[4154] StaticText 'Pittsburgh'
+
+[2942] StaticText ' before'
+
+[5309] link '72 comments'
+
+[2946] button 'Upvote'
+
+[2949] button 'Downvote'
+
+[2121] article ''
+
+[2124] HeaderAsNonLandmark ''
+
+[2954] heading 'What date is the downtown Pittsburgh St. Patty’s Day parade?'
+
+[4165] link 'What date is the downtown Pittsburgh St. Patty’s Day parade?'
+
+[4167] mark ''
+
+[4170] StaticText 'Submitted by '
+
+[2127] link 'EllesAway' expanded: False
+
+[5325] StaticText 't3_117nb9b'
+
+[4174] time 'February 20, 2023 at 5:56:50 PM EST'
+
+[5329] StaticText '7 months ago'
+
+[4175] StaticText ' in '
+
+[4176] link 'Pennsylvania'
+
+[2957] StaticText 'What date is the downtown '
+
+[2958] mark ''
+
+[4177] StaticText 'Pittsburgh'
+
+[2959] StaticText ' St. Patty’s Day parade'
+
+[2963] button 'Upvote'
+
+[2966] button 'Downvote'</pre><div>
+
+[1848] RootWebArea 'Search' focused: True
+
+[1861] main ''
+
+[2079] article ''
+
+[2086] article ''
+
+[2089] HeaderAsNonLandmark ''
+
+[2867] heading 'Easter weekend - is Pittsburgh open?'
+
+[4049] link 'Easter weekend - is Pittsburgh open?'
+
+[4051] mark ''
+
+[4054] StaticText 'Submitted by '
+
+[2092] link 'One_Coffee1618' expanded: False
+
+[5210] StaticText 't3_12232ov'
+
+[4058] time 'March 25, 2023 at 7:23:10 PM EDT'
+
+[5214] StaticText '6 months ago'
+
+[4059] StaticText ' in '
+
+[4060] link 'pittsburgh'
+
+[2870] StaticText 'everyone, My husband and I are moving to '
+
+[2871] mark ''
+
+[4061] StaticText 'Pittsburgh'
+
+[2872] StaticText ' in a little while and are planning a weekend trip to check out some apartments - we were thinking of April 7th-9th but recognise that this ... coincides with Easter... is '
+
+[2873] mark ''
+
+[2874] StaticText ' somewhere that tends to close down at Easter or will most stuff still be open? Cheers'
+
+[5217] link '11 comments'
+
+[2878] button 'Upvote'
+
+[4065] StaticText '0'
+
+[2881] button 'Downvote'
+
+[2093] article ''
+
+[2096] HeaderAsNonLandmark ''
+
+[2886] heading 'Is living in Pittsburgh expensive?'
+
+[4073] link 'Is living in Pittsburgh expensive?'
+
+[4075] mark ''
+
+[4078] StaticText 'Submitted by '
+
+[2099] link 'Ordinary_Promise7748' expanded: False
+
+[5233] StaticText 't3_116if6g'
+
+[4082] time 'February 19, 2023 at 12:20:08 PM EST'
+
+[5237] StaticText '7 months ago'
+
+[4083] StaticText ' in '
+
+[4084] link 'pittsburgh'
+
+[2889] StaticText 'never lived in PA but Im planning to move to '
+
+[2890] mark ''
+
+[4085] StaticText 'Pittsburgh'
+
+[2891] StaticText ' in a few months so any advice would be appreciated'
+
+[5240] link '144 comments'
+
+[2895] button 'Upvote'
+
+[4088] StaticText '22'
+
+[2898] button 'Downvote'
+
+[2100] article ''
+
+[2103] HeaderAsNonLandmark ''
+
+[2903] heading 'Activism in Pittsburgh, anti war and Norfolk Southern caused chemical disaster'
+
+[4096] link 'Activism in Pittsburgh, anti war and Norfolk Southern caused chemical disaster'
+
+[4098] mark ''
+
+[4101] StaticText 'Submitted by '
+
+[2106] link 'vulpesgato' expanded: False
+
+[5256] StaticText 't3_11agq8z'
+
+[4105] time 'February 23, 2023 at 10:00:32 PM EST'
+
+[5260] StaticText '7 months ago'
+
+[4106] StaticText ' in '
+
+[4107] link 'pittsburgh'
+
+[2907] mark ''
+
+[4108] StaticText 'Pittsburgh'
+
+[2908] StaticText ' area citizens interested in: 1) anti-war movement and /or 2) also visit with those who want to step up pressure'
+
+[5263] link '39 comments'
+
+[2912] button 'Upvote'
+
+[2915] button 'Downvote'
+
+[2107] article ''
+
+[2110] HeaderAsNonLandmark ''
+
+[2920] heading 'What is a must see in Pittsburgh?'
+
+[4119] link 'What is a must see in Pittsburgh?'
+
+[4121] mark ''
+
+[4124] StaticText 'Submitted by '
+
+[2113] link 'unknownvariable19' expanded: False
+
+[5279] StaticText 't3_yc3mej'
+
+[4128] time 'October 24, 2022 at 2:05:06 AM EDT'
+
+[5283] StaticText '11 months ago'
+
+[4129] StaticText ' in '
+
+[4130] link 'pittsburgh'
+
+[2924] mark ''
+
+[2925] StaticText '? Not too pricey (under 30$ per person'
+
+[5286] link '14 comments'
+
+[2929] button 'Upvote'
+
+[2932] button 'Downvote'
+
+[2114] article ''
+
+[2117] HeaderAsNonLandmark ''
+
+[2937] heading 'Driving to Pittsburgh from Columbus today'
+
+[4142] link 'Driving to Pittsburgh from Columbus today'
+
+[4144] mark ''
+
+[4147] StaticText 'Submitted by '
+
+[2120] link 'AlwaysSunnyInCBUS' expanded: False
+
+[5302] StaticText 't3_113os5v'
+
+[4151] time 'February 16, 2023 at 6:49:46 AM EST'
+
+[5306] StaticText '7 months ago'
+
+[4152] StaticText ' in '
+
+[4153] link 'pittsburgh'
+
+[2941] mark ''
+
+[4154] StaticText 'Pittsburgh'
+
+[2942] StaticText ' before'
+
+[5309] link '72 comments'
+
+[2946] button 'Upvote'
+
+[2949] button 'Downvote'
+
+[2121] article ''
+
+[2124] HeaderAsNonLandmark ''
+
+[2954] heading 'What date is the downtown Pittsburgh St. Patty’s Day parade?'
+
+[4165] link 'What date is the downtown Pittsburgh St. Patty’s Day parade?'
+
+[4167] mark ''
+
+[4170] StaticText 'Submitted by '
+
+[2127] link 'EllesAway' expanded: False
+
+[5325] StaticText 't3_117nb9b'
+
+[4174] time 'February 20, 2023 at 5:56:50 PM EST'
+
+[5329] StaticText '7 months ago'
+
+[4175] StaticText ' in '
+
+[4176] link 'Pennsylvania'
+
+[2957] StaticText 'What date is the downtown '
+
+[2958] mark ''
+
+[4177] StaticText 'Pittsburgh'
+
+[2959] StaticText ' St. Patty’s Day parade'
+
+[2963] button 'Upvote'
+
+[2966] button 'Downvote'</pre><div>
+
+[1848] RootWebArea 'Search' focused: True
+
+[1861] main ''
+
+[2121] article ''
+
+[2957] StaticText 'What date is the downtown '
+
+[2958] mark ''
+
+[4177] StaticText 'Pittsburgh'
+
+[2959] StaticText ' St. Patty’s Day parade'
+
+[5332] link '13 comments'
+
+[2128] article ''
+
+[2131] HeaderAsNonLandmark ''
+
+[2971] heading 'Why does the City of Pittsburgh not try to absorb/annex some of municipalities surrounding the city?'
+
+[4188] link 'Why does the City of Pittsburgh not try to absorb/annex some of municipalities surrounding the city?'
+
+[4190] mark ''
+
+[4193] StaticText 'Submitted by '
+
+[2134] link 'PGHthrowaway393' expanded: False
+
+[5348] StaticText 't3_103gb7u'
+
+[4197] time 'January 4, 2023 at 4:55:14 PM EST'
+
+[5352] StaticText '8 months ago'
+
+[4198] StaticText ' in '
+
+[4199] link 'pittsburgh'
+
+[2974] mark ''
+
+[4200] StaticText 'Pittsburgh'
+
+[2975] StaticText ' is currently ranked the 71st largest city in the US with a population of of 302,152 and a county population of 1.238 million. Wouldn’t annexing a majority of the smaller municipalities that'
+
+[5355] link 'No comments'
+
+[2979] button 'Upvote'
+
+[2982] button 'Downvote'
+
+[2135] article ''
+
+[2138] HeaderAsNonLandmark ''
+
+[2987] heading 'Whataburger clone in Pittsburgh'
+
+[4211] link 'Whataburger clone in Pittsburgh'
+
+[4213] mark ''
+
+[4215] StaticText 'Submitted by '
+
+[2141] link 'bkvagnini' expanded: False
+
+[5371] StaticText 't3_10a6arl'
+
+[4219] time 'January 12, 2023 at 1:10:23 PM EST'
+
+[5375] StaticText '8 months ago'
+
+[4220] StaticText ' in '
+
+[4221] link 'pittsburgh'
+
+[2991] mark ''
+
+[4222] StaticText 'Pittsburgh'
+
+[2992] StaticText ' area. Is there anything similar or is there the same thing but with a different name (like'
+
+[5378] link '94 comments'
+
+[2996] button 'Upvote'
+
+[2999] button 'Downvote'
+
+[2142] article ''
+
+[2145] HeaderAsNonLandmark ''
+
+[3004] heading 'What’s a VERY Pittsburgh thing that you’ve never done?'
+
+[4233] link 'What’s a VERY Pittsburgh thing that you’ve never done?'
+
+[4235] mark ''
+
+[4238] StaticText 'Submitted by '
+
+[2148] link 'panzan' expanded: False
+
+[5394] StaticText 't3_10i0rd0'
+
+[4242] time 'January 21, 2023 at 3:27:41 PM EST'
+
+[5398] StaticText '8 months ago'
+
+[4243] StaticText ' in '
+
+[4244] link 'pittsburgh'
+
+[3007] StaticText 'couple things I’ve never done despite living every day of my 51+ years in the greater '
+
+[3008] mark ''
+
+[4245] StaticText 'Pittsburgh'
+
+[3009] StaticText ' area. Parking at the mon wharf Brunch at the grand concourse How about yinz'
+
+[5401] link 'No comments'
+
+[3013] button 'Upvote'
+
+[3016] button 'Downvote'
+
+[2149] article ''
+
+[2152] HeaderAsNonLandmark ''
+
+[3021] heading 'Half day trip to Pittsburgh'
+
+[4256] link 'Half day trip to Pittsburgh'
+
+[4258] mark ''
+
+[4260] StaticText 'Submitted by '
+
+[2155] link 'RunnerInChicago' expanded: False
+
+[5417] StaticText 't3_119zn11'
+
+[4264] time 'February 23, 2023 at 9:56:51 AM EST'
+
+[5421] StaticText '7 months ago'
+
+[4265] StaticText ' in '
+
+[4266] link 'pittsburgh'
+
+[3024] StaticText 'Driving to NYC and may drop by '
+
+[3025] mark ''
+
+[4267] StaticText 'Pittsburgh'
+
+[5424] link '14 comments'
+
+[3030] button 'Upvote'
+
+[3033] button 'Downvote'
+
+[2156] article ''
+
+[2159] HeaderAsNonLandmark ''
+
+[3038] heading 'Looking for a climbing buddy in Pittsburgh!'
+
+[4278] link 'Looking for a climbing buddy in Pittsburgh!'
+
+[4280] mark ''
+
+[4283] StaticText 'Submitted by '
+
+[2162] link 'Certain_Cat1758' expanded: False
+
+[5440] StaticText 't3_10fdhqu'
+
+[4287] time 'January 18, 2023 at 12:41:40 PM EST'
+
+[5444] StaticText '8 months ago'
+
+[4288] StaticText ' in '
+
+[4289] link 'pittsburgh'
+
+[3041] mark ''
+
+[4290] StaticText 'Pittsburgh'
+
+[5447] link '11 comments'
+
+[3046] button 'Upvote'
+
+[3049] button 'Downvote'</pre><div>
+
+[1848] RootWebArea 'Search' focused: True
+
+[1861] main ''
+
+[2121] article ''
+
+[2957] StaticText 'What date is the downtown '
+
+[2958] mark ''
+
+[4177] StaticText 'Pittsburgh'
+
+[2959] StaticText ' St. Patty’s Day parade'
+
+[5332] link '13 comments'
+
+[2128] article ''
+
+[2131] HeaderAsNonLandmark ''
+
+[2971] heading 'Why does the City of Pittsburgh not try to absorb/annex some of municipalities surrounding the city?'
+
+[4188] link 'Why does the City of Pittsburgh not try to absorb/annex some of municipalities surrounding the city?'
+
+[4190] mark ''
+
+[4193] StaticText 'Submitted by '
+
+[2134] link 'PGHthrowaway393' expanded: False
+
+[5348] StaticText 't3_103gb7u'
+
+[4197] time 'January 4, 2023 at 4:55:14 PM EST'
+
+[5352] StaticText '8 months ago'
+
+[4198] StaticText ' in '
+
+[4199] link 'pittsburgh'
+
+[2974] mark ''
+
+[4200] StaticText 'Pittsburgh'
+
+[2975] StaticText ' is currently ranked the 71st largest city in the US with a population of of 302,152 and a county population of 1.238 million. Wouldn’t annexing a majority of the smaller municipalities that'
+
+[5355] link 'No comments'
+
+[2979] button 'Upvote'
+
+[2982] button 'Downvote'
+
+[2135] article ''
+
+[2138] HeaderAsNonLandmark ''
+
+[2987] heading 'Whataburger clone in Pittsburgh'
+
+[4211] link 'Whataburger clone in Pittsburgh'
+
+[4213] mark ''
+
+[4215] StaticText 'Submitted by '
+
+[2141] link 'bkvagnini' expanded: False
+
+[5371] StaticText 't3_10a6arl'
+
+[4219] time 'January 12, 2023 at 1:10:23 PM EST'
+
+[5375] StaticText '8 months ago'
+
+[4220] StaticText ' in '
+
+[4221] link 'pittsburgh'
+
+[2991] mark ''
+
+[4222] StaticText 'Pittsburgh'
+
+[2992] StaticText ' area. Is there anything similar or is there the same thing but with a different name (like'
+
+[5378] link '94 comments'
+
+[2996] button 'Upvote'
+
+[2999] button 'Downvote'
+
+[2142] article ''
+
+[2145] HeaderAsNonLandmark ''
+
+[3004] heading 'What’s a VERY Pittsburgh thing that you’ve never done?'
+
+[4233] link 'What’s a VERY Pittsburgh thing that you’ve never done?'
+
+[4235] mark ''
+
+[4238] StaticText 'Submitted by '
+
+[2148] link 'panzan' expanded: False
+
+[5394] StaticText 't3_10i0rd0'
+
+[4242] time 'January 21, 2023 at 3:27:41 PM EST'
+
+[5398] StaticText '8 months ago'
+
+[4243] StaticText ' in '
+
+[4244] link 'pittsburgh'
+
+[3007] StaticText 'couple things I’ve never done despite living every day of my 51+ years in the greater '
+
+[3008] mark ''
+
+[4245] StaticText 'Pittsburgh'
+
+[3009] StaticText ' area. Parking at the mon wharf Brunch at the grand concourse How about yinz'
+
+[5401] link 'No comments'
+
+[3013] button 'Upvote'
+
+[3016] button 'Downvote'
+
+[2149] article ''
+
+[2152] HeaderAsNonLandmark ''
+
+[3021] heading 'Half day trip to Pittsburgh'
+
+[4256] link 'Half day trip to Pittsburgh'
+
+[4258] mark ''
+
+[4260] StaticText 'Submitted by '
+
+[2155] link 'RunnerInChicago' expanded: False
+
+[5417] StaticText 't3_119zn11'
+
+[4264] time 'February 23, 2023 at 9:56:51 AM EST'
+
+[5421] StaticText '7 months ago'
+
+[4265] StaticText ' in '
+
+[4266] link 'pittsburgh'
+
+[3024] StaticText 'Driving to NYC and may drop by '
+
+[3025] mark ''
+
+[4267] StaticText 'Pittsburgh'
+
+[5424] link '14 comments'
+
+[3030] button 'Upvote'
+
+[3033] button 'Downvote'
+
+[2156] article ''
+
+[2159] HeaderAsNonLandmark ''
+
+[3038] heading 'Looking for a climbing buddy in Pittsburgh!'
+
+[4278] link 'Looking for a climbing buddy in Pittsburgh!'
+
+[4280] mark ''
+
+[4283] StaticText 'Submitted by '
+
+[2162] link 'Certain_Cat1758' expanded: False
+
+[5440] StaticText 't3_10fdhqu'
+
+[4287] time 'January 18, 2023 at 12:41:40 PM EST'
+
+[5444] StaticText '8 months ago'
+
+[4288] StaticText ' in '
+
+[4289] link 'pittsburgh'
+
+[3041] mark ''
+
+[4290] StaticText 'Pittsburgh'
+
+[5447] link '11 comments'
+
+[3046] button 'Upvote'
+
+[3049] button 'Downvote'</pre><div>
+
+[1848] RootWebArea 'Search' focused: True
+
+[1861] main ''
+
+[2156] article ''
+
+[5447] link '11 comments'
+
+[2163] article ''
+
+[2166] HeaderAsNonLandmark ''
+
+[3054] heading 'Pittsburgh Weather'
+
+[4301] link 'Pittsburgh Weather'
+
+[4302] mark ''
+
+[4305] StaticText 'Submitted by '
+
+[2169] link 'Friendly-Bug9305' expanded: False
+
+[5463] StaticText 't3_10o8oha'
+
+[4309] time 'January 29, 2023 at 9:19:03 AM EST'
+
+[5467] StaticText '8 months ago'
+
+[4310] StaticText ' in '
+
+[4311] link 'pittsburgh'
+
+[3057] StaticText 'Just out of pure curiosity, do any meteorology/climatology buffs know the scientific reasoning behind '
+
+[3058] mark ''
+
+[4312] StaticText 'Pittsburgh'
+
+[3059] StaticText '’s constant overcast skies/rainy days'
+
+[5470] link '21 comments'
+
+[3063] button 'Upvote'
+
+[3066] button 'Downvote'
+
+[2170] article ''
+
+[2173] HeaderAsNonLandmark ''
+
+[3071] heading 'Andrew McCutchen Is Returning To Pittsburgh Pirates!'
+
+[4323] link 'Andrew McCutchen Is Returning To Pittsburgh Pirates!'
+
+[4325] mark ''
+
+[4328] StaticText 'Submitted by '
+
+[2176] link 'FlamingoGram' expanded: False
+
+[5486] StaticText 't3_10bqm4u'
+
+[4332] time 'January 14, 2023 at 10:07:25 AM EST'
+
+[5490] StaticText '8 months ago'
+
+[4333] StaticText ' in '
+
+[4334] link 'Pennsylvania'
+
+[3074] StaticText 'Beloved former '
+
+[3075] mark ''
+
+[4335] StaticText 'Pittsburgh'
+
+[3076] StaticText ' Pirate has agreed to a one-year deal with the team. McCutchen is the fourth-highest home run hitter in Pirates history. With 203, he ranks behind only three Hall-of-Famers'
+
+[5493] link '14 comments'
+
+[3080] button 'Upvote'
+
+[4338] StaticText '55'
+
+[3083] button 'Downvote'
+
+[2177] article ''
+
+[2180] HeaderAsNonLandmark ''
+
+[3088] heading 'Where can you get rid of bad fuel in Pittsburgh?'
+
+[4346] link 'Where can you get rid of bad fuel in Pittsburgh?'
+
+[4348] mark ''
+
+[4351] StaticText 'Submitted by '
+
+[2183] link 'fobreezee' expanded: False
+
+[5509] StaticText 't3_10hsnpw'
+
+[4355] time 'January 21, 2023 at 9:38:38 AM EST'
+
+[5513] StaticText '8 months ago'
+
+[4356] StaticText ' in '
+
+[4357] link 'pittsburgh'
+
+[3091] StaticText 'have some old gas that needs disposed of. Anyone know where can you take it in '
+
+[3092] mark ''
+
+[4358] StaticText 'Pittsburgh'
+
+[5516] link '20 comments'
+
+[3096] button 'Upvote'
+
+[4361] StaticText '10'
+
+[3099] button 'Downvote'
+
+[2184] article ''
+
+[2187] HeaderAsNonLandmark ''
+
+[3104] heading 'Worst Of Pittsburgh thread'
+
+[4369] link 'Worst Of Pittsburgh thread'
+
+[4371] mark ''
+
+[4374] StaticText 'Submitted by '
+
+[2190] link 'livefast_dieawesome' expanded: False
+
+[5532] StaticText 't3_xxyjsg'
+
+[4378] time 'October 7, 2022 at 9:00:51 AM EDT'
+
+[5536] StaticText '11 months ago'
+
+[4379] StaticText ' in '
+
+[4380] link 'pittsburgh'
+
+[3107] StaticText 'with a topic. The sub comments under those are nominations. Example: “Topic: Worst fast food place in '
+
+[3108] mark ''
+
+[4381] StaticText 'Pittsburgh'
+
+[3109] StaticText '” Nomination comments under that thread could be “40th street Wendy’s” or “Arby’s on McKnight Road'
+
+[5539] link 'No comments'
+
+[3113] button 'Upvote'
+
+[3116] button 'Downvote'
+
+[2191] article ''
+
+[2194] HeaderAsNonLandmark ''
+
+[3121] heading 'Cookie Table at Pittsburgh Wedding?'
+
+[4392] link 'Cookie Table at Pittsburgh Wedding?'
+
+[4394] mark ''
+
+[4397] StaticText 'Submitted by '
+
+[2197] link 'Elphaba15212' expanded: False
+
+[5555] StaticText 't3_zpxx85'
+
+[4401] time 'December 19, 2022 at 12:34:13 PM EST'
+
+[5559] StaticText '9 months ago'
+
+[4402] StaticText ' in '
+
+[4403] link 'pittsburgh'
+
+[3124] StaticText 'website Burgh Brides, which is a '
+
+[3125] mark ''
+
+[4404] StaticText 'Pittsburgh'
+
+[3126] StaticText ' Wedding Blog, lists the cookie table as a tradition that can be skipped. What do you think? https://burghbrides.com/blog/7-wedding-traditions-you-shouldnt-feel-badly-about-skipping/'
+
+[5562] link 'No comments'
+
+[3130] button 'Upvote'
+
+[4407] StaticText '4'
+
+[3133] button 'Downvote'
+
+[2198] article ''
+
+[2201] HeaderAsNonLandmark ''
+
+[3138] heading 'Pittsburgh Neighborhood/Suburbs for LGBTQ+ Couple'
+
+[4415] link 'Pittsburgh Neighborhood/Suburbs for LGBTQ+ Couple'
+
+[4416] mark ''
+
+[4419] StaticText 'Submitted by '
+
+[2204] link 'Nickwitted' expanded: False
+
+[5578] StaticText 't3_yeyx3r'
+
+[4423] time 'October 27, 2022 at 2:06:15 PM EDT'
+
+[5582] StaticText '11 months ago'
+
+[4424] StaticText ' in '
+
+[4425] link 'pittsburgh'
+
+[3147] button 'Upvote'</pre><div>
+
+[5447]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '5447', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. I scrolled down the page, but I didn\'t find any relevant information yet. I can try to click on the first link with the text "11 comments" to see if it leads to a relevant subreddit. In summary, the next action I will perform is ```click [5447]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [5447] where [5447] is [5447] link '11 comments'</pre></div></div>
+
+[5721] RootWebArea 'Looking for a climbing buddy in Pittsburgh!' focused: True
+
+[5870] HeaderAsNonLandmark ''
+
+[5871] link 'Home'
+
+[5905] StaticText 'Postmill'
+
+[5906] link 'Forums'
+
+[5907] link 'Wiki'
+
+[5830] searchbox 'Search query'
+
+[5915] link 'Notifications (0)'
+
+[5916] link 'Submit'
+
+[5732] button 'MarvelsGrantMan136' hasPopup: menu expanded: False
+
+[5734] main ''
+
+[6163] link '/f/pittsburgh'
+
+[5735] article ''
+
+[5738] HeaderAsNonLandmark ''
+
+[5923] heading 'Looking for a climbing buddy in Pittsburgh!'
+
+[6164] link 'Looking for a climbing buddy in Pittsburgh!'
+
+[6166] StaticText 'Submitted by '
+
+[5741] link 'Certain_Cat1758' expanded: False
+
+[6566] StaticText 't3_10fdhqu'
+
+[6170] time 'January 18, 2023 at 12:41:40 PM EST'
+
+[6570] StaticText '8 months ago'
+
+[6171] StaticText ' in '
+
+[6172] link 'pittsburgh'
+
+[6573] link '11 comments'
+
+[5930] button 'Upvote'
+
+[5933] button 'Downvote'
+
+[5861] heading 'Comments'
+
+[5835] textbox 'Comment' required: True describedby: reply_to_submission_89742_comment_help
+
+[5837] checkbox 'Formatting help +' checked: false
+
+[5940] StaticText 'Markdown allowed.'
+
+[5946] button 'Post'
+
+[5949] link 'Nested'
+
+[5950] link 'Linear'
+
+[5742] article ''
+
+[5844] checkbox 'Hide −' checked: true
+
+[5745] HeaderAsNonLandmark ''
+
+[5746] heading 'Ramady [t1_j4w2wiu] wrote 8 months ago'
+
+[5748] link 'Ramady' expanded: False
+
+[6386] time 'January 18, 2023 at 12:44:26 PM EST'
+
+[5962] StaticText 'I might be down. I boulder a lot at ICB, and I also hit up Ascend PB once a week or so for roped climbing. Where do you climb? At the least, I can probably introduce you to some people.'
+
+[6586] link 'Reply'
+
+[6587] link 'Permalink'
+
+[5966] button 'Upvote'
+
+[6398] StaticText '2'
+
+[5969] button 'Downvote'
+
+[5750] article ''
+
+[5845] checkbox 'Hide −' checked: true
+
+[5753] HeaderAsNonLandmark ''
+
+[5754] heading 'Certain_Cat1758 Original poster [t1_j4wirjt] wrote 8 months ago'
+
+[5824] complementary ''
+
+[6028] StaticText '0 points'
+
+[6031] StaticText '(+0, −0)'
+
+[6032] heading 'Short URL:'
+
+[6036] StaticText 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:9999/89742'
+
+[5892] heading 'pittsburgh'
+
+[6037] link 'pittsburgh'
+
+[6534] button 'Subscribe No subscribers'
+
+[6536] generic 'No subscribers'
+
+[6042] StaticText 't5_2qhrn'
+
+[5895] separator '' orientation: horizontal
+
+[6541] StaticText 'Created '
+
+[6542] time 'October 1, 2022 at 1:02:24 PM EDT'
+
+[6776] StaticText '12 months ago'
+
+[6543] link 'Subscribe via RSS'
+
+[5825] Details ''
+
+[5827] DisclosureTriangle 'Hide this forum' expanded: False
+
+[5898] heading 'Toolbox'
+
+[6545] link 'Bans'
+
+[6546] link 'Moderation log'</pre><div>
+
+[5447] where [5447] is link '11 comments'</div>
+
+[5835] [places for new drivers to learn driving]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [95, 91, 80, 82, 84, 98, 15, 85, 94, 97, 15, 93, 84, 102, 15, 83, 97, 88, 101, 84, 97, 98, 15, 99, 94, 15, 91, 84, 80, 97, 93, 15, 83, 97, 88, 101, 88, 93, 86, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '5835', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is a post on the subreddit "pittsburgh". To achieve the objective, we need to find a subreddit focused on topics related to the city of Pittsburgh and post a question there. The current subreddit is already related to Pittsburgh, so we can proceed to post our question.\n\nTo post our question, we need to fill in the comment textbox with our question and click the "Post" button.\n\nIn summary, the next action I will perform is ```type [5835] [places for new drivers to learn driving]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [5835] [places for new drivers to learn driving
+
+[5835] is [5835] textbox 'Comment' required: True describedby: reply_to_submission_89742_comment_help</pre></div></div>
+
+[5721] RootWebArea 'Looking for a climbing buddy in Pittsburgh!' focused: True
+
+[5870] HeaderAsNonLandmark ''
+
+[5871] link 'Home'
+
+[5905] StaticText 'Postmill'
+
+[5906] link 'Forums'
+
+[5907] link 'Wiki'
+
+[5830] searchbox 'Search query'
+
+[5915] link 'Notifications (0)'
+
+[5916] link 'Submit'
+
+[5732] button 'MarvelsGrantMan136' hasPopup: menu expanded: False
+
+[5734] main ''
+
+[6163] link '/f/pittsburgh'
+
+[5735] article ''
+
+[5738] HeaderAsNonLandmark ''
+
+[5923] heading 'Looking for a climbing buddy in Pittsburgh!'
+
+[6164] link 'Looking for a climbing buddy in Pittsburgh!'
+
+[6166] StaticText 'Submitted by '
+
+[5741] link 'Certain_Cat1758' expanded: False
+
+[6566] StaticText 't3_10fdhqu'
+
+[6170] time 'January 18, 2023 at 12:41:40 PM EST'
+
+[6570] StaticText '8 months ago'
+
+[6171] StaticText ' in '
+
+[6172] link 'pittsburgh'
+
+[6573] link '11 comments'
+
+[5930] button 'Upvote'
+
+[5933] button 'Downvote'
+
+[5861] heading 'Comments'
+
+[5835] textbox 'Comment' focused: True required: True describedby: reply_to_submission_89742_comment_help
+
+[7063] StaticText 'places for new drivers to learn driving'
+
+[7070] StaticText '\n'
+
+[7064] LineBreak '\n'
+
+[7068] heading 'Preview'
+
+[7071] StaticText 'places for new drivers to learn driving'
+
+[5837] checkbox 'Formatting help +' checked: false
+
+[5940] StaticText 'Markdown allowed.'
+
+[5946] button 'Post'
+
+[5949] link 'Nested'
+
+[5950] link 'Linear'
+
+[5742] article ''
+
+[5844] checkbox 'Hide −' checked: true
+
+[5745] HeaderAsNonLandmark ''
+
+[5746] heading 'Ramady [t1_j4w2wiu] wrote 8 months ago'
+
+[5748] link 'Ramady' expanded: False
+
+[6386] time 'January 18, 2023 at 12:44:26 PM EST'
+
+[5966] button 'Upvote'
+
+[5824] complementary ''
+
+[6028] StaticText '0 points'
+
+[6031] StaticText '(+0, −0)'
+
+[6032] heading 'Short URL:'
+
+[6036] StaticText 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:9999/89742'
+
+[5892] heading 'pittsburgh'
+
+[6037] link 'pittsburgh'
+
+[6534] button 'Subscribe No subscribers'
+
+[6536] generic 'No subscribers'
+
+[6042] StaticText 't5_2qhrn'
+
+[5895] separator '' orientation: horizontal
+
+[6541] StaticText 'Created '
+
+[6542] time 'October 1, 2022 at 1:02:24 PM EDT'
+
+[6776] StaticText '12 months ago'
+
+[6543] link 'Subscribe via RSS'
+
+[5825] Details ''
+
+[5827] DisclosureTriangle 'Hide this forum' expanded: False
+
+[5898] heading 'Toolbox'
+
+[6545] link 'Bans'
+
+[6546] link 'Moderation log'</pre><div>
+
+[5835] [places for new drivers to learn driving
+
+[5835] is textbox 'Comment' required: True describedby: reply_to_submission_89742_comment_help</div>
+
+[5830] [Pittsburgh] [1]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We are currently on a Reddit page for a subreddit related to the city of Pittsburgh. We want to find a subreddit focused on topics related to the city of Pittsburgh. We can do this by searching for "Pittsburgh" in the search box. Then we can click on the appropriate subreddit from the search results. After that, we can post our question in the comment section of the subreddit. In summary, the next action I will perform is `type [5830] [Pittsburgh] [1]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[5721] RootWebArea 'Looking for a climbing buddy in Pittsburgh!' focused: True
+
+[5870] HeaderAsNonLandmark ''
+
+[5871] link 'Home'
+
+[5905] StaticText 'Postmill'
+
+[5906] link 'Forums'
+
+[5907] link 'Wiki'
+
+[5830] searchbox 'Search query'
+
+[5915] link 'Notifications (0)'
+
+[5916] link 'Submit'
+
+[5732] button 'MarvelsGrantMan136' hasPopup: menu expanded: False
+
+[5734] main ''
+
+[6163] link '/f/pittsburgh'
+
+[5735] article ''
+
+[5738] HeaderAsNonLandmark ''
+
+[5923] heading 'Looking for a climbing buddy in Pittsburgh!'
+
+[6164] link 'Looking for a climbing buddy in Pittsburgh!'
+
+[6166] StaticText 'Submitted by '
+
+[5741] link 'Certain_Cat1758' expanded: False
+
+[6566] StaticText 't3_10fdhqu'
+
+[6170] time 'January 18, 2023 at 12:41:40 PM EST'
+
+[6570] StaticText '8 months ago'
+
+[6171] StaticText ' in '
+
+[6172] link 'pittsburgh'
+
+[6573] link '11 comments'
+
+[5930] button 'Upvote'
+
+[5933] button 'Downvote'
+
+[5861] heading 'Comments'
+
+[5835] textbox 'Comment' focused: True required: True describedby: reply_to_submission_89742_comment_help
+
+[7063] StaticText 'places for new drivers to learn driving'
+
+[7070] StaticText '\n'
+
+[7064] LineBreak '\n'
+
+[7068] heading 'Preview'
+
+[7071] StaticText 'places for new drivers to learn driving'
+
+[5837] checkbox 'Formatting help +' checked: false
+
+[5940] StaticText 'Markdown allowed.'
+
+[5946] button 'Post'
+
+[5949] link 'Nested'
+
+[5950] link 'Linear'
+
+[5742] article ''
+
+[5844] checkbox 'Hide −' checked: true
+
+[5745] HeaderAsNonLandmark ''
+
+[5746] heading 'Ramady [t1_j4w2wiu] wrote 8 months ago'
+
+[5748] link 'Ramady' expanded: False
+
+[6386] time 'January 18, 2023 at 12:44:26 PM EST'
+
+[5966] button 'Upvote'
+
+[5824] complementary ''
+
+[6028] StaticText '0 points'
+
+[6031] StaticText '(+0, −0)'
+
+[6032] heading 'Short URL:'
+
+[6036] StaticText 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:9999/89742'
+
+[5892] heading 'pittsburgh'
+
+[6037] link 'pittsburgh'
+
+[6534] button 'Subscribe No subscribers'
+
+[6536] generic 'No subscribers'
+
+[6042] StaticText 't5_2qhrn'
+
+[5895] separator '' orientation: horizontal
+
+[6541] StaticText 'Created '
+
+[6542] time 'October 1, 2022 at 1:02:24 PM EDT'
+
+[6776] StaticText '12 months ago'
+
+[6543] link 'Subscribe via RSS'
+
+[5825] Details ''
+
+[5827] DisclosureTriangle 'Hide this forum' expanded: False
+
+[5898] heading 'Toolbox'
+
+[6545] link 'Bans'
+
+[6546] link 'Moderation log'</pre><div>
+
+[5830] [Pittsburgh] [1]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[5830] [Pittsburgh] [1]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [63, 88, 99, 99, 98, 81, 100, 97, 86, 87, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '5830', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We are currently on a Reddit page for a subreddit related to the city of Pittsburgh. We want to find a subreddit focused on topics related to the city of Pittsburgh. We can do this by searching for "Pittsburgh" in the search box. Then we can click on the appropriate subreddit from the search results. After that, we can post our question in the comment section of the subreddit. In summary, the next action I will perform is ```type [5830] [Pittsburgh] [1]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [5830] [Pittsburgh
+
+[5830] is [5830] searchbox 'Search query'</pre></div></div>
+
+[7073] RootWebArea 'Search' focused: True busy: 1
+
+[7137] HeaderAsNonLandmark ''
+
+[7141] link 'Home'
+
+[7206] StaticText 'Postmill'
+
+[7207] link 'Forums'
+
+[7208] link 'Wiki'
+
+[7216] searchbox 'Search query'
+
+[9250] StaticText 'Pittsburgh'
+
+[7217] link 'Notifications (0)'
+
+[7218] link 'Submit'
+
+[7219] button 'MarvelsGrantMan136'
+
+[7077] main ''
+
+[7092] heading 'Search'
+
+[7223] StaticText 'Search query'
+
+[7222] searchbox 'Search query'
+
+[8188] StaticText 'Pittsburgh'
+
+[7229] button 'Search'
+
+[7094] heading '50 results for Pittsburgh:'
+
+[7095] article ''
+
+[7233] HeaderAsNonLandmark ''
+
+[7237] heading 'From Florida to Pittsburgh : Is $100,000 home budget in Pittsburgh on disability income feasible?'
+
+[8189] link 'From Florida to Pittsburgh : Is $100,000 home budget in Pittsburgh on disability income feasible?'
+
+[8191] mark ''
+
+[8193] mark ''
+
+[8198] StaticText 'Submitted by '
+
+[8199] link '[deleted]'
+
+[9264] StaticText 't3_10969ac'
+
+[8203] time 'January 11, 2023 at 9:38:08 AM EST'
+
+[9268] StaticText 'on January 11, 2023 at 9:38 AM'
+
+[8204] StaticText ' in '
+
+[8205] link 'pittsburgh'
+
+[7241] StaticText '[deleted]'
+
+[9271] link '39 comments'
+
+[7245] button 'Upvote'
+
+[8208] StaticText '0'
+
+[7248] button 'Downvote'
+
+[7096] article ''
+
+[7251] HeaderAsNonLandmark ''
+
+[7255] heading 'Perceptions on Short-Term Rentals in Pittsburgh. How do Short-Term Rentals like AirBnb impact your community? Inspired by recent discussion at a community meeting, interested in hearing your thoughts from across Greater Pittsburgh. Responses anonymous, not affiliated with AirBnb, etc. Thanks!'
+
+[8216] link 'Perceptions on Short-Term Rentals in Pittsburgh. How do Short-Term Rentals like AirBnb impact your community? Inspired by recent discussion at a community meeting, interested in hearing your thoughts from across Greater Pittsburgh. Responses anonymous, not affiliated with AirBnb, etc. Thanks!'
+
+[8218] mark ''
+
+[8220] mark ''
+
+[7257] link 'forms.gle'
+
+[8226] StaticText 'Submitted by '
+
+[8227] link 'unenlightenedgoblin'
+
+[9287] StaticText 't3_11ef5gc'
+
+[8231] time 'February 28, 2023 at 12:57:08 PM EST'
+
+[9291] StaticText 'on February 28, 2023 at 12:57 PM'
+
+[8232] StaticText ' in '
+
+[8233] link 'pittsburgh'
+
+[9294] link '23 comments'
+
+[7263] button 'Upvote'
+
+[8236] StaticText '1'
+
+[7266] button 'Downvote'
+
+[7097] article ''
+
+[7269] HeaderAsNonLandmark ''
+
+[7273] heading 'Pittsburgh-based MacTavish Pubs files Chapter 11 - Pittsburgh Business Times'
+
+[8244] link 'Pittsburgh-based MacTavish Pubs files Chapter 11 - Pittsburgh Business Times'
+
+[8245] mark ''
+
+[8247] mark ''
+
+[8252] StaticText 'Submitted by '
+
+[8253] link 'immargarita'
+
+[9310] StaticText 't3_z43lrw'
+
+[8257] time 'November 24, 2022 at 11:16:11 PM EST'
+
+[9314] StaticText 'on November 24, 2022 at 11:16 PM'
+
+[8258] StaticText ' in '
+
+[8259] link 'pittsburgh'
+
+[9317] link '8 comments'
+
+[7281] button 'Upvote'
+
+[8262] StaticText '0'
+
+[7284] button 'Downvote'
+
+[7098] article ''
+
+[7287] HeaderAsNonLandmark ''
+
+[7291] heading 'What “Pittsburgh thing” is not just found in Pittsburgh but found all throughout the US?'
+
+[8270] link 'What “Pittsburgh thing” is not just found in Pittsburgh but found all throughout the US?'
+
+[8272] mark ''
+
+[8274] mark ''
+
+[8279] StaticText 'Submitted by '
+
+[8280] link '1029Dash'
+
+[9333] StaticText 't3_zp0owb'
+
+[8284] time 'December 18, 2022 at 10:09:37 AM EST'
+
+[9337] StaticText 'on December 18, 2022 at 10:09 AM'
+
+[8285] StaticText ' in '
+
+[8286] link 'pittsburgh'
+
+[9340] link 'No comments'
+
+[7297] button 'Upvote'
+
+[7300] button 'Downvote'
+
+[7099] article ''
+
+[7303] HeaderAsNonLandmark ''
+
+[7307] heading 'Thank you Pittsburghers for the substantial response to my earlier post about cool stuff to do in Pittsburgh for older teens.'
+
+[8297] link 'Thank you Pittsburghers for the substantial response to my earlier post about cool stuff to do in Pittsburgh for older teens.'
+
+[8299] mark ''
+
+[8301] mark ''
+
+[8306] StaticText 'Submitted by '
+
+[8307] link 'linguinykidneybeany'
+
+[9356] StaticText 't3_ysojky'
+
+[8311] time 'November 11, 2022 at 5:02:25 PM EST'
+
+[9360] StaticText 'on November 11, 2022 at 5:02 PM'
+
+[8312] StaticText ' in '
+
+[8313] link 'pittsburgh'
+
+[7311] StaticText 'I’m afraid I’m still requiring more activities in your awesome city. Me and'
+
+[9363] link '11 comments'
+
+[7315] button 'Upvote'
+
+[8316] StaticText '30'
+
+[7318] button 'Downvote'
+
+[7100] article ''
+
+[7321] HeaderAsNonLandmark ''
+
+[7325] heading "3 people dead, another hospitalized after shooting on Pittsburgh's North Side - CBS Pittsburgh"
+
+[8324] link "3 people dead, another hospitalized after shooting on Pittsburgh's North Side - CBS Pittsburgh"
+
+[8326] mark ''
+
+[8328] mark ''
+
+[7327] link 'cbsnews.com'
+
+[8333] StaticText 'Submitted by '
+
+[8334] link 'oldschoolskater'
+
+[9379] StaticText 't3_y57li4'
+
+[8338] time 'October 16, 2022 at 12:30:16 AM EDT'
+
+[9383] StaticText 'on October 16, 2022 at 12:30 AM'
+
+[8339] StaticText ' in '
+
+[8340] link 'pittsburgh'
+
+[9386] link 'No comments'
+
+[7333] button 'Upvote'
+
+[7336] button 'Downvote'
+
+[7101] article ''
+
+[7339] HeaderAsNonLandmark ''
+
+[7343] heading 'Constantly seeing “Pittsburgh doesn’t have this, Pittsburgh doesn’t have that”. What do we have?'
+
+[8351] link 'Constantly seeing “Pittsburgh doesn’t have this, Pittsburgh doesn’t have that”. What do we have?'
+
+[8353] mark ''
+
+[8355] mark ''
+
+[8360] StaticText 'Submitted by '
+
+[8361] link 'SnooMarzipans3516'
+
+[9402] StaticText 't3_10pzw5x'
+
+[8365] time 'January 31, 2023 at 9:05:12 AM EST'
+
+[9406] StaticText 'on January 31, 2023 at 9:05 AM'
+
+[8366] StaticText ' in '
+
+[8367] link 'pittsburgh'
+
+[7347] StaticText 'I’ve seen a few posts lately of people looking to relo to the area'
+
+[9409] link 'No comments'
+
+[7351] button 'Upvote'
+
+[7354] button 'Downvote'
+
+[7102] article ''
+
+[7357] HeaderAsNonLandmark ''
+
+[7361] heading 'Tell me you’re from Pittsburgh without telling me you’re from Pittsburgh, this should be fun'
+
+[8378] link 'Tell me you’re from Pittsburgh without telling me you’re from Pittsburgh, this should be fun'
+
+[8380] mark ''
+
+[8382] mark ''
+
+[8387] StaticText 'Submitted by '
+
+[8388] link 'Themayorofawesome'
+
+[9425] StaticText 't3_zhqbcp'
+
+[8392] time 'December 10, 2022 at 6:29:32 AM EST'
+
+[9429] StaticText 'on December 10, 2022 at 6:29 AM'
+
+[8393] StaticText ' in '
+
+[8394] link 'pittsburgh'
+
+[9432] link '164 comments'
+
+[7367] button 'Upvote'
+
+[8397] StaticText '14'
+
+[7370] button 'Downvote'
+
+[7103] article ''
+
+[7373] HeaderAsNonLandmark ''
+
+[7377] heading 'I asked Chat GPT to generate 10 headlines about Pittsburgh in the style of The Onion.'
+
+[8405] link 'I asked Chat GPT to generate 10 headlines about Pittsburgh in the style of The Onion.'
+
+[8407] mark ''
+
+[8411] StaticText 'Submitted by '
+
+[8412] link 'solarbot88'
+
+[9448] StaticText 't3_10oncl0'
+
+[8416] time 'January 29, 2023 at 7:19:08 PM EST'
+
+[9452] StaticText 'on January 29, 2023 at 7:19 PM'
+
+[8417] StaticText ' in '
+
+[8418] link 'pittsburgh'
+
+[7381] mark ''
+
+[8419] StaticText 'Pittsburgh'
+
+[7382] StaticText ' Named Most Liveable City...Again, Residents Ask What\'s the Catch?" 2. "Study Finds 90% of '
+
+[7383] mark ''
+
+[7384] StaticText ' Drivers Actually Just Follow the Car in Front of Them" 3. "City of '
+
+[7385] mark ''
+
+[8421] StaticText 'Pittsburgh'
+
+[7386] StaticText ' Announces Plan ... Turn Every River into Primitive Water Slide Park" 4. "'
+
+[7387] mark ''
+
+[7388] StaticText ' Man Shocked to Discover Primanti Bros. Sandwich Not Actually a Health Food" 5. "Local Steeler\'s Fan Forced to Admit He\'s Only Watched ... Hard" 6. "City Council Debates Whether to Rename Mount Washington to \'Mount Burrito Hill" 7. "Report Finds '
+
+[7389] mark ''
+
+[8423] StaticText 'Pittsburgh'
+
+[7390] StaticText ' Snow Plows Mostly Just Push Snow to Other Neighborhoods" 8. "Local Man Insists on Wearing Terrible Towel'
+
+[9455] link '72 comments'
+
+[7394] button 'Upvote'
+
+[8426] StaticText '784'
+
+[7397] button 'Downvote'
+
+[7104] article ''
+
+[7400] HeaderAsNonLandmark ''
+
+[7404] heading 'WPXI: Pittsburgh police release details about sexual assault allegations against high school students'
+
+[8434] link 'WPXI: Pittsburgh police release details about sexual assault allegations against high school students'
+
+[8436] mark ''
+
+[8440] StaticText 'Submitted by '
+
+[8441] link 'DanielAlman'
+
+[9471] StaticText 't3_yfafh7'
+
+[8445] time 'October 27, 2022 at 9:54:11 PM EDT'
+
+[9475] StaticText 'on October 27, 2022 at 9:54 PM'
+
+[8446] StaticText ' in '
+
+[8447] link 'pittsburgh'
+
+[7408] StaticText 'people who actually live here tend to be very well behaved and law abiding. [https://www.wpxi.com/news/local/pittsburgh-police-release-details-about-sexual-assault-allegations-against-high-school-students/PLPP425R4RCPTOGWK43GM5TQJM/](https://www.wpxi.com/news/local/pittsburgh-police-release-details-about-sexual-assault-allegations-against-high-school-students/PLPP425R4RCPTOGWK43GM5TQJM/) '
+
+[7409] mark ''
+
+[8448] StaticText 'Pittsburgh'
+
+[7410] StaticText ' police release details about sexual assault allegations against high school students October 27, 2022 '
+
+[7411] mark ''
+
+[8449] StaticText 'PITTSBURGH'
+
+[7412] StaticText ' — '
+
+[7413] mark ''
+
+[8450] StaticText 'Pittsburgh'
+
+[7414] StaticText '\xa0police ... that we are aware of the incident and we are actively investigating at this time,” said '
+
+[7415] mark ''
+
+[7416] StaticText ' Police Commander Richard Ford, who heads the\xa0Major Crimes division. Police have declined to release further details. Target ... learned that the alleged assault happened on Friday, Oct. 14, and that\xa0detectives from the\xa0'
+
+[7417] mark ''
+
+[8452] StaticText 'Pittsburgh'
+
+[7418] StaticText ' Police Bureau Special Victims Unit canvassed the area near Forward and Murray\xa0and they’ve\xa0also visited the high'
+
+[9478] link '32 comments'
+
+[7422] button 'Upvote'
+
+[7425] button 'Downvote'
+
+[7105] article ''
+
+[7428] HeaderAsNonLandmark ''
+
+[7432] heading 'The fall of Pittsburgh Bodegas'
+
+[8463] link 'The fall of Pittsburgh Bodegas'
+
+[8465] mark ''
+
+[8469] StaticText 'Submitted by '
+
+[8470] link 'HarpPgh'
+
+[9494] StaticText 't3_11aiqge'
+
+[8474] time 'February 23, 2023 at 11:45:03 PM EST'
+
+[9498] StaticText 'on February 23, 2023 at 11:45 PM'
+
+[8475] StaticText ' in '
+
+[8476] link 'pittsburgh'
+
+[7436] StaticText 'wondering what sort of negative impact this has had on convenience as well; specifically local stores/bodegas in '
+
+[7437] mark ''
+
+[8477] StaticText 'Pittsburgh'
+
+[7438] StaticText ' metropolitan area. Being ignorant and only citing what I grew up with in the 90s, Schwartz ... especially the little one on mission street🥲. I’m imagining there were other awesome neighborhood markets in '
+
+[7439] mark ''
+
+[7440] StaticText ' just like this that also unfortunately failed to stand the test of time, probably also losing ... still have these thriving corner stores. A lot of them have essentials like produce, eggs, and milk. '
+
+[7441] mark ''
+
+[8479] StaticText 'Pittsburgh'
+
+[7442] StaticText ' has seemingly dropped the ball here. Most recently we watched Shadyside and Bloomfield, two of our densest'
+
+[9501] link '62 comments'
+
+[7446] button 'Upvote'
+
+[8482] StaticText '41'
+
+[7449] button 'Downvote'
+
+[7106] article ''
+
+[7452] HeaderAsNonLandmark ''
+
+[7456] heading 'We are considering a move from the Bay Area to Pittsburgh area. Mistake? Alternatives?'
+
+[8490] link 'We are considering a move from the Bay Area to Pittsburgh area. Mistake? Alternatives?'
+
+[8492] mark ''
+
+[8496] StaticText 'Submitted by '
+
+[8497] link 'No-Camp9363'
+
+[9517] StaticText 't3_yzkg6m'
+
+[8501] time 'November 19, 2022 at 2:51:42 PM EST'
+
+[9521] StaticText 'on November 19, 2022 at 2:51 PM'
+
+[8502] StaticText ' in '
+
+[8503] link 'pittsburgh'
+
+[7460] StaticText 'were looking to move back east and looking at the suburbs of '
+
+[7461] mark ''
+
+[8504] StaticText 'Pittsburgh'
+
+[7463] mark ''
+
+[7464] StaticText ' on paper seems to fit the bill. I watched a video on youtube dissing PA and '
+
+[7465] mark ''
+
+[8506] StaticText 'Pittsburgh'
+
+[7466] StaticText ' ... Seattle. Cost of living is still high and they still deal with wildfire smoke and earthquakes. However, '
+
+[7467] mark ''
+
+[7468] StaticText ' air quality is a very big concern especially with little ones with sensitive lungs. &amp;#x200B'
+
+[9524] link '55 comments'
+
+[7472] button 'Upvote'
+
+[7475] button 'Downvote'
+
+[7107] article ''
+
+[7478] HeaderAsNonLandmark ''
+
+[7482] heading 'Armored MMA in Pittsburgh'
+
+[8518] link 'Armored MMA in Pittsburgh'
+
+[8520] mark ''
+
+[8523] StaticText 'Submitted by '
+
+[8524] link 'Wixard00'
+
+[9540] StaticText 't3_1262ycc'
+
+[8528] time 'March 29, 2023 at 6:31:06 PM EDT'
+
+[9544] StaticText 'on March 29, 2023 at 6:31 PM'
+
+[8529] StaticText ' in '
+
+[8530] link 'pittsburgh'
+
+[7486] StaticText 'like to meet us and get started. We compete locally in our own events here in '
+
+[7487] mark ''
+
+[8531] StaticText 'Pittsburgh'
+
+[7489] mark ''
+
+[7491] mark ''
+
+[9547] link '14 comments'
+
+[7496] button 'Upvote'
+
+[8536] StaticText '17'
+
+[7499] button 'Downvote'
+
+[7108] article ''
+
+[7502] HeaderAsNonLandmark ''
+
+[7506] heading 'General awareness of Pittsburgh location'
+
+[8544] link 'General awareness of Pittsburgh location'
+
+[8546] mark ''
+
+[8550] StaticText 'Submitted by '
+
+[8551] link '[deleted]'
+
+[9563] StaticText 't3_yk2r1m'
+
+[8555] time 'November 2, 2022 at 7:32:41 AM EDT'
+
+[9567] StaticText 'on November 2, 2022 at 7:32 AM'
+
+[8556] StaticText ' in '
+
+[8557] link 'pittsburgh'
+
+[7510] StaticText 'classic scenario: you tell someone you live in '
+
+[7511] mark ''
+
+[8558] StaticText 'Pittsburgh'
+
+[7512] StaticText ' and they reply, “I’ve been to Philadelphia but never '
+
+[7513] mark ''
+
+[7514] StaticText '.” Then, when you tell them Philadelphia is 5 hours away, and '
+
+[7515] mark ''
+
+[8560] StaticText 'Pittsburgh'
+
+[7516] StaticText ' is closest'
+
+[9570] link 'No comments'
+
+[7520] button 'Upvote'
+
+[8563] StaticText '3'
+
+[7523] button 'Downvote'
+
+[7109] article ''
+
+[7526] HeaderAsNonLandmark ''
+
+[7530] heading 'Looking for Experience gifts in Pittsburgh'
+
+[8571] link 'Looking for Experience gifts in Pittsburgh'
+
+[8573] mark ''
+
+[8576] StaticText 'Submitted by '
+
+[8577] link 'Local_Penalty2078'
+
+[9586] StaticText 't3_z97her'
+
+[8581] time 'November 30, 2022 at 6:44:33 PM EST'
+
+[9590] StaticText 'on November 30, 2022 at 6:44 PM'
+
+[8582] StaticText ' in '
+
+[8583] link 'pittsburgh'
+
+[7534] StaticText 'Hello '
+
+[7535] mark ''
+
+[8584] StaticText 'Pittsburgh'
+
+[7536] StaticText ' redditors! I\'m looking for an experience -type gift for my SO and I was wondering what kind of ideas you all might have? I am looking possibly into cooking classes ... things to do! I feel like this thread has become "How to properly plan a date in '
+
+[7537] mark ''
+
+[7538] StaticText '". There are so many things to pick from that I\'ll be finding things ... many of these as I can! Everyone who responded, thank you - this demonstrates how awesome a place '
+
+[7539] mark ''
+
+[8586] StaticText 'Pittsburgh'
+
+[9593] link '3 comments'
+
+[7543] button 'Upvote'
+
+[8589] StaticText '114'
+
+[7546] button 'Downvote'
+
+[7110] article ''
+
+[7549] HeaderAsNonLandmark ''
+
+[7553] heading 'Is Pittsburgh a chain restaurant city?'
+
+[8597] link 'Is Pittsburgh a chain restaurant city?'
+
+[8599] mark ''
+
+[8603] StaticText 'Submitted by '
+
+[8604] link 'thehofstetter'
+
+[9609] StaticText 't3_118c9hd'
+
+[8608] time 'February 21, 2023 at 1:24:36 PM EST'
+
+[9613] StaticText 'on February 21, 2023 at 1:24 PM'
+
+[8609] StaticText ' in '
+
+[8610] link 'pittsburgh'
+
+[7557] StaticText 'friendly argument with a buddy about whether or not '
+
+[7558] mark ''
+
+[8611] StaticText 'Pittsburgh'
+
+[7559] StaticText ' is a chain restaurant/bar town. While we have a bunch of them, I think the independent places are doing better. I read that '
+
+[7560] mark ''
+
+[9616] link '138 comments'
+
+[7564] button 'Upvote'
+
+[8615] StaticText '63'
+
+[7567] button 'Downvote'
+
+[7111] article ''
+
+[7570] HeaderAsNonLandmark ''
+
+[7574] heading 'Pittsburgh: the "just-right" porridge of American communication styles'
+
+[8623] link 'Pittsburgh: the "just-right" porridge of American communication styles'
+
+[8624] mark ''
+
+[8628] StaticText 'Submitted by '
+
+[8629] link 'LockedOutOfElfland'
+
+[9632] StaticText 't3_zzzs3y'
+
+[8633] time 'December 31, 2022 at 1:00:21 PM EST'
+
+[9636] StaticText 'on December 31, 2022 at 1:00 PM'
+
+[8634] StaticText ' in '
+
+[8635] link 'pittsburgh'
+
+[7578] StaticText 'honey..." In the west coast culture (and this seems to be a habit picked up by '
+
+[7579] mark ''
+
+[8636] StaticText 'Pittsburghers'
+
+[7581] mark ''
+
+[7582] StaticText ', now. Being here is like Goldilocks entering the house of the three bears and finding Mama Bear'
+
+[9639] link '1 comment'
+
+[7586] button 'Upvote'
+
+[8640] StaticText '38'
+
+[7589] button 'Downvote'
+
+[7112] article ''
+
+[7592] HeaderAsNonLandmark ''
+
+[7596] heading 'Upcoming trip to Pittsburgh. Question about masks.'
+
+[8648] link 'Upcoming trip to Pittsburgh. Question about masks.'
+
+[8650] mark ''
+
+[8654] StaticText 'Submitted by '
+
+[8655] link 'zimmbo'
+
+[9655] StaticText 't3_11kktnd'
+
+[8659] time 'March 6, 2023 at 8:23:53 PM EST'
+
+[9659] StaticText 'on March 6, 2023 at 8:23 PM'
+
+[8660] StaticText ' in '
+
+[8661] link 'pittsburgh'
+
+[7600] StaticText 'Hello! Excited to visit '
+
+[7601] mark ''
+
+[8662] StaticText 'Pittsburgh'
+
+[7602] StaticText ' for the first time. Just curious- we know masks aren’t required but we still choose to wear them inside. Are many people (or any) in shops, museums etc… still ... wearing masks in '
+
+[7603] mark ''
+
+[9662] link 'No comments'
+
+[7607] button 'Upvote'
+
+[7610] button 'Downvote'
+
+[7078] article ''
+
+[7081] HeaderAsNonLandmark ''
+
+[7615] heading 'How’s the local music scene in Pittsburgh- really?'
+
+[8674] link 'How’s the local music scene in Pittsburgh- really?'
+
+[8676] mark ''
+
+[8679] StaticText 'Submitted by '
+
+[8680] link 'meatsweats77'
+
+[7085] StaticText 't3_10oc3do'
+
+[8683] time 'January 29, 2023 at 11:47:04 AM EST'
+
+[9681] StaticText 'on January 29, 2023 at 11:47 AM'
+
+[8684] StaticText ' in '
+
+[8685] link 'pittsburgh'
+
+[7618] StaticText 'that play at little dive bars and clubs. Punk, hardcore, jazz, country, what’s going on in '
+
+[7619] mark ''
+
+[8686] StaticText 'Pittsburgh'
+
+[7620] StaticText '? My partner and I are considering moving to '
+
+[7621] mark ''
+
+[7622] StaticText ' from Austin and we’r curious about what'
+
+[9684] link '73 comments'
+
+[7626] button 'Upvote'
+
+[8690] StaticText '36'
+
+[7629] button 'Downvote'
+
+[7113] article ''
+
+[7632] HeaderAsNonLandmark ''
+
+[7636] heading 'Will Pittsburgh see light rail expansion in the next 30 years?'
+
+[8698] link 'Will Pittsburgh see light rail expansion in the next 30 years?'
+
+[8700] mark ''
+
+[8704] StaticText 'Submitted by '
+
+[8705] link 'metracta'
+
+[9700] StaticText 't3_11h1kx7'
+
+[8709] time 'March 3, 2023 at 9:04:00 AM EST'
+
+[9704] StaticText 'on March 3, 2023 at 9:04 AM'
+
+[8710] StaticText ' in '
+
+[8711] link 'pittsburgh'
+
+[7640] mark ''
+
+[8712] StaticText 'Pittsburgh'
+
+[7641] StaticText '’s east end seems like an area absolutely ripe for a light rail system expansion. It is densely populated, serves many commuters from other parts of the city, is relatively flat, and gets frequent ... stops frequently to connect to many neighborhoods. Wondering what the thoughts are from locals, from a '
+
+[7642] mark ''
+
+[7643] StaticText ' ex-pat who enjoys taking transit in Chicago every'
+
+[9707] link 'No comments'
+
+[7647] button 'Upvote'
+
+[7650] button 'Downvote'
+
+[7114] article ''
+
+[7653] HeaderAsNonLandmark ''
+
+[7657] heading 'Questions about moving to/living in Munhall vs Pittsburgh'
+
+[8724] link 'Questions about moving to/living in Munhall vs Pittsburgh'
+
+[8726] mark ''
+
+[8729] StaticText 'Submitted by '
+
+[8730] link 'lalune13'
+
+[9723] StaticText 't3_1015j5z'
+
+[8734] time 'January 2, 2023 at 1:31:18 AM EST'
+
+[9727] StaticText 'on January 2, 2023 at 1:31 AM'
+
+[8735] StaticText ' in '
+
+[8736] link 'Pennsylvania'
+
+[7661] StaticText '32/F) am from Phoenix, AZ and have been considering moving to PA. I was attracted to '
+
+[7662] mark ''
+
+[8737] StaticText 'Pittsburgh'
+
+[7663] StaticText ' at first but recently came across Munhall in my search (it was listed as being ... lived in Munhall that can give me any insight into living in this borough? Between Munhall and '
+
+[7664] mark ''
+
+[7665] StaticText ', which would you suggest for someone like myself? Thank'
+
+[9730] link '14 comments'
+
+[7669] button 'Upvote'
+
+[7672] button 'Downvote'
+
+[7115] article ''
+
+[7675] HeaderAsNonLandmark ''
+
+[7679] heading 'The must try desserts of Pittsburgh’s bakeries'
+
+[8749] link 'The must try desserts of Pittsburgh’s bakeries'
+
+[8751] mark ''
+
+[8755] StaticText 'Submitted by '
+
+[8756] link 'SassyButtDragon'
+
+[9746] StaticText 't3_11luafw'
+
+[8760] time 'March 8, 2023 at 6:46:49 AM EST'
+
+[9750] StaticText 'on March 8, 2023 at 6:46 AM'
+
+[8761] StaticText ' in '
+
+[8762] link 'pittsburgh'
+
+[7683] StaticText 'traveling to '
+
+[7684] mark ''
+
+[8763] StaticText 'Pittsburgh'
+
+[7685] StaticText ' this weekend to celebrate my birthday and my goal is to collect the best, must try dessert item from all '
+
+[7686] mark ''
+
+[7687] StaticText '’s best bakeries to take home for my family to sample'
+
+[9753] link 'No comments'
+
+[7691] button 'Upvote'
+
+[7694] button 'Downvote'
+
+[7116] article ''
+
+[7697] HeaderAsNonLandmark ''
+
+[7701] heading 'Actor seeking guidance on a Pittsburgh accent'
+
+[8775] link 'Actor seeking guidance on a Pittsburgh accent'
+
+[8777] mark ''
+
+[8781] StaticText 'Submitted by '
+
+[8782] link 'Darth_Batman89'
+
+[9769] StaticText 't3_zzwlah'
+
+[8786] time 'December 31, 2022 at 10:33:10 AM EST'
+
+[9773] StaticText 'on December 31, 2022 at 10:33 AM'
+
+[8787] StaticText ' in '
+
+[8788] link 'pittsburgh'
+
+[7705] StaticText 'working on a feature film next month and the director and I are wanting to use a '
+
+[7706] mark ''
+
+[8789] StaticText 'Pittsburgh'
+
+[7707] StaticText ' accent for this character. I am reaching out here to see if anyone would be willing ... late 20’s working class Caucasian male. Early 1940’s period. I’ve never been to '
+
+[7708] mark ''
+
+[7709] StaticText ' but reading through the community makes we want to go visit. I never knew it was such'
+
+[9776] link 'No comments'
+
+[7713] button 'Upvote'
+
+[7716] button 'Downvote'
+
+[7117] article ''
+
+[7719] HeaderAsNonLandmark ''
+
+[7723] heading 'I miss Pittsburgh.'
+
+[8801] link 'I miss Pittsburgh.'
+
+[8803] mark ''
+
+[8807] StaticText 'Submitted by '
+
+[8808] link 'Informal_Phrase4589'
+
+[9792] StaticText 't3_121cxxb'
+
+[8812] time 'March 25, 2023 at 2:17:43 AM EDT'
+
+[9796] StaticText 'on March 25, 2023 at 2:17 AM'
+
+[8813] StaticText ' in '
+
+[8814] link 'pittsburgh'
+
+[7727] StaticText 'grown so much lately- I should have moved back home. When I compare anything Portland to anything '
+
+[7728] mark ''
+
+[8815] StaticText 'Pittsburgh'
+
+[7729] StaticText '- I come up short. Just feeling sad and missing what a great town '
+
+[7730] mark ''
+
+[9799] link 'No comments'
+
+[7734] button 'Upvote'
+
+[8819] StaticText '2'
+
+[7737] button 'Downvote'
+
+[7118] article ''
+
+[7740] HeaderAsNonLandmark ''
+
+[7744] heading 'Looking for a "Welcome To Pittsburgh" mural or sign for photo op'
+
+[8827] link 'Looking for a "Welcome To Pittsburgh" mural or sign for photo op'
+
+[8829] mark ''
+
+[8833] StaticText 'Submitted by '
+
+[8834] link 'spacemonkeydaniel'
+
+[9815] StaticText 't3_1274are'
+
+[8838] time 'March 30, 2023 at 8:22:03 PM EDT'
+
+[9819] StaticText 'on March 30, 2023 at 8:22 PM'
+
+[8839] StaticText ' in '
+
+[8840] link 'pittsburgh'
+
+[7748] StaticText 'driving through '
+
+[7749] mark ''
+
+[8841] StaticText 'Pittsburgh'
+
+[7750] StaticText ' next year and was hoping for a "Welcome to '
+
+[7751] mark ''
+
+[7752] StaticText '" sign for a quick photo. It looks like you\'ve all got a ton of amazing street'
+
+[9822] link '14 comments'
+
+[7756] button 'Upvote'
+
+[7759] button 'Downvote'
+
+[7119] article ''
+
+[7762] HeaderAsNonLandmark ''
+
+[7766] heading 'Pittsburgh Conspiracy Theories'
+
+[8853] link 'Pittsburgh Conspiracy Theories'
+
+[8854] mark ''
+
+[8858] StaticText 'Submitted by '
+
+[8859] link 'punkie23'
+
+[9838] StaticText 't3_y2o2m8'
+
+[8863] time 'October 12, 2022 at 11:24:43 PM EDT'
+
+[9842] StaticText 'on October 12, 2022 at 11:24 PM'
+
+[8864] StaticText ' in '
+
+[8865] link 'pittsburgh'
+
+[7770] StaticText 'Please let me know if there is a more appropriate place for this. I have lived in '
+
+[7771] mark ''
+
+[8866] StaticText 'Pittsburgh'
+
+[7772] StaticText ' my entire life and had recently learned of the bomber plane that crashed in the Monongahela. What ... some of the other stories or theories surrounding '
+
+[7773] mark ''
+
+[9845] link '123 comments'
+
+[7777] button 'Upvote'
+
+[7780] button 'Downvote'
+
+[7120] article ''
+
+[7783] HeaderAsNonLandmark ''
+
+[7787] heading "You wake up in a Pittsburgh hospital. Which hospital do you hope it is? Which one do you hope it isn't?"
+
+[8878] link "You wake up in a Pittsburgh hospital. Which hospital do you hope it is? Which one do you hope it isn't?"
+
+[8880] mark ''
+
+[8884] StaticText 'Submitted by '
+
+[8885] link 'ExtremelyQualified'
+
+[9861] StaticText 't3_123vx98'
+
+[8889] time 'March 27, 2023 at 2:34:11 PM EDT'
+
+[9865] StaticText 'on March 27, 2023 at 2:34 PM'
+
+[8890] StaticText ' in '
+
+[8891] link 'pittsburgh'
+
+[7791] StaticText 'everyone, but especially curious to hear from the healthcare workers out there: You wake up in a '
+
+[7792] mark ''
+
+[8892] StaticText 'Pittsburgh'
+
+[7794] mark ''
+
+[7795] StaticText ' hospital do you feel is the best at patient care vs which one is the worst at patient care'
+
+[9868] link '93 comments'
+
+[7799] button 'Upvote'
+
+[7802] button 'Downvote'
+
+[7121] article ''
+
+[7805] HeaderAsNonLandmark ''
+
+[7809] heading "My wife and I both got relocated to Pittsburgh and we'll be there in 3 weeks. Sweet god someone please give me a crash course on our area."
+
+[8904] link "My wife and I both got relocated to Pittsburgh and we'll be there in 3 weeks. Sweet god someone please give me a crash course on our area."
+
+[8906] mark ''
+
+[8910] StaticText 'Submitted by '
+
+[8911] link 'Ghost0fBanquo'
+
+[9884] StaticText 't3_119jbxu'
+
+[8915] time 'February 22, 2023 at 7:40:48 PM EST'
+
+[9888] StaticText 'on February 22, 2023 at 7:40 PM'
+
+[8916] StaticText ' in '
+
+[8917] link 'pittsburgh'
+
+[7813] StaticText 'High Schools in PA recently and we very much lucked into a unbeatable situation for us in '
+
+[7814] mark ''
+
+[8918] StaticText 'Pittsburgh'
+
+[7816] mark ''
+
+[9891] link 'No comments'
+
+[7821] button 'Upvote'
+
+[7824] button 'Downvote'
+
+[7122] article ''
+
+[7827] HeaderAsNonLandmark ''
+
+[7831] heading "Pittsburgh's Just Ducky Tours"
+
+[8930] link "Pittsburgh's Just Ducky Tours"
+
+[8931] mark ''
+
+[8935] StaticText 'Submitted by '
+
+[8936] link 'SabotUp007'
+
+[9907] StaticText 't3_z12qdd'
+
+[8940] time 'November 21, 2022 at 11:09:08 AM EST'
+
+[9911] StaticText 'on November 21, 2022 at 11:09 AM'
+
+[8941] StaticText ' in '
+
+[8942] link 'pittsburgh'
+
+[7835] StaticText 'people died. The YouTube channel Brick Immortar recently posted an in-depth video about that tragedy. While '
+
+[7836] mark ''
+
+[8943] StaticText 'Pittsburgh'
+
+[7838] mark ''
+
+[9914] link '55 comments'
+
+[7843] button 'Upvote'
+
+[8947] StaticText '155'
+
+[7846] button 'Downvote'
+
+[7123] article ''
+
+[7849] HeaderAsNonLandmark ''
+
+[7853] heading "Relocating from Pittsburgh to Ocean/Monmouth County for work. Where's a reasonable place to live?"
+
+[8955] link "Relocating from Pittsburgh to Ocean/Monmouth County for work. Where's a reasonable place to live?"
+
+[8957] mark ''
+
+[8961] StaticText 'Submitted by '
+
+[8962] link 'RunsOnColdBrew'
+
+[9930] StaticText 't3_11o6kaz'
+
+[8966] time 'March 10, 2023 at 8:03:55 PM EST'
+
+[9934] StaticText 'on March 10, 2023 at 8:03 PM'
+
+[8967] StaticText ' in '
+
+[8968] link 'newjersey'
+
+[7858] mark ''
+
+[8969] StaticText 'Pittsburgh'
+
+[7860] mark ''
+
+[9937] link '16 comments'
+
+[7865] button 'Upvote'
+
+[7868] button 'Downvote'
+
+[7124] article ''
+
+[7871] HeaderAsNonLandmark ''
+
+[7875] heading 'Which month is Pittsburghs absolute worst?'
+
+[8981] link 'Which month is Pittsburghs absolute worst?'
+
+[8983] mark ''
+
+[8987] StaticText 'Submitted by '
+
+[8988] link 'ANewDinosaur'
+
+[9953] StaticText 't3_xuu9ha'
+
+[8992] time 'October 3, 2022 at 4:19:13 PM EDT'
+
+[9957] StaticText 'on October 3, 2022 at 4:19 PM'
+
+[8993] StaticText ' in '
+
+[8994] link 'pittsburgh'
+
+[7879] StaticText 'looking to move out of Texas, and all my research is pointing us towards '
+
+[7880] mark ''
+
+[8995] StaticText 'Pittsburgh'
+
+[7881] StaticText '. But we are both born and raised in the Deep South. One of our biggest reasons to move, aside from ... move for a very very long time. Possibly forever. So if we’re gonna settle down in '
+
+[7882] mark ''
+
+[7883] StaticText ', we gotta be able to handle the weather. I think we’ll be fine, but I also'
+
+[9960] link 'No comments'
+
+[7887] button 'Upvote'
+
+[8999] StaticText '2'
+
+[7890] button 'Downvote'
+
+[7125] article ''
+
+[7893] HeaderAsNonLandmark ''
+
+[7897] heading 'Are there any Baltimore or Pittsburgh area transplants living in the Providence area? We are considering moving and I have some questions!'
+
+[9007] link 'Are there any Baltimore or Pittsburgh area transplants living in the Providence area? We are considering moving and I have some questions!'
+
+[9009] mark ''
+
+[9013] StaticText 'Submitted by '
+
+[9014] link 'marissarae'
+
+[9976] StaticText 't3_115gjoh'
+
+[9018] time 'February 18, 2023 at 9:29:49 AM EST'
+
+[9980] StaticText 'on February 18, 2023 at 9:29 AM'
+
+[9019] StaticText ' in '
+
+[9020] link 'providence'
+
+[7901] StaticText 'city but not overall.) 1.5 years ago, my husband and I moved to the northern suburbs of '
+
+[7902] mark ''
+
+[9021] StaticText 'Pittsburgh'
+
+[7903] StaticText ' to be near my family, but we are about 25 miles from the horrific East Palestine train ... there is on our short list of options for moving. If there are any Baltimore or '
+
+[7904] mark ''
+
+[7905] StaticText ' transplants, maybe you could tell me how Providence, Bristol, Cranston compare in terms of traffic, available jobs, weather'
+
+[9983] link '24 comments'
+
+[7909] button 'Upvote'
+
+[7912] button 'Downvote'
+
+[7126] article ''
+
+[7915] HeaderAsNonLandmark ''
+
+[7919] heading 'Easter weekend - is Pittsburgh open?'
+
+[9033] link 'Easter weekend - is Pittsburgh open?'
+
+[9035] mark ''
+
+[9039] StaticText 'Submitted by '
+
+[9040] link 'One_Coffee1618'
+
+[9999] StaticText 't3_12232ov'
+
+[9044] time 'March 25, 2023 at 7:23:10 PM EDT'
+
+[10003] StaticText 'on March 25, 2023 at 7:23 PM'
+
+[9045] StaticText ' in '
+
+[9046] link 'pittsburgh'
+
+[7923] StaticText 'everyone, My husband and I are moving to '
+
+[7924] mark ''
+
+[9047] StaticText 'Pittsburgh'
+
+[7925] StaticText ' in a little while and are planning a weekend trip to check out some apartments - we were thinking of April 7th-9th but recognise that this ... coincides with Easter... is '
+
+[7926] mark ''
+
+[7927] StaticText ' somewhere that tends to close down at Easter or will most stuff still be open? Cheers'
+
+[10006] link '11 comments'
+
+[7931] button 'Upvote'
+
+[7934] button 'Downvote'
+
+[7127] article ''
+
+[7937] HeaderAsNonLandmark ''
+
+[7941] heading 'Is living in Pittsburgh expensive?'
+
+[9059] link 'Is living in Pittsburgh expensive?'
+
+[9061] mark ''
+
+[9065] StaticText 'Submitted by '
+
+[9066] link 'Ordinary_Promise7748'
+
+[10022] StaticText 't3_116if6g'
+
+[9070] time 'February 19, 2023 at 12:20:08 PM EST'
+
+[10026] StaticText 'on February 19, 2023 at 12:20 PM'
+
+[9071] StaticText ' in '
+
+[9072] link 'pittsburgh'
+
+[7945] StaticText 'never lived in PA but Im planning to move to '
+
+[7946] mark ''
+
+[9073] StaticText 'Pittsburgh'
+
+[7947] StaticText ' in a few months so any advice would be appreciated'
+
+[10029] link '144 comments'
+
+[7951] button 'Upvote'
+
+[9076] StaticText '22'
+
+[7954] button 'Downvote'
+
+[7128] article ''
+
+[7957] HeaderAsNonLandmark ''
+
+[7961] heading 'Activism in Pittsburgh, anti war and Norfolk Southern caused chemical disaster'
+
+[9084] link 'Activism in Pittsburgh, anti war and Norfolk Southern caused chemical disaster'
+
+[9086] mark ''
+
+[9090] StaticText 'Submitted by '
+
+[9091] link 'vulpesgato'
+
+[10045] StaticText 't3_11agq8z'
+
+[9095] time 'February 23, 2023 at 10:00:32 PM EST'
+
+[10049] StaticText 'on February 23, 2023 at 10:00 PM'
+
+[9096] StaticText ' in '
+
+[9097] link 'pittsburgh'
+
+[7966] mark ''
+
+[9098] StaticText 'Pittsburgh'
+
+[7967] StaticText ' area citizens interested in: 1) anti-war movement and /or 2) also visit with those who want to step up pressure'
+
+[10052] link '39 comments'
+
+[7971] button 'Upvote'
+
+[7974] button 'Downvote'
+
+[7129] article ''
+
+[7977] HeaderAsNonLandmark ''
+
+[7981] heading 'What is a must see in Pittsburgh?'
+
+[9109] link 'What is a must see in Pittsburgh?'
+
+[9111] mark ''
+
+[9115] StaticText 'Submitted by '
+
+[9116] link 'unknownvariable19'
+
+[10068] StaticText 't3_yc3mej'
+
+[9120] time 'October 24, 2022 at 2:05:06 AM EDT'
+
+[10072] StaticText 'on October 24, 2022 at 2:05 AM'
+
+[9121] StaticText ' in '
+
+[9122] link 'pittsburgh'
+
+[7986] mark ''
+
+[7987] StaticText '? Not too pricey (under 30$ per person'
+
+[10075] link '14 comments'
+
+[7991] button 'Upvote'
+
+[7994] button 'Downvote'
+
+[7130] article ''
+
+[7997] HeaderAsNonLandmark ''
+
+[8001] heading 'Driving to Pittsburgh from Columbus today'
+
+[9134] link 'Driving to Pittsburgh from Columbus today'
+
+[9136] mark ''
+
+[9140] StaticText 'Submitted by '
+
+[9141] link 'AlwaysSunnyInCBUS'
+
+[10091] StaticText 't3_113os5v'
+
+[9145] time 'February 16, 2023 at 6:49:46 AM EST'
+
+[10095] StaticText 'on February 16, 2023 at 6:49 AM'
+
+[9146] StaticText ' in '
+
+[9147] link 'pittsburgh'
+
+[8006] mark ''
+
+[9148] StaticText 'Pittsburgh'
+
+[8007] StaticText ' before'
+
+[10098] link '72 comments'
+
+[8011] button 'Upvote'
+
+[9151] StaticText '29'
+
+[8014] button 'Downvote'
+
+[7131] article ''
+
+[8017] HeaderAsNonLandmark ''
+
+[8021] heading 'What date is the downtown Pittsburgh St. Patty’s Day parade?'
+
+[9159] link 'What date is the downtown Pittsburgh St. Patty’s Day parade?'
+
+[9161] mark ''
+
+[9165] StaticText 'Submitted by '
+
+[9166] link 'EllesAway'
+
+[10114] StaticText 't3_117nb9b'
+
+[9170] time 'February 20, 2023 at 5:56:50 PM EST'
+
+[10118] StaticText 'on February 20, 2023 at 5:56 PM'
+
+[9171] StaticText ' in '
+
+[9172] link 'Pennsylvania'
+
+[8025] StaticText 'What date is the downtown '
+
+[8026] mark ''
+
+[9173] StaticText 'Pittsburgh'
+
+[8027] StaticText ' St. Patty’s Day parade'
+
+[10121] link '13 comments'
+
+[8031] button 'Upvote'
+
+[8034] button 'Downvote'
+
+[7132] article ''
+
+[8037] HeaderAsNonLandmark ''
+
+[8041] heading 'Why does the City of Pittsburgh not try to absorb/annex some of municipalities surrounding the city?'
+
+[9184] link 'Why does the City of Pittsburgh not try to absorb/annex some of municipalities surrounding the city?'
+
+[9186] mark ''
+
+[9190] StaticText 'Submitted by '
+
+[9191] link 'PGHthrowaway393'
+
+[10137] StaticText 't3_103gb7u'
+
+[9195] time 'January 4, 2023 at 4:55:14 PM EST'
+
+[10141] StaticText 'on January 4, 2023 at 4:55 PM'
+
+[9196] StaticText ' in '
+
+[9197] link 'pittsburgh'
+
+[8045] mark ''
+
+[9198] StaticText 'Pittsburgh'
+
+[8046] StaticText ' is currently ranked the 71st largest city in the US with a population of of 302,152 and a county population of 1.238 million. Wouldn’t annexing a majority of the smaller municipalities that'
+
+[10144] link 'No comments'
+
+[8050] button 'Upvote'
+
+[8053] button 'Downvote'
+
+[7133] article ''
+
+[8056] HeaderAsNonLandmark ''
+
+[8060] heading 'Whataburger clone in Pittsburgh'
+
+[9209] link 'Whataburger clone in Pittsburgh'
+
+[9211] mark ''
+
+[9214] StaticText 'Submitted by '
+
+[9215] link 'bkvagnini'
+
+[10160] StaticText 't3_10a6arl'
+
+[9219] time 'January 12, 2023 at 1:10:23 PM EST'
+
+[10164] StaticText 'on January 12, 2023 at 1:10 PM'
+
+[9220] StaticText ' in '
+
+[9221] link 'pittsburgh'
+
+[8065] mark ''
+
+[9222] StaticText 'Pittsburgh'
+
+[8066] StaticText ' area. Is there anything similar or is there the same thing but with a different name (like'
+
+[10167] link '94 comments'
+
+[8070] button 'Upvote'
+
+[8073] button 'Downvote'
+
+[7134] article ''
+
+[8076] HeaderAsNonLandmark ''
+
+[8080] heading 'What’s a VERY Pittsburgh thing that you’ve never done?'
+
+[9233] link 'What’s a VERY Pittsburgh thing that you’ve never done?'
+
+[9235] mark ''
+
+[9239] StaticText 'Submitted by '
+
+[9240] link 'panzan'
+
+[10183] StaticText 't3_10i0rd0'
+
+[9244] time 'January 21, 2023 at 3:27:41 PM EST'
+
+[10187] StaticText 'on January 21, 2023 at 3:27 PM'
+
+[9245] StaticText ' in '
+
+[9246] link 'pittsburgh'
+
+[8084] StaticText 'couple things I’ve never done despite living every day of my 51+ years in the greater '
+
+[8085] mark ''
+
+[9247] StaticText 'Pittsburgh'
+
+[8086] StaticText ' area. Parking at the mon wharf Brunch at the grand concourse How about yinz'
+
+[10190] link 'No comments'
+
+[8090] button 'Upvote'</pre><div>
+
+[5830] [Pittsburgh
+
+[5830] is searchbox 'Search query'</div>
+

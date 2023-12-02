@@ -1,0 +1,58 @@
+Tab 0 (current): New Snippet · Byte Blaze / gimmiethat.space · GitLab
+
+[9124] RootWebArea 'New Snippet · Byte Blaze / gimmiethat.space · GitLab' focused: True
+	[9215] link 'Skip to content'
+	[9366] link 'Dashboard'
+	[9590] button '' hasPopup: menu expanded: False
+	[9136] textbox 'Search GitLab' required: False
+	[10219] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[9596] link 'Create new...'
+	[9598] link 'Issues'
+		[9789] generic '13 assigned issues'
+	[9599] link 'Merge requests'
+		[9791] generic '8 merge requests'
+	[9601] link 'To-Do List'
+		[9807] generic 'Todos count'
+			[10240] StaticText '5'
+	[9602] link 'Help'
+	[9604] link 'Byte Blaze'
+		[9841] img 'Byte Blaze'
+	[9216] complementary 'Project navigation'
+		[9399] listitem 'gimmiethat.space'
+			[9606] link 'gimmiethat.space'
+				[9882] StaticText 'G'
+		[9607] link 'Project information'
+		[9609] link 'Repository'
+		[9611] link 'Issues'
+		[9613] link 'Merge requests'
+		[9615] link 'CI/CD'
+		[9617] link 'Security & Compliance'
+		[9619] link 'Deployments'
+		[9621] link 'Packages and registries'
+		[9623] link 'Infrastructure'
+		[9625] link 'Monitor'
+		[9627] link 'Analytics'
+		[9629] link 'Wiki'
+		[9631] link 'Snippets'
+		[9633] link 'Settings'
+		[9357] button 'Collapse sidebar'
+	[9220] navigation 'Breadcrumbs'
+		[9650] link 'Byte Blaze'
+		[9652] link 'gimmiethat.space'
+		[9654] link 'Snippets'
+		[9656] link 'New'
+	[9140] main ''
+		[9223] heading 'New Snippet'
+		[9224] separator '' orientation: horizontal
+		[9142] group ''
+			[9657] StaticText 'Title'
+			[9144] textbox 'Title' focused: True required: False
+		[9442] StaticText 'Description (optional)'
+		[9148] textbox 'Optionally add a description about what your snippet does or how to use it…' required: False
+		[9178] tabpanel 'Write'
+		[9155] group ''
+			[9661] StaticText 'Files'
+			[9160] textbox 'Files' required: False
+			[9663] button 'Delete file' disabled: True
+			[9162] code ''
+				[9164] textbox 'Editor content;Press Alt+F1 for Accessibility Options.' autocomplete: both required: False roledescription: editor</pre><div>

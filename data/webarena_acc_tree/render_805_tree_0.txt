@@ -1,0 +1,113 @@
+Tab 0 (current): The A11Y Project / a11yproject.com · GitLab
+
+[1] RootWebArea 'The A11Y Project / a11yproject.com · GitLab' focused: True
+	[153] link 'Skip to content'
+	[338] link 'Dashboard'
+	[503] button '' hasPopup: menu expanded: False
+	[13] textbox 'Search GitLab' required: False
+	[1648] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[509] link 'Create new...'
+	[511] link 'Issues'
+		[967] generic '13 assigned issues'
+	[512] link 'Merge requests'
+		[969] generic '8 merge requests'
+	[514] link 'To-Do List'
+		[985] generic 'Todos count'
+	[515] link 'Help'
+	[517] link 'Byte Blaze'
+		[1019] img 'Byte Blaze'
+	[154] complementary 'Project navigation'
+		[371] listitem 'a11yproject.com'
+			[519] link 'a11yproject.com'
+				[1060] StaticText 'A'
+		[520] link 'Project information'
+		[522] link 'Repository'
+		[524] link 'Issues'
+			[1125] StaticText '40'
+		[526] link 'Merge requests'
+			[1154] StaticText '10'
+		[528] link 'CI/CD'
+		[530] link 'Security & Compliance'
+		[532] link 'Deployments'
+		[534] link 'Packages and registries'
+		[536] link 'Infrastructure'
+		[538] link 'Monitor'
+		[540] link 'Analytics'
+		[542] link 'Wiki'
+		[544] link 'Snippets'
+		[546] link 'Settings'
+		[290] button 'Collapse sidebar'
+	[158] alert '' live: assertive atomic: True relevant: additions text
+		[161] button 'Dismiss'
+		[162] alert '' live: assertive atomic: True relevant: additions text
+			[405] link 'Add SSH key'
+			[406] button "Don't show again"
+	[159] navigation 'Breadcrumbs'
+		[563] link 'The A11Y Project'
+		[565] link 'a11yproject.com'
+	[17] main ''
+		[307] heading 'a11yproject.com Public - The project can be accessed without any authentication.'
+			[310] generic 'Public - The project can be accessed without any authentication.'
+		[313] StaticText 'Project ID: 174 '
+		[314] button 'Copy project ID' live: polite atomic: False relevant: additions text
+		[316] link 'Leave project'
+		[424] button '' hasPopup: menu expanded: False
+		[319] button 'Unstar'
+		[320] link '21'
+		[429] link 'Fork'
+		[322] link '0'
+		[661] link '2,320 Commits'
+		[662] link '15 Branches'
+		[663] link '5 Tags'
+		[664] link '85.5 MB Project Storage'
+		[665] link '5 Releases'
+		[328] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+		[330] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">51.8%</span>'
+		[331] generic '<span class="repository-language-bar-tooltip-language">SCSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">40.3%</span>'
+		[332] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.9%</span>'
+		[443] img 'user avatar'
+		[447] link 'Update...'
+		[448] button 'Toggle commit description'
+		[453] StaticText 'Eric Bailey authored '
+		[454] time 'Mar 13, 2023 9:04pm EDT'
+			[669] StaticText '5 months ago'
+		[458] button 'Unverified'
+		[457] group ''
+			[672] StaticText 'ed37a2f2'
+			[460] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[1407] button 'main' hasPopup: menu expanded: False
+		[57] navigation 'Files breadcrumb'
+			[2032] link 'a11yproject.com'
+			[2353] button 'Add to tree' hasPopup: menu expanded: False
+		[677] link 'Find file'
+		[682] link 'Web IDE'
+		[683] button 'Download'
+			[1414] StaticText 'Select Archive Format'
+		[685] link 'Clone'
+		[708] link 'README'
+		[709] link 'Add LICENSE'
+		[710] link 'Add CHANGELOG'
+		[711] link 'Add CONTRIBUTING'
+		[712] link 'Enable Auto DevOps'
+		[713] link 'Add Kubernetes cluster'
+		[714] link 'Set up CI/CD'
+		[715] link 'Configure Integrations'
+		[75] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+			[1484] row ''
+				[1485] columnheader 'Name' required: False
+				[1486] columnheader 'Last commit' required: False
+				[1487] columnheader 'Last update' required: False
+			[1488] row ''
+				[1511] gridcell '.github' required: False
+					[2070] link '.github'
+				[1512] gridcell 'Update issue templates' required: False
+					[2076] link 'Update issue templates'
+				[1513] gridcell '1 year ago' required: False
+					[2079] time 'Oct 12, 2021 2:46pm EDT'
+			[1489] row ''
+				[1514] gridcell '.tours' required: False
+					[2081] link '.tours'
+				[1515] gridcell 'Add Jammies announcement (#1354)' required: False
+					[2087] link 'Add Jammies announcement (#1354)'
+				[1516] gridcell '1 year ago' required: False
+					[2090] time 'Oct 6, 2021 9:21pm EDT'</pre><div>

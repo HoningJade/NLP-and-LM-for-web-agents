@@ -1,0 +1,35 @@
+Tab 0 (current): 404 a11yproject · Search · GitLab
+
+[10455] RootWebArea '404 a11yproject · Search · GitLab' focused: True
+	[10505] link 'Skip to content'
+	[10617] link 'Dashboard'
+	[10673] button '' hasPopup: menu expanded: False
+	[10679] link 'Create new...'
+	[10681] link 'Issues'
+		[10836] generic '13 assigned issues'
+	[10682] link 'Merge requests'
+		[10838] generic '8 merge requests'
+	[10684] link 'To-Do List'
+		[10854] generic 'Todos count'
+	[10685] link 'Help'
+	[10687] link 'Byte Blaze'
+		[10888] img 'Byte Blaze'
+	[10461] main ''
+		[10607] heading 'Search'
+		[10654] StaticText 'What are you searching for?'
+		[10466] group ''
+			[10467] searchbox 'Search for projects, issues, etc.'
+				[10926] StaticText '404 a11yproject'
+			[10655] button 'Clear'
+			[10695] button 'Search'
+		[10658] StaticText 'Group'
+		[10659] button 'Any' hasPopup: menu expanded: False
+		[10661] StaticText 'Project'
+		[10662] button 'Any' hasPopup: menu expanded: False
+		[10609] separator '' orientation: horizontal
+		[10939] link 'Projects 0'
+		[10940] link 'Issues 10'
+		[10941] link 'Merge requests 6'
+		[10942] link 'Milestones 0'
+		[10943] link 'Users 0'
+		[10666] heading " We couldn't find any projects matching 404 a11yproject"</pre><div>

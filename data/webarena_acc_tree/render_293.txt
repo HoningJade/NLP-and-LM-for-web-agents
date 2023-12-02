@@ -1,0 +1,2244 @@
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[270] link 'Skip to content'
+
+[386] link 'Dashboard'
+
+[462] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1733] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[468] link 'Create new...'
+
+[470] link 'Issues'
+
+[1298] generic '13 assigned issues'
+
+[471] link 'Merge requests'
+
+[1300] generic '8 merge requests'
+
+[473] link 'To-Do List'
+
+[1316] generic 'Todos count'
+
+[1754] StaticText '5'
+
+[474] link 'Help'
+
+[476] link 'Byte Blaze'
+
+[1350] img 'Byte Blaze'
+
+[17] main ''
+
+[371] heading 'Projects'
+
+[374] link 'New project'
+
+[478] link 'Yours 18'
+
+[479] link 'Starred 3'
+
+[480] link 'Explore'
+
+[481] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[438] button 'Name'
+
+[525] link 'All'
+
+[526] link 'Personal'
+
+[527] link 'A'
+
+[530] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[533] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[531] generic 'Public - The project can be accessed without any authentication.'
+
+[539] StaticText 'Owner'
+
+[1406] generic 'lipstick'
+
+[1764] StaticText '💄'
+
+[1407] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[551] link '1'
+
+[552] link '0'
+
+[553] link '0'
+
+[554] link '1'
+
+[563] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[564] StaticText '5 months ago'
+
+[565] link 'A'
+
+[568] heading 'Byte Blaze / a11y-webring.club'
+
+[571] link 'Byte Blaze / a11y-webring.club'
+
+[569] generic 'Public - The project can be accessed without any authentication.'
+
+[577] StaticText 'Owner'
+
+[1425] generic 'globe with meridians'
+
+[1765] StaticText '🌐'
+
+[1426] StaticText ' A webring for digital accessibility practitioners.'
+
+[589] link '2'
+
+[590] link '0'
+
+[591] link '1'
+
+[592] link '4'
+
+[601] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[602] StaticText '5 months ago'
+
+[603] link 'A'
+
+[606] heading 'The A11Y Project / a11yproject.com'
+
+[609] link 'The A11Y Project / a11yproject.com'
+
+[607] generic 'Public - The project can be accessed without any authentication.'
+
+[615] StaticText 'Maintainer'
+
+[1444] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[627] link '21'
+
+[628] link '0'
+
+[629] link '10'
+
+[630] link '40'
+
+[639] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[640] StaticText '5 months ago'
+
+[641] link 'A'
+
+[644] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[647] link 'Byte Blaze / accessible-html-content-patterns'
+
+[645] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[653] StaticText 'Owner'
+
+[1462] generic 'wheelchair symbol'
+
+[1766] StaticText '♿'
+
+[1463] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[665] link '1'
+
+[666] link '0'
+
+[667] link '0'
+
+[668] link '0'
+
+[677] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[678] StaticText '5 months ago'
+
+[679] link ''
+
+[682] heading 'Byte Blaze / cloud-to-butt'
+
+[685] link 'Byte Blaze / cloud-to-butt'
+
+[683] generic 'Public - The project can be accessed without any authentication.'
+
+[691] StaticText 'Owner'
+
+[703] link '0'
+
+[704] link '0'
+
+[705] link '0'
+
+[706] link '0'
+
+[715] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[716] StaticText '5 months ago'
+
+[717] link 'D'
+
+[720] heading 'Primer / design'
+
+[723] link 'Primer / design'
+
+[721] generic 'Public - The project can be accessed without any authentication.'
+
+[729] StaticText 'Developer'
+
+[1498] StaticText 'Primer Design Guidelines'
+
+[741] link '21'
+
+[742] link '0'
+
+[743] link '16'
+
+[744] link '21'
+
+[753] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[754] StaticText '5 months ago'
+
+[755] link 'D'
+
+[757] heading 'Byte Blaze / Do it myself'
+
+[760] link 'Byte Blaze / Do it myself'
+
+[758] generic 'Public - The project can be accessed without any authentication.'
+
+[766] StaticText 'Owner'
+
+[777] link '0'
+
+[778] link '0'
+
+[779] link '0'
+
+[780] link '0'
+
+[789] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[790] StaticText '1 day ago'</pre><div>
+
+[13] [Super_Awesome_Robot] [1]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [66, 100, 95, 84, 97, 78, 48, 102, 84, 98, 94, 92, 84, 78, 65, 94, 81, 94, 99, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '13', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page contains a search box where we can search for the project "Super_Awesome_Robot". Once we find the project, we can access its details and look for the command to clone it with SSH. In summary, the next action I will perform is ```type [13] [Super_Awesome_Robot] [1]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [13] [Super_Awesome_Robot
+
+[13] is [13] textbox 'Search GitLab' required: False</pre></div></div>
+
+[1787] RootWebArea 'Super_Awesome_Robot · Search · GitLab' focused: True
+
+[1855] link 'Skip to content'
+
+[1964] link 'Dashboard'
+
+[2016] button '' hasPopup: menu expanded: False
+
+[2022] link 'Create new...'
+
+[2024] link 'Issues'
+
+[2177] generic '13 assigned issues'
+
+[2025] link 'Merge requests'
+
+[2179] generic '8 merge requests'
+
+[2027] link 'To-Do List'
+
+[2195] generic 'Todos count'
+
+[2028] link 'Help'
+
+[2030] link 'Byte Blaze'
+
+[2229] img 'Byte Blaze'
+
+[1793] main ''
+
+[1956] heading 'Search'
+
+[2001] StaticText 'What are you searching for?'
+
+[1798] group ''
+
+[1799] searchbox 'Search for projects, issues, etc.'
+
+[2267] StaticText 'Super_Awesome_Robot'
+
+[2002] button 'Clear'
+
+[2038] button 'Search'
+
+[2005] StaticText 'Group'
+
+[2006] button 'Any' hasPopup: menu expanded: False
+
+[2008] StaticText 'Project'
+
+[2009] button 'Any' hasPopup: menu expanded: False
+
+[1958] separator '' orientation: horizontal
+
+[2280] link 'Projects 1'
+
+[2281] link 'Issues 0'
+
+[2282] link 'Merge requests 0'
+
+[2283] link 'Milestones 0'
+
+[2284] link 'Users 0'
+
+[2285] link 'S'
+
+[2287] heading 'Convex Eggtart / Super_Awesome_Robot'
+
+[2289] link 'Convex Eggtart / Super_Awesome_Robot'
+
+[2288] generic 'Public - The project can be accessed without any authentication.'
+
+[2305] link '0'
+
+[2306] link '0'
+
+[2307] link '0'
+
+[2308] link '0'
+
+[2317] StaticText 'Updated '
+
+[1833] time 'Mar 2, 2023 10:49am EST'
+
+[2318] StaticText '6 months ago'</pre><div>
+
+[13] [Super_Awesome_Robot
+
+[13] is textbox 'Search GitLab' required: False</div>
+
+[2289]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. We are on the GitLab search page and we want to find the command to clone the Super_Awesome_Robot repository with SSH. We can click on the search result link for the Super_Awesome_Robot repository to see its details. In summary, the next action I will perform is `click [2289]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1787] RootWebArea 'Super_Awesome_Robot · Search · GitLab' focused: True
+
+[1855] link 'Skip to content'
+
+[1964] link 'Dashboard'
+
+[2016] button '' hasPopup: menu expanded: False
+
+[2022] link 'Create new...'
+
+[2024] link 'Issues'
+
+[2177] generic '13 assigned issues'
+
+[2025] link 'Merge requests'
+
+[2179] generic '8 merge requests'
+
+[2027] link 'To-Do List'
+
+[2195] generic 'Todos count'
+
+[2028] link 'Help'
+
+[2030] link 'Byte Blaze'
+
+[2229] img 'Byte Blaze'
+
+[1793] main ''
+
+[1956] heading 'Search'
+
+[2001] StaticText 'What are you searching for?'
+
+[1798] group ''
+
+[1799] searchbox 'Search for projects, issues, etc.'
+
+[2267] StaticText 'Super_Awesome_Robot'
+
+[2002] button 'Clear'
+
+[2038] button 'Search'
+
+[2005] StaticText 'Group'
+
+[2006] button 'Any' hasPopup: menu expanded: False
+
+[2008] StaticText 'Project'
+
+[2009] button 'Any' hasPopup: menu expanded: False
+
+[1958] separator '' orientation: horizontal
+
+[2280] link 'Projects 1'
+
+[2281] link 'Issues 0'
+
+[2282] link 'Merge requests 0'
+
+[2283] link 'Milestones 0'
+
+[2284] link 'Users 0'
+
+[2285] link 'S'
+
+[2287] heading 'Convex Eggtart / Super_Awesome_Robot'
+
+[2289] link 'Convex Eggtart / Super_Awesome_Robot'
+
+[2288] generic 'Public - The project can be accessed without any authentication.'
+
+[2305] link '0'
+
+[2306] link '0'
+
+[2307] link '0'
+
+[2308] link '0'
+
+[2317] StaticText 'Updated '
+
+[1833] time 'Mar 2, 2023 10:49am EST'
+
+[2318] StaticText '6 months ago'</pre><div>
+
+[2289]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[2289]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2289', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [2289]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2289] where [2289] is [2289] link 'Convex Eggtart / Super_Awesome_Robot'</pre></div></div>
+
+[2389] RootWebArea 'Convex Eggtart / Super_Awesome_Robot · GitLab' focused: True
+
+[2514] link 'Skip to content'
+
+[2674] link 'Dashboard'
+
+[2795] button '' hasPopup: menu expanded: False
+
+[2401] textbox 'Search GitLab' required: False
+
+[3677] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2801] link 'Create new...'
+
+[2803] link 'Issues'
+
+[3224] generic '13 assigned issues'
+
+[2804] link 'Merge requests'
+
+[3226] generic '8 merge requests'
+
+[2806] link 'To-Do List'
+
+[3242] generic 'Todos count'
+
+[3698] StaticText '5'
+
+[2807] link 'Help'
+
+[2809] link 'Byte Blaze'
+
+[3276] img 'Byte Blaze'
+
+[2515] complementary 'Project navigation'
+
+[2707] listitem 'Super_Awesome_Robot'
+
+[2811] link 'Super_Awesome_Robot'
+
+[2812] link 'Project information'
+
+[2814] link 'Repository'
+
+[2816] link 'Issues'
+
+[3382] StaticText '0'
+
+[2818] link 'Merge requests'
+
+[2820] link 'CI/CD'
+
+[2822] link 'Deployments'
+
+[2824] link 'Packages and registries'
+
+[2826] link 'Monitor'
+
+[2828] link 'Analytics'
+
+[2830] link 'Wiki'
+
+[2832] link 'Snippets'
+
+[2635] button 'Collapse sidebar'
+
+[2519] alert '' live: assertive atomic: True relevant: additions text
+
+[2522] button 'Dismiss'
+
+[2523] alert '' live: assertive atomic: True relevant: additions text
+
+[2738] link 'Add SSH key'
+
+[2739] button "Don't show again"
+
+[2520] navigation 'Breadcrumbs'
+
+[2849] link 'Convex Eggtart'
+
+[2851] link 'Super_Awesome_Robot'
+
+[2405] main ''
+
+[2652] heading 'Super_Awesome_Robot Public - The project can be accessed without any authentication.'
+
+[2655] generic 'Public - The project can be accessed without any authentication.'
+
+[2658] StaticText 'Project ID: 40 '
+
+[2659] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2661] link 'Request Access'
+
+[2757] button '' hasPopup: menu expanded: False
+
+[2664] button 'Star'
+
+[2665] link '0'
+
+[2762] link 'Fork'
+
+[2667] link '0'
+
+[2947] link '1 Commit'
+
+[2948] link '1 Branch'
+
+[2949] link '0 Tags'
+
+[3560] StaticText '72 KB'
+
+[3556] StaticText ' Project Storage'
+
+[2773] link ''
+
+[2780] link 'Initial commit'
+
+[2783] link 'Convex Eggtart'
+
+[2784] StaticText ' authored '
+
+[2785] time 'Mar 1, 2023 6:42pm EST'
+
+[2952] StaticText '6 months ago'
+
+[2786] group ''
+
+[2954] StaticText '21944087'
+
+[2788] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3564] button 'main' hasPopup: menu expanded: False
+
+[2465] navigation 'Files breadcrumb'
+
+[3789] link 'super_awesome_robot'
+
+[3863] button 'Add to tree' hasPopup: menu expanded: False
+
+[2957] link 'Find file'
+
+[2962] link 'Web IDE'
+
+[2963] button 'Download'
+
+[3571] StaticText 'Select Archive Format'
+
+[2965] link 'Clone'
+
+[2988] link 'README'
+
+[3626] StaticText 'Auto DevOps enabled'
+
+[2448] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3627] row ''
+
+[3628] columnheader 'Name' required: False
+
+[3629] columnheader 'Last commit' required: False
+
+[3630] columnheader 'Last update' required: False
+
+[3631] row ''
+
+[3632] gridcell 'README.md' required: False
+
+[3806] link 'README.md'
+
+[3633] gridcell 'Initial commit' required: False
+
+[3812] link 'Initial commit'
+
+[3634] gridcell '6 months ago' required: False
+
+[3815] time 'Mar 1, 2023 6:42pm EST'
+
+[2475] article ''
+
+[2994] link 'README.md'
+
+[2995] heading 'Super_Awesome_Robot'
+
+[3036] link '' hidden: True</pre><div>
+
+[2289] where [2289] is link 'Convex Eggtart / Super_Awesome_Robot'</div>
+
+[2965]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2965', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. After clicking on the link 'Convex Eggtart / Super_Awesome_Robot', we are now on the page of the project. To find the command to clone Super_Awesome_Robot with SSH, we can look for the 'Clone' link, which should provide us with the command. In summary, the next action I will perform is ```click [2965]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2965] where [2965] is [2965] link 'Clone'</pre></div></div>
+
+[2389] RootWebArea 'Convex Eggtart / Super_Awesome_Robot · GitLab' focused: True
+
+[2514] link 'Skip to content'
+
+[2674] link 'Dashboard'
+
+[2795] button '' hasPopup: menu expanded: False
+
+[2401] textbox 'Search GitLab' required: False
+
+[3677] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2801] link 'Create new...'
+
+[2803] link 'Issues'
+
+[3224] generic '13 assigned issues'
+
+[2804] link 'Merge requests'
+
+[3226] generic '8 merge requests'
+
+[2806] link 'To-Do List'
+
+[3242] generic 'Todos count'
+
+[3698] StaticText '5'
+
+[2807] link 'Help'
+
+[2809] link 'Byte Blaze'
+
+[3276] img 'Byte Blaze'
+
+[2515] complementary 'Project navigation'
+
+[2707] listitem 'Super_Awesome_Robot'
+
+[2811] link 'Super_Awesome_Robot'
+
+[2812] link 'Project information'
+
+[2814] link 'Repository'
+
+[2816] link 'Issues'
+
+[3382] StaticText '0'
+
+[2818] link 'Merge requests'
+
+[2820] link 'CI/CD'
+
+[2822] link 'Deployments'
+
+[2824] link 'Packages and registries'
+
+[2826] link 'Monitor'
+
+[2828] link 'Analytics'
+
+[2830] link 'Wiki'
+
+[2832] link 'Snippets'
+
+[2635] button 'Collapse sidebar'
+
+[2519] alert '' live: assertive atomic: True relevant: additions text
+
+[2522] button 'Dismiss'
+
+[2523] alert '' live: assertive atomic: True relevant: additions text
+
+[2738] link 'Add SSH key'
+
+[2739] button "Don't show again"
+
+[2520] navigation 'Breadcrumbs'
+
+[2849] link 'Convex Eggtart'
+
+[2851] link 'Super_Awesome_Robot'
+
+[2405] main ''
+
+[2652] heading 'Super_Awesome_Robot Public - The project can be accessed without any authentication.'
+
+[2655] generic 'Public - The project can be accessed without any authentication.'
+
+[2658] StaticText 'Project ID: 40 '
+
+[2659] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2661] link 'Request Access'
+
+[2757] button '' hasPopup: menu expanded: False
+
+[2664] button 'Star'
+
+[2665] link '0'
+
+[2762] link 'Fork'
+
+[2667] link '0'
+
+[2947] link '1 Commit'
+
+[2948] link '1 Branch'
+
+[2949] link '0 Tags'
+
+[3560] StaticText '72 KB'
+
+[3556] StaticText ' Project Storage'
+
+[2773] link ''
+
+[2780] link 'Initial commit'
+
+[2783] link 'Convex Eggtart'
+
+[2784] StaticText ' authored '
+
+[2785] time 'Mar 1, 2023 6:42pm EST'
+
+[2952] StaticText '6 months ago'
+
+[2786] group ''
+
+[2954] StaticText '21944087'
+
+[2788] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3564] button 'main' hasPopup: menu expanded: False
+
+[2465] navigation 'Files breadcrumb'
+
+[3789] link 'super_awesome_robot'
+
+[3863] button 'Add to tree' hasPopup: menu expanded: False
+
+[2957] link 'Find file'
+
+[2962] link 'Web IDE'
+
+[2963] button 'Download'
+
+[3571] StaticText 'Select Archive Format'
+
+[2965] link 'Clone' focused: True expanded: True
+
+[3933] StaticText 'Clone with SSH'
+
+[3939] textbox 'Repository clone URL' required: False
+
+[3929] StaticText 'ssh://git@metis.lti.cs.cmu.edu:2222/convexegg/super_awesome_robot.git'
+
+[3902] button 'Copy URL' live: polite atomic: False relevant: additions text
+
+[3913] StaticText 'Clone with HTTP'
+
+[3927] textbox 'Repository clone URL' required: False
+
+[3935] StaticText 'http://metis.lti.cs.cmu.edu:8023/convexegg/super_awesome_robot.git'
+
+[3907] button 'Copy URL' live: polite atomic: False relevant: additions text
+
+[3919] StaticText 'Open in your IDE'
+
+[3928] link 'Visual Studio Code (SSH)'
+
+[3901] link 'Visual Studio Code (HTTPS)'
+
+[3936] link 'IntelliJ IDEA (SSH)'
+
+[3925] link 'IntelliJ IDEA (HTTPS)'
+
+[2988] link 'README'
+
+[3626] StaticText 'Auto DevOps enabled'
+
+[2448] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3627] row ''
+
+[3628] columnheader 'Name' required: False
+
+[3629] columnheader 'Last commit' required: False
+
+[3630] columnheader 'Last update' required: False
+
+[3631] row ''
+
+[3632] gridcell 'README.md' required: False
+
+[3806] link 'README.md'
+
+[3633] gridcell 'Initial commit' required: False
+
+[3812] link 'Initial commit'
+
+[3634] gridcell '6 months ago' required: False
+
+[3815] time 'Mar 1, 2023 6:42pm EST'
+
+[2475] article ''
+
+[2994] link 'README.md'
+
+[2995] heading 'Super_Awesome_Robot'
+
+[3036] link '' hidden: True</pre><div>
+
+[2965] where [2965] is link 'Clone'</div>
+
+[3928]. I will click on this link to get the command. In summary, the next action I will perform is ```click [3928]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3928', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page has a link to clone the repository with SSH, which is the information we need to complete the objective. The link with the SSH clone URL is [3928]. I will click on this link to get the command. In summary, the next action I will perform is ```click [3928]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3928] where [3928] is [3928] link 'Visual Studio Code (SSH)'</pre></div></div>
+
+[2389] RootWebArea 'Convex Eggtart / Super_Awesome_Robot · GitLab' focused: True
+
+[2514] link 'Skip to content'
+
+[2674] link 'Dashboard'
+
+[2795] button '' hasPopup: menu expanded: False
+
+[2401] textbox 'Search GitLab' required: False
+
+[3677] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2801] link 'Create new...'
+
+[2803] link 'Issues'
+
+[3224] generic '13 assigned issues'
+
+[2804] link 'Merge requests'
+
+[3226] generic '8 merge requests'
+
+[2806] link 'To-Do List'
+
+[3242] generic 'Todos count'
+
+[3698] StaticText '5'
+
+[2807] link 'Help'
+
+[2809] link 'Byte Blaze'
+
+[3276] img 'Byte Blaze'
+
+[2515] complementary 'Project navigation'
+
+[2707] listitem 'Super_Awesome_Robot'
+
+[2811] link 'Super_Awesome_Robot'
+
+[2812] link 'Project information'
+
+[2814] link 'Repository'
+
+[2816] link 'Issues'
+
+[3382] StaticText '0'
+
+[2818] link 'Merge requests'
+
+[2820] link 'CI/CD'
+
+[2822] link 'Deployments'
+
+[2824] link 'Packages and registries'
+
+[2826] link 'Monitor'
+
+[2828] link 'Analytics'
+
+[2830] link 'Wiki'
+
+[2832] link 'Snippets'
+
+[2635] button 'Collapse sidebar'
+
+[2519] alert '' live: assertive atomic: True relevant: additions text
+
+[2522] button 'Dismiss'
+
+[2523] alert '' live: assertive atomic: True relevant: additions text
+
+[2738] link 'Add SSH key'
+
+[2739] button "Don't show again"
+
+[2520] navigation 'Breadcrumbs'
+
+[2849] link 'Convex Eggtart'
+
+[2851] link 'Super_Awesome_Robot'
+
+[2405] main ''
+
+[2652] heading 'Super_Awesome_Robot Public - The project can be accessed without any authentication.'
+
+[2655] generic 'Public - The project can be accessed without any authentication.'
+
+[2658] StaticText 'Project ID: 40 '
+
+[2659] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2661] link 'Request Access'
+
+[2757] button '' hasPopup: menu expanded: False
+
+[2664] button 'Star'
+
+[2665] link '0'
+
+[2762] link 'Fork'
+
+[2667] link '0'
+
+[2947] link '1 Commit'
+
+[2948] link '1 Branch'
+
+[2949] link '0 Tags'
+
+[3560] StaticText '72 KB'
+
+[3556] StaticText ' Project Storage'
+
+[2773] link ''
+
+[2780] link 'Initial commit'
+
+[2783] link 'Convex Eggtart'
+
+[2784] StaticText ' authored '
+
+[2785] time 'Mar 1, 2023 6:42pm EST'
+
+[2952] StaticText '6 months ago'
+
+[2786] group ''
+
+[2954] StaticText '21944087'
+
+[2788] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3564] button 'main' hasPopup: menu expanded: False
+
+[2465] navigation 'Files breadcrumb'
+
+[3789] link 'super_awesome_robot'
+
+[3863] button 'Add to tree' hasPopup: menu expanded: False
+
+[2957] link 'Find file'
+
+[2962] link 'Web IDE'
+
+[2963] button 'Download'
+
+[3571] StaticText 'Select Archive Format'
+
+[2965] link 'Clone' expanded: False
+
+[2988] link 'README'
+
+[3626] StaticText 'Auto DevOps enabled'
+
+[2448] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3627] row ''
+
+[3628] columnheader 'Name' required: False
+
+[3629] columnheader 'Last commit' required: False
+
+[3630] columnheader 'Last update' required: False
+
+[3631] row ''
+
+[3632] gridcell 'README.md' required: False
+
+[3806] link 'README.md'
+
+[3633] gridcell 'Initial commit' required: False
+
+[3812] link 'Initial commit'
+
+[3634] gridcell '6 months ago' required: False
+
+[3815] time 'Mar 1, 2023 6:42pm EST'
+
+[2475] article ''
+
+[2994] link 'README.md'
+
+[2995] heading 'Super_Awesome_Robot'
+
+[3036] link '' hidden: True</pre><div>
+
+[3928] where [3928] is link 'Visual Studio Code (SSH)'</div>
+
+[2965]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. I clicked on the 'Visual Studio Code (SSH)' link, which is not relevant to the objective. To clone the Super_Awesome_Robot with SSH, I need to click on the 'Clone' link and then copy the command. In summary, the next action I will perform is `click [2965]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[2389] RootWebArea 'Convex Eggtart / Super_Awesome_Robot · GitLab' focused: True
+
+[2514] link 'Skip to content'
+
+[2674] link 'Dashboard'
+
+[2795] button '' hasPopup: menu expanded: False
+
+[2401] textbox 'Search GitLab' required: False
+
+[3677] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2801] link 'Create new...'
+
+[2803] link 'Issues'
+
+[3224] generic '13 assigned issues'
+
+[2804] link 'Merge requests'
+
+[3226] generic '8 merge requests'
+
+[2806] link 'To-Do List'
+
+[3242] generic 'Todos count'
+
+[3698] StaticText '5'
+
+[2807] link 'Help'
+
+[2809] link 'Byte Blaze'
+
+[3276] img 'Byte Blaze'
+
+[2515] complementary 'Project navigation'
+
+[2707] listitem 'Super_Awesome_Robot'
+
+[2811] link 'Super_Awesome_Robot'
+
+[2812] link 'Project information'
+
+[2814] link 'Repository'
+
+[2816] link 'Issues'
+
+[3382] StaticText '0'
+
+[2818] link 'Merge requests'
+
+[2820] link 'CI/CD'
+
+[2822] link 'Deployments'
+
+[2824] link 'Packages and registries'
+
+[2826] link 'Monitor'
+
+[2828] link 'Analytics'
+
+[2830] link 'Wiki'
+
+[2832] link 'Snippets'
+
+[2635] button 'Collapse sidebar'
+
+[2519] alert '' live: assertive atomic: True relevant: additions text
+
+[2522] button 'Dismiss'
+
+[2523] alert '' live: assertive atomic: True relevant: additions text
+
+[2738] link 'Add SSH key'
+
+[2739] button "Don't show again"
+
+[2520] navigation 'Breadcrumbs'
+
+[2849] link 'Convex Eggtart'
+
+[2851] link 'Super_Awesome_Robot'
+
+[2405] main ''
+
+[2652] heading 'Super_Awesome_Robot Public - The project can be accessed without any authentication.'
+
+[2655] generic 'Public - The project can be accessed without any authentication.'
+
+[2658] StaticText 'Project ID: 40 '
+
+[2659] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2661] link 'Request Access'
+
+[2757] button '' hasPopup: menu expanded: False
+
+[2664] button 'Star'
+
+[2665] link '0'
+
+[2762] link 'Fork'
+
+[2667] link '0'
+
+[2947] link '1 Commit'
+
+[2948] link '1 Branch'
+
+[2949] link '0 Tags'
+
+[3560] StaticText '72 KB'
+
+[3556] StaticText ' Project Storage'
+
+[2773] link ''
+
+[2780] link 'Initial commit'
+
+[2783] link 'Convex Eggtart'
+
+[2784] StaticText ' authored '
+
+[2785] time 'Mar 1, 2023 6:42pm EST'
+
+[2952] StaticText '6 months ago'
+
+[2786] group ''
+
+[2954] StaticText '21944087'
+
+[2788] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3564] button 'main' hasPopup: menu expanded: False
+
+[2465] navigation 'Files breadcrumb'
+
+[3789] link 'super_awesome_robot'
+
+[3863] button 'Add to tree' hasPopup: menu expanded: False
+
+[2957] link 'Find file'
+
+[2962] link 'Web IDE'
+
+[2963] button 'Download'
+
+[3571] StaticText 'Select Archive Format'
+
+[2965] link 'Clone' expanded: False
+
+[2988] link 'README'
+
+[3626] StaticText 'Auto DevOps enabled'
+
+[2448] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3627] row ''
+
+[3628] columnheader 'Name' required: False
+
+[3629] columnheader 'Last commit' required: False
+
+[3630] columnheader 'Last update' required: False
+
+[3631] row ''
+
+[3632] gridcell 'README.md' required: False
+
+[3806] link 'README.md'
+
+[3633] gridcell 'Initial commit' required: False
+
+[3812] link 'Initial commit'
+
+[3634] gridcell '6 months ago' required: False
+
+[3815] time 'Mar 1, 2023 6:42pm EST'
+
+[2475] article ''
+
+[2994] link 'README.md'
+
+[2995] heading 'Super_Awesome_Robot'
+
+[3036] link '' hidden: True</pre><div>
+
+[2965]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[2965]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2965', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page contains information about the Super_Awesome_Robot project on GitLab. To clone the Super_Awesome_Robot with SSH, I need to click on the 'Clone' link and then copy the command. In summary, the next action I will perform is ```click [2965]```."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2965] where [2965] is [2965] link 'Clone' expanded: False</pre></div></div>
+
+[2389] RootWebArea 'Convex Eggtart / Super_Awesome_Robot · GitLab' focused: True
+
+[2514] link 'Skip to content'
+
+[2674] link 'Dashboard'
+
+[2795] button '' hasPopup: menu expanded: False
+
+[2401] textbox 'Search GitLab' required: False
+
+[3677] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2801] link 'Create new...'
+
+[2803] link 'Issues'
+
+[3224] generic '13 assigned issues'
+
+[2804] link 'Merge requests'
+
+[3226] generic '8 merge requests'
+
+[2806] link 'To-Do List'
+
+[3242] generic 'Todos count'
+
+[3698] StaticText '5'
+
+[2807] link 'Help'
+
+[2809] link 'Byte Blaze'
+
+[3276] img 'Byte Blaze'
+
+[2515] complementary 'Project navigation'
+
+[2707] listitem 'Super_Awesome_Robot'
+
+[2811] link 'Super_Awesome_Robot'
+
+[2812] link 'Project information'
+
+[2814] link 'Repository'
+
+[2816] link 'Issues'
+
+[3382] StaticText '0'
+
+[2818] link 'Merge requests'
+
+[2820] link 'CI/CD'
+
+[2822] link 'Deployments'
+
+[2824] link 'Packages and registries'
+
+[2826] link 'Monitor'
+
+[2828] link 'Analytics'
+
+[2830] link 'Wiki'
+
+[2832] link 'Snippets'
+
+[2635] button 'Collapse sidebar'
+
+[2519] alert '' live: assertive atomic: True relevant: additions text
+
+[2522] button 'Dismiss'
+
+[2523] alert '' live: assertive atomic: True relevant: additions text
+
+[2738] link 'Add SSH key'
+
+[2739] button "Don't show again"
+
+[2520] navigation 'Breadcrumbs'
+
+[2849] link 'Convex Eggtart'
+
+[2851] link 'Super_Awesome_Robot'
+
+[2405] main ''
+
+[2652] heading 'Super_Awesome_Robot Public - The project can be accessed without any authentication.'
+
+[2655] generic 'Public - The project can be accessed without any authentication.'
+
+[2658] StaticText 'Project ID: 40 '
+
+[2659] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2661] link 'Request Access'
+
+[2757] button '' hasPopup: menu expanded: False
+
+[2664] button 'Star'
+
+[2665] link '0'
+
+[2762] link 'Fork'
+
+[2667] link '0'
+
+[2947] link '1 Commit'
+
+[2948] link '1 Branch'
+
+[2949] link '0 Tags'
+
+[3560] StaticText '72 KB'
+
+[3556] StaticText ' Project Storage'
+
+[2773] link ''
+
+[2780] link 'Initial commit'
+
+[2783] link 'Convex Eggtart'
+
+[2784] StaticText ' authored '
+
+[2785] time 'Mar 1, 2023 6:42pm EST'
+
+[2952] StaticText '6 months ago'
+
+[2786] group ''
+
+[2954] StaticText '21944087'
+
+[2788] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3564] button 'main' hasPopup: menu expanded: False
+
+[2465] navigation 'Files breadcrumb'
+
+[3789] link 'super_awesome_robot'
+
+[3863] button 'Add to tree' hasPopup: menu expanded: False
+
+[2957] link 'Find file'
+
+[2962] link 'Web IDE'
+
+[2963] button 'Download'
+
+[3571] StaticText 'Select Archive Format'
+
+[2965] link 'Clone' focused: True expanded: True
+
+[4004] StaticText 'Clone with SSH'
+
+[3985] textbox 'Repository clone URL' required: False
+
+[3999] StaticText 'ssh://git@metis.lti.cs.cmu.edu:2222/convexegg/super_awesome_robot.git'
+
+[4016] button 'Copy URL' live: polite atomic: False relevant: additions text
+
+[4023] StaticText 'Clone with HTTP'
+
+[3995] textbox 'Repository clone URL' required: False
+
+[3991] StaticText 'http://metis.lti.cs.cmu.edu:8023/convexegg/super_awesome_robot.git'
+
+[3988] button 'Copy URL' live: polite atomic: False relevant: additions text
+
+[4010] StaticText 'Open in your IDE'
+
+[4020] link 'Visual Studio Code (SSH)'
+
+[4018] link 'Visual Studio Code (HTTPS)'
+
+[3997] link 'IntelliJ IDEA (SSH)'
+
+[4022] link 'IntelliJ IDEA (HTTPS)'
+
+[2988] link 'README'
+
+[3626] StaticText 'Auto DevOps enabled'
+
+[2448] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3627] row ''
+
+[3628] columnheader 'Name' required: False
+
+[3629] columnheader 'Last commit' required: False
+
+[3630] columnheader 'Last update' required: False
+
+[3631] row ''
+
+[3632] gridcell 'README.md' required: False
+
+[3806] link 'README.md'
+
+[3633] gridcell 'Initial commit' required: False
+
+[3812] link 'Initial commit'
+
+[3634] gridcell '6 months ago' required: False
+
+[3815] time 'Mar 1, 2023 6:42pm EST'
+
+[2475] article ''
+
+[2994] link 'README.md'
+
+[2995] heading 'Super_Awesome_Robot'
+
+[3036] link '' hidden: True</pre><div>
+
+[2965] where [2965] is link 'Clone' expanded: False</div>
+
+[4023]` where [4023] is the link 'Clone with SSH'.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page contains information about the Super_Awesome_Robot project on GitLab. The objective is to find the command to clone the project with SSH. \n\nI have already performed a click action on the "Clone" link, which has expanded the options. Now, I need to find the command to clone with SSH. I will check the available options. In summary, the next action I will perform is `click [4023]` where [4023] is the link \'Clone with SSH\'.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[2389] RootWebArea 'Convex Eggtart / Super_Awesome_Robot · GitLab' focused: True
+
+[2514] link 'Skip to content'
+
+[2674] link 'Dashboard'
+
+[2795] button '' hasPopup: menu expanded: False
+
+[2401] textbox 'Search GitLab' required: False
+
+[3677] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2801] link 'Create new...'
+
+[2803] link 'Issues'
+
+[3224] generic '13 assigned issues'
+
+[2804] link 'Merge requests'
+
+[3226] generic '8 merge requests'
+
+[2806] link 'To-Do List'
+
+[3242] generic 'Todos count'
+
+[3698] StaticText '5'
+
+[2807] link 'Help'
+
+[2809] link 'Byte Blaze'
+
+[3276] img 'Byte Blaze'
+
+[2515] complementary 'Project navigation'
+
+[2707] listitem 'Super_Awesome_Robot'
+
+[2811] link 'Super_Awesome_Robot'
+
+[2812] link 'Project information'
+
+[2814] link 'Repository'
+
+[2816] link 'Issues'
+
+[3382] StaticText '0'
+
+[2818] link 'Merge requests'
+
+[2820] link 'CI/CD'
+
+[2822] link 'Deployments'
+
+[2824] link 'Packages and registries'
+
+[2826] link 'Monitor'
+
+[2828] link 'Analytics'
+
+[2830] link 'Wiki'
+
+[2832] link 'Snippets'
+
+[2635] button 'Collapse sidebar'
+
+[2519] alert '' live: assertive atomic: True relevant: additions text
+
+[2522] button 'Dismiss'
+
+[2523] alert '' live: assertive atomic: True relevant: additions text
+
+[2738] link 'Add SSH key'
+
+[2739] button "Don't show again"
+
+[2520] navigation 'Breadcrumbs'
+
+[2849] link 'Convex Eggtart'
+
+[2851] link 'Super_Awesome_Robot'
+
+[2405] main ''
+
+[2652] heading 'Super_Awesome_Robot Public - The project can be accessed without any authentication.'
+
+[2655] generic 'Public - The project can be accessed without any authentication.'
+
+[2658] StaticText 'Project ID: 40 '
+
+[2659] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2661] link 'Request Access'
+
+[2757] button '' hasPopup: menu expanded: False
+
+[2664] button 'Star'
+
+[2665] link '0'
+
+[2762] link 'Fork'
+
+[2667] link '0'
+
+[2947] link '1 Commit'
+
+[2948] link '1 Branch'
+
+[2949] link '0 Tags'
+
+[3560] StaticText '72 KB'
+
+[3556] StaticText ' Project Storage'
+
+[2773] link ''
+
+[2780] link 'Initial commit'
+
+[2783] link 'Convex Eggtart'
+
+[2784] StaticText ' authored '
+
+[2785] time 'Mar 1, 2023 6:42pm EST'
+
+[2952] StaticText '6 months ago'
+
+[2786] group ''
+
+[2954] StaticText '21944087'
+
+[2788] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3564] button 'main' hasPopup: menu expanded: False
+
+[2465] navigation 'Files breadcrumb'
+
+[3789] link 'super_awesome_robot'
+
+[3863] button 'Add to tree' hasPopup: menu expanded: False
+
+[2957] link 'Find file'
+
+[2962] link 'Web IDE'
+
+[2963] button 'Download'
+
+[3571] StaticText 'Select Archive Format'
+
+[2965] link 'Clone' focused: True expanded: True
+
+[4004] StaticText 'Clone with SSH'
+
+[3985] textbox 'Repository clone URL' required: False
+
+[3999] StaticText 'ssh://git@metis.lti.cs.cmu.edu:2222/convexegg/super_awesome_robot.git'
+
+[4016] button 'Copy URL' live: polite atomic: False relevant: additions text
+
+[4023] StaticText 'Clone with HTTP'
+
+[3995] textbox 'Repository clone URL' required: False
+
+[3991] StaticText 'http://metis.lti.cs.cmu.edu:8023/convexegg/super_awesome_robot.git'
+
+[3988] button 'Copy URL' live: polite atomic: False relevant: additions text
+
+[4010] StaticText 'Open in your IDE'
+
+[4020] link 'Visual Studio Code (SSH)'
+
+[4018] link 'Visual Studio Code (HTTPS)'
+
+[3997] link 'IntelliJ IDEA (SSH)'
+
+[4022] link 'IntelliJ IDEA (HTTPS)'
+
+[2988] link 'README'
+
+[3626] StaticText 'Auto DevOps enabled'
+
+[2448] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3627] row ''
+
+[3628] columnheader 'Name' required: False
+
+[3629] columnheader 'Last commit' required: False
+
+[3630] columnheader 'Last update' required: False
+
+[3631] row ''
+
+[3632] gridcell 'README.md' required: False
+
+[3806] link 'README.md'
+
+[3633] gridcell 'Initial commit' required: False
+
+[3812] link 'Initial commit'
+
+[3634] gridcell '6 months ago' required: False
+
+[3815] time 'Mar 1, 2023 6:42pm EST'
+
+[2475] article ''
+
+[2994] link 'README.md'
+
+[2995] heading 'Super_Awesome_Robot'
+
+[3036] link '' hidden: True</pre><div>
+
+[4023]` where [4023] is the link 'Clone with SSH'.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[4023]``` where [4023] is the link 'Clone with SSH'.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '4023', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page contains information about the Super_Awesome_Robot project on GitLab. The objective is to find the command to clone the project with SSH. \n\nI have already performed a click action on the "Clone" link, which has expanded the options. Now, I need to find the command to clone with SSH. I will check the available options. In summary, the next action I will perform is ```click [4023]``` where [4023] is the link \'Clone with SSH\'.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [4023] where [4023] is [4023] StaticText 'Clone with HTTP'</pre></div></div>
+
+[2389] RootWebArea 'Convex Eggtart / Super_Awesome_Robot · GitLab' focused: True
+
+[2514] link 'Skip to content'
+
+[2674] link 'Dashboard'
+
+[2795] button '' hasPopup: menu expanded: False
+
+[2401] textbox 'Search GitLab' required: False
+
+[3677] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2801] link 'Create new...'
+
+[2803] link 'Issues'
+
+[3224] generic '13 assigned issues'
+
+[2804] link 'Merge requests'
+
+[3226] generic '8 merge requests'
+
+[2806] link 'To-Do List'
+
+[3242] generic 'Todos count'
+
+[3698] StaticText '5'
+
+[2807] link 'Help'
+
+[2809] link 'Byte Blaze'
+
+[3276] img 'Byte Blaze'
+
+[2515] complementary 'Project navigation'
+
+[2707] listitem 'Super_Awesome_Robot'
+
+[2811] link 'Super_Awesome_Robot'
+
+[2812] link 'Project information'
+
+[2814] link 'Repository'
+
+[2816] link 'Issues'
+
+[3382] StaticText '0'
+
+[2818] link 'Merge requests'
+
+[2820] link 'CI/CD'
+
+[2822] link 'Deployments'
+
+[2824] link 'Packages and registries'
+
+[2826] link 'Monitor'
+
+[2828] link 'Analytics'
+
+[2830] link 'Wiki'
+
+[2832] link 'Snippets'
+
+[2635] button 'Collapse sidebar'
+
+[2519] alert '' live: assertive atomic: True relevant: additions text
+
+[2522] button 'Dismiss'
+
+[2523] alert '' live: assertive atomic: True relevant: additions text
+
+[2738] link 'Add SSH key'
+
+[2739] button "Don't show again"
+
+[2520] navigation 'Breadcrumbs'
+
+[2849] link 'Convex Eggtart'
+
+[2851] link 'Super_Awesome_Robot'
+
+[2405] main ''
+
+[2652] heading 'Super_Awesome_Robot Public - The project can be accessed without any authentication.'
+
+[2655] generic 'Public - The project can be accessed without any authentication.'
+
+[2658] StaticText 'Project ID: 40 '
+
+[2659] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2661] link 'Request Access'
+
+[2757] button '' hasPopup: menu expanded: False
+
+[2664] button 'Star'
+
+[2665] link '0'
+
+[2762] link 'Fork'
+
+[2667] link '0'
+
+[2947] link '1 Commit'
+
+[2948] link '1 Branch'
+
+[2949] link '0 Tags'
+
+[3560] StaticText '72 KB'
+
+[3556] StaticText ' Project Storage'
+
+[2773] link ''
+
+[2780] link 'Initial commit'
+
+[2783] link 'Convex Eggtart'
+
+[2784] StaticText ' authored '
+
+[2785] time 'Mar 1, 2023 6:42pm EST'
+
+[2952] StaticText '6 months ago'
+
+[2786] group ''
+
+[2954] StaticText '21944087'
+
+[2788] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3564] button 'main' hasPopup: menu expanded: False
+
+[2465] navigation 'Files breadcrumb'
+
+[3789] link 'super_awesome_robot'
+
+[3863] button 'Add to tree' hasPopup: menu expanded: False
+
+[2957] link 'Find file'
+
+[2962] link 'Web IDE'
+
+[2963] button 'Download'
+
+[3571] StaticText 'Select Archive Format'
+
+[2965] link 'Clone' expanded: False
+
+[2988] link 'README'
+
+[3626] StaticText 'Auto DevOps enabled'
+
+[2448] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3627] row ''
+
+[3628] columnheader 'Name' required: False
+
+[3629] columnheader 'Last commit' required: False
+
+[3630] columnheader 'Last update' required: False
+
+[3631] row ''
+
+[3632] gridcell 'README.md' required: False
+
+[3806] link 'README.md'
+
+[3633] gridcell 'Initial commit' required: False
+
+[3812] link 'Initial commit'
+
+[3634] gridcell '6 months ago' required: False
+
+[3815] time 'Mar 1, 2023 6:42pm EST'
+
+[2475] article ''
+
+[2994] link 'README.md'
+
+[2995] heading 'Super_Awesome_Robot'
+
+[3036] link '' hidden: True</pre><div>
+
+[4023] where [4023] is StaticText 'Clone with HTTP'</div>
+
+[4024]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '4024', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. On this page, there is a button labeled "Clone with HTTP" that we previously clicked. We need to find the command to clone Super_Awesome_Robot with SSH. Typically, the SSH clone command can be found under the "Clone with SSH" option. I will issue a click action to select the "Clone with SSH" option. In summary, the next action I will perform is ```click [4024]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [4024] where [4024] is No match found</pre></div></div>
+
+[2389] RootWebArea 'Convex Eggtart / Super_Awesome_Robot · GitLab' focused: True
+
+[2514] link 'Skip to content'
+
+[2674] link 'Dashboard'
+
+[2795] button '' hasPopup: menu expanded: False
+
+[2401] textbox 'Search GitLab' required: False
+
+[3677] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2801] link 'Create new...'
+
+[2803] link 'Issues'
+
+[3224] generic '13 assigned issues'
+
+[2804] link 'Merge requests'
+
+[3226] generic '8 merge requests'
+
+[2806] link 'To-Do List'
+
+[3242] generic 'Todos count'
+
+[3698] StaticText '5'
+
+[2807] link 'Help'
+
+[2809] link 'Byte Blaze'
+
+[3276] img 'Byte Blaze'
+
+[2515] complementary 'Project navigation'
+
+[2707] listitem 'Super_Awesome_Robot'
+
+[2811] link 'Super_Awesome_Robot'
+
+[2812] link 'Project information'
+
+[2814] link 'Repository'
+
+[2816] link 'Issues'
+
+[3382] StaticText '0'
+
+[2818] link 'Merge requests'
+
+[2820] link 'CI/CD'
+
+[2822] link 'Deployments'
+
+[2824] link 'Packages and registries'
+
+[2826] link 'Monitor'
+
+[2828] link 'Analytics'
+
+[2830] link 'Wiki'
+
+[2832] link 'Snippets'
+
+[2635] button 'Collapse sidebar'
+
+[2519] alert '' live: assertive atomic: True relevant: additions text
+
+[2522] button 'Dismiss'
+
+[2523] alert '' live: assertive atomic: True relevant: additions text
+
+[2738] link 'Add SSH key'
+
+[2739] button "Don't show again"
+
+[2520] navigation 'Breadcrumbs'
+
+[2849] link 'Convex Eggtart'
+
+[2851] link 'Super_Awesome_Robot'
+
+[2405] main ''
+
+[2652] heading 'Super_Awesome_Robot Public - The project can be accessed without any authentication.'
+
+[2655] generic 'Public - The project can be accessed without any authentication.'
+
+[2658] StaticText 'Project ID: 40 '
+
+[2659] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2661] link 'Request Access'
+
+[2757] button '' hasPopup: menu expanded: False
+
+[2664] button 'Star'
+
+[2665] link '0'
+
+[2762] link 'Fork'
+
+[2667] link '0'
+
+[2947] link '1 Commit'
+
+[2948] link '1 Branch'
+
+[2949] link '0 Tags'
+
+[3560] StaticText '72 KB'
+
+[3556] StaticText ' Project Storage'
+
+[2773] link ''
+
+[2780] link 'Initial commit'
+
+[2783] link 'Convex Eggtart'
+
+[2784] StaticText ' authored '
+
+[2785] time 'Mar 1, 2023 6:42pm EST'
+
+[2952] StaticText '6 months ago'
+
+[2786] group ''
+
+[2954] StaticText '21944087'
+
+[2788] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3564] button 'main' hasPopup: menu expanded: False
+
+[2465] navigation 'Files breadcrumb'
+
+[3789] link 'super_awesome_robot'
+
+[3863] button 'Add to tree' hasPopup: menu expanded: False
+
+[2957] link 'Find file'
+
+[2962] link 'Web IDE'
+
+[2963] button 'Download'
+
+[3571] StaticText 'Select Archive Format'
+
+[2965] link 'Clone' expanded: False
+
+[2988] link 'README'
+
+[3626] StaticText 'Auto DevOps enabled'
+
+[2448] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3627] row ''
+
+[3628] columnheader 'Name' required: False
+
+[3629] columnheader 'Last commit' required: False
+
+[3630] columnheader 'Last update' required: False
+
+[3631] row ''
+
+[3632] gridcell 'README.md' required: False
+
+[3806] link 'README.md'
+
+[3633] gridcell 'Initial commit' required: False
+
+[3812] link 'Initial commit'
+
+[3634] gridcell '6 months ago' required: False
+
+[3815] time 'Mar 1, 2023 6:42pm EST'
+
+[2475] article ''
+
+[2994] link 'README.md'
+
+[2995] heading 'Super_Awesome_Robot'
+
+[3036] link '' hidden: True</pre><div>
+
+[4024]" but no matching element found. Please check the observation more carefully.</div>
+
+[2965]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2965', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the GitLab repository for Super_Awesome_Robot. To clone this repository with SSH, we need to find the SSH clone URL. I can look for the "Clone" button and click on it to see the clone options. In summary, the next action I will perform is ```click [2965]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2965] where [2965] is [2965] link 'Clone' expanded: False</pre></div></div>
+
+[2389] RootWebArea 'Convex Eggtart / Super_Awesome_Robot · GitLab' focused: True
+
+[2514] link 'Skip to content'
+
+[2674] link 'Dashboard'
+
+[2795] button '' hasPopup: menu expanded: False
+
+[2401] textbox 'Search GitLab' required: False
+
+[3677] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2801] link 'Create new...'
+
+[2803] link 'Issues'
+
+[3224] generic '13 assigned issues'
+
+[2804] link 'Merge requests'
+
+[3226] generic '8 merge requests'
+
+[2806] link 'To-Do List'
+
+[3242] generic 'Todos count'
+
+[3698] StaticText '5'
+
+[2807] link 'Help'
+
+[2809] link 'Byte Blaze'
+
+[3276] img 'Byte Blaze'
+
+[2515] complementary 'Project navigation'
+
+[2707] listitem 'Super_Awesome_Robot'
+
+[2811] link 'Super_Awesome_Robot'
+
+[2812] link 'Project information'
+
+[2814] link 'Repository'
+
+[2816] link 'Issues'
+
+[3382] StaticText '0'
+
+[2818] link 'Merge requests'
+
+[2820] link 'CI/CD'
+
+[2822] link 'Deployments'
+
+[2824] link 'Packages and registries'
+
+[2826] link 'Monitor'
+
+[2828] link 'Analytics'
+
+[2830] link 'Wiki'
+
+[2832] link 'Snippets'
+
+[2635] button 'Collapse sidebar'
+
+[2519] alert '' live: assertive atomic: True relevant: additions text
+
+[2522] button 'Dismiss'
+
+[2523] alert '' live: assertive atomic: True relevant: additions text
+
+[2738] link 'Add SSH key'
+
+[2739] button "Don't show again"
+
+[2520] navigation 'Breadcrumbs'
+
+[2849] link 'Convex Eggtart'
+
+[2851] link 'Super_Awesome_Robot'
+
+[2405] main ''
+
+[2652] heading 'Super_Awesome_Robot Public - The project can be accessed without any authentication.'
+
+[2655] generic 'Public - The project can be accessed without any authentication.'
+
+[2658] StaticText 'Project ID: 40 '
+
+[2659] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2661] link 'Request Access'
+
+[2757] button '' hasPopup: menu expanded: False
+
+[2664] button 'Star'
+
+[2665] link '0'
+
+[2762] link 'Fork'
+
+[2667] link '0'
+
+[2947] link '1 Commit'
+
+[2948] link '1 Branch'
+
+[2949] link '0 Tags'
+
+[3560] StaticText '72 KB'
+
+[3556] StaticText ' Project Storage'
+
+[2773] link ''
+
+[2780] link 'Initial commit'
+
+[2783] link 'Convex Eggtart'
+
+[2784] StaticText ' authored '
+
+[2785] time 'Mar 1, 2023 6:42pm EST'
+
+[2952] StaticText '6 months ago'
+
+[2786] group ''
+
+[2954] StaticText '21944087'
+
+[2788] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3564] button 'main' hasPopup: menu expanded: False
+
+[2465] navigation 'Files breadcrumb'
+
+[3789] link 'super_awesome_robot'
+
+[3863] button 'Add to tree' hasPopup: menu expanded: False
+
+[2957] link 'Find file'
+
+[2962] link 'Web IDE'
+
+[2963] button 'Download'
+
+[3571] StaticText 'Select Archive Format'
+
+[2965] link 'Clone' focused: True expanded: True
+
+[4092] StaticText 'Clone with SSH'
+
+[4100] textbox 'Repository clone URL' required: False
+
+[4085] StaticText 'ssh://git@metis.lti.cs.cmu.edu:2222/convexegg/super_awesome_robot.git'
+
+[4097] button 'Copy URL' live: polite atomic: False relevant: additions text
+
+[4088] StaticText 'Clone with HTTP'
+
+[4102] textbox 'Repository clone URL' required: False
+
+[4073] StaticText 'http://metis.lti.cs.cmu.edu:8023/convexegg/super_awesome_robot.git'
+
+[4098] button 'Copy URL' live: polite atomic: False relevant: additions text
+
+[4099] StaticText 'Open in your IDE'
+
+[4086] link 'Visual Studio Code (SSH)'
+
+[4108] link 'Visual Studio Code (HTTPS)'
+
+[4084] link 'IntelliJ IDEA (SSH)'
+
+[4080] link 'IntelliJ IDEA (HTTPS)'
+
+[2988] link 'README'
+
+[3626] StaticText 'Auto DevOps enabled'
+
+[2448] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3627] row ''
+
+[3628] columnheader 'Name' required: False
+
+[3629] columnheader 'Last commit' required: False
+
+[3630] columnheader 'Last update' required: False
+
+[3631] row ''
+
+[3632] gridcell 'README.md' required: False
+
+[3806] link 'README.md'
+
+[3633] gridcell 'Initial commit' required: False
+
+[3812] link 'Initial commit'
+
+[3634] gridcell '6 months ago' required: False
+
+[3815] time 'Mar 1, 2023 6:42pm EST'
+
+[2475] article ''
+
+[2994] link 'README.md'
+
+[2995] heading 'Super_Awesome_Robot'
+
+[3036] link '' hidden: True</pre><div>
+
+[2965] where [2965] is link 'Clone' expanded: False</div>
+

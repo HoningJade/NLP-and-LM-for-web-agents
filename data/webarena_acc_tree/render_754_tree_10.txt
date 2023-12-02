@@ -1,0 +1,60 @@
+Tab 0 (current): New Project · GitLab | Tab 1: GitLab.org / project-templates / express · GitLab
+
+[1932] RootWebArea 'New Project · GitLab' focused: True
+	[2187] link 'Skip to content'
+	[3237] link 'Dashboard'
+	[3305] button '' hasPopup: menu expanded: False
+	[1944] textbox 'Search GitLab' required: False
+	[3494] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[3311] link 'Create new...'
+	[3313] link 'Issues'
+		[3398] generic '13 assigned issues'
+	[3314] link 'Merge requests'
+		[3400] generic '8 merge requests'
+	[3316] link 'To-Do List'
+		[3416] generic 'Todos count'
+			[3515] StaticText '5'
+	[3317] link 'Help'
+	[3319] link 'Byte Blaze'
+		[3450] img 'Byte Blaze'
+	[1948] main ''
+		[5240] StaticText 'Go Micro'
+		[4942] StaticText 'Go Micro is a framework for micro service development'
+		[5070] link 'Preview'
+		[4873] radio 'Use template' checked: false
+		[4975] StaticText 'Pages/Bridgetown'
+		[5189] StaticText 'Everything you need to create a GitLab Pages site using Bridgetown'
+		[4982] link 'Preview'
+		[4903] radio 'Use template' checked: false
+		[4908] StaticText 'Pages/Gatsby'
+		[5297] StaticText 'Everything you need to create a GitLab Pages site using Gatsby'
+		[4962] link 'Preview'
+		[5272] radio 'Use template' checked: false
+		[5212] StaticText 'Pages/Hugo'
+		[5262] StaticText 'Everything you need to create a GitLab Pages site using Hugo'
+		[5193] link 'Preview'
+		[5171] radio 'Use template' checked: false
+		[5213] StaticText 'Pages/Pelican'
+		[5101] StaticText 'Everything you need to create a GitLab Pages site using Pelican'
+		[5181] link 'Preview'
+		[5011] radio 'Use template' checked: false
+		[5072] StaticText 'Pages/Jekyll'
+		[5264] StaticText 'Everything you need to create a GitLab Pages site using Jekyll'
+		[4984] link 'Preview'
+		[4836] radio 'Use template' checked: false
+		[4919] StaticText 'Pages/Plain HTML'
+		[4963] StaticText 'Everything you need to create a GitLab Pages site using plain HTML'
+		[5271] link 'Preview'
+		[4912] radio 'Use template' checked: false
+		[4850] StaticText 'Pages/GitBook'
+		[5266] StaticText 'Everything you need to create a GitLab Pages site using GitBook'
+		[5308] link 'Preview'
+		[4867] radio 'Use template' checked: false
+		[4910] StaticText 'Pages/Hexo'
+		[5205] StaticText 'Everything you need to create a GitLab Pages site using Hexo'
+		[5063] link 'Preview'
+		[5073] radio 'Use template' checked: false
+		[4916] StaticText 'Pages/Middleman'
+		[5008] StaticText 'Everything you need to create a GitLab Pages site using Middleman'
+		[5316] link 'Preview'
+		[5017] radio 'Use template' checked: false</pre><div>

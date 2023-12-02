@@ -1,0 +1,60 @@
+Tab 0 (current): crew · GitLab
+
+[8457] RootWebArea 'crew · GitLab' focused: True
+	[8526] link 'Skip to content'
+	[8678] link 'Dashboard'
+	[8754] button '' hasPopup: menu expanded: False
+	[8469] textbox 'Search GitLab' required: False
+	[9274] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[8760] link 'Create new...' focused: True expanded: False
+	[8762] link 'Issues'
+		[8998] generic '13 assigned issues'
+	[8763] link 'Merge requests'
+		[9000] generic '8 merge requests'
+	[8765] link 'To-Do List'
+		[9016] generic 'Todos count'
+	[8766] link 'Help'
+	[8768] link 'Byte Blaze'
+		[9050] img 'Byte Blaze'
+	[8527] complementary 'Group navigation'
+		[8711] listitem 'crew'
+			[8770] link 'crew'
+				[9091] StaticText 'C'
+		[8771] link 'Group information'
+		[8773] link 'Issues'
+		[8775] link 'Merge requests'
+			[9144] StaticText '0'
+		[8777] link 'CI/CD'
+		[8779] link 'Packages and registries'
+		[8781] link 'Settings'
+		[8653] button 'Collapse sidebar'
+	[8531] navigation 'Breadcrumbs'
+		[8786] link 'crew'
+	[8473] main ''
+		[8657] alert '' live: assertive atomic: True relevant: additions text
+			[8736] button 'Dismiss'
+			[8737] alert '' live: assertive atomic: True relevant: additions text
+				[9229] StaticText 'Group crew was successfully created.'
+		[8738] StaticText 'C'
+		[8662] heading 'crew Public - The group and any public projects can be viewed without any authentication.'
+			[8665] generic 'Public - The group and any public projects can be viewed without any authentication.'
+		[8668] StaticText 'Group ID: 2600 '
+		[8669] button 'Copy group ID' live: polite atomic: False relevant: additions text
+		[8743] button '' hasPopup: menu expanded: False
+		[8673] link 'New subgroup'
+		[8674] link 'New project'
+		[8476] tablist '' multiselectable: False orientation: horizontal
+			[8747] tab 'Subgroups and projects' selected: True controls: __BVID__66
+			[8749] tab 'Shared projects' selected: False controls: __BVID__73
+			[8751] tab 'Archived projects' selected: False controls: __BVID__76
+			[8481] searchbox 'Search'
+			[8491] group ''
+				[9323] button 'Name' hasPopup: menu expanded: False
+				[9244] button 'Sorting Direction: Ascending'
+		[8483] tabpanel 'Subgroups and projects'
+			[9249] link 'Create new subgroup Create new subgroup Groups are the best way to manage multiple projects and members.'
+				[9252] img 'Create new subgroup'
+				[9253] heading 'Create new subgroup'
+			[9257] link 'Create new project Create new project Projects are where you can store your code, access issues, wiki, and other features of Gitlab.'
+				[9260] img 'Create new project'
+				[9261] heading 'Create new project'</pre><div>

@@ -1,0 +1,4874 @@
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[282] link 'Skip to content'
+
+[398] link 'Dashboard'
+
+[475] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1799] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[481] link 'Create new...'
+
+[483] link 'Issues'
+
+[1347] generic '13 assigned issues'
+
+[484] link 'Merge requests'
+
+[1349] generic '8 merge requests'
+
+[486] link 'To-Do List'
+
+[1365] generic 'Todos count'
+
+[487] link 'Help'
+
+[489] link 'Byte Blaze'
+
+[1399] img 'Byte Blaze'
+
+[17] main ''
+
+[383] heading 'Projects'
+
+[386] link 'New project'
+
+[491] link 'Yours 19'
+
+[492] link 'Starred 3'
+
+[493] link 'Explore'
+
+[494] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[450] button 'Name'
+
+[538] link 'All'
+
+[539] link 'Personal'
+
+[540] link 'A'
+
+[543] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[546] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[544] generic 'Public - The project can be accessed without any authentication.'
+
+[552] StaticText 'Owner'
+
+[1455] generic 'lipstick'
+
+[1830] StaticText '💄'
+
+[1456] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[564] link '1'
+
+[565] link '0'
+
+[566] link '0'
+
+[567] link '1'
+
+[576] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[577] StaticText '5 months ago'
+
+[578] link 'A'
+
+[581] heading 'Byte Blaze / a11y-webring.club'
+
+[584] link 'Byte Blaze / a11y-webring.club'
+
+[582] generic 'Public - The project can be accessed without any authentication.'
+
+[590] StaticText 'Owner'
+
+[1474] generic 'globe with meridians'
+
+[1831] StaticText '🌐'
+
+[1475] StaticText ' A webring for digital accessibility practitioners.'
+
+[602] link '2'
+
+[603] link '0'
+
+[604] link '1'
+
+[605] link '4'
+
+[614] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[615] StaticText '5 months ago'
+
+[616] link 'A'
+
+[619] heading 'The A11Y Project / a11yproject.com'
+
+[622] link 'The A11Y Project / a11yproject.com'
+
+[620] generic 'Public - The project can be accessed without any authentication.'
+
+[628] StaticText 'Maintainer'
+
+[1493] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[640] link '21'
+
+[641] link '0'
+
+[642] link '10'
+
+[643] link '40'
+
+[652] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[653] StaticText '5 months ago'
+
+[654] link 'A'
+
+[657] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[660] link 'Byte Blaze / accessible-html-content-patterns'
+
+[658] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[666] StaticText 'Owner'
+
+[1511] generic 'wheelchair symbol'
+
+[1832] StaticText '♿'
+
+[1512] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[678] link '1'
+
+[679] link '0'
+
+[680] link '0'
+
+[681] link '0'
+
+[690] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[691] StaticText '5 months ago'
+
+[692] link ''
+
+[695] heading 'Byte Blaze / cloud-to-butt'
+
+[698] link 'Byte Blaze / cloud-to-butt'
+
+[696] generic 'Public - The project can be accessed without any authentication.'
+
+[704] StaticText 'Owner'
+
+[716] link '0'
+
+[717] link '0'
+
+[718] link '0'
+
+[719] link '0'
+
+[728] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[729] StaticText '5 months ago'
+
+[730] link 'D'
+
+[733] heading 'Primer / design'
+
+[736] link 'Primer / design'
+
+[734] generic 'Public - The project can be accessed without any authentication.'
+
+[742] StaticText 'Developer'
+
+[1547] StaticText 'Primer Design Guidelines'
+
+[754] link '21'
+
+[755] link '0'
+
+[756] link '16'
+
+[757] link '21'
+
+[766] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[767] StaticText '5 months ago'
+
+[768] link 'D'
+
+[770] heading 'Byte Blaze / Do it myself'
+
+[773] link 'Byte Blaze / Do it myself'
+
+[771] generic 'Public - The project can be accessed without any authentication.'
+
+[779] StaticText 'Owner'
+
+[790] link '0'
+
+[791] link '0'
+
+[792] link '0'
+
+[793] link '0'
+
+[802] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[803] StaticText '4 days ago'</pre><div>
+
+[481]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '481', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To create a new public project on GitLab, I need to click on the "Create new..." link. Then, I can fill in the project details, such as the name, visibility, and members. In this case, the project name is "awesome-llms" and the members to be added are "primer", "convexegg", and "abishek". I will perform the following actions:\n\n1. Click on the "Create new..." link.\n2. Type "awesome-llms" in the project name field.\n3. Select the project visibility as "Public".\n4. Add the members "primer", "convexegg", and "abishek" to the project.\n\nIn summary, the next action I will perform is ```click [481]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [481] where [481] is [481] link 'Create new...'</pre></div></div>
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[282] link 'Skip to content'
+
+[398] link 'Dashboard'
+
+[475] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1799] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[481] link 'Create new...' focused: True expanded: True describedby: gl-tooltip1
+
+[1848] link 'New project/repository'
+
+[1851] link 'New group'
+
+[1849] link 'New snippet'
+
+[483] link 'Issues'
+
+[1347] generic '13 assigned issues'
+
+[484] link 'Merge requests'
+
+[1349] generic '8 merge requests'
+
+[486] link 'To-Do List'
+
+[1365] generic 'Todos count'
+
+[487] link 'Help'
+
+[489] link 'Byte Blaze'
+
+[1399] img 'Byte Blaze'
+
+[17] main ''
+
+[383] heading 'Projects'
+
+[386] link 'New project'
+
+[491] link 'Yours 19'
+
+[492] link 'Starred 3'
+
+[493] link 'Explore'
+
+[494] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[450] button 'Name'
+
+[538] link 'All'
+
+[539] link 'Personal'
+
+[540] link 'A'
+
+[543] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[546] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[544] generic 'Public - The project can be accessed without any authentication.'
+
+[552] StaticText 'Owner'
+
+[1455] generic 'lipstick'
+
+[1830] StaticText '💄'
+
+[1456] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[564] link '1'
+
+[565] link '0'
+
+[566] link '0'
+
+[567] link '1'
+
+[576] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[577] StaticText '5 months ago'
+
+[578] link 'A'
+
+[581] heading 'Byte Blaze / a11y-webring.club'
+
+[584] link 'Byte Blaze / a11y-webring.club'
+
+[582] generic 'Public - The project can be accessed without any authentication.'
+
+[590] StaticText 'Owner'
+
+[1474] generic 'globe with meridians'
+
+[1831] StaticText '🌐'
+
+[1475] StaticText ' A webring for digital accessibility practitioners.'
+
+[602] link '2'
+
+[603] link '0'
+
+[604] link '1'
+
+[605] link '4'
+
+[614] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[615] StaticText '5 months ago'
+
+[616] link 'A'
+
+[619] heading 'The A11Y Project / a11yproject.com'
+
+[622] link 'The A11Y Project / a11yproject.com'
+
+[620] generic 'Public - The project can be accessed without any authentication.'
+
+[628] StaticText 'Maintainer'
+
+[1493] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[640] link '21'
+
+[641] link '0'
+
+[642] link '10'
+
+[643] link '40'
+
+[652] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[653] StaticText '5 months ago'
+
+[654] link 'A'
+
+[657] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[660] link 'Byte Blaze / accessible-html-content-patterns'
+
+[658] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[666] StaticText 'Owner'
+
+[1511] generic 'wheelchair symbol'
+
+[1832] StaticText '♿'
+
+[1512] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[678] link '1'
+
+[679] link '0'
+
+[680] link '0'
+
+[681] link '0'
+
+[690] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[691] StaticText '5 months ago'
+
+[692] link ''
+
+[695] heading 'Byte Blaze / cloud-to-butt'
+
+[698] link 'Byte Blaze / cloud-to-butt'
+
+[696] generic 'Public - The project can be accessed without any authentication.'
+
+[704] StaticText 'Owner'
+
+[716] link '0'
+
+[717] link '0'
+
+[718] link '0'
+
+[719] link '0'
+
+[728] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[729] StaticText '5 months ago'
+
+[730] link 'D'
+
+[733] heading 'Primer / design'
+
+[736] link 'Primer / design'
+
+[734] generic 'Public - The project can be accessed without any authentication.'
+
+[742] StaticText 'Developer'
+
+[1547] StaticText 'Primer Design Guidelines'
+
+[754] link '21'
+
+[755] link '0'
+
+[756] link '16'
+
+[757] link '21'
+
+[766] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[767] StaticText '5 months ago'
+
+[768] link 'D'
+
+[770] heading 'Byte Blaze / Do it myself'
+
+[773] link 'Byte Blaze / Do it myself'
+
+[771] generic 'Public - The project can be accessed without any authentication.'
+
+[779] StaticText 'Owner'
+
+[790] link '0'
+
+[791] link '0'
+
+[792] link '0'
+
+[793] link '0'
+
+[802] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[803] StaticText '4 days ago'
+
+[1855] tooltip 'Create new...'</pre><div>
+
+[481] where [481] is link 'Create new...'</div>
+
+[481]. I will click on it to proceed. In summary, the next action I will perform is `click [481]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page has a link to create a new project, which is the first step to achieve the objective. The link has the ID [481]. I will click on it to proceed. In summary, the next action I will perform is `click [481]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[282] link 'Skip to content'
+
+[398] link 'Dashboard'
+
+[475] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1799] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[481] link 'Create new...' focused: True expanded: True describedby: gl-tooltip1
+
+[1848] link 'New project/repository'
+
+[1851] link 'New group'
+
+[1849] link 'New snippet'
+
+[483] link 'Issues'
+
+[1347] generic '13 assigned issues'
+
+[484] link 'Merge requests'
+
+[1349] generic '8 merge requests'
+
+[486] link 'To-Do List'
+
+[1365] generic 'Todos count'
+
+[487] link 'Help'
+
+[489] link 'Byte Blaze'
+
+[1399] img 'Byte Blaze'
+
+[17] main ''
+
+[383] heading 'Projects'
+
+[386] link 'New project'
+
+[491] link 'Yours 19'
+
+[492] link 'Starred 3'
+
+[493] link 'Explore'
+
+[494] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[450] button 'Name'
+
+[538] link 'All'
+
+[539] link 'Personal'
+
+[540] link 'A'
+
+[543] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[546] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[544] generic 'Public - The project can be accessed without any authentication.'
+
+[552] StaticText 'Owner'
+
+[1455] generic 'lipstick'
+
+[1830] StaticText '💄'
+
+[1456] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[564] link '1'
+
+[565] link '0'
+
+[566] link '0'
+
+[567] link '1'
+
+[576] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[577] StaticText '5 months ago'
+
+[578] link 'A'
+
+[581] heading 'Byte Blaze / a11y-webring.club'
+
+[584] link 'Byte Blaze / a11y-webring.club'
+
+[582] generic 'Public - The project can be accessed without any authentication.'
+
+[590] StaticText 'Owner'
+
+[1474] generic 'globe with meridians'
+
+[1831] StaticText '🌐'
+
+[1475] StaticText ' A webring for digital accessibility practitioners.'
+
+[602] link '2'
+
+[603] link '0'
+
+[604] link '1'
+
+[605] link '4'
+
+[614] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[615] StaticText '5 months ago'
+
+[616] link 'A'
+
+[619] heading 'The A11Y Project / a11yproject.com'
+
+[622] link 'The A11Y Project / a11yproject.com'
+
+[620] generic 'Public - The project can be accessed without any authentication.'
+
+[628] StaticText 'Maintainer'
+
+[1493] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[640] link '21'
+
+[641] link '0'
+
+[642] link '10'
+
+[643] link '40'
+
+[652] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[653] StaticText '5 months ago'
+
+[654] link 'A'
+
+[657] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[660] link 'Byte Blaze / accessible-html-content-patterns'
+
+[658] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[666] StaticText 'Owner'
+
+[1511] generic 'wheelchair symbol'
+
+[1832] StaticText '♿'
+
+[1512] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[678] link '1'
+
+[679] link '0'
+
+[680] link '0'
+
+[681] link '0'
+
+[690] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[691] StaticText '5 months ago'
+
+[692] link ''
+
+[695] heading 'Byte Blaze / cloud-to-butt'
+
+[698] link 'Byte Blaze / cloud-to-butt'
+
+[696] generic 'Public - The project can be accessed without any authentication.'
+
+[704] StaticText 'Owner'
+
+[716] link '0'
+
+[717] link '0'
+
+[718] link '0'
+
+[719] link '0'
+
+[728] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[729] StaticText '5 months ago'
+
+[730] link 'D'
+
+[733] heading 'Primer / design'
+
+[736] link 'Primer / design'
+
+[734] generic 'Public - The project can be accessed without any authentication.'
+
+[742] StaticText 'Developer'
+
+[1547] StaticText 'Primer Design Guidelines'
+
+[754] link '21'
+
+[755] link '0'
+
+[756] link '16'
+
+[757] link '21'
+
+[766] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[767] StaticText '5 months ago'
+
+[768] link 'D'
+
+[770] heading 'Byte Blaze / Do it myself'
+
+[773] link 'Byte Blaze / Do it myself'
+
+[771] generic 'Public - The project can be accessed without any authentication.'
+
+[779] StaticText 'Owner'
+
+[790] link '0'
+
+[791] link '0'
+
+[792] link '0'
+
+[793] link '0'
+
+[802] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[803] StaticText '4 days ago'
+
+[1855] tooltip 'Create new...'</pre><div>
+
+[481]. I will click on it to proceed. In summary, the next action I will perform is `click [481]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[481]. I will click on it to proceed. In summary, the next action I will perform is ```click [481]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '481', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page has a link to create a new project, which is the first step to achieve the objective. The link has the ID [481]. I will click on it to proceed. In summary, the next action I will perform is ```click [481]```."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [481] where [481] is [481] link 'Create new...' focused: True expanded: True describedby: gl-tooltip1</pre></div></div>
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[282] link 'Skip to content'
+
+[398] link 'Dashboard'
+
+[475] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1799] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[481] link 'Create new...' focused: True expanded: False
+
+[483] link 'Issues'
+
+[1347] generic '13 assigned issues'
+
+[484] link 'Merge requests'
+
+[1349] generic '8 merge requests'
+
+[486] link 'To-Do List'
+
+[1365] generic 'Todos count'
+
+[487] link 'Help'
+
+[489] link 'Byte Blaze'
+
+[1399] img 'Byte Blaze'
+
+[17] main ''
+
+[383] heading 'Projects'
+
+[386] link 'New project'
+
+[491] link 'Yours 19'
+
+[492] link 'Starred 3'
+
+[493] link 'Explore'
+
+[494] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[450] button 'Name'
+
+[538] link 'All'
+
+[539] link 'Personal'
+
+[540] link 'A'
+
+[543] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[546] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[544] generic 'Public - The project can be accessed without any authentication.'
+
+[552] StaticText 'Owner'
+
+[1455] generic 'lipstick'
+
+[1830] StaticText '💄'
+
+[1456] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[564] link '1'
+
+[565] link '0'
+
+[566] link '0'
+
+[567] link '1'
+
+[576] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[577] StaticText '5 months ago'
+
+[578] link 'A'
+
+[581] heading 'Byte Blaze / a11y-webring.club'
+
+[584] link 'Byte Blaze / a11y-webring.club'
+
+[582] generic 'Public - The project can be accessed without any authentication.'
+
+[590] StaticText 'Owner'
+
+[1474] generic 'globe with meridians'
+
+[1831] StaticText '🌐'
+
+[1475] StaticText ' A webring for digital accessibility practitioners.'
+
+[602] link '2'
+
+[603] link '0'
+
+[604] link '1'
+
+[605] link '4'
+
+[614] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[615] StaticText '5 months ago'
+
+[616] link 'A'
+
+[619] heading 'The A11Y Project / a11yproject.com'
+
+[622] link 'The A11Y Project / a11yproject.com'
+
+[620] generic 'Public - The project can be accessed without any authentication.'
+
+[628] StaticText 'Maintainer'
+
+[1493] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[640] link '21'
+
+[641] link '0'
+
+[642] link '10'
+
+[643] link '40'
+
+[652] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[653] StaticText '5 months ago'
+
+[654] link 'A'
+
+[657] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[660] link 'Byte Blaze / accessible-html-content-patterns'
+
+[658] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[666] StaticText 'Owner'
+
+[1511] generic 'wheelchair symbol'
+
+[1832] StaticText '♿'
+
+[1512] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[678] link '1'
+
+[679] link '0'
+
+[680] link '0'
+
+[681] link '0'
+
+[690] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[691] StaticText '5 months ago'
+
+[692] link ''
+
+[695] heading 'Byte Blaze / cloud-to-butt'
+
+[698] link 'Byte Blaze / cloud-to-butt'
+
+[696] generic 'Public - The project can be accessed without any authentication.'
+
+[704] StaticText 'Owner'
+
+[716] link '0'
+
+[717] link '0'
+
+[718] link '0'
+
+[719] link '0'
+
+[728] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[729] StaticText '5 months ago'
+
+[730] link 'D'
+
+[733] heading 'Primer / design'
+
+[736] link 'Primer / design'
+
+[734] generic 'Public - The project can be accessed without any authentication.'
+
+[742] StaticText 'Developer'
+
+[1547] StaticText 'Primer Design Guidelines'
+
+[754] link '21'
+
+[755] link '0'
+
+[756] link '16'
+
+[757] link '21'
+
+[766] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[767] StaticText '5 months ago'
+
+[768] link 'D'
+
+[770] heading 'Byte Blaze / Do it myself'
+
+[773] link 'Byte Blaze / Do it myself'
+
+[771] generic 'Public - The project can be accessed without any authentication.'
+
+[779] StaticText 'Owner'
+
+[790] link '0'
+
+[791] link '0'
+
+[792] link '0'
+
+[793] link '0'
+
+[802] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[803] StaticText '4 days ago'</pre><div>
+
+[481] where [481] is link 'Create new...' focused: True expanded: True describedby: gl-tooltip1</div>
+
+[481] to create a new project. I will click on this button to start creating the new project. In summary, the next action I will perform is ```click [481]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '481', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page has a button with the id [481] to create a new project. I will click on this button to start creating the new project. In summary, the next action I will perform is ```click [481]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [481] where [481] is [481] link 'Create new...' focused: True expanded: False</pre></div></div>
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[282] link 'Skip to content'
+
+[398] link 'Dashboard'
+
+[475] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1799] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[481] link 'Create new...' focused: True expanded: True describedby: gl-tooltip1
+
+[1875] link 'New project/repository'
+
+[1880] link 'New group'
+
+[1877] link 'New snippet'
+
+[483] link 'Issues'
+
+[1347] generic '13 assigned issues'
+
+[484] link 'Merge requests'
+
+[1349] generic '8 merge requests'
+
+[486] link 'To-Do List'
+
+[1365] generic 'Todos count'
+
+[487] link 'Help'
+
+[489] link 'Byte Blaze'
+
+[1399] img 'Byte Blaze'
+
+[17] main ''
+
+[383] heading 'Projects'
+
+[386] link 'New project'
+
+[491] link 'Yours 19'
+
+[492] link 'Starred 3'
+
+[493] link 'Explore'
+
+[494] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[450] button 'Name'
+
+[538] link 'All'
+
+[539] link 'Personal'
+
+[540] link 'A'
+
+[543] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[546] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[544] generic 'Public - The project can be accessed without any authentication.'
+
+[552] StaticText 'Owner'
+
+[1455] generic 'lipstick'
+
+[1830] StaticText '💄'
+
+[1456] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[564] link '1'
+
+[565] link '0'
+
+[566] link '0'
+
+[567] link '1'
+
+[576] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[577] StaticText '5 months ago'
+
+[578] link 'A'
+
+[581] heading 'Byte Blaze / a11y-webring.club'
+
+[584] link 'Byte Blaze / a11y-webring.club'
+
+[582] generic 'Public - The project can be accessed without any authentication.'
+
+[590] StaticText 'Owner'
+
+[1474] generic 'globe with meridians'
+
+[1831] StaticText '🌐'
+
+[1475] StaticText ' A webring for digital accessibility practitioners.'
+
+[602] link '2'
+
+[603] link '0'
+
+[604] link '1'
+
+[605] link '4'
+
+[614] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[615] StaticText '5 months ago'
+
+[616] link 'A'
+
+[619] heading 'The A11Y Project / a11yproject.com'
+
+[622] link 'The A11Y Project / a11yproject.com'
+
+[620] generic 'Public - The project can be accessed without any authentication.'
+
+[628] StaticText 'Maintainer'
+
+[1493] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[640] link '21'
+
+[641] link '0'
+
+[642] link '10'
+
+[643] link '40'
+
+[652] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[653] StaticText '5 months ago'
+
+[654] link 'A'
+
+[657] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[660] link 'Byte Blaze / accessible-html-content-patterns'
+
+[658] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[666] StaticText 'Owner'
+
+[1511] generic 'wheelchair symbol'
+
+[1832] StaticText '♿'
+
+[1512] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[678] link '1'
+
+[679] link '0'
+
+[680] link '0'
+
+[681] link '0'
+
+[690] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[691] StaticText '5 months ago'
+
+[692] link ''
+
+[695] heading 'Byte Blaze / cloud-to-butt'
+
+[698] link 'Byte Blaze / cloud-to-butt'
+
+[696] generic 'Public - The project can be accessed without any authentication.'
+
+[704] StaticText 'Owner'
+
+[716] link '0'
+
+[717] link '0'
+
+[718] link '0'
+
+[719] link '0'
+
+[728] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[729] StaticText '5 months ago'
+
+[730] link 'D'
+
+[733] heading 'Primer / design'
+
+[736] link 'Primer / design'
+
+[734] generic 'Public - The project can be accessed without any authentication.'
+
+[742] StaticText 'Developer'
+
+[1547] StaticText 'Primer Design Guidelines'
+
+[754] link '21'
+
+[755] link '0'
+
+[756] link '16'
+
+[757] link '21'
+
+[766] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[767] StaticText '5 months ago'
+
+[768] link 'D'
+
+[770] heading 'Byte Blaze / Do it myself'
+
+[773] link 'Byte Blaze / Do it myself'
+
+[771] generic 'Public - The project can be accessed without any authentication.'
+
+[779] StaticText 'Owner'
+
+[790] link '0'
+
+[791] link '0'
+
+[792] link '0'
+
+[793] link '0'
+
+[802] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[803] StaticText '4 days ago'
+
+[1882] tooltip 'Create new...'</pre><div>
+
+[481] where [481] is link 'Create new...' focused: True expanded: False</div>
+
+[481]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To create a new public project, I need to click on the "Create new..." link. In summary, the next action I will perform is `click [481]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[282] link 'Skip to content'
+
+[398] link 'Dashboard'
+
+[475] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1799] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[481] link 'Create new...' focused: True expanded: True describedby: gl-tooltip1
+
+[1875] link 'New project/repository'
+
+[1880] link 'New group'
+
+[1877] link 'New snippet'
+
+[483] link 'Issues'
+
+[1347] generic '13 assigned issues'
+
+[484] link 'Merge requests'
+
+[1349] generic '8 merge requests'
+
+[486] link 'To-Do List'
+
+[1365] generic 'Todos count'
+
+[487] link 'Help'
+
+[489] link 'Byte Blaze'
+
+[1399] img 'Byte Blaze'
+
+[17] main ''
+
+[383] heading 'Projects'
+
+[386] link 'New project'
+
+[491] link 'Yours 19'
+
+[492] link 'Starred 3'
+
+[493] link 'Explore'
+
+[494] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[450] button 'Name'
+
+[538] link 'All'
+
+[539] link 'Personal'
+
+[540] link 'A'
+
+[543] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[546] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[544] generic 'Public - The project can be accessed without any authentication.'
+
+[552] StaticText 'Owner'
+
+[1455] generic 'lipstick'
+
+[1830] StaticText '💄'
+
+[1456] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[564] link '1'
+
+[565] link '0'
+
+[566] link '0'
+
+[567] link '1'
+
+[576] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[577] StaticText '5 months ago'
+
+[578] link 'A'
+
+[581] heading 'Byte Blaze / a11y-webring.club'
+
+[584] link 'Byte Blaze / a11y-webring.club'
+
+[582] generic 'Public - The project can be accessed without any authentication.'
+
+[590] StaticText 'Owner'
+
+[1474] generic 'globe with meridians'
+
+[1831] StaticText '🌐'
+
+[1475] StaticText ' A webring for digital accessibility practitioners.'
+
+[602] link '2'
+
+[603] link '0'
+
+[604] link '1'
+
+[605] link '4'
+
+[614] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[615] StaticText '5 months ago'
+
+[616] link 'A'
+
+[619] heading 'The A11Y Project / a11yproject.com'
+
+[622] link 'The A11Y Project / a11yproject.com'
+
+[620] generic 'Public - The project can be accessed without any authentication.'
+
+[628] StaticText 'Maintainer'
+
+[1493] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[640] link '21'
+
+[641] link '0'
+
+[642] link '10'
+
+[643] link '40'
+
+[652] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[653] StaticText '5 months ago'
+
+[654] link 'A'
+
+[657] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[660] link 'Byte Blaze / accessible-html-content-patterns'
+
+[658] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[666] StaticText 'Owner'
+
+[1511] generic 'wheelchair symbol'
+
+[1832] StaticText '♿'
+
+[1512] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[678] link '1'
+
+[679] link '0'
+
+[680] link '0'
+
+[681] link '0'
+
+[690] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[691] StaticText '5 months ago'
+
+[692] link ''
+
+[695] heading 'Byte Blaze / cloud-to-butt'
+
+[698] link 'Byte Blaze / cloud-to-butt'
+
+[696] generic 'Public - The project can be accessed without any authentication.'
+
+[704] StaticText 'Owner'
+
+[716] link '0'
+
+[717] link '0'
+
+[718] link '0'
+
+[719] link '0'
+
+[728] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[729] StaticText '5 months ago'
+
+[730] link 'D'
+
+[733] heading 'Primer / design'
+
+[736] link 'Primer / design'
+
+[734] generic 'Public - The project can be accessed without any authentication.'
+
+[742] StaticText 'Developer'
+
+[1547] StaticText 'Primer Design Guidelines'
+
+[754] link '21'
+
+[755] link '0'
+
+[756] link '16'
+
+[757] link '21'
+
+[766] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[767] StaticText '5 months ago'
+
+[768] link 'D'
+
+[770] heading 'Byte Blaze / Do it myself'
+
+[773] link 'Byte Blaze / Do it myself'
+
+[771] generic 'Public - The project can be accessed without any authentication.'
+
+[779] StaticText 'Owner'
+
+[790] link '0'
+
+[791] link '0'
+
+[792] link '0'
+
+[793] link '0'
+
+[802] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[803] StaticText '4 days ago'
+
+[1882] tooltip 'Create new...'</pre><div>
+
+[481]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[481]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '481', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To create a new public project, I need to click on the "Create new..." link. In summary, the next action I will perform is ```click [481]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [481] where [481] is [481] link 'Create new...' focused: True expanded: True describedby: gl-tooltip1</pre></div></div>
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[282] link 'Skip to content'
+
+[398] link 'Dashboard'
+
+[475] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1799] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[481] link 'Create new...' focused: True expanded: False
+
+[483] link 'Issues'
+
+[1347] generic '13 assigned issues'
+
+[484] link 'Merge requests'
+
+[1349] generic '8 merge requests'
+
+[486] link 'To-Do List'
+
+[1365] generic 'Todos count'
+
+[487] link 'Help'
+
+[489] link 'Byte Blaze'
+
+[1399] img 'Byte Blaze'
+
+[17] main ''
+
+[383] heading 'Projects'
+
+[386] link 'New project'
+
+[491] link 'Yours 19'
+
+[492] link 'Starred 3'
+
+[493] link 'Explore'
+
+[494] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[450] button 'Name'
+
+[538] link 'All'
+
+[539] link 'Personal'
+
+[540] link 'A'
+
+[543] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[546] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[544] generic 'Public - The project can be accessed without any authentication.'
+
+[552] StaticText 'Owner'
+
+[1455] generic 'lipstick'
+
+[1830] StaticText '💄'
+
+[1456] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[564] link '1'
+
+[565] link '0'
+
+[566] link '0'
+
+[567] link '1'
+
+[576] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[577] StaticText '5 months ago'
+
+[578] link 'A'
+
+[581] heading 'Byte Blaze / a11y-webring.club'
+
+[584] link 'Byte Blaze / a11y-webring.club'
+
+[582] generic 'Public - The project can be accessed without any authentication.'
+
+[590] StaticText 'Owner'
+
+[1474] generic 'globe with meridians'
+
+[1831] StaticText '🌐'
+
+[1475] StaticText ' A webring for digital accessibility practitioners.'
+
+[602] link '2'
+
+[603] link '0'
+
+[604] link '1'
+
+[605] link '4'
+
+[614] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[615] StaticText '5 months ago'
+
+[616] link 'A'
+
+[619] heading 'The A11Y Project / a11yproject.com'
+
+[622] link 'The A11Y Project / a11yproject.com'
+
+[620] generic 'Public - The project can be accessed without any authentication.'
+
+[628] StaticText 'Maintainer'
+
+[1493] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[640] link '21'
+
+[641] link '0'
+
+[642] link '10'
+
+[643] link '40'
+
+[652] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[653] StaticText '5 months ago'
+
+[654] link 'A'
+
+[657] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[660] link 'Byte Blaze / accessible-html-content-patterns'
+
+[658] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[666] StaticText 'Owner'
+
+[1511] generic 'wheelchair symbol'
+
+[1832] StaticText '♿'
+
+[1512] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[678] link '1'
+
+[679] link '0'
+
+[680] link '0'
+
+[681] link '0'
+
+[690] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[691] StaticText '5 months ago'
+
+[692] link ''
+
+[695] heading 'Byte Blaze / cloud-to-butt'
+
+[698] link 'Byte Blaze / cloud-to-butt'
+
+[696] generic 'Public - The project can be accessed without any authentication.'
+
+[704] StaticText 'Owner'
+
+[716] link '0'
+
+[717] link '0'
+
+[718] link '0'
+
+[719] link '0'
+
+[728] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[729] StaticText '5 months ago'
+
+[730] link 'D'
+
+[733] heading 'Primer / design'
+
+[736] link 'Primer / design'
+
+[734] generic 'Public - The project can be accessed without any authentication.'
+
+[742] StaticText 'Developer'
+
+[1547] StaticText 'Primer Design Guidelines'
+
+[754] link '21'
+
+[755] link '0'
+
+[756] link '16'
+
+[757] link '21'
+
+[766] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[767] StaticText '5 months ago'
+
+[768] link 'D'
+
+[770] heading 'Byte Blaze / Do it myself'
+
+[773] link 'Byte Blaze / Do it myself'
+
+[771] generic 'Public - The project can be accessed without any authentication.'
+
+[779] StaticText 'Owner'
+
+[790] link '0'
+
+[791] link '0'
+
+[792] link '0'
+
+[793] link '0'
+
+[802] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[803] StaticText '4 days ago'</pre><div>
+
+[481] where [481] is link 'Create new...' focused: True expanded: True describedby: gl-tooltip1</div>
+
+[481]``` to open the "Create new..." menu.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '481', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To create a new public project on GitLab, we need to click on the "Create new..." button. After clicking, we will be presented with a menu of options to choose from. In this case, we want to select the "New project" option. Then, we can provide the project name "awesome-llms" and set its visibility to public. Lastly, we can add members to the project by clicking on the "Members" tab and entering the usernames of primer, convexegg, and abishek.\n\nIn summary, the next action I will perform is ```click [481]``` to open the "Create new..." menu.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [481] where [481] is [481] link 'Create new...' focused: True expanded: False</pre></div></div>
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[282] link 'Skip to content'
+
+[398] link 'Dashboard'
+
+[475] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1799] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[481] link 'Create new...' focused: True expanded: True
+
+[1898] link 'New project/repository'
+
+[1905] link 'New group'
+
+[1901] link 'New snippet'
+
+[483] link 'Issues'
+
+[1347] generic '13 assigned issues'
+
+[484] link 'Merge requests'
+
+[1349] generic '8 merge requests'
+
+[486] link 'To-Do List'
+
+[1365] generic 'Todos count'
+
+[487] link 'Help'
+
+[489] link 'Byte Blaze'
+
+[1399] img 'Byte Blaze'
+
+[17] main ''
+
+[383] heading 'Projects'
+
+[386] link 'New project'
+
+[491] link 'Yours 19'
+
+[492] link 'Starred 3'
+
+[493] link 'Explore'
+
+[494] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[450] button 'Name'
+
+[538] link 'All'
+
+[539] link 'Personal'
+
+[540] link 'A'
+
+[543] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[546] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[544] generic 'Public - The project can be accessed without any authentication.'
+
+[552] StaticText 'Owner'
+
+[1455] generic 'lipstick'
+
+[1830] StaticText '💄'
+
+[1456] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[564] link '1'
+
+[565] link '0'
+
+[566] link '0'
+
+[567] link '1'
+
+[576] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[577] StaticText '5 months ago'
+
+[578] link 'A'
+
+[581] heading 'Byte Blaze / a11y-webring.club'
+
+[584] link 'Byte Blaze / a11y-webring.club'
+
+[582] generic 'Public - The project can be accessed without any authentication.'
+
+[590] StaticText 'Owner'
+
+[1474] generic 'globe with meridians'
+
+[1831] StaticText '🌐'
+
+[1475] StaticText ' A webring for digital accessibility practitioners.'
+
+[602] link '2'
+
+[603] link '0'
+
+[604] link '1'
+
+[605] link '4'
+
+[614] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[615] StaticText '5 months ago'
+
+[616] link 'A'
+
+[619] heading 'The A11Y Project / a11yproject.com'
+
+[622] link 'The A11Y Project / a11yproject.com'
+
+[620] generic 'Public - The project can be accessed without any authentication.'
+
+[628] StaticText 'Maintainer'
+
+[1493] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[640] link '21'
+
+[641] link '0'
+
+[642] link '10'
+
+[643] link '40'
+
+[652] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[653] StaticText '5 months ago'
+
+[654] link 'A'
+
+[657] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[660] link 'Byte Blaze / accessible-html-content-patterns'
+
+[658] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[666] StaticText 'Owner'
+
+[1511] generic 'wheelchair symbol'
+
+[1832] StaticText '♿'
+
+[1512] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[678] link '1'
+
+[679] link '0'
+
+[680] link '0'
+
+[681] link '0'
+
+[690] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[691] StaticText '5 months ago'
+
+[692] link ''
+
+[695] heading 'Byte Blaze / cloud-to-butt'
+
+[698] link 'Byte Blaze / cloud-to-butt'
+
+[696] generic 'Public - The project can be accessed without any authentication.'
+
+[704] StaticText 'Owner'
+
+[716] link '0'
+
+[717] link '0'
+
+[718] link '0'
+
+[719] link '0'
+
+[728] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[729] StaticText '5 months ago'
+
+[730] link 'D'
+
+[733] heading 'Primer / design'
+
+[736] link 'Primer / design'
+
+[734] generic 'Public - The project can be accessed without any authentication.'
+
+[742] StaticText 'Developer'
+
+[1547] StaticText 'Primer Design Guidelines'
+
+[754] link '21'
+
+[755] link '0'
+
+[756] link '16'
+
+[757] link '21'
+
+[766] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[767] StaticText '5 months ago'
+
+[768] link 'D'
+
+[770] heading 'Byte Blaze / Do it myself'
+
+[773] link 'Byte Blaze / Do it myself'
+
+[771] generic 'Public - The project can be accessed without any authentication.'
+
+[779] StaticText 'Owner'
+
+[790] link '0'
+
+[791] link '0'
+
+[792] link '0'
+
+[793] link '0'
+
+[802] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[803] StaticText '4 days ago'</pre><div>
+
+[481] where [481] is link 'Create new...' focused: True expanded: False</div>
+
+[481].
+
+[481]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to create a new public project called "awesome-llms" and add primer, convexegg, and abishek as members.\n\nTo create a new project, we need to click on the "Create new..." link, which has the ID [481].\n\nIn summary, the next action I will perform is `click [481]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[282] link 'Skip to content'
+
+[398] link 'Dashboard'
+
+[475] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1799] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[481] link 'Create new...' focused: True expanded: True
+
+[1898] link 'New project/repository'
+
+[1905] link 'New group'
+
+[1901] link 'New snippet'
+
+[483] link 'Issues'
+
+[1347] generic '13 assigned issues'
+
+[484] link 'Merge requests'
+
+[1349] generic '8 merge requests'
+
+[486] link 'To-Do List'
+
+[1365] generic 'Todos count'
+
+[487] link 'Help'
+
+[489] link 'Byte Blaze'
+
+[1399] img 'Byte Blaze'
+
+[17] main ''
+
+[383] heading 'Projects'
+
+[386] link 'New project'
+
+[491] link 'Yours 19'
+
+[492] link 'Starred 3'
+
+[493] link 'Explore'
+
+[494] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[450] button 'Name'
+
+[538] link 'All'
+
+[539] link 'Personal'
+
+[540] link 'A'
+
+[543] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[546] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[544] generic 'Public - The project can be accessed without any authentication.'
+
+[552] StaticText 'Owner'
+
+[1455] generic 'lipstick'
+
+[1830] StaticText '💄'
+
+[1456] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[564] link '1'
+
+[565] link '0'
+
+[566] link '0'
+
+[567] link '1'
+
+[576] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[577] StaticText '5 months ago'
+
+[578] link 'A'
+
+[581] heading 'Byte Blaze / a11y-webring.club'
+
+[584] link 'Byte Blaze / a11y-webring.club'
+
+[582] generic 'Public - The project can be accessed without any authentication.'
+
+[590] StaticText 'Owner'
+
+[1474] generic 'globe with meridians'
+
+[1831] StaticText '🌐'
+
+[1475] StaticText ' A webring for digital accessibility practitioners.'
+
+[602] link '2'
+
+[603] link '0'
+
+[604] link '1'
+
+[605] link '4'
+
+[614] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[615] StaticText '5 months ago'
+
+[616] link 'A'
+
+[619] heading 'The A11Y Project / a11yproject.com'
+
+[622] link 'The A11Y Project / a11yproject.com'
+
+[620] generic 'Public - The project can be accessed without any authentication.'
+
+[628] StaticText 'Maintainer'
+
+[1493] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[640] link '21'
+
+[641] link '0'
+
+[642] link '10'
+
+[643] link '40'
+
+[652] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[653] StaticText '5 months ago'
+
+[654] link 'A'
+
+[657] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[660] link 'Byte Blaze / accessible-html-content-patterns'
+
+[658] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[666] StaticText 'Owner'
+
+[1511] generic 'wheelchair symbol'
+
+[1832] StaticText '♿'
+
+[1512] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[678] link '1'
+
+[679] link '0'
+
+[680] link '0'
+
+[681] link '0'
+
+[690] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[691] StaticText '5 months ago'
+
+[692] link ''
+
+[695] heading 'Byte Blaze / cloud-to-butt'
+
+[698] link 'Byte Blaze / cloud-to-butt'
+
+[696] generic 'Public - The project can be accessed without any authentication.'
+
+[704] StaticText 'Owner'
+
+[716] link '0'
+
+[717] link '0'
+
+[718] link '0'
+
+[719] link '0'
+
+[728] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[729] StaticText '5 months ago'
+
+[730] link 'D'
+
+[733] heading 'Primer / design'
+
+[736] link 'Primer / design'
+
+[734] generic 'Public - The project can be accessed without any authentication.'
+
+[742] StaticText 'Developer'
+
+[1547] StaticText 'Primer Design Guidelines'
+
+[754] link '21'
+
+[755] link '0'
+
+[756] link '16'
+
+[757] link '21'
+
+[766] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[767] StaticText '5 months ago'
+
+[768] link 'D'
+
+[770] heading 'Byte Blaze / Do it myself'
+
+[773] link 'Byte Blaze / Do it myself'
+
+[771] generic 'Public - The project can be accessed without any authentication.'
+
+[779] StaticText 'Owner'
+
+[790] link '0'
+
+[791] link '0'
+
+[792] link '0'
+
+[793] link '0'
+
+[802] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[803] StaticText '4 days ago'</pre><div>
+
+[481].
+
+[481]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[481]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '481', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [481]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [481] where [481] is [481] link 'Create new...' focused: True expanded: True</pre></div></div>
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[282] link 'Skip to content'
+
+[398] link 'Dashboard'
+
+[475] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1799] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[481] link 'Create new...' focused: True expanded: False
+
+[483] link 'Issues'
+
+[1347] generic '13 assigned issues'
+
+[484] link 'Merge requests'
+
+[1349] generic '8 merge requests'
+
+[486] link 'To-Do List'
+
+[1365] generic 'Todos count'
+
+[487] link 'Help'
+
+[489] link 'Byte Blaze'
+
+[1399] img 'Byte Blaze'
+
+[17] main ''
+
+[383] heading 'Projects'
+
+[386] link 'New project'
+
+[491] link 'Yours 19'
+
+[492] link 'Starred 3'
+
+[493] link 'Explore'
+
+[494] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[450] button 'Name'
+
+[538] link 'All'
+
+[539] link 'Personal'
+
+[540] link 'A'
+
+[543] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[546] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[544] generic 'Public - The project can be accessed without any authentication.'
+
+[552] StaticText 'Owner'
+
+[1455] generic 'lipstick'
+
+[1830] StaticText '💄'
+
+[1456] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[564] link '1'
+
+[565] link '0'
+
+[566] link '0'
+
+[567] link '1'
+
+[576] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[577] StaticText '5 months ago'
+
+[578] link 'A'
+
+[581] heading 'Byte Blaze / a11y-webring.club'
+
+[584] link 'Byte Blaze / a11y-webring.club'
+
+[582] generic 'Public - The project can be accessed without any authentication.'
+
+[590] StaticText 'Owner'
+
+[1474] generic 'globe with meridians'
+
+[1831] StaticText '🌐'
+
+[1475] StaticText ' A webring for digital accessibility practitioners.'
+
+[602] link '2'
+
+[603] link '0'
+
+[604] link '1'
+
+[605] link '4'
+
+[614] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[615] StaticText '5 months ago'
+
+[616] link 'A'
+
+[619] heading 'The A11Y Project / a11yproject.com'
+
+[622] link 'The A11Y Project / a11yproject.com'
+
+[620] generic 'Public - The project can be accessed without any authentication.'
+
+[628] StaticText 'Maintainer'
+
+[1493] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[640] link '21'
+
+[641] link '0'
+
+[642] link '10'
+
+[643] link '40'
+
+[652] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[653] StaticText '5 months ago'
+
+[654] link 'A'
+
+[657] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[660] link 'Byte Blaze / accessible-html-content-patterns'
+
+[658] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[666] StaticText 'Owner'
+
+[1511] generic 'wheelchair symbol'
+
+[1832] StaticText '♿'
+
+[1512] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[678] link '1'
+
+[679] link '0'
+
+[680] link '0'
+
+[681] link '0'
+
+[690] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[691] StaticText '5 months ago'
+
+[692] link ''
+
+[695] heading 'Byte Blaze / cloud-to-butt'
+
+[698] link 'Byte Blaze / cloud-to-butt'
+
+[696] generic 'Public - The project can be accessed without any authentication.'
+
+[704] StaticText 'Owner'
+
+[716] link '0'
+
+[717] link '0'
+
+[718] link '0'
+
+[719] link '0'
+
+[728] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[729] StaticText '5 months ago'
+
+[730] link 'D'
+
+[733] heading 'Primer / design'
+
+[736] link 'Primer / design'
+
+[734] generic 'Public - The project can be accessed without any authentication.'
+
+[742] StaticText 'Developer'
+
+[1547] StaticText 'Primer Design Guidelines'
+
+[754] link '21'
+
+[755] link '0'
+
+[756] link '16'
+
+[757] link '21'
+
+[766] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[767] StaticText '5 months ago'
+
+[768] link 'D'
+
+[770] heading 'Byte Blaze / Do it myself'
+
+[773] link 'Byte Blaze / Do it myself'
+
+[771] generic 'Public - The project can be accessed without any authentication.'
+
+[779] StaticText 'Owner'
+
+[790] link '0'
+
+[791] link '0'
+
+[792] link '0'
+
+[793] link '0'
+
+[802] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[803] StaticText '4 days ago'</pre><div>
+
+[481] where [481] is link 'Create new...' focused: True expanded: True</div>
+
+[481]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To create a new public project on GitLab, I need to click on the "Create new..." link. This will expand a dropdown menu with different options for creating a new project. In summary, the next action I will perform is `click [481]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[282] link 'Skip to content'
+
+[398] link 'Dashboard'
+
+[475] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1799] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[481] link 'Create new...' focused: True expanded: False
+
+[483] link 'Issues'
+
+[1347] generic '13 assigned issues'
+
+[484] link 'Merge requests'
+
+[1349] generic '8 merge requests'
+
+[486] link 'To-Do List'
+
+[1365] generic 'Todos count'
+
+[487] link 'Help'
+
+[489] link 'Byte Blaze'
+
+[1399] img 'Byte Blaze'
+
+[17] main ''
+
+[383] heading 'Projects'
+
+[386] link 'New project'
+
+[491] link 'Yours 19'
+
+[492] link 'Starred 3'
+
+[493] link 'Explore'
+
+[494] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[450] button 'Name'
+
+[538] link 'All'
+
+[539] link 'Personal'
+
+[540] link 'A'
+
+[543] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[546] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[544] generic 'Public - The project can be accessed without any authentication.'
+
+[552] StaticText 'Owner'
+
+[1455] generic 'lipstick'
+
+[1830] StaticText '💄'
+
+[1456] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[564] link '1'
+
+[565] link '0'
+
+[566] link '0'
+
+[567] link '1'
+
+[576] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[577] StaticText '5 months ago'
+
+[578] link 'A'
+
+[581] heading 'Byte Blaze / a11y-webring.club'
+
+[584] link 'Byte Blaze / a11y-webring.club'
+
+[582] generic 'Public - The project can be accessed without any authentication.'
+
+[590] StaticText 'Owner'
+
+[1474] generic 'globe with meridians'
+
+[1831] StaticText '🌐'
+
+[1475] StaticText ' A webring for digital accessibility practitioners.'
+
+[602] link '2'
+
+[603] link '0'
+
+[604] link '1'
+
+[605] link '4'
+
+[614] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[615] StaticText '5 months ago'
+
+[616] link 'A'
+
+[619] heading 'The A11Y Project / a11yproject.com'
+
+[622] link 'The A11Y Project / a11yproject.com'
+
+[620] generic 'Public - The project can be accessed without any authentication.'
+
+[628] StaticText 'Maintainer'
+
+[1493] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[640] link '21'
+
+[641] link '0'
+
+[642] link '10'
+
+[643] link '40'
+
+[652] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[653] StaticText '5 months ago'
+
+[654] link 'A'
+
+[657] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[660] link 'Byte Blaze / accessible-html-content-patterns'
+
+[658] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[666] StaticText 'Owner'
+
+[1511] generic 'wheelchair symbol'
+
+[1832] StaticText '♿'
+
+[1512] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[678] link '1'
+
+[679] link '0'
+
+[680] link '0'
+
+[681] link '0'
+
+[690] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[691] StaticText '5 months ago'
+
+[692] link ''
+
+[695] heading 'Byte Blaze / cloud-to-butt'
+
+[698] link 'Byte Blaze / cloud-to-butt'
+
+[696] generic 'Public - The project can be accessed without any authentication.'
+
+[704] StaticText 'Owner'
+
+[716] link '0'
+
+[717] link '0'
+
+[718] link '0'
+
+[719] link '0'
+
+[728] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[729] StaticText '5 months ago'
+
+[730] link 'D'
+
+[733] heading 'Primer / design'
+
+[736] link 'Primer / design'
+
+[734] generic 'Public - The project can be accessed without any authentication.'
+
+[742] StaticText 'Developer'
+
+[1547] StaticText 'Primer Design Guidelines'
+
+[754] link '21'
+
+[755] link '0'
+
+[756] link '16'
+
+[757] link '21'
+
+[766] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[767] StaticText '5 months ago'
+
+[768] link 'D'
+
+[770] heading 'Byte Blaze / Do it myself'
+
+[773] link 'Byte Blaze / Do it myself'
+
+[771] generic 'Public - The project can be accessed without any authentication.'
+
+[779] StaticText 'Owner'
+
+[790] link '0'
+
+[791] link '0'
+
+[792] link '0'
+
+[793] link '0'
+
+[802] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[803] StaticText '4 days ago'</pre><div>
+
+[481]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[481]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '481', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To create a new public project on GitLab, I need to click on the "Create new..." link. This will expand a dropdown menu with different options for creating a new project. In summary, the next action I will perform is ```click [481]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [481] where [481] is [481] link 'Create new...' focused: True expanded: False</pre></div></div>
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[282] link 'Skip to content'
+
+[398] link 'Dashboard'
+
+[475] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1799] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[481] link 'Create new...' focused: True expanded: True
+
+[1920] link 'New project/repository'
+
+[1923] link 'New group'
+
+[1924] link 'New snippet'
+
+[483] link 'Issues'
+
+[1347] generic '13 assigned issues'
+
+[484] link 'Merge requests'
+
+[1349] generic '8 merge requests'
+
+[486] link 'To-Do List'
+
+[1365] generic 'Todos count'
+
+[487] link 'Help'
+
+[489] link 'Byte Blaze'
+
+[1399] img 'Byte Blaze'
+
+[17] main ''
+
+[383] heading 'Projects'
+
+[386] link 'New project'
+
+[491] link 'Yours 19'
+
+[492] link 'Starred 3'
+
+[493] link 'Explore'
+
+[494] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[450] button 'Name'
+
+[538] link 'All'
+
+[539] link 'Personal'
+
+[540] link 'A'
+
+[543] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[546] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[544] generic 'Public - The project can be accessed without any authentication.'
+
+[552] StaticText 'Owner'
+
+[1455] generic 'lipstick'
+
+[1830] StaticText '💄'
+
+[1456] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[564] link '1'
+
+[565] link '0'
+
+[566] link '0'
+
+[567] link '1'
+
+[576] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[577] StaticText '5 months ago'
+
+[578] link 'A'
+
+[581] heading 'Byte Blaze / a11y-webring.club'
+
+[584] link 'Byte Blaze / a11y-webring.club'
+
+[582] generic 'Public - The project can be accessed without any authentication.'
+
+[590] StaticText 'Owner'
+
+[1474] generic 'globe with meridians'
+
+[1831] StaticText '🌐'
+
+[1475] StaticText ' A webring for digital accessibility practitioners.'
+
+[602] link '2'
+
+[603] link '0'
+
+[604] link '1'
+
+[605] link '4'
+
+[614] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[615] StaticText '5 months ago'
+
+[616] link 'A'
+
+[619] heading 'The A11Y Project / a11yproject.com'
+
+[622] link 'The A11Y Project / a11yproject.com'
+
+[620] generic 'Public - The project can be accessed without any authentication.'
+
+[628] StaticText 'Maintainer'
+
+[1493] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[640] link '21'
+
+[641] link '0'
+
+[642] link '10'
+
+[643] link '40'
+
+[652] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[653] StaticText '5 months ago'
+
+[654] link 'A'
+
+[657] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[660] link 'Byte Blaze / accessible-html-content-patterns'
+
+[658] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[666] StaticText 'Owner'
+
+[1511] generic 'wheelchair symbol'
+
+[1832] StaticText '♿'
+
+[1512] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[678] link '1'
+
+[679] link '0'
+
+[680] link '0'
+
+[681] link '0'
+
+[690] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[691] StaticText '5 months ago'
+
+[692] link ''
+
+[695] heading 'Byte Blaze / cloud-to-butt'
+
+[698] link 'Byte Blaze / cloud-to-butt'
+
+[696] generic 'Public - The project can be accessed without any authentication.'
+
+[704] StaticText 'Owner'
+
+[716] link '0'
+
+[717] link '0'
+
+[718] link '0'
+
+[719] link '0'
+
+[728] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[729] StaticText '5 months ago'
+
+[730] link 'D'
+
+[733] heading 'Primer / design'
+
+[736] link 'Primer / design'
+
+[734] generic 'Public - The project can be accessed without any authentication.'
+
+[742] StaticText 'Developer'
+
+[1547] StaticText 'Primer Design Guidelines'
+
+[754] link '21'
+
+[755] link '0'
+
+[756] link '16'
+
+[757] link '21'
+
+[766] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[767] StaticText '5 months ago'
+
+[768] link 'D'
+
+[770] heading 'Byte Blaze / Do it myself'
+
+[773] link 'Byte Blaze / Do it myself'
+
+[771] generic 'Public - The project can be accessed without any authentication.'
+
+[779] StaticText 'Owner'
+
+[790] link '0'
+
+[791] link '0'
+
+[792] link '0'
+
+[793] link '0'
+
+[802] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[803] StaticText '4 days ago'</pre><div>
+
+[481] where [481] is link 'Create new...' focused: True expanded: False</div>
+
+[481]. In summary, the next action I will perform is `click [481]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page has a link to create a new project, which is the first step in creating a new project. I will click on the link with the ID [481]. In summary, the next action I will perform is `click [481]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[282] link 'Skip to content'
+
+[398] link 'Dashboard'
+
+[475] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1799] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[481] link 'Create new...' focused: True expanded: True
+
+[1920] link 'New project/repository'
+
+[1923] link 'New group'
+
+[1924] link 'New snippet'
+
+[483] link 'Issues'
+
+[1347] generic '13 assigned issues'
+
+[484] link 'Merge requests'
+
+[1349] generic '8 merge requests'
+
+[486] link 'To-Do List'
+
+[1365] generic 'Todos count'
+
+[487] link 'Help'
+
+[489] link 'Byte Blaze'
+
+[1399] img 'Byte Blaze'
+
+[17] main ''
+
+[383] heading 'Projects'
+
+[386] link 'New project'
+
+[491] link 'Yours 19'
+
+[492] link 'Starred 3'
+
+[493] link 'Explore'
+
+[494] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[450] button 'Name'
+
+[538] link 'All'
+
+[539] link 'Personal'
+
+[540] link 'A'
+
+[543] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[546] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[544] generic 'Public - The project can be accessed without any authentication.'
+
+[552] StaticText 'Owner'
+
+[1455] generic 'lipstick'
+
+[1830] StaticText '💄'
+
+[1456] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[564] link '1'
+
+[565] link '0'
+
+[566] link '0'
+
+[567] link '1'
+
+[576] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[577] StaticText '5 months ago'
+
+[578] link 'A'
+
+[581] heading 'Byte Blaze / a11y-webring.club'
+
+[584] link 'Byte Blaze / a11y-webring.club'
+
+[582] generic 'Public - The project can be accessed without any authentication.'
+
+[590] StaticText 'Owner'
+
+[1474] generic 'globe with meridians'
+
+[1831] StaticText '🌐'
+
+[1475] StaticText ' A webring for digital accessibility practitioners.'
+
+[602] link '2'
+
+[603] link '0'
+
+[604] link '1'
+
+[605] link '4'
+
+[614] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[615] StaticText '5 months ago'
+
+[616] link 'A'
+
+[619] heading 'The A11Y Project / a11yproject.com'
+
+[622] link 'The A11Y Project / a11yproject.com'
+
+[620] generic 'Public - The project can be accessed without any authentication.'
+
+[628] StaticText 'Maintainer'
+
+[1493] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[640] link '21'
+
+[641] link '0'
+
+[642] link '10'
+
+[643] link '40'
+
+[652] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[653] StaticText '5 months ago'
+
+[654] link 'A'
+
+[657] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[660] link 'Byte Blaze / accessible-html-content-patterns'
+
+[658] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[666] StaticText 'Owner'
+
+[1511] generic 'wheelchair symbol'
+
+[1832] StaticText '♿'
+
+[1512] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[678] link '1'
+
+[679] link '0'
+
+[680] link '0'
+
+[681] link '0'
+
+[690] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[691] StaticText '5 months ago'
+
+[692] link ''
+
+[695] heading 'Byte Blaze / cloud-to-butt'
+
+[698] link 'Byte Blaze / cloud-to-butt'
+
+[696] generic 'Public - The project can be accessed without any authentication.'
+
+[704] StaticText 'Owner'
+
+[716] link '0'
+
+[717] link '0'
+
+[718] link '0'
+
+[719] link '0'
+
+[728] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[729] StaticText '5 months ago'
+
+[730] link 'D'
+
+[733] heading 'Primer / design'
+
+[736] link 'Primer / design'
+
+[734] generic 'Public - The project can be accessed without any authentication.'
+
+[742] StaticText 'Developer'
+
+[1547] StaticText 'Primer Design Guidelines'
+
+[754] link '21'
+
+[755] link '0'
+
+[756] link '16'
+
+[757] link '21'
+
+[766] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[767] StaticText '5 months ago'
+
+[768] link 'D'
+
+[770] heading 'Byte Blaze / Do it myself'
+
+[773] link 'Byte Blaze / Do it myself'
+
+[771] generic 'Public - The project can be accessed without any authentication.'
+
+[779] StaticText 'Owner'
+
+[790] link '0'
+
+[791] link '0'
+
+[792] link '0'
+
+[793] link '0'
+
+[802] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[803] StaticText '4 days ago'</pre><div>
+
+[481]. In summary, the next action I will perform is `click [481]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[481]. In summary, the next action I will perform is ```click [481]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '481', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page has a link to create a new project, which is the first step in creating a new project. I will click on the link with the ID [481]. In summary, the next action I will perform is ```click [481]```."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [481] where [481] is [481] link 'Create new...' focused: True expanded: True</pre></div></div>
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[282] link 'Skip to content'
+
+[398] link 'Dashboard'
+
+[475] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1799] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[481] link 'Create new...' focused: True expanded: False
+
+[483] link 'Issues'
+
+[1347] generic '13 assigned issues'
+
+[484] link 'Merge requests'
+
+[1349] generic '8 merge requests'
+
+[486] link 'To-Do List'
+
+[1365] generic 'Todos count'
+
+[487] link 'Help'
+
+[489] link 'Byte Blaze'
+
+[1399] img 'Byte Blaze'
+
+[17] main ''
+
+[383] heading 'Projects'
+
+[386] link 'New project'
+
+[491] link 'Yours 19'
+
+[492] link 'Starred 3'
+
+[493] link 'Explore'
+
+[494] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[450] button 'Name'
+
+[538] link 'All'
+
+[539] link 'Personal'
+
+[540] link 'A'
+
+[543] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[546] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[544] generic 'Public - The project can be accessed without any authentication.'
+
+[552] StaticText 'Owner'
+
+[1455] generic 'lipstick'
+
+[1830] StaticText '💄'
+
+[1456] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[564] link '1'
+
+[565] link '0'
+
+[566] link '0'
+
+[567] link '1'
+
+[576] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[577] StaticText '5 months ago'
+
+[578] link 'A'
+
+[581] heading 'Byte Blaze / a11y-webring.club'
+
+[584] link 'Byte Blaze / a11y-webring.club'
+
+[582] generic 'Public - The project can be accessed without any authentication.'
+
+[590] StaticText 'Owner'
+
+[1474] generic 'globe with meridians'
+
+[1831] StaticText '🌐'
+
+[1475] StaticText ' A webring for digital accessibility practitioners.'
+
+[602] link '2'
+
+[603] link '0'
+
+[604] link '1'
+
+[605] link '4'
+
+[614] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[615] StaticText '5 months ago'
+
+[616] link 'A'
+
+[619] heading 'The A11Y Project / a11yproject.com'
+
+[622] link 'The A11Y Project / a11yproject.com'
+
+[620] generic 'Public - The project can be accessed without any authentication.'
+
+[628] StaticText 'Maintainer'
+
+[1493] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[640] link '21'
+
+[641] link '0'
+
+[642] link '10'
+
+[643] link '40'
+
+[652] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[653] StaticText '5 months ago'
+
+[654] link 'A'
+
+[657] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[660] link 'Byte Blaze / accessible-html-content-patterns'
+
+[658] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[666] StaticText 'Owner'
+
+[1511] generic 'wheelchair symbol'
+
+[1832] StaticText '♿'
+
+[1512] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[678] link '1'
+
+[679] link '0'
+
+[680] link '0'
+
+[681] link '0'
+
+[690] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[691] StaticText '5 months ago'
+
+[692] link ''
+
+[695] heading 'Byte Blaze / cloud-to-butt'
+
+[698] link 'Byte Blaze / cloud-to-butt'
+
+[696] generic 'Public - The project can be accessed without any authentication.'
+
+[704] StaticText 'Owner'
+
+[716] link '0'
+
+[717] link '0'
+
+[718] link '0'
+
+[719] link '0'
+
+[728] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[729] StaticText '5 months ago'
+
+[730] link 'D'
+
+[733] heading 'Primer / design'
+
+[736] link 'Primer / design'
+
+[734] generic 'Public - The project can be accessed without any authentication.'
+
+[742] StaticText 'Developer'
+
+[1547] StaticText 'Primer Design Guidelines'
+
+[754] link '21'
+
+[755] link '0'
+
+[756] link '16'
+
+[757] link '21'
+
+[766] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[767] StaticText '5 months ago'
+
+[768] link 'D'
+
+[770] heading 'Byte Blaze / Do it myself'
+
+[773] link 'Byte Blaze / Do it myself'
+
+[771] generic 'Public - The project can be accessed without any authentication.'
+
+[779] StaticText 'Owner'
+
+[790] link '0'
+
+[791] link '0'
+
+[792] link '0'
+
+[793] link '0'
+
+[802] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[803] StaticText '4 days ago'</pre><div>
+
+[481] where [481] is link 'Create new...' focused: True expanded: True</div>
+
+[21] [awesome-llms]```"</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [80, 102, 84, 98, 94, 92, 84, 28, 91, 91, 92, 98, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '21', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to create a new public project "awesome-llms" and add primer, convexegg, and abishek as members. We are currently on the GitLab website, and we have clicked on the "Create new..." link.\n\nTo create a new project, we need to fill out the necessary information and submit the form. Let\'s start by filling out the project name. I will issue the following action: \n\n"In summary, the next action I will perform is ```type [21] [awesome-llms]```"'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [21] [awesome-llms
+
+[21] is [21] searchbox 'Filter by name'</pre></div></div>
+
+[1943] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[1994] link 'Skip to content'
+
+[2117] link 'Dashboard'
+
+[2175] button '' hasPopup: menu expanded: False
+
+[1955] textbox 'Search GitLab' required: False
+
+[2445] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2181] link 'Create new...'
+
+[2183] link 'Issues'
+
+[2336] generic '13 assigned issues'
+
+[2184] link 'Merge requests'
+
+[2338] generic '8 merge requests'
+
+[2186] link 'To-Do List'
+
+[2354] generic 'Todos count'
+
+[2187] link 'Help'
+
+[2189] link 'Byte Blaze'
+
+[2388] img 'Byte Blaze'
+
+[1959] main ''
+
+[2096] heading 'Projects'
+
+[2099] link 'New project'
+
+[2191] link 'Yours 19'
+
+[2192] link 'Starred 3'
+
+[2193] link 'Explore'
+
+[2194] link 'Topics'
+
+[1963] searchbox 'Filter by name'
+
+[2195] StaticText 'awesome-llms'
+
+[2169] button 'Name'
+
+[2239] link 'All'
+
+[2240] link 'Personal'
+
+[2112] heading "This user doesn't have any personal projects"</pre><div>
+
+[21] [awesome-llms
+
+[21] is searchbox 'Filter by name'</div>
+
+[2099]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2099', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. I have typed the name "awesome-llms" in the search box. Now, I need to create a new public project with that name. To do that, I should click on the "New project" link. In summary, the next action I will perform is ```click [2099]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2099] where [2099] is [2099] link 'New project'</pre></div></div>
+
+[2483] RootWebArea 'New Project · GitLab' focused: True
+
+[2738] link 'Skip to content'
+
+[3788] link 'Dashboard'
+
+[3856] button '' hasPopup: menu expanded: False
+
+[2495] textbox 'Search GitLab' required: False
+
+[4045] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3862] link 'Create new...'
+
+[3864] link 'Issues'
+
+[3949] generic '13 assigned issues'
+
+[3865] link 'Merge requests'
+
+[3951] generic '8 merge requests'
+
+[3867] link 'To-Do List'
+
+[3967] generic 'Todos count'
+
+[3868] link 'Help'
+
+[3870] link 'Byte Blaze'
+
+[4001] img 'Byte Blaze'
+
+[2499] main ''
+
+[2839] heading 'Create new project'
+
+[2846] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[2850] heading 'Create blank project'
+
+[2854] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[2858] heading 'Create from template'
+
+[2862] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[2866] heading 'Import project'
+
+[2871] StaticText 'You can also create a project from the command line. '
+
+[2872] link 'Show command'</pre><div>
+
+[2099] where [2099] is link 'New project'</div>
+
+[3862]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. On the current page, there is a link with the text "Create new..." which allows us to create a new project. We can click on it to proceed. In summary, the next action I will perform is `click [3862]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[2483] RootWebArea 'New Project · GitLab' focused: True
+
+[2738] link 'Skip to content'
+
+[3788] link 'Dashboard'
+
+[3856] button '' hasPopup: menu expanded: False
+
+[2495] textbox 'Search GitLab' required: False
+
+[4045] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3862] link 'Create new...'
+
+[3864] link 'Issues'
+
+[3949] generic '13 assigned issues'
+
+[3865] link 'Merge requests'
+
+[3951] generic '8 merge requests'
+
+[3867] link 'To-Do List'
+
+[3967] generic 'Todos count'
+
+[3868] link 'Help'
+
+[3870] link 'Byte Blaze'
+
+[4001] img 'Byte Blaze'
+
+[2499] main ''
+
+[2839] heading 'Create new project'
+
+[2846] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[2850] heading 'Create blank project'
+
+[2854] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[2858] heading 'Create from template'
+
+[2862] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[2866] heading 'Import project'
+
+[2871] StaticText 'You can also create a project from the command line. '
+
+[2872] link 'Show command'</pre><div>
+
+[3862]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[3862]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3862', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. On the current page, there is a link with the text "Create new..." which allows us to create a new project. We can click on it to proceed. In summary, the next action I will perform is ```click [3862]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3862] where [3862] is [3862] link 'Create new...'</pre></div></div>
+
+[2483] RootWebArea 'New Project · GitLab' focused: True
+
+[2738] link 'Skip to content'
+
+[3788] link 'Dashboard'
+
+[3856] button '' hasPopup: menu expanded: False
+
+[2495] textbox 'Search GitLab' required: False
+
+[4045] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3862] link 'Create new...' focused: True expanded: True describedby: gl-tooltip1
+
+[4083] link 'New project/repository'
+
+[4090] link 'New group'
+
+[4084] link 'New snippet'
+
+[3864] link 'Issues'
+
+[3949] generic '13 assigned issues'
+
+[3865] link 'Merge requests'
+
+[3951] generic '8 merge requests'
+
+[3867] link 'To-Do List'
+
+[3967] generic 'Todos count'
+
+[3868] link 'Help'
+
+[3870] link 'Byte Blaze'
+
+[4001] img 'Byte Blaze'
+
+[2499] main ''
+
+[2839] heading 'Create new project'
+
+[2846] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[2850] heading 'Create blank project'
+
+[2854] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[2858] heading 'Create from template'
+
+[2862] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[2866] heading 'Import project'
+
+[2871] StaticText 'You can also create a project from the command line. '
+
+[2872] link 'Show command'
+
+[4094] tooltip 'Create new...'</pre><div>
+
+[3862] where [3862] is link 'Create new...'</div>
+
+[3862]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We are currently on the GitLab website, and we need to create a new public project called "awesome-llms" and add primer, convexegg, and abishek as members. \n\nTo create a new project, we need to click on the "Create new..." link. \n\nIn summary, the next action I will perform is `click [3862]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[2483] RootWebArea 'New Project · GitLab' focused: True
+
+[2738] link 'Skip to content'
+
+[3788] link 'Dashboard'
+
+[3856] button '' hasPopup: menu expanded: False
+
+[2495] textbox 'Search GitLab' required: False
+
+[4045] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3862] link 'Create new...' focused: True expanded: True describedby: gl-tooltip1
+
+[4083] link 'New project/repository'
+
+[4090] link 'New group'
+
+[4084] link 'New snippet'
+
+[3864] link 'Issues'
+
+[3949] generic '13 assigned issues'
+
+[3865] link 'Merge requests'
+
+[3951] generic '8 merge requests'
+
+[3867] link 'To-Do List'
+
+[3967] generic 'Todos count'
+
+[3868] link 'Help'
+
+[3870] link 'Byte Blaze'
+
+[4001] img 'Byte Blaze'
+
+[2499] main ''
+
+[2839] heading 'Create new project'
+
+[2846] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[2850] heading 'Create blank project'
+
+[2854] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[2858] heading 'Create from template'
+
+[2862] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[2866] heading 'Import project'
+
+[2871] StaticText 'You can also create a project from the command line. '
+
+[2872] link 'Show command'
+
+[4094] tooltip 'Create new...'</pre><div>
+
+[3862]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[3862]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3862', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We are currently on the GitLab website, and we need to create a new public project called "awesome-llms" and add primer, convexegg, and abishek as members. To create a new project, we need to click on the "Create new..." link. In summary, the next action I will perform is ```click [3862]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3862] where [3862] is [3862] link 'Create new...' focused: True expanded: True describedby: gl-tooltip1</pre></div></div>
+
+[2483] RootWebArea 'New Project · GitLab' focused: True
+
+[2738] link 'Skip to content'
+
+[3788] link 'Dashboard'
+
+[3856] button '' hasPopup: menu expanded: False
+
+[2495] textbox 'Search GitLab' required: False
+
+[4045] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3862] link 'Create new...' focused: True expanded: False
+
+[3864] link 'Issues'
+
+[3949] generic '13 assigned issues'
+
+[3865] link 'Merge requests'
+
+[3951] generic '8 merge requests'
+
+[3867] link 'To-Do List'
+
+[3967] generic 'Todos count'
+
+[3868] link 'Help'
+
+[3870] link 'Byte Blaze'
+
+[4001] img 'Byte Blaze'
+
+[2499] main ''
+
+[2839] heading 'Create new project'
+
+[2846] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[2850] heading 'Create blank project'
+
+[2854] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[2858] heading 'Create from template'
+
+[2862] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[2866] heading 'Import project'
+
+[2871] StaticText 'You can also create a project from the command line. '
+
+[2872] link 'Show command'</pre><div>
+
+[3862] where [3862] is link 'Create new...' focused: True expanded: True describedby: gl-tooltip1</div>
+
+[2854]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2854', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the "New Project" page on GitLab. To create a new public project called "awesome-llms", I need to click on the "Create blank project" link. After that, I will be able to enter the project details, including the project name. In summary, the next action I will perform is ```click [2854]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2854] where [2854] is [2854] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'</pre></div></div>
+
+[2483] RootWebArea 'New Project · GitLab' focused: True
+
+[2738] link 'Skip to content'
+
+[3788] link 'Dashboard'
+
+[3856] button '' hasPopup: menu expanded: False
+
+[2495] textbox 'Search GitLab' required: False
+
+[4045] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3862] link 'Create new...' expanded: False
+
+[3864] link 'Issues'
+
+[3949] generic '13 assigned issues'
+
+[3865] link 'Merge requests'
+
+[3951] generic '8 merge requests'
+
+[3867] link 'To-Do List'
+
+[3967] generic 'Todos count'
+
+[3868] link 'Help'
+
+[3870] link 'Byte Blaze'
+
+[4001] img 'Byte Blaze'
+
+[2499] main ''
+
+[4267] heading 'Create from template'
+
+[4272] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[4269] navigation 'Breadcrumb'
+
+[4287] link 'New project'
+
+[4288] link 'Create from template'
+
+[4290] StaticText 'Learn how to '
+
+[4291] link 'contribute to the built-in templates'
+
+[4429] link 'Built-in 30'
+
+[4434] StaticText 'Ruby on Rails'
+
+[4435] LineBreak '\n'
+
+[4437] StaticText 'Includes an MVC structure, Gemfile, Rakefile, along with many others, to help you get started'
+
+[4438] link 'Preview'
+
+[4123] radio 'Use template' checked: false
+
+[4445] StaticText 'Spring'
+
+[4446] LineBreak '\n'
+
+[4448] StaticText 'Includes an MVC structure, mvnw and pom.xml to help you get started'
+
+[4449] link 'Preview'
+
+[4127] radio 'Use template' checked: false
+
+[4456] StaticText 'NodeJS Express'
+
+[4457] LineBreak '\n'
+
+[4459] StaticText 'Includes an MVC structure to help you get started'
+
+[4460] link 'Preview'
+
+[4131] radio 'Use template' checked: false
+
+[4467] StaticText 'iOS (Swift)'
+
+[4468] LineBreak '\n'
+
+[4470] StaticText 'A ready-to-go template for use with iOS Swift apps'
+
+[4471] link 'Preview'
+
+[4135] radio 'Use template' checked: false
+
+[4478] StaticText '.NET Core'
+
+[4479] LineBreak '\n'
+
+[4481] StaticText 'A .NET Core console application template, customizable for any .NET Core project'
+
+[4482] link 'Preview'
+
+[4139] radio 'Use template' checked: false
+
+[4489] StaticText 'Android'
+
+[4490] LineBreak '\n'
+
+[4492] StaticText 'A ready-to-go template for use with Android apps'
+
+[4493] link 'Preview'
+
+[4143] radio 'Use template' checked: false
+
+[4500] StaticText 'Go Micro'
+
+[4501] LineBreak '\n'
+
+[4504] link 'Preview'</pre><div>
+
+[2854] where [2854] is link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'</div>
+
+[2483] RootWebArea 'New Project · GitLab' focused: True
+
+[2738] link 'Skip to content'
+
+[3788] link 'Dashboard'
+
+[3856] button '' hasPopup: menu expanded: False
+
+[2495] textbox 'Search GitLab' required: False
+
+[4045] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3862] link 'Create new...' expanded: False
+
+[3864] link 'Issues'
+
+[3949] generic '13 assigned issues'
+
+[3865] link 'Merge requests'
+
+[3951] generic '8 merge requests'
+
+[3867] link 'To-Do List'
+
+[3967] generic 'Todos count'
+
+[3868] link 'Help'
+
+[3870] link 'Byte Blaze'
+
+[4001] img 'Byte Blaze'
+
+[2499] main ''
+
+[4267] heading 'Create from template'
+
+[4272] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[4269] navigation 'Breadcrumb'
+
+[4287] link 'New project'
+
+[4288] link 'Create from template'
+
+[4290] StaticText 'Learn how to '
+
+[4291] link 'contribute to the built-in templates'
+
+[4429] link 'Built-in 30'
+
+[4434] StaticText 'Ruby on Rails'
+
+[4435] LineBreak '\n'
+
+[4437] StaticText 'Includes an MVC structure, Gemfile, Rakefile, along with many others, to help you get started'
+
+[4438] link 'Preview'
+
+[4123] radio 'Use template' checked: false
+
+[4445] StaticText 'Spring'
+
+[4446] LineBreak '\n'
+
+[4448] StaticText 'Includes an MVC structure, mvnw and pom.xml to help you get started'
+
+[4449] link 'Preview'
+
+[4127] radio 'Use template' checked: false
+
+[4456] StaticText 'NodeJS Express'
+
+[4457] LineBreak '\n'
+
+[4459] StaticText 'Includes an MVC structure to help you get started'
+
+[4460] link 'Preview'
+
+[4131] radio 'Use template' checked: false
+
+[4467] StaticText 'iOS (Swift)'
+
+[4468] LineBreak '\n'
+
+[4470] StaticText 'A ready-to-go template for use with iOS Swift apps'
+
+[4471] link 'Preview'
+
+[4135] radio 'Use template' checked: false
+
+[4478] StaticText '.NET Core'
+
+[4479] LineBreak '\n'
+
+[4481] StaticText 'A .NET Core console application template, customizable for any .NET Core project'
+
+[4482] link 'Preview'
+
+[4139] radio 'Use template' checked: false
+
+[4489] StaticText 'Android'
+
+[4490] LineBreak '\n'
+
+[4492] StaticText 'A ready-to-go template for use with Android apps'
+
+[4493] link 'Preview'
+
+[4143] radio 'Use template' checked: false
+
+[4500] StaticText 'Go Micro'
+
+[4501] LineBreak '\n'
+
+[4504] link 'Preview'</pre><div>
+
+[4796] RootWebArea 'New Project · GitLab' focused: True
+
+[5054] link 'Skip to content'
+
+[5573] link 'Dashboard'
+
+[5613] button '' hasPopup: menu expanded: False
+
+[4808] textbox 'Search GitLab' required: False
+
+[5949] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[5619] link 'Create new...'
+
+[5621] link 'Issues'
+
+[5718] generic '13 assigned issues'
+
+[5622] link 'Merge requests'
+
+[5720] generic '8 merge requests'
+
+[5624] link 'To-Do List'
+
+[5736] generic 'Todos count'
+
+[5625] link 'Help'
+
+[5627] link 'Byte Blaze'
+
+[5770] img 'Byte Blaze'
+
+[4812] main ''
+
+[5156] heading 'Create from template'
+
+[5608] StaticText 'Create a project pre-populated with the necessary files to get you started quickly.'
+
+[5158] navigation 'Breadcrumb'
+
+[5808] link 'New project'
+
+[5809] link 'Create from template'
+
+[5811] StaticText 'Learn how to '
+
+[5812] link 'contribute to the built-in templates'
+
+[5987] link 'Built-in 30'
+
+[5992] StaticText 'Ruby on Rails'
+
+[5993] LineBreak '\n'
+
+[5995] StaticText 'Includes an MVC structure, Gemfile, Rakefile, along with many others, to help you get started'
+
+[5996] link 'Preview'
+
+[4827] radio 'Use template' checked: false
+
+[6003] StaticText 'Spring'
+
+[6004] LineBreak '\n'
+
+[6006] StaticText 'Includes an MVC structure, mvnw and pom.xml to help you get started'
+
+[6007] link 'Preview'
+
+[4831] radio 'Use template' checked: false
+
+[6014] StaticText 'NodeJS Express'
+
+[6015] LineBreak '\n'
+
+[6017] StaticText 'Includes an MVC structure to help you get started'
+
+[6018] link 'Preview'
+
+[4835] radio 'Use template' checked: false
+
+[6025] StaticText 'iOS (Swift)'
+
+[6026] LineBreak '\n'
+
+[6028] StaticText 'A ready-to-go template for use with iOS Swift apps'
+
+[6029] link 'Preview'
+
+[4839] radio 'Use template' checked: false
+
+[6036] StaticText '.NET Core'
+
+[6037] LineBreak '\n'
+
+[6039] StaticText 'A .NET Core console application template, customizable for any .NET Core project'
+
+[6040] link 'Preview'
+
+[4843] radio 'Use template' checked: false
+
+[6047] StaticText 'Android'
+
+[6048] LineBreak '\n'
+
+[6050] StaticText 'A ready-to-go template for use with Android apps'
+
+[6051] link 'Preview'
+
+[4847] radio 'Use template' checked: false
+
+[6058] StaticText 'Go Micro'
+
+[6059] LineBreak '\n'
+
+[6062] link 'Preview'</pre><div>
+
+[4812]. In summary, the next action I will perform is ```type [4812] [awesome-llms]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [80, 102, 84, 98, 94, 92, 84, 28, 91, 91, 92, 98, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '4812', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page is the new project creation page on GitLab. To create a new project, we need to fill in the project name, visibility, and add members. We can start by typing the project name into the textbox with ID [4812]. In summary, the next action I will perform is ```type [4812] [awesome-llms]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [4812] [awesome-llms
+
+[4812] is [4812] main ''</pre></div></div>
+
+[6370] RootWebArea 'ome-llms · Search · GitLab' focused: True
+
+[6420] link 'Skip to content'
+
+[6532] link 'Dashboard'
+
+[6588] button '' hasPopup: menu expanded: False
+
+[6594] link 'Create new...'
+
+[6596] link 'Issues'
+
+[6751] generic '13 assigned issues'
+
+[6597] link 'Merge requests'
+
+[6753] generic '8 merge requests'
+
+[6599] link 'To-Do List'
+
+[6769] generic 'Todos count'
+
+[6600] link 'Help'
+
+[6602] link 'Byte Blaze'
+
+[6803] img 'Byte Blaze'
+
+[6376] main ''
+
+[6522] heading 'Search'
+
+[6569] StaticText 'What are you searching for?'
+
+[6381] group ''
+
+[6382] searchbox 'Search for projects, issues, etc.'
+
+[6841] StaticText 'ome-llms'
+
+[6570] button 'Clear'
+
+[6610] button 'Search'
+
+[6573] StaticText 'Group'
+
+[6574] button 'Any' hasPopup: menu expanded: False
+
+[6576] StaticText 'Project'
+
+[6577] button 'Any' hasPopup: menu expanded: False
+
+[6524] separator '' orientation: horizontal
+
+[6854] link 'Projects 0'
+
+[6855] link 'Issues 0'
+
+[6856] link 'Merge requests 0'
+
+[6857] link 'Milestones 0'
+
+[6858] link 'Users 0'
+
+[6581] heading " We couldn't find any projects matching ome-llms"</pre><div>
+
+[4812] [awesome-llms
+
+[4812] is main ''</div>
+
+[6594]``` to click on the "Create new..." link.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '6594', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to create a new public project "awesome-llms" and add primer, convexegg, abishek as members. \n\nTo achieve this, we need to navigate to the "Create new..." link, click on it, and then fill in the necessary details to create the project. \n\nI will issue the following actions:\n1. In summary, the next action I will perform is ```click [6594]``` to click on the "Create new..." link.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [6594] where [6594] is [6594] link 'Create new...'</pre></div></div>
+
+[6370] RootWebArea 'ome-llms · Search · GitLab' focused: True
+
+[6420] link 'Skip to content'
+
+[6532] link 'Dashboard'
+
+[6588] button '' hasPopup: menu expanded: False
+
+[6594] link 'Create new...' focused: True expanded: True describedby: gl-tooltip1
+
+[6914] link 'New project/repository'
+
+[6918] link 'New group'
+
+[6920] link 'New snippet'
+
+[6596] link 'Issues'
+
+[6751] generic '13 assigned issues'
+
+[6597] link 'Merge requests'
+
+[6753] generic '8 merge requests'
+
+[6599] link 'To-Do List'
+
+[6769] generic 'Todos count'
+
+[6600] link 'Help'
+
+[6602] link 'Byte Blaze'
+
+[6803] img 'Byte Blaze'
+
+[6376] main ''
+
+[6522] heading 'Search'
+
+[6569] StaticText 'What are you searching for?'
+
+[6381] group ''
+
+[6382] searchbox 'Search for projects, issues, etc.'
+
+[6841] StaticText 'ome-llms'
+
+[6570] button 'Clear'
+
+[6610] button 'Search'
+
+[6573] StaticText 'Group'
+
+[6574] button 'Any' hasPopup: menu expanded: False
+
+[6576] StaticText 'Project'
+
+[6577] button 'Any' hasPopup: menu expanded: False
+
+[6524] separator '' orientation: horizontal
+
+[6854] link 'Projects 0'
+
+[6855] link 'Issues 0'
+
+[6856] link 'Merge requests 0'
+
+[6857] link 'Milestones 0'
+
+[6858] link 'Users 0'
+
+[6581] heading " We couldn't find any projects matching ome-llms"
+
+[6923] tooltip 'Create new...'</pre><div>
+
+[6594] where [6594] is link 'Create new...'</div>
+
+[6594] that says "Create new...". I should click on this link to create a new project. I will issue the action to click on this link. In summary, the next action I will perform is ```click [6594]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '6594', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page has a link with ID [6594] that says "Create new...". I should click on this link to create a new project. I will issue the action to click on this link. In summary, the next action I will perform is ```click [6594]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [6594] where [6594] is [6594] link 'Create new...' focused: True expanded: True describedby: gl-tooltip1</pre></div></div>
+
+[6370] RootWebArea 'ome-llms · Search · GitLab' focused: True
+
+[6420] link 'Skip to content'
+
+[6532] link 'Dashboard'
+
+[6588] button '' hasPopup: menu expanded: False
+
+[6594] link 'Create new...' focused: True expanded: False
+
+[6596] link 'Issues'
+
+[6751] generic '13 assigned issues'
+
+[6597] link 'Merge requests'
+
+[6753] generic '8 merge requests'
+
+[6599] link 'To-Do List'
+
+[6769] generic 'Todos count'
+
+[6600] link 'Help'
+
+[6602] link 'Byte Blaze'
+
+[6803] img 'Byte Blaze'
+
+[6376] main ''
+
+[6522] heading 'Search'
+
+[6569] StaticText 'What are you searching for?'
+
+[6381] group ''
+
+[6382] searchbox 'Search for projects, issues, etc.'
+
+[6841] StaticText 'ome-llms'
+
+[6570] button 'Clear'
+
+[6610] button 'Search'
+
+[6573] StaticText 'Group'
+
+[6574] button 'Any' hasPopup: menu expanded: False
+
+[6576] StaticText 'Project'
+
+[6577] button 'Any' hasPopup: menu expanded: False
+
+[6524] separator '' orientation: horizontal
+
+[6854] link 'Projects 0'
+
+[6855] link 'Issues 0'
+
+[6856] link 'Merge requests 0'
+
+[6857] link 'Milestones 0'
+
+[6858] link 'Users 0'
+
+[6581] heading " We couldn't find any projects matching ome-llms"</pre><div>
+
+[6594] where [6594] is link 'Create new...' focused: True expanded: True describedby: gl-tooltip1</div>
+
+[6939] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[7220] link 'Skip to content'
+
+[7336] link 'Dashboard'
+
+[7413] button '' hasPopup: menu expanded: False
+
+[6951] textbox 'Search GitLab' required: False
+
+[8737] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[7419] link 'Create new...'
+
+[7421] link 'Issues'
+
+[8285] generic '13 assigned issues'
+
+[7422] link 'Merge requests'
+
+[8287] generic '8 merge requests'
+
+[7424] link 'To-Do List'
+
+[8303] generic 'Todos count'
+
+[8758] StaticText '5'
+
+[7425] link 'Help'
+
+[7427] link 'Byte Blaze'
+
+[8337] img 'Byte Blaze'
+
+[6955] main ''
+
+[7321] heading 'Projects'
+
+[7324] link 'New project'
+
+[7429] link 'Yours 19'
+
+[7430] link 'Starred 3'
+
+[7431] link 'Explore'
+
+[7432] link 'Topics'
+
+[6959] searchbox 'Filter by name'
+
+[7388] button 'Name'
+
+[7476] link 'All'
+
+[7477] link 'Personal'
+
+[7478] link 'A'
+
+[7481] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[7484] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[7482] generic 'Public - The project can be accessed without any authentication.'
+
+[7490] StaticText 'Owner'
+
+[8393] generic 'lipstick'
+
+[8768] StaticText '💄'
+
+[8394] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[7502] link '1'
+
+[7503] link '0'
+
+[7504] link '0'
+
+[7505] link '1'
+
+[7514] StaticText 'Updated '
+
+[6973] time 'Mar 27, 2023 7:22pm EDT'
+
+[7515] StaticText '5 months ago'
+
+[7516] link 'A'
+
+[7519] heading 'Byte Blaze / a11y-webring.club'
+
+[7522] link 'Byte Blaze / a11y-webring.club'
+
+[7520] generic 'Public - The project can be accessed without any authentication.'
+
+[7528] StaticText 'Owner'
+
+[8412] generic 'globe with meridians'
+
+[8769] StaticText '🌐'
+
+[8413] StaticText ' A webring for digital accessibility practitioners.'
+
+[7540] link '2'
+
+[7541] link '0'
+
+[7542] link '1'
+
+[7543] link '4'
+
+[7552] StaticText 'Updated '
+
+[6985] time 'Mar 27, 2023 7:22pm EDT'
+
+[7553] StaticText '5 months ago'
+
+[7554] link 'A'
+
+[7557] heading 'The A11Y Project / a11yproject.com'
+
+[7560] link 'The A11Y Project / a11yproject.com'
+
+[7558] generic 'Public - The project can be accessed without any authentication.'
+
+[7566] StaticText 'Maintainer'
+
+[8431] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[7578] link '21'
+
+[7579] link '0'
+
+[7580] link '10'
+
+[7581] link '40'
+
+[7590] StaticText 'Updated '
+
+[6997] time 'Mar 27, 2023 4:15pm EDT'
+
+[7591] StaticText '5 months ago'
+
+[7592] link 'A'
+
+[7595] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[7598] link 'Byte Blaze / accessible-html-content-patterns'
+
+[7596] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[7604] StaticText 'Owner'
+
+[8449] generic 'wheelchair symbol'
+
+[8770] StaticText '♿'
+
+[8450] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[7616] link '1'
+
+[7617] link '0'
+
+[7618] link '0'
+
+[7619] link '0'
+
+[7628] StaticText 'Updated '
+
+[7009] time 'Mar 27, 2023 7:22pm EDT'
+
+[7629] StaticText '5 months ago'
+
+[7630] link ''
+
+[7633] heading 'Byte Blaze / cloud-to-butt'
+
+[7636] link 'Byte Blaze / cloud-to-butt'
+
+[7634] generic 'Public - The project can be accessed without any authentication.'
+
+[7642] StaticText 'Owner'
+
+[7654] link '0'
+
+[7655] link '0'
+
+[7656] link '0'
+
+[7657] link '0'
+
+[7666] StaticText 'Updated '
+
+[7021] time 'Mar 27, 2023 7:22pm EDT'
+
+[7667] StaticText '5 months ago'
+
+[7668] link 'D'
+
+[7671] heading 'Primer / design'
+
+[7674] link 'Primer / design'
+
+[7672] generic 'Public - The project can be accessed without any authentication.'
+
+[7680] StaticText 'Developer'
+
+[8485] StaticText 'Primer Design Guidelines'
+
+[7692] link '21'
+
+[7693] link '0'
+
+[7694] link '16'
+
+[7695] link '21'
+
+[7704] StaticText 'Updated '
+
+[7033] time 'Mar 27, 2023 5:04pm EDT'
+
+[7705] StaticText '5 months ago'
+
+[7706] link 'D'
+
+[7708] heading 'Byte Blaze / Do it myself'
+
+[7711] link 'Byte Blaze / Do it myself'
+
+[7709] generic 'Public - The project can be accessed without any authentication.'
+
+[7717] StaticText 'Owner'
+
+[7728] link '0'
+
+[7729] link '0'
+
+[7730] link '0'
+
+[7731] link '0'
+
+[7740] StaticText 'Updated '
+
+[7045] time 'Sep 7, 2023 12:59pm EDT'
+
+[7741] StaticText '4 days ago'</pre><div>
+
+[1] RootWebArea '' focused: True</pre><div>
+
+[4] RootWebArea 'The DevSecOps Platform | GitLab' focused: True
+
+[277] StaticText 'GitLab named a Leader in the Gartner® Magic Quadrant™ for DevOps Platforms'
+
+[276] link 'Read the report'
+
+[280] menu '' orientation: vertical
+
+[799] link 'Home'
+
+[801] img 'GitLab home page'
+
+[1166] link 'Why GitLab'
+
+[1019] link 'Platform'
+
+[1023] button 'Solutions'
+
+[1029] link 'Pricing'
+
+[1035] button 'Resources'
+
+[1046] button 'Company'
+
+[1052] button 'Contact us'
+
+[811] button 'Search'
+
+[812] link 'Get free trial'
+
+[816] link 'Sign in'
+
+[282] main ''
+
+[818] link 'Meet GitLab Duo: AI-powered workflows →'
+
+[819] heading 'Software. Faster.'
+
+[820] heading 'GitLab is the most comprehensive AI-powered DevSecOps Platform.'
+
+[826] LineBreak '\n'
+
+[828] link 'Get free trial'
+
+[829] button 'What is GitLab?'
+
+[830] img 'Brand image of GitLab boards'
+
+[831] img 'Brand image of GitLab product'
+
+[832] img 'Brand image of GitLab roadmap'
+
+[16] Iframe 'Qualified Messenger'</pre><div>
+
+[4] RootWebArea 'The DevSecOps Platform | GitLab' focused: True
+
+[277] StaticText 'GitLab named a Leader in the Gartner® Magic Quadrant™ for DevOps Platforms'
+
+[276] link 'Read the report'
+
+[280] menu '' orientation: vertical
+
+[799] link 'Home'
+
+[801] img 'GitLab home page'
+
+[1166] link 'Why GitLab'
+
+[1019] link 'Platform'
+
+[1023] button 'Solutions'
+
+[1029] link 'Pricing'
+
+[1035] button 'Resources'
+
+[1046] button 'Company'
+
+[1052] button 'Contact us'
+
+[811] button 'Search'
+
+[812] link 'Get free trial'
+
+[816] link 'Sign in'
+
+[282] main ''
+
+[818] link 'Meet GitLab Duo: AI-powered workflows →'
+
+[819] heading 'Software. Faster.'
+
+[820] heading 'GitLab is the most comprehensive AI-powered DevSecOps Platform.'
+
+[826] LineBreak '\n'
+
+[828] link 'Get free trial'
+
+[829] button 'What is GitLab?'
+
+[830] img 'Brand image of GitLab boards'
+
+[831] img 'Brand image of GitLab product'
+
+[832] img 'Brand image of GitLab roadmap'
+
+[16] Iframe 'Qualified Messenger'</pre><div>
+
+[4] RootWebArea 'The DevSecOps Platform | GitLab' focused: True
+
+[277] StaticText 'GitLab named a Leader in the Gartner® Magic Quadrant™ for DevOps Platforms'
+
+[276] link 'Read the report'
+
+[280] menu '' orientation: vertical
+
+[799] link 'Home'
+
+[801] img 'GitLab home page'
+
+[1166] link 'Why GitLab'
+
+[1019] link 'Platform'
+
+[1023] button 'Solutions'
+
+[1029] link 'Pricing'
+
+[1035] button 'Resources'
+
+[1046] button 'Company'
+
+[1052] button 'Contact us'
+
+[811] button 'Search'
+
+[812] link 'Get free trial'
+
+[816] link 'Sign in'
+
+[282] main ''
+
+[818] link 'Meet GitLab Duo: AI-powered workflows →'
+
+[819] heading 'Software. Faster.'
+
+[820] heading 'GitLab is the most comprehensive AI-powered DevSecOps Platform.'
+
+[826] LineBreak '\n'
+
+[828] link 'Get free trial'
+
+[829] button 'What is GitLab?'
+
+[830] img 'Brand image of GitLab boards'
+
+[831] img 'Brand image of GitLab product'
+
+[832] img 'Brand image of GitLab roadmap'
+
+[16] Iframe 'Qualified Messenger'</pre><div>
+

@@ -1,0 +1,2094 @@
+[0].outerText', 'required_contents': 'redesign'}, {'url': 'last', 'locator': 'document.querySelectorAll(".detail-page-description > a.gl-font-monospace")[1].outerText', 'required_contents': 'markdown-figure-block'}, {'url': 'last', 'locator': "document.querySelector('.block.reviewer').outerText", 'required_contents': 'byteblaze'}], 'url_note': 'GOLD in PRED'}
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[270] link 'Skip to content'
+
+[386] link 'Dashboard'
+
+[462] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1733] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[468] link 'Create new...'
+
+[470] link 'Issues'
+
+[1298] generic '13 assigned issues'
+
+[471] link 'Merge requests'
+
+[1300] generic '8 merge requests'
+
+[473] link 'To-Do List'
+
+[1316] generic 'Todos count'
+
+[1754] StaticText '5'
+
+[474] link 'Help'
+
+[476] link 'Byte Blaze'
+
+[1350] img 'Byte Blaze'
+
+[17] main ''
+
+[371] heading 'Projects'
+
+[374] link 'New project'
+
+[478] link 'Yours 18'
+
+[479] link 'Starred 3'
+
+[480] link 'Explore'
+
+[481] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[438] button 'Name'
+
+[525] link 'All'
+
+[526] link 'Personal'
+
+[527] link 'A'
+
+[530] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[533] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[531] generic 'Public - The project can be accessed without any authentication.'
+
+[539] StaticText 'Owner'
+
+[1406] generic 'lipstick'
+
+[1764] StaticText '💄'
+
+[1407] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[551] link '1'
+
+[552] link '0'
+
+[553] link '0'
+
+[554] link '1'
+
+[563] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[564] StaticText '5 months ago'
+
+[565] link 'A'
+
+[568] heading 'Byte Blaze / a11y-webring.club'
+
+[571] link 'Byte Blaze / a11y-webring.club'
+
+[569] generic 'Public - The project can be accessed without any authentication.'
+
+[577] StaticText 'Owner'
+
+[1425] generic 'globe with meridians'
+
+[1765] StaticText '🌐'
+
+[1426] StaticText ' A webring for digital accessibility practitioners.'
+
+[589] link '2'
+
+[590] link '0'
+
+[591] link '1'
+
+[592] link '4'
+
+[601] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[602] StaticText '5 months ago'
+
+[603] link 'A'
+
+[606] heading 'The A11Y Project / a11yproject.com'
+
+[609] link 'The A11Y Project / a11yproject.com'
+
+[607] generic 'Public - The project can be accessed without any authentication.'
+
+[615] StaticText 'Maintainer'
+
+[1444] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[627] link '21'
+
+[628] link '0'
+
+[629] link '10'
+
+[630] link '40'
+
+[639] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[640] StaticText '5 months ago'
+
+[641] link 'A'
+
+[644] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[647] link 'Byte Blaze / accessible-html-content-patterns'
+
+[645] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[653] StaticText 'Owner'
+
+[1462] generic 'wheelchair symbol'
+
+[1766] StaticText '♿'
+
+[1463] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[665] link '1'
+
+[666] link '0'
+
+[667] link '0'
+
+[668] link '0'
+
+[677] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[678] StaticText '5 months ago'
+
+[679] link ''
+
+[682] heading 'Byte Blaze / cloud-to-butt'
+
+[685] link 'Byte Blaze / cloud-to-butt'
+
+[683] generic 'Public - The project can be accessed without any authentication.'
+
+[691] StaticText 'Owner'
+
+[703] link '0'
+
+[704] link '0'
+
+[705] link '0'
+
+[706] link '0'
+
+[715] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[716] StaticText '5 months ago'
+
+[717] link 'D'
+
+[720] heading 'Primer / design'
+
+[723] link 'Primer / design'
+
+[721] generic 'Public - The project can be accessed without any authentication.'
+
+[729] StaticText 'Developer'
+
+[1498] StaticText 'Primer Design Guidelines'
+
+[741] link '21'
+
+[742] link '0'
+
+[743] link '16'
+
+[744] link '21'
+
+[753] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[754] StaticText '5 months ago'
+
+[755] link 'D'
+
+[757] heading 'Byte Blaze / Do it myself'
+
+[760] link 'Byte Blaze / Do it myself'
+
+[758] generic 'Public - The project can be accessed without any authentication.'
+
+[766] StaticText 'Owner'
+
+[777] link '0'
+
+[778] link '0'
+
+[779] link '0'
+
+[780] link '0'
+
+[789] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[790] StaticText '2 days ago'</pre><div>
+
+[609]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '609', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To submit a merge request, I need to navigate to the repository where the source branch is located. In this case, the source branch is "a11yproject.com/redesign" and the target branch is "markdown-figure-block". The repository is "The A11Y Project / a11yproject.com". I will click on the link for this repository. In summary, the next action I will perform is ```click [609]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [609] where [609] is [609] link 'The A11Y Project / a11yproject.com'</pre></div></div>
+
+[1778] RootWebArea 'The A11Y Project / a11yproject.com · GitLab' focused: True
+
+[1930] link 'Skip to content'
+
+[2115] link 'Dashboard'
+
+[2280] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3425] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2286] link 'Create new...'
+
+[2288] link 'Issues'
+
+[2744] generic '13 assigned issues'
+
+[2289] link 'Merge requests'
+
+[2746] generic '8 merge requests'
+
+[2291] link 'To-Do List'
+
+[2762] generic 'Todos count'
+
+[3446] StaticText '5'
+
+[2292] link 'Help'
+
+[2294] link 'Byte Blaze'
+
+[2796] img 'Byte Blaze'
+
+[1931] complementary 'Project navigation'
+
+[2148] listitem 'a11yproject.com'
+
+[2296] link 'a11yproject.com'
+
+[2837] StaticText 'A'
+
+[2297] link 'Project information'
+
+[2299] link 'Repository'
+
+[2301] link 'Issues'
+
+[2902] StaticText '40'
+
+[2303] link 'Merge requests'
+
+[2931] StaticText '10'
+
+[2305] link 'CI/CD'
+
+[2307] link 'Security & Compliance'
+
+[2309] link 'Deployments'
+
+[2311] link 'Packages and registries'
+
+[2313] link 'Infrastructure'
+
+[2315] link 'Monitor'
+
+[2317] link 'Analytics'
+
+[2319] link 'Wiki'
+
+[2321] link 'Snippets'
+
+[2323] link 'Settings'
+
+[2067] button 'Collapse sidebar'
+
+[1935] alert '' live: assertive atomic: True relevant: additions text
+
+[1938] button 'Dismiss'
+
+[1939] alert '' live: assertive atomic: True relevant: additions text
+
+[2182] link 'Add SSH key'
+
+[2183] button "Don't show again"
+
+[1936] navigation 'Breadcrumbs'
+
+[2340] link 'The A11Y Project'
+
+[2342] link 'a11yproject.com'
+
+[1794] main ''
+
+[2084] heading 'a11yproject.com Public - The project can be accessed without any authentication.'
+
+[2087] generic 'Public - The project can be accessed without any authentication.'
+
+[2090] StaticText 'Project ID: 174 '
+
+[2091] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2093] link 'Leave project'
+
+[2201] button '' hasPopup: menu expanded: False
+
+[2096] button 'Unstar'
+
+[2097] link '21'
+
+[2206] link 'Fork'
+
+[2099] link '0'
+
+[2438] link '2,320 Commits'
+
+[2439] link '15 Branches'
+
+[2440] link '5 Tags'
+
+[2441] link '85.5 MB Project Storage'
+
+[2442] link '5 Releases'
+
+[2105] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[2107] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">51.8%</span>'
+
+[2108] generic '<span class="repository-language-bar-tooltip-language">SCSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">40.3%</span>'
+
+[2109] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.9%</span>'
+
+[2220] img 'user avatar'
+
+[2224] link 'Update...'
+
+[2225] button 'Toggle commit description'
+
+[2230] StaticText 'Eric Bailey authored '
+
+[2231] time 'Mar 13, 2023 9:04pm EDT'
+
+[2446] StaticText '5 months ago'
+
+[2235] button 'Unverified'
+
+[2234] group ''
+
+[2449] StaticText 'ed37a2f2'
+
+[2237] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3184] button 'main' hasPopup: menu expanded: False
+
+[1834] navigation 'Files breadcrumb'
+
+[3809] link 'a11yproject.com'
+
+[4130] button 'Add to tree' hasPopup: menu expanded: False
+
+[2454] link 'Find file'
+
+[2459] link 'Web IDE'
+
+[2460] button 'Download'
+
+[3191] StaticText 'Select Archive Format'
+
+[2462] link 'Clone'
+
+[2485] link 'README'
+
+[2486] link 'Add LICENSE'
+
+[2487] link 'Add CHANGELOG'
+
+[2488] link 'Add CONTRIBUTING'
+
+[2489] link 'Enable Auto DevOps'
+
+[2490] link 'Add Kubernetes cluster'
+
+[2491] link 'Set up CI/CD'
+
+[2492] link 'Configure Integrations'
+
+[1852] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3261] row ''
+
+[3262] columnheader 'Name' required: False
+
+[3263] columnheader 'Last commit' required: False
+
+[3264] columnheader 'Last update' required: False
+
+[3265] row ''
+
+[3288] gridcell '.github' required: False
+
+[3847] link '.github'
+
+[3289] gridcell 'Update issue templates' required: False
+
+[3853] link 'Update issue templates'
+
+[3290] gridcell '1 year ago' required: False
+
+[3856] time 'Oct 12, 2021 2:46pm EDT'
+
+[3266] row ''
+
+[3291] gridcell '.tours' required: False
+
+[3858] link '.tours'
+
+[3292] gridcell 'Add Jammies announcement (#1354)' required: False
+
+[3864] link 'Add Jammies announcement (#1354)'
+
+[3293] gridcell '1 year ago' required: False
+
+[3867] time 'Oct 6, 2021 9:21pm EDT'</pre><div>
+
+[609] where [609] is link 'The A11Y Project / a11yproject.com'</div>
+
+[2289]``` to go to the Merge requests page.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2289', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. I need to submit a merge request on GitLab. I can do this by clicking on the "Merge requests" link. From there, I can create a new merge request by clicking on the "Create new..." link. I will then need to specify the source and target branches, assign myself as the reviewer, and submit the merge request. In summary, the next action I will perform is ```click [2289]``` to go to the Merge requests page.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2289] where [2289] is [2289] link 'Merge requests'</pre></div></div>
+
+[1778] RootWebArea 'The A11Y Project / a11yproject.com · GitLab' focused: True
+
+[1930] link 'Skip to content'
+
+[2115] link 'Dashboard'
+
+[2280] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3425] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2286] link 'Create new...'
+
+[2288] link 'Issues'
+
+[2744] generic '13 assigned issues'
+
+[2289] link 'Merge requests' focused: True expanded: True describedby: gl-tooltip4
+
+[2746] generic '8 merge requests'
+
+[4315] link 'Assigned to you 3'
+
+[4305] link 'Review requests for you 5'
+
+[2291] link 'To-Do List'
+
+[2762] generic 'Todos count'
+
+[2292] link 'Help'
+
+[2294] link 'Byte Blaze'
+
+[2796] img 'Byte Blaze'
+
+[1931] complementary 'Project navigation'
+
+[2148] listitem 'a11yproject.com'
+
+[2296] link 'a11yproject.com'
+
+[2837] StaticText 'A'
+
+[2297] link 'Project information'
+
+[2299] link 'Repository'
+
+[2301] link 'Issues'
+
+[2902] StaticText '40'
+
+[2303] link 'Merge requests'
+
+[2931] StaticText '10'
+
+[2305] link 'CI/CD'
+
+[2307] link 'Security & Compliance'
+
+[2309] link 'Deployments'
+
+[2311] link 'Packages and registries'
+
+[2313] link 'Infrastructure'
+
+[2315] link 'Monitor'
+
+[2317] link 'Analytics'
+
+[2319] link 'Wiki'
+
+[2321] link 'Snippets'
+
+[2323] link 'Settings'
+
+[2067] button 'Collapse sidebar'
+
+[1935] alert '' live: assertive atomic: True relevant: additions text
+
+[1938] button 'Dismiss'
+
+[1939] alert '' live: assertive atomic: True relevant: additions text
+
+[2182] link 'Add SSH key'
+
+[2183] button "Don't show again"
+
+[1936] navigation 'Breadcrumbs'
+
+[2340] link 'The A11Y Project'
+
+[2342] link 'a11yproject.com'
+
+[1794] main ''
+
+[2084] heading 'a11yproject.com Public - The project can be accessed without any authentication.'
+
+[2087] generic 'Public - The project can be accessed without any authentication.'
+
+[2090] StaticText 'Project ID: 174 '
+
+[2091] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2093] link 'Leave project'
+
+[2201] button '' hasPopup: menu expanded: False
+
+[2096] button 'Unstar'
+
+[2097] link '21'
+
+[2206] link 'Fork'
+
+[2099] link '0'
+
+[2438] link '2,320 Commits'
+
+[2439] link '15 Branches'
+
+[2440] link '5 Tags'
+
+[2441] link '85.5 MB Project Storage'
+
+[2442] link '5 Releases'
+
+[2105] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[2107] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">51.8%</span>'
+
+[2108] generic '<span class="repository-language-bar-tooltip-language">SCSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">40.3%</span>'
+
+[2109] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.9%</span>'
+
+[2220] img 'user avatar'
+
+[2224] link 'Update...'
+
+[2225] button 'Toggle commit description'
+
+[2230] StaticText 'Eric Bailey authored '
+
+[2231] time 'Mar 13, 2023 9:04pm EDT'
+
+[2446] StaticText '5 months ago'
+
+[2235] button 'Unverified'
+
+[2234] group ''
+
+[2449] StaticText 'ed37a2f2'
+
+[2237] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3184] button 'main' hasPopup: menu expanded: False
+
+[1834] navigation 'Files breadcrumb'
+
+[3809] link 'a11yproject.com'
+
+[4130] button 'Add to tree' hasPopup: menu expanded: False
+
+[2454] link 'Find file'
+
+[2459] link 'Web IDE'
+
+[2460] button 'Download'
+
+[3191] StaticText 'Select Archive Format'
+
+[2462] link 'Clone'
+
+[2485] link 'README'
+
+[2486] link 'Add LICENSE'
+
+[2487] link 'Add CHANGELOG'
+
+[2488] link 'Add CONTRIBUTING'
+
+[2489] link 'Enable Auto DevOps'
+
+[2490] link 'Add Kubernetes cluster'
+
+[2491] link 'Set up CI/CD'
+
+[2492] link 'Configure Integrations'
+
+[1852] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3261] row ''
+
+[3262] columnheader 'Name' required: False
+
+[3263] columnheader 'Last commit' required: False
+
+[3264] columnheader 'Last update' required: False
+
+[3265] row ''
+
+[3288] gridcell '.github' required: False
+
+[3847] link '.github'
+
+[3289] gridcell 'Update issue templates' required: False
+
+[3853] link 'Update issue templates'
+
+[3290] gridcell '1 year ago' required: False
+
+[3856] time 'Oct 12, 2021 2:46pm EDT'
+
+[3266] row ''
+
+[3291] gridcell '.tours' required: False
+
+[3858] link '.tours'
+
+[3292] gridcell 'Add Jammies announcement (#1354)' required: False
+
+[3864] link 'Add Jammies announcement (#1354)'
+
+[3293] gridcell '1 year ago' required: False
+
+[3867] time 'Oct 6, 2021 9:21pm EDT'
+
+[4318] tooltip 'Merge requests'</pre><div>
+
+[2289] where [2289] is link 'Merge requests'</div>
+
+[2289]. I will click on it to go to the merge requests page. In summary, the next action I will perform is `click [2289]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to submit a merge request for the `a11yproject.com/redesign` branch to be merged into the `markdown-figure-block` branch and assign myself as the reviewer.\n\nOn the current page, there is a link to "Merge requests" with the ID [2289]. I will click on it to go to the merge requests page. In summary, the next action I will perform is `click [2289]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1778] RootWebArea 'The A11Y Project / a11yproject.com · GitLab' focused: True
+
+[1930] link 'Skip to content'
+
+[2115] link 'Dashboard'
+
+[2280] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3425] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2286] link 'Create new...'
+
+[2288] link 'Issues'
+
+[2744] generic '13 assigned issues'
+
+[2289] link 'Merge requests' focused: True expanded: True describedby: gl-tooltip4
+
+[2746] generic '8 merge requests'
+
+[4315] link 'Assigned to you 3'
+
+[4305] link 'Review requests for you 5'
+
+[2291] link 'To-Do List'
+
+[2762] generic 'Todos count'
+
+[2292] link 'Help'
+
+[2294] link 'Byte Blaze'
+
+[2796] img 'Byte Blaze'
+
+[1931] complementary 'Project navigation'
+
+[2148] listitem 'a11yproject.com'
+
+[2296] link 'a11yproject.com'
+
+[2837] StaticText 'A'
+
+[2297] link 'Project information'
+
+[2299] link 'Repository'
+
+[2301] link 'Issues'
+
+[2902] StaticText '40'
+
+[2303] link 'Merge requests'
+
+[2931] StaticText '10'
+
+[2305] link 'CI/CD'
+
+[2307] link 'Security & Compliance'
+
+[2309] link 'Deployments'
+
+[2311] link 'Packages and registries'
+
+[2313] link 'Infrastructure'
+
+[2315] link 'Monitor'
+
+[2317] link 'Analytics'
+
+[2319] link 'Wiki'
+
+[2321] link 'Snippets'
+
+[2323] link 'Settings'
+
+[2067] button 'Collapse sidebar'
+
+[1935] alert '' live: assertive atomic: True relevant: additions text
+
+[1938] button 'Dismiss'
+
+[1939] alert '' live: assertive atomic: True relevant: additions text
+
+[2182] link 'Add SSH key'
+
+[2183] button "Don't show again"
+
+[1936] navigation 'Breadcrumbs'
+
+[2340] link 'The A11Y Project'
+
+[2342] link 'a11yproject.com'
+
+[1794] main ''
+
+[2084] heading 'a11yproject.com Public - The project can be accessed without any authentication.'
+
+[2087] generic 'Public - The project can be accessed without any authentication.'
+
+[2090] StaticText 'Project ID: 174 '
+
+[2091] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2093] link 'Leave project'
+
+[2201] button '' hasPopup: menu expanded: False
+
+[2096] button 'Unstar'
+
+[2097] link '21'
+
+[2206] link 'Fork'
+
+[2099] link '0'
+
+[2438] link '2,320 Commits'
+
+[2439] link '15 Branches'
+
+[2440] link '5 Tags'
+
+[2441] link '85.5 MB Project Storage'
+
+[2442] link '5 Releases'
+
+[2105] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[2107] generic '' describedby: gl-tooltip3
+
+[2108] generic '<span class="repository-language-bar-tooltip-language">SCSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">40.3%</span>'
+
+[2109] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.9%</span>'
+
+[2220] img 'user avatar'
+
+[2224] link 'Update...'
+
+[2225] button 'Toggle commit description'
+
+[2230] StaticText 'Eric Bailey authored '
+
+[2231] time 'Mar 13, 2023 9:04pm EDT'
+
+[2446] StaticText '5 months ago'
+
+[2235] button 'Unverified'
+
+[2234] group ''
+
+[2449] StaticText 'ed37a2f2'
+
+[2237] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3184] button 'main' hasPopup: menu expanded: False
+
+[1834] navigation 'Files breadcrumb'
+
+[3809] link 'a11yproject.com'
+
+[4130] button 'Add to tree' hasPopup: menu expanded: False
+
+[2454] link 'Find file'
+
+[2459] link 'Web IDE'
+
+[2460] button 'Download'
+
+[3191] StaticText 'Select Archive Format'
+
+[2462] link 'Clone'
+
+[2485] link 'README'
+
+[2486] link 'Add LICENSE'
+
+[2487] link 'Add CHANGELOG'
+
+[2488] link 'Add CONTRIBUTING'
+
+[2489] link 'Enable Auto DevOps'
+
+[2490] link 'Add Kubernetes cluster'
+
+[2491] link 'Set up CI/CD'
+
+[2492] link 'Configure Integrations'
+
+[1852] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3261] row ''
+
+[3262] columnheader 'Name' required: False
+
+[3263] columnheader 'Last commit' required: False
+
+[3264] columnheader 'Last update' required: False
+
+[3265] row ''
+
+[3288] gridcell '.github' required: False
+
+[3847] link '.github'
+
+[3289] gridcell 'Update issue templates' required: False
+
+[3853] link 'Update issue templates'
+
+[3290] gridcell '1 year ago' required: False
+
+[3856] time 'Oct 12, 2021 2:46pm EDT'
+
+[3266] row ''
+
+[3291] gridcell '.tours' required: False
+
+[3858] link '.tours'
+
+[3292] gridcell 'Add Jammies announcement (#1354)' required: False
+
+[3864] link 'Add Jammies announcement (#1354)'
+
+[3293] gridcell '1 year ago' required: False
+
+[3867] time 'Oct 6, 2021 9:21pm EDT'
+
+[4318] tooltip 'Merge requests'
+
+[4323] tooltip 'Nunjucks\xa051.8%'</pre><div>
+
+[2289]. I will click on it to go to the merge requests page. In summary, the next action I will perform is `click [2289]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[2289]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2289', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [2289]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2289] where [2289] is [2289] link 'Merge requests' focused: True expanded: True describedby: gl-tooltip4</pre></div></div>
+
+[1778] RootWebArea 'The A11Y Project / a11yproject.com · GitLab' focused: True
+
+[1930] link 'Skip to content'
+
+[2115] link 'Dashboard'
+
+[2280] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3425] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2286] link 'Create new...'
+
+[2288] link 'Issues'
+
+[2744] generic '13 assigned issues'
+
+[2289] link 'Merge requests' focused: True expanded: False
+
+[2746] generic '8 merge requests'
+
+[2291] link 'To-Do List'
+
+[2762] generic 'Todos count'
+
+[3446] StaticText '5'
+
+[2292] link 'Help'
+
+[2294] link 'Byte Blaze'
+
+[2796] img 'Byte Blaze'
+
+[1931] complementary 'Project navigation'
+
+[2148] listitem 'a11yproject.com'
+
+[2296] link 'a11yproject.com'
+
+[2837] StaticText 'A'
+
+[2297] link 'Project information'
+
+[2299] link 'Repository'
+
+[2301] link 'Issues'
+
+[2902] StaticText '40'
+
+[2303] link 'Merge requests'
+
+[2931] StaticText '10'
+
+[2305] link 'CI/CD'
+
+[2307] link 'Security & Compliance'
+
+[2309] link 'Deployments'
+
+[2311] link 'Packages and registries'
+
+[2313] link 'Infrastructure'
+
+[2315] link 'Monitor'
+
+[2317] link 'Analytics'
+
+[2319] link 'Wiki'
+
+[2321] link 'Snippets'
+
+[2323] link 'Settings'
+
+[2067] button 'Collapse sidebar'
+
+[1935] alert '' live: assertive atomic: True relevant: additions text
+
+[1938] button 'Dismiss'
+
+[1939] alert '' live: assertive atomic: True relevant: additions text
+
+[2182] link 'Add SSH key'
+
+[2183] button "Don't show again"
+
+[1936] navigation 'Breadcrumbs'
+
+[2340] link 'The A11Y Project'
+
+[2342] link 'a11yproject.com'
+
+[1794] main ''
+
+[2084] heading 'a11yproject.com Public - The project can be accessed without any authentication.'
+
+[2087] generic 'Public - The project can be accessed without any authentication.'
+
+[2090] StaticText 'Project ID: 174 '
+
+[2091] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2093] link 'Leave project'
+
+[2201] button '' hasPopup: menu expanded: False
+
+[2096] button 'Unstar'
+
+[2097] link '21'
+
+[2206] link 'Fork'
+
+[2099] link '0'
+
+[2438] link '2,320 Commits'
+
+[2439] link '15 Branches'
+
+[2440] link '5 Tags'
+
+[2441] link '85.5 MB Project Storage'
+
+[2442] link '5 Releases'
+
+[2105] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[2107] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">51.8%</span>'
+
+[2108] generic '<span class="repository-language-bar-tooltip-language">SCSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">40.3%</span>'
+
+[2109] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.9%</span>'
+
+[2220] img 'user avatar'
+
+[2224] link 'Update...'
+
+[2225] button 'Toggle commit description'
+
+[2230] StaticText 'Eric Bailey authored '
+
+[2231] time 'Mar 13, 2023 9:04pm EDT'
+
+[2446] StaticText '5 months ago'
+
+[2235] button 'Unverified'
+
+[2234] group ''
+
+[2449] StaticText 'ed37a2f2'
+
+[2237] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3184] button 'main' hasPopup: menu expanded: False
+
+[1834] navigation 'Files breadcrumb'
+
+[3809] link 'a11yproject.com'
+
+[4130] button 'Add to tree' hasPopup: menu expanded: False
+
+[2454] link 'Find file'
+
+[2459] link 'Web IDE'
+
+[2460] button 'Download'
+
+[3191] StaticText 'Select Archive Format'
+
+[2462] link 'Clone'
+
+[2485] link 'README'
+
+[2486] link 'Add LICENSE'
+
+[2487] link 'Add CHANGELOG'
+
+[2488] link 'Add CONTRIBUTING'
+
+[2489] link 'Enable Auto DevOps'
+
+[2490] link 'Add Kubernetes cluster'
+
+[2491] link 'Set up CI/CD'
+
+[2492] link 'Configure Integrations'
+
+[1852] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3261] row ''
+
+[3262] columnheader 'Name' required: False
+
+[3263] columnheader 'Last commit' required: False
+
+[3264] columnheader 'Last update' required: False
+
+[3265] row ''
+
+[3288] gridcell '.github' required: False
+
+[3847] link '.github'
+
+[3289] gridcell 'Update issue templates' required: False
+
+[3853] link 'Update issue templates'
+
+[3290] gridcell '1 year ago' required: False
+
+[3856] time 'Oct 12, 2021 2:46pm EDT'
+
+[3266] row ''
+
+[3291] gridcell '.tours' required: False
+
+[3858] link '.tours'
+
+[3292] gridcell 'Add Jammies announcement (#1354)' required: False
+
+[3864] link 'Add Jammies announcement (#1354)'
+
+[3293] gridcell '1 year ago' required: False
+
+[3867] time 'Oct 6, 2021 9:21pm EDT'</pre><div>
+
+[2289] where [2289] is link 'Merge requests' focused: True expanded: True describedby: gl-tooltip4</div>
+
+[2289]. Let's click on it. In summary, the next action I will perform is `click [2289]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To submit a merge request, we need to go to the "Merge requests" page. The "Merge requests" link has the ID [2289]. Let\'s click on it. In summary, the next action I will perform is `click [2289]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1778] RootWebArea 'The A11Y Project / a11yproject.com · GitLab' focused: True
+
+[1930] link 'Skip to content'
+
+[2115] link 'Dashboard'
+
+[2280] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3425] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2286] link 'Create new...'
+
+[2288] link 'Issues'
+
+[2744] generic '13 assigned issues'
+
+[2289] link 'Merge requests' focused: True expanded: False
+
+[2746] generic '8 merge requests'
+
+[2291] link 'To-Do List'
+
+[2762] generic 'Todos count'
+
+[3446] StaticText '5'
+
+[2292] link 'Help'
+
+[2294] link 'Byte Blaze'
+
+[2796] img 'Byte Blaze'
+
+[1931] complementary 'Project navigation'
+
+[2148] listitem 'a11yproject.com'
+
+[2296] link 'a11yproject.com'
+
+[2837] StaticText 'A'
+
+[2297] link 'Project information'
+
+[2299] link 'Repository'
+
+[2301] link 'Issues'
+
+[2902] StaticText '40'
+
+[2303] link 'Merge requests'
+
+[2931] StaticText '10'
+
+[2305] link 'CI/CD'
+
+[2307] link 'Security & Compliance'
+
+[2309] link 'Deployments'
+
+[2311] link 'Packages and registries'
+
+[2313] link 'Infrastructure'
+
+[2315] link 'Monitor'
+
+[2317] link 'Analytics'
+
+[2319] link 'Wiki'
+
+[2321] link 'Snippets'
+
+[2323] link 'Settings'
+
+[2067] button 'Collapse sidebar'
+
+[1935] alert '' live: assertive atomic: True relevant: additions text
+
+[1938] button 'Dismiss'
+
+[1939] alert '' live: assertive atomic: True relevant: additions text
+
+[2182] link 'Add SSH key'
+
+[2183] button "Don't show again"
+
+[1936] navigation 'Breadcrumbs'
+
+[2340] link 'The A11Y Project'
+
+[2342] link 'a11yproject.com'
+
+[1794] main ''
+
+[2084] heading 'a11yproject.com Public - The project can be accessed without any authentication.'
+
+[2087] generic 'Public - The project can be accessed without any authentication.'
+
+[2090] StaticText 'Project ID: 174 '
+
+[2091] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2093] link 'Leave project'
+
+[2201] button '' hasPopup: menu expanded: False
+
+[2096] button 'Unstar'
+
+[2097] link '21'
+
+[2206] link 'Fork'
+
+[2099] link '0'
+
+[2438] link '2,320 Commits'
+
+[2439] link '15 Branches'
+
+[2440] link '5 Tags'
+
+[2441] link '85.5 MB Project Storage'
+
+[2442] link '5 Releases'
+
+[2105] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[2107] generic '' describedby: gl-tooltip3
+
+[2108] generic '<span class="repository-language-bar-tooltip-language">SCSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">40.3%</span>'
+
+[2109] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.9%</span>'
+
+[2220] img 'user avatar'
+
+[2224] link 'Update...'
+
+[2225] button 'Toggle commit description'
+
+[2230] StaticText 'Eric Bailey authored '
+
+[2231] time 'Mar 13, 2023 9:04pm EDT'
+
+[2446] StaticText '5 months ago'
+
+[2235] button 'Unverified'
+
+[2234] group ''
+
+[2449] StaticText 'ed37a2f2'
+
+[2237] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3184] button 'main' hasPopup: menu expanded: False
+
+[1834] navigation 'Files breadcrumb'
+
+[3809] link 'a11yproject.com'
+
+[4130] button 'Add to tree' hasPopup: menu expanded: False
+
+[2454] link 'Find file'
+
+[2459] link 'Web IDE'
+
+[2460] button 'Download'
+
+[3191] StaticText 'Select Archive Format'
+
+[2462] link 'Clone'
+
+[2485] link 'README'
+
+[2486] link 'Add LICENSE'
+
+[2487] link 'Add CHANGELOG'
+
+[2488] link 'Add CONTRIBUTING'
+
+[2489] link 'Enable Auto DevOps'
+
+[2490] link 'Add Kubernetes cluster'
+
+[2491] link 'Set up CI/CD'
+
+[2492] link 'Configure Integrations'
+
+[1852] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3261] row ''
+
+[3262] columnheader 'Name' required: False
+
+[3263] columnheader 'Last commit' required: False
+
+[3264] columnheader 'Last update' required: False
+
+[3265] row ''
+
+[3288] gridcell '.github' required: False
+
+[3847] link '.github'
+
+[3289] gridcell 'Update issue templates' required: False
+
+[3853] link 'Update issue templates'
+
+[3290] gridcell '1 year ago' required: False
+
+[3856] time 'Oct 12, 2021 2:46pm EDT'
+
+[3266] row ''
+
+[3291] gridcell '.tours' required: False
+
+[3858] link '.tours'
+
+[3292] gridcell 'Add Jammies announcement (#1354)' required: False
+
+[3864] link 'Add Jammies announcement (#1354)'
+
+[3293] gridcell '1 year ago' required: False
+
+[3867] time 'Oct 6, 2021 9:21pm EDT'
+
+[4346] tooltip 'Nunjucks\xa051.8%'</pre><div>
+
+[2289]. Let's click on it. In summary, the next action I will perform is `click [2289]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[2289]. Let's click on it. In summary, the next action I will perform is ```click [2289]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2289', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To submit a merge request, we need to go to the "Merge requests" page. The "Merge requests" link has the ID [2289]. Let\'s click on it. In summary, the next action I will perform is ```click [2289]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2289] where [2289] is [2289] link 'Merge requests' focused: True expanded: False</pre></div></div>
+
+[1778] RootWebArea 'The A11Y Project / a11yproject.com · GitLab' focused: True
+
+[1930] link 'Skip to content'
+
+[2115] link 'Dashboard'
+
+[2280] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3425] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2286] link 'Create new...'
+
+[2288] link 'Issues'
+
+[2744] generic '13 assigned issues'
+
+[2289] link 'Merge requests' focused: True expanded: True describedby: gl-tooltip4
+
+[2746] generic '8 merge requests'
+
+[4368] link 'Assigned to you 3'
+
+[4357] link 'Review requests for you 5'
+
+[2291] link 'To-Do List'
+
+[2762] generic 'Todos count'
+
+[2292] link 'Help'
+
+[2294] link 'Byte Blaze'
+
+[2796] img 'Byte Blaze'
+
+[1931] complementary 'Project navigation'
+
+[2148] listitem 'a11yproject.com'
+
+[2296] link 'a11yproject.com'
+
+[2837] StaticText 'A'
+
+[2297] link 'Project information'
+
+[2299] link 'Repository'
+
+[2301] link 'Issues'
+
+[2902] StaticText '40'
+
+[2303] link 'Merge requests'
+
+[2931] StaticText '10'
+
+[2305] link 'CI/CD'
+
+[2307] link 'Security & Compliance'
+
+[2309] link 'Deployments'
+
+[2311] link 'Packages and registries'
+
+[2313] link 'Infrastructure'
+
+[2315] link 'Monitor'
+
+[2317] link 'Analytics'
+
+[2319] link 'Wiki'
+
+[2321] link 'Snippets'
+
+[2323] link 'Settings'
+
+[2067] button 'Collapse sidebar'
+
+[1935] alert '' live: assertive atomic: True relevant: additions text
+
+[1938] button 'Dismiss'
+
+[1939] alert '' live: assertive atomic: True relevant: additions text
+
+[2182] link 'Add SSH key'
+
+[2183] button "Don't show again"
+
+[1936] navigation 'Breadcrumbs'
+
+[2340] link 'The A11Y Project'
+
+[2342] link 'a11yproject.com'
+
+[1794] main ''
+
+[2084] heading 'a11yproject.com Public - The project can be accessed without any authentication.'
+
+[2087] generic 'Public - The project can be accessed without any authentication.'
+
+[2090] StaticText 'Project ID: 174 '
+
+[2091] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2093] link 'Leave project'
+
+[2201] button '' hasPopup: menu expanded: False
+
+[2096] button 'Unstar'
+
+[2097] link '21'
+
+[2206] link 'Fork'
+
+[2099] link '0'
+
+[2438] link '2,320 Commits'
+
+[2439] link '15 Branches'
+
+[2440] link '5 Tags'
+
+[2441] link '85.5 MB Project Storage'
+
+[2442] link '5 Releases'
+
+[2105] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[2107] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">51.8%</span>'
+
+[2108] generic '<span class="repository-language-bar-tooltip-language">SCSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">40.3%</span>'
+
+[2109] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.9%</span>'
+
+[2220] img 'user avatar'
+
+[2224] link 'Update...'
+
+[2225] button 'Toggle commit description'
+
+[2230] StaticText 'Eric Bailey authored '
+
+[2231] time 'Mar 13, 2023 9:04pm EDT'
+
+[2446] StaticText '5 months ago'
+
+[2235] button 'Unverified'
+
+[2234] group ''
+
+[2449] StaticText 'ed37a2f2'
+
+[2237] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3184] button 'main' hasPopup: menu expanded: False
+
+[1834] navigation 'Files breadcrumb'
+
+[3809] link 'a11yproject.com'
+
+[4130] button 'Add to tree' hasPopup: menu expanded: False
+
+[2454] link 'Find file'
+
+[2459] link 'Web IDE'
+
+[2460] button 'Download'
+
+[3191] StaticText 'Select Archive Format'
+
+[2462] link 'Clone'
+
+[2485] link 'README'
+
+[2486] link 'Add LICENSE'
+
+[2487] link 'Add CHANGELOG'
+
+[2488] link 'Add CONTRIBUTING'
+
+[2489] link 'Enable Auto DevOps'
+
+[2490] link 'Add Kubernetes cluster'
+
+[2491] link 'Set up CI/CD'
+
+[2492] link 'Configure Integrations'
+
+[1852] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3261] row ''
+
+[3262] columnheader 'Name' required: False
+
+[3263] columnheader 'Last commit' required: False
+
+[3264] columnheader 'Last update' required: False
+
+[3265] row ''
+
+[3288] gridcell '.github' required: False
+
+[3847] link '.github'
+
+[3289] gridcell 'Update issue templates' required: False
+
+[3853] link 'Update issue templates'
+
+[3290] gridcell '1 year ago' required: False
+
+[3856] time 'Oct 12, 2021 2:46pm EDT'
+
+[3266] row ''
+
+[3291] gridcell '.tours' required: False
+
+[3858] link '.tours'
+
+[3292] gridcell 'Add Jammies announcement (#1354)' required: False
+
+[3864] link 'Add Jammies announcement (#1354)'
+
+[3293] gridcell '1 year ago' required: False
+
+[3867] time 'Oct 6, 2021 9:21pm EDT'
+
+[4369] tooltip 'Merge requests'</pre><div>
+
+[2289] where [2289] is link 'Merge requests' focused: True expanded: False</div>
+
+[2289] which is the "Merge requests" link. I will click on it. In summary, the next action I will perform is ```click [2289]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2289', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. To submit a merge request, I need to navigate to the Merge requests page. The current page has a link with the ID [2289] which is the "Merge requests" link. I will click on it. In summary, the next action I will perform is ```click [2289]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2289] where [2289] is [2289] link 'Merge requests' focused: True expanded: True describedby: gl-tooltip4</pre></div></div>
+
+[1778] RootWebArea 'The A11Y Project / a11yproject.com · GitLab' focused: True
+
+[1930] link 'Skip to content'
+
+[2115] link 'Dashboard'
+
+[2280] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3425] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2286] link 'Create new...'
+
+[2288] link 'Issues'
+
+[2744] generic '13 assigned issues'
+
+[2289] link 'Merge requests' focused: True expanded: False describedby: gl-tooltip4
+
+[2746] generic '8 merge requests'
+
+[2291] link 'To-Do List'
+
+[2762] generic 'Todos count'
+
+[3446] StaticText '5'
+
+[2292] link 'Help'
+
+[2294] link 'Byte Blaze'
+
+[2796] img 'Byte Blaze'
+
+[1931] complementary 'Project navigation'
+
+[2148] listitem 'a11yproject.com'
+
+[2296] link 'a11yproject.com'
+
+[2837] StaticText 'A'
+
+[2297] link 'Project information'
+
+[2299] link 'Repository'
+
+[2301] link 'Issues'
+
+[2902] StaticText '40'
+
+[2303] link 'Merge requests'
+
+[2931] StaticText '10'
+
+[2305] link 'CI/CD'
+
+[2307] link 'Security & Compliance'
+
+[2309] link 'Deployments'
+
+[2311] link 'Packages and registries'
+
+[2313] link 'Infrastructure'
+
+[2315] link 'Monitor'
+
+[2317] link 'Analytics'
+
+[2319] link 'Wiki'
+
+[2321] link 'Snippets'
+
+[2323] link 'Settings'
+
+[2067] button 'Collapse sidebar'
+
+[1935] alert '' live: assertive atomic: True relevant: additions text
+
+[1938] button 'Dismiss'
+
+[1939] alert '' live: assertive atomic: True relevant: additions text
+
+[2182] link 'Add SSH key'
+
+[2183] button "Don't show again"
+
+[1936] navigation 'Breadcrumbs'
+
+[2340] link 'The A11Y Project'
+
+[2342] link 'a11yproject.com'
+
+[1794] main ''
+
+[2084] heading 'a11yproject.com Public - The project can be accessed without any authentication.'
+
+[2087] generic 'Public - The project can be accessed without any authentication.'
+
+[2090] StaticText 'Project ID: 174 '
+
+[2091] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2093] link 'Leave project'
+
+[2201] button '' hasPopup: menu expanded: False
+
+[2096] button 'Unstar'
+
+[2097] link '21'
+
+[2206] link 'Fork'
+
+[2099] link '0'
+
+[2438] link '2,320 Commits'
+
+[2439] link '15 Branches'
+
+[2440] link '5 Tags'
+
+[2441] link '85.5 MB Project Storage'
+
+[2442] link '5 Releases'
+
+[2105] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[2107] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">51.8%</span>'
+
+[2108] generic '<span class="repository-language-bar-tooltip-language">SCSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">40.3%</span>'
+
+[2109] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.9%</span>'
+
+[2220] img 'user avatar'
+
+[2224] link 'Update...'
+
+[2225] button 'Toggle commit description'
+
+[2230] StaticText 'Eric Bailey authored '
+
+[2231] time 'Mar 13, 2023 9:04pm EDT'
+
+[2446] StaticText '5 months ago'
+
+[2235] button 'Unverified'
+
+[2234] group ''
+
+[2449] StaticText 'ed37a2f2'
+
+[2237] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3184] button 'main' hasPopup: menu expanded: False
+
+[1834] navigation 'Files breadcrumb'
+
+[3809] link 'a11yproject.com'
+
+[4130] button 'Add to tree' hasPopup: menu expanded: False
+
+[2454] link 'Find file'
+
+[2459] link 'Web IDE'
+
+[2460] button 'Download'
+
+[3191] StaticText 'Select Archive Format'
+
+[2462] link 'Clone'
+
+[2485] link 'README'
+
+[2486] link 'Add LICENSE'
+
+[2487] link 'Add CHANGELOG'
+
+[2488] link 'Add CONTRIBUTING'
+
+[2489] link 'Enable Auto DevOps'
+
+[2490] link 'Add Kubernetes cluster'
+
+[2491] link 'Set up CI/CD'
+
+[2492] link 'Configure Integrations'
+
+[1852] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3261] row ''
+
+[3262] columnheader 'Name' required: False
+
+[3263] columnheader 'Last commit' required: False
+
+[3264] columnheader 'Last update' required: False
+
+[3265] row ''
+
+[3288] gridcell '.github' required: False
+
+[3847] link '.github'
+
+[3289] gridcell 'Update issue templates' required: False
+
+[3853] link 'Update issue templates'
+
+[3290] gridcell '1 year ago' required: False
+
+[3856] time 'Oct 12, 2021 2:46pm EDT'
+
+[3266] row ''
+
+[3291] gridcell '.tours' required: False
+
+[3858] link '.tours'
+
+[3292] gridcell 'Add Jammies announcement (#1354)' required: False
+
+[3864] link 'Add Jammies announcement (#1354)'
+
+[3293] gridcell '1 year ago' required: False
+
+[3867] time 'Oct 6, 2021 9:21pm EDT'
+
+[4374] tooltip 'Merge requests'</pre><div>
+
+[2289] where [2289] is link 'Merge requests' focused: True expanded: True describedby: gl-tooltip4</div>
+
+[2289]``` to go to the merge requests page.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2289', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to submit a merge request for the "a11yproject.com/redesign" branch to be merged into the "markdown-figure-block" branch and assign myself as the reviewer.\n\n1. Click on the "Merge requests" link to go to the merge requests page.\n2. Click on the "New merge request" button to create a new merge request.\n3. Select "a11yproject.com/redesign" as the source branch.\n4. Select "markdown-figure-block" as the target branch.\n5. Assign myself as the reviewer.\n6. Submit the merge request.\n\nIn summary, the next action I will perform is ```click [2289]``` to go to the merge requests page.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2289] where [2289] is [2289] link 'Merge requests' focused: True expanded: False describedby: gl-tooltip4</pre></div></div>
+
+[1778] RootWebArea 'The A11Y Project / a11yproject.com · GitLab' focused: True
+
+[1930] link 'Skip to content'
+
+[2115] link 'Dashboard'
+
+[2280] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3425] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2286] link 'Create new...'
+
+[2288] link 'Issues'
+
+[2744] generic '13 assigned issues'
+
+[2289] link 'Merge requests' focused: True expanded: True describedby: gl-tooltip4
+
+[2746] generic '8 merge requests'
+
+[4397] link 'Assigned to you 3'
+
+[4401] link 'Review requests for you 5'
+
+[2291] link 'To-Do List'
+
+[2762] generic 'Todos count'
+
+[2292] link 'Help'
+
+[2294] link 'Byte Blaze'
+
+[2796] img 'Byte Blaze'
+
+[1931] complementary 'Project navigation'
+
+[2148] listitem 'a11yproject.com'
+
+[2296] link 'a11yproject.com'
+
+[2837] StaticText 'A'
+
+[2297] link 'Project information'
+
+[2299] link 'Repository'
+
+[2301] link 'Issues'
+
+[2902] StaticText '40'
+
+[2303] link 'Merge requests'
+
+[2931] StaticText '10'
+
+[2305] link 'CI/CD'
+
+[2307] link 'Security & Compliance'
+
+[2309] link 'Deployments'
+
+[2311] link 'Packages and registries'
+
+[2313] link 'Infrastructure'
+
+[2315] link 'Monitor'
+
+[2317] link 'Analytics'
+
+[2319] link 'Wiki'
+
+[2321] link 'Snippets'
+
+[2323] link 'Settings'
+
+[2067] button 'Collapse sidebar'
+
+[1935] alert '' live: assertive atomic: True relevant: additions text
+
+[1938] button 'Dismiss'
+
+[1939] alert '' live: assertive atomic: True relevant: additions text
+
+[2182] link 'Add SSH key'
+
+[2183] button "Don't show again"
+
+[1936] navigation 'Breadcrumbs'
+
+[2340] link 'The A11Y Project'
+
+[2342] link 'a11yproject.com'
+
+[1794] main ''
+
+[2084] heading 'a11yproject.com Public - The project can be accessed without any authentication.'
+
+[2087] generic 'Public - The project can be accessed without any authentication.'
+
+[2090] StaticText 'Project ID: 174 '
+
+[2091] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2093] link 'Leave project'
+
+[2201] button '' hasPopup: menu expanded: False
+
+[2096] button 'Unstar'
+
+[2097] link '21'
+
+[2206] link 'Fork'
+
+[2099] link '0'
+
+[2438] link '2,320 Commits'
+
+[2439] link '15 Branches'
+
+[2440] link '5 Tags'
+
+[2441] link '85.5 MB Project Storage'
+
+[2442] link '5 Releases'
+
+[2105] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[2107] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">51.8%</span>'
+
+[2108] generic '<span class="repository-language-bar-tooltip-language">SCSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">40.3%</span>'
+
+[2109] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">7.9%</span>'
+
+[2220] img 'user avatar'
+
+[2224] link 'Update...'
+
+[2225] button 'Toggle commit description'
+
+[2230] StaticText 'Eric Bailey authored '
+
+[2231] time 'Mar 13, 2023 9:04pm EDT'
+
+[2446] StaticText '5 months ago'
+
+[2235] button 'Unverified'
+
+[2234] group ''
+
+[2449] StaticText 'ed37a2f2'
+
+[2237] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3184] button 'main' hasPopup: menu expanded: False
+
+[1834] navigation 'Files breadcrumb'
+
+[3809] link 'a11yproject.com'
+
+[4130] button 'Add to tree' hasPopup: menu expanded: False
+
+[2454] link 'Find file'
+
+[2459] link 'Web IDE'
+
+[2460] button 'Download'
+
+[3191] StaticText 'Select Archive Format'
+
+[2462] link 'Clone'
+
+[2485] link 'README'
+
+[2486] link 'Add LICENSE'
+
+[2487] link 'Add CHANGELOG'
+
+[2488] link 'Add CONTRIBUTING'
+
+[2489] link 'Enable Auto DevOps'
+
+[2490] link 'Add Kubernetes cluster'
+
+[2491] link 'Set up CI/CD'
+
+[2492] link 'Configure Integrations'
+
+[1852] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3261] row ''
+
+[3262] columnheader 'Name' required: False
+
+[3263] columnheader 'Last commit' required: False
+
+[3264] columnheader 'Last update' required: False
+
+[3265] row ''
+
+[3288] gridcell '.github' required: False
+
+[3847] link '.github'
+
+[3289] gridcell 'Update issue templates' required: False
+
+[3853] link 'Update issue templates'
+
+[3290] gridcell '1 year ago' required: False
+
+[3856] time 'Oct 12, 2021 2:46pm EDT'
+
+[3266] row ''
+
+[3291] gridcell '.tours' required: False
+
+[3858] link '.tours'
+
+[3292] gridcell 'Add Jammies announcement (#1354)' required: False
+
+[3864] link 'Add Jammies announcement (#1354)'
+
+[3293] gridcell '1 year ago' required: False
+
+[3867] time 'Oct 6, 2021 9:21pm EDT'
+
+[4407] tooltip 'Merge requests'</pre><div>
+
+[2289] where [2289] is link 'Merge requests' focused: True expanded: False describedby: gl-tooltip4</div>
+

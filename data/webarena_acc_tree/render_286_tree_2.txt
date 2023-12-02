@@ -1,0 +1,44 @@
+Tab 0 (current): Advanced Search Results
+
+[4707] RootWebArea 'Advanced Search Results' focused: True
+	[5961] link 'My Account'
+	[5959] link 'My Wish List'
+	[5963] link 'Sign Out'
+	[5966] StaticText 'Welcome to One Stop Market'
+	[5901] link 'Skip to Content'
+	[5910] link 'store logo'
+		[5969] img 'one_stop_market_logo'
+	[5970] link '\ue611 My Cart'
+	[6773] StaticText 'Search'
+	[4718] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+	[6776] link 'Advanced Search'
+	[6062] button 'Search' disabled: True
+	[5800] tablist '' multiselectable: False orientation: horizontal
+		[5802] tabpanel ''
+			[4744] menu '' orientation: vertical
+				[5495] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+				[5560] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+				[5570] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+				[5584] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+				[5621] menuitem '\ue622 Office Products' hasPopup: menu
+				[5629] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+				[5634] menuitem '\ue622 Health & Household' hasPopup: menu
+				[5640] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+				[5645] menuitem '\ue622 Electronics' hasPopup: menu
+				[5706] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+				[5721] menuitem '\ue622 Video Games' hasPopup: menu
+				[5734] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+	[5932] link 'Home '
+	[5934] link 'Catalog Advanced Search '
+	[5937] StaticText 'Results'
+	[4719] main ''
+		[5938] heading 'Catalog Advanced Search'
+		[5980] alert '' live: assertive atomic: True relevant: additions text
+			[6041] link 'Modify your search.'
+		[6043] StaticText 'Product Name:'
+		[6044] StaticText ' SSD hard drive 1TB'
+		[5989] heading 'Compare Products'
+		[5991] StaticText 'You have no items to compare.'
+		[6009] heading 'My Wish List'
+		[6013] StaticText 'You have no items in your wish list.'
+	[4730] contentinfo ''</pre><div>

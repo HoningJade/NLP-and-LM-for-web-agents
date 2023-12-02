@@ -1,0 +1,41 @@
+Tab 0 (current): gh-page · Search · GitLab
+
+[7870] RootWebArea 'gh-page · Search · GitLab' focused: True
+	[7920] link 'Skip to content'
+	[8046] link 'Dashboard'
+	[8105] button '' hasPopup: menu expanded: False
+	[8111] link 'Create new...'
+	[8113] link 'Issues'
+		[8300] generic '13 assigned issues'
+	[8114] link 'Merge requests'
+		[8302] generic '8 merge requests'
+	[8116] link 'To-Do List'
+		[8318] generic 'Todos count'
+			[8436] StaticText '5'
+	[8117] link 'Help'
+	[8119] link 'Byte Blaze'
+		[8352] img 'Byte Blaze'
+	[7876] main ''
+		[8036] heading 'Search'
+		[8083] StaticText 'What are you searching for?'
+		[7881] group ''
+			[7882] searchbox 'Search for projects, issues, etc.'
+				[8390] StaticText 'gh-page'
+			[8084] button 'Clear'
+			[8127] button 'Search'
+		[8087] StaticText 'Group'
+		[8088] button 'Any' hasPopup: menu expanded: False
+		[8090] StaticText 'Project'
+		[8091] button 'Android-IMSI-Catcher-Detector Clear' hasPopup: menu expanded: False
+			[8157] button 'Clear'
+		[8038] separator '' orientation: horizontal
+		[8405] link 'Code 0'
+		[8406] link 'Issues 0'
+		[8407] link 'Merge requests 0'
+		[8408] link 'Wiki 0'
+		[8409] link 'Commits 0'
+		[8410] link 'Comments 2'
+		[8411] link 'Milestones 0'
+		[8412] link 'Users 0'
+		[8095] heading " We couldn't find any code results matching gh-page in project CellularPrivacy / Android-IMSI-Catcher-Detector"
+			[8101] link 'CellularPrivacy / Android-IMSI-Catcher-Detector'</pre><div>

@@ -1,0 +1,1752 @@
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[270] link 'Skip to content'
+
+[386] link 'Dashboard'
+
+[462] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1733] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[468] link 'Create new...'
+
+[470] link 'Issues'
+
+[1298] generic '13 assigned issues'
+
+[471] link 'Merge requests'
+
+[1300] generic '8 merge requests'
+
+[473] link 'To-Do List'
+
+[1316] generic 'Todos count'
+
+[1754] StaticText '5'
+
+[474] link 'Help'
+
+[476] link 'Byte Blaze'
+
+[1350] img 'Byte Blaze'
+
+[17] main ''
+
+[371] heading 'Projects'
+
+[374] link 'New project'
+
+[478] link 'Yours 18'
+
+[479] link 'Starred 3'
+
+[480] link 'Explore'
+
+[481] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[438] button 'Name'
+
+[525] link 'All'
+
+[526] link 'Personal'
+
+[527] link 'A'
+
+[530] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[533] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[531] generic 'Public - The project can be accessed without any authentication.'
+
+[539] StaticText 'Owner'
+
+[1406] generic 'lipstick'
+
+[1764] StaticText '💄'
+
+[1407] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[551] link '1'
+
+[552] link '0'
+
+[553] link '0'
+
+[554] link '1'
+
+[563] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[564] StaticText '5 months ago'
+
+[565] link 'A'
+
+[568] heading 'Byte Blaze / a11y-webring.club'
+
+[571] link 'Byte Blaze / a11y-webring.club'
+
+[569] generic 'Public - The project can be accessed without any authentication.'
+
+[577] StaticText 'Owner'
+
+[1425] generic 'globe with meridians'
+
+[1765] StaticText '🌐'
+
+[1426] StaticText ' A webring for digital accessibility practitioners.'
+
+[589] link '2'
+
+[590] link '0'
+
+[591] link '1'
+
+[592] link '4'
+
+[601] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[602] StaticText '5 months ago'
+
+[603] link 'A'
+
+[606] heading 'The A11Y Project / a11yproject.com'
+
+[609] link 'The A11Y Project / a11yproject.com'
+
+[607] generic 'Public - The project can be accessed without any authentication.'
+
+[615] StaticText 'Maintainer'
+
+[1444] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[627] link '21'
+
+[628] link '0'
+
+[629] link '10'
+
+[630] link '40'
+
+[639] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[640] StaticText '5 months ago'
+
+[641] link 'A'
+
+[644] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[647] link 'Byte Blaze / accessible-html-content-patterns'
+
+[645] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[653] StaticText 'Owner'
+
+[1462] generic 'wheelchair symbol'
+
+[1766] StaticText '♿'
+
+[1463] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[665] link '1'
+
+[666] link '0'
+
+[667] link '0'
+
+[668] link '0'
+
+[677] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[678] StaticText '5 months ago'
+
+[679] link ''
+
+[682] heading 'Byte Blaze / cloud-to-butt'
+
+[685] link 'Byte Blaze / cloud-to-butt'
+
+[683] generic 'Public - The project can be accessed without any authentication.'
+
+[691] StaticText 'Owner'
+
+[703] link '0'
+
+[704] link '0'
+
+[705] link '0'
+
+[706] link '0'
+
+[715] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[716] StaticText '5 months ago'
+
+[717] link 'D'
+
+[720] heading 'Primer / design'
+
+[723] link 'Primer / design'
+
+[721] generic 'Public - The project can be accessed without any authentication.'
+
+[729] StaticText 'Developer'
+
+[1498] StaticText 'Primer Design Guidelines'
+
+[741] link '21'
+
+[742] link '0'
+
+[743] link '16'
+
+[744] link '21'
+
+[753] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[754] StaticText '5 months ago'
+
+[755] link 'D'
+
+[757] heading 'Byte Blaze / Do it myself'
+
+[760] link 'Byte Blaze / Do it myself'
+
+[758] generic 'Public - The project can be accessed without any authentication.'
+
+[766] StaticText 'Owner'
+
+[777] link '0'
+
+[778] link '0'
+
+[779] link '0'
+
+[780] link '0'
+
+[789] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[790] StaticText '1 day ago'</pre><div>
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[270] link 'Skip to content'
+
+[386] link 'Dashboard'
+
+[462] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1733] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[468] link 'Create new...'
+
+[470] link 'Issues'
+
+[1298] generic '13 assigned issues'
+
+[471] link 'Merge requests'
+
+[1300] generic '8 merge requests'
+
+[473] link 'To-Do List'
+
+[1316] generic 'Todos count'
+
+[1754] StaticText '5'
+
+[474] link 'Help'
+
+[476] link 'Byte Blaze'
+
+[1350] img 'Byte Blaze'
+
+[17] main ''
+
+[371] heading 'Projects'
+
+[374] link 'New project'
+
+[478] link 'Yours 18'
+
+[479] link 'Starred 3'
+
+[480] link 'Explore'
+
+[481] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[438] button 'Name'
+
+[525] link 'All'
+
+[526] link 'Personal'
+
+[527] link 'A'
+
+[530] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[533] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[531] generic 'Public - The project can be accessed without any authentication.'
+
+[539] StaticText 'Owner'
+
+[1406] generic 'lipstick'
+
+[1764] StaticText '💄'
+
+[1407] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[551] link '1'
+
+[552] link '0'
+
+[553] link '0'
+
+[554] link '1'
+
+[563] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[564] StaticText '5 months ago'
+
+[565] link 'A'
+
+[568] heading 'Byte Blaze / a11y-webring.club'
+
+[571] link 'Byte Blaze / a11y-webring.club'
+
+[569] generic 'Public - The project can be accessed without any authentication.'
+
+[577] StaticText 'Owner'
+
+[1425] generic 'globe with meridians'
+
+[1765] StaticText '🌐'
+
+[1426] StaticText ' A webring for digital accessibility practitioners.'
+
+[589] link '2'
+
+[590] link '0'
+
+[591] link '1'
+
+[592] link '4'
+
+[601] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[602] StaticText '5 months ago'
+
+[603] link 'A'
+
+[606] heading 'The A11Y Project / a11yproject.com'
+
+[609] link 'The A11Y Project / a11yproject.com'
+
+[607] generic 'Public - The project can be accessed without any authentication.'
+
+[615] StaticText 'Maintainer'
+
+[1444] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[627] link '21'
+
+[628] link '0'
+
+[629] link '10'
+
+[630] link '40'
+
+[639] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[640] StaticText '5 months ago'
+
+[641] link 'A'
+
+[644] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[647] link 'Byte Blaze / accessible-html-content-patterns'
+
+[645] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[653] StaticText 'Owner'
+
+[1462] generic 'wheelchair symbol'
+
+[1766] StaticText '♿'
+
+[1463] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[665] link '1'
+
+[666] link '0'
+
+[667] link '0'
+
+[668] link '0'
+
+[677] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[678] StaticText '5 months ago'
+
+[679] link ''
+
+[682] heading 'Byte Blaze / cloud-to-butt'
+
+[685] link 'Byte Blaze / cloud-to-butt'
+
+[683] generic 'Public - The project can be accessed without any authentication.'
+
+[691] StaticText 'Owner'
+
+[703] link '0'
+
+[704] link '0'
+
+[705] link '0'
+
+[706] link '0'
+
+[715] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[716] StaticText '5 months ago'
+
+[717] link 'D'
+
+[720] heading 'Primer / design'
+
+[723] link 'Primer / design'
+
+[721] generic 'Public - The project can be accessed without any authentication.'
+
+[729] StaticText 'Developer'
+
+[1498] StaticText 'Primer Design Guidelines'
+
+[741] link '21'
+
+[742] link '0'
+
+[743] link '16'
+
+[744] link '21'
+
+[753] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[754] StaticText '5 months ago'
+
+[755] link 'D'
+
+[757] heading 'Byte Blaze / Do it myself'
+
+[760] link 'Byte Blaze / Do it myself'
+
+[758] generic 'Public - The project can be accessed without any authentication.'
+
+[766] StaticText 'Owner'
+
+[777] link '0'
+
+[778] link '0'
+
+[779] link '0'
+
+[780] link '0'
+
+[789] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[790] StaticText '1 day ago'</pre><div>
+
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[270] link 'Skip to content'
+
+[386] link 'Dashboard'
+
+[462] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1733] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[468] link 'Create new...'
+
+[470] link 'Issues'
+
+[1298] generic '13 assigned issues'
+
+[471] link 'Merge requests'
+
+[1300] generic '8 merge requests'
+
+[473] link 'To-Do List'
+
+[1316] generic 'Todos count'
+
+[1754] StaticText '5'
+
+[474] link 'Help'
+
+[476] link 'Byte Blaze'
+
+[1350] img 'Byte Blaze'
+
+[17] main ''
+
+[371] heading 'Projects'
+
+[374] link 'New project'
+
+[478] link 'Yours 18'
+
+[479] link 'Starred 3'
+
+[480] link 'Explore'
+
+[481] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[438] button 'Name'
+
+[525] link 'All'
+
+[526] link 'Personal'
+
+[527] link 'A'
+
+[530] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[533] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[531] generic 'Public - The project can be accessed without any authentication.'
+
+[539] StaticText 'Owner'
+
+[1406] generic 'lipstick'
+
+[1764] StaticText '💄'
+
+[1407] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[551] link '1'
+
+[552] link '0'
+
+[553] link '0'
+
+[554] link '1'
+
+[563] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[564] StaticText '5 months ago'
+
+[565] link 'A'
+
+[568] heading 'Byte Blaze / a11y-webring.club'
+
+[571] link 'Byte Blaze / a11y-webring.club'
+
+[569] generic 'Public - The project can be accessed without any authentication.'
+
+[577] StaticText 'Owner'
+
+[1425] generic 'globe with meridians'
+
+[1765] StaticText '🌐'
+
+[1426] StaticText ' A webring for digital accessibility practitioners.'
+
+[589] link '2'
+
+[590] link '0'
+
+[591] link '1'
+
+[592] link '4'
+
+[601] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[602] StaticText '5 months ago'
+
+[603] link 'A'
+
+[606] heading 'The A11Y Project / a11yproject.com'
+
+[609] link 'The A11Y Project / a11yproject.com'
+
+[607] generic 'Public - The project can be accessed without any authentication.'
+
+[615] StaticText 'Maintainer'
+
+[1444] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[627] link '21'
+
+[628] link '0'
+
+[629] link '10'
+
+[630] link '40'
+
+[639] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[640] StaticText '5 months ago'
+
+[641] link 'A'
+
+[644] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[647] link 'Byte Blaze / accessible-html-content-patterns'
+
+[645] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[653] StaticText 'Owner'
+
+[1462] generic 'wheelchair symbol'
+
+[1766] StaticText '♿'
+
+[1463] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[665] link '1'
+
+[666] link '0'
+
+[667] link '0'
+
+[668] link '0'
+
+[677] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[678] StaticText '5 months ago'
+
+[679] link ''
+
+[682] heading 'Byte Blaze / cloud-to-butt'
+
+[685] link 'Byte Blaze / cloud-to-butt'
+
+[683] generic 'Public - The project can be accessed without any authentication.'
+
+[691] StaticText 'Owner'
+
+[703] link '0'
+
+[704] link '0'
+
+[705] link '0'
+
+[706] link '0'
+
+[715] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[716] StaticText '5 months ago'
+
+[717] link 'D'
+
+[720] heading 'Primer / design'
+
+[723] link 'Primer / design'
+
+[721] generic 'Public - The project can be accessed without any authentication.'
+
+[729] StaticText 'Developer'
+
+[1498] StaticText 'Primer Design Guidelines'
+
+[741] link '21'
+
+[742] link '0'
+
+[743] link '16'
+
+[744] link '21'
+
+[753] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[754] StaticText '5 months ago'
+
+[755] link 'D'
+
+[757] heading 'Byte Blaze / Do it myself'
+
+[760] link 'Byte Blaze / Do it myself'
+
+[758] generic 'Public - The project can be accessed without any authentication.'
+
+[766] StaticText 'Owner'
+
+[777] link '0'
+
+[778] link '0'
+
+[779] link '0'
+
+[780] link '0'
+
+[789] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[790] StaticText '1 day ago'</pre><div>
+
+[478] that shows the list of projects. I will click on this link to access the projects page. In summary, the next action I will perform is ```click [478]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '478', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We need to find the most starred Covid location tracker project on GitLab and get the SSH command to clone it. From the observation, I see that there is a "Projects" link with ID [478] that shows the list of projects. I will click on this link to access the projects page. In summary, the next action I will perform is ```click [478]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [478] where [478] is [478] link 'Yours 18'</pre></div></div>
+
+[1778] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[2047] link 'Skip to content'
+
+[2163] link 'Dashboard'
+
+[2239] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3510] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2245] link 'Create new...'
+
+[2247] link 'Issues'
+
+[3075] generic '13 assigned issues'
+
+[2248] link 'Merge requests'
+
+[3077] generic '8 merge requests'
+
+[2250] link 'To-Do List'
+
+[3093] generic 'Todos count'
+
+[2251] link 'Help'
+
+[2253] link 'Byte Blaze'
+
+[3127] img 'Byte Blaze'
+
+[1794] main ''
+
+[2148] heading 'Projects'
+
+[2151] link 'New project'
+
+[2255] link 'Yours 18'
+
+[2256] link 'Starred 3'
+
+[2257] link 'Explore'
+
+[2258] link 'Topics'
+
+[1798] searchbox 'Filter by name'
+
+[2215] button 'Name'
+
+[2302] link 'All'
+
+[2303] link 'Personal'
+
+[2304] link 'A'
+
+[2307] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[2310] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[2308] generic 'Public - The project can be accessed without any authentication.'
+
+[2316] StaticText 'Owner'
+
+[3183] generic 'lipstick'
+
+[3541] StaticText '💄'
+
+[3184] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[2328] link '1'
+
+[2329] link '0'
+
+[2330] link '0'
+
+[2331] link '1'
+
+[2340] StaticText 'Updated '
+
+[1812] time 'Mar 27, 2023 7:22pm EDT'
+
+[2341] StaticText '5 months ago'
+
+[2342] link 'A'
+
+[2345] heading 'Byte Blaze / a11y-webring.club'
+
+[2348] link 'Byte Blaze / a11y-webring.club'
+
+[2346] generic 'Public - The project can be accessed without any authentication.'
+
+[2354] StaticText 'Owner'
+
+[3202] generic 'globe with meridians'
+
+[3542] StaticText '🌐'
+
+[3203] StaticText ' A webring for digital accessibility practitioners.'
+
+[2366] link '2'
+
+[2367] link '0'
+
+[2368] link '1'
+
+[2369] link '4'
+
+[2378] StaticText 'Updated '
+
+[1824] time 'Mar 27, 2023 7:22pm EDT'
+
+[2379] StaticText '5 months ago'
+
+[2380] link 'A'
+
+[2383] heading 'The A11Y Project / a11yproject.com'
+
+[2386] link 'The A11Y Project / a11yproject.com'
+
+[2384] generic 'Public - The project can be accessed without any authentication.'
+
+[2392] StaticText 'Maintainer'
+
+[3221] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[2404] link '21'
+
+[2405] link '0'
+
+[2406] link '10'
+
+[2407] link '40'
+
+[2416] StaticText 'Updated '
+
+[1836] time 'Mar 27, 2023 4:15pm EDT'
+
+[2417] StaticText '5 months ago'
+
+[2418] link 'A'
+
+[2421] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[2424] link 'Byte Blaze / accessible-html-content-patterns'
+
+[2422] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[2430] StaticText 'Owner'
+
+[3239] generic 'wheelchair symbol'
+
+[3543] StaticText '♿'
+
+[3240] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[2442] link '1'
+
+[2443] link '0'
+
+[2444] link '0'
+
+[2445] link '0'
+
+[2454] StaticText 'Updated '
+
+[1848] time 'Mar 27, 2023 7:22pm EDT'
+
+[2455] StaticText '5 months ago'
+
+[2456] link ''
+
+[2459] heading 'Byte Blaze / cloud-to-butt'
+
+[2462] link 'Byte Blaze / cloud-to-butt'
+
+[2460] generic 'Public - The project can be accessed without any authentication.'
+
+[2468] StaticText 'Owner'
+
+[2480] link '0'
+
+[2481] link '0'
+
+[2482] link '0'
+
+[2483] link '0'
+
+[2492] StaticText 'Updated '
+
+[1860] time 'Mar 27, 2023 7:22pm EDT'
+
+[2493] StaticText '5 months ago'
+
+[2494] link 'D'
+
+[2497] heading 'Primer / design'
+
+[2500] link 'Primer / design'
+
+[2498] generic 'Public - The project can be accessed without any authentication.'
+
+[2506] StaticText 'Developer'
+
+[3275] StaticText 'Primer Design Guidelines'
+
+[2518] link '21'
+
+[2519] link '0'
+
+[2520] link '16'
+
+[2521] link '21'
+
+[2530] StaticText 'Updated '
+
+[1872] time 'Mar 27, 2023 5:04pm EDT'
+
+[2531] StaticText '5 months ago'
+
+[2532] link 'D'
+
+[2534] heading 'Byte Blaze / Do it myself'
+
+[2537] link 'Byte Blaze / Do it myself'
+
+[2535] generic 'Public - The project can be accessed without any authentication.'
+
+[2543] StaticText 'Owner'
+
+[2554] link '0'
+
+[2555] link '0'
+
+[2556] link '0'
+
+[2557] link '0'
+
+[2566] StaticText 'Updated '
+
+[1884] time 'Sep 7, 2023 12:59pm EDT'
+
+[2567] StaticText '1 day ago'</pre><div>
+
+[478] where [478] is link 'Yours 18'</div>
+
+[478]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '478', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. In this page, there are multiple projects listed. The project we are looking for is the most starred Covid location tracker. We need to find the project with the most stars. I noticed that the "Yours 18" link represents the projects you own. Let\'s click on it to see the list of your projects. In summary, the next action I will perform is ```click [478]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [478] where [478] is No match found</pre></div></div>
+
+[1778] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[2047] link 'Skip to content'
+
+[2163] link 'Dashboard'
+
+[2239] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3510] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2245] link 'Create new...'
+
+[2247] link 'Issues'
+
+[3075] generic '13 assigned issues'
+
+[2248] link 'Merge requests'
+
+[3077] generic '8 merge requests'
+
+[2250] link 'To-Do List'
+
+[3093] generic 'Todos count'
+
+[2251] link 'Help'
+
+[2253] link 'Byte Blaze'
+
+[3127] img 'Byte Blaze'
+
+[1794] main ''
+
+[2148] heading 'Projects'
+
+[2151] link 'New project'
+
+[2255] link 'Yours 18'
+
+[2256] link 'Starred 3'
+
+[2257] link 'Explore'
+
+[2258] link 'Topics'
+
+[1798] searchbox 'Filter by name'
+
+[2215] button 'Name'
+
+[2302] link 'All'
+
+[2303] link 'Personal'
+
+[2304] link 'A'
+
+[2307] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[2310] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[2308] generic 'Public - The project can be accessed without any authentication.'
+
+[2316] StaticText 'Owner'
+
+[3183] generic 'lipstick'
+
+[3541] StaticText '💄'
+
+[3184] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[2328] link '1'
+
+[2329] link '0'
+
+[2330] link '0'
+
+[2331] link '1'
+
+[2340] StaticText 'Updated '
+
+[1812] time 'Mar 27, 2023 7:22pm EDT'
+
+[2341] StaticText '5 months ago'
+
+[2342] link 'A'
+
+[2345] heading 'Byte Blaze / a11y-webring.club'
+
+[2348] link 'Byte Blaze / a11y-webring.club'
+
+[2346] generic 'Public - The project can be accessed without any authentication.'
+
+[2354] StaticText 'Owner'
+
+[3202] generic 'globe with meridians'
+
+[3542] StaticText '🌐'
+
+[3203] StaticText ' A webring for digital accessibility practitioners.'
+
+[2366] link '2'
+
+[2367] link '0'
+
+[2368] link '1'
+
+[2369] link '4'
+
+[2378] StaticText 'Updated '
+
+[1824] time 'Mar 27, 2023 7:22pm EDT'
+
+[2379] StaticText '5 months ago'
+
+[2380] link 'A'
+
+[2383] heading 'The A11Y Project / a11yproject.com'
+
+[2386] link 'The A11Y Project / a11yproject.com'
+
+[2384] generic 'Public - The project can be accessed without any authentication.'
+
+[2392] StaticText 'Maintainer'
+
+[3221] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[2404] link '21'
+
+[2405] link '0'
+
+[2406] link '10'
+
+[2407] link '40'
+
+[2416] StaticText 'Updated '
+
+[1836] time 'Mar 27, 2023 4:15pm EDT'
+
+[2417] StaticText '5 months ago'
+
+[2418] link 'A'
+
+[2421] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[2424] link 'Byte Blaze / accessible-html-content-patterns'
+
+[2422] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[2430] StaticText 'Owner'
+
+[3239] generic 'wheelchair symbol'
+
+[3543] StaticText '♿'
+
+[3240] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[2442] link '1'
+
+[2443] link '0'
+
+[2444] link '0'
+
+[2445] link '0'
+
+[2454] StaticText 'Updated '
+
+[1848] time 'Mar 27, 2023 7:22pm EDT'
+
+[2455] StaticText '5 months ago'
+
+[2456] link ''
+
+[2459] heading 'Byte Blaze / cloud-to-butt'
+
+[2462] link 'Byte Blaze / cloud-to-butt'
+
+[2460] generic 'Public - The project can be accessed without any authentication.'
+
+[2468] StaticText 'Owner'
+
+[2480] link '0'
+
+[2481] link '0'
+
+[2482] link '0'
+
+[2483] link '0'
+
+[2492] StaticText 'Updated '
+
+[1860] time 'Mar 27, 2023 7:22pm EDT'
+
+[2493] StaticText '5 months ago'
+
+[2494] link 'D'
+
+[2497] heading 'Primer / design'
+
+[2500] link 'Primer / design'
+
+[2498] generic 'Public - The project can be accessed without any authentication.'
+
+[2506] StaticText 'Developer'
+
+[3275] StaticText 'Primer Design Guidelines'
+
+[2518] link '21'
+
+[2519] link '0'
+
+[2520] link '16'
+
+[2521] link '21'
+
+[2530] StaticText 'Updated '
+
+[1872] time 'Mar 27, 2023 5:04pm EDT'
+
+[2531] StaticText '5 months ago'
+
+[2532] link 'D'
+
+[2534] heading 'Byte Blaze / Do it myself'
+
+[2537] link 'Byte Blaze / Do it myself'
+
+[2535] generic 'Public - The project can be accessed without any authentication.'
+
+[2543] StaticText 'Owner'
+
+[2554] link '0'
+
+[2555] link '0'
+
+[2556] link '0'
+
+[2557] link '0'
+
+[2566] StaticText 'Updated '
+
+[1884] time 'Sep 7, 2023 12:59pm EDT'
+
+[2567] StaticText '1 day ago'</pre><div>
+
+[478]" but no matching element found. Please check the observation more carefully.</div>
+
+[1798] [Covid location tracker] [1]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page is the dashboard of GitLab projects. It lists several projects, but we are interested in finding the command to clone the most starred Covid location tracker with SSH. I will search for the project name in the projects list and then locate the clone command. In summary, the next action I will perform is `type [1798] [Covid location tracker] [1]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1778] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[2047] link 'Skip to content'
+
+[2163] link 'Dashboard'
+
+[2239] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3510] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2245] link 'Create new...'
+
+[2247] link 'Issues'
+
+[3075] generic '13 assigned issues'
+
+[2248] link 'Merge requests'
+
+[3077] generic '8 merge requests'
+
+[2250] link 'To-Do List'
+
+[3093] generic 'Todos count'
+
+[2251] link 'Help'
+
+[2253] link 'Byte Blaze'
+
+[3127] img 'Byte Blaze'
+
+[1794] main ''
+
+[2148] heading 'Projects'
+
+[2151] link 'New project'
+
+[2255] link 'Yours 18'
+
+[2256] link 'Starred 3'
+
+[2257] link 'Explore'
+
+[2258] link 'Topics'
+
+[1798] searchbox 'Filter by name'
+
+[2215] button 'Name'
+
+[2302] link 'All'
+
+[2303] link 'Personal'
+
+[2304] link 'A'
+
+[2307] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[2310] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[2308] generic 'Public - The project can be accessed without any authentication.'
+
+[2316] StaticText 'Owner'
+
+[3183] generic 'lipstick'
+
+[3541] StaticText '💄'
+
+[3184] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[2328] link '1'
+
+[2329] link '0'
+
+[2330] link '0'
+
+[2331] link '1'
+
+[2340] StaticText 'Updated '
+
+[1812] time 'Mar 27, 2023 7:22pm EDT'
+
+[2341] StaticText '5 months ago'
+
+[2342] link 'A'
+
+[2345] heading 'Byte Blaze / a11y-webring.club'
+
+[2348] link 'Byte Blaze / a11y-webring.club'
+
+[2346] generic 'Public - The project can be accessed without any authentication.'
+
+[2354] StaticText 'Owner'
+
+[3202] generic 'globe with meridians'
+
+[3542] StaticText '🌐'
+
+[3203] StaticText ' A webring for digital accessibility practitioners.'
+
+[2366] link '2'
+
+[2367] link '0'
+
+[2368] link '1'
+
+[2369] link '4'
+
+[2378] StaticText 'Updated '
+
+[1824] time 'Mar 27, 2023 7:22pm EDT'
+
+[2379] StaticText '5 months ago'
+
+[2380] link 'A'
+
+[2383] heading 'The A11Y Project / a11yproject.com'
+
+[2386] link 'The A11Y Project / a11yproject.com'
+
+[2384] generic 'Public - The project can be accessed without any authentication.'
+
+[2392] StaticText 'Maintainer'
+
+[3221] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[2404] link '21'
+
+[2405] link '0'
+
+[2406] link '10'
+
+[2407] link '40'
+
+[2416] StaticText 'Updated '
+
+[1836] time 'Mar 27, 2023 4:15pm EDT'
+
+[2417] StaticText '5 months ago'
+
+[2418] link 'A'
+
+[2421] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[2424] link 'Byte Blaze / accessible-html-content-patterns'
+
+[2422] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[2430] StaticText 'Owner'
+
+[3239] generic 'wheelchair symbol'
+
+[3543] StaticText '♿'
+
+[3240] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[2442] link '1'
+
+[2443] link '0'
+
+[2444] link '0'
+
+[2445] link '0'
+
+[2454] StaticText 'Updated '
+
+[1848] time 'Mar 27, 2023 7:22pm EDT'
+
+[2455] StaticText '5 months ago'
+
+[2456] link ''
+
+[2459] heading 'Byte Blaze / cloud-to-butt'
+
+[2462] link 'Byte Blaze / cloud-to-butt'
+
+[2460] generic 'Public - The project can be accessed without any authentication.'
+
+[2468] StaticText 'Owner'
+
+[2480] link '0'
+
+[2481] link '0'
+
+[2482] link '0'
+
+[2483] link '0'
+
+[2492] StaticText 'Updated '
+
+[1860] time 'Mar 27, 2023 7:22pm EDT'
+
+[2493] StaticText '5 months ago'
+
+[2494] link 'D'
+
+[2497] heading 'Primer / design'
+
+[2500] link 'Primer / design'
+
+[2498] generic 'Public - The project can be accessed without any authentication.'
+
+[2506] StaticText 'Developer'
+
+[3275] StaticText 'Primer Design Guidelines'
+
+[2518] link '21'
+
+[2519] link '0'
+
+[2520] link '16'
+
+[2521] link '21'
+
+[2530] StaticText 'Updated '
+
+[1872] time 'Mar 27, 2023 5:04pm EDT'
+
+[2531] StaticText '5 months ago'
+
+[2532] link 'D'
+
+[2534] heading 'Byte Blaze / Do it myself'
+
+[2537] link 'Byte Blaze / Do it myself'
+
+[2535] generic 'Public - The project can be accessed without any authentication.'
+
+[2543] StaticText 'Owner'
+
+[2554] link '0'
+
+[2555] link '0'
+
+[2556] link '0'
+
+[2557] link '0'
+
+[2566] StaticText 'Updated '
+
+[1884] time 'Sep 7, 2023 12:59pm EDT'
+
+[2567] StaticText '1 day ago'</pre><div>
+
+[1798] [Covid location tracker] [1]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[1798] [Covid location tracker] [1]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [50, 94, 101, 88, 83, 15, 91, 94, 82, 80, 99, 88, 94, 93, 15, 99, 97, 80, 82, 90, 84, 97, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '1798', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page is the dashboard of GitLab projects. It lists several projects, but we are interested in finding the command to clone the most starred Covid location tracker with SSH. I will search for the project name in the projects list and then locate the clone command. In summary, the next action I will perform is ```type [1798] [Covid location tracker] [1]```."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [1798] [Covid location tracker
+
+[1798] is [1798] searchbox 'Filter by name'</pre></div></div>
+
+[3556] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[3607] link 'Skip to content'
+
+[3730] link 'Dashboard'
+
+[3788] button '' hasPopup: menu expanded: False
+
+[3568] textbox 'Search GitLab' required: False
+
+[4058] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3794] link 'Create new...'
+
+[3796] link 'Issues'
+
+[3949] generic '13 assigned issues'
+
+[3797] link 'Merge requests'
+
+[3951] generic '8 merge requests'
+
+[3799] link 'To-Do List'
+
+[3967] generic 'Todos count'
+
+[3800] link 'Help'
+
+[3802] link 'Byte Blaze'
+
+[4001] img 'Byte Blaze'
+
+[3572] main ''
+
+[3709] heading 'Projects'
+
+[3712] link 'New project'
+
+[3804] link 'Yours 18'
+
+[3805] link 'Starred 3'
+
+[3806] link 'Explore'
+
+[3807] link 'Topics'
+
+[3576] searchbox 'Filter by name'
+
+[3808] StaticText 'Covid location tracker'
+
+[3782] button 'Name'
+
+[3852] link 'All'
+
+[3853] link 'Personal'
+
+[3725] heading "This user doesn't have any personal projects"</pre><div>
+
+[1798] [Covid location tracker
+
+[1798] is searchbox 'Filter by name'</div>
+
+[3805]` to navigate to the "Starred" section.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page shows the search results for the project "Covid location tracker". Now we need to find the most starred repository and get the command to clone it using SSH. \n\nTo find the most starred repository, we can check the "Starred" section which lists the projects that the user has starred. We can then navigate to the repository and find the command to clone it using SSH.\n\nIn summary, the next action I will perform is `click [3805]` to navigate to the "Starred" section.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[3556] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[3607] link 'Skip to content'
+
+[3730] link 'Dashboard'
+
+[3788] button '' hasPopup: menu expanded: False
+
+[3568] textbox 'Search GitLab' required: False
+
+[4058] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3794] link 'Create new...'
+
+[3796] link 'Issues'
+
+[3949] generic '13 assigned issues'
+
+[3797] link 'Merge requests'
+
+[3951] generic '8 merge requests'
+
+[3799] link 'To-Do List'
+
+[3967] generic 'Todos count'
+
+[3800] link 'Help'
+
+[3802] link 'Byte Blaze'
+
+[4001] img 'Byte Blaze'
+
+[3572] main ''
+
+[3709] heading 'Projects'
+
+[3712] link 'New project'
+
+[3804] link 'Yours 18'
+
+[3805] link 'Starred 3'
+
+[3806] link 'Explore'
+
+[3807] link 'Topics'
+
+[3576] searchbox 'Filter by name'
+
+[3808] StaticText 'Covid location tracker'
+
+[3782] button 'Name'
+
+[3852] link 'All'
+
+[3853] link 'Personal'
+
+[3725] heading "This user doesn't have any personal projects"</pre><div>
+
+[3805]` to navigate to the "Starred" section.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[3805]``` to navigate to the "Starred" section.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3805', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [3805]``` to navigate to the "Starred" section.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3805] where [3805] is [3805] link 'Starred 3'</pre></div></div>
+
+[4096] RootWebArea 'Dashboard · GitLab' focused: True
+
+[4185] link 'Skip to content'
+
+[4299] link 'Dashboard'
+
+[4358] button '' hasPopup: menu expanded: False
+
+[4108] textbox 'Search GitLab' required: False
+
+[4793] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4364] link 'Create new...'
+
+[4366] link 'Issues'
+
+[4630] generic '13 assigned issues'
+
+[4367] link 'Merge requests'
+
+[4632] generic '8 merge requests'
+
+[4369] link 'To-Do List'
+
+[4648] generic 'Todos count'
+
+[4814] StaticText '5'
+
+[4370] link 'Help'
+
+[4372] link 'Byte Blaze'
+
+[4682] img 'Byte Blaze'
+
+[4112] main ''
+
+[4285] heading 'Projects'
+
+[4288] link 'New project'
+
+[4374] link 'Yours 18'
+
+[4375] link 'Starred 3'
+
+[4376] link 'Explore'
+
+[4377] link 'Topics'
+
+[4116] searchbox 'Filter by name'
+
+[4351] button 'Name'
+
+[4421] link 'A'
+
+[4424] heading 'The A11Y Project / a11yproject.com'
+
+[4427] link 'The A11Y Project / a11yproject.com'
+
+[4425] generic 'Public - The project can be accessed without any authentication.'
+
+[4433] StaticText 'Maintainer'
+
+[4736] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[4445] link '21'
+
+[4446] link '0'
+
+[4447] link '10'
+
+[4448] link '40'
+
+[4457] StaticText 'Updated '
+
+[4130] time 'Mar 27, 2023 4:15pm EDT'
+
+[4458] StaticText '5 months ago'
+
+[4459] link 'A'
+
+[4462] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[4465] link 'Byte Blaze / accessible-html-content-patterns'
+
+[4463] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[4471] StaticText 'Owner'
+
+[4754] generic 'wheelchair symbol'
+
+[4824] StaticText '♿'
+
+[4755] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[4483] link '1'
+
+[4484] link '0'
+
+[4485] link '0'
+
+[4486] link '0'
+
+[4495] StaticText 'Updated '
+
+[4142] time 'Mar 27, 2023 7:22pm EDT'
+
+[4496] StaticText '5 months ago'
+
+[4497] link 'E'
+
+[4500] heading 'Byte Blaze / empathy-prompts'
+
+[4503] link 'Byte Blaze / empathy-prompts'
+
+[4501] generic 'Public - The project can be accessed without any authentication.'
+
+[4509] StaticText 'Owner'
+
+[4773] generic 'electric light bulb'
+
+[4825] StaticText '💡'
+
+[4774] StaticText ' Ideas to help consider Inclusive Design principles when making things for others to use.'
+
+[4521] link '6'
+
+[4522] link '1'
+
+[4523] link '2'
+
+[4524] link '6'
+
+[4533] StaticText 'Updated '
+
+[4154] time 'Mar 27, 2023 7:22pm EDT'
+
+[4534] StaticText '5 months ago'</pre><div>
+
+[3805] where [3805] is link 'Starred 3'</div>
+

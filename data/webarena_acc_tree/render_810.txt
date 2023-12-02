@@ -1,0 +1,498 @@
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[270] link 'Skip to content'
+
+[386] link 'Dashboard'
+
+[462] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1733] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[468] link 'Create new...'
+
+[470] link 'Issues'
+
+[1298] generic '13 assigned issues'
+
+[471] link 'Merge requests'
+
+[1300] generic '8 merge requests'
+
+[473] link 'To-Do List'
+
+[1316] generic 'Todos count'
+
+[1754] StaticText '5'
+
+[474] link 'Help'
+
+[476] link 'Byte Blaze'
+
+[1350] img 'Byte Blaze'
+
+[17] main ''
+
+[371] heading 'Projects'
+
+[374] link 'New project'
+
+[478] link 'Yours 18'
+
+[479] link 'Starred 3'
+
+[480] link 'Explore'
+
+[481] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[438] button 'Name'
+
+[525] link 'All'
+
+[526] link 'Personal'
+
+[527] link 'A'
+
+[530] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[533] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[531] generic 'Public - The project can be accessed without any authentication.'
+
+[539] StaticText 'Owner'
+
+[1406] generic 'lipstick'
+
+[1764] StaticText '💄'
+
+[1407] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[551] link '1'
+
+[552] link '0'
+
+[553] link '0'
+
+[554] link '1'
+
+[563] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[564] StaticText '5 months ago'
+
+[565] link 'A'
+
+[568] heading 'Byte Blaze / a11y-webring.club'
+
+[571] link 'Byte Blaze / a11y-webring.club'
+
+[569] generic 'Public - The project can be accessed without any authentication.'
+
+[577] StaticText 'Owner'
+
+[1425] generic 'globe with meridians'
+
+[1765] StaticText '🌐'
+
+[1426] StaticText ' A webring for digital accessibility practitioners.'
+
+[589] link '2'
+
+[590] link '0'
+
+[591] link '1'
+
+[592] link '4'
+
+[601] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[602] StaticText '5 months ago'
+
+[603] link 'A'
+
+[606] heading 'The A11Y Project / a11yproject.com'
+
+[609] link 'The A11Y Project / a11yproject.com'
+
+[607] generic 'Public - The project can be accessed without any authentication.'
+
+[615] StaticText 'Maintainer'
+
+[1444] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[627] link '21'
+
+[628] link '0'
+
+[629] link '10'
+
+[630] link '40'
+
+[639] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[640] StaticText '5 months ago'
+
+[641] link 'A'
+
+[644] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[647] link 'Byte Blaze / accessible-html-content-patterns'
+
+[645] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[653] StaticText 'Owner'
+
+[1462] generic 'wheelchair symbol'
+
+[1766] StaticText '♿'
+
+[1463] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[665] link '1'
+
+[666] link '0'
+
+[667] link '0'
+
+[668] link '0'
+
+[677] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[678] StaticText '5 months ago'
+
+[679] link ''
+
+[682] heading 'Byte Blaze / cloud-to-butt'
+
+[685] link 'Byte Blaze / cloud-to-butt'
+
+[683] generic 'Public - The project can be accessed without any authentication.'
+
+[691] StaticText 'Owner'
+
+[703] link '0'
+
+[704] link '0'
+
+[705] link '0'
+
+[706] link '0'
+
+[715] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[716] StaticText '5 months ago'
+
+[717] link 'D'
+
+[720] heading 'Primer / design'
+
+[723] link 'Primer / design'
+
+[721] generic 'Public - The project can be accessed without any authentication.'
+
+[729] StaticText 'Developer'
+
+[1498] StaticText 'Primer Design Guidelines'
+
+[741] link '21'
+
+[742] link '0'
+
+[743] link '16'
+
+[744] link '21'
+
+[753] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[754] StaticText '5 months ago'
+
+[755] link 'D'
+
+[757] heading 'Byte Blaze / Do it myself'
+
+[760] link 'Byte Blaze / Do it myself'
+
+[758] generic 'Public - The project can be accessed without any authentication.'
+
+[766] StaticText 'Owner'
+
+[777] link '0'
+
+[778] link '0'
+
+[779] link '0'
+
+[780] link '0'
+
+[789] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[790] StaticText '2 days ago'</pre><div>
+
+[741]``` to assign the issue to myself.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '741', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page seems to be a dashboard of GitLab. The project we are interested in is 'Primer / design' with the heading 'Primer / design'. There is an issue related to flash alert in the Primer Design Guidelines repo. I can assign this issue to myself. In summary, the next action I will perform is ```click [741]``` to assign the issue to myself."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [741] where [741] is [741] link '21'</pre></div></div>
+
+[1778] RootWebArea 'Starrers · Primer / design · GitLab' focused: True
+
+[1952] link 'Skip to content'
+
+[2094] link 'Dashboard'
+
+[2176] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[2938] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2182] link 'Create new...'
+
+[2184] link 'Issues'
+
+[2518] generic '13 assigned issues'
+
+[2185] link 'Merge requests'
+
+[2520] generic '8 merge requests'
+
+[2187] link 'To-Do List'
+
+[2536] generic 'Todos count'
+
+[2188] link 'Help'
+
+[2190] link 'Byte Blaze'
+
+[2570] img 'Byte Blaze'
+
+[1953] complementary 'Project navigation'
+
+[2127] listitem 'design'
+
+[2192] link 'design'
+
+[2611] StaticText 'D'
+
+[2193] link 'Project information'
+
+[2195] link 'Repository'
+
+[2197] link 'Issues'
+
+[2199] link 'Merge requests'
+
+[2705] StaticText '16'
+
+[2201] link 'CI/CD'
+
+[2203] link 'Security & Compliance'
+
+[2205] link 'Deployments'
+
+[2207] link 'Packages and registries'
+
+[2209] link 'Infrastructure'
+
+[2211] link 'Monitor'
+
+[2213] link 'Analytics'
+
+[2215] link 'Wiki'
+
+[2217] link 'Snippets'
+
+[2080] button 'Collapse sidebar'
+
+[1957] navigation 'Breadcrumbs'
+
+[2234] link 'Primer'
+
+[2236] link 'design'
+
+[2238] link 'Starrers'
+
+[1794] main ''
+
+[2085] StaticText '21 starrers: 21 public and 0 private'
+
+[1800] searchbox 'Search'
+
+[2167] button 'Submit search'
+
+[2168] button 'Name' hasPopup: listbox
+
+[2286] link 'Allie Thu'
+
+[2288] StaticText '@alliethu'
+
+[1807] time 'Mar 27, 2023 4:11pm EDT'
+
+[2884] StaticText '5 months ago'
+
+[2292] link 'Bryn Jackson'
+
+[2294] StaticText '@superbryntendo'
+
+[1813] time 'Mar 27, 2023 4:11pm EDT'
+
+[2886] StaticText '5 months ago'
+
+[2298] link 'Cole Bemis'
+
+[2300] StaticText '@colebemis'
+
+[1819] time 'Mar 27, 2023 4:11pm EDT'
+
+[2888] StaticText '5 months ago'
+
+[2304] link 'Daniel Guillan'
+
+[2306] StaticText '@danielguillan'
+
+[1825] time 'Mar 27, 2023 4:11pm EDT'
+
+[2890] StaticText '5 months ago'
+
+[2310] link 'eaccmk'
+
+[2312] StaticText '@eaccmk'
+
+[1831] time 'Mar 27, 2023 4:11pm EDT'
+
+[2892] StaticText '5 months ago'
+
+[2316] link 'Emily Brick'
+
+[2318] StaticText '@emilybrick'
+
+[1837] time 'Mar 27, 2023 4:11pm EDT'
+
+[2894] StaticText '5 months ago'
+
+[2322] link 'emplums'
+
+[2324] StaticText '@emplums'
+
+[1843] time 'Mar 27, 2023 4:11pm EDT'
+
+[2896] StaticText '5 months ago'
+
+[2328] link 'Inayaili León'
+
+[2330] StaticText '@yaili'
+
+[1849] time 'Mar 27, 2023 4:11pm EDT'
+
+[2898] StaticText '5 months ago'
+
+[2334] link 'Josep Martins'
+
+[2336] StaticText '@josepmartins'
+
+[1855] time 'Mar 27, 2023 4:11pm EDT'
+
+[2900] StaticText '5 months ago'
+
+[2340] link 'Josh Bowden'
+
+[2342] StaticText '@JoshBowdenConcepts'
+
+[1861] time 'Mar 27, 2023 4:11pm EDT'
+
+[2902] StaticText '5 months ago'
+
+[2346] link 'Kate Higa'
+
+[2348] StaticText '@khiga8'
+
+[1867] time 'Mar 27, 2023 4:11pm EDT'
+
+[2904] StaticText '5 months ago'
+
+[2352] link 'Katie Langerman'
+
+[2354] StaticText '@langermank'
+
+[1873] time 'Mar 27, 2023 4:11pm EDT'
+
+[2906] StaticText '5 months ago'
+
+[2358] link 'Lukas Oppermann'
+
+[2360] StaticText '@lukasoppermann'
+
+[1879] time 'Mar 27, 2023 4:11pm EDT'
+
+[2908] StaticText '5 months ago'
+
+[2364] link 'Matt'
+
+[2366] StaticText '@TheeMattOliver'
+
+[1885] time 'Mar 27, 2023 4:11pm EDT'
+
+[2910] StaticText '5 months ago'
+
+[2370] link 'Maxime De Greve'
+
+[2372] StaticText '@maximedegreve'
+
+[1891] time 'Mar 27, 2023 4:11pm EDT'
+
+[2912] StaticText '5 months ago'
+
+[2376] link 'Mike Perrotti'
+
+[2378] StaticText '@mperrotti'
+
+[1897] time 'Mar 27, 2023 4:11pm EDT'
+
+[2914] StaticText '5 months ago'
+
+[2382] link 'Mujahid Bappai'
+
+[2384] StaticText '@mbappai'
+
+[1903] time 'Mar 27, 2023 4:11pm EDT'
+
+[2916] StaticText '5 months ago'
+
+[2388] link 'Pavel Keyzik'
+
+[2390] StaticText '@pavelkeyzik'
+
+[1909] time 'Mar 27, 2023 4:11pm EDT'
+
+[2918] StaticText '5 months ago'
+
+[2394] link 'Pavithra Kodmad'
+
+[2396] StaticText '@pksjce'
+
+[1915] time 'Mar 27, 2023 4:11pm EDT'
+
+[2920] StaticText '5 months ago'
+
+[2400] link 'Primer'
+
+[2402] StaticText '@primer'
+
+[1921] time 'Mar 27, 2023 4:11pm EDT'
+
+[2922] StaticText '5 months ago'</pre><div>
+
+[741] where [741] is link '21'</div>
+

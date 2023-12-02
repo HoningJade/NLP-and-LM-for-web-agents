@@ -1,0 +1,81 @@
+Tab 0 (current): Grace Nguyen / Customers / Customers / Magento Admin
+
+[1317] RootWebArea 'Grace Nguyen / Customers / Customers / Magento Admin' focused: True
+	[1388] link 'Magento Admin Panel'
+		[1422] img 'Magento Admin Panel'
+	[1322] menubar '' orientation: horizontal
+		[1324] link '\ue604 DASHBOARD'
+		[1328] link '\ue60b SALES'
+		[1332] link '\ue608 CATALOG'
+		[1336] link '\ue603 CUSTOMERS'
+		[1340] link '\ue609 MARKETING'
+		[1344] link '\ue602 CONTENT'
+		[1348] link '\ue60a REPORTS'
+		[1352] link '\ue60d STORES'
+		[1356] link '\ue610 SYSTEM'
+		[1360] link '\ue612 FIND PARTNERS & EXTENSIONS'
+	[2101] button 'System Messages: 2'
+	[2178] StaticText 'One or more of the Cache Types are invalidated: Page Cache, Layouts. Please go to '
+	[2179] link 'Cache Management'
+	[2180] StaticText ' and refresh cache types.'
+	[1492] heading 'Grace Nguyen'
+	[1494] link '\ue600 admin'
+	[1496] link '\ue607'
+	[1372] textbox '\ue60c' required: False
+	[1373] main ''
+		[1440] button '\ue626 Back'
+		[1441] button 'Login as Customer'
+		[1442] button 'Delete Customer'
+		[1443] button 'Reset'
+		[1444] button 'Create Order'
+		[1445] button 'Reset Password'
+		[1446] button 'Force Sign-In'
+		[1447] button 'Save and Continue Edit'
+		[1448] button 'Save Customer'
+		[2189] StaticText 'Personal Information'
+		[2165] table ''
+			[2259] row ''
+				[2265] rowheader 'Last Logged In:' required: False
+				[2266] gridcell 'Apr 19, 2023, 7:42:30 PM (Online)' required: False
+			[2260] row ''
+				[2267] rowheader 'Account Lock:' required: False
+				[2268] gridcell 'Unlocked' required: False
+			[2261] row ''
+				[2269] rowheader 'Confirmed email:' required: False
+				[2270] gridcell 'Confirmation Not Required' required: False
+			[2262] row ''
+				[2271] rowheader 'Account Created:' required: False
+				[2272] gridcell 'Apr 19, 2023, 5:45:51 PM' required: False
+			[2263] row ''
+				[2273] rowheader 'Account Created in:' required: False
+				[2274] gridcell 'Default Store View' required: False
+			[2264] row ''
+				[2275] rowheader 'Customer Group:' required: False
+				[2276] gridcell 'General' required: False
+		[2166] group ''
+			[2192] StaticText 'Default Billing Address'
+			[2193] LineBreak '\n'
+			[2194] StaticText 'Grace Nguyen'
+			[2195] LineBreak '\n'
+			[2196] StaticText '789 Harvard Square'
+			[2197] LineBreak '\n'
+			[2198] StaticText 'Cambridge, Massachusetts, 02138'
+			[2199] LineBreak '\n'
+			[2200] StaticText 'United States'
+			[2201] LineBreak '\n'
+			[2202] StaticText 'T: 6175555555'
+		[1379] strong 'CUSTOMER INFORMATION'
+		[2168] listitem 'Customer View'
+			[2203] link 'Customer View'
+		[2169] listitem 'Account Information'
+			[2209] link 'Account Information'
+		[2170] listitem 'Addresses'
+			[2215] link 'Addresses'
+		[2171] listitem 'Orders'
+			[2221] link 'Orders'
+		[2172] listitem 'Shopping cart'
+			[2227] link 'Shopping cart'
+		[2173] listitem 'Newsletter'
+			[2233] link 'Newsletter'
+		[2174] listitem 'Billing Agreements'
+			[2239] link 'Billing Agreements'</pre><div>

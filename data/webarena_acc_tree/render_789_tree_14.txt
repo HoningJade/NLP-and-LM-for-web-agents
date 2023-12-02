@@ -1,0 +1,91 @@
+Tab 0 (current): To-Do List · Dashboard · GitLab
+
+[4295] RootWebArea 'To-Do List · Dashboard · GitLab' focused: True
+	[4378] link 'Skip to content'
+	[4498] link 'Dashboard'
+	[4554] button '' hasPopup: menu expanded: False
+	[4307] textbox 'Search GitLab' required: False
+	[4946] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[4560] link 'Create new...'
+	[4562] link 'Issues'
+		[4802] generic '13 assigned issues'
+	[4563] link 'Merge requests'
+		[4804] generic '8 merge requests'
+	[4565] link 'To-Do List'
+		[4820] generic 'Todos count'
+	[4566] link 'Help'
+	[4568] link 'Byte Blaze'
+		[4854] img 'Byte Blaze'
+	[4311] main ''
+		[4479] heading 'To-Do List'
+		[4531] link 'To Do 5'
+		[4532] link 'Done 2'
+		[4486] link 'Mark all as done'
+			[4533] status '' live: polite atomic: True relevant: additions text
+		[4540] button 'Group'
+		[4541] button 'Project'
+		[4542] button 'Author'
+		[4544] button 'Type'
+		[4547] button 'Action'
+		[4550] button 'Last created'
+		[5113] StaticText 'feat: add WCAG levels · '
+		[4980] StaticText 'The A11Y Project / '
+		[4982] StaticText 'a11yproject.com'
+		[4984] link 'Merge Request !1270' describedby: todo_2978_describer
+		[4987] link "Roshan Jossy's avatar"
+			[5116] img "Roshan Jossy's avatar"
+		[4989] link 'Roshan Jossy'
+		[4991] StaticText 'assigned you.'
+		[4339] time 'Mar 27, 2023 7:21pm EDT'
+			[4992] StaticText '5 months ago'
+		[4914] link 'Mark as done'
+			[4994] status '' live: polite atomic: True relevant: additions text
+		[5122] StaticText 'update or remove 404 links · '
+		[5006] StaticText 'The A11Y Project / '
+		[5008] StaticText 'a11yproject.com'
+		[5010] link 'Merge Request !1485' describedby: todo_2976_describer
+		[5013] link "Roshan Jossy's avatar"
+			[5125] img "Roshan Jossy's avatar"
+		[5015] link 'Roshan Jossy'
+		[5017] StaticText 'assigned you.'
+		[4344] time 'Mar 27, 2023 7:19pm EDT'
+			[5018] StaticText '5 months ago'
+		[4920] link 'Mark as done'
+			[5020] status '' live: polite atomic: True relevant: additions text
+		[5131] StaticText 'Tm Theme Editor · '
+		[5032] StaticText 'Byte Blaze / '
+		[5034] StaticText 'a11y-syntax-highlighting'
+		[5036] link 'Issue #1' describedby: todo_2972_describer
+		[5039] link "Byte Blaze's avatar"
+			[5134] img "Byte Blaze's avatar"
+		[5041] link 'You'
+		[5043] StaticText 'assigned'
+		[5046] StaticText 'to yourself.'
+		[4349] time 'Mar 27, 2023 7:15pm EDT'
+			[5047] StaticText '5 months ago'
+		[4926] link 'Mark as done'
+			[5049] status '' live: polite atomic: True relevant: additions text
+		[5140] StaticText 'Add verification functions · '
+		[5061] StaticText 'Byte Blaze / '
+		[5063] StaticText 'a11y-webring.club'
+		[5065] link 'Merge Request !40' describedby: todo_2971_describer
+		[5068] link "Byte Blaze's avatar"
+			[5143] img "Byte Blaze's avatar"
+		[5070] link 'You'
+		[5072] StaticText 'assigned'
+		[5075] StaticText 'to yourself.'
+		[4354] time 'Mar 27, 2023 7:14pm EDT'
+			[5076] StaticText '5 months ago'
+		[4932] link 'Mark as done'
+			[5078] status '' live: polite atomic: True relevant: additions text
+		[5149] StaticText 'Add color utility classes · '
+		[5090] StaticText 'The A11Y Project / '
+		[5092] StaticText 'a11yproject.com'
+		[5094] link 'Merge Request !1071' describedby: todo_2970_describer
+		[5097] link "Byte Blaze's avatar"
+			[5152] img "Byte Blaze's avatar"
+		[5099] StaticText 'Could not merge.'
+		[4359] time 'Mar 27, 2023 7:07pm EDT'
+			[5100] StaticText '5 months ago'
+		[4938] link 'Mark as done'
+			[5102] status '' live: polite atomic: True relevant: additions text</pre><div>

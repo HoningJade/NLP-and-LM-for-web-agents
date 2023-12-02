@@ -1,0 +1,48 @@
+Tab 0 (current): settings · Search · GitLab
+
+[1947] RootWebArea 'settings · Search · GitLab' focused: True
+	[2015] link 'Skip to content'
+	[2124] link 'Dashboard'
+	[2176] button '' hasPopup: menu expanded: False
+	[2182] link 'Create new...'
+	[2184] link 'Issues'
+		[2337] generic '13 assigned issues'
+	[2185] link 'Merge requests'
+		[2339] generic '8 merge requests'
+	[2187] link 'To-Do List'
+		[2355] generic 'Todos count'
+	[2188] link 'Help'
+	[2190] link 'Byte Blaze'
+		[2389] img 'Byte Blaze'
+	[1953] main ''
+		[2116] heading 'Search'
+		[2161] StaticText 'What are you searching for?'
+		[1958] group ''
+			[1959] searchbox 'Search for projects, issues, etc.'
+				[2433] StaticText 'settings'
+			[2162] button 'Clear'
+			[2198] button 'Search'
+		[2165] StaticText 'Group'
+		[2166] button 'Any' hasPopup: menu expanded: False
+		[2168] StaticText 'Project'
+		[2169] button 'Any' hasPopup: menu expanded: False
+		[2118] separator '' orientation: horizontal
+		[2446] link 'Projects 1'
+		[2447] link 'Issues 99 Result count is over limit.'
+			[2528] img 'Result count is over limit.'
+		[2448] link 'Merge requests 99 Result count is over limit.'
+			[2533] img 'Result count is over limit.'
+		[2449] link 'Milestones 0'
+		[2450] link 'Users 0'
+		[2451] link 'D'
+		[2454] heading 'Akilesh Kannan / dots'
+			[2456] link 'Akilesh Kannan / dots'
+		[2455] generic 'Public - The project can be accessed without any authentication.'
+		[2547] StaticText '⋅files that define my system settings'
+		[2473] link '0'
+		[2474] link '0'
+		[2475] link '0'
+		[2476] link '0'
+		[2485] StaticText 'Updated '
+		[1993] time 'Mar 22, 2023 1:12pm EDT'
+			[2486] StaticText '5 months ago'</pre><div>

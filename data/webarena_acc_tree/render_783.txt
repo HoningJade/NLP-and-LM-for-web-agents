@@ -1,0 +1,6380 @@
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[270] link 'Skip to content'
+
+[386] link 'Dashboard'
+
+[462] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1733] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[468] link 'Create new...'
+
+[470] link 'Issues'
+
+[1298] generic '13 assigned issues'
+
+[471] link 'Merge requests'
+
+[1300] generic '8 merge requests'
+
+[473] link 'To-Do List'
+
+[1316] generic 'Todos count'
+
+[1754] StaticText '5'
+
+[474] link 'Help'
+
+[476] link 'Byte Blaze'
+
+[1350] img 'Byte Blaze'
+
+[17] main ''
+
+[371] heading 'Projects'
+
+[374] link 'New project'
+
+[478] link 'Yours 18'
+
+[479] link 'Starred 3'
+
+[480] link 'Explore'
+
+[481] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[438] button 'Name'
+
+[525] link 'All'
+
+[526] link 'Personal'
+
+[527] link 'A'
+
+[530] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[533] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[531] generic 'Public - The project can be accessed without any authentication.'
+
+[539] StaticText 'Owner'
+
+[1406] generic 'lipstick'
+
+[1764] StaticText '💄'
+
+[1407] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[551] link '1'
+
+[552] link '0'
+
+[553] link '0'
+
+[554] link '1'
+
+[563] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[564] StaticText '5 months ago'
+
+[565] link 'A'
+
+[568] heading 'Byte Blaze / a11y-webring.club'
+
+[571] link 'Byte Blaze / a11y-webring.club'
+
+[569] generic 'Public - The project can be accessed without any authentication.'
+
+[577] StaticText 'Owner'
+
+[1425] generic 'globe with meridians'
+
+[1765] StaticText '🌐'
+
+[1426] StaticText ' A webring for digital accessibility practitioners.'
+
+[589] link '2'
+
+[590] link '0'
+
+[591] link '1'
+
+[592] link '4'
+
+[601] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[602] StaticText '5 months ago'
+
+[603] link 'A'
+
+[606] heading 'The A11Y Project / a11yproject.com'
+
+[609] link 'The A11Y Project / a11yproject.com'
+
+[607] generic 'Public - The project can be accessed without any authentication.'
+
+[615] StaticText 'Maintainer'
+
+[1444] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[627] link '21'
+
+[628] link '0'
+
+[629] link '10'
+
+[630] link '40'
+
+[639] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[640] StaticText '5 months ago'
+
+[641] link 'A'
+
+[644] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[647] link 'Byte Blaze / accessible-html-content-patterns'
+
+[645] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[653] StaticText 'Owner'
+
+[1462] generic 'wheelchair symbol'
+
+[1766] StaticText '♿'
+
+[1463] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[665] link '1'
+
+[666] link '0'
+
+[667] link '0'
+
+[668] link '0'
+
+[677] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[678] StaticText '5 months ago'
+
+[679] link ''
+
+[682] heading 'Byte Blaze / cloud-to-butt'
+
+[685] link 'Byte Blaze / cloud-to-butt'
+
+[683] generic 'Public - The project can be accessed without any authentication.'
+
+[691] StaticText 'Owner'
+
+[703] link '0'
+
+[704] link '0'
+
+[705] link '0'
+
+[706] link '0'
+
+[715] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[716] StaticText '5 months ago'
+
+[717] link 'D'
+
+[720] heading 'Primer / design'
+
+[723] link 'Primer / design'
+
+[721] generic 'Public - The project can be accessed without any authentication.'
+
+[729] StaticText 'Developer'
+
+[1498] StaticText 'Primer Design Guidelines'
+
+[741] link '21'
+
+[742] link '0'
+
+[743] link '16'
+
+[744] link '21'
+
+[753] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[754] StaticText '5 months ago'
+
+[755] link 'D'
+
+[757] heading 'Byte Blaze / Do it myself'
+
+[760] link 'Byte Blaze / Do it myself'
+
+[758] generic 'Public - The project can be accessed without any authentication.'
+
+[766] StaticText 'Owner'
+
+[777] link '0'
+
+[778] link '0'
+
+[779] link '0'
+
+[780] link '0'
+
+[789] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[790] StaticText '2 days ago'</pre><div>
+
+[568]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '568', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. I need to navigate to the page where I can add users to the repo. First, I need to find the link to the repo "kkroening/ffmpeg-python". Its link text is "Byte Blaze / a11y-webring.club". I will click on it. In summary, the next action I will perform is ```click [568]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [568] where [568] is [568] heading 'Byte Blaze / a11y-webring.club'</pre></div></div>
+
+[1778] RootWebArea 'Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[1917] link 'Skip to content'
+
+[2102] link 'Dashboard'
+
+[2262] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3303] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2268] link 'Create new...'
+
+[2270] link 'Issues'
+
+[2639] generic '13 assigned issues'
+
+[2271] link 'Merge requests'
+
+[2641] generic '8 merge requests'
+
+[2273] link 'To-Do List'
+
+[2657] generic 'Todos count'
+
+[2274] link 'Help'
+
+[2276] link 'Byte Blaze'
+
+[2691] img 'Byte Blaze'
+
+[1918] complementary 'Project navigation'
+
+[2135] listitem 'a11y-webring.club'
+
+[2278] link 'a11y-webring.club'
+
+[2732] StaticText 'A'
+
+[2279] link 'Project information'
+
+[2281] link 'Repository'
+
+[2283] link 'Issues'
+
+[2797] StaticText '4'
+
+[2285] link 'Merge requests'
+
+[2826] StaticText '1'
+
+[2287] link 'CI/CD'
+
+[2289] link 'Security & Compliance'
+
+[2291] link 'Deployments'
+
+[2293] link 'Packages and registries'
+
+[2295] link 'Infrastructure'
+
+[2297] link 'Monitor'
+
+[2299] link 'Analytics'
+
+[2301] link 'Wiki'
+
+[2303] link 'Snippets'
+
+[2305] link 'Settings'
+
+[2054] button 'Collapse sidebar'
+
+[1922] alert '' live: assertive atomic: True relevant: additions text
+
+[1925] button 'Dismiss'
+
+[1926] alert '' live: assertive atomic: True relevant: additions text
+
+[2169] link 'Add SSH key'
+
+[2170] button "Don't show again"
+
+[1923] navigation 'Breadcrumbs'
+
+[2322] link 'Byte Blaze'
+
+[2324] link 'a11y-webring.club'
+
+[1794] main ''
+
+[2182] StaticText 'A'
+
+[2071] heading 'a11y-webring.club Public - The project can be accessed without any authentication.'
+
+[2074] generic 'Public - The project can be accessed without any authentication.'
+
+[2077] StaticText 'Project ID: 179 '
+
+[2078] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2187] button '' hasPopup: menu expanded: False
+
+[2082] button 'Star'
+
+[2083] link '2'
+
+[2192] link 'Fork'
+
+[2085] link '0'
+
+[2420] link '235 Commits'
+
+[2421] link '4 Branches'
+
+[2422] link '0 Tags'
+
+[2423] link '1.9 MB Project Storage'
+
+[2091] generic 'globe with meridians'
+
+[2201] StaticText '🌐'
+
+[2092] StaticText ' A webring for digital accessibility practitioners.'
+
+[2094] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">60.4%</span>'
+
+[2095] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">26.5%</span>'
+
+[2096] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">13.1%</span>'
+
+[2206] img 'user avatar'
+
+[2210] link 'Add Tiffany Pender (#96)'
+
+[2213] StaticText 'Eric Bailey authored '
+
+[2214] time 'Mar 12, 2023 4:24pm EDT'
+
+[2424] StaticText '5 months ago'
+
+[2217] button 'Unverified'
+
+[2216] group ''
+
+[2427] StaticText '83d965d9'
+
+[2219] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3075] button 'main' hasPopup: menu expanded: False
+
+[1834] navigation 'Files breadcrumb'
+
+[3466] link 'a11y-webring.club'
+
+[3821] button 'Add to tree' hasPopup: menu expanded: False
+
+[2432] link 'Find file'
+
+[2437] link 'Web IDE'
+
+[2438] button 'Download'
+
+[3082] StaticText 'Select Archive Format'
+
+[2440] link 'Clone'
+
+[2463] link 'README'
+
+[2464] link 'MIT License'
+
+[2465] link 'Add CHANGELOG'
+
+[2466] link 'Add CONTRIBUTING'
+
+[2467] link 'Enable Auto DevOps'
+
+[2468] link 'Add Kubernetes cluster'
+
+[2469] link 'Set up CI/CD'
+
+[2470] link 'Configure Integrations'
+
+[1852] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3152] row ''
+
+[3153] columnheader 'Name' required: False
+
+[3154] columnheader 'Last commit' required: False
+
+[3155] columnheader 'Last update' required: False
+
+[3156] row ''
+
+[3183] gridcell '.github' required: False
+
+[3504] link '.github'
+
+[3184] gridcell 'Update contribution instructions' required: False
+
+[3510] link 'Update contribution instructions'
+
+[3185] gridcell '7 months ago' required: False
+
+[3513] time 'Feb 4, 2023 5:36pm EST'
+
+[3157] row ''
+
+[3186] gridcell 'data' required: False
+
+[3515] link 'data'
+
+[3187] gridcell 'Create Tiffany Pender.json' required: False
+
+[3521] link 'Create Tiffany Pender.json'
+
+[3188] gridcell '6 months ago' required: False
+
+[3524] time 'Mar 9, 2023 6:46pm EST'</pre><div>
+
+[568] where [568] is heading 'Byte Blaze / a11y-webring.club'</div>
+
+[2432]` to find the file.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is a GitLab repository for the project "Byte Blaze / a11y-webring.club". I need to navigate to the repository that I want to add users to, which is "kkroening/ffmpeg-python". I can do this by clicking on the "Find file" link and then searching for the repository name. Once I am in the repository, I can add users to it as maintainers. In summary, the next action I will perform is `click [2432]` to find the file.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1778] RootWebArea 'Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[1917] link 'Skip to content'
+
+[2102] link 'Dashboard'
+
+[2262] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3303] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[2268] link 'Create new...'
+
+[2270] link 'Issues'
+
+[2639] generic '13 assigned issues'
+
+[2271] link 'Merge requests'
+
+[2641] generic '8 merge requests'
+
+[2273] link 'To-Do List'
+
+[2657] generic 'Todos count'
+
+[2274] link 'Help'
+
+[2276] link 'Byte Blaze'
+
+[2691] img 'Byte Blaze'
+
+[1918] complementary 'Project navigation'
+
+[2135] listitem 'a11y-webring.club'
+
+[2278] link 'a11y-webring.club'
+
+[2732] StaticText 'A'
+
+[2279] link 'Project information'
+
+[2281] link 'Repository'
+
+[2283] link 'Issues'
+
+[2797] StaticText '4'
+
+[2285] link 'Merge requests'
+
+[2826] StaticText '1'
+
+[2287] link 'CI/CD'
+
+[2289] link 'Security & Compliance'
+
+[2291] link 'Deployments'
+
+[2293] link 'Packages and registries'
+
+[2295] link 'Infrastructure'
+
+[2297] link 'Monitor'
+
+[2299] link 'Analytics'
+
+[2301] link 'Wiki'
+
+[2303] link 'Snippets'
+
+[2305] link 'Settings'
+
+[2054] button 'Collapse sidebar'
+
+[1922] alert '' live: assertive atomic: True relevant: additions text
+
+[1925] button 'Dismiss'
+
+[1926] alert '' live: assertive atomic: True relevant: additions text
+
+[2169] link 'Add SSH key'
+
+[2170] button "Don't show again"
+
+[1923] navigation 'Breadcrumbs'
+
+[2322] link 'Byte Blaze'
+
+[2324] link 'a11y-webring.club'
+
+[1794] main ''
+
+[2182] StaticText 'A'
+
+[2071] heading 'a11y-webring.club Public - The project can be accessed without any authentication.'
+
+[2074] generic 'Public - The project can be accessed without any authentication.'
+
+[2077] StaticText 'Project ID: 179 '
+
+[2078] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[2187] button '' hasPopup: menu expanded: False
+
+[2082] button 'Star'
+
+[2083] link '2'
+
+[2192] link 'Fork'
+
+[2085] link '0'
+
+[2420] link '235 Commits'
+
+[2421] link '4 Branches'
+
+[2422] link '0 Tags'
+
+[2423] link '1.9 MB Project Storage'
+
+[2091] generic 'globe with meridians'
+
+[2201] StaticText '🌐'
+
+[2092] StaticText ' A webring for digital accessibility practitioners.'
+
+[2094] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">60.4%</span>'
+
+[2095] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">26.5%</span>'
+
+[2096] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">13.1%</span>'
+
+[2206] img 'user avatar'
+
+[2210] link 'Add Tiffany Pender (#96)'
+
+[2213] StaticText 'Eric Bailey authored '
+
+[2214] time 'Mar 12, 2023 4:24pm EDT'
+
+[2424] StaticText '5 months ago'
+
+[2217] button 'Unverified'
+
+[2216] group ''
+
+[2427] StaticText '83d965d9'
+
+[2219] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[3075] button 'main' hasPopup: menu expanded: False
+
+[1834] navigation 'Files breadcrumb'
+
+[3466] link 'a11y-webring.club'
+
+[3821] button 'Add to tree' hasPopup: menu expanded: False
+
+[2432] link 'Find file'
+
+[2437] link 'Web IDE'
+
+[2438] button 'Download'
+
+[3082] StaticText 'Select Archive Format'
+
+[2440] link 'Clone'
+
+[2463] link 'README'
+
+[2464] link 'MIT License'
+
+[2465] link 'Add CHANGELOG'
+
+[2466] link 'Add CONTRIBUTING'
+
+[2467] link 'Enable Auto DevOps'
+
+[2468] link 'Add Kubernetes cluster'
+
+[2469] link 'Set up CI/CD'
+
+[2470] link 'Configure Integrations'
+
+[1852] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[3152] row ''
+
+[3153] columnheader 'Name' required: False
+
+[3154] columnheader 'Last commit' required: False
+
+[3155] columnheader 'Last update' required: False
+
+[3156] row ''
+
+[3183] gridcell '.github' required: False
+
+[3504] link '.github'
+
+[3184] gridcell 'Update contribution instructions' required: False
+
+[3510] link 'Update contribution instructions'
+
+[3185] gridcell '7 months ago' required: False
+
+[3513] time 'Feb 4, 2023 5:36pm EST'
+
+[3157] row ''
+
+[3186] gridcell 'data' required: False
+
+[3515] link 'data'
+
+[3187] gridcell 'Create Tiffany Pender.json' required: False
+
+[3521] link 'Create Tiffany Pender.json'
+
+[3188] gridcell '6 months ago' required: False
+
+[3524] time 'Mar 9, 2023 6:46pm EST'</pre><div>
+
+[2432]` to find the file.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[2432]``` to find the file.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2432', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is a GitLab repository for the project "Byte Blaze / a11y-webring.club". I need to navigate to the repository that I want to add users to, which is "kkroening/ffmpeg-python". I can do this by clicking on the "Find file" link and then searching for the repository name. Once I am in the repository, I can add users to it as maintainers. In summary, the next action I will perform is ```click [2432]``` to find the file.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [2432] where [2432] is [2432] link 'Find file'</pre></div></div>
+
+[3957] RootWebArea 'Find File · main · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[4016] link 'Skip to content'
+
+[4160] link 'Dashboard'
+
+[4247] button '' hasPopup: menu expanded: False
+
+[3978] textbox 'Search GitLab' required: False
+
+[4978] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[4253] link 'Create new...'
+
+[4255] link 'Issues'
+
+[4469] generic '13 assigned issues'
+
+[4256] link 'Merge requests'
+
+[4471] generic '8 merge requests'
+
+[4258] link 'To-Do List'
+
+[4487] generic 'Todos count'
+
+[4259] link 'Help'
+
+[4261] link 'Byte Blaze'
+
+[4521] img 'Byte Blaze'
+
+[4017] complementary 'Project navigation'
+
+[4193] listitem 'a11y-webring.club'
+
+[4263] link 'a11y-webring.club'
+
+[4562] StaticText 'A'
+
+[4264] link 'Project information'
+
+[4266] link 'Repository'
+
+[5018] link 'Files'
+
+[5019] link 'Commits'
+
+[5020] link 'Branches'
+
+[5021] link 'Tags'
+
+[5022] link 'Contributors'
+
+[5023] link 'Graph'
+
+[5024] link 'Compare'
+
+[4268] link 'Issues'
+
+[4270] link 'Merge requests'
+
+[4632] StaticText '1'
+
+[4272] link 'CI/CD'
+
+[4274] link 'Security & Compliance'
+
+[4276] link 'Deployments'
+
+[4278] link 'Packages and registries'
+
+[4280] link 'Infrastructure'
+
+[4282] link 'Monitor'
+
+[4284] link 'Analytics'
+
+[4286] link 'Wiki'
+
+[4148] button 'Collapse sidebar'
+
+[4021] navigation 'Breadcrumbs'
+
+[4307] link 'Byte Blaze'
+
+[4309] link 'a11y-webring.club'
+
+[4311] link 'main'
+
+[3963] main ''
+
+[4312] button 'main'
+
+[4313] link 'a11y-webring.club'
+
+[3968] textbox 'Find by path' focused: True required: False
+
+[4155] table ''
+
+[4315] row ''
+
+[4335] gridcell '.editorconfig' required: False
+
+[4889] link '.editorconfig'
+
+[4316] row ''
+
+[4336] gridcell '.eleventy.js' required: False
+
+[4893] link '.eleventy.js'
+
+[4317] row ''
+
+[4337] gridcell '.eleventyignore' required: False
+
+[4897] link '.eleventyignore'
+
+[4318] row ''
+
+[4338] gridcell '.github/CODE_OF_CONDUCT.md' required: False
+
+[4901] link '.github/CODE_OF_CONDUCT.md'
+
+[4319] row ''
+
+[4339] gridcell '.github/CONTRIBUTING.md' required: False
+
+[4905] link '.github/CONTRIBUTING.md'
+
+[4320] row ''
+
+[4340] gridcell '.github/ISSUE_TEMPLATE/addition.yml' required: False
+
+[4909] link '.github/ISSUE_TEMPLATE/addition.yml'
+
+[4321] row ''
+
+[4341] gridcell '.github/ISSUE_TEMPLATE/bug-report.yml' required: False
+
+[4913] link '.github/ISSUE_TEMPLATE/bug-report.yml'
+
+[4322] row ''
+
+[4342] gridcell '.github/ISSUE_TEMPLATE/code-of-conduct.yml' required: False
+
+[4917] link '.github/ISSUE_TEMPLATE/code-of-conduct.yml'
+
+[4323] row ''
+
+[4343] gridcell '.github/ISSUE_TEMPLATE/feature-suggestion.yml' required: False
+
+[4921] link '.github/ISSUE_TEMPLATE/feature-suggestion.yml'
+
+[4324] row ''
+
+[4344] gridcell '.github/ISSUE_TEMPLATE/other.yml' required: False
+
+[4925] link '.github/ISSUE_TEMPLATE/other.yml'
+
+[4325] row ''
+
+[4345] gridcell '.github/PULL_REQUEST_TEMPLATE/ADDITION.md' required: False
+
+[4929] link '.github/PULL_REQUEST_TEMPLATE/ADDITION.md'
+
+[4326] row ''
+
+[4346] gridcell '.github/PULL_REQUEST_TEMPLATE/BUGFIX.md' required: False
+
+[4933] link '.github/PULL_REQUEST_TEMPLATE/BUGFIX.md'
+
+[4327] row ''
+
+[4347] gridcell '.github/PULL_REQUEST_TEMPLATE/FEATURE.md' required: False
+
+[4937] link '.github/PULL_REQUEST_TEMPLATE/FEATURE.md'
+
+[4328] row ''
+
+[4348] gridcell '.github/PULL_REQUEST_TEMPLATE/MODIFICATION.md' required: False
+
+[4941] link '.github/PULL_REQUEST_TEMPLATE/MODIFICATION.md'</pre><div>
+
+[2432] where [2432] is link 'Find file'</div>
+
+[3978]. We need to search for the repository kkroening/ffmpeg-python. I will type "kkroening/ffmpeg-python" in the search box and press Enter to search for it. In summary, the next action I will perform is ```type [3978] [kkroening/ffmpeg-python] [1]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [90, 90, 97, 94, 84, 93, 88, 93, 86, 30, 85, 85, 92, 95, 84, 86, 28, 95, 104, 99, 87, 94, 93, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3978', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page has a search box with ID [3978]. We need to search for the repository kkroening/ffmpeg-python. I will type "kkroening/ffmpeg-python" in the search box and press Enter to search for it. In summary, the next action I will perform is ```type [3978] [kkroening/ffmpeg-python] [1]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [3978] [kkroening/ffmpeg-python
+
+[3978] is [3978] textbox 'Search GitLab' required: False</pre></div></div>
+
+[5172] RootWebArea 'kkroening/ffmpeg-python · Search · GitLab' focused: True
+
+[5222] link 'Skip to content'
+
+[5363] link 'Dashboard'
+
+[5422] button '' hasPopup: menu expanded: False
+
+[5428] link 'Create new...'
+
+[5430] link 'Issues'
+
+[5628] generic '13 assigned issues'
+
+[5431] link 'Merge requests'
+
+[5630] generic '8 merge requests'
+
+[5433] link 'To-Do List'
+
+[5646] generic 'Todos count'
+
+[5434] link 'Help'
+
+[5436] link 'Byte Blaze'
+
+[5680] img 'Byte Blaze'
+
+[5178] main ''
+
+[5353] heading 'Search'
+
+[5400] StaticText 'What are you searching for?'
+
+[5183] group ''
+
+[5184] searchbox 'Search for projects, issues, etc.'
+
+[5718] StaticText 'kkroening/ffmpeg-python'
+
+[5401] button 'Clear'
+
+[5444] button 'Search'
+
+[5404] StaticText 'Group'
+
+[5405] button 'Any' hasPopup: menu expanded: False
+
+[5407] StaticText 'Project'
+
+[5408] button 'a11y-webring.club Clear' hasPopup: menu expanded: False
+
+[5474] button 'Clear'
+
+[5355] separator '' orientation: horizontal
+
+[5733] link 'Code 0'
+
+[5734] link 'Issues 0'
+
+[5735] link 'Merge requests 0'
+
+[5736] link 'Wiki 0'
+
+[5737] link 'Commits 0'
+
+[5738] link 'Comments 0'
+
+[5739] link 'Milestones 0'
+
+[5740] link 'Users 0'
+
+[5412] heading " We couldn't find any code results matching kkroening/ffmpeg-python in project Byte Blaze / a11y-webring.club"
+
+[5418] link 'Byte Blaze / a11y-webring.club'</pre><div>
+
+[3978] [kkroening/ffmpeg-python
+
+[3978] is textbox 'Search GitLab' required: False</div>
+
+[5172] RootWebArea 'kkroening/ffmpeg-python · Search · GitLab' focused: True
+
+[5222] link 'Skip to content'
+
+[5363] link 'Dashboard'
+
+[5422] button '' hasPopup: menu expanded: False
+
+[5428] link 'Create new...'
+
+[5430] link 'Issues'
+
+[5628] generic '13 assigned issues'
+
+[5431] link 'Merge requests'
+
+[5630] generic '8 merge requests'
+
+[5433] link 'To-Do List'
+
+[5646] generic 'Todos count'
+
+[5434] link 'Help'
+
+[5436] link 'Byte Blaze'
+
+[5680] img 'Byte Blaze'
+
+[5178] main ''
+
+[5353] heading 'Search'
+
+[5400] StaticText 'What are you searching for?'
+
+[5183] group ''
+
+[5184] searchbox 'Search for projects, issues, etc.'
+
+[5718] StaticText 'kkroening/ffmpeg-python'
+
+[5401] button 'Clear'
+
+[5444] button 'Search'
+
+[5404] StaticText 'Group'
+
+[5405] button 'Any' hasPopup: menu expanded: False
+
+[5407] StaticText 'Project'
+
+[5408] button 'a11y-webring.club Clear' hasPopup: menu expanded: False
+
+[5474] button 'Clear'
+
+[5355] separator '' orientation: horizontal
+
+[5733] link 'Code 0'
+
+[5734] link 'Issues 0'
+
+[5735] link 'Merge requests 0'
+
+[5736] link 'Wiki 0'
+
+[5737] link 'Commits 0'
+
+[5738] link 'Comments 0'
+
+[5739] link 'Milestones 0'
+
+[5740] link 'Users 0'
+
+[5412] heading " We couldn't find any code results matching kkroening/ffmpeg-python in project Byte Blaze / a11y-webring.club"
+
+[5418] link 'Byte Blaze / a11y-webring.club'</pre><div>
+
+[5809] RootWebArea 'Not Found' focused: True
+
+[5818] img '404'
+
+[5820] heading 'Page Not Found'
+
+[5825] StaticText 'Please contact your GitLab administrator if you think this is a mistake.'
+
+[5817] searchbox 'Search for projects, issues, etc.'
+
+[5826] button 'Search'
+
+[5838] link 'Home'
+
+[5840] link 'Sign out and sign in with a different account'
+
+[5843] link 'Help'</pre><div>
+
+[5849] RootWebArea 'kkroening/ffmpeg-python · Search · GitLab' focused: True
+
+[5910] link 'Skip to content'
+
+[6051] link 'Dashboard'
+
+[6110] button '' hasPopup: menu expanded: False
+
+[6116] link 'Create new...'
+
+[6118] link 'Issues'
+
+[6316] generic '13 assigned issues'
+
+[6119] link 'Merge requests'
+
+[6318] generic '8 merge requests'
+
+[6121] link 'To-Do List'
+
+[6334] generic 'Todos count'
+
+[6452] StaticText '5'
+
+[6122] link 'Help'
+
+[6124] link 'Byte Blaze'
+
+[6368] img 'Byte Blaze'
+
+[5879] main ''
+
+[6041] heading 'Search'
+
+[6088] StaticText 'What are you searching for?'
+
+[5888] group ''
+
+[5884] searchbox 'Search for projects, issues, etc.'
+
+[6406] StaticText 'kkroening/ffmpeg-python'
+
+[6089] button 'Clear'
+
+[6132] button 'Search'
+
+[6092] StaticText 'Group'
+
+[6093] button 'Any' hasPopup: menu expanded: False
+
+[6095] StaticText 'Project'
+
+[6096] button 'a11y-webring.club Clear' hasPopup: menu expanded: False
+
+[6162] button 'Clear'
+
+[6043] separator '' orientation: horizontal
+
+[6421] link 'Code 0'
+
+[6422] link 'Issues 0'
+
+[6423] link 'Merge requests 0'
+
+[6424] link 'Wiki 0'
+
+[6425] link 'Commits 0'
+
+[6426] link 'Comments 0'
+
+[6427] link 'Milestones 0'
+
+[6428] link 'Users 0'
+
+[6100] heading " We couldn't find any code results matching kkroening/ffmpeg-python in project Byte Blaze / a11y-webring.club"
+
+[6106] link 'Byte Blaze / a11y-webring.club'</pre><div>
+
+[5849] RootWebArea 'kkroening/ffmpeg-python · Search · GitLab' focused: True
+
+[5910] link 'Skip to content'
+
+[6051] link 'Dashboard'
+
+[6110] button '' hasPopup: menu expanded: False
+
+[6116] link 'Create new...'
+
+[6118] link 'Issues'
+
+[6316] generic '13 assigned issues'
+
+[6119] link 'Merge requests'
+
+[6318] generic '8 merge requests'
+
+[6121] link 'To-Do List'
+
+[6334] generic 'Todos count'
+
+[6452] StaticText '5'
+
+[6122] link 'Help'
+
+[6124] link 'Byte Blaze'
+
+[6368] img 'Byte Blaze'
+
+[5879] main ''
+
+[6041] heading 'Search'
+
+[6088] StaticText 'What are you searching for?'
+
+[5888] group ''
+
+[5884] searchbox 'Search for projects, issues, etc.'
+
+[6406] StaticText 'kkroening/ffmpeg-python'
+
+[6089] button 'Clear'
+
+[6132] button 'Search'
+
+[6092] StaticText 'Group'
+
+[6093] button 'Any' hasPopup: menu expanded: False
+
+[6095] StaticText 'Project'
+
+[6096] button 'a11y-webring.club Clear' hasPopup: menu expanded: False
+
+[6162] button 'Clear'
+
+[6043] separator '' orientation: horizontal
+
+[6421] link 'Code 0'
+
+[6422] link 'Issues 0'
+
+[6423] link 'Merge requests 0'
+
+[6424] link 'Wiki 0'
+
+[6425] link 'Commits 0'
+
+[6426] link 'Comments 0'
+
+[6427] link 'Milestones 0'
+
+[6428] link 'Users 0'
+
+[6100] heading " We couldn't find any code results matching kkroening/ffmpeg-python in project Byte Blaze / a11y-webring.club"
+
+[6106] link 'Byte Blaze / a11y-webring.club'</pre><div>
+
+[6497] RootWebArea 'Find File · main · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[6565] link 'Skip to content'
+
+[6709] link 'Dashboard'
+
+[6796] button '' hasPopup: menu expanded: False
+
+[6509] textbox 'Search GitLab' required: False
+
+[7527] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[6802] link 'Create new...'
+
+[6804] link 'Issues'
+
+[7018] generic '13 assigned issues'
+
+[6805] link 'Merge requests'
+
+[7020] generic '8 merge requests'
+
+[6807] link 'To-Do List'
+
+[7036] generic 'Todos count'
+
+[7548] StaticText '5'
+
+[6808] link 'Help'
+
+[6810] link 'Byte Blaze'
+
+[7070] img 'Byte Blaze'
+
+[6566] complementary 'Project navigation'
+
+[6742] listitem 'a11y-webring.club'
+
+[6812] link 'a11y-webring.club'
+
+[7111] StaticText 'A'
+
+[6813] link 'Project information'
+
+[6815] link 'Repository'
+
+[7567] link 'Files'
+
+[7568] link 'Commits'
+
+[7569] link 'Branches'
+
+[7570] link 'Tags'
+
+[7571] link 'Contributors'
+
+[7572] link 'Graph'
+
+[7573] link 'Compare'
+
+[6817] link 'Issues'
+
+[7152] StaticText '4'
+
+[6819] link 'Merge requests'
+
+[6821] link 'CI/CD'
+
+[6823] link 'Security & Compliance'
+
+[6825] link 'Deployments'
+
+[6827] link 'Packages and registries'
+
+[6829] link 'Infrastructure'
+
+[6831] link 'Monitor'
+
+[6833] link 'Analytics'
+
+[6835] link 'Wiki'
+
+[6697] button 'Collapse sidebar'
+
+[6570] navigation 'Breadcrumbs'
+
+[6856] link 'Byte Blaze'
+
+[6858] link 'a11y-webring.club'
+
+[6860] link 'main'
+
+[6534] main ''
+
+[6861] button 'main'
+
+[6862] link 'a11y-webring.club'
+
+[6530] textbox 'Find by path' required: False
+
+[6704] table ''
+
+[6864] row ''
+
+[6884] gridcell '.editorconfig' required: False
+
+[7438] link '.editorconfig'
+
+[6865] row ''
+
+[6885] gridcell '.eleventy.js' required: False
+
+[7442] link '.eleventy.js'
+
+[6866] row ''
+
+[6886] gridcell '.eleventyignore' required: False
+
+[7446] link '.eleventyignore'
+
+[6867] row ''
+
+[6887] gridcell '.github/CODE_OF_CONDUCT.md' required: False
+
+[7450] link '.github/CODE_OF_CONDUCT.md'
+
+[6868] row ''
+
+[6888] gridcell '.github/CONTRIBUTING.md' required: False
+
+[7454] link '.github/CONTRIBUTING.md'
+
+[6869] row ''
+
+[6889] gridcell '.github/ISSUE_TEMPLATE/addition.yml' required: False
+
+[7458] link '.github/ISSUE_TEMPLATE/addition.yml'
+
+[6870] row ''
+
+[6890] gridcell '.github/ISSUE_TEMPLATE/bug-report.yml' required: False
+
+[7462] link '.github/ISSUE_TEMPLATE/bug-report.yml'
+
+[6871] row ''
+
+[6891] gridcell '.github/ISSUE_TEMPLATE/code-of-conduct.yml' required: False
+
+[7466] link '.github/ISSUE_TEMPLATE/code-of-conduct.yml'
+
+[6872] row ''
+
+[6892] gridcell '.github/ISSUE_TEMPLATE/feature-suggestion.yml' required: False
+
+[7470] link '.github/ISSUE_TEMPLATE/feature-suggestion.yml'
+
+[6873] row ''
+
+[6893] gridcell '.github/ISSUE_TEMPLATE/other.yml' required: False
+
+[7474] link '.github/ISSUE_TEMPLATE/other.yml'
+
+[6874] row ''
+
+[6894] gridcell '.github/PULL_REQUEST_TEMPLATE/ADDITION.md' required: False
+
+[7478] link '.github/PULL_REQUEST_TEMPLATE/ADDITION.md'
+
+[6875] row ''
+
+[6895] gridcell '.github/PULL_REQUEST_TEMPLATE/BUGFIX.md' required: False
+
+[7482] link '.github/PULL_REQUEST_TEMPLATE/BUGFIX.md'
+
+[6876] row ''
+
+[6896] gridcell '.github/PULL_REQUEST_TEMPLATE/FEATURE.md' required: False
+
+[7486] link '.github/PULL_REQUEST_TEMPLATE/FEATURE.md'
+
+[6877] row ''
+
+[6897] gridcell '.github/PULL_REQUEST_TEMPLATE/MODIFICATION.md' required: False
+
+[7490] link '.github/PULL_REQUEST_TEMPLATE/MODIFICATION.md'</pre><div>
+
+[6858]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '6858', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. I went back to the previous page, but the objective is to add users to a repository. I need to go to the repository page first. I can achieve this by clicking on the repository link. In summary, the next action I will perform is ```click [6858]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [6858] where [6858] is [6858] link 'a11y-webring.club'</pre></div></div>
+
+[7694] RootWebArea 'Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[7833] link 'Skip to content'
+
+[8018] link 'Dashboard'
+
+[8178] button '' hasPopup: menu expanded: False
+
+[7706] textbox 'Search GitLab' required: False
+
+[9219] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8184] link 'Create new...'
+
+[8186] link 'Issues'
+
+[8555] generic '13 assigned issues'
+
+[8187] link 'Merge requests'
+
+[8557] generic '8 merge requests'
+
+[8189] link 'To-Do List'
+
+[8573] generic 'Todos count'
+
+[8190] link 'Help'
+
+[8192] link 'Byte Blaze'
+
+[8607] img 'Byte Blaze'
+
+[7834] complementary 'Project navigation'
+
+[8051] listitem 'a11y-webring.club'
+
+[8194] link 'a11y-webring.club'
+
+[8648] StaticText 'A'
+
+[8195] link 'Project information'
+
+[8197] link 'Repository'
+
+[8199] link 'Issues'
+
+[8713] StaticText '4'
+
+[8201] link 'Merge requests'
+
+[8203] link 'CI/CD'
+
+[8205] link 'Security & Compliance'
+
+[8207] link 'Deployments'
+
+[8209] link 'Packages and registries'
+
+[8211] link 'Infrastructure'
+
+[8213] link 'Monitor'
+
+[8215] link 'Analytics'
+
+[8217] link 'Wiki'
+
+[8219] link 'Snippets'
+
+[8221] link 'Settings'
+
+[7970] button 'Collapse sidebar'
+
+[7838] alert '' live: assertive atomic: True relevant: additions text
+
+[7841] button 'Dismiss'
+
+[7842] alert '' live: assertive atomic: True relevant: additions text
+
+[8085] link 'Add SSH key'
+
+[8086] button "Don't show again"
+
+[7839] navigation 'Breadcrumbs'
+
+[8238] link 'Byte Blaze'
+
+[8240] link 'a11y-webring.club'
+
+[7710] main ''
+
+[8098] StaticText 'A'
+
+[7987] heading 'a11y-webring.club Public - The project can be accessed without any authentication.'
+
+[7990] generic 'Public - The project can be accessed without any authentication.'
+
+[7993] StaticText 'Project ID: 179 '
+
+[7994] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8103] button '' hasPopup: menu expanded: False
+
+[7998] button 'Star'
+
+[7999] link '2'
+
+[8108] link 'Fork'
+
+[8001] link '0'
+
+[8336] link '235 Commits'
+
+[8337] link '4 Branches'
+
+[8338] link '0 Tags'
+
+[8339] link '1.9 MB Project Storage'
+
+[8007] generic 'globe with meridians'
+
+[8117] StaticText '🌐'
+
+[8008] StaticText ' A webring for digital accessibility practitioners.'
+
+[8010] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">60.4%</span>'
+
+[8011] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">26.5%</span>'
+
+[8012] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">13.1%</span>'
+
+[8122] img 'user avatar'
+
+[8126] link 'Add Tiffany Pender (#96)'
+
+[8129] StaticText 'Eric Bailey authored '
+
+[8130] time 'Mar 12, 2023 4:24pm EDT'
+
+[8340] StaticText '5 months ago'
+
+[8133] button 'Unverified'
+
+[8132] group ''
+
+[8343] StaticText '83d965d9'
+
+[8135] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8991] button 'main' hasPopup: menu expanded: False
+
+[7750] navigation 'Files breadcrumb'
+
+[9382] link 'a11y-webring.club'
+
+[9737] button 'Add to tree' hasPopup: menu expanded: False
+
+[8348] link 'Find file'
+
+[8353] link 'Web IDE'
+
+[8354] button 'Download'
+
+[8998] StaticText 'Select Archive Format'
+
+[8356] link 'Clone'
+
+[8379] link 'README'
+
+[8380] link 'MIT License'
+
+[8381] link 'Add CHANGELOG'
+
+[8382] link 'Add CONTRIBUTING'
+
+[8383] link 'Enable Auto DevOps'
+
+[8384] link 'Add Kubernetes cluster'
+
+[8385] link 'Set up CI/CD'
+
+[8386] link 'Configure Integrations'
+
+[7768] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[9068] row ''
+
+[9069] columnheader 'Name' required: False
+
+[9070] columnheader 'Last commit' required: False
+
+[9071] columnheader 'Last update' required: False
+
+[9072] row ''
+
+[9099] gridcell '.github' required: False
+
+[9420] link '.github'
+
+[9100] gridcell 'Update contribution instructions' required: False
+
+[9426] link 'Update contribution instructions'
+
+[9101] gridcell '7 months ago' required: False
+
+[9429] time 'Feb 4, 2023 5:36pm EST'
+
+[9073] row ''
+
+[9102] gridcell 'data' required: False
+
+[9431] link 'data'
+
+[9103] gridcell 'Create Tiffany Pender.json' required: False
+
+[9437] link 'Create Tiffany Pender.json'
+
+[9104] gridcell '6 months ago' required: False
+
+[9440] time 'Mar 9, 2023 6:46pm EST'</pre><div>
+
+[6858] where [6858] is link 'a11y-webring.club'</div>
+
+[6858] will take me to the repository. In summary, the next action I will perform is `click [6858]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. I need to navigate to the repository where I can add users as maintainers. The link with ID [6858] will take me to the repository. In summary, the next action I will perform is `click [6858]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[7694] RootWebArea 'Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[7833] link 'Skip to content'
+
+[8018] link 'Dashboard'
+
+[8178] button '' hasPopup: menu expanded: False
+
+[7706] textbox 'Search GitLab' required: False
+
+[9219] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8184] link 'Create new...'
+
+[8186] link 'Issues'
+
+[8555] generic '13 assigned issues'
+
+[8187] link 'Merge requests'
+
+[8557] generic '8 merge requests'
+
+[8189] link 'To-Do List'
+
+[8573] generic 'Todos count'
+
+[8190] link 'Help'
+
+[8192] link 'Byte Blaze'
+
+[8607] img 'Byte Blaze'
+
+[7834] complementary 'Project navigation'
+
+[8051] listitem 'a11y-webring.club'
+
+[8194] link 'a11y-webring.club'
+
+[8648] StaticText 'A'
+
+[8195] link 'Project information'
+
+[8197] link 'Repository'
+
+[8199] link 'Issues'
+
+[8713] StaticText '4'
+
+[8201] link 'Merge requests'
+
+[8203] link 'CI/CD'
+
+[8205] link 'Security & Compliance'
+
+[8207] link 'Deployments'
+
+[8209] link 'Packages and registries'
+
+[8211] link 'Infrastructure'
+
+[8213] link 'Monitor'
+
+[8215] link 'Analytics'
+
+[8217] link 'Wiki'
+
+[8219] link 'Snippets'
+
+[8221] link 'Settings'
+
+[7970] button 'Collapse sidebar'
+
+[7838] alert '' live: assertive atomic: True relevant: additions text
+
+[7841] button 'Dismiss'
+
+[7842] alert '' live: assertive atomic: True relevant: additions text
+
+[8085] link 'Add SSH key'
+
+[8086] button "Don't show again"
+
+[7839] navigation 'Breadcrumbs'
+
+[8238] link 'Byte Blaze'
+
+[8240] link 'a11y-webring.club'
+
+[7710] main ''
+
+[8098] StaticText 'A'
+
+[7987] heading 'a11y-webring.club Public - The project can be accessed without any authentication.'
+
+[7990] generic 'Public - The project can be accessed without any authentication.'
+
+[7993] StaticText 'Project ID: 179 '
+
+[7994] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8103] button '' hasPopup: menu expanded: False
+
+[7998] button 'Star'
+
+[7999] link '2'
+
+[8108] link 'Fork'
+
+[8001] link '0'
+
+[8336] link '235 Commits'
+
+[8337] link '4 Branches'
+
+[8338] link '0 Tags'
+
+[8339] link '1.9 MB Project Storage'
+
+[8007] generic 'globe with meridians'
+
+[8117] StaticText '🌐'
+
+[8008] StaticText ' A webring for digital accessibility practitioners.'
+
+[8010] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">60.4%</span>'
+
+[8011] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">26.5%</span>'
+
+[8012] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">13.1%</span>'
+
+[8122] img 'user avatar'
+
+[8126] link 'Add Tiffany Pender (#96)'
+
+[8129] StaticText 'Eric Bailey authored '
+
+[8130] time 'Mar 12, 2023 4:24pm EDT'
+
+[8340] StaticText '5 months ago'
+
+[8133] button 'Unverified'
+
+[8132] group ''
+
+[8343] StaticText '83d965d9'
+
+[8135] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8991] button 'main' hasPopup: menu expanded: False
+
+[7750] navigation 'Files breadcrumb'
+
+[9382] link 'a11y-webring.club'
+
+[9737] button 'Add to tree' hasPopup: menu expanded: False
+
+[8348] link 'Find file'
+
+[8353] link 'Web IDE'
+
+[8354] button 'Download'
+
+[8998] StaticText 'Select Archive Format'
+
+[8356] link 'Clone'
+
+[8379] link 'README'
+
+[8380] link 'MIT License'
+
+[8381] link 'Add CHANGELOG'
+
+[8382] link 'Add CONTRIBUTING'
+
+[8383] link 'Enable Auto DevOps'
+
+[8384] link 'Add Kubernetes cluster'
+
+[8385] link 'Set up CI/CD'
+
+[8386] link 'Configure Integrations'
+
+[7768] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[9068] row ''
+
+[9069] columnheader 'Name' required: False
+
+[9070] columnheader 'Last commit' required: False
+
+[9071] columnheader 'Last update' required: False
+
+[9072] row ''
+
+[9099] gridcell '.github' required: False
+
+[9420] link '.github'
+
+[9100] gridcell 'Update contribution instructions' required: False
+
+[9426] link 'Update contribution instructions'
+
+[9101] gridcell '7 months ago' required: False
+
+[9429] time 'Feb 4, 2023 5:36pm EST'
+
+[9073] row ''
+
+[9102] gridcell 'data' required: False
+
+[9431] link 'data'
+
+[9103] gridcell 'Create Tiffany Pender.json' required: False
+
+[9437] link 'Create Tiffany Pender.json'
+
+[9104] gridcell '6 months ago' required: False
+
+[9440] time 'Mar 9, 2023 6:46pm EST'</pre><div>
+
+[6858] will take me to the repository. In summary, the next action I will perform is `click [6858]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[6858] will take me to the repository. In summary, the next action I will perform is ```click [6858]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '6858', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. I need to navigate to the repository where I can add users as maintainers. The link with ID [6858] will take me to the repository. In summary, the next action I will perform is ```click [6858]```."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [6858] where [6858] is No match found</pre></div></div>
+
+[7694] RootWebArea 'Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[7833] link 'Skip to content'
+
+[8018] link 'Dashboard'
+
+[8178] button '' hasPopup: menu expanded: False
+
+[7706] textbox 'Search GitLab' required: False
+
+[9219] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8184] link 'Create new...'
+
+[8186] link 'Issues'
+
+[8555] generic '13 assigned issues'
+
+[8187] link 'Merge requests'
+
+[8557] generic '8 merge requests'
+
+[8189] link 'To-Do List'
+
+[8573] generic 'Todos count'
+
+[8190] link 'Help'
+
+[8192] link 'Byte Blaze'
+
+[8607] img 'Byte Blaze'
+
+[7834] complementary 'Project navigation'
+
+[8051] listitem 'a11y-webring.club'
+
+[8194] link 'a11y-webring.club'
+
+[8648] StaticText 'A'
+
+[8195] link 'Project information'
+
+[8197] link 'Repository'
+
+[8199] link 'Issues'
+
+[8713] StaticText '4'
+
+[8201] link 'Merge requests'
+
+[8203] link 'CI/CD'
+
+[8205] link 'Security & Compliance'
+
+[8207] link 'Deployments'
+
+[8209] link 'Packages and registries'
+
+[8211] link 'Infrastructure'
+
+[8213] link 'Monitor'
+
+[8215] link 'Analytics'
+
+[8217] link 'Wiki'
+
+[8219] link 'Snippets'
+
+[8221] link 'Settings'
+
+[7970] button 'Collapse sidebar'
+
+[7838] alert '' live: assertive atomic: True relevant: additions text
+
+[7841] button 'Dismiss'
+
+[7842] alert '' live: assertive atomic: True relevant: additions text
+
+[8085] link 'Add SSH key'
+
+[8086] button "Don't show again"
+
+[7839] navigation 'Breadcrumbs'
+
+[8238] link 'Byte Blaze'
+
+[8240] link 'a11y-webring.club'
+
+[7710] main ''
+
+[8098] StaticText 'A'
+
+[7987] heading 'a11y-webring.club Public - The project can be accessed without any authentication.'
+
+[7990] generic 'Public - The project can be accessed without any authentication.'
+
+[7993] StaticText 'Project ID: 179 '
+
+[7994] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8103] button '' hasPopup: menu expanded: False
+
+[7998] button 'Star'
+
+[7999] link '2'
+
+[8108] link 'Fork'
+
+[8001] link '0'
+
+[8336] link '235 Commits'
+
+[8337] link '4 Branches'
+
+[8338] link '0 Tags'
+
+[8339] link '1.9 MB Project Storage'
+
+[8007] generic 'globe with meridians'
+
+[8117] StaticText '🌐'
+
+[8008] StaticText ' A webring for digital accessibility practitioners.'
+
+[8010] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">60.4%</span>'
+
+[8011] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">26.5%</span>'
+
+[8012] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">13.1%</span>'
+
+[8122] img 'user avatar'
+
+[8126] link 'Add Tiffany Pender (#96)'
+
+[8129] StaticText 'Eric Bailey authored '
+
+[8130] time 'Mar 12, 2023 4:24pm EDT'
+
+[8340] StaticText '5 months ago'
+
+[8133] button 'Unverified'
+
+[8132] group ''
+
+[8343] StaticText '83d965d9'
+
+[8135] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8991] button 'main' hasPopup: menu expanded: False
+
+[7750] navigation 'Files breadcrumb'
+
+[9382] link 'a11y-webring.club'
+
+[9737] button 'Add to tree' hasPopup: menu expanded: False
+
+[8348] link 'Find file'
+
+[8353] link 'Web IDE'
+
+[8354] button 'Download'
+
+[8998] StaticText 'Select Archive Format'
+
+[8356] link 'Clone'
+
+[8379] link 'README'
+
+[8380] link 'MIT License'
+
+[8381] link 'Add CHANGELOG'
+
+[8382] link 'Add CONTRIBUTING'
+
+[8383] link 'Enable Auto DevOps'
+
+[8384] link 'Add Kubernetes cluster'
+
+[8385] link 'Set up CI/CD'
+
+[8386] link 'Configure Integrations'
+
+[7768] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[9068] row ''
+
+[9069] columnheader 'Name' required: False
+
+[9070] columnheader 'Last commit' required: False
+
+[9071] columnheader 'Last update' required: False
+
+[9072] row ''
+
+[9099] gridcell '.github' required: False
+
+[9420] link '.github'
+
+[9100] gridcell 'Update contribution instructions' required: False
+
+[9426] link 'Update contribution instructions'
+
+[9101] gridcell '7 months ago' required: False
+
+[9429] time 'Feb 4, 2023 5:36pm EST'
+
+[9073] row ''
+
+[9102] gridcell 'data' required: False
+
+[9431] link 'data'
+
+[9103] gridcell 'Create Tiffany Pender.json' required: False
+
+[9437] link 'Create Tiffany Pender.json'
+
+[9104] gridcell '6 months ago' required: False
+
+[9440] time 'Mar 9, 2023 6:46pm EST'</pre><div>
+
+[6858]" but no matching element found. Please check the observation more carefully.</div>
+
+[8195]` to navigate to the repository information page.
+
+[8195]` to navigate to the repository information page.\n2. Then, I will click on the "Repository" tab on the repository information page.\n3. Finally, I will click on the "Members" tab in the repository settings to add users as maintainers.\n\nPlease note that I cannot directly perform the actions mentioned above because the required elements are not present in the current observation.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[7694] RootWebArea 'Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[7833] link 'Skip to content'
+
+[8018] link 'Dashboard'
+
+[8178] button '' hasPopup: menu expanded: False
+
+[7706] textbox 'Search GitLab' required: False
+
+[9219] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[8184] link 'Create new...'
+
+[8186] link 'Issues'
+
+[8555] generic '13 assigned issues'
+
+[8187] link 'Merge requests'
+
+[8557] generic '8 merge requests'
+
+[8189] link 'To-Do List'
+
+[8573] generic 'Todos count'
+
+[8190] link 'Help'
+
+[8192] link 'Byte Blaze'
+
+[8607] img 'Byte Blaze'
+
+[7834] complementary 'Project navigation'
+
+[8051] listitem 'a11y-webring.club'
+
+[8194] link 'a11y-webring.club'
+
+[8648] StaticText 'A'
+
+[8195] link 'Project information'
+
+[8197] link 'Repository'
+
+[8199] link 'Issues'
+
+[8713] StaticText '4'
+
+[8201] link 'Merge requests'
+
+[8203] link 'CI/CD'
+
+[8205] link 'Security & Compliance'
+
+[8207] link 'Deployments'
+
+[8209] link 'Packages and registries'
+
+[8211] link 'Infrastructure'
+
+[8213] link 'Monitor'
+
+[8215] link 'Analytics'
+
+[8217] link 'Wiki'
+
+[8219] link 'Snippets'
+
+[8221] link 'Settings'
+
+[7970] button 'Collapse sidebar'
+
+[7838] alert '' live: assertive atomic: True relevant: additions text
+
+[7841] button 'Dismiss'
+
+[7842] alert '' live: assertive atomic: True relevant: additions text
+
+[8085] link 'Add SSH key'
+
+[8086] button "Don't show again"
+
+[7839] navigation 'Breadcrumbs'
+
+[8238] link 'Byte Blaze'
+
+[8240] link 'a11y-webring.club'
+
+[7710] main ''
+
+[8098] StaticText 'A'
+
+[7987] heading 'a11y-webring.club Public - The project can be accessed without any authentication.'
+
+[7990] generic 'Public - The project can be accessed without any authentication.'
+
+[7993] StaticText 'Project ID: 179 '
+
+[7994] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[8103] button '' hasPopup: menu expanded: False
+
+[7998] button 'Star'
+
+[7999] link '2'
+
+[8108] link 'Fork'
+
+[8001] link '0'
+
+[8336] link '235 Commits'
+
+[8337] link '4 Branches'
+
+[8338] link '0 Tags'
+
+[8339] link '1.9 MB Project Storage'
+
+[8007] generic 'globe with meridians'
+
+[8117] StaticText '🌐'
+
+[8008] StaticText ' A webring for digital accessibility practitioners.'
+
+[8010] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">60.4%</span>'
+
+[8011] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">26.5%</span>'
+
+[8012] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">13.1%</span>'
+
+[8122] img 'user avatar'
+
+[8126] link 'Add Tiffany Pender (#96)'
+
+[8129] StaticText 'Eric Bailey authored '
+
+[8130] time 'Mar 12, 2023 4:24pm EDT'
+
+[8340] StaticText '5 months ago'
+
+[8133] button 'Unverified'
+
+[8132] group ''
+
+[8343] StaticText '83d965d9'
+
+[8135] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[8991] button 'main' hasPopup: menu expanded: False
+
+[7750] navigation 'Files breadcrumb'
+
+[9382] link 'a11y-webring.club'
+
+[9737] button 'Add to tree' hasPopup: menu expanded: False
+
+[8348] link 'Find file'
+
+[8353] link 'Web IDE'
+
+[8354] button 'Download'
+
+[8998] StaticText 'Select Archive Format'
+
+[8356] link 'Clone'
+
+[8379] link 'README'
+
+[8380] link 'MIT License'
+
+[8381] link 'Add CHANGELOG'
+
+[8382] link 'Add CONTRIBUTING'
+
+[8383] link 'Enable Auto DevOps'
+
+[8384] link 'Add Kubernetes cluster'
+
+[8385] link 'Set up CI/CD'
+
+[8386] link 'Configure Integrations'
+
+[7768] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[9068] row ''
+
+[9069] columnheader 'Name' required: False
+
+[9070] columnheader 'Last commit' required: False
+
+[9071] columnheader 'Last update' required: False
+
+[9072] row ''
+
+[9099] gridcell '.github' required: False
+
+[9420] link '.github'
+
+[9100] gridcell 'Update contribution instructions' required: False
+
+[9426] link 'Update contribution instructions'
+
+[9101] gridcell '7 months ago' required: False
+
+[9429] time 'Feb 4, 2023 5:36pm EST'
+
+[9073] row ''
+
+[9102] gridcell 'data' required: False
+
+[9431] link 'data'
+
+[9103] gridcell 'Create Tiffany Pender.json' required: False
+
+[9437] link 'Create Tiffany Pender.json'
+
+[9104] gridcell '6 months ago' required: False
+
+[9440] time 'Mar 9, 2023 6:46pm EST'</pre><div>
+
+[8195]` to navigate to the repository information page.
+
+[8195]``` to navigate to the repository information page.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '8195', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [8195]``` to navigate to the repository information page.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [8195] where [8195] is [8195] link 'Project information'</pre></div></div>
+
+[9886] RootWebArea 'Activity · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[9994] link 'Skip to content'
+
+[10199] link 'Dashboard'
+
+[10799] button '' hasPopup: menu expanded: False
+
+[9898] textbox 'Search GitLab' required: False
+
+[11474] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[10805] link 'Create new...'
+
+[10807] link 'Issues'
+
+[11057] generic '13 assigned issues'
+
+[10808] link 'Merge requests'
+
+[11059] generic '8 merge requests'
+
+[10810] link 'To-Do List'
+
+[11075] generic 'Todos count'
+
+[10811] link 'Help'
+
+[10813] link 'Byte Blaze'
+
+[11109] img 'Byte Blaze'
+
+[9995] complementary 'Project navigation'
+
+[10232] listitem 'a11y-webring.club'
+
+[10815] link 'a11y-webring.club'
+
+[11150] StaticText 'A'
+
+[10816] link 'Project information'
+
+[11511] link 'Activity'
+
+[11512] link 'Labels'
+
+[11513] link 'Members'
+
+[10818] link 'Repository'
+
+[10820] link 'Issues'
+
+[11203] StaticText '4'
+
+[10822] link 'Merge requests'
+
+[10824] link 'CI/CD'
+
+[10826] link 'Security & Compliance'
+
+[10828] link 'Deployments'
+
+[10830] link 'Packages and registries'
+
+[10832] link 'Infrastructure'
+
+[10834] link 'Monitor'
+
+[10836] link 'Analytics'
+
+[10838] link 'Wiki'
+
+[10840] link 'Snippets'
+
+[10842] link 'Settings'
+
+[10128] button 'Collapse sidebar'
+
+[9999] navigation 'Breadcrumbs'
+
+[10859] link 'Byte Blaze'
+
+[10861] link 'a11y-webring.club'
+
+[10863] link 'Activity'
+
+[9928] main ''
+
+[11457] link 'All'
+
+[11458] link 'Push events'
+
+[11459] link 'Merge events'
+
+[11460] link 'Issue events'
+
+[11461] link 'Comments'
+
+[11462] link 'Wiki'
+
+[11463] link 'Designs'
+
+[11464] link 'Team'
+
+[10275] link 'Subscribe'
+
+[9932] time 'Mar 12, 2023 4:24pm EDT'
+
+[10883] StaticText '5 months ago'
+
+[10277] link "Byte Blaze's avatar"
+
+[10884] img "Byte Blaze's avatar"
+
+[10279] link 'Byte Blaze'
+
+[10280] StaticText '\xa0'
+
+[10282] StaticText '@byteblaze'
+
+[10293] StaticText 'Closed'
+
+[10294] StaticText 'merge request'
+
+[10286] link '!96'
+
+[10296] StaticText '"Create Tiffany Pender.json"'
+
+[9935] time 'Mar 1, 2023 12:44pm EST'
+
+[10886] StaticText '6 months ago'
+
+[10303] link "Byte Blaze's avatar"
+
+[10887] img "Byte Blaze's avatar"
+
+[10305] link 'Byte Blaze'
+
+[10306] StaticText '\xa0'
+
+[10308] StaticText '@byteblaze'
+
+[10319] StaticText 'Closed'
+
+[10320] StaticText 'merge request'
+
+[10312] link '!95'
+
+[10322] StaticText '"Add Mike Mai to webring"'
+
+[9938] time 'Feb 27, 2023 12:38pm EST'
+
+[10889] StaticText '6 months ago'
+
+[10329] link "Byte Blaze's avatar"
+
+[10890] img "Byte Blaze's avatar"
+
+[10331] link 'Byte Blaze'
+
+[10332] StaticText '\xa0'
+
+[10334] StaticText '@byteblaze'
+
+[10345] StaticText 'Closed'
+
+[10346] StaticText 'merge request'
+
+[10338] link '!93'
+
+[10348] StaticText '"Create Josh Kim"'
+
+[9941] time 'Feb 27, 2023 8:44pm EST'
+
+[10892] StaticText '6 months ago'
+
+[10355] link "Byte Blaze's avatar"
+
+[10893] img "Byte Blaze's avatar"
+
+[10357] link 'Byte Blaze'
+
+[10358] StaticText '\xa0'
+
+[10360] StaticText '@byteblaze'
+
+[10371] StaticText 'Closed'
+
+[10372] StaticText 'merge request'
+
+[10364] link '!94'
+
+[10374] StaticText '"Update RSS icon"'
+
+[9944] time 'Feb 25, 2023 7:26pm EST'
+
+[10895] StaticText '6 months ago'
+
+[10381] link "Byte Blaze's avatar"
+
+[10896] img "Byte Blaze's avatar"
+
+[10383] link 'Byte Blaze'
+
+[10384] StaticText '\xa0'
+
+[10386] StaticText '@byteblaze'
+
+[10397] StaticText 'Closed'
+
+[10398] StaticText 'issue'
+
+[10390] link '#80'
+
+[10400] StaticText '"Winnie’s site is down"'
+
+[9947] time 'Feb 25, 2023 7:26pm EST'
+
+[10898] StaticText '6 months ago'
+
+[10407] link "Byte Blaze's avatar"
+
+[10899] img "Byte Blaze's avatar"
+
+[10409] link 'Byte Blaze'
+
+[10410] StaticText '\xa0'
+
+[10412] StaticText '@byteblaze'
+
+[10423] StaticText 'Closed'
+
+[10424] StaticText 'merge request'
+
+[10416] link '!92'
+
+[10426] StaticText '"Restore Winnie Bosibori"'
+
+[9950] time 'Feb 25, 2023 7:05pm EST'
+
+[10901] StaticText '6 months ago'
+
+[10433] link "Byte Blaze's avatar"
+
+[10902] img "Byte Blaze's avatar"
+
+[10435] link 'Byte Blaze'
+
+[10436] StaticText '\xa0'
+
+[10438] StaticText '@byteblaze'
+
+[10449] StaticText 'Closed'
+
+[10450] StaticText 'issue'
+
+[10442] link '#88'
+
+[10452] StaticText '"[Bug] Netlify function invocation fails"'
+
+[9953] time 'Feb 25, 2023 7:05pm EST'
+
+[10904] StaticText '6 months ago'
+
+[10459] link "Byte Blaze's avatar"
+
+[10905] img "Byte Blaze's avatar"
+
+[10461] link 'Byte Blaze'
+
+[10462] StaticText '\xa0'
+
+[10464] StaticText '@byteblaze'</pre><div>
+
+[8195] where [8195] is link 'Project information'</div>
+
+[8195]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. On this page, I need to click on the link 'Project information' in order to access the repository. Then, I can perform the necessary actions to add the users as maintainers. In summary, the next action I will perform is `click [8195]`."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[9886] RootWebArea 'Activity · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[9994] link 'Skip to content'
+
+[10199] link 'Dashboard'
+
+[10799] button '' hasPopup: menu expanded: False
+
+[9898] textbox 'Search GitLab' required: False
+
+[11474] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[10805] link 'Create new...'
+
+[10807] link 'Issues'
+
+[11057] generic '13 assigned issues'
+
+[10808] link 'Merge requests'
+
+[11059] generic '8 merge requests'
+
+[10810] link 'To-Do List'
+
+[11075] generic 'Todos count'
+
+[10811] link 'Help'
+
+[10813] link 'Byte Blaze'
+
+[11109] img 'Byte Blaze'
+
+[9995] complementary 'Project navigation'
+
+[10232] listitem 'a11y-webring.club'
+
+[10815] link 'a11y-webring.club'
+
+[11150] StaticText 'A'
+
+[10816] link 'Project information'
+
+[11511] link 'Activity'
+
+[11512] link 'Labels'
+
+[11513] link 'Members'
+
+[10818] link 'Repository'
+
+[10820] link 'Issues'
+
+[11203] StaticText '4'
+
+[10822] link 'Merge requests'
+
+[10824] link 'CI/CD'
+
+[10826] link 'Security & Compliance'
+
+[10828] link 'Deployments'
+
+[10830] link 'Packages and registries'
+
+[10832] link 'Infrastructure'
+
+[10834] link 'Monitor'
+
+[10836] link 'Analytics'
+
+[10838] link 'Wiki'
+
+[10840] link 'Snippets'
+
+[10842] link 'Settings'
+
+[10128] button 'Collapse sidebar'
+
+[9999] navigation 'Breadcrumbs'
+
+[10859] link 'Byte Blaze'
+
+[10861] link 'a11y-webring.club'
+
+[10863] link 'Activity'
+
+[9928] main ''
+
+[11457] link 'All'
+
+[11458] link 'Push events'
+
+[11459] link 'Merge events'
+
+[11460] link 'Issue events'
+
+[11461] link 'Comments'
+
+[11462] link 'Wiki'
+
+[11463] link 'Designs'
+
+[11464] link 'Team'
+
+[10275] link 'Subscribe'
+
+[9932] time 'Mar 12, 2023 4:24pm EDT'
+
+[10883] StaticText '5 months ago'
+
+[10277] link "Byte Blaze's avatar"
+
+[10884] img "Byte Blaze's avatar"
+
+[10279] link 'Byte Blaze'
+
+[10280] StaticText '\xa0'
+
+[10282] StaticText '@byteblaze'
+
+[10293] StaticText 'Closed'
+
+[10294] StaticText 'merge request'
+
+[10286] link '!96'
+
+[10296] StaticText '"Create Tiffany Pender.json"'
+
+[9935] time 'Mar 1, 2023 12:44pm EST'
+
+[10886] StaticText '6 months ago'
+
+[10303] link "Byte Blaze's avatar"
+
+[10887] img "Byte Blaze's avatar"
+
+[10305] link 'Byte Blaze'
+
+[10306] StaticText '\xa0'
+
+[10308] StaticText '@byteblaze'
+
+[10319] StaticText 'Closed'
+
+[10320] StaticText 'merge request'
+
+[10312] link '!95'
+
+[10322] StaticText '"Add Mike Mai to webring"'
+
+[9938] time 'Feb 27, 2023 12:38pm EST'
+
+[10889] StaticText '6 months ago'
+
+[10329] link "Byte Blaze's avatar"
+
+[10890] img "Byte Blaze's avatar"
+
+[10331] link 'Byte Blaze'
+
+[10332] StaticText '\xa0'
+
+[10334] StaticText '@byteblaze'
+
+[10345] StaticText 'Closed'
+
+[10346] StaticText 'merge request'
+
+[10338] link '!93'
+
+[10348] StaticText '"Create Josh Kim"'
+
+[9941] time 'Feb 27, 2023 8:44pm EST'
+
+[10892] StaticText '6 months ago'
+
+[10355] link "Byte Blaze's avatar"
+
+[10893] img "Byte Blaze's avatar"
+
+[10357] link 'Byte Blaze'
+
+[10358] StaticText '\xa0'
+
+[10360] StaticText '@byteblaze'
+
+[10371] StaticText 'Closed'
+
+[10372] StaticText 'merge request'
+
+[10364] link '!94'
+
+[10374] StaticText '"Update RSS icon"'
+
+[9944] time 'Feb 25, 2023 7:26pm EST'
+
+[10895] StaticText '6 months ago'
+
+[10381] link "Byte Blaze's avatar"
+
+[10896] img "Byte Blaze's avatar"
+
+[10383] link 'Byte Blaze'
+
+[10384] StaticText '\xa0'
+
+[10386] StaticText '@byteblaze'
+
+[10397] StaticText 'Closed'
+
+[10398] StaticText 'issue'
+
+[10390] link '#80'
+
+[10400] StaticText '"Winnie’s site is down"'
+
+[9947] time 'Feb 25, 2023 7:26pm EST'
+
+[10898] StaticText '6 months ago'
+
+[10407] link "Byte Blaze's avatar"
+
+[10899] img "Byte Blaze's avatar"
+
+[10409] link 'Byte Blaze'
+
+[10410] StaticText '\xa0'
+
+[10412] StaticText '@byteblaze'
+
+[10423] StaticText 'Closed'
+
+[10424] StaticText 'merge request'
+
+[10416] link '!92'
+
+[10426] StaticText '"Restore Winnie Bosibori"'
+
+[9950] time 'Feb 25, 2023 7:05pm EST'
+
+[10901] StaticText '6 months ago'
+
+[10433] link "Byte Blaze's avatar"
+
+[10902] img "Byte Blaze's avatar"
+
+[10435] link 'Byte Blaze'
+
+[10436] StaticText '\xa0'
+
+[10438] StaticText '@byteblaze'
+
+[10449] StaticText 'Closed'
+
+[10450] StaticText 'issue'
+
+[10442] link '#88'
+
+[10452] StaticText '"[Bug] Netlify function invocation fails"'
+
+[9953] time 'Feb 25, 2023 7:05pm EST'
+
+[10904] StaticText '6 months ago'
+
+[10459] link "Byte Blaze's avatar"
+
+[10905] img "Byte Blaze's avatar"
+
+[10461] link 'Byte Blaze'
+
+[10462] StaticText '\xa0'
+
+[10464] StaticText '@byteblaze'</pre><div>
+
+[8195]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[10816]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '10816', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. On this page, I need to click on the link 'Project information' in order to access the repository. Then, I can perform the necessary actions to add the users as maintainers. In summary, the next action I will perform is ```click [10816]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [10816] where [10816] is [10816] link 'Project information'</pre></div></div>
+
+[11582] RootWebArea 'Activity · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[11690] link 'Skip to content'
+
+[11895] link 'Dashboard'
+
+[12495] button '' hasPopup: menu expanded: False
+
+[11594] textbox 'Search GitLab' required: False
+
+[13170] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[12501] link 'Create new...'
+
+[12503] link 'Issues'
+
+[12753] generic '13 assigned issues'
+
+[12504] link 'Merge requests'
+
+[12755] generic '8 merge requests'
+
+[12506] link 'To-Do List'
+
+[12771] generic 'Todos count'
+
+[12507] link 'Help'
+
+[12509] link 'Byte Blaze'
+
+[12805] img 'Byte Blaze'
+
+[11691] complementary 'Project navigation'
+
+[11928] listitem 'a11y-webring.club'
+
+[12511] link 'a11y-webring.club'
+
+[12846] StaticText 'A'
+
+[12512] link 'Project information'
+
+[13207] link 'Activity'
+
+[13208] link 'Labels'
+
+[13209] link 'Members'
+
+[12514] link 'Repository'
+
+[12516] link 'Issues'
+
+[12518] link 'Merge requests'
+
+[12520] link 'CI/CD'
+
+[12522] link 'Security & Compliance'
+
+[12524] link 'Deployments'
+
+[12526] link 'Packages and registries'
+
+[12528] link 'Infrastructure'
+
+[12530] link 'Monitor'
+
+[12532] link 'Analytics'
+
+[12534] link 'Wiki'
+
+[12536] link 'Snippets'
+
+[12538] link 'Settings'
+
+[11824] button 'Collapse sidebar'
+
+[11695] navigation 'Breadcrumbs'
+
+[12555] link 'Byte Blaze'
+
+[12557] link 'a11y-webring.club'
+
+[12559] link 'Activity'
+
+[11624] main ''
+
+[13153] link 'All'
+
+[13154] link 'Push events'
+
+[13155] link 'Merge events'
+
+[13156] link 'Issue events'
+
+[13157] link 'Comments'
+
+[13158] link 'Wiki'
+
+[13159] link 'Designs'
+
+[13160] link 'Team'
+
+[11971] link 'Subscribe'
+
+[11628] time 'Mar 12, 2023 4:24pm EDT'
+
+[12579] StaticText '5 months ago'
+
+[11973] link "Byte Blaze's avatar"
+
+[12580] img "Byte Blaze's avatar"
+
+[11975] link 'Byte Blaze'
+
+[11976] StaticText '\xa0'
+
+[11978] StaticText '@byteblaze'
+
+[11989] StaticText 'Closed'
+
+[11990] StaticText 'merge request'
+
+[11982] link '!96'
+
+[11992] StaticText '"Create Tiffany Pender.json"'
+
+[11631] time 'Mar 1, 2023 12:44pm EST'
+
+[12582] StaticText '6 months ago'
+
+[11999] link "Byte Blaze's avatar"
+
+[12583] img "Byte Blaze's avatar"
+
+[12001] link 'Byte Blaze'
+
+[12002] StaticText '\xa0'
+
+[12004] StaticText '@byteblaze'
+
+[12015] StaticText 'Closed'
+
+[12016] StaticText 'merge request'
+
+[12008] link '!95'
+
+[12018] StaticText '"Add Mike Mai to webring"'
+
+[11634] time 'Feb 27, 2023 12:38pm EST'
+
+[12585] StaticText '6 months ago'
+
+[12025] link "Byte Blaze's avatar"
+
+[12586] img "Byte Blaze's avatar"
+
+[12027] link 'Byte Blaze'
+
+[12028] StaticText '\xa0'
+
+[12030] StaticText '@byteblaze'
+
+[12041] StaticText 'Closed'
+
+[12042] StaticText 'merge request'
+
+[12034] link '!93'
+
+[12044] StaticText '"Create Josh Kim"'
+
+[11637] time 'Feb 27, 2023 8:44pm EST'
+
+[12588] StaticText '6 months ago'
+
+[12051] link "Byte Blaze's avatar"
+
+[12589] img "Byte Blaze's avatar"
+
+[12053] link 'Byte Blaze'
+
+[12054] StaticText '\xa0'
+
+[12056] StaticText '@byteblaze'
+
+[12067] StaticText 'Closed'
+
+[12068] StaticText 'merge request'
+
+[12060] link '!94'
+
+[12070] StaticText '"Update RSS icon"'
+
+[11640] time 'Feb 25, 2023 7:26pm EST'
+
+[12591] StaticText '6 months ago'
+
+[12077] link "Byte Blaze's avatar"
+
+[12592] img "Byte Blaze's avatar"
+
+[12079] link 'Byte Blaze'
+
+[12080] StaticText '\xa0'
+
+[12082] StaticText '@byteblaze'
+
+[12093] StaticText 'Closed'
+
+[12094] StaticText 'issue'
+
+[12086] link '#80'
+
+[12096] StaticText '"Winnie’s site is down"'
+
+[11643] time 'Feb 25, 2023 7:26pm EST'
+
+[12594] StaticText '6 months ago'
+
+[12103] link "Byte Blaze's avatar"
+
+[12595] img "Byte Blaze's avatar"
+
+[12105] link 'Byte Blaze'
+
+[12106] StaticText '\xa0'
+
+[12108] StaticText '@byteblaze'
+
+[12119] StaticText 'Closed'
+
+[12120] StaticText 'merge request'
+
+[12112] link '!92'
+
+[12122] StaticText '"Restore Winnie Bosibori"'
+
+[11646] time 'Feb 25, 2023 7:05pm EST'
+
+[12597] StaticText '6 months ago'
+
+[12129] link "Byte Blaze's avatar"
+
+[12598] img "Byte Blaze's avatar"
+
+[12131] link 'Byte Blaze'
+
+[12132] StaticText '\xa0'
+
+[12134] StaticText '@byteblaze'
+
+[12145] StaticText 'Closed'
+
+[12146] StaticText 'issue'
+
+[12138] link '#88'
+
+[12148] StaticText '"[Bug] Netlify function invocation fails"'
+
+[11649] time 'Feb 25, 2023 7:05pm EST'
+
+[12600] StaticText '6 months ago'
+
+[12155] link "Byte Blaze's avatar"
+
+[12601] img "Byte Blaze's avatar"
+
+[12157] link 'Byte Blaze'
+
+[12158] StaticText '\xa0'
+
+[12160] StaticText '@byteblaze'</pre><div>
+
+[10816] where [10816] is link 'Project information'</div>
+
+[12512]. I will click on this link to go to the project settings page. In summary, the next action I will perform is `click [12512]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We are currently on the GitLab activity page of the repository. To add users to the repo as maintainers, we need to go to the project settings page. From the observation, I see a link with the text "Project information" and ID [12512]. I will click on this link to go to the project settings page. In summary, the next action I will perform is `click [12512]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[11582] RootWebArea 'Activity · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[11690] link 'Skip to content'
+
+[11895] link 'Dashboard'
+
+[12495] button '' hasPopup: menu expanded: False
+
+[11594] textbox 'Search GitLab' required: False
+
+[13170] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[12501] link 'Create new...'
+
+[12503] link 'Issues'
+
+[12753] generic '13 assigned issues'
+
+[12504] link 'Merge requests'
+
+[12755] generic '8 merge requests'
+
+[12506] link 'To-Do List'
+
+[12771] generic 'Todos count'
+
+[12507] link 'Help'
+
+[12509] link 'Byte Blaze'
+
+[12805] img 'Byte Blaze'
+
+[11691] complementary 'Project navigation'
+
+[11928] listitem 'a11y-webring.club'
+
+[12511] link 'a11y-webring.club'
+
+[12846] StaticText 'A'
+
+[12512] link 'Project information'
+
+[13207] link 'Activity'
+
+[13208] link 'Labels'
+
+[13209] link 'Members'
+
+[12514] link 'Repository'
+
+[12516] link 'Issues'
+
+[12518] link 'Merge requests'
+
+[12520] link 'CI/CD'
+
+[12522] link 'Security & Compliance'
+
+[12524] link 'Deployments'
+
+[12526] link 'Packages and registries'
+
+[12528] link 'Infrastructure'
+
+[12530] link 'Monitor'
+
+[12532] link 'Analytics'
+
+[12534] link 'Wiki'
+
+[12536] link 'Snippets'
+
+[12538] link 'Settings'
+
+[11824] button 'Collapse sidebar'
+
+[11695] navigation 'Breadcrumbs'
+
+[12555] link 'Byte Blaze'
+
+[12557] link 'a11y-webring.club'
+
+[12559] link 'Activity'
+
+[11624] main ''
+
+[13153] link 'All'
+
+[13154] link 'Push events'
+
+[13155] link 'Merge events'
+
+[13156] link 'Issue events'
+
+[13157] link 'Comments'
+
+[13158] link 'Wiki'
+
+[13159] link 'Designs'
+
+[13160] link 'Team'
+
+[11971] link 'Subscribe'
+
+[11628] time 'Mar 12, 2023 4:24pm EDT'
+
+[12579] StaticText '5 months ago'
+
+[11973] link "Byte Blaze's avatar"
+
+[12580] img "Byte Blaze's avatar"
+
+[11975] link 'Byte Blaze'
+
+[11976] StaticText '\xa0'
+
+[11978] StaticText '@byteblaze'
+
+[11989] StaticText 'Closed'
+
+[11990] StaticText 'merge request'
+
+[11982] link '!96'
+
+[11992] StaticText '"Create Tiffany Pender.json"'
+
+[11631] time 'Mar 1, 2023 12:44pm EST'
+
+[12582] StaticText '6 months ago'
+
+[11999] link "Byte Blaze's avatar"
+
+[12583] img "Byte Blaze's avatar"
+
+[12001] link 'Byte Blaze'
+
+[12002] StaticText '\xa0'
+
+[12004] StaticText '@byteblaze'
+
+[12015] StaticText 'Closed'
+
+[12016] StaticText 'merge request'
+
+[12008] link '!95'
+
+[12018] StaticText '"Add Mike Mai to webring"'
+
+[11634] time 'Feb 27, 2023 12:38pm EST'
+
+[12585] StaticText '6 months ago'
+
+[12025] link "Byte Blaze's avatar"
+
+[12586] img "Byte Blaze's avatar"
+
+[12027] link 'Byte Blaze'
+
+[12028] StaticText '\xa0'
+
+[12030] StaticText '@byteblaze'
+
+[12041] StaticText 'Closed'
+
+[12042] StaticText 'merge request'
+
+[12034] link '!93'
+
+[12044] StaticText '"Create Josh Kim"'
+
+[11637] time 'Feb 27, 2023 8:44pm EST'
+
+[12588] StaticText '6 months ago'
+
+[12051] link "Byte Blaze's avatar"
+
+[12589] img "Byte Blaze's avatar"
+
+[12053] link 'Byte Blaze'
+
+[12054] StaticText '\xa0'
+
+[12056] StaticText '@byteblaze'
+
+[12067] StaticText 'Closed'
+
+[12068] StaticText 'merge request'
+
+[12060] link '!94'
+
+[12070] StaticText '"Update RSS icon"'
+
+[11640] time 'Feb 25, 2023 7:26pm EST'
+
+[12591] StaticText '6 months ago'
+
+[12077] link "Byte Blaze's avatar"
+
+[12592] img "Byte Blaze's avatar"
+
+[12079] link 'Byte Blaze'
+
+[12080] StaticText '\xa0'
+
+[12082] StaticText '@byteblaze'
+
+[12093] StaticText 'Closed'
+
+[12094] StaticText 'issue'
+
+[12086] link '#80'
+
+[12096] StaticText '"Winnie’s site is down"'
+
+[11643] time 'Feb 25, 2023 7:26pm EST'
+
+[12594] StaticText '6 months ago'
+
+[12103] link "Byte Blaze's avatar"
+
+[12595] img "Byte Blaze's avatar"
+
+[12105] link 'Byte Blaze'
+
+[12106] StaticText '\xa0'
+
+[12108] StaticText '@byteblaze'
+
+[12119] StaticText 'Closed'
+
+[12120] StaticText 'merge request'
+
+[12112] link '!92'
+
+[12122] StaticText '"Restore Winnie Bosibori"'
+
+[11646] time 'Feb 25, 2023 7:05pm EST'
+
+[12597] StaticText '6 months ago'
+
+[12129] link "Byte Blaze's avatar"
+
+[12598] img "Byte Blaze's avatar"
+
+[12131] link 'Byte Blaze'
+
+[12132] StaticText '\xa0'
+
+[12134] StaticText '@byteblaze'
+
+[12145] StaticText 'Closed'
+
+[12146] StaticText 'issue'
+
+[12138] link '#88'
+
+[12148] StaticText '"[Bug] Netlify function invocation fails"'
+
+[11649] time 'Feb 25, 2023 7:05pm EST'
+
+[12600] StaticText '6 months ago'
+
+[12155] link "Byte Blaze's avatar"
+
+[12601] img "Byte Blaze's avatar"
+
+[12157] link 'Byte Blaze'
+
+[12158] StaticText '\xa0'
+
+[12160] StaticText '@byteblaze'</pre><div>
+
+[12512]. I will click on this link to go to the project settings page. In summary, the next action I will perform is `click [12512]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[12512]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '12512', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [12512]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [12512] where [12512] is [12512] link 'Project information'</pre></div></div>
+
+[13278] RootWebArea 'Activity · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[13386] link 'Skip to content'
+
+[13591] link 'Dashboard'
+
+[14191] button '' hasPopup: menu expanded: False
+
+[13290] textbox 'Search GitLab' required: False
+
+[14866] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[14197] link 'Create new...'
+
+[14199] link 'Issues'
+
+[14449] generic '13 assigned issues'
+
+[14200] link 'Merge requests'
+
+[14451] generic '8 merge requests'
+
+[14202] link 'To-Do List'
+
+[14467] generic 'Todos count'
+
+[14203] link 'Help'
+
+[14205] link 'Byte Blaze'
+
+[14501] img 'Byte Blaze'
+
+[13387] complementary 'Project navigation'
+
+[13624] listitem 'a11y-webring.club'
+
+[14207] link 'a11y-webring.club'
+
+[14542] StaticText 'A'
+
+[14208] link 'Project information'
+
+[14903] link 'Activity'
+
+[14904] link 'Labels'
+
+[14905] link 'Members'
+
+[14210] link 'Repository'
+
+[14212] link 'Issues'
+
+[14214] link 'Merge requests'
+
+[14216] link 'CI/CD'
+
+[14218] link 'Security & Compliance'
+
+[14220] link 'Deployments'
+
+[14222] link 'Packages and registries'
+
+[14224] link 'Infrastructure'
+
+[14226] link 'Monitor'
+
+[14228] link 'Analytics'
+
+[14230] link 'Wiki'
+
+[14232] link 'Snippets'
+
+[14234] link 'Settings'
+
+[13520] button 'Collapse sidebar'
+
+[13391] navigation 'Breadcrumbs'
+
+[14251] link 'Byte Blaze'
+
+[14253] link 'a11y-webring.club'
+
+[14255] link 'Activity'
+
+[13320] main ''
+
+[14849] link 'All'
+
+[14850] link 'Push events'
+
+[14851] link 'Merge events'
+
+[14852] link 'Issue events'
+
+[14853] link 'Comments'
+
+[14854] link 'Wiki'
+
+[14855] link 'Designs'
+
+[14856] link 'Team'
+
+[13667] link 'Subscribe'
+
+[13324] time 'Mar 12, 2023 4:24pm EDT'
+
+[14275] StaticText '5 months ago'
+
+[13669] link "Byte Blaze's avatar"
+
+[14276] img "Byte Blaze's avatar"
+
+[13671] link 'Byte Blaze'
+
+[13672] StaticText '\xa0'
+
+[13674] StaticText '@byteblaze'
+
+[13685] StaticText 'Closed'
+
+[13686] StaticText 'merge request'
+
+[13678] link '!96'
+
+[13688] StaticText '"Create Tiffany Pender.json"'
+
+[13327] time 'Mar 1, 2023 12:44pm EST'
+
+[14278] StaticText '6 months ago'
+
+[13695] link "Byte Blaze's avatar"
+
+[14279] img "Byte Blaze's avatar"
+
+[13697] link 'Byte Blaze'
+
+[13698] StaticText '\xa0'
+
+[13700] StaticText '@byteblaze'
+
+[13711] StaticText 'Closed'
+
+[13712] StaticText 'merge request'
+
+[13704] link '!95'
+
+[13714] StaticText '"Add Mike Mai to webring"'
+
+[13330] time 'Feb 27, 2023 12:38pm EST'
+
+[14281] StaticText '6 months ago'
+
+[13721] link "Byte Blaze's avatar"
+
+[14282] img "Byte Blaze's avatar"
+
+[13723] link 'Byte Blaze'
+
+[13724] StaticText '\xa0'
+
+[13726] StaticText '@byteblaze'
+
+[13737] StaticText 'Closed'
+
+[13738] StaticText 'merge request'
+
+[13730] link '!93'
+
+[13740] StaticText '"Create Josh Kim"'
+
+[13333] time 'Feb 27, 2023 8:44pm EST'
+
+[14284] StaticText '6 months ago'
+
+[13747] link "Byte Blaze's avatar"
+
+[14285] img "Byte Blaze's avatar"
+
+[13749] link 'Byte Blaze'
+
+[13750] StaticText '\xa0'
+
+[13752] StaticText '@byteblaze'
+
+[13763] StaticText 'Closed'
+
+[13764] StaticText 'merge request'
+
+[13756] link '!94'
+
+[13766] StaticText '"Update RSS icon"'
+
+[13336] time 'Feb 25, 2023 7:26pm EST'
+
+[14287] StaticText '6 months ago'
+
+[13773] link "Byte Blaze's avatar"
+
+[14288] img "Byte Blaze's avatar"
+
+[13775] link 'Byte Blaze'
+
+[13776] StaticText '\xa0'
+
+[13778] StaticText '@byteblaze'
+
+[13789] StaticText 'Closed'
+
+[13790] StaticText 'issue'
+
+[13782] link '#80'
+
+[13792] StaticText '"Winnie’s site is down"'
+
+[13339] time 'Feb 25, 2023 7:26pm EST'
+
+[14290] StaticText '6 months ago'
+
+[13799] link "Byte Blaze's avatar"
+
+[14291] img "Byte Blaze's avatar"
+
+[13801] link 'Byte Blaze'
+
+[13802] StaticText '\xa0'
+
+[13804] StaticText '@byteblaze'
+
+[13815] StaticText 'Closed'
+
+[13816] StaticText 'merge request'
+
+[13808] link '!92'
+
+[13818] StaticText '"Restore Winnie Bosibori"'
+
+[13342] time 'Feb 25, 2023 7:05pm EST'
+
+[14293] StaticText '6 months ago'
+
+[13825] link "Byte Blaze's avatar"
+
+[14294] img "Byte Blaze's avatar"
+
+[13827] link 'Byte Blaze'
+
+[13828] StaticText '\xa0'
+
+[13830] StaticText '@byteblaze'
+
+[13841] StaticText 'Closed'
+
+[13842] StaticText 'issue'
+
+[13834] link '#88'
+
+[13844] StaticText '"[Bug] Netlify function invocation fails"'
+
+[13345] time 'Feb 25, 2023 7:05pm EST'
+
+[14296] StaticText '6 months ago'
+
+[13851] link "Byte Blaze's avatar"
+
+[14297] img "Byte Blaze's avatar"
+
+[13853] link 'Byte Blaze'
+
+[13854] StaticText '\xa0'
+
+[13856] StaticText '@byteblaze'</pre><div>
+
+[12512] where [12512] is link 'Project information'</div>
+
+[12512]. In summary, the next action I will perform is `click [12512]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. On the current page, we need to navigate to the "Project information" section in order to find the repository where we can add users as maintainers. To do this, I will click on the "Project information" link with ID [12512]. In summary, the next action I will perform is `click [12512]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[13278] RootWebArea 'Activity · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[13386] link 'Skip to content'
+
+[13591] link 'Dashboard'
+
+[14191] button '' hasPopup: menu expanded: False
+
+[13290] textbox 'Search GitLab' required: False
+
+[14866] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[14197] link 'Create new...'
+
+[14199] link 'Issues'
+
+[14449] generic '13 assigned issues'
+
+[14200] link 'Merge requests'
+
+[14451] generic '8 merge requests'
+
+[14202] link 'To-Do List'
+
+[14467] generic 'Todos count'
+
+[14203] link 'Help'
+
+[14205] link 'Byte Blaze'
+
+[14501] img 'Byte Blaze'
+
+[13387] complementary 'Project navigation'
+
+[13624] listitem 'a11y-webring.club'
+
+[14207] link 'a11y-webring.club'
+
+[14542] StaticText 'A'
+
+[14208] link 'Project information'
+
+[14903] link 'Activity'
+
+[14904] link 'Labels'
+
+[14905] link 'Members'
+
+[14210] link 'Repository'
+
+[14212] link 'Issues'
+
+[14214] link 'Merge requests'
+
+[14216] link 'CI/CD'
+
+[14218] link 'Security & Compliance'
+
+[14220] link 'Deployments'
+
+[14222] link 'Packages and registries'
+
+[14224] link 'Infrastructure'
+
+[14226] link 'Monitor'
+
+[14228] link 'Analytics'
+
+[14230] link 'Wiki'
+
+[14232] link 'Snippets'
+
+[14234] link 'Settings'
+
+[13520] button 'Collapse sidebar'
+
+[13391] navigation 'Breadcrumbs'
+
+[14251] link 'Byte Blaze'
+
+[14253] link 'a11y-webring.club'
+
+[14255] link 'Activity'
+
+[13320] main ''
+
+[14849] link 'All'
+
+[14850] link 'Push events'
+
+[14851] link 'Merge events'
+
+[14852] link 'Issue events'
+
+[14853] link 'Comments'
+
+[14854] link 'Wiki'
+
+[14855] link 'Designs'
+
+[14856] link 'Team'
+
+[13667] link 'Subscribe'
+
+[13324] time 'Mar 12, 2023 4:24pm EDT'
+
+[14275] StaticText '5 months ago'
+
+[13669] link "Byte Blaze's avatar"
+
+[14276] img "Byte Blaze's avatar"
+
+[13671] link 'Byte Blaze'
+
+[13672] StaticText '\xa0'
+
+[13674] StaticText '@byteblaze'
+
+[13685] StaticText 'Closed'
+
+[13686] StaticText 'merge request'
+
+[13678] link '!96'
+
+[13688] StaticText '"Create Tiffany Pender.json"'
+
+[13327] time 'Mar 1, 2023 12:44pm EST'
+
+[14278] StaticText '6 months ago'
+
+[13695] link "Byte Blaze's avatar"
+
+[14279] img "Byte Blaze's avatar"
+
+[13697] link 'Byte Blaze'
+
+[13698] StaticText '\xa0'
+
+[13700] StaticText '@byteblaze'
+
+[13711] StaticText 'Closed'
+
+[13712] StaticText 'merge request'
+
+[13704] link '!95'
+
+[13714] StaticText '"Add Mike Mai to webring"'
+
+[13330] time 'Feb 27, 2023 12:38pm EST'
+
+[14281] StaticText '6 months ago'
+
+[13721] link "Byte Blaze's avatar"
+
+[14282] img "Byte Blaze's avatar"
+
+[13723] link 'Byte Blaze'
+
+[13724] StaticText '\xa0'
+
+[13726] StaticText '@byteblaze'
+
+[13737] StaticText 'Closed'
+
+[13738] StaticText 'merge request'
+
+[13730] link '!93'
+
+[13740] StaticText '"Create Josh Kim"'
+
+[13333] time 'Feb 27, 2023 8:44pm EST'
+
+[14284] StaticText '6 months ago'
+
+[13747] link "Byte Blaze's avatar"
+
+[14285] img "Byte Blaze's avatar"
+
+[13749] link 'Byte Blaze'
+
+[13750] StaticText '\xa0'
+
+[13752] StaticText '@byteblaze'
+
+[13763] StaticText 'Closed'
+
+[13764] StaticText 'merge request'
+
+[13756] link '!94'
+
+[13766] StaticText '"Update RSS icon"'
+
+[13336] time 'Feb 25, 2023 7:26pm EST'
+
+[14287] StaticText '6 months ago'
+
+[13773] link "Byte Blaze's avatar"
+
+[14288] img "Byte Blaze's avatar"
+
+[13775] link 'Byte Blaze'
+
+[13776] StaticText '\xa0'
+
+[13778] StaticText '@byteblaze'
+
+[13789] StaticText 'Closed'
+
+[13790] StaticText 'issue'
+
+[13782] link '#80'
+
+[13792] StaticText '"Winnie’s site is down"'
+
+[13339] time 'Feb 25, 2023 7:26pm EST'
+
+[14290] StaticText '6 months ago'
+
+[13799] link "Byte Blaze's avatar"
+
+[14291] img "Byte Blaze's avatar"
+
+[13801] link 'Byte Blaze'
+
+[13802] StaticText '\xa0'
+
+[13804] StaticText '@byteblaze'
+
+[13815] StaticText 'Closed'
+
+[13816] StaticText 'merge request'
+
+[13808] link '!92'
+
+[13818] StaticText '"Restore Winnie Bosibori"'
+
+[13342] time 'Feb 25, 2023 7:05pm EST'
+
+[14293] StaticText '6 months ago'
+
+[13825] link "Byte Blaze's avatar"
+
+[14294] img "Byte Blaze's avatar"
+
+[13827] link 'Byte Blaze'
+
+[13828] StaticText '\xa0'
+
+[13830] StaticText '@byteblaze'
+
+[13841] StaticText 'Closed'
+
+[13842] StaticText 'issue'
+
+[13834] link '#88'
+
+[13844] StaticText '"[Bug] Netlify function invocation fails"'
+
+[13345] time 'Feb 25, 2023 7:05pm EST'
+
+[14296] StaticText '6 months ago'
+
+[13851] link "Byte Blaze's avatar"
+
+[14297] img "Byte Blaze's avatar"
+
+[13853] link 'Byte Blaze'
+
+[13854] StaticText '\xa0'
+
+[13856] StaticText '@byteblaze'</pre><div>
+
+[12512]. In summary, the next action I will perform is `click [12512]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[14208]. In summary, the next action I will perform is ```click [14208]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '14208', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. On the current page, we need to navigate to the "Project information" section in order to find the repository where we can add users as maintainers. To do this, I will click on the "Project information" link with ID [14208]. In summary, the next action I will perform is ```click [14208]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [14208] where [14208] is [14208] link 'Project information'</pre></div></div>
+
+[14974] RootWebArea 'Activity · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[15082] link 'Skip to content'
+
+[15287] link 'Dashboard'
+
+[15887] button '' hasPopup: menu expanded: False
+
+[14986] textbox 'Search GitLab' required: False
+
+[16562] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[15893] link 'Create new...'
+
+[15895] link 'Issues'
+
+[16145] generic '13 assigned issues'
+
+[15896] link 'Merge requests'
+
+[16147] generic '8 merge requests'
+
+[15898] link 'To-Do List'
+
+[16163] generic 'Todos count'
+
+[15899] link 'Help'
+
+[15901] link 'Byte Blaze'
+
+[16197] img 'Byte Blaze'
+
+[15083] complementary 'Project navigation'
+
+[15320] listitem 'a11y-webring.club'
+
+[15903] link 'a11y-webring.club'
+
+[16238] StaticText 'A'
+
+[15904] link 'Project information'
+
+[16599] link 'Activity'
+
+[16600] link 'Labels'
+
+[16601] link 'Members'
+
+[15906] link 'Repository'
+
+[15908] link 'Issues'
+
+[16291] StaticText '4'
+
+[15910] link 'Merge requests'
+
+[15912] link 'CI/CD'
+
+[15914] link 'Security & Compliance'
+
+[15916] link 'Deployments'
+
+[15918] link 'Packages and registries'
+
+[15920] link 'Infrastructure'
+
+[15922] link 'Monitor'
+
+[15924] link 'Analytics'
+
+[15926] link 'Wiki'
+
+[15928] link 'Snippets'
+
+[15930] link 'Settings'
+
+[15216] button 'Collapse sidebar'
+
+[15087] navigation 'Breadcrumbs'
+
+[15947] link 'Byte Blaze'
+
+[15949] link 'a11y-webring.club'
+
+[15951] link 'Activity'
+
+[15016] main ''
+
+[16545] link 'All'
+
+[16546] link 'Push events'
+
+[16547] link 'Merge events'
+
+[16548] link 'Issue events'
+
+[16549] link 'Comments'
+
+[16550] link 'Wiki'
+
+[16551] link 'Designs'
+
+[16552] link 'Team'
+
+[15363] link 'Subscribe'
+
+[15020] time 'Mar 12, 2023 4:24pm EDT'
+
+[15971] StaticText '5 months ago'
+
+[15365] link "Byte Blaze's avatar"
+
+[15972] img "Byte Blaze's avatar"
+
+[15367] link 'Byte Blaze'
+
+[15368] StaticText '\xa0'
+
+[15370] StaticText '@byteblaze'
+
+[15381] StaticText 'Closed'
+
+[15382] StaticText 'merge request'
+
+[15374] link '!96'
+
+[15384] StaticText '"Create Tiffany Pender.json"'
+
+[15023] time 'Mar 1, 2023 12:44pm EST'
+
+[15974] StaticText '6 months ago'
+
+[15391] link "Byte Blaze's avatar"
+
+[15975] img "Byte Blaze's avatar"
+
+[15393] link 'Byte Blaze'
+
+[15394] StaticText '\xa0'
+
+[15396] StaticText '@byteblaze'
+
+[15407] StaticText 'Closed'
+
+[15408] StaticText 'merge request'
+
+[15400] link '!95'
+
+[15410] StaticText '"Add Mike Mai to webring"'
+
+[15026] time 'Feb 27, 2023 12:38pm EST'
+
+[15977] StaticText '6 months ago'
+
+[15417] link "Byte Blaze's avatar"
+
+[15978] img "Byte Blaze's avatar"
+
+[15419] link 'Byte Blaze'
+
+[15420] StaticText '\xa0'
+
+[15422] StaticText '@byteblaze'
+
+[15433] StaticText 'Closed'
+
+[15434] StaticText 'merge request'
+
+[15426] link '!93'
+
+[15436] StaticText '"Create Josh Kim"'
+
+[15029] time 'Feb 27, 2023 8:44pm EST'
+
+[15980] StaticText '6 months ago'
+
+[15443] link "Byte Blaze's avatar"
+
+[15981] img "Byte Blaze's avatar"
+
+[15445] link 'Byte Blaze'
+
+[15446] StaticText '\xa0'
+
+[15448] StaticText '@byteblaze'
+
+[15459] StaticText 'Closed'
+
+[15460] StaticText 'merge request'
+
+[15452] link '!94'
+
+[15462] StaticText '"Update RSS icon"'
+
+[15032] time 'Feb 25, 2023 7:26pm EST'
+
+[15983] StaticText '6 months ago'
+
+[15469] link "Byte Blaze's avatar"
+
+[15984] img "Byte Blaze's avatar"
+
+[15471] link 'Byte Blaze'
+
+[15472] StaticText '\xa0'
+
+[15474] StaticText '@byteblaze'
+
+[15485] StaticText 'Closed'
+
+[15486] StaticText 'issue'
+
+[15478] link '#80'
+
+[15488] StaticText '"Winnie’s site is down"'
+
+[15035] time 'Feb 25, 2023 7:26pm EST'
+
+[15986] StaticText '6 months ago'
+
+[15495] link "Byte Blaze's avatar"
+
+[15987] img "Byte Blaze's avatar"
+
+[15497] link 'Byte Blaze'
+
+[15498] StaticText '\xa0'
+
+[15500] StaticText '@byteblaze'
+
+[15511] StaticText 'Closed'
+
+[15512] StaticText 'merge request'
+
+[15504] link '!92'
+
+[15514] StaticText '"Restore Winnie Bosibori"'
+
+[15038] time 'Feb 25, 2023 7:05pm EST'
+
+[15989] StaticText '6 months ago'
+
+[15521] link "Byte Blaze's avatar"
+
+[15990] img "Byte Blaze's avatar"
+
+[15523] link 'Byte Blaze'
+
+[15524] StaticText '\xa0'
+
+[15526] StaticText '@byteblaze'
+
+[15537] StaticText 'Closed'
+
+[15538] StaticText 'issue'
+
+[15530] link '#88'
+
+[15540] StaticText '"[Bug] Netlify function invocation fails"'
+
+[15041] time 'Feb 25, 2023 7:05pm EST'
+
+[15992] StaticText '6 months ago'
+
+[15547] link "Byte Blaze's avatar"
+
+[15993] img "Byte Blaze's avatar"
+
+[15549] link 'Byte Blaze'
+
+[15550] StaticText '\xa0'
+
+[15552] StaticText '@byteblaze'</pre><div>
+
+[14208] where [14208] is link 'Project information'</div>
+
+[15904].
+
+[15904]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. The objective is to add users to the repository "kkroening/ffmpeg-python" as maintainers. To achieve this, we need to navigate to the "Project information" page. We can do this by clicking on the "Project information" link with the ID [15904]. \n\nIn summary, the next action I will perform is `click [15904]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[14974] RootWebArea 'Activity · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[15082] link 'Skip to content'
+
+[15287] link 'Dashboard'
+
+[15887] button '' hasPopup: menu expanded: False
+
+[14986] textbox 'Search GitLab' required: False
+
+[16562] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[15893] link 'Create new...'
+
+[15895] link 'Issues'
+
+[16145] generic '13 assigned issues'
+
+[15896] link 'Merge requests'
+
+[16147] generic '8 merge requests'
+
+[15898] link 'To-Do List'
+
+[16163] generic 'Todos count'
+
+[15899] link 'Help'
+
+[15901] link 'Byte Blaze'
+
+[16197] img 'Byte Blaze'
+
+[15083] complementary 'Project navigation'
+
+[15320] listitem 'a11y-webring.club'
+
+[15903] link 'a11y-webring.club'
+
+[16238] StaticText 'A'
+
+[15904] link 'Project information'
+
+[16599] link 'Activity'
+
+[16600] link 'Labels'
+
+[16601] link 'Members'
+
+[15906] link 'Repository'
+
+[15908] link 'Issues'
+
+[16291] StaticText '4'
+
+[15910] link 'Merge requests'
+
+[15912] link 'CI/CD'
+
+[15914] link 'Security & Compliance'
+
+[15916] link 'Deployments'
+
+[15918] link 'Packages and registries'
+
+[15920] link 'Infrastructure'
+
+[15922] link 'Monitor'
+
+[15924] link 'Analytics'
+
+[15926] link 'Wiki'
+
+[15928] link 'Snippets'
+
+[15930] link 'Settings'
+
+[15216] button 'Collapse sidebar'
+
+[15087] navigation 'Breadcrumbs'
+
+[15947] link 'Byte Blaze'
+
+[15949] link 'a11y-webring.club'
+
+[15951] link 'Activity'
+
+[15016] main ''
+
+[16545] link 'All'
+
+[16546] link 'Push events'
+
+[16547] link 'Merge events'
+
+[16548] link 'Issue events'
+
+[16549] link 'Comments'
+
+[16550] link 'Wiki'
+
+[16551] link 'Designs'
+
+[16552] link 'Team'
+
+[15363] link 'Subscribe'
+
+[15020] time 'Mar 12, 2023 4:24pm EDT'
+
+[15971] StaticText '5 months ago'
+
+[15365] link "Byte Blaze's avatar"
+
+[15972] img "Byte Blaze's avatar"
+
+[15367] link 'Byte Blaze'
+
+[15368] StaticText '\xa0'
+
+[15370] StaticText '@byteblaze'
+
+[15381] StaticText 'Closed'
+
+[15382] StaticText 'merge request'
+
+[15374] link '!96'
+
+[15384] StaticText '"Create Tiffany Pender.json"'
+
+[15023] time 'Mar 1, 2023 12:44pm EST'
+
+[15974] StaticText '6 months ago'
+
+[15391] link "Byte Blaze's avatar"
+
+[15975] img "Byte Blaze's avatar"
+
+[15393] link 'Byte Blaze'
+
+[15394] StaticText '\xa0'
+
+[15396] StaticText '@byteblaze'
+
+[15407] StaticText 'Closed'
+
+[15408] StaticText 'merge request'
+
+[15400] link '!95'
+
+[15410] StaticText '"Add Mike Mai to webring"'
+
+[15026] time 'Feb 27, 2023 12:38pm EST'
+
+[15977] StaticText '6 months ago'
+
+[15417] link "Byte Blaze's avatar"
+
+[15978] img "Byte Blaze's avatar"
+
+[15419] link 'Byte Blaze'
+
+[15420] StaticText '\xa0'
+
+[15422] StaticText '@byteblaze'
+
+[15433] StaticText 'Closed'
+
+[15434] StaticText 'merge request'
+
+[15426] link '!93'
+
+[15436] StaticText '"Create Josh Kim"'
+
+[15029] time 'Feb 27, 2023 8:44pm EST'
+
+[15980] StaticText '6 months ago'
+
+[15443] link "Byte Blaze's avatar"
+
+[15981] img "Byte Blaze's avatar"
+
+[15445] link 'Byte Blaze'
+
+[15446] StaticText '\xa0'
+
+[15448] StaticText '@byteblaze'
+
+[15459] StaticText 'Closed'
+
+[15460] StaticText 'merge request'
+
+[15452] link '!94'
+
+[15462] StaticText '"Update RSS icon"'
+
+[15032] time 'Feb 25, 2023 7:26pm EST'
+
+[15983] StaticText '6 months ago'
+
+[15469] link "Byte Blaze's avatar"
+
+[15984] img "Byte Blaze's avatar"
+
+[15471] link 'Byte Blaze'
+
+[15472] StaticText '\xa0'
+
+[15474] StaticText '@byteblaze'
+
+[15485] StaticText 'Closed'
+
+[15486] StaticText 'issue'
+
+[15478] link '#80'
+
+[15488] StaticText '"Winnie’s site is down"'
+
+[15035] time 'Feb 25, 2023 7:26pm EST'
+
+[15986] StaticText '6 months ago'
+
+[15495] link "Byte Blaze's avatar"
+
+[15987] img "Byte Blaze's avatar"
+
+[15497] link 'Byte Blaze'
+
+[15498] StaticText '\xa0'
+
+[15500] StaticText '@byteblaze'
+
+[15511] StaticText 'Closed'
+
+[15512] StaticText 'merge request'
+
+[15504] link '!92'
+
+[15514] StaticText '"Restore Winnie Bosibori"'
+
+[15038] time 'Feb 25, 2023 7:05pm EST'
+
+[15989] StaticText '6 months ago'
+
+[15521] link "Byte Blaze's avatar"
+
+[15990] img "Byte Blaze's avatar"
+
+[15523] link 'Byte Blaze'
+
+[15524] StaticText '\xa0'
+
+[15526] StaticText '@byteblaze'
+
+[15537] StaticText 'Closed'
+
+[15538] StaticText 'issue'
+
+[15530] link '#88'
+
+[15540] StaticText '"[Bug] Netlify function invocation fails"'
+
+[15041] time 'Feb 25, 2023 7:05pm EST'
+
+[15992] StaticText '6 months ago'
+
+[15547] link "Byte Blaze's avatar"
+
+[15993] img "Byte Blaze's avatar"
+
+[15549] link 'Byte Blaze'
+
+[15550] StaticText '\xa0'
+
+[15552] StaticText '@byteblaze'</pre><div>
+
+[15904].
+
+[15904]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[15904]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '15904', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [15904]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [15904] where [15904] is [15904] link 'Project information'</pre></div></div>
+
+[16670] RootWebArea 'Activity · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[16778] link 'Skip to content'
+
+[16983] link 'Dashboard'
+
+[17583] button '' hasPopup: menu expanded: False
+
+[16682] textbox 'Search GitLab' required: False
+
+[18258] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[17589] link 'Create new...'
+
+[17591] link 'Issues'
+
+[17841] generic '13 assigned issues'
+
+[17592] link 'Merge requests'
+
+[17843] generic '8 merge requests'
+
+[17594] link 'To-Do List'
+
+[17859] generic 'Todos count'
+
+[17595] link 'Help'
+
+[17597] link 'Byte Blaze'
+
+[17893] img 'Byte Blaze'
+
+[16779] complementary 'Project navigation'
+
+[17016] listitem 'a11y-webring.club'
+
+[17599] link 'a11y-webring.club'
+
+[17934] StaticText 'A'
+
+[17600] link 'Project information'
+
+[18295] link 'Activity'
+
+[18296] link 'Labels'
+
+[18297] link 'Members'
+
+[17602] link 'Repository'
+
+[17604] link 'Issues'
+
+[17606] link 'Merge requests'
+
+[17608] link 'CI/CD'
+
+[17610] link 'Security & Compliance'
+
+[17612] link 'Deployments'
+
+[17614] link 'Packages and registries'
+
+[17616] link 'Infrastructure'
+
+[17618] link 'Monitor'
+
+[17620] link 'Analytics'
+
+[17622] link 'Wiki'
+
+[17624] link 'Snippets'
+
+[17626] link 'Settings'
+
+[16912] button 'Collapse sidebar'
+
+[16783] navigation 'Breadcrumbs'
+
+[17643] link 'Byte Blaze'
+
+[17645] link 'a11y-webring.club'
+
+[17647] link 'Activity'
+
+[16700] main ''
+
+[18241] link 'All'
+
+[18242] link 'Push events'
+
+[18243] link 'Merge events'
+
+[18244] link 'Issue events'
+
+[18245] link 'Comments'
+
+[18246] link 'Wiki'
+
+[18247] link 'Designs'
+
+[18248] link 'Team'
+
+[17059] link 'Subscribe'
+
+[16704] time 'Mar 12, 2023 4:24pm EDT'
+
+[17667] StaticText '5 months ago'
+
+[17061] link "Byte Blaze's avatar"
+
+[17668] img "Byte Blaze's avatar"
+
+[17063] link 'Byte Blaze'
+
+[17064] StaticText '\xa0'
+
+[17066] StaticText '@byteblaze'
+
+[17077] StaticText 'Closed'
+
+[17078] StaticText 'merge request'
+
+[17070] link '!96'
+
+[17080] StaticText '"Create Tiffany Pender.json"'
+
+[16707] time 'Mar 1, 2023 12:44pm EST'
+
+[17670] StaticText '6 months ago'
+
+[17087] link "Byte Blaze's avatar"
+
+[17671] img "Byte Blaze's avatar"
+
+[17089] link 'Byte Blaze'
+
+[17090] StaticText '\xa0'
+
+[17092] StaticText '@byteblaze'
+
+[17103] StaticText 'Closed'
+
+[17104] StaticText 'merge request'
+
+[17096] link '!95'
+
+[17106] StaticText '"Add Mike Mai to webring"'
+
+[16710] time 'Feb 27, 2023 12:38pm EST'
+
+[17673] StaticText '6 months ago'
+
+[17113] link "Byte Blaze's avatar"
+
+[17674] img "Byte Blaze's avatar"
+
+[17115] link 'Byte Blaze'
+
+[17116] StaticText '\xa0'
+
+[17118] StaticText '@byteblaze'
+
+[17129] StaticText 'Closed'
+
+[17130] StaticText 'merge request'
+
+[17122] link '!93'
+
+[17132] StaticText '"Create Josh Kim"'
+
+[16713] time 'Feb 27, 2023 8:44pm EST'
+
+[17676] StaticText '6 months ago'
+
+[17139] link "Byte Blaze's avatar"
+
+[17677] img "Byte Blaze's avatar"
+
+[17141] link 'Byte Blaze'
+
+[17142] StaticText '\xa0'
+
+[17144] StaticText '@byteblaze'
+
+[17155] StaticText 'Closed'
+
+[17156] StaticText 'merge request'
+
+[17148] link '!94'
+
+[17158] StaticText '"Update RSS icon"'
+
+[16716] time 'Feb 25, 2023 7:26pm EST'
+
+[17679] StaticText '6 months ago'
+
+[17165] link "Byte Blaze's avatar"
+
+[17680] img "Byte Blaze's avatar"
+
+[17167] link 'Byte Blaze'
+
+[17168] StaticText '\xa0'
+
+[17170] StaticText '@byteblaze'
+
+[17181] StaticText 'Closed'
+
+[17182] StaticText 'issue'
+
+[17174] link '#80'
+
+[17184] StaticText '"Winnie’s site is down"'
+
+[16719] time 'Feb 25, 2023 7:26pm EST'
+
+[17682] StaticText '6 months ago'
+
+[17191] link "Byte Blaze's avatar"
+
+[17683] img "Byte Blaze's avatar"
+
+[17193] link 'Byte Blaze'
+
+[17194] StaticText '\xa0'
+
+[17196] StaticText '@byteblaze'
+
+[17207] StaticText 'Closed'
+
+[17208] StaticText 'merge request'
+
+[17200] link '!92'
+
+[17210] StaticText '"Restore Winnie Bosibori"'
+
+[16722] time 'Feb 25, 2023 7:05pm EST'
+
+[17685] StaticText '6 months ago'
+
+[17217] link "Byte Blaze's avatar"
+
+[17686] img "Byte Blaze's avatar"
+
+[17219] link 'Byte Blaze'
+
+[17220] StaticText '\xa0'
+
+[17222] StaticText '@byteblaze'
+
+[17233] StaticText 'Closed'
+
+[17234] StaticText 'issue'
+
+[17226] link '#88'
+
+[17236] StaticText '"[Bug] Netlify function invocation fails"'
+
+[16725] time 'Feb 25, 2023 7:05pm EST'
+
+[17688] StaticText '6 months ago'
+
+[17243] link "Byte Blaze's avatar"
+
+[17689] img "Byte Blaze's avatar"
+
+[17245] link 'Byte Blaze'
+
+[17246] StaticText '\xa0'
+
+[17248] StaticText '@byteblaze'</pre><div>
+
+[15904] where [15904] is link 'Project information'</div>
+
+[16670] RootWebArea 'Activity · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[16778] link 'Skip to content'
+
+[16983] link 'Dashboard'
+
+[17583] button '' hasPopup: menu expanded: False
+
+[16682] textbox 'Search GitLab' required: False
+
+[18258] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[17589] link 'Create new...'
+
+[17591] link 'Issues'
+
+[17841] generic '13 assigned issues'
+
+[17592] link 'Merge requests'
+
+[17843] generic '8 merge requests'
+
+[17594] link 'To-Do List'
+
+[17859] generic 'Todos count'
+
+[17595] link 'Help'
+
+[17597] link 'Byte Blaze'
+
+[17893] img 'Byte Blaze'
+
+[16779] complementary 'Project navigation'
+
+[17016] listitem 'a11y-webring.club'
+
+[17599] link 'a11y-webring.club'
+
+[17934] StaticText 'A'
+
+[17600] link 'Project information'
+
+[18295] link 'Activity'
+
+[18296] link 'Labels'
+
+[18297] link 'Members'
+
+[17602] link 'Repository'
+
+[17604] link 'Issues'
+
+[17606] link 'Merge requests'
+
+[17608] link 'CI/CD'
+
+[17610] link 'Security & Compliance'
+
+[17612] link 'Deployments'
+
+[17614] link 'Packages and registries'
+
+[17616] link 'Infrastructure'
+
+[17618] link 'Monitor'
+
+[17620] link 'Analytics'
+
+[17622] link 'Wiki'
+
+[17624] link 'Snippets'
+
+[17626] link 'Settings'
+
+[16912] button 'Collapse sidebar'
+
+[16783] navigation 'Breadcrumbs'
+
+[17643] link 'Byte Blaze'
+
+[17645] link 'a11y-webring.club'
+
+[17647] link 'Activity'
+
+[16700] main ''
+
+[18241] link 'All'
+
+[18242] link 'Push events'
+
+[18243] link 'Merge events'
+
+[18244] link 'Issue events'
+
+[18245] link 'Comments'
+
+[18246] link 'Wiki'
+
+[18247] link 'Designs'
+
+[18248] link 'Team'
+
+[17059] link 'Subscribe'
+
+[16704] time 'Mar 12, 2023 4:24pm EDT'
+
+[17667] StaticText '5 months ago'
+
+[17061] link "Byte Blaze's avatar"
+
+[17668] img "Byte Blaze's avatar"
+
+[17063] link 'Byte Blaze'
+
+[17064] StaticText '\xa0'
+
+[17066] StaticText '@byteblaze'
+
+[17077] StaticText 'Closed'
+
+[17078] StaticText 'merge request'
+
+[17070] link '!96'
+
+[17080] StaticText '"Create Tiffany Pender.json"'
+
+[16707] time 'Mar 1, 2023 12:44pm EST'
+
+[17670] StaticText '6 months ago'
+
+[17087] link "Byte Blaze's avatar"
+
+[17671] img "Byte Blaze's avatar"
+
+[17089] link 'Byte Blaze'
+
+[17090] StaticText '\xa0'
+
+[17092] StaticText '@byteblaze'
+
+[17103] StaticText 'Closed'
+
+[17104] StaticText 'merge request'
+
+[17096] link '!95'
+
+[17106] StaticText '"Add Mike Mai to webring"'
+
+[16710] time 'Feb 27, 2023 12:38pm EST'
+
+[17673] StaticText '6 months ago'
+
+[17113] link "Byte Blaze's avatar"
+
+[17674] img "Byte Blaze's avatar"
+
+[17115] link 'Byte Blaze'
+
+[17116] StaticText '\xa0'
+
+[17118] StaticText '@byteblaze'
+
+[17129] StaticText 'Closed'
+
+[17130] StaticText 'merge request'
+
+[17122] link '!93'
+
+[17132] StaticText '"Create Josh Kim"'
+
+[16713] time 'Feb 27, 2023 8:44pm EST'
+
+[17676] StaticText '6 months ago'
+
+[17139] link "Byte Blaze's avatar"
+
+[17677] img "Byte Blaze's avatar"
+
+[17141] link 'Byte Blaze'
+
+[17142] StaticText '\xa0'
+
+[17144] StaticText '@byteblaze'
+
+[17155] StaticText 'Closed'
+
+[17156] StaticText 'merge request'
+
+[17148] link '!94'
+
+[17158] StaticText '"Update RSS icon"'
+
+[16716] time 'Feb 25, 2023 7:26pm EST'
+
+[17679] StaticText '6 months ago'
+
+[17165] link "Byte Blaze's avatar"
+
+[17680] img "Byte Blaze's avatar"
+
+[17167] link 'Byte Blaze'
+
+[17168] StaticText '\xa0'
+
+[17170] StaticText '@byteblaze'
+
+[17181] StaticText 'Closed'
+
+[17182] StaticText 'issue'
+
+[17174] link '#80'
+
+[17184] StaticText '"Winnie’s site is down"'
+
+[16719] time 'Feb 25, 2023 7:26pm EST'
+
+[17682] StaticText '6 months ago'
+
+[17191] link "Byte Blaze's avatar"
+
+[17683] img "Byte Blaze's avatar"
+
+[17193] link 'Byte Blaze'
+
+[17194] StaticText '\xa0'
+
+[17196] StaticText '@byteblaze'
+
+[17207] StaticText 'Closed'
+
+[17208] StaticText 'merge request'
+
+[17200] link '!92'
+
+[17210] StaticText '"Restore Winnie Bosibori"'
+
+[16722] time 'Feb 25, 2023 7:05pm EST'
+
+[17685] StaticText '6 months ago'
+
+[17217] link "Byte Blaze's avatar"
+
+[17686] img "Byte Blaze's avatar"
+
+[17219] link 'Byte Blaze'
+
+[17220] StaticText '\xa0'
+
+[17222] StaticText '@byteblaze'
+
+[17233] StaticText 'Closed'
+
+[17234] StaticText 'issue'
+
+[17226] link '#88'
+
+[17236] StaticText '"[Bug] Netlify function invocation fails"'
+
+[16725] time 'Feb 25, 2023 7:05pm EST'
+
+[17688] StaticText '6 months ago'
+
+[17243] link "Byte Blaze's avatar"
+
+[17689] img "Byte Blaze's avatar"
+
+[17245] link 'Byte Blaze'
+
+[17246] StaticText '\xa0'
+
+[17248] StaticText '@byteblaze'</pre><div>
+
+[18366] RootWebArea 'Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[18505] link 'Skip to content'
+
+[18690] link 'Dashboard'
+
+[18850] button '' hasPopup: menu expanded: False
+
+[18378] textbox 'Search GitLab' required: False
+
+[19891] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[18856] link 'Create new...'
+
+[18858] link 'Issues'
+
+[19227] generic '13 assigned issues'
+
+[18859] link 'Merge requests'
+
+[19229] generic '8 merge requests'
+
+[18861] link 'To-Do List'
+
+[19245] generic 'Todos count'
+
+[18862] link 'Help'
+
+[18864] link 'Byte Blaze'
+
+[19279] img 'Byte Blaze'
+
+[18506] complementary 'Project navigation'
+
+[18723] listitem 'a11y-webring.club'
+
+[18866] link 'a11y-webring.club'
+
+[19320] StaticText 'A'
+
+[18867] link 'Project information'
+
+[18869] link 'Repository'
+
+[18871] link 'Issues'
+
+[19385] StaticText '4'
+
+[18873] link 'Merge requests'
+
+[18875] link 'CI/CD'
+
+[18877] link 'Security & Compliance'
+
+[18879] link 'Deployments'
+
+[18881] link 'Packages and registries'
+
+[18883] link 'Infrastructure'
+
+[18885] link 'Monitor'
+
+[18887] link 'Analytics'
+
+[18889] link 'Wiki'
+
+[18891] link 'Snippets'
+
+[18893] link 'Settings'
+
+[18642] button 'Collapse sidebar'
+
+[18510] alert '' live: assertive atomic: True relevant: additions text
+
+[18513] button 'Dismiss'
+
+[18514] alert '' live: assertive atomic: True relevant: additions text
+
+[18757] link 'Add SSH key'
+
+[18758] button "Don't show again"
+
+[18511] navigation 'Breadcrumbs'
+
+[18910] link 'Byte Blaze'
+
+[18912] link 'a11y-webring.club'
+
+[18382] main ''
+
+[18770] StaticText 'A'
+
+[18659] heading 'a11y-webring.club Public - The project can be accessed without any authentication.'
+
+[18662] generic 'Public - The project can be accessed without any authentication.'
+
+[18665] StaticText 'Project ID: 179 '
+
+[18666] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[18775] button '' hasPopup: menu expanded: False
+
+[18670] button 'Star'
+
+[18671] link '2'
+
+[18780] link 'Fork'
+
+[18673] link '0'
+
+[19008] link '235 Commits'
+
+[19009] link '4 Branches'
+
+[19010] link '0 Tags'
+
+[19011] link '1.9 MB Project Storage'
+
+[18679] generic 'globe with meridians'
+
+[18789] StaticText '🌐'
+
+[18680] StaticText ' A webring for digital accessibility practitioners.'
+
+[18682] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">60.4%</span>'
+
+[18683] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">26.5%</span>'
+
+[18684] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">13.1%</span>'
+
+[18794] img 'user avatar'
+
+[18798] link 'Add Tiffany Pender (#96)'
+
+[18801] StaticText 'Eric Bailey authored '
+
+[18802] time 'Mar 12, 2023 4:24pm EDT'
+
+[19012] StaticText '5 months ago'
+
+[18805] button 'Unverified'
+
+[18804] group ''
+
+[19015] StaticText '83d965d9'
+
+[18807] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[19663] button 'main' hasPopup: menu expanded: False
+
+[18422] navigation 'Files breadcrumb'
+
+[20054] link 'a11y-webring.club'
+
+[20409] button 'Add to tree' hasPopup: menu expanded: False
+
+[19020] link 'Find file'
+
+[19025] link 'Web IDE'
+
+[19026] button 'Download'
+
+[19670] StaticText 'Select Archive Format'
+
+[19028] link 'Clone'
+
+[19051] link 'README'
+
+[19052] link 'MIT License'
+
+[19053] link 'Add CHANGELOG'
+
+[19054] link 'Add CONTRIBUTING'
+
+[19055] link 'Enable Auto DevOps'
+
+[19056] link 'Add Kubernetes cluster'
+
+[19057] link 'Set up CI/CD'
+
+[19058] link 'Configure Integrations'
+
+[18440] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[19740] row ''
+
+[19741] columnheader 'Name' required: False
+
+[19742] columnheader 'Last commit' required: False
+
+[19743] columnheader 'Last update' required: False
+
+[19744] row ''
+
+[19771] gridcell '.github' required: False
+
+[20092] link '.github'
+
+[19772] gridcell 'Update contribution instructions' required: False
+
+[20098] link 'Update contribution instructions'
+
+[19773] gridcell '7 months ago' required: False
+
+[20101] time 'Feb 4, 2023 5:36pm EST'
+
+[19745] row ''
+
+[19774] gridcell 'data' required: False
+
+[20103] link 'data'
+
+[19775] gridcell 'Create Tiffany Pender.json' required: False
+
+[20109] link 'Create Tiffany Pender.json'
+
+[19776] gridcell '6 months ago' required: False
+
+[20112] time 'Mar 9, 2023 6:46pm EST'</pre><div>
+
+[18366] RootWebArea 'Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[18505] link 'Skip to content'
+
+[18690] link 'Dashboard'
+
+[18850] button '' hasPopup: menu expanded: False
+
+[18378] textbox 'Search GitLab' required: False
+
+[19891] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[18856] link 'Create new...'
+
+[18858] link 'Issues'
+
+[19227] generic '13 assigned issues'
+
+[18859] link 'Merge requests'
+
+[19229] generic '8 merge requests'
+
+[18861] link 'To-Do List'
+
+[19245] generic 'Todos count'
+
+[18862] link 'Help'
+
+[18864] link 'Byte Blaze'
+
+[19279] img 'Byte Blaze'
+
+[18506] complementary 'Project navigation'
+
+[18723] listitem 'a11y-webring.club'
+
+[18866] link 'a11y-webring.club'
+
+[19320] StaticText 'A'
+
+[18867] link 'Project information'
+
+[18869] link 'Repository'
+
+[18871] link 'Issues'
+
+[19385] StaticText '4'
+
+[18873] link 'Merge requests'
+
+[18875] link 'CI/CD'
+
+[18877] link 'Security & Compliance'
+
+[18879] link 'Deployments'
+
+[18881] link 'Packages and registries'
+
+[18883] link 'Infrastructure'
+
+[18885] link 'Monitor'
+
+[18887] link 'Analytics'
+
+[18889] link 'Wiki'
+
+[18891] link 'Snippets'
+
+[18893] link 'Settings'
+
+[18642] button 'Collapse sidebar'
+
+[18510] alert '' live: assertive atomic: True relevant: additions text
+
+[18513] button 'Dismiss'
+
+[18514] alert '' live: assertive atomic: True relevant: additions text
+
+[18757] link 'Add SSH key'
+
+[18758] button "Don't show again"
+
+[18511] navigation 'Breadcrumbs'
+
+[18910] link 'Byte Blaze'
+
+[18912] link 'a11y-webring.club'
+
+[18382] main ''
+
+[18770] StaticText 'A'
+
+[18659] heading 'a11y-webring.club Public - The project can be accessed without any authentication.'
+
+[18662] generic 'Public - The project can be accessed without any authentication.'
+
+[18665] StaticText 'Project ID: 179 '
+
+[18666] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[18775] button '' hasPopup: menu expanded: False
+
+[18670] button 'Star'
+
+[18671] link '2'
+
+[18780] link 'Fork'
+
+[18673] link '0'
+
+[19008] link '235 Commits'
+
+[19009] link '4 Branches'
+
+[19010] link '0 Tags'
+
+[19011] link '1.9 MB Project Storage'
+
+[18679] generic 'globe with meridians'
+
+[18789] StaticText '🌐'
+
+[18680] StaticText ' A webring for digital accessibility practitioners.'
+
+[18682] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">60.4%</span>'
+
+[18683] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">26.5%</span>'
+
+[18684] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">13.1%</span>'
+
+[18794] img 'user avatar'
+
+[18798] link 'Add Tiffany Pender (#96)'
+
+[18801] StaticText 'Eric Bailey authored '
+
+[18802] time 'Mar 12, 2023 4:24pm EDT'
+
+[19012] StaticText '5 months ago'
+
+[18805] button 'Unverified'
+
+[18804] group ''
+
+[19015] StaticText '83d965d9'
+
+[18807] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[19663] button 'main' hasPopup: menu expanded: False
+
+[18422] navigation 'Files breadcrumb'
+
+[20054] link 'a11y-webring.club'
+
+[20409] button 'Add to tree' hasPopup: menu expanded: False
+
+[19020] link 'Find file'
+
+[19025] link 'Web IDE'
+
+[19026] button 'Download'
+
+[19670] StaticText 'Select Archive Format'
+
+[19028] link 'Clone'
+
+[19051] link 'README'
+
+[19052] link 'MIT License'
+
+[19053] link 'Add CHANGELOG'
+
+[19054] link 'Add CONTRIBUTING'
+
+[19055] link 'Enable Auto DevOps'
+
+[19056] link 'Add Kubernetes cluster'
+
+[19057] link 'Set up CI/CD'
+
+[19058] link 'Configure Integrations'
+
+[18440] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[19740] row ''
+
+[19741] columnheader 'Name' required: False
+
+[19742] columnheader 'Last commit' required: False
+
+[19743] columnheader 'Last update' required: False
+
+[19744] row ''
+
+[19771] gridcell '.github' required: False
+
+[20092] link '.github'
+
+[19772] gridcell 'Update contribution instructions' required: False
+
+[20098] link 'Update contribution instructions'
+
+[19773] gridcell '7 months ago' required: False
+
+[20101] time 'Feb 4, 2023 5:36pm EST'
+
+[19745] row ''
+
+[19774] gridcell 'data' required: False
+
+[20103] link 'data'
+
+[19775] gridcell 'Create Tiffany Pender.json' required: False
+
+[20109] link 'Create Tiffany Pender.json'
+
+[19776] gridcell '6 months ago' required: False
+
+[20112] time 'Mar 9, 2023 6:46pm EST'</pre><div>
+
+[18366] RootWebArea 'Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[18505] link 'Skip to content'
+
+[18690] link 'Dashboard'
+
+[18850] button '' hasPopup: menu expanded: False
+
+[18378] textbox 'Search GitLab' required: False
+
+[19891] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[18856] link 'Create new...'
+
+[18858] link 'Issues'
+
+[19227] generic '13 assigned issues'
+
+[18859] link 'Merge requests'
+
+[19229] generic '8 merge requests'
+
+[18861] link 'To-Do List'
+
+[19245] generic 'Todos count'
+
+[18862] link 'Help'
+
+[18864] link 'Byte Blaze'
+
+[19279] img 'Byte Blaze'
+
+[18506] complementary 'Project navigation'
+
+[18723] listitem 'a11y-webring.club'
+
+[18866] link 'a11y-webring.club'
+
+[19320] StaticText 'A'
+
+[18867] link 'Project information'
+
+[18869] link 'Repository'
+
+[18871] link 'Issues'
+
+[19385] StaticText '4'
+
+[18873] link 'Merge requests'
+
+[18875] link 'CI/CD'
+
+[18877] link 'Security & Compliance'
+
+[18879] link 'Deployments'
+
+[18881] link 'Packages and registries'
+
+[18883] link 'Infrastructure'
+
+[18885] link 'Monitor'
+
+[18887] link 'Analytics'
+
+[18889] link 'Wiki'
+
+[18891] link 'Snippets'
+
+[18893] link 'Settings'
+
+[18642] button 'Collapse sidebar'
+
+[18510] alert '' live: assertive atomic: True relevant: additions text
+
+[18513] button 'Dismiss'
+
+[18514] alert '' live: assertive atomic: True relevant: additions text
+
+[18757] link 'Add SSH key'
+
+[18758] button "Don't show again"
+
+[18511] navigation 'Breadcrumbs'
+
+[18910] link 'Byte Blaze'
+
+[18912] link 'a11y-webring.club'
+
+[18382] main ''
+
+[18770] StaticText 'A'
+
+[18659] heading 'a11y-webring.club Public - The project can be accessed without any authentication.'
+
+[18662] generic 'Public - The project can be accessed without any authentication.'
+
+[18665] StaticText 'Project ID: 179 '
+
+[18666] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[18775] button '' hasPopup: menu expanded: False
+
+[18670] button 'Star'
+
+[18671] link '2'
+
+[18780] link 'Fork'
+
+[18673] link '0'
+
+[19008] link '235 Commits'
+
+[19009] link '4 Branches'
+
+[19010] link '0 Tags'
+
+[19011] link '1.9 MB Project Storage'
+
+[18679] generic 'globe with meridians'
+
+[18789] StaticText '🌐'
+
+[18680] StaticText ' A webring for digital accessibility practitioners.'
+
+[18682] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">60.4%</span>'
+
+[18683] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">26.5%</span>'
+
+[18684] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">13.1%</span>'
+
+[18794] img 'user avatar'
+
+[18798] link 'Add Tiffany Pender (#96)'
+
+[18801] StaticText 'Eric Bailey authored '
+
+[18802] time 'Mar 12, 2023 4:24pm EDT'
+
+[19012] StaticText '5 months ago'
+
+[18805] button 'Unverified'
+
+[18804] group ''
+
+[19015] StaticText '83d965d9'
+
+[18807] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[19663] button 'main' hasPopup: menu expanded: False
+
+[18422] navigation 'Files breadcrumb'
+
+[20054] link 'a11y-webring.club'
+
+[20409] button 'Add to tree' hasPopup: menu expanded: False
+
+[19020] link 'Find file'
+
+[19025] link 'Web IDE'
+
+[19026] button 'Download'
+
+[19670] StaticText 'Select Archive Format'
+
+[19028] link 'Clone'
+
+[19051] link 'README'
+
+[19052] link 'MIT License'
+
+[19053] link 'Add CHANGELOG'
+
+[19054] link 'Add CONTRIBUTING'
+
+[19055] link 'Enable Auto DevOps'
+
+[19056] link 'Add Kubernetes cluster'
+
+[19057] link 'Set up CI/CD'
+
+[19058] link 'Configure Integrations'
+
+[18440] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[19740] row ''
+
+[19741] columnheader 'Name' required: False
+
+[19742] columnheader 'Last commit' required: False
+
+[19743] columnheader 'Last update' required: False
+
+[19744] row ''
+
+[19771] gridcell '.github' required: False
+
+[20092] link '.github'
+
+[19772] gridcell 'Update contribution instructions' required: False
+
+[20098] link 'Update contribution instructions'
+
+[19773] gridcell '7 months ago' required: False
+
+[20101] time 'Feb 4, 2023 5:36pm EST'
+
+[19745] row ''
+
+[19774] gridcell 'data' required: False
+
+[20103] link 'data'
+
+[19775] gridcell 'Create Tiffany Pender.json' required: False
+
+[20109] link 'Create Tiffany Pender.json'
+
+[19776] gridcell '6 months ago' required: False
+
+[20112] time 'Mar 9, 2023 6:46pm EST'</pre><div>
+
+[20545] RootWebArea 'Find File · main · Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[20604] link 'Skip to content'
+
+[20748] link 'Dashboard'
+
+[20835] button '' hasPopup: menu expanded: False
+
+[20566] textbox 'Search GitLab' required: False
+
+[21566] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[20841] link 'Create new...'
+
+[20843] link 'Issues'
+
+[21057] generic '13 assigned issues'
+
+[20844] link 'Merge requests'
+
+[21059] generic '8 merge requests'
+
+[20846] link 'To-Do List'
+
+[21075] generic 'Todos count'
+
+[20847] link 'Help'
+
+[20849] link 'Byte Blaze'
+
+[21109] img 'Byte Blaze'
+
+[20605] complementary 'Project navigation'
+
+[20781] listitem 'a11y-webring.club'
+
+[20851] link 'a11y-webring.club'
+
+[21150] StaticText 'A'
+
+[20852] link 'Project information'
+
+[20854] link 'Repository'
+
+[21606] link 'Files'
+
+[21607] link 'Commits'
+
+[21608] link 'Branches'
+
+[21609] link 'Tags'
+
+[21610] link 'Contributors'
+
+[21611] link 'Graph'
+
+[21612] link 'Compare'
+
+[20856] link 'Issues'
+
+[21191] StaticText '4'
+
+[20858] link 'Merge requests'
+
+[20860] link 'CI/CD'
+
+[20862] link 'Security & Compliance'
+
+[20864] link 'Deployments'
+
+[20866] link 'Packages and registries'
+
+[20868] link 'Infrastructure'
+
+[20870] link 'Monitor'
+
+[20872] link 'Analytics'
+
+[20874] link 'Wiki'
+
+[20736] button 'Collapse sidebar'
+
+[20609] navigation 'Breadcrumbs'
+
+[20895] link 'Byte Blaze'
+
+[20897] link 'a11y-webring.club'
+
+[20899] link 'main'
+
+[20551] main ''
+
+[20900] button 'main'
+
+[20901] link 'a11y-webring.club'
+
+[20556] textbox 'Find by path' focused: True required: False
+
+[20743] table ''
+
+[20903] row ''
+
+[20923] gridcell '.editorconfig' required: False
+
+[21477] link '.editorconfig'
+
+[20904] row ''
+
+[20924] gridcell '.eleventy.js' required: False
+
+[21481] link '.eleventy.js'
+
+[20905] row ''
+
+[20925] gridcell '.eleventyignore' required: False
+
+[21485] link '.eleventyignore'
+
+[20906] row ''
+
+[20926] gridcell '.github/CODE_OF_CONDUCT.md' required: False
+
+[21489] link '.github/CODE_OF_CONDUCT.md'
+
+[20907] row ''
+
+[20927] gridcell '.github/CONTRIBUTING.md' required: False
+
+[21493] link '.github/CONTRIBUTING.md'
+
+[20908] row ''
+
+[20928] gridcell '.github/ISSUE_TEMPLATE/addition.yml' required: False
+
+[21497] link '.github/ISSUE_TEMPLATE/addition.yml'
+
+[20909] row ''
+
+[20929] gridcell '.github/ISSUE_TEMPLATE/bug-report.yml' required: False
+
+[21501] link '.github/ISSUE_TEMPLATE/bug-report.yml'
+
+[20910] row ''
+
+[20930] gridcell '.github/ISSUE_TEMPLATE/code-of-conduct.yml' required: False
+
+[21505] link '.github/ISSUE_TEMPLATE/code-of-conduct.yml'
+
+[20911] row ''
+
+[20931] gridcell '.github/ISSUE_TEMPLATE/feature-suggestion.yml' required: False
+
+[21509] link '.github/ISSUE_TEMPLATE/feature-suggestion.yml'
+
+[20912] row ''
+
+[20932] gridcell '.github/ISSUE_TEMPLATE/other.yml' required: False
+
+[21513] link '.github/ISSUE_TEMPLATE/other.yml'
+
+[20913] row ''
+
+[20933] gridcell '.github/PULL_REQUEST_TEMPLATE/ADDITION.md' required: False
+
+[21517] link '.github/PULL_REQUEST_TEMPLATE/ADDITION.md'
+
+[20914] row ''
+
+[20934] gridcell '.github/PULL_REQUEST_TEMPLATE/BUGFIX.md' required: False
+
+[21521] link '.github/PULL_REQUEST_TEMPLATE/BUGFIX.md'
+
+[20915] row ''
+
+[20935] gridcell '.github/PULL_REQUEST_TEMPLATE/FEATURE.md' required: False
+
+[21525] link '.github/PULL_REQUEST_TEMPLATE/FEATURE.md'
+
+[20916] row ''
+
+[20936] gridcell '.github/PULL_REQUEST_TEMPLATE/MODIFICATION.md' required: False
+
+[21529] link '.github/PULL_REQUEST_TEMPLATE/MODIFICATION.md'</pre><div>
+
+[21733] RootWebArea 'Byte Blaze / a11y-webring.club · GitLab' focused: True
+
+[21872] link 'Skip to content'
+
+[22057] link 'Dashboard'
+
+[22217] button '' hasPopup: menu expanded: False
+
+[21745] textbox 'Search GitLab' required: False
+
+[23258] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[22223] link 'Create new...'
+
+[22225] link 'Issues'
+
+[22594] generic '13 assigned issues'
+
+[22226] link 'Merge requests'
+
+[22596] generic '8 merge requests'
+
+[22228] link 'To-Do List'
+
+[22612] generic 'Todos count'
+
+[22229] link 'Help'
+
+[22231] link 'Byte Blaze'
+
+[22646] img 'Byte Blaze'
+
+[21873] complementary 'Project navigation'
+
+[22090] listitem 'a11y-webring.club'
+
+[22233] link 'a11y-webring.club'
+
+[22687] StaticText 'A'
+
+[22234] link 'Project information'
+
+[22236] link 'Repository'
+
+[22238] link 'Issues'
+
+[22240] link 'Merge requests'
+
+[22781] StaticText '1'
+
+[22242] link 'CI/CD'
+
+[22244] link 'Security & Compliance'
+
+[22246] link 'Deployments'
+
+[22248] link 'Packages and registries'
+
+[22250] link 'Infrastructure'
+
+[22252] link 'Monitor'
+
+[22254] link 'Analytics'
+
+[22256] link 'Wiki'
+
+[22258] link 'Snippets'
+
+[22260] link 'Settings'
+
+[22009] button 'Collapse sidebar'
+
+[21877] alert '' live: assertive atomic: True relevant: additions text
+
+[21880] button 'Dismiss'
+
+[21881] alert '' live: assertive atomic: True relevant: additions text
+
+[22124] link 'Add SSH key'
+
+[22125] button "Don't show again"
+
+[21878] navigation 'Breadcrumbs'
+
+[22277] link 'Byte Blaze'
+
+[22279] link 'a11y-webring.club'
+
+[21749] main ''
+
+[22137] StaticText 'A'
+
+[22026] heading 'a11y-webring.club Public - The project can be accessed without any authentication.'
+
+[22029] generic 'Public - The project can be accessed without any authentication.'
+
+[22032] StaticText 'Project ID: 179 '
+
+[22033] button 'Copy project ID' live: polite atomic: False relevant: additions text
+
+[22142] button '' hasPopup: menu expanded: False
+
+[22037] button 'Star'
+
+[22038] link '2'
+
+[22147] link 'Fork'
+
+[22040] link '0'
+
+[22375] link '235 Commits'
+
+[22376] link '4 Branches'
+
+[22377] link '0 Tags'
+
+[22378] link '1.9 MB Project Storage'
+
+[22046] generic 'globe with meridians'
+
+[22156] StaticText '🌐'
+
+[22047] StaticText ' A webring for digital accessibility practitioners.'
+
+[22049] generic '<span class="repository-language-bar-tooltip-language">Nunjucks</span>&nbsp;<span class="repository-language-bar-tooltip-share">60.4%</span>'
+
+[22050] generic '<span class="repository-language-bar-tooltip-language">CSS</span>&nbsp;<span class="repository-language-bar-tooltip-share">26.5%</span>'
+
+[22051] generic '<span class="repository-language-bar-tooltip-language">JavaScript</span>&nbsp;<span class="repository-language-bar-tooltip-share">13.1%</span>'
+
+[22161] img 'user avatar'
+
+[22165] link 'Add Tiffany Pender (#96)'
+
+[22168] StaticText 'Eric Bailey authored '
+
+[22169] time 'Mar 12, 2023 4:24pm EDT'
+
+[22379] StaticText '5 months ago'
+
+[22172] button 'Unverified'
+
+[22171] group ''
+
+[22382] StaticText '83d965d9'
+
+[22174] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+
+[23030] button 'main' hasPopup: menu expanded: False
+
+[21789] navigation 'Files breadcrumb'
+
+[23421] link 'a11y-webring.club'
+
+[23776] button 'Add to tree' hasPopup: menu expanded: False
+
+[22387] link 'Find file'
+
+[22392] link 'Web IDE'
+
+[22393] button 'Download'
+
+[23037] StaticText 'Select Archive Format'
+
+[22395] link 'Clone'
+
+[22418] link 'README'
+
+[22419] link 'MIT License'
+
+[22420] link 'Add CHANGELOG'
+
+[22421] link 'Add CONTRIBUTING'
+
+[22422] link 'Enable Auto DevOps'
+
+[22423] link 'Add Kubernetes cluster'
+
+[22424] link 'Set up CI/CD'
+
+[22425] link 'Configure Integrations'
+
+[21807] table 'Files, directories, and submodules in the path / for commit reference main' live: polite atomic: False relevant: additions text
+
+[23107] row ''
+
+[23108] columnheader 'Name' required: False
+
+[23109] columnheader 'Last commit' required: False
+
+[23110] columnheader 'Last update' required: False
+
+[23111] row ''
+
+[23138] gridcell '.github' required: False
+
+[23459] link '.github'
+
+[23139] gridcell 'Update contribution instructions' required: False
+
+[23465] link 'Update contribution instructions'
+
+[23140] gridcell '7 months ago' required: False
+
+[23468] time 'Feb 4, 2023 5:36pm EST'
+
+[23112] row ''
+
+[23141] gridcell 'data' required: False
+
+[23470] link 'data'
+
+[23142] gridcell 'Create Tiffany Pender.json' required: False
+
+[23476] link 'Create Tiffany Pender.json'
+
+[23143] gridcell '6 months ago' required: False
+
+[23479] time 'Mar 9, 2023 6:46pm EST'</pre><div>
+
+[23912] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[24181] link 'Skip to content'
+
+[24297] link 'Dashboard'
+
+[24373] button '' hasPopup: menu expanded: False
+
+[23924] textbox 'Search GitLab' required: False
+
+[25644] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[24379] link 'Create new...'
+
+[24381] link 'Issues'
+
+[25209] generic '13 assigned issues'
+
+[24382] link 'Merge requests'
+
+[25211] generic '8 merge requests'
+
+[24384] link 'To-Do List'
+
+[25227] generic 'Todos count'
+
+[24385] link 'Help'
+
+[24387] link 'Byte Blaze'
+
+[25261] img 'Byte Blaze'
+
+[23928] main ''
+
+[24282] heading 'Projects'
+
+[24285] link 'New project'
+
+[24389] link 'Yours 18'
+
+[24390] link 'Starred 3'
+
+[24391] link 'Explore'
+
+[24392] link 'Topics'
+
+[23932] searchbox 'Filter by name'
+
+[24349] button 'Name'
+
+[24436] link 'All'
+
+[24437] link 'Personal'
+
+[24438] link 'A'
+
+[24441] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[24444] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[24442] generic 'Public - The project can be accessed without any authentication.'
+
+[24450] StaticText 'Owner'
+
+[25317] generic 'lipstick'
+
+[25675] StaticText '💄'
+
+[25318] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[24462] link '1'
+
+[24463] link '0'
+
+[24464] link '0'
+
+[24465] link '1'
+
+[24474] StaticText 'Updated '
+
+[23946] time 'Mar 27, 2023 7:22pm EDT'
+
+[24475] StaticText '5 months ago'
+
+[24476] link 'A'
+
+[24479] heading 'Byte Blaze / a11y-webring.club'
+
+[24482] link 'Byte Blaze / a11y-webring.club'
+
+[24480] generic 'Public - The project can be accessed without any authentication.'
+
+[24488] StaticText 'Owner'
+
+[25336] generic 'globe with meridians'
+
+[25676] StaticText '🌐'
+
+[25337] StaticText ' A webring for digital accessibility practitioners.'
+
+[24500] link '2'
+
+[24501] link '0'
+
+[24502] link '1'
+
+[24503] link '4'
+
+[24512] StaticText 'Updated '
+
+[23958] time 'Mar 27, 2023 7:22pm EDT'
+
+[24513] StaticText '5 months ago'
+
+[24514] link 'A'
+
+[24517] heading 'The A11Y Project / a11yproject.com'
+
+[24520] link 'The A11Y Project / a11yproject.com'
+
+[24518] generic 'Public - The project can be accessed without any authentication.'
+
+[24526] StaticText 'Maintainer'
+
+[25355] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[24538] link '21'
+
+[24539] link '0'
+
+[24540] link '10'
+
+[24541] link '40'
+
+[24550] StaticText 'Updated '
+
+[23970] time 'Mar 27, 2023 4:15pm EDT'
+
+[24551] StaticText '5 months ago'
+
+[24552] link 'A'
+
+[24555] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[24558] link 'Byte Blaze / accessible-html-content-patterns'
+
+[24556] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[24564] StaticText 'Owner'
+
+[25373] generic 'wheelchair symbol'
+
+[25677] StaticText '♿'
+
+[25374] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[24576] link '1'
+
+[24577] link '0'
+
+[24578] link '0'
+
+[24579] link '0'
+
+[24588] StaticText 'Updated '
+
+[23982] time 'Mar 27, 2023 7:22pm EDT'
+
+[24589] StaticText '5 months ago'
+
+[24590] link ''
+
+[24593] heading 'Byte Blaze / cloud-to-butt'
+
+[24596] link 'Byte Blaze / cloud-to-butt'
+
+[24594] generic 'Public - The project can be accessed without any authentication.'
+
+[24602] StaticText 'Owner'
+
+[24614] link '0'
+
+[24615] link '0'
+
+[24616] link '0'
+
+[24617] link '0'
+
+[24626] StaticText 'Updated '
+
+[23994] time 'Mar 27, 2023 7:22pm EDT'
+
+[24627] StaticText '5 months ago'
+
+[24628] link 'D'
+
+[24631] heading 'Primer / design'
+
+[24634] link 'Primer / design'
+
+[24632] generic 'Public - The project can be accessed without any authentication.'
+
+[24640] StaticText 'Developer'
+
+[25409] StaticText 'Primer Design Guidelines'
+
+[24652] link '21'
+
+[24653] link '0'
+
+[24654] link '16'
+
+[24655] link '21'
+
+[24664] StaticText 'Updated '
+
+[24006] time 'Mar 27, 2023 5:04pm EDT'
+
+[24665] StaticText '5 months ago'
+
+[24666] link 'D'
+
+[24668] heading 'Byte Blaze / Do it myself'
+
+[24671] link 'Byte Blaze / Do it myself'
+
+[24669] generic 'Public - The project can be accessed without any authentication.'
+
+[24677] StaticText 'Owner'
+
+[24688] link '0'
+
+[24689] link '0'
+
+[24690] link '0'
+
+[24691] link '0'
+
+[24700] StaticText 'Updated '
+
+[24018] time 'Sep 7, 2023 12:59pm EDT'
+
+[24701] StaticText '2 days ago'</pre><div>
+

@@ -1,0 +1,55 @@
+Tab 0 (current): Applications · User Settings · GitLab
+
+[7467] RootWebArea 'Applications · User Settings · GitLab' focused: True
+	[7538] link 'Skip to content'
+	[7659] link 'Dashboard'
+	[7747] button '' hasPopup: menu expanded: False
+	[7479] textbox 'Search GitLab' required: False
+	[8115] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[7753] link 'Create new...'
+	[7755] link 'Issues'
+		[7888] generic '13 assigned issues'
+	[7756] link 'Merge requests'
+		[7890] generic '8 merge requests'
+	[7758] link 'To-Do List'
+		[7906] generic 'Todos count'
+	[7759] link 'Help'
+	[7761] link 'Byte Blazea11yproject.contributor.me'
+		[7940] img 'Byte Blazea11yproject.contributor.me'
+	[7539] complementary 'User settings'
+		[7692] link 'Byte Blazea11yproject.contributor.me User Settings'
+			[7763] img 'Byte Blazea11yproject.contributor.me'
+		[7766] link 'Profile'
+		[7768] link 'Account'
+		[7770] link 'Applications'
+		[7772] link 'Chat'
+		[7774] link 'Access Tokens'
+		[7776] link 'Emails'
+		[7778] link 'Password'
+		[7780] link 'Notifications'
+		[7782] link 'SSH Keys'
+		[7784] link 'GPG Keys'
+		[7786] link 'Preferences'
+		[7788] link 'Active Sessions'
+		[7790] link 'Authentication log'
+		[7643] button 'Collapse sidebar'
+	[7543] navigation 'Breadcrumbs'
+		[7795] link 'User Settings'
+		[7797] link 'Applications'
+	[7483] main ''
+		[7519] searchbox 'Search page'
+		[7650] heading 'Applications'
+		[7652] heading 'Add new application'
+		[7486] form ''
+			[7799] StaticText 'Name'
+			[7488] textbox 'Name' required: True
+				[8246] StaticText 'a11yproject.contributor.me'
+			[7803] StaticText 'Redirect URI'
+			[7490] textbox 'Redirect URI' required: True
+			[7805] StaticText 'Use one line per URI'
+			[7493] checkbox 'Confidential Enable only for confidential applications exclusively used by a trusted backend server that can securely store the client secret. Do not enable for native-mobile, single-page, or other JavaScript applications because they cannot keep the client secret confidential.' focused: True checked: false
+			[7809] StaticText 'Scopes'
+			[7495] group ''
+				[7497] checkbox 'api Grants complete read/write access to the API, including all groups and projects, the container registry, and the package registry.' checked: false
+				[7499] checkbox 'read_api Grants read access to the API, including all groups and projects, the container registry, and the package registry.' checked: false
+				[7501] checkbox "read_user Grants read-only access to the authenticated user's profile through the /user API endpoint, which includes username, public email, and full name. Also grants access to read-only API endpoints under /users." checked: false</pre><div>

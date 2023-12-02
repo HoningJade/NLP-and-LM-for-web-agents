@@ -1,0 +1,33 @@
+Tab 0 (current): New Snippet · Snippets · GitLab
+
+[3308] RootWebArea 'New Snippet · Snippets · GitLab' focused: True
+	[3388] link 'Skip to content'
+	[3502] link 'Dashboard'
+	[3685] button '' hasPopup: menu expanded: False
+	[3320] textbox 'Search GitLab' required: False
+	[3897] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[3691] link 'Create new...'
+	[3693] link 'Issues'
+		[3796] generic '13 assigned issues'
+	[3694] link 'Merge requests'
+		[3798] generic '8 merge requests'
+	[3696] link 'To-Do List'
+		[3814] generic 'Todos count'
+			[3918] StaticText '5'
+	[3697] link 'Help'
+	[3699] link 'Byte Blaze'
+		[3848] img 'Byte Blaze'
+	[3324] main ''
+		[3496] heading 'New Snippet'
+		[3327] group ''
+			[3701] StaticText 'Title'
+			[3329] textbox 'Title' focused: True required: False
+		[3537] StaticText 'Description (optional)'
+		[3333] textbox 'Optionally add a description about what your snippet does or how to use it…' required: False
+		[3363] tabpanel 'Write'
+		[3340] group ''
+			[3705] StaticText 'Files'
+			[3345] textbox 'Files' required: False
+			[3707] button 'Delete file' disabled: True
+			[3347] code ''
+				[3349] textbox 'Editor content;Press Alt+F1 for Accessibility Options.' autocomplete: both required: False roledescription: editor</pre><div>

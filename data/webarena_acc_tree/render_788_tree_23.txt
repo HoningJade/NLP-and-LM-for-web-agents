@@ -1,0 +1,137 @@
+Tab 0 (current): Commits · php52 · Andrew M. Whalen / archive-my-tweets · GitLab
+
+[8731] RootWebArea 'Commits · php52 · Andrew M. Whalen / archive-my-tweets · GitLab' focused: True
+	[9032] link 'Skip to content'
+	[9158] link 'Dashboard'
+	[9251] button '' hasPopup: menu expanded: False
+	[8743] textbox 'Search GitLab' required: False
+	[9907] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+	[9257] link 'Create new...'
+	[9259] link 'Issues'
+		[9507] generic '13 assigned issues'
+	[9260] link 'Merge requests'
+		[9509] generic '8 merge requests'
+	[9262] link 'To-Do List'
+		[9525] generic 'Todos count'
+	[9263] link 'Help'
+	[9265] link 'Byte Blaze'
+		[9559] img 'Byte Blaze'
+	[9033] complementary 'Project navigation'
+		[9191] listitem 'archive-my-tweets'
+			[9267] link 'archive-my-tweets'
+				[9600] StaticText 'A'
+		[9268] link 'Project information'
+		[9270] link 'Repository'
+		[9947] link 'Files'
+		[9948] link 'Commits'
+		[9949] link 'Branches'
+		[9950] link 'Tags'
+		[9951] link 'Contributors'
+		[9952] link 'Graph'
+		[9953] link 'Compare'
+		[9272] link 'Issues'
+			[9641] StaticText '14'
+		[9274] link 'Merge requests'
+		[9276] link 'CI/CD'
+		[9278] link 'Deployments'
+		[9280] link 'Packages and registries'
+		[9282] link 'Monitor'
+		[9284] link 'Analytics'
+		[9286] link 'Wiki'
+		[9288] link 'Snippets'
+		[9149] button 'Collapse sidebar'
+	[9037] navigation 'Breadcrumbs'
+		[9305] link 'Andrew M. Whalen'
+		[9307] link 'archive-my-tweets'
+		[9309] link 'Commits'
+	[8747] main ''
+		[9310] button 'php52' hasPopup: menu expanded: False
+		[9311] link 'archive-my-tweets'
+		[9312] button 'Author' hasPopup: menu expanded: False
+		[8754] searchbox 'Search by message'
+		[9231] link 'Commits feed'
+		[9320] StaticText '22 Jan, 2013'
+		[9323] StaticText '6 commits'
+		[10042] link "Andrew M. Whalen's avatar"
+			[10586] img "Andrew M. Whalen's avatar"
+		[10044] link 'clean readme'
+		[10048] link 'Andrew M. Whalen' focused: True
+		[10049] StaticText ' authored '
+		[8779] time 'Jan 22, 2013 12:52pm EST'
+			[10588] StaticText '10 years ago'
+		[10589] StaticText 'ffad76b7'
+		[10053] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[10054] link 'Browse Files'
+		[10055] link "Andrew M. Whalen's avatar"
+			[10592] img "Andrew M. Whalen's avatar"
+		[10057] link 'clean readme'
+		[10061] link 'Andrew M. Whalen'
+		[10062] StaticText ' authored '
+		[8784] time 'Jan 22, 2013 12:51pm EST'
+			[10594] StaticText '10 years ago'
+		[10595] StaticText '3627ff33'
+		[10066] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[10067] link 'Browse Files'
+		[10068] link "Andrew M. Whalen's avatar"
+			[10598] img "Andrew M. Whalen's avatar"
+		[10070] link 'updated screenshot'
+		[10074] link 'Andrew M. Whalen'
+		[10075] StaticText ' authored '
+		[8789] time 'Jan 22, 2013 12:50pm EST'
+			[10600] StaticText '10 years ago'
+		[10601] StaticText '41b976b0'
+		[10079] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[10080] link 'Browse Files'
+		[10081] link "Andrew M. Whalen's avatar"
+			[10604] img "Andrew M. Whalen's avatar"
+		[10083] link 'updated screenshot paths'
+		[10087] link 'Andrew M. Whalen'
+		[10088] StaticText ' authored '
+		[8794] time 'Jan 22, 2013 12:48pm EST'
+			[10606] StaticText '10 years ago'
+		[10607] StaticText '6328f173'
+		[10092] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[10093] link 'Browse Files'
+		[10094] link "Andrew M. Whalen's avatar"
+			[10610] img "Andrew M. Whalen's avatar"
+		[10096] link 'added screenshots, license file'
+		[10100] link 'Andrew M. Whalen'
+		[10101] StaticText ' authored '
+		[8799] time 'Jan 22, 2013 12:46pm EST'
+			[10612] StaticText '10 years ago'
+		[10613] StaticText '7f64d9b8'
+		[10105] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[10106] link 'Browse Files'
+		[10107] link "Andrew M. Whalen's avatar"
+			[10616] img "Andrew M. Whalen's avatar"
+		[10109] link 'added twitter archive import functionality, updated readme with instructions'
+		[10113] link 'Andrew M. Whalen'
+		[10114] StaticText ' authored '
+		[8804] time 'Jan 22, 2013 12:41pm EST'
+			[10618] StaticText '10 years ago'
+		[10619] StaticText '36bae02e'
+		[10118] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[10119] link 'Browse Files'
+		[9325] StaticText '21 Jan, 2013'
+		[9328] StaticText '2 commits'
+		[10120] link "Andrew M. Whalen's avatar"
+			[10622] img "Andrew M. Whalen's avatar"
+		[10122] link 'updated README'
+		[10126] link 'Andrew M. Whalen'
+		[10127] StaticText ' authored '
+		[8811] time 'Jan 20, 2013 10:10pm EST'
+			[10624] StaticText '10 years ago'
+		[10625] StaticText '86dff639'
+		[10131] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[10132] link 'Browse Files'
+		[10133] link "Andrew M. Whalen's avatar"
+			[10628] img "Andrew M. Whalen's avatar"
+		[10135] link 'redesigned with bootstrap, responsive design, fixed some interface bugs,...'
+		[10137] button 'Toggle commit description'
+		[10142] link 'Andrew M. Whalen'
+		[10143] StaticText ' authored '
+		[8816] time 'Jan 20, 2013 10:02pm EST'
+			[10633] StaticText '10 years ago'
+		[10634] StaticText '1eb1de72'
+		[10148] button 'Copy commit SHA' live: polite atomic: False relevant: additions text
+		[10149] link 'Browse Files'</pre><div>

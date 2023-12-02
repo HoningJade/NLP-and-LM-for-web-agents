@@ -1,0 +1,944 @@
+[1] RootWebArea 'Postmill' focused: True
+
+[209] HeaderAsNonLandmark ''
+
+[210] link 'Home'
+
+[233] link 'Forums'
+
+[234] link 'Wiki'
+
+[197] searchbox 'Search query'
+
+[242] link 'Notifications (0)'
+
+[243] link 'Submit'
+
+[12] button 'MarvelsGrantMan136' hasPopup: menu expanded: False
+
+[14] main ''
+
+[556] link 'Submissions'
+
+[557] link 'Comments'
+
+[18] button 'Filter on: Subscribed' hasPopup: menu expanded: False
+
+[20] button 'Sort by: Hot' hasPopup: menu expanded: False
+
+[21] article ''
+
+[24] HeaderAsNonLandmark ''
+
+[250] heading 'What is the recommended console to buy these days what is the recommended console to buy these days'
+
+[560] link 'What is the recommended console to buy these days what is the recommended console to buy these days'
+
+[562] StaticText 'Submitted by '
+
+[27] link 'MarvelsGrantMan136' expanded: False
+
+[564] time 'September 7, 2023 at 2:01:09 PM EDT'
+
+[937] StaticText '4 days ago'
+
+[565] StaticText ' in '
+
+[566] link 'consoles'
+
+[940] link 'No comments'
+
+[942] link 'Edit'
+
+[1521] button 'Delete'
+
+[254] button 'Upvote'
+
+[571] StaticText '−1'
+
+[257] button 'Retract downvote'
+
+[28] article ''
+
+[31] HeaderAsNonLandmark ''
+
+[582] heading 'Mario anyone....'
+
+[956] link 'Mario anyone....'
+
+[959] StaticText 'Submitted by '
+
+[34] link 'big-brummie777_77' expanded: False
+
+[1525] StaticText 't3_11g00cp'
+
+[963] time 'March 2, 2023 at 6:01:33 AM EST'
+
+[1529] StaticText '6 months ago'
+
+[964] StaticText ' in '
+
+[965] link 'consoles'
+
+[1532] link '11 comments'
+
+[262] button 'Upvote'
+
+[585] StaticText '0'
+
+[265] button 'Downvote'
+
+[35] article ''
+
+[38] HeaderAsNonLandmark ''
+
+[594] heading '🤷'
+
+[979] link '🤷'
+
+[982] StaticText 'Submitted by '
+
+[41] link 'QuatronXD' expanded: False
+
+[1537] StaticText 't3_11f7o8x'
+
+[986] time 'March 1, 2023 at 11:09:25 AM EST'
+
+[1541] StaticText '6 months ago'
+
+[987] StaticText ' in '
+
+[988] link 'consoles'
+
+[1544] link '78 comments'
+
+[270] button 'Upvote'
+
+[597] StaticText '−1'
+
+[273] button 'Retract downvote'
+
+[42] article ''
+
+[45] HeaderAsNonLandmark ''
+
+[608] heading 'What’s a good price to sell this for? I don’t want to get screwed over:/'
+
+[1002] link 'What’s a good price to sell this for? I don’t want to get screwed over:/'
+
+[1005] StaticText 'Submitted by '
+
+[48] link 'Pale-Department-7898' expanded: False
+
+[1549] StaticText 't3_11f1s9z'
+
+[1009] time 'March 1, 2023 at 6:50:55 AM EST'
+
+[1553] StaticText '6 months ago'
+
+[1010] StaticText ' in '
+
+[1011] link 'consoles'
+
+[1556] link '45 comments'
+
+[278] button 'Upvote'
+
+[281] button 'Downvote'
+
+[49] article ''
+
+[52] HeaderAsNonLandmark ''
+
+[620] heading 'My PlayStation. Owned since new!'
+
+[1025] link 'My PlayStation. Owned since new!'
+
+[1028] StaticText 'Submitted by '
+
+[55] link 'Dedward5' expanded: False
+
+[1561] StaticText 't3_10gd8nl'
+
+[1032] time 'January 19, 2023 at 4:05:55 PM EST'
+
+[1565] StaticText '8 months ago'
+
+[1033] StaticText ' in '
+
+[1034] link 'consoles'
+
+[1568] link '15 comments'
+
+[286] button 'Upvote'
+
+[623] StaticText '−1'
+
+[289] button 'Retract downvote'
+
+[56] article ''
+
+[59] HeaderAsNonLandmark ''
+
+[293] heading 'Will video game consoles in the future just be in the form of a controller that will use a small video game cartridge and will automatically sync to your television?'
+
+[633] link 'Will video game consoles in the future just be in the form of a controller that will use a small video game cartridge and will automatically sync to your television?'
+
+[635] StaticText 'Submitted by '
+
+[62] link '[deleted]' expanded: False
+
+[1051] StaticText 't3_ym96df'
+
+[639] time 'November 4, 2022 at 4:16:24 PM EDT'
+
+[1055] StaticText '10 months ago'
+
+[640] StaticText ' in '
+
+[641] link 'consoles'
+
+[1058] link '13 comments'
+
+[297] button 'Upvote'
+
+[644] StaticText '−1'
+
+[300] button 'Retract downvote'
+
+[63] article ''
+
+[66] HeaderAsNonLandmark ''
+
+[655] heading 'Stupid guy on facebook marketplace sold me all of this for just $298.09🤣'
+
+[1072] link 'Stupid guy on facebook marketplace sold me all of this for just $298.09🤣'
+
+[305] button 'Upvote'
+
+[658] StaticText '246'
+
+[203] complementary ''
+
+[224] heading 'Subscribed forums'
+
+[883] link 'consoles'</pre><div>
+
+[12] and see if it leads to the user settings page. In summary, the next action I will perform is ```click [12]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '12', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. To change the reddit bio, I need to go to the user settings page. But I don't see any links or buttons related to user settings on this page. I will try clicking on the username button with id [12] and see if it leads to the user settings page. In summary, the next action I will perform is ```click [12]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [12] where [12] is [12] button 'MarvelsGrantMan136' hasPopup: menu expanded: False</pre></div></div>
+
+[1] RootWebArea 'Postmill' focused: True
+
+[209] HeaderAsNonLandmark ''
+
+[210] link 'Home'
+
+[233] link 'Forums'
+
+[234] link 'Wiki'
+
+[197] searchbox 'Search query'
+
+[242] link 'Notifications (0)'
+
+[243] link 'Submit'
+
+[12] button 'MarvelsGrantMan136' focused: True hasPopup: menu expanded: True
+
+[1875] link ' Profile'
+
+[1892] link ' My account'
+
+[1884] link ' User settings'
+
+[1893] link ' Block list'
+
+[1855] separator '' orientation: horizontal
+
+[1847] button ' Dark mode'
+
+[1899] button ' Log out'
+
+[14] main ''
+
+[556] link 'Submissions'
+
+[557] link 'Comments'
+
+[18] button 'Filter on: Subscribed' hasPopup: menu expanded: False
+
+[20] button 'Sort by: Hot' hasPopup: menu expanded: False
+
+[21] article ''
+
+[24] HeaderAsNonLandmark ''
+
+[250] heading 'What is the recommended console to buy these days what is the recommended console to buy these days'
+
+[560] link 'What is the recommended console to buy these days what is the recommended console to buy these days'
+
+[562] StaticText 'Submitted by '
+
+[27] link 'MarvelsGrantMan136' expanded: False
+
+[564] time 'September 7, 2023 at 2:01:09 PM EDT'
+
+[937] StaticText '4 days ago'
+
+[565] StaticText ' in '
+
+[566] link 'consoles'
+
+[940] link 'No comments'
+
+[942] link 'Edit'
+
+[1521] button 'Delete'
+
+[254] button 'Upvote'
+
+[571] StaticText '−1'
+
+[257] button 'Retract downvote'
+
+[28] article ''
+
+[31] HeaderAsNonLandmark ''
+
+[582] heading 'Mario anyone....'
+
+[956] link 'Mario anyone....'
+
+[959] StaticText 'Submitted by '
+
+[34] link 'big-brummie777_77' expanded: False
+
+[1525] StaticText 't3_11g00cp'
+
+[963] time 'March 2, 2023 at 6:01:33 AM EST'
+
+[1529] StaticText '6 months ago'
+
+[964] StaticText ' in '
+
+[965] link 'consoles'
+
+[1532] link '11 comments'
+
+[262] button 'Upvote'
+
+[585] StaticText '0'
+
+[265] button 'Downvote'
+
+[35] article ''
+
+[38] HeaderAsNonLandmark ''
+
+[594] heading '🤷'
+
+[979] link '🤷'
+
+[982] StaticText 'Submitted by '
+
+[41] link 'QuatronXD' expanded: False
+
+[1537] StaticText 't3_11f7o8x'
+
+[986] time 'March 1, 2023 at 11:09:25 AM EST'
+
+[1541] StaticText '6 months ago'
+
+[987] StaticText ' in '
+
+[988] link 'consoles'
+
+[1544] link '78 comments'
+
+[270] button 'Upvote'
+
+[597] StaticText '−1'
+
+[273] button 'Retract downvote'
+
+[42] article ''
+
+[45] HeaderAsNonLandmark ''
+
+[608] heading 'What’s a good price to sell this for? I don’t want to get screwed over:/'
+
+[1002] link 'What’s a good price to sell this for? I don’t want to get screwed over:/'
+
+[1005] StaticText 'Submitted by '
+
+[48] link 'Pale-Department-7898' expanded: False
+
+[1549] StaticText 't3_11f1s9z'
+
+[1009] time 'March 1, 2023 at 6:50:55 AM EST'
+
+[1553] StaticText '6 months ago'
+
+[1010] StaticText ' in '
+
+[1011] link 'consoles'
+
+[1556] link '45 comments'
+
+[278] button 'Upvote'
+
+[281] button 'Downvote'
+
+[49] article ''
+
+[52] HeaderAsNonLandmark ''
+
+[620] heading 'My PlayStation. Owned since new!'
+
+[1025] link 'My PlayStation. Owned since new!'
+
+[1028] StaticText 'Submitted by '
+
+[55] link 'Dedward5' expanded: False
+
+[1561] StaticText 't3_10gd8nl'
+
+[1032] time 'January 19, 2023 at 4:05:55 PM EST'
+
+[1565] StaticText '8 months ago'
+
+[1033] StaticText ' in '
+
+[1034] link 'consoles'
+
+[1568] link '15 comments'
+
+[286] button 'Upvote'
+
+[623] StaticText '−1'
+
+[289] button 'Retract downvote'
+
+[56] article ''
+
+[59] HeaderAsNonLandmark ''
+
+[293] heading 'Will video game consoles in the future just be in the form of a controller that will use a small video game cartridge and will automatically sync to your television?'
+
+[633] link 'Will video game consoles in the future just be in the form of a controller that will use a small video game cartridge and will automatically sync to your television?'
+
+[635] StaticText 'Submitted by '
+
+[62] link '[deleted]' expanded: False
+
+[1051] StaticText 't3_ym96df'
+
+[639] time 'November 4, 2022 at 4:16:24 PM EDT'
+
+[1055] StaticText '10 months ago'
+
+[640] StaticText ' in '
+
+[641] link 'consoles'
+
+[1058] link '13 comments'
+
+[297] button 'Upvote'
+
+[644] StaticText '−1'
+
+[300] button 'Retract downvote'
+
+[63] article ''
+
+[66] HeaderAsNonLandmark ''
+
+[655] heading 'Stupid guy on facebook marketplace sold me all of this for just $298.09🤣'
+
+[1072] link 'Stupid guy on facebook marketplace sold me all of this for just $298.09🤣'
+
+[305] button 'Upvote'
+
+[658] StaticText '246'
+
+[203] complementary ''
+
+[224] heading 'Subscribed forums'
+
+[883] link 'consoles'</pre><div>
+
+[12] where [12] is button 'MarvelsGrantMan136' hasPopup: menu expanded: False</div>
+
+[12]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '12', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. We need to navigate to the user settings page where we can change the bio. From the observation, it seems that there is a menu associated with the user's name. We can click on that menu to see if the user settings option is available. In summary, the next action I will perform is ```click [12]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [12] where [12] is [12] button 'MarvelsGrantMan136' focused: True hasPopup: menu expanded: True</pre></div></div>
+
+[1] RootWebArea 'Postmill' focused: True
+
+[209] HeaderAsNonLandmark ''
+
+[210] link 'Home'
+
+[233] link 'Forums'
+
+[234] link 'Wiki'
+
+[197] searchbox 'Search query'
+
+[242] link 'Notifications (0)'
+
+[243] link 'Submit'
+
+[12] button 'MarvelsGrantMan136' focused: True hasPopup: menu expanded: False
+
+[14] main ''
+
+[556] link 'Submissions'
+
+[557] link 'Comments'
+
+[18] button 'Filter on: Subscribed' hasPopup: menu expanded: False
+
+[20] button 'Sort by: Hot' hasPopup: menu expanded: False
+
+[21] article ''
+
+[24] HeaderAsNonLandmark ''
+
+[250] heading 'What is the recommended console to buy these days what is the recommended console to buy these days'
+
+[560] link 'What is the recommended console to buy these days what is the recommended console to buy these days'
+
+[562] StaticText 'Submitted by '
+
+[27] link 'MarvelsGrantMan136' expanded: False
+
+[564] time 'September 7, 2023 at 2:01:09 PM EDT'
+
+[937] StaticText '4 days ago'
+
+[565] StaticText ' in '
+
+[566] link 'consoles'
+
+[940] link 'No comments'
+
+[942] link 'Edit'
+
+[1521] button 'Delete'
+
+[254] button 'Upvote'
+
+[571] StaticText '−1'
+
+[257] button 'Retract downvote'
+
+[28] article ''
+
+[31] HeaderAsNonLandmark ''
+
+[582] heading 'Mario anyone....'
+
+[956] link 'Mario anyone....'
+
+[959] StaticText 'Submitted by '
+
+[34] link 'big-brummie777_77' expanded: False
+
+[1525] StaticText 't3_11g00cp'
+
+[963] time 'March 2, 2023 at 6:01:33 AM EST'
+
+[1529] StaticText '6 months ago'
+
+[964] StaticText ' in '
+
+[965] link 'consoles'
+
+[1532] link '11 comments'
+
+[262] button 'Upvote'
+
+[585] StaticText '0'
+
+[265] button 'Downvote'
+
+[35] article ''
+
+[38] HeaderAsNonLandmark ''
+
+[594] heading '🤷'
+
+[979] link '🤷'
+
+[982] StaticText 'Submitted by '
+
+[41] link 'QuatronXD' expanded: False
+
+[1537] StaticText 't3_11f7o8x'
+
+[986] time 'March 1, 2023 at 11:09:25 AM EST'
+
+[1541] StaticText '6 months ago'
+
+[987] StaticText ' in '
+
+[988] link 'consoles'
+
+[1544] link '78 comments'
+
+[270] button 'Upvote'
+
+[597] StaticText '−1'
+
+[273] button 'Retract downvote'
+
+[42] article ''
+
+[45] HeaderAsNonLandmark ''
+
+[608] heading 'What’s a good price to sell this for? I don’t want to get screwed over:/'
+
+[1002] link 'What’s a good price to sell this for? I don’t want to get screwed over:/'
+
+[1005] StaticText 'Submitted by '
+
+[48] link 'Pale-Department-7898' expanded: False
+
+[1549] StaticText 't3_11f1s9z'
+
+[1009] time 'March 1, 2023 at 6:50:55 AM EST'
+
+[1553] StaticText '6 months ago'
+
+[1010] StaticText ' in '
+
+[1011] link 'consoles'
+
+[1556] link '45 comments'
+
+[278] button 'Upvote'
+
+[281] button 'Downvote'
+
+[49] article ''
+
+[52] HeaderAsNonLandmark ''
+
+[620] heading 'My PlayStation. Owned since new!'
+
+[1025] link 'My PlayStation. Owned since new!'
+
+[1028] StaticText 'Submitted by '
+
+[55] link 'Dedward5' expanded: False
+
+[1561] StaticText 't3_10gd8nl'
+
+[1032] time 'January 19, 2023 at 4:05:55 PM EST'
+
+[1565] StaticText '8 months ago'
+
+[1033] StaticText ' in '
+
+[1034] link 'consoles'
+
+[1568] link '15 comments'
+
+[286] button 'Upvote'
+
+[623] StaticText '−1'
+
+[289] button 'Retract downvote'
+
+[56] article ''
+
+[59] HeaderAsNonLandmark ''
+
+[293] heading 'Will video game consoles in the future just be in the form of a controller that will use a small video game cartridge and will automatically sync to your television?'
+
+[633] link 'Will video game consoles in the future just be in the form of a controller that will use a small video game cartridge and will automatically sync to your television?'
+
+[635] StaticText 'Submitted by '
+
+[62] link '[deleted]' expanded: False
+
+[1051] StaticText 't3_ym96df'
+
+[639] time 'November 4, 2022 at 4:16:24 PM EDT'
+
+[1055] StaticText '10 months ago'
+
+[640] StaticText ' in '
+
+[641] link 'consoles'
+
+[1058] link '13 comments'
+
+[297] button 'Upvote'
+
+[644] StaticText '−1'
+
+[300] button 'Retract downvote'
+
+[63] article ''
+
+[66] HeaderAsNonLandmark ''
+
+[655] heading 'Stupid guy on facebook marketplace sold me all of this for just $298.09🤣'
+
+[1072] link 'Stupid guy on facebook marketplace sold me all of this for just $298.09🤣'
+
+[305] button 'Upvote'
+
+[658] StaticText '246'
+
+[203] complementary ''
+
+[224] heading 'Subscribed forums'
+
+[883] link 'consoles'</pre><div>
+
+[12] where [12] is button 'MarvelsGrantMan136' focused: True hasPopup: menu expanded: True</div>
+
+[12]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '12', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the Reddit homepage. I need to navigate to my profile in order to change the bio. To do that, I can click on the button with the label "MarvelsGrantMan136" which is expanded and has a menu. In summary, the next action I will perform is ```click [12]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [12] where [12] is [12] button 'MarvelsGrantMan136' focused: True hasPopup: menu expanded: False</pre></div></div>
+
+[1] RootWebArea 'Postmill' focused: True
+
+[209] HeaderAsNonLandmark ''
+
+[210] link 'Home'
+
+[233] link 'Forums'
+
+[234] link 'Wiki'
+
+[197] searchbox 'Search query'
+
+[242] link 'Notifications (0)'
+
+[243] link 'Submit'
+
+[12] button 'MarvelsGrantMan136' focused: True hasPopup: menu expanded: True
+
+[1987] link ' Profile'
+
+[1984] link ' My account'
+
+[1961] link ' User settings'
+
+[2006] link ' Block list'
+
+[1983] separator '' orientation: horizontal
+
+[1966] button ' Dark mode'
+
+[1998] button ' Log out'
+
+[14] main ''
+
+[556] link 'Submissions'
+
+[557] link 'Comments'
+
+[18] button 'Filter on: Subscribed' hasPopup: menu expanded: False
+
+[20] button 'Sort by: Hot' hasPopup: menu expanded: False
+
+[21] article ''
+
+[24] HeaderAsNonLandmark ''
+
+[250] heading 'What is the recommended console to buy these days what is the recommended console to buy these days'
+
+[560] link 'What is the recommended console to buy these days what is the recommended console to buy these days'
+
+[562] StaticText 'Submitted by '
+
+[27] link 'MarvelsGrantMan136' expanded: False
+
+[564] time 'September 7, 2023 at 2:01:09 PM EDT'
+
+[937] StaticText '4 days ago'
+
+[565] StaticText ' in '
+
+[566] link 'consoles'
+
+[940] link 'No comments'
+
+[942] link 'Edit'
+
+[1521] button 'Delete'
+
+[254] button 'Upvote'
+
+[571] StaticText '−1'
+
+[257] button 'Retract downvote'
+
+[28] article ''
+
+[31] HeaderAsNonLandmark ''
+
+[582] heading 'Mario anyone....'
+
+[956] link 'Mario anyone....'
+
+[959] StaticText 'Submitted by '
+
+[34] link 'big-brummie777_77' expanded: False
+
+[1525] StaticText 't3_11g00cp'
+
+[963] time 'March 2, 2023 at 6:01:33 AM EST'
+
+[1529] StaticText '6 months ago'
+
+[964] StaticText ' in '
+
+[965] link 'consoles'
+
+[1532] link '11 comments'
+
+[262] button 'Upvote'
+
+[585] StaticText '0'
+
+[265] button 'Downvote'
+
+[35] article ''
+
+[38] HeaderAsNonLandmark ''
+
+[594] heading '🤷'
+
+[979] link '🤷'
+
+[982] StaticText 'Submitted by '
+
+[41] link 'QuatronXD' expanded: False
+
+[1537] StaticText 't3_11f7o8x'
+
+[986] time 'March 1, 2023 at 11:09:25 AM EST'
+
+[1541] StaticText '6 months ago'
+
+[987] StaticText ' in '
+
+[988] link 'consoles'
+
+[1544] link '78 comments'
+
+[270] button 'Upvote'
+
+[597] StaticText '−1'
+
+[273] button 'Retract downvote'
+
+[42] article ''
+
+[45] HeaderAsNonLandmark ''
+
+[608] heading 'What’s a good price to sell this for? I don’t want to get screwed over:/'
+
+[1002] link 'What’s a good price to sell this for? I don’t want to get screwed over:/'
+
+[1005] StaticText 'Submitted by '
+
+[48] link 'Pale-Department-7898' expanded: False
+
+[1549] StaticText 't3_11f1s9z'
+
+[1009] time 'March 1, 2023 at 6:50:55 AM EST'
+
+[1553] StaticText '6 months ago'
+
+[1010] StaticText ' in '
+
+[1011] link 'consoles'
+
+[1556] link '45 comments'
+
+[278] button 'Upvote'
+
+[281] button 'Downvote'
+
+[49] article ''
+
+[52] HeaderAsNonLandmark ''
+
+[620] heading 'My PlayStation. Owned since new!'
+
+[1025] link 'My PlayStation. Owned since new!'
+
+[1028] StaticText 'Submitted by '
+
+[55] link 'Dedward5' expanded: False
+
+[1561] StaticText 't3_10gd8nl'
+
+[1032] time 'January 19, 2023 at 4:05:55 PM EST'
+
+[1565] StaticText '8 months ago'
+
+[1033] StaticText ' in '
+
+[1034] link 'consoles'
+
+[1568] link '15 comments'
+
+[286] button 'Upvote'
+
+[623] StaticText '−1'
+
+[289] button 'Retract downvote'
+
+[56] article ''
+
+[59] HeaderAsNonLandmark ''
+
+[293] heading 'Will video game consoles in the future just be in the form of a controller that will use a small video game cartridge and will automatically sync to your television?'
+
+[633] link 'Will video game consoles in the future just be in the form of a controller that will use a small video game cartridge and will automatically sync to your television?'
+
+[635] StaticText 'Submitted by '
+
+[62] link '[deleted]' expanded: False
+
+[1051] StaticText 't3_ym96df'
+
+[639] time 'November 4, 2022 at 4:16:24 PM EDT'
+
+[1055] StaticText '10 months ago'
+
+[640] StaticText ' in '
+
+[641] link 'consoles'
+
+[1058] link '13 comments'
+
+[297] button 'Upvote'
+
+[644] StaticText '−1'
+
+[300] button 'Retract downvote'
+
+[63] article ''
+
+[66] HeaderAsNonLandmark ''
+
+[655] heading 'Stupid guy on facebook marketplace sold me all of this for just $298.09🤣'
+
+[1072] link 'Stupid guy on facebook marketplace sold me all of this for just $298.09🤣'
+
+[305] button 'Upvote'
+
+[658] StaticText '246'
+
+[203] complementary ''
+
+[224] heading 'Subscribed forums'
+
+[883] link 'consoles'</pre><div>
+
+[12] where [12] is button 'MarvelsGrantMan136' focused: True hasPopup: menu expanded: False</div>
+

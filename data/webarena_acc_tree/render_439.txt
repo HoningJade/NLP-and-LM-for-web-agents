@@ -1,0 +1,376 @@
+[1] RootWebArea 'One Stop Market' focused: True
+
+[1264] link 'My Account'
+
+[1262] link 'My Wish List'
+
+[1266] link 'Sign Out'
+
+[1269] StaticText 'Welcome to One Stop Market'
+
+[1181] link 'Skip to Content'
+
+[1190] link 'store logo'
+
+[1272] img 'one_stop_market_logo'
+
+[1273] link '\ue611 My Cart'
+
+[2427] StaticText 'Search'
+
+[12] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+
+[2430] link 'Advanced Search'
+
+[1588] button 'Search' disabled: True
+
+[1083] tablist '' multiselectable: False orientation: horizontal
+
+[1085] tabpanel ''
+
+[27] menu '' orientation: vertical
+
+[778] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+
+[843] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+
+[853] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+
+[867] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+
+[904] menuitem '\ue622 Office Products' hasPopup: menu
+
+[912] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+
+[917] menuitem '\ue622 Health & Household' hasPopup: menu
+
+[923] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+
+[928] menuitem '\ue622 Electronics' hasPopup: menu
+
+[989] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+
+[1004] menuitem '\ue622 Video Games' hasPopup: menu
+
+[1017] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+
+[1118] main ''
+
+[1212] heading 'One Stop Market'
+
+[1223] StaticText 'Product Showcases'
+
+[1290] link 'Image'
+
+[1485] img 'Image'
+
+[1486] link 'Pre-baked Gingerbread House Kit Value Pack, 17 oz., Pack of 2, Total 34 oz.'
+
+[1278] link 'Image'
+
+[1282] img 'Image'
+
+[1491] link 'V8 +Energy, Healthy Energy Drink, Steady Energy from Black and Green Tea, Pomegranate Blueberry, 8 Ounce Can ,Pack of 24'
+
+[1285] link 'Image'
+
+[1289] img 'Image'
+
+[1496] link 'Elmwood Inn Fine Teas, Orange Vanilla Caffeine-free Fruit Infusion, 16-Ounce Pouch'
+
+[1306] link 'Image'
+
+[1310] img 'Image'
+
+[1501] link 'Belle Of The Ball Princess Sprinkle Mix| Wedding Colorful Sprinkles| Cake Cupcake Cookie Sprinkles| Ice cream Candy Sprinkles| Yellow Gold Red Royal Red Rose Icing Flowers Decorating Sprinkles, 8OZ'
+
+[1325] link 'Image'
+
+[1329] img 'Image'
+
+[1510] link 'So Delicious Dairy Free CocoWhip Light, Vegan, Non-GMO Project Verified, 9 oz. Tub'</pre><div>
+
+[2427]. After finding the t-shirt, we can check if there is an option to reorder it. In summary, the next action I will perform is ```type [2427] [cat t-shirt] [1]``` to search for the t-shirt.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.TYPE: 7>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [82, 80, 99, 15, 99, 28, 98, 87, 88, 97, 99, 982], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '2427', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page seems to be the homepage of the One Stop Market website. We need to find the cat t-shirt that was previously ordered and cancelled. We can start by searching for the t-shirt in the search box with ID [2427]. After finding the t-shirt, we can check if there is an option to reorder it. In summary, the next action I will perform is ```type [2427] [cat t-shirt] [1]``` to search for the t-shirt."}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>type [2427] [cat t-shirt
+
+[2427] is [2427] StaticText 'Search'</pre></div></div>
+
+[2634] RootWebArea 'Advanced Search' focused: True
+
+[3903] link 'My Account'
+
+[3901] link 'My Wish List'
+
+[3905] link 'Sign Out'
+
+[3908] StaticText 'Welcome to One Stop Market'
+
+[3843] link 'Skip to Content'
+
+[3852] link 'store logo'
+
+[3911] img 'one_stop_market_logo'
+
+[3912] link '\ue611 My Cart'
+
+[4697] StaticText 'Search'
+
+[2645] combobox '\ue615 Search' autocomplete: both hasPopup: listbox required: False expanded: False
+
+[4700] link 'Advanced Search'
+
+[3981] button 'Search' disabled: True
+
+[3743] tablist '' multiselectable: False orientation: horizontal
+
+[3745] tabpanel ''
+
+[2687] menu '' orientation: vertical
+
+[3438] menuitem '\ue622 Beauty & Personal Care' hasPopup: menu
+
+[3503] menuitem '\ue622 Sports & Outdoors' hasPopup: menu
+
+[3513] menuitem '\ue622 Clothing, Shoes & Jewelry' hasPopup: menu
+
+[3527] menuitem '\ue622 Home & Kitchen' hasPopup: menu
+
+[3564] menuitem '\ue622 Office Products' hasPopup: menu
+
+[3572] menuitem '\ue622 Tools & Home Improvement' hasPopup: menu
+
+[3577] menuitem '\ue622 Health & Household' hasPopup: menu
+
+[3583] menuitem '\ue622 Patio, Lawn & Garden' hasPopup: menu
+
+[3588] menuitem '\ue622 Electronics' hasPopup: menu
+
+[3649] menuitem '\ue622 Cell Phones & Accessories' hasPopup: menu
+
+[3664] menuitem '\ue622 Video Games' hasPopup: menu
+
+[3677] menuitem '\ue622 Grocery & Gourmet Food' hasPopup: menu
+
+[3874] link 'Home '
+
+[3877] StaticText 'Catalog Advanced Search'
+
+[2646] main ''
+
+[3878] heading 'Advanced Search'
+
+[2650] group 'Search Settings'
+
+[3954] StaticText 'Product Name'
+
+[2653] textbox 'Product Name' required: False
+
+[3957] StaticText 'SKU'
+
+[2656] textbox 'SKU' required: False
+
+[3960] StaticText 'Description'
+
+[2659] textbox 'Description' required: False
+
+[3963] StaticText 'Short Description'
+
+[2662] textbox 'Short Description' required: False
+
+[3966] StaticText 'Price'
+
+[2668] textbox 'Price' required: False
+
+[2672] textbox 'USD' required: False</pre><div>
+
+[2427] [cat t-shirt
+
+[2427] is StaticText 'Search'</div>
+
+[4706] RootWebArea 'One Stop Market' focused: True
+
+[5823] main ''
+
+[6191] link 'Pre-baked Gingerbread House Kit Value Pack, 17 oz., Pack of 2, Total 34 oz.'
+
+[5998] LayoutTable ''
+
+[7137] StaticText 'Rating:'
+
+[7000] generic '20%'
+
+[7001] link '1 \xa0Review'
+
+[7003] StaticText '$19.99'
+
+[7007] button 'Add to Cart'
+
+[6005] link '\ue601 Add to Wish List'
+
+[6006] link '\ue61f Add to Compare'
+
+[6196] link 'V8 +Energy, Healthy Energy Drink, Steady Energy from Black and Green Tea, Pomegranate Blueberry, 8 Ounce Can ,Pack of 24'
+
+[6017] LayoutTable ''
+
+[7151] StaticText 'Rating:'
+
+[7010] generic '57%'
+
+[7011] link '12 \xa0Reviews'
+
+[7013] StaticText '$14.47'
+
+[7017] button 'Add to Cart'
+
+[6024] link '\ue601 Add to Wish List'
+
+[6025] link '\ue61f Add to Compare'
+
+[6201] link 'Elmwood Inn Fine Teas, Orange Vanilla Caffeine-free Fruit Infusion, 16-Ounce Pouch'
+
+[6036] LayoutTable ''
+
+[7165] StaticText 'Rating:'
+
+[7020] generic '95%'
+
+[7021] link '4 \xa0Reviews'
+
+[7023] StaticText '$19.36'
+
+[7027] button 'Add to Cart'
+
+[6043] link '\ue601 Add to Wish List'
+
+[6044] link '\ue61f Add to Compare'
+
+[6206] link 'Belle Of The Ball Princess Sprinkle Mix| Wedding Colorful Sprinkles| Cake Cupcake Cookie Sprinkles| Ice cream Candy Sprinkles| Yellow Gold Red Royal Red Rose Icing Flowers Decorating Sprinkles, 8OZ'
+
+[6049] LayoutTable ''
+
+[7179] StaticText 'Rating:'
+
+[7030] generic '63%'
+
+[7031] link '12 \xa0Reviews'
+
+[7033] StaticText '$23.50'
+
+[7037] button 'Add to Cart'
+
+[6056] link '\ue601 Add to Wish List'
+
+[6057] link '\ue61f Add to Compare'
+
+[6215] link 'So Delicious Dairy Free CocoWhip Light, Vegan, Non-GMO Project Verified, 9 oz. Tub'
+
+[6212] LayoutTable ''
+
+[7193] StaticText 'Rating:'
+
+[7040] generic '78%'
+
+[7041] link '12 \xa0Reviews'
+
+[7043] StaticText '$15.62'
+
+[7047] button 'Add to Cart'
+
+[7048] link '\ue601 Add to Wish List'
+
+[7049] link '\ue61f Add to Compare'
+
+[6074] link 'Image'
+
+[6226] img 'Image'
+
+[6227] link 'Cheongeun Sweet Potato Starch Powder 500g, 2ea(Sweet Potato 55%, Corn 45%)'
+
+[7052] StaticText '$34.00'
+
+[7056] button 'Add to Cart'
+
+[6083] link '\ue601 Add to Wish List'
+
+[6084] link '\ue61f Add to Compare'
+
+[6062] link 'Image'
+
+[6066] img 'Image'
+
+[6230] link 'Q Mixers Premium Ginger Ale: Real Ingredients & Less Sweet, 6.7 Fl Oz (24 Bottles)'
+
+[6095] LayoutTable ''
+
+[7217] StaticText 'Rating:'
+
+[7059] generic '88%'
+
+[7060] link '12 \xa0Reviews'
+
+[7062] StaticText '$68.50'
+
+[7066] button 'Add to Cart'
+
+[6102] link '\ue601 Add to Wish List'
+
+[6103] link '\ue61f Add to Compare'
+
+[6069] link 'Image'
+
+[6073] img 'Image'
+
+[6235] link 'Stove Top Turkey Stuffing Mix (12 oz Boxes, Pack of 2)'
+
+[6114] LayoutTable ''
+
+[7231] StaticText 'Rating:'
+
+[7069] generic '85%'
+
+[7070] link '12 \xa0Reviews'
+
+[7072] StaticText '$8.49'
+
+[7076] button 'Add to Cart'
+
+[6121] link '\ue601 Add to Wish List'
+
+[6122] link '\ue61f Add to Compare'
+
+[6089] link 'Image'
+
+[6093] img 'Image'
+
+[6240] link 'Briess DME - Pilsen Light - 1 lb Bag'
+
+[7079] StaticText '$12.99'
+
+[7083] button 'Add to Cart'
+
+[6133] link '\ue601 Add to Wish List'
+
+[6134] link '\ue61f Add to Compare'
+
+[6108] link 'Image'
+
+[6112] img 'Image'
+
+[6247] link "Tony Chachere's More Spice Creole Seasoning - 14 oz"
+
+[6244] LayoutTable ''
+
+[7252] StaticText 'Rating:'
+
+[7086] generic '75%'
+
+[7087] link '12 \xa0Reviews'
+
+[7089] StaticText '$7.92'
+
+[7093] button 'Add to Cart'
+
+[7094] link '\ue601 Add to Wish List'
+
+[7095] link '\ue61f Add to Compare'</pre><div>
+

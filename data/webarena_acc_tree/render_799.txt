@@ -1,0 +1,1048 @@
+[1] RootWebArea 'Projects · Dashboard · GitLab' focused: True
+
+[270] link 'Skip to content'
+
+[386] link 'Dashboard'
+
+[462] button '' hasPopup: menu expanded: False
+
+[13] textbox 'Search GitLab' required: False
+
+[1733] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[468] link 'Create new...'
+
+[470] link 'Issues'
+
+[1298] generic '13 assigned issues'
+
+[471] link 'Merge requests'
+
+[1300] generic '8 merge requests'
+
+[473] link 'To-Do List'
+
+[1316] generic 'Todos count'
+
+[1754] StaticText '5'
+
+[474] link 'Help'
+
+[476] link 'Byte Blaze'
+
+[1350] img 'Byte Blaze'
+
+[17] main ''
+
+[371] heading 'Projects'
+
+[374] link 'New project'
+
+[478] link 'Yours 18'
+
+[479] link 'Starred 3'
+
+[480] link 'Explore'
+
+[481] link 'Topics'
+
+[21] searchbox 'Filter by name'
+
+[438] button 'Name'
+
+[525] link 'All'
+
+[526] link 'Personal'
+
+[527] link 'A'
+
+[530] heading 'Byte Blaze / a11y-syntax-highlighting'
+
+[533] link 'Byte Blaze / a11y-syntax-highlighting'
+
+[531] generic 'Public - The project can be accessed without any authentication.'
+
+[539] StaticText 'Owner'
+
+[1406] generic 'lipstick'
+
+[1764] StaticText '💄'
+
+[1407] StaticText ' Accessible light and dark syntax highlighting themes'
+
+[551] link '1'
+
+[552] link '0'
+
+[553] link '0'
+
+[554] link '1'
+
+[563] StaticText 'Updated '
+
+[35] time 'Mar 27, 2023 7:22pm EDT'
+
+[564] StaticText '5 months ago'
+
+[565] link 'A'
+
+[568] heading 'Byte Blaze / a11y-webring.club'
+
+[571] link 'Byte Blaze / a11y-webring.club'
+
+[569] generic 'Public - The project can be accessed without any authentication.'
+
+[577] StaticText 'Owner'
+
+[1425] generic 'globe with meridians'
+
+[1765] StaticText '🌐'
+
+[1426] StaticText ' A webring for digital accessibility practitioners.'
+
+[589] link '2'
+
+[590] link '0'
+
+[591] link '1'
+
+[592] link '4'
+
+[601] StaticText 'Updated '
+
+[47] time 'Mar 27, 2023 7:22pm EDT'
+
+[602] StaticText '5 months ago'
+
+[603] link 'A'
+
+[606] heading 'The A11Y Project / a11yproject.com'
+
+[609] link 'The A11Y Project / a11yproject.com'
+
+[607] generic 'Public - The project can be accessed without any authentication.'
+
+[615] StaticText 'Maintainer'
+
+[1444] StaticText 'The A11Y Project is a community-driven effort to make digital accessibility easier.'
+
+[627] link '21'
+
+[628] link '0'
+
+[629] link '10'
+
+[630] link '40'
+
+[639] StaticText 'Updated '
+
+[59] time 'Mar 27, 2023 4:15pm EDT'
+
+[640] StaticText '5 months ago'
+
+[641] link 'A'
+
+[644] heading 'Byte Blaze / accessible-html-content-patterns'
+
+[647] link 'Byte Blaze / accessible-html-content-patterns'
+
+[645] generic 'Private - Project access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.'
+
+[653] StaticText 'Owner'
+
+[1462] generic 'wheelchair symbol'
+
+[1766] StaticText '♿'
+
+[1463] StaticText '️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.'
+
+[665] link '1'
+
+[666] link '0'
+
+[667] link '0'
+
+[668] link '0'
+
+[677] StaticText 'Updated '
+
+[71] time 'Mar 27, 2023 7:22pm EDT'
+
+[678] StaticText '5 months ago'
+
+[679] link ''
+
+[682] heading 'Byte Blaze / cloud-to-butt'
+
+[685] link 'Byte Blaze / cloud-to-butt'
+
+[683] generic 'Public - The project can be accessed without any authentication.'
+
+[691] StaticText 'Owner'
+
+[703] link '0'
+
+[704] link '0'
+
+[705] link '0'
+
+[706] link '0'
+
+[715] StaticText 'Updated '
+
+[83] time 'Mar 27, 2023 7:22pm EDT'
+
+[716] StaticText '5 months ago'
+
+[717] link 'D'
+
+[720] heading 'Primer / design'
+
+[723] link 'Primer / design'
+
+[721] generic 'Public - The project can be accessed without any authentication.'
+
+[729] StaticText 'Developer'
+
+[1498] StaticText 'Primer Design Guidelines'
+
+[741] link '21'
+
+[742] link '0'
+
+[743] link '16'
+
+[744] link '21'
+
+[753] StaticText 'Updated '
+
+[95] time 'Mar 27, 2023 5:04pm EDT'
+
+[754] StaticText '5 months ago'
+
+[755] link 'D'
+
+[757] heading 'Byte Blaze / Do it myself'
+
+[760] link 'Byte Blaze / Do it myself'
+
+[758] generic 'Public - The project can be accessed without any authentication.'
+
+[766] StaticText 'Owner'
+
+[777] link '0'
+
+[778] link '0'
+
+[779] link '0'
+
+[780] link '0'
+
+[789] StaticText 'Updated '
+
+[107] time 'Sep 7, 2023 12:59pm EDT'
+
+[790] StaticText '2 days ago'</pre><div>
+
+[374]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '374', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': "Let's think step-by-step. This page has a link to create a new project. I can click on that link to create a new project. In summary, the next action I will perform is ```click [374]```"}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [374] where [374] is [374] link 'New project'</pre></div></div>
+
+[1778] RootWebArea 'New Project · GitLab' focused: True
+
+[2006] link 'Skip to content'
+
+[2993] link 'Dashboard'
+
+[3061] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3250] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3067] link 'Create new...'
+
+[3069] link 'Issues'
+
+[3154] generic '13 assigned issues'
+
+[3070] link 'Merge requests'
+
+[3156] generic '8 merge requests'
+
+[3072] link 'To-Do List'
+
+[3172] generic 'Todos count'
+
+[3073] link 'Help'
+
+[3075] link 'Byte Blaze'
+
+[3206] img 'Byte Blaze'
+
+[1794] main ''
+
+[2107] heading 'Create new project'
+
+[2114] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[2118] heading 'Create blank project'
+
+[2122] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[2126] heading 'Create from template'
+
+[2130] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[2134] heading 'Import project'
+
+[2139] StaticText 'You can also create a project from the command line. '
+
+[2140] link 'Show command'</pre><div>
+
+[374] where [374] is link 'New project'</div>
+
+[3076]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3076', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the new project page of GitLab. The objective is to create a new group called "n-lab" with members patou, egpast, westurner, and jontutcher. I will click on the "Create new..." link to explore the options available. In summary, the next action I will perform is ```click [3076]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3076] where [3076] is No match found</pre></div></div>
+
+[1778] RootWebArea 'New Project · GitLab' focused: True
+
+[2006] link 'Skip to content'
+
+[2993] link 'Dashboard'
+
+[3061] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3250] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3067] link 'Create new...'
+
+[3069] link 'Issues'
+
+[3154] generic '13 assigned issues'
+
+[3070] link 'Merge requests'
+
+[3156] generic '8 merge requests'
+
+[3072] link 'To-Do List'
+
+[3172] generic 'Todos count'
+
+[3073] link 'Help'
+
+[3075] link 'Byte Blaze'
+
+[3206] img 'Byte Blaze'
+
+[1794] main ''
+
+[2107] heading 'Create new project'
+
+[2114] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[2118] heading 'Create blank project'
+
+[2122] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[2126] heading 'Create from template'
+
+[2130] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[2134] heading 'Import project'
+
+[2139] StaticText 'You can also create a project from the command line. '
+
+[2140] link 'Show command'</pre><div>
+
+[3076]" but no matching element found. Please check the observation more carefully.</div>
+
+[1778] RootWebArea 'New Project · GitLab' focused: True
+
+[2006] link 'Skip to content'
+
+[2993] link 'Dashboard'
+
+[3061] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3250] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3067] link 'Create new...'
+
+[3069] link 'Issues'
+
+[3154] generic '13 assigned issues'
+
+[3070] link 'Merge requests'
+
+[3156] generic '8 merge requests'
+
+[3072] link 'To-Do List'
+
+[3172] generic 'Todos count'
+
+[3073] link 'Help'
+
+[3075] link 'Byte Blaze'
+
+[3206] img 'Byte Blaze'
+
+[1794] main ''
+
+[2107] heading 'Create new project'
+
+[2114] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[2118] heading 'Create blank project'
+
+[2122] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[2126] heading 'Create from template'
+
+[2130] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[2134] heading 'Import project'
+
+[2139] StaticText 'You can also create a project from the command line. '
+
+[2140] link 'Show command'</pre><div>
+
+[1778] RootWebArea 'New Project · GitLab' focused: True
+
+[2006] link 'Skip to content'
+
+[2993] link 'Dashboard'
+
+[3061] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3250] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3067] link 'Create new...'
+
+[3069] link 'Issues'
+
+[3154] generic '13 assigned issues'
+
+[3070] link 'Merge requests'
+
+[3156] generic '8 merge requests'
+
+[3072] link 'To-Do List'
+
+[3172] generic 'Todos count'
+
+[3073] link 'Help'
+
+[3075] link 'Byte Blaze'
+
+[3206] img 'Byte Blaze'
+
+[1794] main ''
+
+[2107] heading 'Create new project'
+
+[2114] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[2118] heading 'Create blank project'
+
+[2122] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[2126] heading 'Create from template'
+
+[2130] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[2134] heading 'Import project'
+
+[2139] StaticText 'You can also create a project from the command line. '
+
+[2140] link 'Show command'</pre><div>
+
+[3067]`.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.NONE: 0>, 'coords': array([0., 0.], dtype=float32), 'element_role': 0, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. This page is the new project page on GitLab. I need to create a new group named "n-lab" and add members "patou, egpast, westurner, jontutcher". I will click on the "Create new..." button and then select the "Create blank project" option. Then, I will fill in the necessary information for creating the group and adding the members. In summary, the next action I will perform is `click [3067]`.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[1778] RootWebArea 'New Project · GitLab' focused: True
+
+[2006] link 'Skip to content'
+
+[2993] link 'Dashboard'
+
+[3061] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3250] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3067] link 'Create new...'
+
+[3069] link 'Issues'
+
+[3154] generic '13 assigned issues'
+
+[3070] link 'Merge requests'
+
+[3156] generic '8 merge requests'
+
+[3072] link 'To-Do List'
+
+[3172] generic 'Todos count'
+
+[3073] link 'Help'
+
+[3075] link 'Byte Blaze'
+
+[3206] img 'Byte Blaze'
+
+[1794] main ''
+
+[2107] heading 'Create new project'
+
+[2114] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[2118] heading 'Create blank project'
+
+[2122] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[2126] heading 'Create from template'
+
+[2130] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[2134] heading 'Import project'
+
+[2139] StaticText 'You can also create a project from the command line. '
+
+[2140] link 'Show command'</pre><div>
+
+[3067]`.". However, the format was incorrect. Ensure that the action is wrapped inside a pair of ``` and enclose arguments within [] as follows: ```action [arg] ...```.</div>
+
+[3067]```.</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3067', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'In summary, the next action I will perform is ```click [3067]```.'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3067] where [3067] is [3067] link 'Create new...'</pre></div></div>
+
+[1778] RootWebArea 'New Project · GitLab' focused: True
+
+[2006] link 'Skip to content'
+
+[2993] link 'Dashboard'
+
+[3061] button '' hasPopup: menu expanded: False
+
+[1790] textbox 'Search GitLab' required: False
+
+[3250] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3067] link 'Create new...' focused: True expanded: True describedby: gl-tooltip1
+
+[3291] link 'New project/repository'
+
+[3296] link 'New group'
+
+[3289] link 'New snippet'
+
+[3069] link 'Issues'
+
+[3154] generic '13 assigned issues'
+
+[3070] link 'Merge requests'
+
+[3156] generic '8 merge requests'
+
+[3072] link 'To-Do List'
+
+[3172] generic 'Todos count'
+
+[3073] link 'Help'
+
+[3075] link 'Byte Blaze'
+
+[3206] img 'Byte Blaze'
+
+[1794] main ''
+
+[2107] heading 'Create new project'
+
+[2114] link 'Create blank project Create a blank project to store your files, plan your work, and collaborate on code, among other things.'
+
+[2118] heading 'Create blank project'
+
+[2122] link 'Create from template Create a project pre-populated with the necessary files to get you started quickly.'
+
+[2126] heading 'Create from template'
+
+[2130] link 'Import project Migrate your data from an external source like GitHub, Bitbucket, or another instance of GitLab.'
+
+[2134] heading 'Import project'
+
+[2139] StaticText 'You can also create a project from the command line. '
+
+[2140] link 'Show command'
+
+[3299] tooltip 'Create new...'</pre><div>
+
+[3067] where [3067] is link 'Create new...'</div>
+
+[3296]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3296', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. We need to create a new group called "n-lab" with the following members: patou, egpast, westurner, and jontutcher. We can do this by clicking on the "Create new..." link and then selecting "New group" from the options. In summary, the next action I will perform is ```click [3296]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3296] where [3296] is [3296] link 'New group'</pre></div></div>
+
+[3308] RootWebArea 'New Group · GitLab' focused: True
+
+[3398] link 'Skip to content'
+
+[3714] link 'Dashboard'
+
+[3774] button '' hasPopup: menu expanded: False
+
+[3320] textbox 'Search GitLab' required: False
+
+[3963] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3780] link 'Create new...'
+
+[3782] link 'Issues'
+
+[3867] generic '13 assigned issues'
+
+[3783] link 'Merge requests'
+
+[3869] generic '8 merge requests'
+
+[3785] link 'To-Do List'
+
+[3885] generic 'Todos count'
+
+[3786] link 'Help'
+
+[3788] link 'Byte Blaze'
+
+[3919] img 'Byte Blaze'
+
+[3324] main ''
+
+[3498] heading 'Create new group'
+
+[3503] link 'Create group Assemble related projects together and grant members access to several projects at once.'
+
+[3507] heading 'Create group'
+
+[3511] link 'Import group Import a group and related data from another GitLab instance.'
+
+[3515] heading 'Import group'</pre><div>
+
+[3296] where [3296] is link 'New group'</div>
+
+[3503]```</pre></div><div class='action_object' style='background-color:grey'><pre>{'action_type': <ActionTypes.CLICK: 6>, 'coords': array([0., 0.], dtype=float32), 'element_role': 31, 'element_name': '', 'text': [], 'page_number': 0, 'url': '', 'nth': 0, 'pw_code': '', 'element_id': '3503', 'key_comb': '', 'direction': '', 'answer': '', 'raw_prediction': 'Let\'s think step-by-step. I need to create a new group called "n-lab" and add members "patou", "egpast", "westurner", and "jontutcher". \n\nLooking at the current page, I can see a heading \'Create new group\' and a link \'Create group\' underneath it. I should click on the \'Create group\' link to proceed with creating a new group. In summary, the next action I will perform is ```click [3503]```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>click [3503] where [3503] is [3503] link 'Create group Assemble related projects together and grant members access to several projects at once.'</pre></div></div>
+
+[3308] RootWebArea 'New Group · GitLab' focused: True
+
+[3398] link 'Skip to content'
+
+[3714] link 'Dashboard'
+
+[3774] button '' hasPopup: menu expanded: False
+
+[3320] textbox 'Search GitLab' required: False
+
+[3963] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3780] link 'Create new...'
+
+[3782] link 'Issues'
+
+[3867] generic '13 assigned issues'
+
+[3783] link 'Merge requests'
+
+[3869] generic '8 merge requests'
+
+[3785] link 'To-Do List'
+
+[3885] generic 'Todos count'
+
+[3786] link 'Help'
+
+[3788] link 'Byte Blaze'
+
+[3919] img 'Byte Blaze'
+
+[3324] main ''
+
+[4041] heading 'Create group'
+
+[4049] link 'Groups'
+
+[4050] StaticText ' allow you to manage and collaborate across multiple projects. Members of a group have access to all of its projects.'
+
+[4051] StaticText 'Groups can also be nested by creating '
+
+[4052] link 'subgroups'
+
+[4055] status '' live: polite atomic: True relevant: additions text
+
+[4069] heading "You're creating a new top-level group"
+
+[4080] StaticText 'Members, projects, trials, and paid subscriptions are tied to a specific top-level group. If you are already a member of a top-level group, you can create a subgroup so your new work is part of your existing top-level group. Do you want to create a subgroup instead?'
+
+[4081] link 'Learn more about subgroups'
+
+[4056] button 'Dismiss'
+
+[4044] navigation 'Breadcrumb'
+
+[4087] link 'New group'
+
+[4088] link 'Create group'
+
+[4007] group ''
+
+[4110] StaticText 'Group name'
+
+[4009] textbox 'Group name' required: True describedby: __BVID__4__BV_description_
+
+[4113] StaticText 'Must start with letter, digit, emoji, or underscore. Can also contain periods, dashes, spaces, and parentheses.'
+
+[4011] group ''
+
+[4117] StaticText 'Group URL'
+
+[4013] group ''
+
+[4161] StaticText 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/'
+
+[4014] textbox 'Group URL' required: True
+
+[4121] StaticText 'Visibility level'
+
+[4122] StaticText 'Who will be able to see this group? '
+
+[4123] link 'View the documentation'
+
+[4019] radio ' Private The group and its projects can only be viewed by members.' checked: false
+
+[4021] radio ' Internal The group and any internal projects can be viewed by any logged in user except external users.' checked: false
+
+[4023] radio ' Public The group and any public projects can be viewed without any authentication.' checked: true
+
+[4128] StaticText 'Now, personalize your GitLab experience'</pre><div>
+
+[3503] where [3503] is link 'Create group Assemble related projects together and grant members access to several projects at once.'</div>
+
+[4009] and the group URL field has an ID of [4014]. We also need to select the visibility level. The public visibility level is already selected by default. Finally, we need to personalize the GitLab experience, which can be done by clicking on the "Dismiss" button with ID [4056]. I will perform these actions one by one.
+
+[4009] [n-lab]
+
+[4014] [http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/n-lab]
+
+[4056]
+
+[4009] and the group URL field has an ID of [4014]. We also need to select the visibility level. The public visibility level is already selected by default. Finally, we need to personalize the GitLab experience, which can be done by clicking on the "Dismiss" button with ID [4056]. I will perform these actions one by one.\n\nIn summary, the next action I will perform is:\n```\n1. type [4009] [n-lab]\n2. type [4014] [http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/n-lab]\n3. click [4056]\n```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[3308] RootWebArea 'New Group · GitLab' focused: True
+
+[3398] link 'Skip to content'
+
+[3714] link 'Dashboard'
+
+[3774] button '' hasPopup: menu expanded: False
+
+[3320] textbox 'Search GitLab' required: False
+
+[3963] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3780] link 'Create new...'
+
+[3782] link 'Issues'
+
+[3867] generic '13 assigned issues'
+
+[3783] link 'Merge requests'
+
+[3869] generic '8 merge requests'
+
+[3785] link 'To-Do List'
+
+[3885] generic 'Todos count'
+
+[3786] link 'Help'
+
+[3788] link 'Byte Blaze'
+
+[3919] img 'Byte Blaze'
+
+[3324] main ''
+
+[4041] heading 'Create group'
+
+[4049] link 'Groups'
+
+[4050] StaticText ' allow you to manage and collaborate across multiple projects. Members of a group have access to all of its projects.'
+
+[4051] StaticText 'Groups can also be nested by creating '
+
+[4052] link 'subgroups'
+
+[4055] status '' live: polite atomic: True relevant: additions text
+
+[4069] heading "You're creating a new top-level group"
+
+[4080] StaticText 'Members, projects, trials, and paid subscriptions are tied to a specific top-level group. If you are already a member of a top-level group, you can create a subgroup so your new work is part of your existing top-level group. Do you want to create a subgroup instead?'
+
+[4081] link 'Learn more about subgroups'
+
+[4056] button 'Dismiss'
+
+[4044] navigation 'Breadcrumb'
+
+[4087] link 'New group'
+
+[4088] link 'Create group'
+
+[4007] group ''
+
+[4110] StaticText 'Group name'
+
+[4009] textbox 'Group name' required: True describedby: __BVID__4__BV_description_
+
+[4113] StaticText 'Must start with letter, digit, emoji, or underscore. Can also contain periods, dashes, spaces, and parentheses.'
+
+[4011] group ''
+
+[4117] StaticText 'Group URL'
+
+[4013] group ''
+
+[4161] StaticText 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/'
+
+[4014] textbox 'Group URL' required: True
+
+[4121] StaticText 'Visibility level'
+
+[4122] StaticText 'Who will be able to see this group? '
+
+[4123] link 'View the documentation'
+
+[4019] radio ' Private The group and its projects can only be viewed by members.' checked: false
+
+[4021] radio ' Internal The group and any internal projects can be viewed by any logged in user except external users.' checked: false
+
+[4023] radio ' Public The group and any public projects can be viewed without any authentication.' checked: true
+
+[4128] StaticText 'Now, personalize your GitLab experience'</pre><div>
+
+[4009] and the group URL field has an ID of [4014]. We also need to select the visibility level. The public visibility level is already selected by default. Finally, we need to personalize the GitLab experience, which can be done by clicking on the "Dismiss" button with ID [4056]. I will perform these actions one by one.
+
+[4009] [n-lab]
+
+[4014] [http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/n-lab]
+
+[4056]
+
+[4009] [n-lab]
+
+[4014] [http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/n-lab]
+
+[4056]
+
+[4009] [n-lab]\n2. type [4014] [http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/n-lab]\n3. click [4056]\n```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[3308] RootWebArea 'New Group · GitLab' focused: True
+
+[3398] link 'Skip to content'
+
+[3714] link 'Dashboard'
+
+[3774] button '' hasPopup: menu expanded: False
+
+[3320] textbox 'Search GitLab' required: False
+
+[3963] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3780] link 'Create new...'
+
+[3782] link 'Issues'
+
+[3867] generic '13 assigned issues'
+
+[3783] link 'Merge requests'
+
+[3869] generic '8 merge requests'
+
+[3785] link 'To-Do List'
+
+[3885] generic 'Todos count'
+
+[3786] link 'Help'
+
+[3788] link 'Byte Blaze'
+
+[3919] img 'Byte Blaze'
+
+[3324] main ''
+
+[4041] heading 'Create group'
+
+[4049] link 'Groups'
+
+[4050] StaticText ' allow you to manage and collaborate across multiple projects. Members of a group have access to all of its projects.'
+
+[4051] StaticText 'Groups can also be nested by creating '
+
+[4052] link 'subgroups'
+
+[4055] status '' live: polite atomic: True relevant: additions text
+
+[4069] heading "You're creating a new top-level group"
+
+[4080] StaticText 'Members, projects, trials, and paid subscriptions are tied to a specific top-level group. If you are already a member of a top-level group, you can create a subgroup so your new work is part of your existing top-level group. Do you want to create a subgroup instead?'
+
+[4081] link 'Learn more about subgroups'
+
+[4056] button 'Dismiss'
+
+[4044] navigation 'Breadcrumb'
+
+[4087] link 'New group'
+
+[4088] link 'Create group'
+
+[4007] group ''
+
+[4110] StaticText 'Group name'
+
+[4009] textbox 'Group name' required: True describedby: __BVID__4__BV_description_
+
+[4113] StaticText 'Must start with letter, digit, emoji, or underscore. Can also contain periods, dashes, spaces, and parentheses.'
+
+[4011] group ''
+
+[4117] StaticText 'Group URL'
+
+[4013] group ''
+
+[4161] StaticText 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/'
+
+[4014] textbox 'Group URL' required: True
+
+[4121] StaticText 'Visibility level'
+
+[4122] StaticText 'Who will be able to see this group? '
+
+[4123] link 'View the documentation'
+
+[4019] radio ' Private The group and its projects can only be viewed by members.' checked: false
+
+[4021] radio ' Internal The group and any internal projects can be viewed by any logged in user except external users.' checked: false
+
+[4023] radio ' Public The group and any public projects can be viewed without any authentication.' checked: true
+
+[4128] StaticText 'Now, personalize your GitLab experience'</pre><div>
+
+[4009] [n-lab]
+
+[4014] [http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/n-lab]
+
+[4056]
+
+[4009] [n-lab]
+
+[4014] [http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/n-lab]
+
+[4056]
+
+[4009] [n-lab]\n2. type [4014] [http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/n-lab]\n3. click [4056]\n```'}</pre></div><div class='parsed_action' style='background-color:yellow'><pre>none</pre></div></div>
+
+[3308] RootWebArea 'New Group · GitLab' focused: True
+
+[3398] link 'Skip to content'
+
+[3714] link 'Dashboard'
+
+[3774] button '' hasPopup: menu expanded: False
+
+[3320] textbox 'Search GitLab' required: False
+
+[3963] generic 'Use the shortcut key <kbd>/</kbd> to start a search'
+
+[3780] link 'Create new...'
+
+[3782] link 'Issues'
+
+[3867] generic '13 assigned issues'
+
+[3783] link 'Merge requests'
+
+[3869] generic '8 merge requests'
+
+[3785] link 'To-Do List'
+
+[3885] generic 'Todos count'
+
+[3786] link 'Help'
+
+[3788] link 'Byte Blaze'
+
+[3919] img 'Byte Blaze'
+
+[3324] main ''
+
+[4041] heading 'Create group'
+
+[4049] link 'Groups'
+
+[4050] StaticText ' allow you to manage and collaborate across multiple projects. Members of a group have access to all of its projects.'
+
+[4051] StaticText 'Groups can also be nested by creating '
+
+[4052] link 'subgroups'
+
+[4055] status '' live: polite atomic: True relevant: additions text
+
+[4069] heading "You're creating a new top-level group"
+
+[4080] StaticText 'Members, projects, trials, and paid subscriptions are tied to a specific top-level group. If you are already a member of a top-level group, you can create a subgroup so your new work is part of your existing top-level group. Do you want to create a subgroup instead?'
+
+[4081] link 'Learn more about subgroups'
+
+[4056] button 'Dismiss'
+
+[4044] navigation 'Breadcrumb'
+
+[4087] link 'New group'
+
+[4088] link 'Create group'
+
+[4007] group ''
+
+[4110] StaticText 'Group name'
+
+[4009] textbox 'Group name' required: True describedby: __BVID__4__BV_description_
+
+[4113] StaticText 'Must start with letter, digit, emoji, or underscore. Can also contain periods, dashes, spaces, and parentheses.'
+
+[4011] group ''
+
+[4117] StaticText 'Group URL'
+
+[4013] group ''
+
+[4161] StaticText 'http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/'
+
+[4014] textbox 'Group URL' required: True
+
+[4121] StaticText 'Visibility level'
+
+[4122] StaticText 'Who will be able to see this group? '
+
+[4123] link 'View the documentation'
+
+[4019] radio ' Private The group and its projects can only be viewed by members.' checked: false
+
+[4021] radio ' Internal The group and any internal projects can be viewed by any logged in user except external users.' checked: false
+
+[4023] radio ' Public The group and any public projects can be viewed without any authentication.' checked: true
+
+[4128] StaticText 'Now, personalize your GitLab experience'</pre><div>
+
+[4009] [n-lab]
+
+[4014] [http://ec2-3-135-39-80.us-east-2.compute.amazonaws.com:8023/n-lab]
+
+[4056]
+
