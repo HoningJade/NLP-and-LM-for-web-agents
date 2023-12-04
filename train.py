@@ -122,3 +122,4 @@ if __name__ == "__main__":
 	    train_dataset=combined_balanced_dataset,  # Combined balanced dataset
 	    eval_dataset=tokenized_val_dataset,        # Validation dataset
 	)
+        trainer.train()
