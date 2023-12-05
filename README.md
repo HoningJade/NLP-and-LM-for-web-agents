@@ -16,6 +16,17 @@ tensorboard --log_dir deberta_results
 ```
 
 
+## Inferencing ColBERT for Mind2Web
+
+```
+# Clone ColBERT repo on a device with GPU
+git clone https://github.com/stanford-futuredata/ColBERT.git
+
+# run the mind2web_recalls.py inside the ColBERT repo
+python mind2web_recalls.py
+
+```
+
 ## Reproducing WebArena Baseline Results
 Follow the [official WebArena instructions](https://github.com/web-arena-x/webarena#quick-walkthrough) in setting up the environment.
 
@@ -43,4 +54,3 @@ bash launch_llama70b_server.sh
 ```
 
 After the server is running, we can make POST requests to it, as per the instructions in [lti-llm-deployment](https://github.com/neulab/lti-llm-deployment/tree/main#example-api-usage).
-
