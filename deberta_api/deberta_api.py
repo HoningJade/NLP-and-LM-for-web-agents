@@ -2,23 +2,24 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from typing import List, Tuple
 import torch
-from transformers import T5Tokenizer, T5ForSequenceClassification
+from transformers import DebertaTokenizer, DebertaForSequenceClassification
 import gc
+import time
 
 app = FastAPI()
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
-tokenizer = T5Tokenizer.from_pretrained('t5-base')
-model = T5ForSequenceClassification.from_pretrained('t5-base').to(device)
+
+tokenizer = DebertaTokenizer.from_pretrained('microsoft/deberta-base')
+ckpt_dir = 'MoonquakesKK/deberta-checkpoint-4000'
+model = DebertaForSequenceClassification.from_pretrained(ckpt_dir).to(device)
 
 class FilterRequest(BaseModel):
     html_page: str
     objective: str
 
 class FilterResponse(BaseModel):
-    results: List[Tuple[int, List[str]]]
-
-    
+    results: List[str]
 
 def tokenize_function(text):
     return tokenizer(text, padding='max_length', return_tensors='pt', truncation=True)
@@ -26,12 +27,13 @@ def tokenize_function(text):
 @app.post("/filter", response_model=FilterResponse)
 async def filter_page(request: FilterRequest, top_k = 50, batch_size = 32):
     try:
+        # start_time = time.time()
         with torch.no_grad():
             elements = [el.strip() for el in request.html_page.split('\n')]
             elements = [el for el in elements if el]
             prompts = [f'Objective: {request.objective}.\nElement: {element}' for element in elements]
             positive_logits = None
-        
+
             for j in range(0, len(prompts), batch_size):
                 ex = tokenize_function(prompts[j:j+batch_size]).to(device)
                 out = model(**ex)
@@ -40,11 +42,14 @@ async def filter_page(request: FilterRequest, top_k = 50, batch_size = 32):
                 del cur, out, ex
                 gc.collect()
                 torch.cuda.empty_cache()
+                # print(f"Batch time: {time.time() - start_time} seconds")
         
             top_k_indices = sorted(range(len(positive_logits)), key=lambda i: positive_logits[i], reverse=True)[:top_k]
             top_k_labels = [elements[i] for i in top_k_indices]
+            print(top_k_labels)
+            # print(f"Total processing time: {time.time() - start_time} seconds")
         
-            return FilterResponse(results=results)
+            return FilterResponse(results=top_k_labels)
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"An error occurred: {str(e)}")
 
