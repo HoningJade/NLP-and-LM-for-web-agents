@@ -21,7 +21,7 @@ class SearchRequest(BaseModel):
     k: int = 50
 
 class SearchResult(BaseModel):
-    passages: List[str]
+    passages: List[tuple]
 
 nbits = 2  # encode each dimension with 2 bits
 doc_maxlen = 300  # truncate passages at 300 tokens
@@ -55,3 +55,4 @@ async def search(request: SearchRequest):
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=5001)
+
