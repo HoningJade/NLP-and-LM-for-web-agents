@@ -50,9 +50,6 @@ if __name__ == "__main__":
     # df = pd.read_csv("preprocessed_mind2web.csv")
     # output_csv = "search_results.csv"
     url = "http://0.0.0.0:5001/search"
-    
-
-
    
     ## mind2web
     index_file = "mind2web_last_processed_index.txt"
