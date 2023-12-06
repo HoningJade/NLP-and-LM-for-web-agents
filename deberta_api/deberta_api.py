@@ -18,11 +18,13 @@ class FilterRequest(BaseModel):
 class FilterResponse(BaseModel):
     results: List[Tuple[int, List[str]]]
 
+    
+
 def tokenize_function(text):
     return tokenizer(text, padding='max_length', return_tensors='pt', truncation=True)
 
 @app.post("/filter", response_model=FilterResponse)
-async def filter_page(request: FilterRequest, top_k = 50):
+async def filter_page(request: FilterRequest, top_k = 50, batch_size = 32):
     try:
         with torch.no_grad():
             elements = [el.strip() for el in request.html_page.split('\n')]
