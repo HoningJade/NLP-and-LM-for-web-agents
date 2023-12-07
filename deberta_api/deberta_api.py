@@ -5,6 +5,7 @@ import torch
 from transformers import DebertaTokenizer, DebertaForSequenceClassification
 import gc
 import time
+import math
 
 app = FastAPI()
 
@@ -25,12 +26,13 @@ def tokenize_function(text):
     return tokenizer(text, padding='max_length', return_tensors='pt', truncation=True)
 
 @app.post("/filter", response_model=FilterResponse)
-async def filter_page(request: FilterRequest, top_k = 50, batch_size = 32):
+async def filter_page(request: FilterRequest, batch_size = 32):
     try:
         # start_time = time.time()
         with torch.no_grad():
             elements = [el.strip() for el in request.html_page.split('\n')]
             elements = [el for el in elements if el]
+            top_k = math.ceil(len(elements)/2)
             prompts = [f'Objective: {request.objective}.\nElement: {element}' for element in elements]
             positive_logits = None
 
