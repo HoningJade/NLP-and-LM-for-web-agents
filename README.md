@@ -16,6 +16,23 @@ tensorboard --log_dir deberta_results
 ```
 
 
+
+## Integrating WebArena with DeBERTa
+
+First, make sure to clone WebArena Repo and set up as the instruction goes. Then replace the `run.py` with the `run.py` in the `deberta_api` directory. 
+
+```
+# Installing relevant dependencies of fastAPI and host the deberta API on a machine with GPU
+./start_api.sh
+
+# Try running python deberta_inference.py to test if the api works.
+python deberta_inference.py
+
+# Run tests on WebArena + DeBERTa with a sampled list of tasks on the following script
+./parallel_run.sh
+```
+
+
 ## Inferencing ColBERT for Mind2Web
 
 ```
