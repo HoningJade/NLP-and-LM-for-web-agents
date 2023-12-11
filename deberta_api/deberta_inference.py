@@ -16,7 +16,7 @@ def call_filter_api(url, html_page, objective):
 
 if __name__ == "__main__":
     # URL of the FastAPI endpoint
-    api_url = "http://localhost:8001/filter"
+    api_url = "http://localhost:8002/filter"
     
     # Example HTML content and objective
     # read 

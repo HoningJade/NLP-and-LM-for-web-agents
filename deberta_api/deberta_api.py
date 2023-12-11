@@ -57,4 +57,4 @@ async def filter_page(request: FilterRequest, batch_size = 32):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8001)
+    uvicorn.run(app, host="0.0.0.0", port=8003)
