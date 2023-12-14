@@ -7,11 +7,10 @@ import gc
 import time
 import math
 import nltk
+
 nltk.download('punkt', quiet=True)
 
-
 app = FastAPI()
-
 
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
